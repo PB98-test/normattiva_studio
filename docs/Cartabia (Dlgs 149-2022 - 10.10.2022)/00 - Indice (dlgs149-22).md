@@ -14,7 +14,6 @@ aliases:
 
 #### Capo II - Modifiche al codice di procedura civile e alle disposizioni per l'attuazione del codice di procedura civile e disposizioni transitorie
 - [Art. 3](02%20-%20Capo%20II%20-%20Modifiche%20al%20codice%20di%20procedura%20civile%20e%20alle%20disposizioni%20per%20l'attu/art-3-dlgs149-22.md) — Modifiche al codice di procedura civile
-- [Art. 3 note](02%20-%20Capo%20II%20-%20Modifiche%20al%20codice%20di%20procedura%20civile%20e%20alle%20disposizioni%20per%20l'attu/art-3%20note-dlgs149-22.md)
 - [Art. 4](02%20-%20Capo%20II%20-%20Modifiche%20al%20codice%20di%20procedura%20civile%20e%20alle%20disposizioni%20per%20l'attu/art-4-dlgs149-22.md) — Modifiche alle disposizioni per l'attuazione del codice di procedura civile e disposizioni transitorie
 
 #### Capo III - Modifiche al codice penale, al codice di procedura penale e alle norme di attuazione, di coordinamento e transitorie del codice di procedura penale

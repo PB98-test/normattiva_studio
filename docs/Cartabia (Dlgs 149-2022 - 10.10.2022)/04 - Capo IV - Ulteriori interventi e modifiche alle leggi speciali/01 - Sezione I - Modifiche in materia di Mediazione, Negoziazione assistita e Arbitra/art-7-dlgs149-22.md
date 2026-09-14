@@ -15,7 +15,7 @@ sezione: "I"
 sezione_label: "Modifiche in materia di Mediazione, Negoziazione assistita e Arbitrato"
 rubrica: "Modifiche al decreto legislativo 4 marzo 2010, n. 28"
 dataVigenza: "20260914"
-ordine: 8
+ordine: 7
 ---
 
 # Art. 7 - ***Modifiche al decreto legislativo 4 marzo 2010, n. 28***

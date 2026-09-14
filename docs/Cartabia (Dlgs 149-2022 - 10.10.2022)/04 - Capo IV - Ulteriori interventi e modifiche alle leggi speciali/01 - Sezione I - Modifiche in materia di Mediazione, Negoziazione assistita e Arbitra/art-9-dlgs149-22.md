@@ -15,7 +15,7 @@ sezione: "I"
 sezione_label: "Modifiche in materia di Mediazione, Negoziazione assistita e Arbitrato"
 rubrica: "Modifiche al decreto-legge 12 settembre 2014, n. 132, convertito, con modificazioni, dalla legge 10 novembre 2014, n. 162"
 dataVigenza: "20260914"
-ordine: 10
+ordine: 9
 ---
 
 # Art. 9 - ***Modifiche al decreto-legge 12 settembre 2014, n. 132, convertito, con modificazioni, dalla legge 10 novembre 2014, n. 162***

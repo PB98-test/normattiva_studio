@@ -15,7 +15,7 @@ sezione: null
 sezione_label: null
 rubrica: "Modifiche alle disposizioni per l'attuazione del codice di procedura civile e disposizioni transitorie"
 dataVigenza: "20260914"
-ordine: 5
+ordine: 4
 ---
 
 # Art. 4 - ***Modifiche alle disposizioni per l'attuazione del codice di procedura civile e disposizioni transitorie***

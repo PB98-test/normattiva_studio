@@ -15,7 +15,7 @@ sezione: null
 sezione_label: null
 rubrica: "Modifiche al codice penale e al codice di procedura penale"
 dataVigenza: "20260914"
-ordine: 6
+ordine: 5
 ---
 
 # Art. 5 - ***Modifiche al codice penale e al codice di procedura penale***

@@ -15,7 +15,7 @@ sezione: null
 sezione_label: null
 rubrica: "Modifiche alle norme di attuazione, di coordinamento e transitorie del codice di procedura penale"
 dataVigenza: "20260914"
-ordine: 7
+ordine: 6
 ---
 
 # Art. 6 - ***Modifiche alle norme di attuazione, di coordinamento e transitorie del codice di procedura penale***

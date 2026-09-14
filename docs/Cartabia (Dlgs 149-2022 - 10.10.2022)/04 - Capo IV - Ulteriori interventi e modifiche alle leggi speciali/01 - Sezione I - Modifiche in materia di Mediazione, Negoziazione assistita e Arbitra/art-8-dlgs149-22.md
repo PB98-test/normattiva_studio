@@ -15,7 +15,7 @@ sezione: "I"
 sezione_label: "Modifiche in materia di Mediazione, Negoziazione assistita e Arbitrato"
 rubrica: "Modifiche alla legge 14 gennaio 1994, n. 20"
 dataVigenza: "20260914"
-ordine: 9
+ordine: 8
 ---
 
 # Art. 8 - ***Modifiche alla legge 14 gennaio 1994, n. 20***
