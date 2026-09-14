@@ -1,0 +1,25 @@
+---
+type: "Articolo di legge"
+title: "Art. 482 - Diritto delle parti in ordine alla documentazione"
+articolo: "Art. 482"
+codice: cpp
+aliases:
+  - "art-482-cpp"
+libro: "VII"
+libro_label: "GIUDIZIO"
+titolo: "II"
+titolo_label: "DIBATTIMENTO"
+capo: "I"
+capo_label: "DISPOSIZIONI GENERALI"
+sezione: null
+sezione_label: null
+rubrica: "Diritto delle parti in ordine alla documentazione"
+dataVigenza: "20260914"
+ordine: 587
+---
+
+# Art. 482 - ***Diritto delle parti in ordine alla documentazione***
+
+1. Le parti hanno diritto di fare inserire nel verbale, entro i limiti strettamente necessari, ogni dichiarazione a cui abbiano interesse, purchè non contraria alla legge. Le memorie scritte presentate dalle parti a sostegno delle proprie richieste e conclusioni sono allegate al verbale.
+
+2. Il presidente può disporre, anche di ufficio, che l'ausiliario dia lettura di singole parti del verbale al fine di verificarne la fedeltà e la completezza. Sulla domanda di rettificazione o di cancellazione nonchè sulle questioni relative a quanto previsto dal comma 1, il presidente decide con ordinanza.

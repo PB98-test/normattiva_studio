@@ -1,0 +1,27 @@
+---
+type: "Articolo di legge"
+title: "Art. 984 - Frutti"
+articolo: "Art. 984"
+codice: cc
+aliases:
+  - "art-984-cc"
+libro: "III"
+libro_label: "DELLA PROPRIETÀ"
+titolo: "V"
+titolo_label: "DELL'USUFRUTTO, DELL'USO E DELL'ABITAZIONE"
+capo: "I"
+capo_label: "Dell'usufrutto"
+sezione: "II"
+sezione_label: "Dei diritti nascenti dall'usufrutto"
+rubrica: "Frutti"
+dataVigenza: "20260914"
+ordine: 1079
+---
+
+# Art. 984 - ***Frutti***
+
+I frutti naturali e i frutti civili spettano all'usufruttuario per la durata del suo diritto.
+
+Se il proprietario e l'usufruttuario si succedono nel godimento della cosa entro l'anno agrario o nel corso di un periodo produttivo di maggiore durata, l'insieme di tutti i frutti si ripartisce fra l'uno e l'altro in proporzione della durata del rispettivo diritto nel periodo stesso.
+
+Le spese per la produzione e il raccolto sono a carico del proprietario e dell'usufruttuario nella proporzione indicata dal comma precedente ed entro i limiti del valore dei frutti.

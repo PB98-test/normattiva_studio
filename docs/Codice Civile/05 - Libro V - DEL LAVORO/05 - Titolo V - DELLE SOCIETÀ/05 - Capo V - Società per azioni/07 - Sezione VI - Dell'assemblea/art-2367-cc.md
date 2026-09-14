@@ -1,0 +1,27 @@
+---
+type: "Articolo di legge"
+title: "Art. 2367 - Convocazione su richiesta di soci"
+articolo: "Art. 2367"
+codice: cc
+aliases:
+  - "art-2367-cc"
+libro: "V"
+libro_label: "DEL LAVORO"
+titolo: "V"
+titolo_label: "DELLE SOCIETÀ"
+capo: "V"
+capo_label: "Società per azioni"
+sezione: "VI"
+sezione_label: "Dell'assemblea"
+rubrica: "Convocazione su richiesta di soci"
+dataVigenza: "20260914"
+ordine: 2506
+---
+
+# Art. 2367 - ***Convocazione su richiesta di soci***
+
+Gli amministratori o il consiglio di gestione devono convocare senza ritardo l'assemblea, quando ne è fatta domanda da tanti soci che rappresentino almeno il ventesimo del capitale sociale nelle società che fanno ricorso al mercato del capitale di rischio e il decimo del capitale sociale nelle altre o la minore percentuale prevista nello statuto, e nella domanda sono indicati gli argomenti da trattare.
+
+Se gli amministratori o il consiglio di gestione, oppure in loro vece i sindaci o il consiglio di sorveglianza o il comitato per il controllo sulla gestione, non provvedono, il tribunale, sentiti i componenti degli organi amministrativi e di controllo, ove il rifiuto di provvedere risulti ingiustificato, ordina con decreto la convocazione dell'assemblea, designando la persona che deve presiederla.
+
+La convocazione su richiesta di soci non è ammessa per argomenti sui quali l'assemblea delibera, a norma di legge, su proposta degli amministratori o sulla base di un progetto o di una relazione da essi predisposta.

@@ -1,0 +1,64 @@
+---
+type: "Articolo di legge"
+title: "Art. 293 - Adempimenti esecutivi"
+articolo: "Art. 293"
+codice: cpp
+aliases:
+  - "art-293-cpp"
+libro: "IV"
+libro_label: "MISURE CAUTELARI"
+titolo: "I"
+titolo_label: "MISURE CAUTELARI PERSONALI"
+capo: "IV"
+capo_label: "FORMA ED ESECUZIONE DEI PROVVEDIMENTI"
+sezione: null
+sezione_label: null
+rubrica: "Adempimenti esecutivi"
+dataVigenza: "20260914"
+ordine: 351
+---
+
+# Art. 293 - ***Adempimenti esecutivi***
+
+1. Salvo quanto previsto dall'[articolo 156](../../../02%20-%20Libro%20II%20-%20ATTI/05%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-156-cpp.md), l'ufficiale o l'agente incaricato di eseguire l'ordinanza che ha disposto la custodia cautelare consegna all'imputato copia del provvedimento unitamente a una comunicazione scritta, redatta in forma chiara e precisa e, per l'imputato che non conosce la lingua italiana, tradotta in una lingua a lui comprensibile, con cui lo informa:
+
+- a) della facoltà di nominare un difensore di fiducia e di essere ammesso al patrocinio a spese dello Stato nei casi previsti dalla legge;
+- b) del diritto di ottenere informazioni in merito all'accusa;
+- c) del diritto all'interprete ed alla traduzione di atti fondamentali;
+- d) del diritto di avvalersi della facoltà di non rispondere;
+- e) del diritto di accedere agli atti sui quali si fonda il provvedimento;
+- f) del diritto di informare le autorità consolari e di dare avviso a un familiare o ad altra persona di fiducia;
+- g) del diritto di accedere all'assistenza medica di urgenza;
+- h) del diritto di essere condotto davanti all'autorità giudiziaria non oltre cinque giorni dall'inizio dell'esecuzione, se la misura applicata è quella della custodia cautelare in carcere ovvero non oltre dieci giorni se la persona è sottoposta ad altra misura cautelare;
+- i) del diritto di comparire dinanzi al giudice per rendere l'interrogatorio, di impugnare l'ordinanza che dispone la misura cautelare e di richiederne la sostituzione o la revoca;
+- i-bis) della facoltà di accedere ai programmi di giustizia riparativa.
+
+1-bis. Qualora la comunicazione scritta di cui al comma 1 non sia prontamente disponibile in una lingua comprensibile all'imputato, le informazioni sono fornite oralmente, salvo l'obbligo di dare comunque, senza ritardo, comunicazione scritta all'imputato.
+
+1-ter. L'ufficiale o l'agente incaricato di eseguire l'ordinanza informa immediatamente il difensore di fiducia eventualmente nominato ovvero quello di ufficio designato a norma dell'[articolo 97](../../../01%20-%20Libro%20I%20-%20SOGGETTI/07%20-%20Titolo%20VII%20-%20DIFENSORE/art-97-cpp.md) e redige verbale di tutte le operazioni compiute, facendo menzione della consegna della comunicazione di cui al comma 1 o dell'informazione orale fornita ai sensi del comma 1-bis. Il verbale è immediatamente trasmesso al giudice che ha emesso l'ordinanza e al pubblico ministero.
+
+1-quater. L'ufficiale o l'agente incaricato di eseguire l'ordinanza il quale, nel corso dell'esecuzione, rilevi la sussistenza di una delle ipotesi di cui all'[articolo 275](../01%20-%20Capo%20I%20-%20DISPOSIZIONI%20GENERALI/art-275-cpp.md), comma 4, deve darne atto nel verbale di cui al comma 1-ter del presente articolo. In questo caso il verbale è trasmesso al giudice prima dell'ingresso della persona sottoposta alla misura nell'istituto di pena.
+
+1-quinquies. Nei casi di cui al comma 1-quater, il giudice può disporre la sostituzione della misura cautelare con altra meno grave o la sua esecuzione con le modalità di cui all'[articolo 285-bis](../02%20-%20Capo%20II%20-%20MISURE%20COERCITIVE/art-285-bis-cpp.md) anche prima dell'ingresso della persona sottoposta alla misura nell'istituto di pena.
+
+2. Le ordinanze che dispongono misure diverse dalla custodia cautelare sono notificate all'imputato.
+
+3. Le ordinanze previste dai commi 1 e 2, dopo la loro notificazione o esecuzione, sono depositate nella cancelleria del giudice che le ha emesse insieme alla richiesta del pubblico ministero e agli atti presentati con la stessa. Avviso del deposito è notificato al difensore. Il difensore ha diritto di esaminare e di estrarre copia dei verbali delle comunicazioni e conversazioni intercettate di cui all'[articolo 291](art-291-cpp.md), comma 1. Ha in ogni caso diritto alla trasposizione, su supporto idoneo alla riproduzione dei dati, delle relative registrazioni. [^agg-83] [^agg-253] [^agg-260] [^agg-263] [^agg-267] [^agg-270] [^agg-275]
+
+4. Copia dell'ordinanza che dispone una misura interdittiva è trasmessa all'organo eventualmente competente a disporre l'interdizione in via ordinaria.
+
+4-bis. Copia dell'ordinanza che dispone la custodia cautelare in carcere nei confronti di madre di prole di minore età è comunicata al procuratore della Repubblica presso il tribunale per i minorenni del luogo di esecuzione della misura.
+
+[^agg-83]: *AGGIORNAMENTO (83)* La Corte costituzionale, con sentenza 17-24 giugno 1997, n. 192 (in G.U. 1a s.s. 02/07/1997, n. 27) ha dichiarato l'illegittimità costituzionale del comma 3 del presente articolo "nella parte in cui non prevede la facoltà per il difensore di estrarre copia, insieme all'ordinanza che ha disposto la misura cautelare, della richiesta del pubblico ministero e degli atti presentati con la stessa".
+
+[^agg-253]: *AGGIORNAMENTO (253)* Il D.Lgs. 29 dicembre 2017, n. 216 ha disposto (con l'[art. 9](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/02%20-%20Capo%20II%20-%20COMPETENZA/03%20-%20Sezione%20III%20-%20Competenza%20per%20territorio/art-9-cpp.md), comma 1) che la presente modifica si applica alle operazioni di intercettazione relative a provvedimenti autorizzativi emessi dopo il centottantesimo giorno successivo alla data di entrata in vigore del decreto medesimo.
+
+[^agg-260]: *AGGIORNAMENTO (260)* Il D.Lgs. 29 dicembre 2017, n. 216, come modificato dal D.L. 25 luglio 2018, n. 91, convertito con modificazioni dalla L. 21 settembre 2018, n. 108, ha disposto (con l'[art. 9](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/02%20-%20Capo%20II%20-%20COMPETENZA/03%20-%20Sezione%20III%20-%20Competenza%20per%20territorio/art-9-cpp.md), comma 1) che "Le disposizioni di cui agli [articoli 2](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/01%20-%20Capo%20I%20-%20GIURISDIZIONE/art-2-cpp.md), [3](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/01%20-%20Capo%20I%20-%20GIURISDIZIONE/art-3-cpp.md) 4, 5 e 7 si applicano alle operazioni di intercettazione relative a provvedimenti autorizzativi emessi dopo il 31 marzo 2019".
+
+[^agg-263]: *AGGIORNAMENTO (263)* Il D.Lgs. 29 dicembre 2017, n. 216, come modificato dalla L. 30 dicembre 2018, n. 145, ha disposto (con l'[art. 9](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/02%20-%20Capo%20II%20-%20COMPETENZA/03%20-%20Sezione%20III%20-%20Competenza%20per%20territorio/art-9-cpp.md), comma 1) che "Le disposizioni di cui agli [articoli 2](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/01%20-%20Capo%20I%20-%20GIURISDIZIONE/art-2-cpp.md), [3](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/01%20-%20Capo%20I%20-%20GIURISDIZIONE/art-3-cpp.md) 4, 5 e 7 si applicano alle operazioni di intercettazione relative a provvedimenti autorizzativi emessi dopo il 31 luglio 2019".
+
+[^agg-267]: *AGGIORNAMENTO (267)* Il D.Lgs. 29 dicembre 2017, n. 216, come modificato dal D.L. 14 giugno 2019, n. 53, ha disposto (con l'[art. 9](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/02%20-%20Capo%20II%20-%20COMPETENZA/03%20-%20Sezione%20III%20-%20Competenza%20per%20territorio/art-9-cpp.md), comma 1) che "Le disposizioni di cui agli [articoli 2](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/01%20-%20Capo%20I%20-%20GIURISDIZIONE/art-2-cpp.md), [3](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/01%20-%20Capo%20I%20-%20GIURISDIZIONE/art-3-cpp.md) 4, 5 e 7 si applicano alle operazioni di intercettazione relative a provvedimenti autorizzativi emessi dopo il 31 dicembre 2019".
+
+[^agg-270]: *AGGIORNAMENTO (270)* Il D.L. 30 dicembre 2019, n. 161, convertito con modificazioni dalla L. 28 febbraio 2020, n. 7, ha disposto (con l'[art. 2](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/01%20-%20Capo%20I%20-%20GIURISDIZIONE/art-2-cpp.md), comma 8) che "Le disposizioni del presente articolo si applicano ai procedimenti penali iscritti successivamente al 30 aprile 2020". Il D.Lgs. 29 dicembre 2017, n. 216, come modificato dal D.L. 30 dicembre 2019, n. 161, convertito con modificazioni dalla L. 28 febbraio 2020, n. 7, ha disposto (con l'[art. 9](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/02%20-%20Capo%20II%20-%20COMPETENZA/03%20-%20Sezione%20III%20-%20Competenza%20per%20territorio/art-9-cpp.md), comma 1) che "Le disposizioni di cui agli [articoli 2](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/01%20-%20Capo%20I%20-%20GIURISDIZIONE/art-2-cpp.md), [3](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/01%20-%20Capo%20I%20-%20GIURISDIZIONE/art-3-cpp.md) 4, 5 e 7 si applicano ai procedimenti penali iscritti dopo il 30 aprile 2020".
+
+[^agg-275]: *AGGIORNAMENTO (275)* Il D.L. 30 dicembre 2019, n. 161, convertito con modificazioni dalla L. 28 febbraio 2020, n. 7, come modificato dal D.L. 30 aprile 2020, n. 28, ha disposto (con l'[art. 2](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/01%20-%20Capo%20I%20-%20GIURISDIZIONE/art-2-cpp.md), comma 8) che "Le disposizioni del presente articolo si applicano ai procedimenti penali iscritti successivamente al 31 agosto 2020, ad eccezione delle disposizioni di cui al comma 6 che sono di immediata applicazione". Il D.Lgs. 29 dicembre 2017, n. 216, come modificato dal D.L. 30 aprile 2020, n. 28 ha disposto (con l'[art. 9](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/02%20-%20Capo%20II%20-%20COMPETENZA/03%20-%20Sezione%20III%20-%20Competenza%20per%20territorio/art-9-cpp.md), comma 1) che "Le disposizioni di cui agli [articoli 2](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/01%20-%20Capo%20I%20-%20GIURISDIZIONE/art-2-cpp.md), [3](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/01%20-%20Capo%20I%20-%20GIURISDIZIONE/art-3-cpp.md) 4, 5 e 7 si applicano ai procedimenti penali iscritti dopo il 31 agosto 2020".

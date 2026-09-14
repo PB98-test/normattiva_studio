@@ -1,0 +1,27 @@
+---
+type: "Articolo di legge"
+title: "Art. 345 - Denunzie al giudice tutelare"
+articolo: "Art. 345"
+codice: cc
+aliases:
+  - "art-345-cc"
+libro: "I"
+libro_label: "DELLE PERSONE E DELLA FAMIGLIA"
+titolo: "X"
+titolo_label: "DELLA TUTELA E DELL'EMANCIPAZIONE"
+capo: "I"
+capo_label: "Della tutela dei minori"
+sezione: "II"
+sezione_label: "Del tutore e del protutore"
+rubrica: "Denunzie al giudice tutelare"
+dataVigenza: "20260914"
+ordine: 430
+---
+
+# Art. 345 - ***Denunzie al giudice tutelare***
+
+L'ufficiale dello stato civile, che riceve la dichiarazione di morte di una persona la quale ha lasciato figli in età minore ovvero la dichiarazione di nascita di un figlio di genitori ignoti, e il notaio, che procede alla pubblicazione di un testamento contenente la designazione di un tutore o di un protutore, devono darne notizia al giudice tutelare entro dieci giorni.
+
+Il cancelliere, entro quindici giorni dalla pubblicazione o dal deposito in cancelleria, deve dare notizia al giudice tutelare delle decisioni dalle quali derivi l'apertura di una tutela.
+
+I parenti entro il terzo grado devono denunziare al giudice tutelare il fatto da cui deriva l'apertura della tutela entro dieci giorni da quello in cui ne hanno avuto notizia. La denunzia deve essere fatta anche dalla persona designata quale tutore o protutore entro dieci giorni da quello in cui ha avuto notizia della designazione.

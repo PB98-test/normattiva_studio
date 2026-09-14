@@ -1,0 +1,73 @@
+---
+type: "Articolo di legge"
+title: "Art. 591-bis - Delega delle operazioni di vendita"
+articolo: "Art. 591-bis"
+codice: cpc
+aliases:
+  - "art-591-bis-cpc"
+libro: "III"
+libro_label: "DEL PROCESSO DI ESECUZIONE"
+titolo: "II"
+titolo_label: "DELL'ESPROPRIAZIONE FORZATA"
+capo: "IV"
+capo_label: "Dell'espropriazione immobiliare"
+sezione: "III"
+sezione_label: "Della vendita e dell'assegnazione § 1 Disposizioni generali"
+rubrica: "Delega delle operazioni di vendita"
+dataVigenza: "20260914"
+ordine: 739
+---
+
+# Art. 591-bis - ***Delega delle operazioni di vendita***
+
+Il giudice dell'esecuzione, salvo quanto previsto dal secondo comma, con l'ordinanza con la quale provvede sull'istanza di vendita ai sensi dell'[articolo 569](art-569-cpc.md), terzo comma, delega ad un notaio avente preferibilmente sede nel circondario o a un avvocato ovvero a un commercialista, iscritti nei relativi elenchi di cui all'articolo 179-ter delle disposizioni di attuazione del presente codice, il compimento delle operazioni di vendita secondo le modalità indicate al terzo comma del medesimo [articolo 569](art-569-cpc.md). Con la medesima ordinanza il giudice fissa il termine finale per il completamento delle operazioni delegate; dispone lo svolgimento, entro il termine di un anno dall'emissione dell'ordinanza, di un numero di esperimenti di vendita non inferiore a tre, secondo i criteri stabiliti dall'[articolo 591](art-591-cpc.md), secondo comma; stabilisce le modalità di effettuazione della pubblicità, il luogo di presentazione delle offerte d'acquisto e il luogo ove si procede all'esame delle stesse, alla gara tra gli offerenti ed alle operazioni dell'eventuale incanto. Si applica l'[articolo 569](art-569-cpc.md), quarto comma.
+
+Il giudice non dispone la delega ove, sentiti i creditori, ravvisi l'esigenza di procedere direttamente alle operazioni di vendita a tutela degli interessi delle parti.
+
+Il professionista delegato provvede:
+
+- 1) alla determinazione del valore dell'immobile a norma dell'[articolo 568](art-568-cpc.md), primo comma, tenendo anche conto della relazione redatta dall'esperto nominato dal giudice ai sensi dell'[articolo 569](art-569-cpc.md), primo comma, e delle eventuali note depositate dalle parti ai sensi dell'articolo 173-bis, quarto comma, delle disposizioni di attuazione del presente codice;
+- 2) agli adempimenti previsti dall'[articolo 570](art-570-cpc.md) e, ove occorrenti, dall'[articolo 576](art-576-cpc.md), secondo comma;
+- 3) alla deliberazione sull'offerta a norma dell'[articolo 572](art-572-cpc.md) e agli ulteriori adempimenti di cui agli [articoli 573](art-573-cpc.md) e [574](art-574-cpc.md);
+- 4) alle operazioni dell'incanto e all'aggiudicazione dell'immobile a norma dell'[articolo 581](art-581-cpc.md);
+- 5) a ricevere o autenticare la dichiarazione di nomina di cui all'[articolo 583](art-583-cpc.md);
+- 6) sulle offerte dopo l'incanto a norma dell'[articolo 584](art-584-cpc.md) e sul versamento del prezzo nella ipotesi di cui all'[articolo 585](art-585-cpc.md), secondo comma;
+- 7) sulla istanza di assegnazione di cui agli [articoli 590](art-590-cpc.md) e [591](art-591-cpc.md), terzo comma;
+- 8) alla fissazione del nuovo esperimento di vendita e del termine per la presentazione di nuove offerte d'acquisto ai sensi dell'[articolo 591](art-591-cpc.md);
+- 9) alla fissazione dell'ulteriore esperimento di vendita nel caso previsto dall'[articolo 587](art-587-cpc.md);
+- 10) ad autorizzare l'assunzione dei debiti da parte dell'aggiudicatario o dell'assegnatario a norma dell'[articolo 508](../../01%20-%20Capo%20I%20-%20Dell'espropriazione%20forzata%20in%20generale/04%20-%20Sezione%20IV%20-%20Della%20vendita%20e%20dell'assegnazione/art-508-cpc.md);
+- 11) alla esecuzione delle formalità di registrazione, trascrizione e voltura catastale del decreto di trasferimento, alla comunicazione dello stesso a pubbliche amministrazioni negli stessi casi previsti per le comunicazioni di atti volontari di trasferimento nonchè all'espletamento delle formalità di cancellazione delle trascrizioni dei pignoramenti e delle iscrizioni ipotecarie conseguenti al decreto di trasferimento pronunciato dal giudice dell'esecuzione ai sensi dell'[articolo 586](art-586-cpc.md);
+- 12) alla formazione del progetto di distribuzione ed alla sua trasmissione al giudice dell'esecuzione, nei modi e termini stabiliti dall'[articolo 596](../05%20-%20Sezione%20V%20-%20Della%20distribuzione%20della%20somma%20ricavata/art-596-cpc.md);
+- 13) ad ordinare alla banca o all'ufficio postale la restituzione delle cauzioni e di ogni altra somma direttamente versata mediante bonifico o deposito intestato alla procedura dagli offerenti non risultati aggiudicatari. La restituzione ha luogo nelle mani del depositante o mediante bonifico a favore degli stessi conti da cui sono pervenute le somme accreditate.
+
+Nell'avviso di cui all'[articolo 570](art-570-cpc.md) è specificato che tutte le attività che a norma degli articoli 571 e seguenti devono essere compiute in cancelleria o davanti al giudice dell'esecuzione, o dal cancelliere o dal giudice dell'esecuzione, sono eseguite dal professionista delegato presso il suo studio ovvero nel luogo indicato nell'ordinanza di cui al primo comma. All'avviso si applica l'articolo 173-quater delle disposizioni di attuazione del presente codice.
+
+Il professionista delegato provvede altresì alla redazione del verbale delle operazioni di vendita, che deve contenere le circostanze di luogo e di tempo nelle quali le stesse si svolgono, le generalità delle persone presenti, la descrizione delle attività svolte, la dichiarazione dell'aggiudicazione provvisoria con l'identificazione dell'aggiudicatario.
+
+Il verbale è sottoscritto esclusivamente dal professionista delegato e allo stesso non deve essere allegata la procura speciale di cui all'[articolo 579](art-579-cpc.md), secondo comma.
+
+Se il prezzo non è stato versato nel termine, il professionista delegato ne dà tempestivo avviso al giudice, trasmettendogli il fascicolo.
+
+Avvenuto il versamento del prezzo con le modalità stabilite ai sensi degli [articoli 574](art-574-cpc.md), [585](art-585-cpc.md) e [590](art-590-cpc.md), secondo comma, e verificato l'assolvimento dell'obbligo posto a carico dell'aggiudicatario dall'[articolo 585](art-585-cpc.md), quarto comma, il professionista delegato predispone il decreto di trasferimento e trasmette senza indugio al giudice dell'esecuzione il fascicolo. Al decreto, se previsto dalla legge, deve essere allegato il certificato di destinazione urbanistica dell'immobile quale risultante dal fascicolo processuale. Il professionista delegato provvede alla trasmissione del fascicolo al giudice dell'esecuzione nel caso in cui non faccia luogo all'assegnazione o ad ulteriori incanti ai sensi dell'[articolo 591](art-591-cpc.md). Contro il decreto previsto nel presente comma è proponibile l'opposizione di cui all'[articolo 617](../../../05%20-%20Titolo%20V%20-%20DELLE%20OPPOSIZIONI/01%20-%20Capo%20I%20-%20Delle%20opposizioni%20del%20debitore%20e%20del%20terzo%20assoggettato%20all'esecuzione/02%20-%20Sezione%20II%20-%20Delle%20opposizioni%20agli%20atti%20esecutivi/art-617-cpc.md).
+
+Le somme versate dall'aggiudicatario sono depositate presso una banca o su un conto postale indicati dal giudice.
+
+I provvedimenti di cui all'[articolo 586](art-586-cpc.md) restano riservati al giudice dell'esecuzione in ogni caso di delega al professionista delle operazioni di vendita.
+
+Il giudice dell'esecuzione vigila sul regolare e tempestivo svolgimento delle attività delegate e sull'operato del professionista delegato, al quale può in ogni momento richiedere informazioni sulle operazioni di vendita. Sentito l'interessato, il giudice dell'esecuzione provvede alla sostituzione del delegato qualora non siano rispettati i termini e le direttive per lo svolgimento delle operazioni di vendita, salvo che il professionista delegato dimostri che il mancato rispetto della delega sia dipeso da causa a lui non imputabile.
+
+Quando il giudice dell'esecuzione provvede a norma dell'[articolo 569-bis](art-569-bis-cpc.md)¸ quarto comma, al professionista sono delegate la riscossione del prezzo e le operazioni di distribuzione del ricavato, nonchè le operazioni indicate ai numeri 10), 11) e 12) del terzo comma. Si applicano, in quanto compatibili, i commi dal settimo all'undicesimo.
+
+Quando il giudice dell'esecuzione provvede a norma dell'[articolo 569-bis](art-569-bis-cpc.md), quinto comma, al professionista sono delegate le operazioni di cui alla medesima disposizione, nonchè la deliberazione sulle offerte e lo svolgimento della gara, la riscossione del prezzo e le operazioni di distribuzione del ricavato. Al professionista sono, altresì, delegate le operazioni indicate ai numeri 2), 5), 10), 11), 12) e 13) del terzo comma. Si applicano, in quanto compatibili, i commi dal quarto all'undicesimo.
+
+Entro trenta giorni dalla notifica dell'ordinanza di vendita il professionista delegato deposita un rapporto riepilogativo iniziale delle attività svolte. A decorrere dal deposito del rapporto riepilogativo iniziale, il professionista deposita, dopo ciascun esperimento di vendita, un rapporto riepilogativo periodico delle attività svolte. Entro dieci giorni dalla comunicazione dell'approvazione del progetto di distribuzione, il professionista delegato deposita un rapporto riepilogativo finale delle attività svolte successivamente al deposito dell'ultimo rapporto riepilogativo periodico. I rapporti riepilogativi sono redatti in conformità a modelli predisposti dal giudice dell'esecuzione e contengono i dati identificativi dell'esperto che ha effettuato la stima.   [^agg-171] [^agg-173]
+
+[^agg-113a]: *AGGIORNAMENTO (113a)* Il [D.L. 14 marzo 2005, n. 35](../../../../../Dl%2035-2005%20-%2014.03.2005/00%20-%20Indice%20%28dl35-05%29.md), convertito con modificazioni dalla [L. 14 maggio 2005, n. 80](../../../../../L.%2080-2005%20-%2014.05.2005/00%20-%20Indice%20%28l80-05%29.md), come modificato dal D.L. 30 giugno 2005, n. 115, convertito con modificazioni dalla L. 17 agosto 2005, n. 168, ha disposto (con l'[art. 2](../../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/01%20-%20Sezione%20I%20-%20Della%20giurisdizione%20e%20della%20competenza%20in%20generale/art-2-cpc.md), comma 3-quater) che la presente modifica ha effetto a decorrere dal 1 gennaio 2006.
+
+[^agg-116]: *AGGIORNAMENTO (116)* Il [D.L.14 marzo 2005, n. 35](../../../../../Dl%2035-2005%20-%2014.03.2005/00%20-%20Indice%20%28dl35-05%29.md),convertito con modificazioni dalla [L. 14 maggio 2005, n. 80](../../../../../L.%2080-2005%20-%2014.05.2005/00%20-%20Indice%20%28l80-05%29.md) , come modificato dal D.L.30 dicembre 2005, n. 273, convertito con modificazioni dalla L. 23 febbraio 2006, n. 51, ha disposto (con l'[art. 2](../../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/01%20-%20Sezione%20I%20-%20Della%20giurisdizione%20e%20della%20competenza%20in%20generale/art-2-cpc.md), comma 3-sexies) che "Le disposizioni di cui ai commi 3, lettera e), numeri da 2) a 43-bis), e 3-ter, lettere a-bis), b), c), c-bis), d), e) ed f), entrano in vigore il 1° marzo 2006 e si applicano anche alle procedure esecutive pendenti a tale data di entrata in vigore. Quando tuttavia è già stata ordinata la vendita, la stessa ha luogo con l'osservanza delle norme precedentemente in vigore. L'intervento dei creditori non muniti di titolo esecutivo conserva efficacia se avvenuto prima del 1° marzo 2006."
+
+[^agg-148]: *AGGIORNAMENTO (148)* Il D.L. 27 giugno 2015, n. 83, convertito con modificazioni dalla L. 6 agosto 2015, n. 132, ha disposto (con l'[art. 23](../../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/03%20-%20Sezione%20III%20-%20Della%20competenza%20per%20territorio/art-23-cpc.md), comma 9) che "Le disposizioni di cui all'[articolo 13](../../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/02%20-%20Sezione%20II%20-%20Della%20competenza%20per%20materia%20e%20valore/art-13-cpc.md), diverse da quelle indicate nel presente articolo, si applicano anche ai procedimenti pendenti alla data di entrata in vigore del presente decreto. Quando è già stata disposta la vendita, la stessa ha comunque luogo con l'osservanza delle norme precedentemente in vigore e le disposizioni di cui al presente decreto si applicano quando il giudice o il professionista delegato dispone una nuova vendita".
+
+[^agg-171]: *AGGIORNAMENTO (171)* Il [D.Lgs. 10 ottobre 2022, n. 149](../../../../../Cartabia%20%28Dlgs%20149-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs149-22%29.md) ha disposto (con l'[art. 35](../../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/04%20-%20Sezione%20IV%20-%20Delle%20modificazioni%20della%20competenza%20per%20ragione%20di%20connessione/art-35-cpc.md), comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 30 giugno 2023 si applicano le disposizioni anteriormente vigenti".
+
+[^agg-173]: *AGGIORNAMENTO (173)* Il [D.Lgs. 10 ottobre 2022, n. 149](../../../../../Cartabia%20%28Dlgs%20149-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs149-22%29.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../../../../../L.%20197-2022%20-%2029.12.2022/00%20-%20Indice%20%28l197-22%29.md), ha disposto (con l'[art. 35](../../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/04%20-%20Sezione%20IV%20-%20Delle%20modificazioni%20della%20competenza%20per%20ragione%20di%20connessione/art-35-cpc.md), comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".

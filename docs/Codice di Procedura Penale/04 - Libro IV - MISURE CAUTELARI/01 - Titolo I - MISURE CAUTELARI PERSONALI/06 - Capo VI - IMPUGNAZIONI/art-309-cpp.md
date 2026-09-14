@@ -1,0 +1,61 @@
+---
+type: "Articolo di legge"
+title: "Art. 309 - Riesame delle ordinanze che dispongono una misura coercitiva"
+articolo: "Art. 309"
+codice: cpp
+aliases:
+  - "art-309-cpp"
+libro: "IV"
+libro_label: "MISURE CAUTELARI"
+titolo: "I"
+titolo_label: "MISURE CAUTELARI PERSONALI"
+capo: "VI"
+capo_label: "IMPUGNAZIONI"
+sezione: null
+sezione_label: null
+rubrica: "Riesame delle ordinanze che dispongono una misura coercitiva"
+dataVigenza: "20260914"
+ordine: 367
+---
+
+# Art. 309 - ***Riesame delle ordinanze che dispongono una misura coercitiva***
+
+1. Entro dieci giorni dalla esecuzione o notificazione del provvedimento, l'imputato può proporre richiesta di riesame, anche nel merito, della ordinanza che dispone una misura coercitiva, salvo che si tratti di ordinanza emessa a seguito di appello del pubblico ministero.
+
+2. Per l'imputato latitante il termine decorre dalla data di notificazione eseguita a norma dell'[articolo 165](../../../02%20-%20Libro%20II%20-%20ATTI/05%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-165-cpp.md). Tuttavia, se sopravviene l'esecuzione della misura, il termine decorre da tale momento quando l'imputato prova di non aver avuto tempestiva conoscenza del provvedimento.
+
+3. Il difensore dell'imputato può proporre la richiesta di riesame entro dieci giorni dalla notificazione dell'avviso di deposito dell'ordinanza che dispone la misura.
+
+3-bis. Nei termini previsti dai commi 1, 2 e 3 non si computano i giorni per i quali è stato disposto il differimento del colloquio, a norma dell'[articolo 104](../../../01%20-%20Libro%20I%20-%20SOGGETTI/07%20-%20Titolo%20VII%20-%20DIFENSORE/art-104-cpp.md), comma 3.
+
+4. La richiesta di riesame è presentata nella cancelleria del tribunale indicato nel comma 7. Si osservano le forme previste dall'[articolo 582](../../../09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-582-cpp.md).
+
+5. Il presidente cura che sia dato immediato avviso all'autorità giudiziaria procedente la quale, entro il giorno successivo, e comunque non oltre il quinto giorno, trasmette al tribunale gli atti presentati a norma dell'[articolo 291](../04%20-%20Capo%20IV%20-%20FORMA%20ED%20ESECUZIONE%20DEI%20PROVVEDIMENTI/art-291-cpp.md), comma 1, nonchè tutti gli elementi sopravvenuti a favore della persona sottoposta alle indagini e, in ogni caso, le dichiarazioni rese dalla persona sottoposta alle indagini ai sensi dell'[articolo 291](../04%20-%20Capo%20IV%20-%20FORMA%20ED%20ESECUZIONE%20DEI%20PROVVEDIMENTI/art-291-cpp.md), comma 1-quater.
+
+6. Con la richiesta di riesame possono essere enunciati anche i motivi e l'imputato può chiedere di comparire personalmente. Chi ha proposto la richiesta ha, inoltre, facoltà di enunciare nuovi motivi davanti al giudice del riesame facendone dare atto a verbale prima dell'inizio della discussione.
+
+7. Sulla richiesta di riesame decide, in composizione collegiale, il tribunale del luogo nel quale ha sede la corte di appello o la sezione distaccata della corte di appello nella cui circoscrizione è compreso l'ufficio del giudice che ha emesso l'ordinanza. [^agg-90] [^agg-90a]
+
+8. Il procedimento davanti al tribunale si svolge in camera di consiglio nelle forme previste dall'[articolo 127](../../../02%20-%20Libro%20II%20-%20ATTI/02%20-%20Titolo%20II%20-%20ATTI%20E%20PROVVEDIMENTI%20DEL%20GIUDICE/art-127-cpp.md). L'avviso della data fissata per l'udienza è comunicato, almeno tre giorni prima, al pubblico ministero presso il tribunale indicato nel comma 7 e, se diverso, a quello che ha richiesto l'applicazione della misura; esso è notificato, altresì, entro lo stesso termine, all'imputato ed al suo difensore. Fino al giorno dell'udienza gli atti restano depositati in cancelleria, con facoltà per il difensore di esaminarli e di estrarne copia.
+
+8-bis. Il pubblico ministero che ha richiesto l'applicazione della misura può partecipare all'udienza in luogo del pubblico ministero presso il tribunale indicato nel comma 7. L'imputato che ne abbia fatto richiesta ai sensi del comma 6 ha diritto di comparire personalmente o, quando una particolare disposizione di legge lo prevede, di partecipare a distanza. Il presidente può altresì disporre la partecipazione a distanza dell'imputato che vi consenta.
+
+9. Entro dieci giorni dalla ricezione degli atti il tribunale, se non deve dichiarare l'inammissibilità della richiesta, annulla, riforma o conferma l'ordinanza oggetto del riesame decidendo anche sulla base degli elementi addotti dalle parti nel corso dell'udienza. Il tribunale può annullare il provvedimento impugnato o riformarlo in senso favorevole all'imputato anche per motivi diversi da quelli enunciati ovvero può confermarlo per ragioni diverse da quelle indicate nella motivazione del provvedimento stesso. Il tribunale annulla il provvedimento impugnato se la motivazione manca o non contiene l'autonoma valutazione, a norma dell'[articolo 292](../04%20-%20Capo%20IV%20-%20FORMA%20ED%20ESECUZIONE%20DEI%20PROVVEDIMENTI/art-292-cpp.md), delle esigenze cautelari, degli indizi e degli elementi forniti dalla difesa. [^agg-274] [^agg-278]
+
+9-bis. Su richiesta formulata personalmente dall'imputato entro due giorni dalla notificazione dell'avviso, il tribunale differisce la data dell'udienza da un minimo di cinque ad un massimo di dieci giorni se vi siano giustificati motivi. In tal caso il termine per la decisione e quello per il deposito dell'ordinanza sono prorogati nella stessa misura.
+
+10. Se la trasmissione degli atti non avviene nei termini di cui al comma 5 o se la decisione sulla richiesta di riesame o il deposito dell'ordinanza del tribunale in cancelleria non intervengono nei termini prescritti, l'ordinanza che dispone la misura coercitiva perde efficacia e, salve eccezionali esigenze cautelari specificamente motivate, non può essere rinnovata. L'ordinanza del tribunale deve essere depositata in cancelleria entro trenta giorni dalla decisione salvi i casi in cui la stesura della motivazione sia particolarmente complessa per il numero degli arrestati o la gravità delle imputazioni. In tali casi, il giudice può disporre per il deposito un termine più lungo, comunque non eccedente il quarantacinquesimo giorno da quello della decisione.
+
+10-bis. I provvedimenti che non confermano le ordinanze impugnate nei procedimenti aventi ad oggetto delitti commessi con violenza alla persona e i delitti di cui all'[articolo 362](../../../05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/05%20-%20Titolo%20V%20-%20ATTIVITÀ%20DEL%20PUBBLICO%20MINISTERO/art-362-cpp.md), comma 1-ter, devono essere immediatamente comunicati, a cura della polizia giudiziaria, ai servizi socioassistenziali e alla persona offesa e, ove nominato, al suo difensore. [^agg-71] [^agg-204]
+
+[^agg-71]: *AGGIORNAMENTO (71)* La Corte costituzionale con sentenza 7-15 marzo 1996, n. 71 (in G.U. 1a s.s. 20/3/1996, n. 20) ha dichiarato l' illegittimità costituzionale del presente articolo "nella parte in cui non prevede la possibilità di valutare la sussistenza dei gravi indizi di colpevolezza nell'ipotesi in cui sia stato emesso il decreto che dispone il giudizio a norma dell'[art. 429](../../../05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/09%20-%20Titolo%20IX%20-%20UDIENZA%20PRELIMINARE/art-429-cpp.md) dello stesso codice".
+
+[^agg-90]: *AGGIORNAMENTO (90)* Il [D. Lgs. 19 febbraio 1998, n. 51](../../../../Dlgs%2051-1998%20-%2019.02.1998/00%20-%20Indice%20%28dlgs51-98%29.md) ha disposto (con l'[art. 247](../../../03%20-%20Libro%20III%20-%20PROVE/03%20-%20Titolo%20III%20-%20MEZZI%20DI%20RICERCA%20DELLA%20PROVA/02%20-%20Capo%20II%20-%20PERQUISIZIONI/art-247-cpp.md), comma 1) che "Il presente decreto legislativo entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace decorso il termine stabilito dall'articolo 1, comma 1, lettera r), della legge 16 luglio 1997, n. 254, fatta eccezione per le disposizioni previste dagli [articoli 17](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/03%20-%20Capo%20III%20-%20RIUNIONE%20E%20SEPARAZIONE%20DI%20PROCESSI/art-17-cpp.md), [33](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/06%20-%20Capo%20VI%20-%20CAPACITÀ%20E%20COMPOSIZIONE%20DEL%20GIUDICE/art-33-cpp.md), comma 1, 38, comma 1 e 40, commi 1 e 3".
+
+[^agg-90a]: *AGGIORNAMENTO (90a)* Il [D. Lgs. 19 febbraio 1998, n. 51](../../../../Dlgs%2051-1998%20-%2019.02.1998/00%20-%20Indice%20%28dlgs51-98%29.md) come modificato dalla [L. 16 giugno 1998, n. 188](../../../../L.%20188-1998%20-%2016.06.1998/00%20-%20Indice%20%28l188-98%29.md) ha disposto (con l'[art. 247](../../../03%20-%20Libro%20III%20-%20PROVE/03%20-%20Titolo%20III%20-%20MEZZI%20DI%20RICERCA%20DELLA%20PROVA/02%20-%20Capo%20II%20-%20PERQUISIZIONI/art-247-cpp.md), comma 1) che "Il presente decreto legislativo entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace a decorrere dal 2 giugno 1999, fatta eccezione per le disposizioni previste dagli [articoli 17](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/03%20-%20Capo%20III%20-%20RIUNIONE%20E%20SEPARAZIONE%20DI%20PROCESSI/art-17-cpp.md), [33](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/06%20-%20Capo%20VI%20-%20CAPACITÀ%20E%20COMPOSIZIONE%20DEL%20GIUDICE/art-33-cpp.md), comma 1, 38, comma 1 e 40, commi 1 e 3".
+
+[^agg-204]: *AGGIORNAMENTO (204)* La Corte Costituzionale, con sentenza 2 - 6 dicembre 2013, n. 293 (in G.U. 1a s.s. 11/12/2013, n. 50), ha dichiarato "l'illegittimità costituzionale dell'[art. 309 del codice di procedura penale](art-309-cpp.md), in quanto interpretato nel senso che la deducibilità, nel procedimento di riesame, della retrodatazione della decorrenza dei termini di durata massima delle misure cautelari, prevista dall'[art. 297](../04%20-%20Capo%20IV%20-%20FORMA%20ED%20ESECUZIONE%20DEI%20PROVVEDIMENTI/art-297-cpp.md), comma 3, del medesimo codice, sia subordinata - oltre che alla condizione che, per effetto della retrodatazione, il termine sia già scaduto al momento dell'emissione dell'ordinanza cautelare impugnata - anche a quella che tutti gli elementi per la retrodatazione risultino da detta ordinanza".
+
+[^agg-274]: *AGGIORNAMENTO (274)* Il D.L. 17 marzo 2020, n. 18 ha disposto (con l'[art. 83](../../../01%20-%20Libro%20I%20-%20SOGGETTI/05%20-%20Titolo%20V%20-%20PARTE%20CIVILE,%20RESPONSABILE%20CIVILE%20E%20CIVILMENTE%20OBBLIGATO%20PER%20LA%20PENA/art-83-cpp.md), comma 9) che "Nei procedimenti penali il corso della prescrizione e i termini di cui agli [articoli 303](../05%20-%20Capo%20V%20-%20ESTINZIONE%20DELLE%20MISURE/art-303-cpp.md), [308](../05%20-%20Capo%20V%20-%20ESTINZIONE%20DELLE%20MISURE/art-308-cpp.md) [309, comma 9](art-309-cpp.md), [311](art-309-cpp.md), [commi 5](art-309-cpp.md) e [5-bis](art-309-cpp.md), e [324, comma 7, del codice di procedura penale](../../02%20-%20Titolo%20II%20-%20MISURE%20CAUTELARI%20REALI/03%20-%20Capo%20III%20-%20IMPUGNAZIONI/art-324-cpp.md) e agli articoli 24, comma 2, e 27, comma 6, del decreto legislativo 6 settembre 2011, n. 159 rimangono sospesi per il tempo in cui il procedimento è rinviato ai sensi del comma 7, lettera g), e, in ogni caso, non oltre il 30 giugno 2020".
+
+[^agg-278]: *AGGIORNAMENTO (278)* Successivamente la Corte Costituzionale, con sentenza 25 maggio - 6 luglio 2021, n. 140 (in G.U. 1ª s.s. 7/7/2021, n. 27), ha dichiarato l'illegittimità costituzionale dell'[art. 83](../../../01%20-%20Libro%20I%20-%20SOGGETTI/05%20-%20Titolo%20V%20-%20PARTE%20CIVILE,%20RESPONSABILE%20CIVILE%20E%20CIVILMENTE%20OBBLIGATO%20PER%20LA%20PENA/art-83-cpp.md), comma 9 del D.L. 17 marzo 2020, n. 18, convertito con modificazioni dalla L. 24 aprile 2020, n. 27, (che ha modificato il comma 9 del presente articolo) "nella parte in cui prevede la sospensione del corso della prescrizione per il tempo in cui i procedimenti penali sono rinviati ai sensi del precedente comma 7, lettera g), e in ogni caso, non oltre il 30 giugno 2020".

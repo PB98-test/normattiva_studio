@@ -1,0 +1,37 @@
+---
+type: "Articolo di legge"
+title: "Art. 2508-bis - Registrazione e cancellazione telematica della sede secondaria di una società soggetta alla legge di uno Stato membro dell'Unione europea"
+articolo: "Art. 2508-bis"
+codice: cc
+aliases:
+  - "art-2508-bis-cc"
+libro: "V"
+libro_label: "DEL LAVORO"
+titolo: "V"
+titolo_label: "DELLE SOCIETÀ"
+capo: "XI"
+capo_label: "Delle società costituite all'estero"
+sezione: null
+sezione_label: null
+rubrica: "Registrazione e cancellazione telematica della sede secondaria di una società soggetta alla legge di uno Stato membro dell'Unione europea"
+dataVigenza: "20260914"
+ordine: 2780
+---
+
+# Art. 2508-bis - ***Registrazione e cancellazione telematica della sede secondaria di una società soggetta alla legge di uno Stato membro dell'Unione europea***
+
+L'atto istitutivo di sedi secondarie nel territorio dello Stato da parte di società di capitali soggette alla legge di uno Stato membro dell'Unione europea e gli atti di nomina dei soggetti che rappresentano stabilmente la società per le attività della sede secondaria, con l'indicazione dei relativi poteri, sono depositati, ai fini della loro iscrizione nel registro delle imprese, presso un notaio esercente in Italia con le modalità disciplinate dagli articoli 47-bis, 47-ter e 52-bis della legge 16 febbraio 1913, n. 89, anche con le modalità in videoconferenza di cui alle disposizioni di attuazione della direttiva (UE) 2019/1151 del Parlamento europeo e del Consiglio del 20 giugno 2019. Gli atti da depositare, ai fini della procedura di cui al periodo precedente, sono contenuti in duplicati informatici o copie informatiche rilasciate dal competente registro delle imprese delle quali è garantita, ai sensi del decreto legislativo 7 marzo 2005, n. 82, la provenienza dal medesimo registro e la conformità ai corrispondenti documenti o informazioni nello stesso iscritti. Il notaio può richiedere la presenza fisica delle parti, o di alcune di esse, se dubita dell'identità dei richiedenti o se rileva il mancato rispetto delle norme riguardanti la capacità di agire e la capacità dei richiedenti di rappresentare una società Ai fini della registrazione delle sedi secondarie di cui al primo comma, sono forniti i seguenti dati:
+
+- a) l'indirizzo della sede secondaria;
+- b) l'attività della sede secondaria;
+- c) il registro di iscrizione della società;
+- d) il numero di iscrizione della società nel registro di cui al punto c);
+- e) la denominazione della società;
+- f) la forma legale della società;
+- g) l'ampiezza dei poteri dei soggetti che rappresentano stabilmente la società per le attività della sede secondaria;
+- h) gli estremi dell'atto costitutivo e, eventualmente, dello statuto ove presente come documento separato;
+- i) i dati personali dei legali rappresentanti della società;
+- l) i dati personali dei soggetti che rappresentano stabilmente la società per le attività della sede secondaria;
+- m) l'eventuale stato di liquidazione della società, i dati personali dei liquidatori e i poteri agli stessi conferiti, nonchè l'eventuale conclusione della procedura di liquidazione;
+- n) la pendenza di una procedura di insolvenza o di altra procedura di ristrutturazione aziendale connessa a crisi aziendale della società;
+- o) la data di chiusura della sede secondaria. Ai medesimi fini di cui al secondo comma, sono altresì depositati: a) la nomina, la cessazione o la revoca dei liquidatori; b) la nomina, la cessazione o la revoca dei legali rappresentanti della società; c) la nomina, la cessazione o la revoca dei soggetti che rappresentano stabilmente la società per le attività della sede secondaria; d) l'ultimo bilancio di esercizio della società; e) l'atto costitutivo e lo statuto, ove presente come documento separato, della società, e le relative modifiche; f) una dichiarazione resa dai soggetti che rappresentano stabilmente la società per le attività della sede secondaria circa l'inesistenza, a loro carico, delle cause di ineleggibilità previste dall'[articolo 2382](../05%20-%20Capo%20V%20-%20Società%20per%20azioni/08%20-%20Sezione%20VI-bis%20-%20Dell'amministrazione%20e%20del%20controllo%20§%201%20Disposizioni%20generali/art-2382-cc.md) e di interdizioni dall'ufficio di amministratore adottate nei loro confronti in uno Stato membro dell'Unione europea. La capacità di agire dei richiedenti e il loro potere di rappresentare la società sono verificate, mediante il sistema di interconnessione di cui all'[articolo 22](../../../01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/02%20-%20Titolo%20II%20-%20DELLE%20PERSONE%20GIURIDICHE/02%20-%20Capo%20II%20-%20Delle%20associazioni%20e%20delle%20fondazioni/art-22-cc.md) della direttiva (UE) 2017/1132, dalle risultanze del registro delle imprese in cui è iscritta la società. Nel caso di indisponibilità del sistema di interconnessione, è utilizzato un certificato rilasciato dal competente registro da non oltre sei mesi. Se il potere rappresentativo deriva da una procura e questa non è acquisibile tramite il sistema di interconnessione di cui all'[articolo 22](../../../01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/02%20-%20Titolo%20II%20-%20DELLE%20PERSONE%20GIURIDICHE/02%20-%20Capo%20II%20-%20Delle%20associazioni%20e%20delle%20fondazioni/art-22-cc.md) della direttiva (UE) 2017/1132, la procura è consegnata in originale al notaio. Se la registrazione della sede secondaria non può essere completata nel termine di dieci giorni dal momento della presentazione dei documenti e delle informazioni di cui al secondo, terzo e quarto comma, l'ufficio del registro delle imprese comunica ai richiedenti i motivi del ritardo. Gli atti di cui al terzo comma e i documenti di cui al quarto comma redatti in una lingua straniera sono accompagnati dalla traduzione giurata. Gli uffici del registro delle imprese comunicano, tramite il sistema di interconnessione di cui all'[articolo 22](../../../01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/02%20-%20Titolo%20II%20-%20DELLE%20PERSONE%20GIURIDICHE/02%20-%20Capo%20II%20-%20Delle%20associazioni%20e%20delle%20fondazioni/art-22-cc.md) della direttiva (UE) 2017/1132, ai registri delle imprese di altri Stati membri in cui sono registrate sedi secondarie di società di capitali regolate dalla legge italiana, le modifiche ai seguenti elementi: a) denominazione della società; b) sede legale della società; c) numero di iscrizione della società nel registro; d) forma legale della società; e) legali rappresentanti, con specificazione se in forma congiunta o disgiunta, amministratori, componenti degli organi di controllo o di supervisione; f) bilanci societari. Ove siano destinatari della comunicazione di cui all'ottavo comma, in qualità di uffici di registrazione di una sede secondaria di società soggette alla legge di un altro Stato membro dell'Unione europea, gli uffici del registro delle imprese rilasciano attestazione di ricezione della comunicazione e provvedono senza ritardo all'iscrizione dei conseguenti aggiornamenti. L'istanza con cui si richiede la registrazione della sede secondaria di una società di capitali soggetta alla legge di uno Stato membro dell'Unione europea ai sensi del primo comma, è sottoscritta elettronicamente da un notaio esercente nel territorio dello Stato. Gli adempimenti pubblicitari successivi alla registrazione possono essere assolti mediante firma elettronica qualificata o firma digitale da un amministratore della società o dallo stabile preposto.

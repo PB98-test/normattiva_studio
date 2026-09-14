@@ -1,0 +1,29 @@
+---
+type: "Articolo di legge"
+title: "Art. 480 - Verbale di udienza"
+articolo: "Art. 480"
+codice: cpp
+aliases:
+  - "art-480-cpp"
+libro: "VII"
+libro_label: "GIUDIZIO"
+titolo: "II"
+titolo_label: "DIBATTIMENTO"
+capo: "I"
+capo_label: "DISPOSIZIONI GENERALI"
+sezione: null
+sezione_label: null
+rubrica: "Verbale di udienza"
+dataVigenza: "20260914"
+ordine: 585
+---
+
+# Art. 480 - ***Verbale di udienza***
+
+1. L'ausiliario che assiste il giudice redige il verbale di udienza, nel quale sono indicati:
+
+- a) il luogo, la data, l'ora di apertura e di chiusura dell'udienza;
+- b) i nomi e i cognomi dei giudici;
+- c) il nome e il cognome del rappresentante del pubblico ministero, le generalità dell'imputato o le altre indicazioni personali che valgono a identificarlo nonchè le generalità delle altre parti e dei loro rappresentanti, i nomi e i cognomi dei difensori.
+
+2. Il verbale di udienza è inserito nel fascicolo per il dibattimento.

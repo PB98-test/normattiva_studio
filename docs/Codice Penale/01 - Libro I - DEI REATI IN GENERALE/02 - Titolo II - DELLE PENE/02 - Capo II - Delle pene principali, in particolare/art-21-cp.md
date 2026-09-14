@@ -1,0 +1,21 @@
+---
+type: "Articolo di legge"
+title: "Art. 21 - ARTICOLO DA RITENERSI SOPPRESSO A SEGUITO DELL'ABOLIZIONE DELLA PENA DI MORTE DISPOSTA DAL D.LGS. LUOGOTENZIALE 10 AGOSTO 1944, N. 224"
+articolo: "Art. 21"
+codice: cp
+aliases:
+  - "art-21-cp"
+libro: "I"
+libro_label: "DEI REATI IN GENERALE"
+titolo: "II"
+titolo_label: "DELLE PENE"
+capo: "II"
+capo_label: "Delle pene principali, in particolare"
+sezione: null
+sezione_label: null
+rubrica: "ARTICOLO DA RITENERSI SOPPRESSO A SEGUITO DELL'ABOLIZIONE DELLA PENA DI MORTE DISPOSTA DAL D.LGS. LUOGOTENZIALE 10 AGOSTO 1944, N. 224"
+dataVigenza: "20260914"
+ordine: 23
+---
+
+# Art. 21 - ***ARTICOLO DA RITENERSI SOPPRESSO A SEGUITO DELL'ABOLIZIONE DELLA PENA DI MORTE DISPOSTA DAL D.LGS. LUOGOTENZIALE 10 AGOSTO 1944, N. 224***

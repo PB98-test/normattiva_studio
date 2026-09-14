@@ -1,0 +1,49 @@
+---
+type: "Articolo di legge"
+title: "Art. 381 - Arresto facoltativo in flagranza"
+articolo: "Art. 381"
+codice: cpp
+aliases:
+  - "art-381-cpp"
+libro: "V"
+libro_label: "INDAGINI PRELIMINARI E UDIENZA PRELIMINARE"
+titolo: "VI"
+titolo_label: "ARRESTO IN FLAGRANZA E FERMO"
+capo: null
+capo_label: null
+sezione: null
+sezione_label: null
+rubrica: "Arresto facoltativo in flagranza"
+dataVigenza: "20260914"
+ordine: 452
+---
+
+# Art. 381 - ***Arresto facoltativo in flagranza***
+
+1. Gli ufficiali e gli agenti di polizia giudiziaria hanno facoltà di arrestare chiunque è colto in flagranza di un delitto non colposo, consumato o tentato, per il quale la legge stabilisce la pena della reclusione superiore nel massimo a tre anni ovvero di un delitto colposo per il quale la legge stabilisce la pena della reclusione non inferiore nel massimo a cinque anni.
+
+2. Gli ufficiali e gli agenti di polizia giudiziaria hanno altresì facoltà di arrestare chiunque è colto in flagranza di uno dei seguenti delitti:
+
+- a) peculato mediante profitto dell'errore altrui previsto dall'[articolo 316 del codice penale](../../../Codice%20Penale/02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/02%20-%20Titolo%20II%20-%20DEI%20DELITTI%20CONTRO%20LA%20PUBBLICA%20AMMINISTRAZIONE/01%20-%20Capo%20I%20-%20Dei%20delitti%20dei%20pubblici%20ufficiali%20contro%20la%20pubblica%20Amministrazione/art-316-cp.md);
+- b) corruzione per un atto contrario ai doveri d'ufficio prevista dagli [articoli 319 comma 4](../../../Codice%20Penale/02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/02%20-%20Titolo%20II%20-%20DEI%20DELITTI%20CONTRO%20LA%20PUBBLICA%20AMMINISTRAZIONE/01%20-%20Capo%20I%20-%20Dei%20delitti%20dei%20pubblici%20ufficiali%20contro%20la%20pubblica%20Amministrazione/art-319-cp.md) e [321 del codice penale](../../../Codice%20Penale/02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/02%20-%20Titolo%20II%20-%20DEI%20DELITTI%20CONTRO%20LA%20PUBBLICA%20AMMINISTRAZIONE/01%20-%20Capo%20I%20-%20Dei%20delitti%20dei%20pubblici%20ufficiali%20contro%20la%20pubblica%20Amministrazione/art-319-cp.md);
+- c) violenza o minaccia a un pubblico ufficiale prevista dall'[articolo 336 comma 2 del codice penale](../../../Codice%20Penale/02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/02%20-%20Titolo%20II%20-%20DEI%20DELITTI%20CONTRO%20LA%20PUBBLICA%20AMMINISTRAZIONE/02%20-%20Capo%20II%20-%20Dei%20delitti%20dei%20privati%20contro%20la%20pubblica%20Amministrazione/art-336-cp.md);
+- d) commercio e somministrazione di medicinali guasti e di sostanze alimentari nocive previsti dagli [articoli 443](../../../Codice%20Penale/02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/06%20-%20Titolo%20VI%20-%20DEI%20DELITTI%20CONTRO%20L'INCOLUMITÀ%20PUBBLICA/02%20-%20Capo%20II%20-%20Dei%20delitti%20di%20comune%20pericolo%20mediante%20frode/art-443-cp.md) e [444 del codice penale](../../../Codice%20Penale/02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/06%20-%20Titolo%20VI%20-%20DEI%20DELITTI%20CONTRO%20L'INCOLUMITÀ%20PUBBLICA/02%20-%20Capo%20II%20-%20Dei%20delitti%20di%20comune%20pericolo%20mediante%20frode/art-444-cp.md);
+- e) corruzione di minorenni prevista dall'[articolo 530 del codice penale](../../../Codice%20Penale/02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/09%20-%20Titolo%20IX%20-%20DEI%20DELITTI%20CONTRO%20LA%20MORALITÀ%20PUBBLICA%20E%20IL%20BUON%20COSTUME/02%20-%20Capo%20II%20-%20Delle%20offese%20al%20pudore%20e%20all'onore%20sessuale/art-530-cp.md);
+- f) lesione personale prevista dall'[articolo 582 del codice penale](../../../Codice%20Penale/02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/12%20-%20Titolo%20XII%20-%20DEI%20DELITTI%20CONTRO%20LA%20PERSONA/01%20-%20Capo%20I%20-%20Dei%20delitti%20contro%20la%20vita%20e%20l'incolumità%20individuale/art-582-cp.md);
+- f-bis) violazione di domicilio prevista dall'[articolo 614, primo](../../../Codice%20Penale/02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/12%20-%20Titolo%20XII%20-%20DEI%20DELITTI%20CONTRO%20LA%20PERSONA/04%20-%20Capo%20III%20-%20Dei%20delitti%20contro%20la%20libertà%20individuale%20Sezione%201a%20Dei%20delitti%20cont/01%20-%20Sezione%20I-bis%20-%20Dei%20delitti%20contro%20l'eguaglianza/art-614-cp.md) e [secondo comma, del codice penale](../../../Codice%20Penale/02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/12%20-%20Titolo%20XII%20-%20DEI%20DELITTI%20CONTRO%20LA%20PERSONA/04%20-%20Capo%20III%20-%20Dei%20delitti%20contro%20la%20libertà%20individuale%20Sezione%201a%20Dei%20delitti%20cont/01%20-%20Sezione%20I-bis%20-%20Dei%20delitti%20contro%20l'eguaglianza/art-614-cp.md);
+- g) furto previsto dall'[articolo 624 del codice penale](../../../Codice%20Penale/02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/13%20-%20Titolo%20XIII%20-%20DEI%20DELITTI%20CONTRO%20IL%20PATRIMONIO/01%20-%20Capo%20I%20-%20Dei%20delitti%20contro%20il%20patrimonio%20mediante%20violenza%20alle%20cose%20o%20alle%20per/art-624-cp.md);
+- h) danneggiamento aggravato a norma dell'[articolo 635 comma 2 del codice penale](../../../Codice%20Penale/02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/13%20-%20Titolo%20XIII%20-%20DEI%20DELITTI%20CONTRO%20IL%20PATRIMONIO/01%20-%20Capo%20I%20-%20Dei%20delitti%20contro%20il%20patrimonio%20mediante%20violenza%20alle%20cose%20o%20alle%20per/art-635-cp.md);
+- i) truffa prevista dall'[articolo 640 del codice penale](../../../Codice%20Penale/02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/13%20-%20Titolo%20XIII%20-%20DEI%20DELITTI%20CONTRO%20IL%20PATRIMONIO/02%20-%20Capo%20II%20-%20Dei%20delitti%20contro%20il%20patrimonio%20mediante%20frode/art-640-cp.md);
+- l) appropriazione indebita prevista dall'[articolo 646 del codice penale](../../../Codice%20Penale/02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/13%20-%20Titolo%20XIII%20-%20DEI%20DELITTI%20CONTRO%20IL%20PATRIMONIO/02%20-%20Capo%20II%20-%20Dei%20delitti%20contro%20il%20patrimonio%20mediante%20frode/art-646-cp.md);
+- l-bis) offerta, cessione o detenzione di materiale pornografico previste dagli articoli 600-ter, quarto comma, e 600-quater del [codice penale](../../../Codice%20Penale/00%20-%20Indice%20%28cp%29.md), anche se relative al materiale pornografico di cui all'articolo 600-quater.1 del medesimo codice;
+- m) alterazione di armi e fabbricazione di esplosivi non riconosciuti previste dagli articoli 3 e 24 comma 1 della legge 18 aprile 1975 n. 110;
+- m-bis) LETTERA ABROGATA DAL D.L. 18 FEBBRAIO 2015, N. 7, CONVERTITO CON MODIFICAZIONI DALLA L. 17 APRILE 2015, N. 43;
+- m-ter) falsa attestazione o dichiarazione a un pubblico ufficiale sulla identità o su qualità personali proprie o di altri, prevista dall'[articolo 495 del codice penale](../../../Codice%20Penale/02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/07%20-%20Titolo%20VII%20-%20DEI%20DELITTI%20CONTRO%20LA%20FEDE%20PUBBLICA/04%20-%20Capo%20IV%20-%20Della%20falsità%20personale/art-495-cp.md);
+- m-quater) fraudolente alterazioni per impedire l'identificazione o l'accertamento di qualità personali, previste dall'[articolo 495-ter del codice penale](../../../Codice%20Penale/02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/07%20-%20Titolo%20VII%20-%20DEI%20DELITTI%20CONTRO%20LA%20FEDE%20PUBBLICA/04%20-%20Capo%20IV%20-%20Della%20falsità%20personale/art-495-ter-cp.md);
+- m-quinquies) delitto di lesioni colpose stradali o nautiche gravi o gravissime previsto dall'[articolo 590-bis, secondo](../../../Codice%20Penale/02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/12%20-%20Titolo%20XII%20-%20DEI%20DELITTI%20CONTRO%20LA%20PERSONA/01%20-%20Capo%20I%20-%20Dei%20delitti%20contro%20la%20vita%20e%20l'incolumità%20individuale/art-590-cp.md), [terzo](../../../Codice%20Penale/02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/12%20-%20Titolo%20XII%20-%20DEI%20DELITTI%20CONTRO%20LA%20PERSONA/01%20-%20Capo%20I%20-%20Dei%20delitti%20contro%20la%20vita%20e%20l'incolumità%20individuale/art-590-cp.md), [quarto](../../../Codice%20Penale/02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/12%20-%20Titolo%20XII%20-%20DEI%20DELITTI%20CONTRO%20LA%20PERSONA/01%20-%20Capo%20I%20-%20Dei%20delitti%20contro%20la%20vita%20e%20l'incolumità%20individuale/art-590-cp.md) e [quinto comma, del codice penale](../../../Codice%20Penale/02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/12%20-%20Titolo%20XII%20-%20DEI%20DELITTI%20CONTRO%20LA%20PERSONA/01%20-%20Capo%20I%20-%20Dei%20delitti%20contro%20la%20vita%20e%20l'incolumità%20individuale/art-590-cp.md);
+
+3. Se si tratta di delitto perseguibile a querela, l'arresto in flagranza può essere eseguito se la querela viene proposta, anche con dichiarazione resa oralmente all'ufficiale o all'agente di polizia giudiziaria presente nel luogo, ferma restando la necessità di rendere alla persona offesa, anche con atto successivo, le informazioni di cui all'[articolo 90-bis](../../01%20-%20Libro%20I%20-%20SOGGETTI/06%20-%20Titolo%20VI%20-%20PERSONA%20OFFESA%20DAL%20REATO/art-90-bis-cpp.md). Se l'avente diritto dichiara di rimettere la querela, l'arrestato è posto immediatamente in libertà.
+
+4. Nelle ipotesi previste dal presente articolo si procede all'arresto in flagranza soltanto se la misura è giustificata dalla gravità del fatto ovvero dalla pericolosità del soggetto desunta dalla sua personalità o dalle circostanze del fatto.
+
+4-bis. Non è consentito l'arresto della persona richiesta di fornire informazioni dalla polizia giudiziaria o dal pubblico ministero per reati concernenti il contenuto delle informazioni o il rifiuto di fornirle.

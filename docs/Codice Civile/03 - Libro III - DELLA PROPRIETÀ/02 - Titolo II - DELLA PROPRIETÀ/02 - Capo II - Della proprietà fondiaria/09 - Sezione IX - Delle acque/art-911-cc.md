@@ -1,0 +1,23 @@
+---
+type: "Articolo di legge"
+title: "Art. 911 - Apertura di nuove sorgenti e altre opere"
+articolo: "Art. 911"
+codice: cc
+aliases:
+  - "art-911-cc"
+libro: "III"
+libro_label: "DELLA PROPRIETÀ"
+titolo: "II"
+titolo_label: "DELLA PROPRIETÀ"
+capo: "II"
+capo_label: "Della proprietà fondiaria"
+sezione: "IX"
+sezione_label: "Delle acque"
+rubrica: "Apertura di nuove sorgenti e altre opere"
+dataVigenza: "20260914"
+ordine: 1006
+---
+
+# Art. 911 - ***Apertura di nuove sorgenti e altre opere***
+
+Chi vuole aprire sorgenti, stabilire capi o aste di fonte e in genere eseguire opere per estrarre acque dal sottosuolo o costruire canali o acquedotti, oppure scavarne, profondarne o allargarne il letto, aumentarne o diminuirne il pendio o variarne la forma, deve, oltre le distanze stabilite nell'[art. 891](../06%20-%20Sezione%20VI%20-%20Delle%20distanze%20nelle%20costruzioni,%20piantagioni%20e%20scavi,%20e%20dei%20muri,/art-891-cc.md), osservare le maggiori distanze ed eseguire le opere che siano necessarie per non recare pregiudizio ai fondi altrui, sorgenti, capi o aste di fonte, canali o acquedotti preesistenti e destinati all'irrigazione dei terreni o agli usi domestici o industriali.

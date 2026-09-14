@@ -1,0 +1,45 @@
+---
+type: "Articolo di legge"
+title: "Art. 157 - Prescrizione. Tempo necessario a prescrivere"
+articolo: "Art. 157"
+codice: cp
+aliases:
+  - "art-157-cp"
+libro: "I"
+libro_label: "DEI REATI IN GENERALE"
+titolo: "VI"
+titolo_label: "DELLA ESTINZIONE DEL REATO E DELLA PENA"
+capo: "I"
+capo_label: "Della estinzione del reato"
+sezione: null
+sezione_label: null
+rubrica: "Prescrizione. Tempo necessario a prescrivere"
+dataVigenza: "20260914"
+ordine: 172
+---
+
+# Art. 157 - ***Prescrizione. Tempo necessario a prescrivere***
+
+La prescrizione estingue il reato decorso il tempo corrispondente al massimo della pena edittale stabilita dalla legge e comunque un tempo non inferiore a sei anni se si tratta di delitto e a quattro anni se si tratta di contravvenzione, ancorchè puniti con la sola pena pecuniaria.
+
+Per determinare il tempo necessario a prescrivere si ha riguardo alla pena stabilita dalla legge per il reato consumato o tentato, senza tener conto della diminuzione per le circostanze attenuanti e dell'aumento per le circostanze aggravanti, salvo che per le aggravanti per le quali la legge stabilisce una pena di specie diversa da quella ordinaria e per quelle ad effetto speciale, nel qual caso si tiene conto dell'aumento massimo di pena previsto per l'aggravante.
+
+Non si applicano le disposizioni dell'[articolo 69](../../03%20-%20Titolo%20III%20-%20DEL%20REATO/02%20-%20Capo%20II%20-%20Delle%20circostanze%20del%20reato/art-69-cp.md) e il tempo necessario a prescrivere è determinato a norma del secondo comma.
+
+Quando per il reato la legge stabilisce congiuntamente o alternativamente la pena detentiva e la pena pecuniaria, per determinare il tempo necessario a prescrivere si ha riguardo soltanto alla pena detentiva.
+
+Quando per il reato la legge stabilisce pene diverse da quella detentiva e da quella pecuniaria, si applica il termine di tre anni.
+
+I termini di cui ai commi che precedono sono raddoppiati per i reati di cui agli [articoli 375](../../../02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/03%20-%20Titolo%20III%20-%20DEI%20DELITTI%20CONTRO%20L'AMMINISTRAZIONE%20DELLA%20GIUSTIZIA/01%20-%20Capo%20I%20-%20Dei%20delitti%20contro%20l'attività%20giudiziaria/art-375-cp.md), terzo comma, 449, 589, secondo e terzo comma, e 589-bis, nonchè per i reati di cui all'[articolo 51, commi 3-bis](../../../../Codice%20di%20Procedura%20Penale/01%20-%20Libro%20I%20-%20SOGGETTI/02%20-%20Titolo%20II%20-%20PUBBLICO%20MINISTERO/art-51-cpp.md) e [3-quater, del codice di procedura penale](../../../../Codice%20di%20Procedura%20Penale/01%20-%20Libro%20I%20-%20SOGGETTI/02%20-%20Titolo%20II%20-%20PUBBLICO%20MINISTERO/art-51-cpp.md). I termini di cui ai commi che precedono sono altresì raddoppiati per i delitti di cui al titolo VI-bis del libro secondo, per il reato di cui all'[articolo 572](../../../02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/11%20-%20Titolo%20XI%20-%20DEI%20DELITTI%20CONTRO%20LA%20FAMIGLIA/04%20-%20Capo%20IV%20-%20Dei%20delitti%20contro%20l'assistenza%20famigliare/art-572-cp.md) e per i reati di cui alla sezione I del capo III del titolo XII del libro II e di cui agli [articoli 609-bis](../../../02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/12%20-%20Titolo%20XII%20-%20DEI%20DELITTI%20CONTRO%20LA%20PERSONA/04%20-%20Capo%20III%20-%20Dei%20delitti%20contro%20la%20libertà%20individuale%20Sezione%201a%20Dei%20delitti%20cont/01%20-%20Sezione%20I-bis%20-%20Dei%20delitti%20contro%20l'eguaglianza/art-609-bis-cp.md), [609-quater](../../../02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/12%20-%20Titolo%20XII%20-%20DEI%20DELITTI%20CONTRO%20LA%20PERSONA/04%20-%20Capo%20III%20-%20Dei%20delitti%20contro%20la%20libertà%20individuale%20Sezione%201a%20Dei%20delitti%20cont/01%20-%20Sezione%20I-bis%20-%20Dei%20delitti%20contro%20l'eguaglianza/art-609-quater-cp.md), [609-quinquies](../../../02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/12%20-%20Titolo%20XII%20-%20DEI%20DELITTI%20CONTRO%20LA%20PERSONA/04%20-%20Capo%20III%20-%20Dei%20delitti%20contro%20la%20libertà%20individuale%20Sezione%201a%20Dei%20delitti%20cont/01%20-%20Sezione%20I-bis%20-%20Dei%20delitti%20contro%20l'eguaglianza/art-609-quinquies-cp.md) e [609-octies](../../../02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/12%20-%20Titolo%20XII%20-%20DEI%20DELITTI%20CONTRO%20LA%20PERSONA/04%20-%20Capo%20III%20-%20Dei%20delitti%20contro%20la%20libertà%20individuale%20Sezione%201a%20Dei%20delitti%20cont/01%20-%20Sezione%20I-bis%20-%20Dei%20delitti%20contro%20l'eguaglianza/art-609-octies-cp.md), salvo che risulti la sussistenza delle circostanze attenuanti contemplate dal terzo comma dell'[articolo 609-bis](../../../02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/12%20-%20Titolo%20XII%20-%20DEI%20DELITTI%20CONTRO%20LA%20PERSONA/04%20-%20Capo%20III%20-%20Dei%20delitti%20contro%20la%20libertà%20individuale%20Sezione%201a%20Dei%20delitti%20cont/01%20-%20Sezione%20I-bis%20-%20Dei%20delitti%20contro%20l'eguaglianza/art-609-bis-cp.md) ovvero dal quarto comma dell'[articolo 609-quater](../../../02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/12%20-%20Titolo%20XII%20-%20DEI%20DELITTI%20CONTRO%20LA%20PERSONA/04%20-%20Capo%20III%20-%20Dei%20delitti%20contro%20la%20libertà%20individuale%20Sezione%201a%20Dei%20delitti%20cont/01%20-%20Sezione%20I-bis%20-%20Dei%20delitti%20contro%20l'eguaglianza/art-609-quater-cp.md).
+
+La prescrizione è sempre espressamente rinunciabile dall'imputato.
+
+La prescrizione non estingue i reati per i quali la legge prevede la pena dell'ergastolo, anche come effetto dell'applicazione di circostanze aggravanti.   [^agg-199][^agg-208a] [^agg-254]
+
+[^agg-121]: *AGGIORNAMENTO (121)* La Corte Costituzionale con sentenza 23-31 maggio 1990, n. 275 (in G.U. 1ª s.s. 6/6/1990, n. 23) ha dichiarato l'illegittimità costituzionale del presente articolo nella parte in cui non prevede che la prescrizione del reato possa essere rinunziata dall'imputato.
+
+[^agg-199]: *AGGIORNAMENTO (199)* La L. 5 dicembre 2005, n. 251, ha disposto (con l'[art. 10](../../01%20-%20Titolo%20I%20-%20DELLA%20LEGGE%20PENALE/art-10-cp.md), commmi 2 e 3) che "Ferme restando le disposizioni dell'[articolo 2 del codice penale](../../01%20-%20Titolo%20I%20-%20DELLA%20LEGGE%20PENALE/art-2-cp.md) quanto alle altre norme della presente legge, le disposizioni dell'[articolo 6](../../01%20-%20Titolo%20I%20-%20DELLA%20LEGGE%20PENALE/art-6-cp.md) non si applicano ai procedimenti e ai processi in corso se i nuovi termini di prescrizione risultano più lunghi di quelli previgenti. Se, per effetto delle nuove disposizioni, i termini di prescrizione risultano più brevi, le stesse si applicano ai procedimenti e ai processi pendenti alla data di entrata in vigore della presente legge, ad esclusione dei processi già pendenti in primo grado ove vi sia stata la dichiarazione di apertura del dibattimento, nonchè dei processi già pendenti in grado di appello o avanti alla Corte di cassazione".
+
+[^agg-208a]: *AGGIORNAMENTO (208a)* Successivamente la Corte Costituzionale con sentenza 23 ottobre - 23 novembre 2006, n. 393 (in G.U. 1ª s.s. 26/11/2006, n. 47), ha dichiarato l'illegittimità costituzionale dell'[art. 10](../../01%20-%20Titolo%20I%20-%20DELLA%20LEGGE%20PENALE/art-10-cp.md), comma 3 della L. 5 dicembre 2005, n. 251 (che ha modificato il presente articolo) "limitatamente alle parole "dei processi già pendenti in primo grado ove vi sia stata la dichiarazione di apertura del dibattimento, nonchè".
+
+[^agg-254]: *AGGIORNAMENTO (254)* La Corte Costituzionale con sentenza 19-28 maggio 2014, n. 143 (in G.U. 1ª s.s. 4/6/2014, n. 24) ha dichiarato l'illegittimità costituzionale del sesto comma del presente articolo nella parte in cui prevede che i termini di cui ai precedenti commi del medesimo articolo sono raddoppiati per il reato di incendio colposo.

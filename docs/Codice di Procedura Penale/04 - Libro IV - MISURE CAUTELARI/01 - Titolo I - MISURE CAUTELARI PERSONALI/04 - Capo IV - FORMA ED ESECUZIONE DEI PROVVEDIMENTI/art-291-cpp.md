@@ -1,0 +1,67 @@
+---
+type: "Articolo di legge"
+title: "Art. 291 - Procedimento applicativo"
+articolo: "Art. 291"
+codice: cpp
+aliases:
+  - "art-291-cpp"
+libro: "IV"
+libro_label: "MISURE CAUTELARI"
+titolo: "I"
+titolo_label: "MISURE CAUTELARI PERSONALI"
+capo: "IV"
+capo_label: "FORMA ED ESECUZIONE DEI PROVVEDIMENTI"
+sezione: null
+sezione_label: null
+rubrica: "Procedimento applicativo"
+dataVigenza: "20260914"
+ordine: 349
+---
+
+# Art. 291 - ***Procedimento applicativo***
+
+1. Le misure sono disposte su richiesta del pubblico ministero, che presenta al giudice competente gli elementi su cui la richiesta si fonda, compresi i verbali di cui all'[articolo 268](../../../03%20-%20Libro%20III%20-%20PROVE/03%20-%20Titolo%20III%20-%20MEZZI%20DI%20RICERCA%20DELLA%20PROVA/04%20-%20Capo%20IV%20-%20INTERCETTAZIONI%20DI%20CONVERSAZIONI%20O%20COMUNICAZIONI/art-268-cpp.md), comma 2, limitatamente alle comunicazioni e conversazioni rilevanti, e comunque conferiti nell'archivio di cui all'[articolo 269](../../../03%20-%20Libro%20III%20-%20PROVE/03%20-%20Titolo%20III%20-%20MEZZI%20DI%20RICERCA%20DELLA%20PROVA/04%20-%20Capo%20IV%20-%20INTERCETTAZIONI%20DI%20CONVERSAZIONI%20O%20COMUNICAZIONI/art-269-cpp.md), nonchè tutti gli elementi a favore dell'imputato e le eventuali deduzioni e memorie difensive già depositate. [^agg-253] [^agg-260] [^agg-263] [^agg-267] [^agg-270] [^agg-275]
+
+1-bis. COMMA ABROGATO DALLA L. 8 AGOSTO 1995, N. 332.
+
+1-ter. - Quando è necessario, nella richiesta sono riprodotti soltanto i brani essenziali delle comunicazioni e conversazioni intercettate , in ogni caso senza indicare i dati personali dei soggetti diversi dalle parti, salvo che ciò sia indispensabile per la compiuta esposizione. [^agg-253] [^agg-260] [^agg-263] [^agg-270] [^agg-275]
+
+1-quater. Fermo il disposto dell'[articolo 289](../03%20-%20Capo%20III%20-%20MISURE%20INTERDITTIVE/art-289-cpp.md), comma 2, secondo periodo, prima di disporre la misura, il giudice procede all'interrogatorio della persona sottoposta alle indagini preliminari con le modalità indicate agli [articoli 64](../../../01%20-%20Libro%20I%20-%20SOGGETTI/04%20-%20Titolo%20IV%20-%20IMPUTATO/art-64-cpp.md) e [65](../../../01%20-%20Libro%20I%20-%20SOGGETTI/04%20-%20Titolo%20IV%20-%20IMPUTATO/art-65-cpp.md), salvo che sussista taluna delle esigenze cautelari di cui all'[articolo 274](../01%20-%20Capo%20I%20-%20DISPOSIZIONI%20GENERALI/art-274-cpp.md), comma 1, lettere a) e
+
+- b), oppure l'esigenza cautelare di cui all'[articolo 274](../01%20-%20Capo%20I%20-%20DISPOSIZIONI%20GENERALI/art-274-cpp.md), comma 1, lettera
+- c), in relazione ad uno dei delitti indicati all'[articolo 407](../../../05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/08%20-%20Titolo%20VIII%20-%20CHIUSURA%20DELLE%20INDAGINI%20PRELIMINARI/art-407-cpp.md), comma 2, lettera a), o all'[articolo 362](../../../05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/05%20-%20Titolo%20V%20-%20ATTIVITÀ%20DEL%20PUBBLICO%20MINISTERO/art-362-cpp.md), comma 1-ter, ovvero a gravi delitti commessi con uso di armi o con altri mezzi di violenza personale.
+
+1-quinquies. Nel caso di cui all'[articolo 328](../../../05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-328-cpp.md), comma 1-quinquies, all'interrogatorio procede il presidente del collegio o uno dei componenti da lui delegato. [^agg-318] [^agg-344]
+
+1-sexies. L'invito a presentarsi per rendere l'interrogatorio è comunicato al pubblico ministero e notificato alla persona sottoposta alle indagini preliminari e al suo difensore almeno cinque giorni prima di quello fissato per la comparizione, salvo che, per ragioni d'urgenza, il giudice ritenga di abbreviare il termine, purchè sia lasciato il tempo necessario per comparire. Il giudice provvede comunque sulla richiesta del pubblico ministero quando la persona sottoposta alle indagini preliminari non compare senza addurre un legittimo impedimento, oppure quando la persona sottoposta alle indagini preliminari non è stata rintracciata e il giudice ritiene le ricerche esaurienti, anche con riferimento ai luoghi di cui all'[articolo 159](../../../02%20-%20Libro%20II%20-%20ATTI/05%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-159-cpp.md), comma 1.
+
+1-septies. L'invito contiene:
+
+- a) le generalità o altre indicazioni personali che valgono a identificare la persona sottoposta alle indagini;
+- b) il giorno, l'ora e il luogo della presentazione, nonchè l'autorità davanti alla quale la persona deve presentarsi;
+- c) la descrizione sommaria del fatto, comprensiva di data e luogo di commissione del reato;
+- d) l'avviso della facoltà di nominare un difensore di fiducia e di essere ammesso al patrocinio a spese dello Stato nei casi previsti dalla legge; del diritto di ottenere informazioni in merito all'accusa; del diritto all'interprete e alla traduzione di atti fondamentali; del diritto di avvalersi della facoltà di non rispondere; del diritto di informare le autorità consolari e di dare avviso ai familiari; della facoltà di accedere ai programmi di giustizia riparativa.
+
+1-octies. L'invito di cui al comma 1-sexies contiene altresì l'avviso di deposito nella cancelleria del giudice della richiesta di applicazione della misura cautelare e degli atti presentati ai sensi del comma 1, nonchè della facoltà di prendere visione ed estrarre copia di tutti gli atti depositati, ivi compresi i verbali delle comunicazioni e delle conversazioni intercettate, con diritto alla trasposizione delle relative registrazioni su supporto idoneo alla riproduzione dei dati.
+
+1-novies. L'interrogatorio di cui al comma 1-quater deve essere documentato integralmente, a pena di inutilizzabilità, secondo le modalità di cui all'[articolo 141-bis](../../../02%20-%20Libro%20II%20-%20ATTI/03%20-%20Titolo%20III%20-%20DOCUMENTAZIONE%20DEGLI%20ATTI/art-141-bis-cpp.md).
+
+2. Se riconosce la propria incompetenza per qualsiasi causa, il giudice, quando ne ricorrono le condizioni e sussiste l'urgenza di soddisfare taluna delle esigenze cautelari previste dall'[articolo 274](../01%20-%20Capo%20I%20-%20DISPOSIZIONI%20GENERALI/art-274-cpp.md), dispone la misura richiesta con lo stesso provvedimento con il quale dichiara la propria incompetenza. Si applicano in tal caso le disposizioni dell'[articolo 27](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/04%20-%20Capo%20IV%20-%20PROVVEDIMENTI%20SULLA%20GIURISDIZIONE%20E%20SULLA%20COMPETENZA/art-27-cpp.md).
+
+2-bis. In caso di necessità o urgenza il pubblico ministero può chiedere al giudice, nell'interesse della persona offesa, le misure patrimoniali provvisorie di cui all'[articolo 282-bis](../02%20-%20Capo%20II%20-%20MISURE%20COERCITIVE/art-282-bis-cpp.md). Il provvedimento perde efficacia qualora la misura cautelare sia successivamente revocata.
+
+[^agg-253]: *AGGIORNAMENTO (253)* Il D.Lgs. 29 dicembre 2017, n. 216 ha disposto (con l'[art. 9](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/02%20-%20Capo%20II%20-%20COMPETENZA/03%20-%20Sezione%20III%20-%20Competenza%20per%20territorio/art-9-cpp.md), comma 1) che le presenti modifiche si applicano alle operazioni di intercettazione relative a provvedimenti autorizzativi emessi dopo il centottantesimo giorno successivo alla data di entrata in vigore del decreto medesimo.
+
+[^agg-260]: *AGGIORNAMENTO (260)* Il D.Lgs. 29 dicembre 2017, n. 216, come modificato dal D.L. 25 luglio 2018, n. 91, convertito con modificazioni dalla L. 21 settembre 2018, n. 108, ha disposto (con l'[art. 9](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/02%20-%20Capo%20II%20-%20COMPETENZA/03%20-%20Sezione%20III%20-%20Competenza%20per%20territorio/art-9-cpp.md), comma 1) che "Le disposizioni di cui agli [articoli 2](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/01%20-%20Capo%20I%20-%20GIURISDIZIONE/art-2-cpp.md), [3](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/01%20-%20Capo%20I%20-%20GIURISDIZIONE/art-3-cpp.md) 4, 5 e 7 si applicano alle operazioni di intercettazione relative a provvedimenti autorizzativi emessi dopo il 31 marzo 2019".
+
+[^agg-263]: *AGGIORNAMENTO (263)* Il D.Lgs. 29 dicembre 2017, n. 216, come modificato dalla L. 30 dicembre 2018, n. 145, ha disposto (con l'[art. 9](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/02%20-%20Capo%20II%20-%20COMPETENZA/03%20-%20Sezione%20III%20-%20Competenza%20per%20territorio/art-9-cpp.md), comma 1) che "Le disposizioni di cui agli [articoli 2](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/01%20-%20Capo%20I%20-%20GIURISDIZIONE/art-2-cpp.md), [3](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/01%20-%20Capo%20I%20-%20GIURISDIZIONE/art-3-cpp.md) 4, 5 e 7 si applicano alle operazioni di intercettazione relative a provvedimenti autorizzativi emessi dopo il 31 luglio 2019".
+
+[^agg-267]: *AGGIORNAMENTO (267)* Il D.Lgs. 29 dicembre 2017, n. 216, come modificato dal D.L. 14 giugno 2019, n. 53, ha disposto (con l'[art. 9](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/02%20-%20Capo%20II%20-%20COMPETENZA/03%20-%20Sezione%20III%20-%20Competenza%20per%20territorio/art-9-cpp.md), comma 1) che "Le disposizioni di cui agli [articoli 2](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/01%20-%20Capo%20I%20-%20GIURISDIZIONE/art-2-cpp.md), [3](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/01%20-%20Capo%20I%20-%20GIURISDIZIONE/art-3-cpp.md) 4, 5 e 7 si applicano alle operazioni di intercettazione relative a provvedimenti autorizzativi emessi dopo il 31 dicembre 2019".
+
+[^agg-270]: *AGGIORNAMENTO (270)* Il D.L. 30 dicembre 2019, n. 161, convertito con modificazioni dalla L. 28 febbraio 2020, n. 7, ha disposto (con l'[art. 2](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/01%20-%20Capo%20I%20-%20GIURISDIZIONE/art-2-cpp.md), comma 8) che "Le disposizioni del presente articolo si applicano ai procedimenti penali iscritti successivamente al 30 aprile 2020". Il D.Lgs. 29 dicembre 2017, n. 216, come modificato dal D.L. 30 dicembre 2019, n. 161, convertito con modificazioni dalla L. 28 febbraio 2020, n. 7, ha disposto (con l'[art. 9](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/02%20-%20Capo%20II%20-%20COMPETENZA/03%20-%20Sezione%20III%20-%20Competenza%20per%20territorio/art-9-cpp.md), comma 1) che "Le disposizioni di cui agli [articoli 2](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/01%20-%20Capo%20I%20-%20GIURISDIZIONE/art-2-cpp.md), [3](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/01%20-%20Capo%20I%20-%20GIURISDIZIONE/art-3-cpp.md) 4, 5 e 7 si applicano ai procedimenti penali iscritti dopo il 30 aprile 2020".
+
+[^agg-275]: *AGGIORNAMENTO (275)* Il D.Lgs. 29 dicembre 2017, n. 216, come modificato dal D.L. 30 aprile 2020, n. 28 ha disposto (con l'[art. 9](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/02%20-%20Capo%20II%20-%20COMPETENZA/03%20-%20Sezione%20III%20-%20Competenza%20per%20territorio/art-9-cpp.md), comma 1) che "Le disposizioni di cui agli [articoli 2](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/01%20-%20Capo%20I%20-%20GIURISDIZIONE/art-2-cpp.md), [3](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/01%20-%20Capo%20I%20-%20GIURISDIZIONE/art-3-cpp.md) 4, 5 e 7 si applicano ai procedimenti penali iscritti dopo il 31 agosto 2020". Il D.L. 30 dicembre 2019, n. 161, convertito con modificazioni dalla L. 28 febbraio 2020, n. 7, come modificato dal D.L. 30 aprile 2020, n. 28, ha disposto (con l'[art. 2](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/01%20-%20Capo%20I%20-%20GIURISDIZIONE/art-2-cpp.md), comma 8) che "Le disposizioni del presente articolo si applicano ai procedimenti penali iscritti successivamente al 31 agosto 2020, ad eccezione delle disposizioni di cui al comma 6 che sono di immediata applicazione".
+
+[^agg-318]: *AGGIORNAMENTO (318)* La L. 9 agosto 2024, n. 114, ha disposto (con l'[art. 9](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/02%20-%20Capo%20II%20-%20COMPETENZA/03%20-%20Sezione%20III%20-%20Competenza%20per%20territorio/art-9-cpp.md), comma 1) che la presente modifica si applica decorsi due anni dalla data di entrata in vigore della presente legge.
+
+[^agg-344]: *AGGIORNAMENTO (344)* La L. 9 agosto 2024, n. 114, come modificata dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'[art. 9](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/02%20-%20Capo%20II%20-%20COMPETENZA/03%20-%20Sezione%20III%20-%20Competenza%20per%20territorio/art-9-cpp.md), comma 1) che "Le disposizioni di cui all'[articolo 2](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/01%20-%20Capo%20I%20-%20GIURISDIZIONE/art-2-cpp.md), comma 1, lettere e), numero 2), limitatamente al capoverso 1-quinquies, g), numero 2), h), l) e m), e di cui all'[articolo 4](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/02%20-%20Capo%20II%20-%20COMPETENZA/01%20-%20Sezione%20I%20-%20Disposizione%20generale/art-4-cpp.md) si applicano a decorrere dal 28 febbraio 2027".

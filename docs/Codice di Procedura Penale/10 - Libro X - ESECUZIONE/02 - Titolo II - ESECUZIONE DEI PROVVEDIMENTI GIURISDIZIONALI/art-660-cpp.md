@@ -1,0 +1,55 @@
+---
+type: "Articolo di legge"
+title: "Art. 660 - Esecuzione delle pene pecuniarie"
+articolo: "Art. 660"
+codice: cpp
+aliases:
+  - "art-660-cpp"
+libro: "X"
+libro_label: "ESECUZIONE"
+titolo: "II"
+titolo_label: "ESECUZIONE DEI PROVVEDIMENTI GIURISDIZIONALI"
+capo: null
+capo_label: null
+sezione: null
+sezione_label: null
+rubrica: "Esecuzione delle pene pecuniarie"
+dataVigenza: "20260914"
+ordine: 790
+---
+
+# Art. 660 - ***Esecuzione delle pene pecuniarie***
+
+1. Quando deve essere eseguita una condanna a pena pecuniaria, anche in sostituzione di una pena detentiva, il pubblico ministero emette ordine di esecuzione con il quale ingiunge al condannato il pagamento.
+
+2. L'ordine è notificato al condannato e al suo difensore nominato per la fase dell'esecuzione o, in difetto, al difensore che lo ha assistito nella fase del giudizio, e contiene le generalità della persona nei cui confronti deve essere eseguito e quanto altro valga a identificarla, l'imputazione, il dispositivo del provvedimento, l'indicazione dell'ammontare della pena, nonchè le modalità del pagamento, che può avvenire in un'unica soluzione ovvero in rate mensili ai sensi dell'[articolo 133-ter del codice penale](../../../Codice%20Penale/01%20-%20Libro%20I%20-%20DEI%20REATI%20IN%20GENERALE/05%20-%20Titolo%20V%20-%20DELLA%20NON%20PUNIBILITÀ%20PER%20PARTICOLARE%20TENUITÀ%20DEL%20FATTO.%20DELLA%20MODIFIC/01%20-%20Capo%20I%20-%20Della%20non%20punibilità%20per%20particolare%20tenuità%20del%20fatto.%20Della%20modificaz/art-133-ter-cp.md), secondo quanto disposto dal giudice nella sentenza o nel decreto di condanna. Nei casi dell'[articolo 534](../../07%20-%20Libro%20VII%20-%20GIUDIZIO/03%20-%20Titolo%20III%20-%20SENTENZA/02%20-%20Capo%20II%20-%20DECISIONE/02%20-%20Sezione%20II%20-%20Sentenza%20di%20condanna/art-534-cpp.md), l'ordine di esecuzione è notificato altresì al civilmente obbligato per la pena pecuniaria.
+
+3. L'ordine di esecuzione contiene altresì l'intimazione al condannato a pena pecuniaria di provvedere al pagamento entro il termine di novanta giorni dalla notifica e l'avviso che, in mancanza, la pena pecuniaria sarà convertita nella semilibertà sostitutiva o, in caso di accertata insolvibilità, nel lavoro di pubblica utilità sostitutivo o nella detenzione domiciliare sostitutiva, ai sensi degli articoli 102 e 103 della legge 24 novembre 1981, n. 689, ovvero, quando deve essere eseguita una pena pecuniaria sostitutiva, nella semilibertà sostitutiva o nella detenzione domiciliare sostitutiva, ovvero, in caso di accertata insolvibilità, nel lavoro di pubblica utilità sostitutivo o nella detenzione domiciliare sostitutiva, ai sensi dell'articolo 71 della legge 24 novembre 1981, n. 689. L'ordine di esecuzione contiene inoltre l'avviso al condannato che, quando non è già stato disposto nella sentenza o nel decreto di condanna, entro venti giorni, può depositare presso la segreteria del pubblico ministero istanza di pagamento rateale della pena pecuniaria, ai sensi dell'[articolo 133-ter del codice penale](../../../Codice%20Penale/01%20-%20Libro%20I%20-%20DEI%20REATI%20IN%20GENERALE/05%20-%20Titolo%20V%20-%20DELLA%20NON%20PUNIBILITÀ%20PER%20PARTICOLARE%20TENUITÀ%20DEL%20FATTO.%20DELLA%20MODIFIC/01%20-%20Capo%20I%20-%20Della%20non%20punibilità%20per%20particolare%20tenuità%20del%20fatto.%20Della%20modificaz/art-133-ter-cp.md). Se è presentata istanza di pagamento rateale, il pubblico ministero trasmette gli atti al magistrato di sorveglianza competente, che procede ai sensi dell'[articolo 667](../03%20-%20Titolo%20III%20-%20ATTRIBUZIONI%20DEGLI%20ORGANI%20GIURISDIZIONALI/01%20-%20Capo%20I%20-%20GIUDICE%20DELL'ESECUZIONE/art-667-cpp.md), comma 4. Con l'avviso il condannato è informato che, se il processo si è svolto in sua assenza, nel termine di trenta giorni dalla conoscenza della sentenza può chiedere, in presenza dei relativi presupposti, la restituzione nel termine per proporre impugnazione o la rescissione del giudicato. Nell'avviso il condannato è altresì informato che ha facoltà di accedere ai programmi di giustizia riparativa. [^agg-341]
+
+4. Quando con la sentenza o con il decreto di condanna è stato disposto il pagamento in rate mensili, ai sensi dell'[articolo 133-ter del codice penale](../../../Codice%20Penale/01%20-%20Libro%20I%20-%20DEI%20REATI%20IN%20GENERALE/05%20-%20Titolo%20V%20-%20DELLA%20NON%20PUNIBILITÀ%20PER%20PARTICOLARE%20TENUITÀ%20DEL%20FATTO.%20DELLA%20MODIFIC/01%20-%20Capo%20I%20-%20Della%20non%20punibilità%20per%20particolare%20tenuità%20del%20fatto.%20Della%20modificaz/art-133-ter-cp.md), l'ordine di esecuzione contiene l'indicazione del numero delle rate, dell'importo e delle scadenze di ciascuna per il pagamento. Con l'ordine di esecuzione il pubblico ministero ingiunge al condannato di pagare la prima rata entro trenta giorni dalla notifica del provvedimento, avvertendolo che in caso di mancato tempestivo pagamento della prima rata sono previsti l'automatica decadenza dal beneficio e il pagamento della restante parte della pena in un'unica soluzione, da effettuarsi, a pena di conversione ai sensi del comma 3, entro i sessanta giorni successivi.
+
+5. Quando è provato o appare probabile che il condannato non abbia avuto effettiva conoscenza dell'ordine di esecuzione, il pubblico ministero può assumere, anche presso il difensore, le opportune informazioni, all'esito delle quali può disporre la rinnovazione della notifica.
+
+6. Entro il termine indicato nell'ordine di esecuzione, il pubblico ministero accerta l'avvenuto pagamento della multa o dell'ammenda da parte del condannato e dichiara l'avvenuta esecuzione della pena. In caso di pagamento rateale, il pubblico ministero accerta l'avvenuto pagamento delle rate e, dopo l'ultima, dichiara l'avvenuta esecuzione della pena.
+
+7. Quando accerta il mancato pagamento della pena pecuniaria, ovvero di una rata della stessa, entro il termine indicato nell'ordine di esecuzione, il pubblico ministero trasmette gli atti al magistrato di sorveglianza competente per la conversione ai sensi degli articoli 102 e 103 della legge 24 novembre 1981, n. 689, ovvero, quando si tratta di pena pecuniaria sostitutiva, ai sensi dell'[articolo 71](../../01%20-%20Libro%20I%20-%20SOGGETTI/04%20-%20Titolo%20IV%20-%20IMPUTATO/art-71-cpp.md) della medesima legge n. 689 del 1981. In ogni caso, se il pagamento della pena pecuniaria è stato disposto in rate mensili, è convertita la parte non ancora pagata.
+
+8. Il procedimento per la conversione della pena pecuniaria, anche sostitutiva, è disciplinato dall'[articolo 667](../03%20-%20Titolo%20III%20-%20ATTRIBUZIONI%20DEGLI%20ORGANI%20GIURISDIZIONALI/01%20-%20Capo%20I%20-%20GIUDICE%20DELL'ESECUZIONE/art-667-cpp.md), comma 4. Per la conversione della pena pecuniaria, ai sensi degli articoli 71, 102 e 103 della legge 24 novembre 1981, n. 689, si applica, in quanto compatibile, l'[articolo 545-bis](../../07%20-%20Libro%20VII%20-%20GIUDIZIO/03%20-%20Titolo%20III%20-%20SENTENZA/03%20-%20Capo%20III%20-%20ATTI%20SUCCESSIVI%20ALLA%20DELIBERAZIONE/art-545-bis-cpp.md), comma 2.
+
+9. Il magistrato di sorveglianza provvede alla conversione della pena pecuniaria con ordinanza, previo accertamento della condizione di insolvenza ovvero di insolvibilità del condannato. A tal fine dispone le opportune indagini nel luogo del domicilio o della residenza, ovvero dove si ha ragione di ritenere che il condannato possieda beni o cespiti di reddito e richiede, se necessario, informazioni agli organi finanziari o di polizia giudiziaria.
+
+10. Quando il mancato pagamento della pena pecuniaria è dovuto a insolvibilità, il condannato può chiedere al magistrato di sorveglianza il differimento della conversione per un tempo non superiore a sei mesi, rinnovabile per una sola volta se lo stato di insolvibilità perdura. Ai fini della estinzione della pena pecuniaria per decorso del tempo, non si tiene conto del periodo durante il quale la conversione è stata differita.
+
+11. Se vi è stata condanna ai sensi dell'[articolo 534](../../07%20-%20Libro%20VII%20-%20GIUDIZIO/03%20-%20Titolo%20III%20-%20SENTENZA/02%20-%20Capo%20II%20-%20DECISIONE/02%20-%20Sezione%20II%20-%20Sentenza%20di%20condanna/art-534-cpp.md) ed è accertata l'insolvibilità del condannato, il magistrato di sorveglianza ne dà comunicazione al pubblico ministero, il quale ordina al civilmente obbligato per la pena pecuniaria di provvedere al pagamento della multa o dell'ammenda entro il termine di cui al comma 3, ovvero, in caso di pagamento rateale, entro il termine di cui al comma 4. Qualora il civilmente obbligato per la pena pecuniaria non provveda al pagamento entro i termini stabiliti, il pubblico ministero ne dà comunicazione al magistrato di sorveglianza che provvede alla conversione della pena nei confronti del condannato.
+
+12. L'ordinanza di conversione è eseguita dal magistrato di sorveglianza, ai sensi degli articoli 62 e 63 della legge 24 novembre 1981, n. 689, in quanto compatibili.
+
+13. Il ricorso contro l'ordinanza di conversione ne sospende l'esecuzione.
+
+14. Per l'esecuzione delle pene sostitutive conseguenti alla conversione della pena pecuniaria si applica l'articolo 107 della legge 24 novembre 1981, n. 689.
+
+15. Le pene sostitutive, conseguenti alla conversione della pena pecuniaria, sono immediatamente revocate dal magistrato di sorveglianza quando risulta che il condannato ha pagato la multa o l'ammenda, dedotta la somma corrispondente alla durata della pena conseguente alla conversione già espiata. Durante l'esecuzione, il condannato può chiedere al magistrato di sorveglianza di essere ammesso al pagamento rateale, ai sensi dell'[articolo 133-ter del codice penale](../../../Codice%20Penale/01%20-%20Libro%20I%20-%20DEI%20REATI%20IN%20GENERALE/05%20-%20Titolo%20V%20-%20DELLA%20NON%20PUNIBILITÀ%20PER%20PARTICOLARE%20TENUITÀ%20DEL%20FATTO.%20DELLA%20MODIFIC/01%20-%20Capo%20I%20-%20Della%20non%20punibilità%20per%20particolare%20tenuità%20del%20fatto.%20Della%20modificaz/art-133-ter-cp.md). In tal caso, dopo il pagamento della prima rata, l'esecuzione della pena conseguente alla conversione è sospesa e riprende in caso di mancato pagamento di una delle rate.
+
+[^agg-142]: *AGGIORNAMENTO (142)* La Corte costituzionale con sentenza 4 - 18 giugno 2003, n. 212 ( in G.U. 1a s.s. 25/06/2003, n. 25), ha dichiarato la illegittimità costituzionale dell'[art. 299](../../04%20-%20Libro%20IV%20-%20MISURE%20CAUTELARI/01%20-%20Titolo%20I%20-%20MISURE%20CAUTELARI%20PERSONALI/05%20-%20Capo%20V%20-%20ESTINZIONE%20DELLE%20MISURE/art-299-cpp.md) del D.LGS. 30 maggio 2002, n. 313 nella parte in cui abroga l'[art. 660 c.p.p.](art-660-cpp.md)
+
+[^agg-341]: *AGGIORNAMENTO (341)* La Corte Costituzionale, con sentenza 9 febbraio - 17 aprile 2026, n. 54 (in G.U. 1ª s.s. 22/04/2026, n. 16), ha dichiarato "l'illegittimità costituzionale degli artt. 102 della legge 24 novembre 1981, n. 689 (Modifiche al sistema penale) e [660, comma 3, del codice di procedura penale](art-660-cpp.md), nella parte in cui, in caso di insolvenza nel pagamento delle pene pecuniarie principali, non prevedono la conversione anche nella detenzione domiciliare sostitutiva".

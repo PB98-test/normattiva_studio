@@ -1,0 +1,35 @@
+---
+type: "Articolo di legge"
+title: "Art. 490 - Pubblicità degli avvisi"
+articolo: "Art. 490"
+codice: cpc
+aliases:
+  - "art-490-cpc"
+libro: "III"
+libro_label: "DEL PROCESSO DI ESECUZIONE"
+titolo: "II"
+titolo_label: "DELL'ESPROPRIAZIONE FORZATA"
+capo: "I"
+capo_label: "Dell'espropriazione forzata in generale"
+sezione: "I"
+sezione_label: "Dei modi e delle forme dell'espropriazione forzata in generale"
+rubrica: "Pubblicità degli avvisi"
+dataVigenza: "20260914"
+ordine: 628
+---
+
+# Art. 490 - ***Pubblicità degli avvisi***
+
+Quando la legge dispone che di un atto esecutivo sia data pubblica notizia, un avviso contenente tutti i dati, che possono interessare il pubblico, deve essere inserito sul portale del Ministero della giustizia in un'area pubblica denominata "portale delle vendite pubbliche".  [^agg-148]
+
+In caso di espropriazione di beni mobili registrati, per un valore superiore a 25.000 euro, e di beni immobili, lo stesso avviso, unitamente a copia dell'ordinanza del giudice e della relazione di stima redatta ai sensi dell'articolo 173-bis delle disposizioni di attuazione del presente codice, è altresì inserito in appositi siti internet almeno quarantacinque giorni prima del termine per la presentazione delle offerte o della data dell'incanto. [^agg-113a] [^agg-115] [^agg-116]
+
+Anche su istanza del creditore procedente o dei creditori intervenuti muniti di titolo esecutivo il giudice può disporre inoltre che l'avviso sia inserito almeno quarantacinque giorni prima del termine per la presentazione delle offerte una o più volte sui quotidiani di informazione locali aventi maggiore diffusione nella zona interessata o, quando opportuno, sui quotidiani di informazione nazionali o che sia divulgato con le forme della pubblicità commerciale. Sono equiparati ai quotidiani, i giornali di informazione locale, multisettimanali o settimanali editi da soggetti iscritti al Registro operatori della comunicazione (ROC) e aventi caratteristiche editoriali analoghe a quelle dei quotidiani che garantiscono la maggior diffusione nella zona interessata. Nell'avviso è omessa l'indicazione del debitore.  [^agg-148]
+
+[^agg-113a]: *AGGIORNAMENTO (113a)* Il [D.L. 14 marzo 2005, n. 35](../../../../../Dl%2035-2005%20-%2014.03.2005/00%20-%20Indice%20%28dl35-05%29.md), convertito con modificazioni dalla [L. 14 maggio 2005, n. 80](../../../../../L.%2080-2005%20-%2014.05.2005/00%20-%20Indice%20%28l80-05%29.md), come modificato dal D.L. 30 giugno 2005, n. 115, convertito con modificazioni dalla L. 17 agosto 2005, n. 168, ha disposto (con l'[art. 2](../../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/01%20-%20Sezione%20I%20-%20Della%20giurisdizione%20e%20della%20competenza%20in%20generale/art-2-cpc.md), comma 3-quater) che la modifica dei commi 2 e 3 ha effetto a decorrere dal 1° gennaio 2006.
+
+[^agg-115]: *AGGIORNAMENTO (115)* Il [D.L. 14 marzo 2005, n. 35](../../../../../Dl%2035-2005%20-%2014.03.2005/00%20-%20Indice%20%28dl35-05%29.md), convertito con modificazioni dalla [L. 14 maggio 2005, n. 80](../../../../../L.%2080-2005%20-%2014.05.2005/00%20-%20Indice%20%28l80-05%29.md), come modificato dalla L. 28 dicembre 2005, n. 263, ha disposto (con l'[art. 2](../../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/01%20-%20Sezione%20I%20-%20Della%20giurisdizione%20e%20della%20competenza%20in%20generale/art-2-cpc.md), comma 3-sexies) che "Le disposizioni di cui ai commi 3, lettera e), numeri da 2) a 43-bis), e 3-ter, lettere a-bis), b), c), c-bis), d), e) ed f), entrano in vigore il 1° gennaio 2006 e si applicano anche alle procedure esecutive pendenti a tale data di entrata in vigore. Quando tuttavia è già stata ordinata la vendita, la stessa ha luogo con l'osservanza delle norme precedentemente in vigore. L'intervento dei creditori non muniti di titolo esecutivo conserva efficacia se avvenuto prima del 1° gennaio 2006".
+
+[^agg-116]: *AGGIORNAMENTO (116)* Il [D.L. 14 marzo 2005, n. 35](../../../../../Dl%2035-2005%20-%2014.03.2005/00%20-%20Indice%20%28dl35-05%29.md), convertito con modificazioni dalla [L. 14 maggio 2005, n. 80](../../../../../L.%2080-2005%20-%2014.05.2005/00%20-%20Indice%20%28l80-05%29.md), come modificato dal D.L. 30 dicembre 2005, n. 273, convertito con modificazioni dalla L. 23 febbraio 2006, n. 51, ha disposto (con l'[art. 2](../../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/01%20-%20Sezione%20I%20-%20Della%20giurisdizione%20e%20della%20competenza%20in%20generale/art-2-cpc.md), comma 3-sexies) che "Le disposizioni di cui ai commi 3, lettera e), numeri da 2) a 43-bis), e 3-ter, lettere a-bis), b), c), c-bis), d), e) ed f), entrano in vigore il 1° marzo 2006 e si applicano anche alle procedure esecutive pendenti a tale data di entrata in vigore. Quando tuttavia è già stata ordinata la vendita, la stessa ha luogo con l'osservanza delle norme precedentemente in vigore. L'intervento dei creditori non muniti di titolo esecutivo conserva efficacia se avvenuto prima del 1° marzo 2006".
+
+[^agg-148]: *AGGIORNAMENTO (148)* Il D.L. 27 giugno 2015, n. 83, convertito con modificazioni dalla L. 6 agosto 2015, n. 132, ha disposto (con l'[art. 23](../../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/03%20-%20Sezione%20III%20-%20Della%20competenza%20per%20territorio/art-23-cpc.md), comma 2) che le disposizioni di cui al primo comma del presente articolo "si applicano decorsi trenta giorni dalla pubblicazione in Gazzetta Ufficiale delle specifiche tecniche previste dall'articolo 161-quater delle disposizioni per l'attuazione del [codice di procedura civile](../../../../00%20-%20Indice%20%28cpc%29.md)". Ha inoltre disposto (con l'[art. 23](../../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/03%20-%20Sezione%20III%20-%20Della%20competenza%20per%20territorio/art-23-cpc.md), comma 9) che "Le disposizioni di cui all'[articolo 13](../../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/02%20-%20Sezione%20II%20-%20Della%20competenza%20per%20materia%20e%20valore/art-13-cpc.md), diverse da quelle indicate nel presente articolo, si applicano anche ai procedimenti pendenti alla data di entrata in vigore del presente decreto. Quando è già stata disposta la vendita, la stessa ha comunque luogo con l'osservanza delle norme precedentemente in vigore e le disposizioni di cui al presente decreto si applicano quando il giudice o il professionista delegato dispone una nuova vendita".

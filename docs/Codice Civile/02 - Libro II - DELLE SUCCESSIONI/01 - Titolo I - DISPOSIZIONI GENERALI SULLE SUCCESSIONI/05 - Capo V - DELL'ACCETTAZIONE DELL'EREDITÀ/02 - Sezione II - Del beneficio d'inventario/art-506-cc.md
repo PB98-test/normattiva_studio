@@ -1,0 +1,27 @@
+---
+type: "Articolo di legge"
+title: "Art. 506 - Procedure individuali"
+articolo: "Art. 506"
+codice: cc
+aliases:
+  - "art-506-cc"
+libro: "II"
+libro_label: "DELLE SUCCESSIONI"
+titolo: "I"
+titolo_label: "DISPOSIZIONI GENERALI SULLE SUCCESSIONI"
+capo: "V"
+capo_label: "DELL'ACCETTAZIONE DELL'EREDITÀ"
+sezione: "II"
+sezione_label: "Del beneficio d'inventario"
+rubrica: "Procedure individuali"
+dataVigenza: "20260914"
+ordine: 593
+---
+
+# Art. 506 - ***Procedure individuali***
+
+Eseguita la pubblicazione prescritta dal terzo comma dell'[art. 498](art-498-cc.md), non possono essere promosse procedure esecutive a istanza dei creditori. Possono tuttavia essere continuate quelle in corso, ma la parte di prezzo che residua dopo il pagamento dei creditori privilegiati e ipotecari deve essere distribuita in base allo stato di graduazione previsto dall'[art. 499](art-499-cc.md).
+
+I crediti a termine diventano esigibili. Resta tuttavia il beneficio del termine, quando il credito è munito di garanzia reale su beni la cui alienazione non si renda necessaria ai fini della liquidazione, e la garanzia stessa è idonea ad assicurare il soddisfacimento integrale del credito.
+
+Dalla data di pubblicazione dell'invito ai creditori previsto dal terzo comma dell'[art. 498](art-498-cc.md) è sospeso il decorso degl'interessi dei crediti chirografari. I creditori tuttavia hanno diritto, compiuta la liquidazione, al collocamento degli interessi sugli eventuali residui.

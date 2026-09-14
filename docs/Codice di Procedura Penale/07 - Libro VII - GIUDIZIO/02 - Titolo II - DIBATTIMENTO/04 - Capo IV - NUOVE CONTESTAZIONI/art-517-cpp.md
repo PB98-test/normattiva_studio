@@ -1,0 +1,47 @@
+---
+type: "Articolo di legge"
+title: "Art. 517 - Reato concorrente e circostanze aggravanti risultanti dal dibattimento"
+articolo: "Art. 517"
+codice: cpp
+aliases:
+  - "art-517-cpp"
+libro: "VII"
+libro_label: "GIUDIZIO"
+titolo: "II"
+titolo_label: "DIBATTIMENTO"
+capo: "IV"
+capo_label: "NUOVE CONTESTAZIONI"
+sezione: null
+sezione_label: null
+rubrica: "Reato concorrente e circostanze aggravanti risultanti dal dibattimento"
+dataVigenza: "20260914"
+ordine: 625
+---
+
+# Art. 517 - ***Reato concorrente e circostanze aggravanti risultanti dal dibattimento***
+
+1. Qualora nel corso dell'istruzione dibattimentale emerga un reato connesso a norma dell'[articolo 12](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/02%20-%20Capo%20II%20-%20COMPETENZA/04%20-%20Sezione%20IV%20-%20Competenza%20per%20connessione/art-12-cpp.md) comma 1 lettera b) ovvero una circostanza aggravante e non ve ne sia menzione nel decreto che dispone il giudizio, il pubblico ministero contesta all'imputato il reato o la circostanza, purchè la cognizione non appartenga alla competenza di un giudice superiore.
+
+1-bis. Si applicano le disposizioni previste dall'artitolo 516, commi 1-bis e 1-ter. [^agg-65] [^agg-67] [^agg-175] [^agg-190] [^agg-213] [^agg-232] [^agg-259] [^agg-265] [^agg-286]
+
+[^agg-65]: *AGGIORNAMENTO (65)* La Corte costituzionale, con sentenza 22-30 giugno 1994, n. 265 (in G.U. 1a s.s. 06/07/1994, n. 28), ha dichiarato l'illegittimità costituzionale dell'[art. 517 del codice di procedura penale](art-517-cpp.md) nella parte in cui non prevede la facoltà dell' imputato di richiedere al giudice del dibattimento l'applicazione di pena a norma dell'art, 444 del [codice di procedura penale](../../../00%20-%20Indice%20%28cpp%29.md), relativamente al fatto diverso o al reato concorrente contestato in dibattimento, quando la nuova contestazione concerne un fatto che già risultava dagli atti di indagine al momento dell' esercizio dell'azione penale ovvero quando l' imputato ha tempestivamente e ritualmente proposto la richiesta di applicazione di pena in ordine alle originarie imputazioni.
+
+[^agg-67]: *AGGIORNAMENTO (67)* La Corte costituzionale, con sentenza 15-29 dicembre 1995 (G.U. 1a s.s. 3/1/1996 n. 1) ha disposto "l' illegittimità costituzionale dell'[art. 517 del codice di procedura penale](art-517-cpp.md) nella parte in cui non prevede la facoltà dell'imputato di proporre domanda di oblazione, ai sensi degli [artt. 162](../../../../Codice%20Penale/01%20-%20Libro%20I%20-%20DEI%20REATI%20IN%20GENERALE/06%20-%20Titolo%20VI%20-%20DELLA%20ESTINZIONE%20DEL%20REATO%20E%20DELLA%20PENA/01%20-%20Capo%20I%20-%20Della%20estinzione%20del%20reato/art-162-cp.md) e [162-bis del codice penale](../../../../Codice%20Penale/01%20-%20Libro%20I%20-%20DEI%20REATI%20IN%20GENERALE/06%20-%20Titolo%20VI%20-%20DELLA%20ESTINZIONE%20DEL%20REATO%20E%20DELLA%20PENA/01%20-%20Capo%20I%20-%20Della%20estinzione%20del%20reato/art-162-bis-cp.md), relativamente al reato concorrente contestato in dibattimento".
+
+[^agg-90]: *AGGIORNAMENTO (90)* Il [D. Lgs. 19 febbraio 1998, n. 51](../../../../Dlgs%2051-1998%20-%2019.02.1998/00%20-%20Indice%20%28dlgs51-98%29.md) ha disposto (con l'[art. 247](../../../03%20-%20Libro%20III%20-%20PROVE/03%20-%20Titolo%20III%20-%20MEZZI%20DI%20RICERCA%20DELLA%20PROVA/02%20-%20Capo%20II%20-%20PERQUISIZIONI/art-247-cpp.md), comma 1) che "Il presente decreto legislativo entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace decorso il termine stabilito dall'articolo 1, comma 1, lettera r), della legge 16 luglio 1997, n. 254, fatta eccezione per le disposizioni previste dagli [articoli 17](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/03%20-%20Capo%20III%20-%20RIUNIONE%20E%20SEPARAZIONE%20DI%20PROCESSI/art-17-cpp.md), [33](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/06%20-%20Capo%20VI%20-%20CAPACITÀ%20E%20COMPOSIZIONE%20DEL%20GIUDICE/art-33-cpp.md), comma 1, 38, comma 1 e 40, commi 1 e 3".
+
+[^agg-90a]: *AGGIORNAMENTO (90a)* Il [D. Lgs. 19 febbraio 1998, n. 51](../../../../Dlgs%2051-1998%20-%2019.02.1998/00%20-%20Indice%20%28dlgs51-98%29.md) come modificato dalla [L. 16 giugno 1998, n. 188](../../../../L.%20188-1998%20-%2016.06.1998/00%20-%20Indice%20%28l188-98%29.md) ha disposto (con l'[art. 247](../../../03%20-%20Libro%20III%20-%20PROVE/03%20-%20Titolo%20III%20-%20MEZZI%20DI%20RICERCA%20DELLA%20PROVA/02%20-%20Capo%20II%20-%20PERQUISIZIONI/art-247-cpp.md), comma 1) che "Il presente decreto legislativo entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace a decorrere dal 2 giugno 1999 , fatta eccezione per le disposizioni previste dagli [articoli 17](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/03%20-%20Capo%20III%20-%20RIUNIONE%20E%20SEPARAZIONE%20DI%20PROCESSI/art-17-cpp.md), [33](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/06%20-%20Capo%20VI%20-%20CAPACITÀ%20E%20COMPOSIZIONE%20DEL%20GIUDICE/art-33-cpp.md), comma 1, 38, comma 1 e 40, commi 1 e 3".
+
+[^agg-175]: *AGGIORNAMENTO (175)* La Corte Costituzionale, con sentenza 14 - 18 dicembre 2009, n. 333 (in G.U. 1a s.s. 23/12/2009, n. 51) ha disposto l'illegittimità costituzionale dell'[art. 517 del codice di procedura penale](art-517-cpp.md), nella parte in cui non prevede la facoltà dell'imputato di richiedere al giudice del dibattimento il giudizio abbreviato relativamente al reato concorrente contestato in dibattimento, quando la nuova contestazione concerne un fatto che già risultava dagli atti di indagine al momento di esercizio dell'azione penale.
+
+[^agg-190]: *AGGIORNAMENTO (190)* La Corte Costituzionale, con sentenza 22 - 26 ottobre 2012, n. 237 (in G.U. 1a s.s. 31/10/2012, n. 43) ha dichiarato "l'illegittimità costituzionale dell'[articolo 517 del codice di procedura penale](art-517-cpp.md), nella parte in cui non prevede la facoltà dell'imputato di richiedere al giudice del dibattimento il giudizio abbreviato relativamente al reato concorrente emerso nel corso dell'istruzione dibattimentale, che forma oggetto della nuova contestazione".
+
+[^agg-213]: *AGGIORNAMENTO (213)* La Corte Costituzionale, con sentenza 23 - 25 giugno 2014, n. 184 (in G.U. 1a s.s. 2/07/2014, n. 28) ha dichiarato "l'illegittimità costituzionale dell'[art. 517 del codice di procedura penale](art-517-cpp.md), nella parte in cui non prevede la facoltà dell'imputato di richiedere al giudice del dibattimento l'applicazione di pena, a norma dell'[art. 444 del codice di procedura penale](../../../06%20-%20Libro%20VI%20-%20PROCEDIMENTI%20SPECIALI/02%20-%20Titolo%20II%20-%20APPLICAZIONE%20DELLA%20PENA%20SU%20RICHIESTA%20DELLE%20PARTI/art-444-cpp.md), in seguito alla contestazione nel dibattimento di una circostanza aggravante che già risultava dagli atti di indagine al momento dell'esercizio dell'azione penale".
+
+[^agg-232]: *AGGIORNAMENTO (232)* La Corte Costituzionale, con sentenza 26 maggio - 9 luglio 2015, n. 139 (in G.U. 1ª s.s. 15/7/2015, n. 28), ha dichiarato "l'illegittimità costituzionale dell'[art. 517 del codice di procedura penale](art-517-cpp.md), nella parte in cui, nel caso di contestazione di una circostanza aggravante che già risultava dagli atti di indagine al momento dell'esercizio dell'azione penale, non prevede la facoltà dell'imputato di richiedere al giudice del dibattimento il giudizio abbreviato relativamente al reato oggetto della nuova contestazione".
+
+[^agg-259]: *AGGIORNAMENTO (259)* La Corte Costituzionale, con sentenza 21 marzo - 5 luglio 2018, n. 141 (in G.U. 1ª s.s. 11/07/2018, n. 28), ha dichiarato "l'illegittimità costituzionale dell'[art. 517 del codice di procedura penale](art-517-cpp.md), nella parte in cui, in seguito alla nuova contestazione di una circostanza aggravante, non prevede la facoltà dell'imputato di richiedere al giudice del dibattimento la sospensione del procedimento con messa alla prova".
+
+[^agg-265]: *AGGIORNAMENTO (265)* La Corte Costituzionale, con sentenza 20 febbraio - 11 aprile 2019, n. 82 (in G.U. 1ª s.s. 17/04/2019, n. 16), ha dichiarato "l'illegittimità costituzionale dell'[art. 517 del codice di procedura penale](art-517-cpp.md), nella parte in cui non prevede la facoltà dell'imputato di richiedere al giudice del dibattimento l'applicazione della pena, a norma dell'[art. 444 cod. proc. pen.](../../../06%20-%20Libro%20VI%20-%20PROCEDIMENTI%20SPECIALI/02%20-%20Titolo%20II%20-%20APPLICAZIONE%20DELLA%20PENA%20SU%20RICHIESTA%20DELLE%20PARTI/art-444-cpp.md), relativamente al reato concorrente emerso nel corso del dibattimento e che forma oggetto di nuova contestazione".
+
+[^agg-286]: *AGGIORNAMENTO (286)* La Corte Costituzionale, con sentenza 27 aprile - 14 giugno 2022, n. 146 (in G.U. 1ª s.s. 15/06/2022, n. 24), ha dichiarato "l'illegittimità costituzionale dell'[art. 517 del codice di procedura penale](art-517-cpp.md), nella parte in cui non prevede, in seguito alla contestazione di reati connessi a norma dell'[art. 12, comma 1, lettera b), cod. proc. pen.](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/02%20-%20Capo%20II%20-%20COMPETENZA/04%20-%20Sezione%20IV%20-%20Competenza%20per%20connessione/art-12-cpp.md), la facoltà dell'imputato di richiedere la sospensione del procedimento con messa alla prova, con riferimento a tutti i reati contestatigli".

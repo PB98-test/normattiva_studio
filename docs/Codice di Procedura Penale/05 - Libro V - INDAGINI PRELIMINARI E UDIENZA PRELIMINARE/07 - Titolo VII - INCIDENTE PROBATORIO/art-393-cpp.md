@@ -1,0 +1,37 @@
+---
+type: "Articolo di legge"
+title: "Art. 393 - Richiesta"
+articolo: "Art. 393"
+codice: cpp
+aliases:
+  - "art-393-cpp"
+libro: "V"
+libro_label: "INDAGINI PRELIMINARI E UDIENZA PRELIMINARE"
+titolo: "VII"
+titolo_label: "INCIDENTE PROBATORIO"
+capo: null
+capo_label: null
+sezione: null
+sezione_label: null
+rubrica: "Richiesta"
+dataVigenza: "20260914"
+ordine: 476
+---
+
+# Art. 393 - ***Richiesta***
+
+1. La richiesta è presentata entro i termini per la conclusione delle indagini preliminari e comunque in tempo sufficiente per l'assunzione della prova prima della scadenza dei medesimi termini e indica:
+
+- a) la prova da assumere, i fatti che ne costituiscono l'oggetto e le ragioni della sua rilevanza per la decisione dibattimentale;
+- b) le persone nei confronti delle quali si procede per i fatti oggetto della prova;
+- c) le circostanze che, a norma dell'[articolo 392](art-392-cpp.md), rendono la prova non rinviabile al dibattimento.
+
+2. La richiesta proposta dal pubblico ministero indica anche i difensori delle persone interessate a norma del comma 1 lettera b), la persona offesa e il suo difensore.
+
+2-bis. Con la richiesta di incidente probatorio di cui all'[articolo 392](art-392-cpp.md), comma 1-bis, il pubblico ministero deposita tutti gli atti di indagine compiuti
+
+3. Le disposizioni dei commi 1 e 2 si osservano a pena di inammissibilità.
+
+4. Il pubblico ministero e la persona sottoposta alle indagini possono chiedere la proroga del termine delle indagini preliminari ai fini dell'esecuzione dell'incidente probatorio. Il giudice provvede con decreto motivato, concedendo la proroga per il tempo indispensabile all'assunzione della prova quando risulta che la richiesta di incidente probatorio non avrebbe potuto essere formulata anteriormente. Nello stesso modo il giudice provvede se il termine per le indagini preliminari scade durante l'esecuzione dell'incidente probatorio. Del provvedimento è data in ogni caso comunicazione al procuratore generale presso la corte di appello. [^agg-53]
+
+[^agg-53]: *AGGIORNAMENTO (53)* La Corte costituzionale, con sentenza 23 febbraio-10 marzo 1994, n. 77 (in G.U. 1a s.s. 16/03/1994, n. 12) 7), ha disposto l' illegittimità costituzionale del presente articolo "nella parte in cui non consente che, nei casi previsti dal presente articolo, l'incidente probatorio possa essere richiesto anche nella fase dell'udienza preliminare."

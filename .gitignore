@@ -1,0 +1,3 @@
+# Output della build MkDocs — ricostruito da GitHub Actions ad ogni push,
+# non ha senso versionarlo.
+/_site/

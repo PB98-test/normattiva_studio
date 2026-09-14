@@ -1,0 +1,33 @@
+---
+type: "Articolo di legge"
+title: "Art. 345 - Domande ed eccezioni nuove"
+articolo: "Art. 345"
+codice: cpc
+aliases:
+  - "art-345-cpc"
+libro: "II"
+libro_label: "DEL PROCESSO DI COGNIZIONE"
+titolo: "III"
+titolo_label: "DELLE IMPUGNAZIONI"
+capo: "II"
+capo_label: "Dell'appello"
+sezione: null
+sezione_label: null
+rubrica: "Domande ed eccezioni nuove"
+dataVigenza: "20260914"
+ordine: 383
+---
+
+# Art. 345 - ***Domande ed eccezioni nuove***
+
+Nel giudizio d'appello non possono proporsi domande nuove e, se proposte, debbono essere dichiarate inammissibili d'ufficio. Possono tuttavia domandarsi gli interessi, i frutti e gli accessori maturati dopo la sentenza impugnata, nonchè il risarcimento dei danni sofferti dopo la sentenza stessa.
+
+Non possono proporsi nuove eccezioni, che non siano rilevabili anche d'ufficio.
+
+Non sono ammessi i nuovi mezzi di prova e non possono essere prodotti nuovi documenti, salvo ... che la parte dimostri di non aver potuto proporli o produrli nel giudizio di primo grado per causa ad essa non imputabile. Può sempre deferirsi il giuramento decisorio. [^agg-125]   [^agg-67] [^agg-72]
+
+[^agg-67]: *AGGIORNAMENTO (67)* La [L. 26 novembre 1990, n. 353](../../../../L.%20353-1990%20-%2026.11.1990/00%20-%20Indice%20%28l353-90%29.md), come modificata dalla L. 4 dicembre 1992, n. 477, ha disposto: - (con l'[art. 92](../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/03%20-%20Titolo%20III%20-%20DELLE%20PARTI%20E%20DEI%20DIFENSORI/04%20-%20Capo%20IV%20-%20Delle%20responsabilità%20delle%20parti%20per%20le%20spese%20e%20per%20i%20danni%20processual/art-92-cpc.md), comma 1) che "Fatta eccezione per la disposizione di cui all'[articolo 1](../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/01%20-%20Sezione%20I%20-%20Della%20giurisdizione%20e%20della%20competenza%20in%20generale/art-1-cpc.md), la presente legge entra in vigore il 1 gennaio 1993. Ai giudizi pendenti a tale data si applicano, fino al 2 gennaio 1994, le disposizioni anteriormente vigenti."; - (con l'[art. 92](../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/03%20-%20Titolo%20III%20-%20DELLE%20PARTI%20E%20DEI%20DIFENSORI/04%20-%20Capo%20IV%20-%20Delle%20responsabilità%20delle%20parti%20per%20le%20spese%20e%20per%20i%20danni%20processual/art-92-cpc.md), comma 2) che "Le disposizioni di cui agli [articoli 3](../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/01%20-%20Sezione%20I%20-%20Della%20giurisdizione%20e%20della%20competenza%20in%20generale/art-3-cpc.md); [4](../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/01%20-%20Sezione%20I%20-%20Della%20giurisdizione%20e%20della%20competenza%20in%20generale/art-4-cpc.md); da 7 a 15; da 17 a 19; da 22 a 32; da 36 a 47; da 50 a 58; 70; 73; da 78 a 83 e 88 hanno efficacia a partire dal 2 gennaio 1994."
+
+[^agg-72]: *AGGIORNAMENTO (72)* La [L. 26 novembre 1990, n. 353](../../../../L.%20353-1990%20-%2026.11.1990/00%20-%20Indice%20%28l353-90%29.md), come modificata dal D.L. 7 ottobre 1994, n. 571, convertito con modificazioni dalla L. 6 dicembre 1994, n. 673, ha disposto: - (con l'[art. 92](../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/03%20-%20Titolo%20III%20-%20DELLE%20PARTI%20E%20DEI%20DIFENSORI/04%20-%20Capo%20IV%20-%20Delle%20responsabilità%20delle%20parti%20per%20le%20spese%20e%20per%20i%20danni%20processual/art-92-cpc.md), comma 1) che "Fatta eccezione per la disposizione di cui all'[articolo 1](../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/01%20-%20Sezione%20I%20-%20Della%20giurisdizione%20e%20della%20competenza%20in%20generale/art-1-cpc.md), la presente legge entra in vigore il 1 gennaio 1993. Ai giudizi pendenti a tale data si applicano, fino al 30 aprile 1995, le disposizioni anteriormente vigenti."; - (con l'[art. 92](../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/03%20-%20Titolo%20III%20-%20DELLE%20PARTI%20E%20DEI%20DIFENSORI/04%20-%20Capo%20IV%20-%20Delle%20responsabilità%20delle%20parti%20per%20le%20spese%20e%20per%20i%20danni%20processual/art-92-cpc.md), comma 2) che "Le disposizioni di cui agli [articoli 3](../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/01%20-%20Sezione%20I%20-%20Della%20giurisdizione%20e%20della%20competenza%20in%20generale/art-3-cpc.md); [4](../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/01%20-%20Sezione%20I%20-%20Della%20giurisdizione%20e%20della%20competenza%20in%20generale/art-4-cpc.md); da 7 a 15; da 17 a 19; da 22 a 32; da 36 a 47; da 50 a 58; 70; 73; da 78 a 83 e 88 hanno efficacia a partire dal 30 aprile 1995."
+
+[^agg-125]: *AGGIORNAMENTO (125)* La L. 18 giugno 2009, n. 69 ha disposto (con l'[art. 58](../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/02%20-%20Capo%20II%20-%20Del%20cancelliere,%20dell'ufficio%20per%20il%20processo%20e%20dell'ufficiale%20giudizi/art-58-cpc.md), comma 2) che "Ai giudizi pendenti in primo grado alla data di entrata in vigore della presente legge si applicano gli [articoli 132](../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/06%20-%20Titolo%20VI%20-%20DEGLI%20ATTI%20PROCESSUALI/01%20-%20Capo%20I%20-%20Delle%20forme%20degli%20atti%20e%20dei%20provvedimenti/03%20-%20Sezione%20III%20-%20Dei%20provvedimenti/art-132-cpc.md), [345](art-345-cpc.md) e [616 del codice di procedura civile](../../../03%20-%20Libro%20III%20-%20DEL%20PROCESSO%20DI%20ESECUZIONE/05%20-%20Titolo%20V%20-%20DELLE%20OPPOSIZIONI/01%20-%20Capo%20I%20-%20Delle%20opposizioni%20del%20debitore%20e%20del%20terzo%20assoggettato%20all'esecuzione/01%20-%20Sezione%20I%20-%20Delle%20opposizioni%20all'esecuzione/art-616-cpc.md) e l'[articolo 118](../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/05%20-%20Titolo%20V%20-%20DEI%20POTERI%20DEL%20GIUDICE/art-118-cpc.md) delle disposizioni per l'attuazione del [codice di procedura civile](../../../00%20-%20Indice%20%28cpc%29.md), come modificati dalla presente legge".

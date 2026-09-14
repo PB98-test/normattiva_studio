@@ -1,0 +1,43 @@
+---
+type: "Articolo di legge"
+title: "Art. 295 - Verbale di vane ricerche"
+articolo: "Art. 295"
+codice: cpp
+aliases:
+  - "art-295-cpp"
+libro: "IV"
+libro_label: "MISURE CAUTELARI"
+titolo: "I"
+titolo_label: "MISURE CAUTELARI PERSONALI"
+capo: "IV"
+capo_label: "FORMA ED ESECUZIONE DEI PROVVEDIMENTI"
+sezione: null
+sezione_label: null
+rubrica: "Verbale di vane ricerche"
+dataVigenza: "20260914"
+ordine: 353
+---
+
+# Art. 295 - ***Verbale di vane ricerche***
+
+1. Se la persona nei cui confronti la misura è disposta non viene rintracciata e non è possibile procedere nei modi previsti dall'[articolo 293](art-293-cpp.md), l'ufficiale o l'agente redige ugualmente il verbale, indicando specificamente le indagini svolte, e lo trasmette senza ritardo al giudice che ha emesso l'ordinanza.
+
+2. Il giudice, se ritiene le ricerche esaurienti, dichiara, nei casi e con le modalità previste dall'[articolo 296](art-296-cpp.md), lo stato di latitanza , altrimenti dispone la prosecuzione delle ricerche.
+
+3. Al fine di agevolare le ricerche del latitante, il giudice o il pubblico ministero, nei limiti e con le modalità previste dagli [articoli 266](../../../03%20-%20Libro%20III%20-%20PROVE/03%20-%20Titolo%20III%20-%20MEZZI%20DI%20RICERCA%20DELLA%20PROVA/04%20-%20Capo%20IV%20-%20INTERCETTAZIONI%20DI%20CONVERSAZIONI%20O%20COMUNICAZIONI/art-266-cpp.md) e [267](../../../03%20-%20Libro%20III%20-%20PROVE/03%20-%20Titolo%20III%20-%20MEZZI%20DI%20RICERCA%20DELLA%20PROVA/04%20-%20Capo%20IV%20-%20INTERCETTAZIONI%20DI%20CONVERSAZIONI%20O%20COMUNICAZIONI/art-267-cpp.md), può disporre l'intercettazione di conversazioni o comunicazioni telefoniche e di altre forme di telecomunicazione. Si applicano, ove possibile, le disposizioni degli [articoli 268](../../../03%20-%20Libro%20III%20-%20PROVE/03%20-%20Titolo%20III%20-%20MEZZI%20DI%20RICERCA%20DELLA%20PROVA/04%20-%20Capo%20IV%20-%20INTERCETTAZIONI%20DI%20CONVERSAZIONI%20O%20COMUNICAZIONI/art-268-cpp.md), [269](../../../03%20-%20Libro%20III%20-%20PROVE/03%20-%20Titolo%20III%20-%20MEZZI%20DI%20RICERCA%20DELLA%20PROVA/04%20-%20Capo%20IV%20-%20INTERCETTAZIONI%20DI%20CONVERSAZIONI%20O%20COMUNICAZIONI/art-269-cpp.md) e [270](../../../03%20-%20Libro%20III%20-%20PROVE/03%20-%20Titolo%20III%20-%20MEZZI%20DI%20RICERCA%20DELLA%20PROVA/04%20-%20Capo%20IV%20-%20INTERCETTAZIONI%20DI%20CONVERSAZIONI%20O%20COMUNICAZIONI/art-270-cpp.md). [^agg-253] [^agg-260] [^agg-263] [^agg-267] [^agg-270] [^agg-275]
+
+3-bis. Fermo quanto disposto nel comma 3 del presente articolo e nel comma 5 dell'[articolo 103](../../../01%20-%20Libro%20I%20-%20SOGGETTI/07%20-%20Titolo%20VII%20-%20DIFENSORE/art-103-cpp.md), il giudice o il pubblico ministero può disporre l'intercettazione di comunicazioni tra presenti quando si tratta di agevolare le ricerche di un latitante in relazione a uno dei delitti previsti dall'[articolo 51](../../../01%20-%20Libro%20I%20-%20SOGGETTI/02%20-%20Titolo%20II%20-%20PUBBLICO%20MINISTERO/art-51-cpp.md), comma 3-bis nonchè dall'[articolo 407](../../../05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/08%20-%20Titolo%20VIII%20-%20CHIUSURA%20DELLE%20INDAGINI%20PRELIMINARI/art-407-cpp.md) comma 2 lettera a) n. 4.
+
+3-ter. Nei giudizi davanti alla Corte d'assise, ai fini di quanto previsto dai commi 3 e 3-bis, in luogo del giudice provvede il presidente della Corte.
+
+[^agg-253]: *AGGIORNAMENTO (253)* Il D.Lgs. 29 dicembre 2017, n. 216 ha disposto (con l'[art. 9](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/02%20-%20Capo%20II%20-%20COMPETENZA/03%20-%20Sezione%20III%20-%20Competenza%20per%20territorio/art-9-cpp.md), comma 1) che la presente modifica si applica alle operazioni di intercettazione relative a provvedimenti autorizzativi emessi dopo il centottantesimo giorno successivo alla data di entrata in vigore del decreto medesimo.
+
+[^agg-260]: *AGGIORNAMENTO (260)* Il D.Lgs. 29 dicembre 2017, n. 216, come modificato dal D.L. 25 luglio 2018, n. 91, convertito con modificazioni dalla L. 21 settembre 2018, n. 108, ha disposto (con l'[art. 9](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/02%20-%20Capo%20II%20-%20COMPETENZA/03%20-%20Sezione%20III%20-%20Competenza%20per%20territorio/art-9-cpp.md), comma 1) che "Le disposizioni di cui agli [articoli 2](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/01%20-%20Capo%20I%20-%20GIURISDIZIONE/art-2-cpp.md), [3](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/01%20-%20Capo%20I%20-%20GIURISDIZIONE/art-3-cpp.md) 4, 5 e 7 si applicano alle operazioni di intercettazione relative a provvedimenti autorizzativi emessi dopo il 31 marzo 2019".
+
+[^agg-263]: *AGGIORNAMENTO (263)* Il D.Lgs. 29 dicembre 2017, n. 216, come modificato dalla L. 30 dicembre 2018, n. 145, ha disposto (con l'[art. 9](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/02%20-%20Capo%20II%20-%20COMPETENZA/03%20-%20Sezione%20III%20-%20Competenza%20per%20territorio/art-9-cpp.md), comma 1) che "Le disposizioni di cui agli [articoli 2](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/01%20-%20Capo%20I%20-%20GIURISDIZIONE/art-2-cpp.md), [3](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/01%20-%20Capo%20I%20-%20GIURISDIZIONE/art-3-cpp.md) 4, 5 e 7 si applicano alle operazioni di intercettazione relative a provvedimenti autorizzativi emessi dopo il 31 luglio 2019".
+
+[^agg-267]: *AGGIORNAMENTO (267)* Il D.Lgs. 29 dicembre 2017, n. 216, come modificato dal D.L. 14 giugno 2019, n. 53, ha disposto (con l'[art. 9](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/02%20-%20Capo%20II%20-%20COMPETENZA/03%20-%20Sezione%20III%20-%20Competenza%20per%20territorio/art-9-cpp.md), comma 1) che "Le disposizioni di cui agli [articoli 2](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/01%20-%20Capo%20I%20-%20GIURISDIZIONE/art-2-cpp.md), [3](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/01%20-%20Capo%20I%20-%20GIURISDIZIONE/art-3-cpp.md) 4, 5 e 7 si applicano alle operazioni di intercettazione relative a provvedimenti autorizzativi emessi dopo il 31 dicembre 2019".
+
+[^agg-270]: *AGGIORNAMENTO (270)* Il D.L. 30 dicembre 2019, n. 161, convertito con modificazioni dalla L. 28 febbraio 2020, n. 7, ha disposto (con l'[art. 2](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/01%20-%20Capo%20I%20-%20GIURISDIZIONE/art-2-cpp.md), comma 8) che "Le disposizioni del presente articolo si applicano ai procedimenti penali iscritti successivamente al 30 aprile 2020". Il D.Lgs. 29 dicembre 2017, n. 216, come modificato dal D.L. 30 dicembre 2019, n. 161, convertito con modificazioni dalla L. 28 febbraio 2020, n. 7, ha disposto (con l'[art. 9](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/02%20-%20Capo%20II%20-%20COMPETENZA/03%20-%20Sezione%20III%20-%20Competenza%20per%20territorio/art-9-cpp.md), comma 1) che "Le disposizioni di cui agli [articoli 2](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/01%20-%20Capo%20I%20-%20GIURISDIZIONE/art-2-cpp.md), [3](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/01%20-%20Capo%20I%20-%20GIURISDIZIONE/art-3-cpp.md) 4, 5 e 7 si applicano ai procedimenti penali iscritti dopo il 30 aprile 2020".
+
+[^agg-275]: *AGGIORNAMENTO (275)* Il D.Lgs. 29 dicembre 2017, n. 216, come modificato dal D.L. 30 aprile 2020, n. 28 ha disposto (con l'[art. 9](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/02%20-%20Capo%20II%20-%20COMPETENZA/03%20-%20Sezione%20III%20-%20Competenza%20per%20territorio/art-9-cpp.md), comma 1) che "Le disposizioni di cui agli [articoli 2](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/01%20-%20Capo%20I%20-%20GIURISDIZIONE/art-2-cpp.md), [3](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/01%20-%20Capo%20I%20-%20GIURISDIZIONE/art-3-cpp.md) 4, 5 e 7 si applicano ai procedimenti penali iscritti dopo il 31 agosto 2020". Il D.L. 30 dicembre 2019, n. 161, convertito con modificazioni dalla L. 28 febbraio 2020, n. 7, come modificato dal D.L. 30 aprile 2020, n. 28, ha disposto (con l'[art. 2](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/01%20-%20Capo%20I%20-%20GIURISDIZIONE/art-2-cpp.md), comma 8) che "Le disposizioni del presente articolo si applicano ai procedimenti penali iscritti successivamente al 31 agosto 2020, ad eccezione delle disposizioni di cui al comma 6 che sono di immediata applicazione".
