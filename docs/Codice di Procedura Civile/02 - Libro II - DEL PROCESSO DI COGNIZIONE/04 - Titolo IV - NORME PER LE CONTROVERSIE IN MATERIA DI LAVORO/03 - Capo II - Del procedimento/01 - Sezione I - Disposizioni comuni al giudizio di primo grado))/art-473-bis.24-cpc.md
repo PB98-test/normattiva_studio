@@ -29,7 +29,7 @@ Il reclamo deve essere proposto entro il termine perentorio di dieci giorni dall
 
 Il collegio, assicurato il contraddittorio tra le parti, entro sessanta giorni dal deposito del ricorso pronuncia ordinanza con la quale conferma, modifica o revoca il provvedimento reclamato e provvede sulle spese. Ove indispensabile ai fini della decisione, può assumere sommarie informazioni. L'ordinanza è immediatamente esecutiva.
 
-Avverso i provvedimenti di reclamo pronunciati nei casi di cui al primo comma, n. 2, è ammesso ricorso per cassazione ai sensi dell'[articolo 111](../../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/04%20-%20Titolo%20IV%20-%20DELL'ESERCIZIO%20DELL'AZIONE/art-111-cpc.md) della Costituzione. [^agg-178]
+Avverso i provvedimenti di reclamo pronunciati nei casi di cui al primo comma, n. 2, è ammesso ricorso per cassazione ai sensi dell'[articolo 111](../../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/04%20-%20Titolo%20IV%20-%20DELL%27ESERCIZIO%20DELL%27AZIONE/art-111-cpc.md) della Costituzione. [^agg-178]
 
 [^agg-171] [^agg-173]
 

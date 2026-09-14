@@ -28,7 +28,7 @@ L'atto costitutivo stabilisce il luogo, i criteri e le modalità di convocazione
 
 I delegati debbono essere soci. Alla assemblea generale possono assistere anche i soci che hanno preso parte alle assemblee separate.
 
-Le deliberazioni della assemblea generale possono essere impugnate ai sensi dell'[articolo 2377](../../../05%20-%20Titolo%20V%20-%20DELLE%20SOCIETÀ/05%20-%20Capo%20V%20-%20Società%20per%20azioni/07%20-%20Sezione%20VI%20-%20Dell'assemblea/art-2377-cc.md) anche dai soci assenti e dissenzienti nelle assemblee separate quando, senza i voti espressi dai delegati delle assemblee separate irregolarmente tenute, verrebbe meno la maggioranza richiesta per la validità della deliberazione.
+Le deliberazioni della assemblea generale possono essere impugnate ai sensi dell'[articolo 2377](../../../05%20-%20Titolo%20V%20-%20DELLE%20SOCIETÀ/05%20-%20Capo%20V%20-%20Società%20per%20azioni/07%20-%20Sezione%20VI%20-%20Dell%27assemblea/art-2377-cc.md) anche dai soci assenti e dissenzienti nelle assemblee separate quando, senza i voti espressi dai delegati delle assemblee separate irregolarmente tenute, verrebbe meno la maggioranza richiesta per la validità della deliberazione.
 
 Le deliberazioni delle assemblee separate non possono essere autonomamente impugnate.
 

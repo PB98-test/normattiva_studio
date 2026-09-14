@@ -20,7 +20,7 @@ ordine: 783
 
 # Art. 655 - ***Funzioni del pubblico ministero***
 
-1. Salvo che sia diversamente disposto, il pubblico ministero presso il giudice indicato nell'[articolo 665](../03%20-%20Titolo%20III%20-%20ATTRIBUZIONI%20DEGLI%20ORGANI%20GIURISDIZIONALI/01%20-%20Capo%20I%20-%20GIUDICE%20DELL'ESECUZIONE/art-665-cpp.md) cura di ufficio l'esecuzione dei provvedimenti.
+1. Salvo che sia diversamente disposto, il pubblico ministero presso il giudice indicato nell'[articolo 665](../03%20-%20Titolo%20III%20-%20ATTRIBUZIONI%20DEGLI%20ORGANI%20GIURISDIZIONALI/01%20-%20Capo%20I%20-%20GIUDICE%20DELL%27ESECUZIONE/art-665-cpp.md) cura di ufficio l'esecuzione dei provvedimenti.
 
 2. Il pubblico ministero propone le sue richieste al giudice competente e interviene in tutti i procedimenti di esecuzione.
 

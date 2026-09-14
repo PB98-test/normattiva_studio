@@ -46,7 +46,7 @@ ordine: 1
 - a) all'articolo 337-ter, secondo comma: 1) al terzo periodo, dopo le parole «degli accordi intervenuti tra i genitori» sono inserite le seguenti: «, in particolare qualora raggiunti all'esito di un percorso di mediazione familiare»; 2) al quinto periodo, sono aggiunte, in fine, le seguenti parole: «o su richiesta del pubblico ministero»; 3) il sesto periodo è soppresso;
 - b) l'articolo 337-octies è abrogato.
 
-6. Al Libro I, Titolo X, Capo I, Sezione II, [articolo 350, primo comma, del codice civile](../../Codice%20Civile/01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/10%20-%20Titolo%20X%20-%20DELLA%20TUTELA%20E%20DELL'EMANCIPAZIONE/01%20-%20Capo%20I%20-%20Della%20tutela%20dei%20minori/02%20-%20Sezione%20II%20-%20Del%20tutore%20e%20del%20protutore/art-350-cc.md), dopo il numero 5) è aggiunto il seguente: «5-bis) coloro che versano nelle ulteriori condizioni di incapacità previste dalla legge.».
+6. Al Libro I, Titolo X, Capo I, Sezione II, [articolo 350, primo comma, del codice civile](../../Codice%20Civile/01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/10%20-%20Titolo%20X%20-%20DELLA%20TUTELA%20E%20DELL%27EMANCIPAZIONE/01%20-%20Capo%20I%20-%20Della%20tutela%20dei%20minori/02%20-%20Sezione%20II%20-%20Del%20tutore%20e%20del%20protutore/art-350-cc.md), dopo il numero 5) è aggiunto il seguente: «5-bis) coloro che versano nelle ulteriori condizioni di incapacità previste dalla legge.».
 
 7. Al Libro I, Titolo X, Capo I, Sezione III, del [codice civile](../../Codice%20Civile/00%20-%20Indice%20%28cc%29.md) sono apportate le seguenti modificazioni:
 
@@ -60,7 +60,7 @@ ordine: 1
 - b) all'articolo 395, primo comma, le parole «, salva, se occorre, l'autorizzazione del tribunale» sono soppresse;
 - c) all'articolo 397: 1) al primo comma, le parole «, se è autorizzato dal tribunale, previo parere del giudice tutelare e sentito il curatore» sono sostituite dalle seguenti: «se è autorizzato dal giudice tutelare, sentito il curatore»; 2) al secondo comma, le parole «dal tribunale su istanza del curatore o d'ufficio, previo, in entrambi i casi, il parere del giudice tutelare e sentito il minore emancipato» sono sostituite dalle seguenti: «dal giudice tutelare su istanza del curatore o d'ufficio sentito il minore emancipato».
 
-9. Al Libro I, Titolo XII, Capo I, [articolo 411, primo comma, del codice civile](../../Codice%20Civile/01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/12%20-%20Titolo%20XII%20-%20Delle%20misure%20di%20protezione%20delle%20persone%20prive%20in%20tutto%20od%20in%20parte/01%20-%20Capo%20I%20-%20Dell'amministrazione%20di%20sostegno/art-411-cc.md), il secondo periodo è soppresso.
+9. Al Libro I, Titolo XII, Capo I, [articolo 411, primo comma, del codice civile](../../Codice%20Civile/01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/12%20-%20Titolo%20XII%20-%20Delle%20misure%20di%20protezione%20delle%20persone%20prive%20in%20tutto%20od%20in%20parte/01%20-%20Capo%20I%20-%20Dell%27amministrazione%20di%20sostegno/art-411-cc.md), il secondo periodo è soppresso.
 
 10. Al Libro I, Titolo XII, Capo II, articolo 425, primo comma, primo periodo, del [codice civile](../../Codice%20Civile/00%20-%20Indice%20%28cc%29.md), le parole «soltanto se autorizzato dal tribunale su parere del giudice tutelare» sono sostituite dalle seguenti: «soltanto se autorizzato dal giudice tutelare».
 

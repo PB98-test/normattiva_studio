@@ -20,4 +20,4 @@ ordine: 2257
 
 # Art. 2136 - ***Inapplicabilità delle norme sulla registrazione***
 
-Le norme relative all'iscrizione nel registro delle imprese non si applicano agli imprenditori agricoli, salvo quanto è disposto dall'[art. 2200](../../03%20-%20Capo%20III%20-%20Delle%20imprese%20commerciali%20e%20delle%20altre%20imprese%20soggette%20a%20registrazi/02%20-%20Sezione%20II%20-%20Dell'obbligo%20di%20registrazione/art-2200-cc.md).
+Le norme relative all'iscrizione nel registro delle imprese non si applicano agli imprenditori agricoli, salvo quanto è disposto dall'[art. 2200](../../03%20-%20Capo%20III%20-%20Delle%20imprese%20commerciali%20e%20delle%20altre%20imprese%20soggette%20a%20registrazi/02%20-%20Sezione%20II%20-%20Dell%27obbligo%20di%20registrazione/art-2200-cc.md).

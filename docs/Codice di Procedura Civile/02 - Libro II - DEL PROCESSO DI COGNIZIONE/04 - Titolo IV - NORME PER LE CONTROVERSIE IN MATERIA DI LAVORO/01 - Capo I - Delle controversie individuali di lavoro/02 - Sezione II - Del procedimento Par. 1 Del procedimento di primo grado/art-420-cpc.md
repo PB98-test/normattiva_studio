@@ -36,7 +36,7 @@ Nel caso in cui vengano ammessi nuovi mezzi di prova, a norma del quinto comma, 
 
 L'assunzione delle prove deve essere esaurita nella stessa udienza o, in caso di necessità, in udienza da tenersi nei giorni feriali immediatamente successivi.
 
-Nel caso di chiamata in causa a norma degli [articoli 102](../../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/04%20-%20Titolo%20IV%20-%20DELL'ESERCIZIO%20DELL'AZIONE/art-102-cpc.md), secondo comma, 106 e 107, il giudice fissa una nuova udienza e dispone che, entro cinque giorni, siano notificati al terzo il provvedimento nonchè il ricorso introduttivo e l'atto di costituzione del convenuto, osservati i termini di cui ai commi terzo, quinto e sesto dell'[articolo 415](art-415-cpc.md). Il termine massimo entro il quale deve tenersi la nuova udienza decorre dalla pronuncia del provvedimento di fissazione.
+Nel caso di chiamata in causa a norma degli [articoli 102](../../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/04%20-%20Titolo%20IV%20-%20DELL%27ESERCIZIO%20DELL%27AZIONE/art-102-cpc.md), secondo comma, 106 e 107, il giudice fissa una nuova udienza e dispone che, entro cinque giorni, siano notificati al terzo il provvedimento nonchè il ricorso introduttivo e l'atto di costituzione del convenuto, osservati i termini di cui ai commi terzo, quinto e sesto dell'[articolo 415](art-415-cpc.md). Il termine massimo entro il quale deve tenersi la nuova udienza decorre dalla pronuncia del provvedimento di fissazione.
 
 Il terzo chiamato deve costituirsi non meno di dieci giorni prima dell'udienza fissata, depositando la propria memoria a norma dell'[articolo 416](art-416-cpc.md).
 

@@ -20,4 +20,4 @@ ordine: 3184
 
 # Art. 2874 - ***Riduzione dell'ipoteca legale e dell'ipoteca giudiziale***
 
-Le ipoteche legali, eccettuate quelle indicate dai numeri 1 e 2 dell'[art. 2817](../02%20-%20Sezione%20II%20-%20Dell'ipoteca%20legale/art-2817-cc.md), e le ipoteche giudiziali devono ridursi su domanda degli interessati, se i beni compresi nell'iscrizione hanno un valore che eccede la cautela da somministrarsi o se la somma determinata dal creditore nell'iscrizione eccede di un quinto quella che l'autorità giudiziaria dichiara dovuta.
+Le ipoteche legali, eccettuate quelle indicate dai numeri 1 e 2 dell'[art. 2817](../02%20-%20Sezione%20II%20-%20Dell%27ipoteca%20legale/art-2817-cc.md), e le ipoteche giudiziali devono ridursi su domanda degli interessati, se i beni compresi nell'iscrizione hanno un valore che eccede la cautela da somministrarsi o se la somma determinata dal creditore nell'iscrizione eccede di un quinto quella che l'autorità giudiziaria dichiara dovuta.

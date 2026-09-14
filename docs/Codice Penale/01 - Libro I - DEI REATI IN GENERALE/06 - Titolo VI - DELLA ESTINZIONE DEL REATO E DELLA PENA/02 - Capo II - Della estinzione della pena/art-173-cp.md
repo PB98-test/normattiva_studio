@@ -20,7 +20,7 @@ ordine: 194
 
 # Art. 173 - ***Estinzione delle pene dell'arresto e dell'ammenda per decorso del tempo***
 
-Le pene dell'arresto e dell'ammenda si estinguono nel termine di cinque anni. Tale termine è raddoppiato se si tratta di recidivi, nei casi preveduti dai capoversi dell'[articolo 99](../../04%20-%20Titolo%20IV%20-%20DEL%20REO%20E%20DELLA%20PERSONA%20OFFESA%20DAL%20REATO/02%20-%20Capo%20II%20-%20Della%20recidiva,%20dell'abitualità%20e%20professionalità%20nel%20reato%20e%20della%20te/art-99-cp.md), ovvero di delinquenti abituali, professionali o per tendenza.
+Le pene dell'arresto e dell'ammenda si estinguono nel termine di cinque anni. Tale termine è raddoppiato se si tratta di recidivi, nei casi preveduti dai capoversi dell'[articolo 99](../../04%20-%20Titolo%20IV%20-%20DEL%20REO%20E%20DELLA%20PERSONA%20OFFESA%20DAL%20REATO/02%20-%20Capo%20II%20-%20Della%20recidiva,%20dell%27abitualità%20e%20professionalità%20nel%20reato%20e%20della%20te/art-99-cp.md), ovvero di delinquenti abituali, professionali o per tendenza.
 
 Se, congiuntamente alla pena dell'arresto, è inflitta la pena dell'ammenda, per l'estinzione dell'una e dell'altra pena si ha riguardo soltanto al decorso del termine stabilito per l'arresto.
 

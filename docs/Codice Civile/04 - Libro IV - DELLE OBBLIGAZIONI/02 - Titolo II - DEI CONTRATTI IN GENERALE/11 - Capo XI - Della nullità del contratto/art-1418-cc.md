@@ -22,6 +22,6 @@ ordine: 1520
 
 Il contratto è nullo quando è contrario a norme imperative, salvo che la legge disponga diversamente.
 
-Producono nullità del contratto la mancanza di uno dei requisiti indicati dall'[art. 1325](../02%20-%20Capo%20II%20-%20Dei%20requisiti%20del%20contratto/art-1325-cc.md), l'illiceità della causa, l'illiceità dei motivi nel caso indicato dall'[art. 1345](../02%20-%20Capo%20II%20-%20Dei%20requisiti%20del%20contratto/02%20-%20Sezione%20II%20-%20Della%20causa%20del%20contratto/art-1345-cc.md) e la mancanza nell'oggetto dei requisiti stabiliti dall'[art. 1346](../02%20-%20Capo%20II%20-%20Dei%20requisiti%20del%20contratto/03%20-%20Sezione%20III%20-%20Dell'oggetto%20del%20contratto/art-1346-cc.md).
+Producono nullità del contratto la mancanza di uno dei requisiti indicati dall'[art. 1325](../02%20-%20Capo%20II%20-%20Dei%20requisiti%20del%20contratto/art-1325-cc.md), l'illiceità della causa, l'illiceità dei motivi nel caso indicato dall'[art. 1345](../02%20-%20Capo%20II%20-%20Dei%20requisiti%20del%20contratto/02%20-%20Sezione%20II%20-%20Della%20causa%20del%20contratto/art-1345-cc.md) e la mancanza nell'oggetto dei requisiti stabiliti dall'[art. 1346](../02%20-%20Capo%20II%20-%20Dei%20requisiti%20del%20contratto/03%20-%20Sezione%20III%20-%20Dell%27oggetto%20del%20contratto/art-1346-cc.md).
 
 Il contratto è altresì nullo negli altri casi stabiliti dalla legge.

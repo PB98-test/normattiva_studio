@@ -20,9 +20,9 @@ ordine: 890
 
 # Art. 737-bis - ***Indagini e sequestro a fini di confisca***
 
-1. Nei casi previsti da convenzioni internazionali, al fine di dar corso alla domanda dell'autorità straniera di procedere ad indagini su beni che possono divenire oggetto di una successiva richiesta di esecuzione di una confisca, anche se non ancora adottata, ovvero di procedere al sequestro di tali beni, si applicano gli [articoli 723](../../03%20-%20Titolo%20III%20-%20ROGATORIE%20INTERNAZIONALI/01%20-%20Capo%20I%20-%20ROGATORIE%20DALL'ESTERO/art-723-cpp.md), [724](../../03%20-%20Titolo%20III%20-%20ROGATORIE%20INTERNAZIONALI/01%20-%20Capo%20I%20-%20ROGATORIE%20DALL'ESTERO/art-724-cpp.md) e [725](../../03%20-%20Titolo%20III%20-%20ROGATORIE%20INTERNAZIONALI/01%20-%20Capo%20I%20-%20ROGATORIE%20DALL'ESTERO/art-725-cpp.md).
+1. Nei casi previsti da convenzioni internazionali, al fine di dar corso alla domanda dell'autorità straniera di procedere ad indagini su beni che possono divenire oggetto di una successiva richiesta di esecuzione di una confisca, anche se non ancora adottata, ovvero di procedere al sequestro di tali beni, si applicano gli [articoli 723](../../03%20-%20Titolo%20III%20-%20ROGATORIE%20INTERNAZIONALI/01%20-%20Capo%20I%20-%20ROGATORIE%20DALL%27ESTERO/art-723-cpp.md), [724](../../03%20-%20Titolo%20III%20-%20ROGATORIE%20INTERNAZIONALI/01%20-%20Capo%20I%20-%20ROGATORIE%20DALL%27ESTERO/art-724-cpp.md) e [725](../../03%20-%20Titolo%20III%20-%20ROGATORIE%20INTERNAZIONALI/01%20-%20Capo%20I%20-%20ROGATORIE%20DALL%27ESTERO/art-725-cpp.md).
 
-2. A tal fine il Ministro della giustizia trasmette la richiesta, unitamente agli atti allegati, al procuratore distrettuale competente ai sensi dell'[articolo 724](../../03%20-%20Titolo%20III%20-%20ROGATORIE%20INTERNAZIONALI/01%20-%20Capo%20I%20-%20ROGATORIE%20DALL'ESTERO/art-724-cpp.md).
+2. A tal fine il Ministro della giustizia trasmette la richiesta, unitamente agli atti allegati, al procuratore distrettuale competente ai sensi dell'[articolo 724](../../03%20-%20Titolo%20III%20-%20ROGATORIE%20INTERNAZIONALI/01%20-%20Capo%20I%20-%20ROGATORIE%20DALL%27ESTERO/art-724-cpp.md).
 
 3. L'esecuzione della richiesta di indagini o sequestro è negata:
 

@@ -20,7 +20,7 @@ ordine: 183
 
 # Art. 171 - ***Ritardata costituzione delle parti***
 
-Se nessuna delle parti si costituisce nei termini stabiliti, si applicano le disposizioni dell'[art. 307](../../10%20-%20Capo%20VII%20-%20Della%20sospensione,%20interruzione%20ed%20estinzione%20del%20processo/03%20-%20Sezione%20III%20-%20Dell'estinzione%20del%20processo/art-307-cpc.md), primo e secondo comma.
+Se nessuna delle parti si costituisce nei termini stabiliti, si applicano le disposizioni dell'[art. 307](../../10%20-%20Capo%20VII%20-%20Della%20sospensione,%20interruzione%20ed%20estinzione%20del%20processo/03%20-%20Sezione%20III%20-%20Dell%27estinzione%20del%20processo/art-307-cpc.md), primo e secondo comma.
 
 Se una delle parti si è costituita entro il termine rispettivamente a lei assegnato, l'altra parte può costituirsi successivamente ma restano ferme per il convenuto le decadenze di cui all'[articolo 167](art-167-cpc.md). [^agg-67] [^agg-72] [^agg-171] [^agg-173]
 

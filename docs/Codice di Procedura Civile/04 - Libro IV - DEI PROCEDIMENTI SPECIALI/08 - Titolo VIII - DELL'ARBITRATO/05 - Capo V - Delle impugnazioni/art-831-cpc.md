@@ -24,7 +24,7 @@ Il lodo, nonostante qualsiasi rinuncia, è soggetto a revocazione nei casi indic
 
 Se i casi di cui al primo comma si verificano durante il corso del processo di impugnazione per nullità, il termine per la proposizione della domanda di revocazione è sospeso fino alla comunicazione della sentenza che abbia pronunciato sulla nullità.
 
-Il lodo è soggetto ad opposizione di terzo nei casi indicati nell'[articolo 404](../../../02%20-%20Libro%20II%20-%20DEL%20PROCESSO%20DI%20COGNIZIONE/03%20-%20Titolo%20III%20-%20DELLE%20IMPUGNAZIONI/05%20-%20Capo%20V%20-%20Dell'opposizione%20di%20terzo/art-404-cpc.md). Le impugnazioni per revocazione e per opposizione di terzo si propongono davanti alla corte d'appello nel cui distretto è la sede dell'arbitrato, osservati i termini e le forme stabiliti nel libro secondo.
+Il lodo è soggetto ad opposizione di terzo nei casi indicati nell'[articolo 404](../../../02%20-%20Libro%20II%20-%20DEL%20PROCESSO%20DI%20COGNIZIONE/03%20-%20Titolo%20III%20-%20DELLE%20IMPUGNAZIONI/05%20-%20Capo%20V%20-%20Dell%27opposizione%20di%20terzo/art-404-cpc.md). Le impugnazioni per revocazione e per opposizione di terzo si propongono davanti alla corte d'appello nel cui distretto è la sede dell'arbitrato, osservati i termini e le forme stabiliti nel libro secondo.
 
 La corte d'appello può riunire le impugnazioni per nullità, per revocazione e per opposizione di terzo nello stesso processo, se lo stato della causa preventivamente proposta consente l'esauriente trattazione e decisione delle altre cause.
 

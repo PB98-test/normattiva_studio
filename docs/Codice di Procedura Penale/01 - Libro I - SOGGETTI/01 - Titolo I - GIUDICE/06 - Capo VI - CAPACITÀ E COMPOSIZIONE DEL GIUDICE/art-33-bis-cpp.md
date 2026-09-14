@@ -35,7 +35,7 @@ ordine: 36
 - l) delitto previsto dall'[articolo 593-ter del codice penale](../../../../Codice%20Penale/02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/12%20-%20Titolo%20XII%20-%20DEI%20DELITTI%20CONTRO%20LA%20PERSONA/02%20-%20Capo%20I-bis%20-%20Dei%20delitti%20contro%20la%20maternità/art-593-ter-cp.md);
 - m) delitto previsto dall'articolo 2 della legge 25 gennaio 1982, n. 17, in materia di associazioni segrete;
 - n) delitto previsto dall'articolo 29 secondo comma, della legge 13 settembre 1982, n. 646, in materia di misure di prevenzione;
-- o) delitto previsto dall'[articolo 512-bis del codice penale](../../../../Codice%20Penale/02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/08%20-%20Titolo%20VIII%20-%20DEI%20DELITTI%20CONTRO%20L'ECONOMIA%20PUBBLICA,%20L'INDUSTRIA,%20IL%20COMMERCIO/01%20-%20Capo%20I%20-%20Dei%20delitti%20contro%20l'economia%20pubblica/art-512-bis-cp.md);
+- o) delitto previsto dall'[articolo 512-bis del codice penale](../../../../Codice%20Penale/02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/08%20-%20Titolo%20VIII%20-%20DEI%20DELITTI%20CONTRO%20L%27ECONOMIA%20PUBBLICA,%20L%27INDUSTRIA,%20IL%20COMMERCIO/01%20-%20Capo%20I%20-%20Dei%20delitti%20contro%20l%27economia%20pubblica/art-512-bis-cp.md);
 - p) delitti previsti dall'articolo 6, commi 3 e 4, del decreto-legge 26 aprile 1993, n. 122, convertito, con modificazione, dalla legge 25 giugno 1993, n. 205, in materia di discriminazione razziale, etnica e religiosa;
 - q) delitti previsti dall'articolo 10 della legge 18 novembre 1995, n. 496, in materia di produzione e uso di armi chimiche.
 

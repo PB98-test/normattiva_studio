@@ -23,7 +23,7 @@ ordine: 577
 In caso di gravi inadempienze, anche di natura economica, o di atti che arrechino pregiudizio al minore od ostacolino il corretto svolgimento delle modalità dell'affidamento e dell'esercizio della responsabilità genitoriale, il giudice del procedimento in corso può d'ufficio modificare i provvedimenti in vigore e può, anche congiuntamente: [^agg-178]
 
 - a) ammonire il genitore inadempiente;
-- b) individuare ai sensi dell'[articolo 614-bis](../../../../03%20-%20Libro%20III%20-%20DEL%20PROCESSO%20DI%20ESECUZIONE/04%20-%20Titolo%20IV%20-%20DELL'ESECUZIONE%20FORZATA%20DI%20OBBLIGHI%20DI%20FARE%20E%20DI%20NON%20FARE/art-614-bis-cpc.md) la somma di denaro dovuta dall'obbligato per ogni violazione o inosservanza successiva ovvero per ogni giorno di ritardo nell'esecuzione del provvedimento;
+- b) individuare ai sensi dell'[articolo 614-bis](../../../../03%20-%20Libro%20III%20-%20DEL%20PROCESSO%20DI%20ESECUZIONE/04%20-%20Titolo%20IV%20-%20DELL%27ESECUZIONE%20FORZATA%20DI%20OBBLIGHI%20DI%20FARE%20E%20DI%20NON%20FARE/art-614-bis-cpc.md) la somma di denaro dovuta dall'obbligato per ogni violazione o inosservanza successiva ovvero per ogni giorno di ritardo nell'esecuzione del provvedimento;
 - c) condannare il genitore inadempiente al pagamento di una sanzione amministrativa pecuniaria, da un minimo di 75 euro a un massimo di 5.000 euro a favore della Cassa delle ammende.
 
 Nei casi di cui al primo comma, il giudice può inoltre condannare il genitore inadempiente al risarcimento dei danni a favore dell'altro genitore o, anche d'ufficio, del minore.

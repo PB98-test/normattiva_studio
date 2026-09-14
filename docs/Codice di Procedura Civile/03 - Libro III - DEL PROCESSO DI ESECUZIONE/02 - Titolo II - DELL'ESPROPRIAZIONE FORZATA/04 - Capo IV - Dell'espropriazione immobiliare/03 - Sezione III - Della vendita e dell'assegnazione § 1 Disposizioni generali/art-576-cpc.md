@@ -25,7 +25,7 @@ Il giudice dell'esecuzione, quando ordina l'incanto, stabilisce, sentito quando 
 - 1) se la vendita si deve fare in uno o più lotti;
 - 2) il prezzo base dell'incanto determinato a norma dell'[articolo 568](art-568-cpc.md);
 - 3) il giorno e l'ora dell'incanto;
-- 4) il termine che deve decorrere tra il compimento delle forme di pubblicità e l'incanto, nonchè le eventuali forme di pubblicità straordinaria a norma dell'[articolo 490](../../01%20-%20Capo%20I%20-%20Dell'espropriazione%20forzata%20in%20generale/01%20-%20Sezione%20I%20-%20Dei%20modi%20e%20delle%20forme%20dell'espropriazione%20forzata%20in%20generale/art-490-cpc.md) ultimo comma;   5) l'ammontare della cauzione in misura non superiore al decimo del prezzo base d'asta e il termine entro il quale tale ammontare deve essere prestato dagli offerenti;[^agg-113a]([^agg-115])[^agg-116]
+- 4) il termine che deve decorrere tra il compimento delle forme di pubblicità e l'incanto, nonchè le eventuali forme di pubblicità straordinaria a norma dell'[articolo 490](../../01%20-%20Capo%20I%20-%20Dell%27espropriazione%20forzata%20in%20generale/01%20-%20Sezione%20I%20-%20Dei%20modi%20e%20delle%20forme%20dell%27espropriazione%20forzata%20in%20generale/art-490-cpc.md) ultimo comma;   5) l'ammontare della cauzione in misura non superiore al decimo del prezzo base d'asta e il termine entro il quale tale ammontare deve essere prestato dagli offerenti;[^agg-113a]([^agg-115])[^agg-116]
 - 6) la misura minima dell'aumento da apportarsi alle offerte;
 - 7) il termine, non superiore a sessanta giorni dall'aggiudicazione, entro il quale il prezzo deve essere depositato e le modalità del deposito.
 

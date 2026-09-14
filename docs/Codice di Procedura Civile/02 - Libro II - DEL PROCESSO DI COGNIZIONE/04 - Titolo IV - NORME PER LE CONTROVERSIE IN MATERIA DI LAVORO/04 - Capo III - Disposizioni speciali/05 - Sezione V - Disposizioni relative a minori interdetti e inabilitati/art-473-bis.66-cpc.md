@@ -20,7 +20,7 @@ ordine: 604
 
 # Art. 473-bis.66 - ***Esito negativo dell'incanto***
 
-Se al primo incanto non è fatta offerta superiore o uguale al prezzo fissato dal tribunale a norma dell'[articolo 376, primo comma, del codice civile](../../../../../Codice%20Civile/01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/10%20-%20Titolo%20X%20-%20DELLA%20TUTELA%20E%20DELL'EMANCIPAZIONE/01%20-%20Capo%20I%20-%20Della%20tutela%20dei%20minori/03%20-%20Sezione%20III%20-%20Dell'esercizio%20della%20tutela/art-376-cc.md), l'ufficiale designato ne dà atto nel processo verbale e trasmette copia di questo al tribunale che ha autorizzato la vendita.
+Se al primo incanto non è fatta offerta superiore o uguale al prezzo fissato dal tribunale a norma dell'[articolo 376, primo comma, del codice civile](../../../../../Codice%20Civile/01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/10%20-%20Titolo%20X%20-%20DELLA%20TUTELA%20E%20DELL%27EMANCIPAZIONE/01%20-%20Capo%20I%20-%20Della%20tutela%20dei%20minori/03%20-%20Sezione%20III%20-%20Dell%27esercizio%20della%20tutela/art-376-cc.md), l'ufficiale designato ne dà atto nel processo verbale e trasmette copia di questo al tribunale che ha autorizzato la vendita.
 
 Il tribunale, se non crede di revocare l'autorizzazione o disporre una nuova vendita su prezzo base inferiore, autorizza la vendita a trattative private.
 

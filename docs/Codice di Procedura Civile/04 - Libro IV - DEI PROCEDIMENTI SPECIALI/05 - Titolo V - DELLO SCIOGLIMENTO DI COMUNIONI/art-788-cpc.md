@@ -20,7 +20,7 @@ ordine: 964
 
 # Art. 788 - ***Vendita di immobili***
 
-Quando occorre procedere alla vendita di immobili, il giudice istruttore provvede con ordinanza a norma dell'[articolo 569](../../03%20-%20Libro%20III%20-%20DEL%20PROCESSO%20DI%20ESECUZIONE/02%20-%20Titolo%20II%20-%20DELL'ESPROPRIAZIONE%20FORZATA/04%20-%20Capo%20IV%20-%20Dell'espropriazione%20immobiliare/03%20-%20Sezione%20III%20-%20Della%20vendita%20e%20dell'assegnazione%20§%201%20Disposizioni%20generali/art-569-cpc.md), terzo comma, se non sorge controversia sulla necessità della vendita. [^agg-116]
+Quando occorre procedere alla vendita di immobili, il giudice istruttore provvede con ordinanza a norma dell'[articolo 569](../../03%20-%20Libro%20III%20-%20DEL%20PROCESSO%20DI%20ESECUZIONE/02%20-%20Titolo%20II%20-%20DELL%27ESPROPRIAZIONE%20FORZATA/04%20-%20Capo%20IV%20-%20Dell%27espropriazione%20immobiliare/03%20-%20Sezione%20III%20-%20Della%20vendita%20e%20dell%27assegnazione%20§%201%20Disposizioni%20generali/art-569-cpc.md), terzo comma, se non sorge controversia sulla necessità della vendita. [^agg-116]
 
 Se sorge controversia, la vendita non può essere disposta se non con sentenza del collegio.
 

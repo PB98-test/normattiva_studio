@@ -22,8 +22,8 @@ ordine: 95
 
 Divenuta eseguibile la sentenza indicata nell'[art. 58](art-58-cc.md), coloro che ottennero l'immissione nel possesso temporaneo dei beni dell'assente o i loro successori possono disporre liberamente dei beni.
 
-Coloro ai quali fu concesso l'esercizio temporaneo dei diritti o la liberazione temporanea dalle obbligazioni di cui all'[art. 50](../01%20-%20Capo%20I%20-%20Dell'assenza/art-50-cc.md) conseguono l'esercizio definitivo dei diritti o la liberazione definitiva dalle obbligazioni.
+Coloro ai quali fu concesso l'esercizio temporaneo dei diritti o la liberazione temporanea dalle obbligazioni di cui all'[art. 50](../01%20-%20Capo%20I%20-%20Dell%27assenza/art-50-cc.md) conseguono l'esercizio definitivo dei diritti o la liberazione definitiva dalle obbligazioni.
 
-Si estinguono inoltre le obbligazioni alimentari indicate nel quarto comma dell'[art. 50](../01%20-%20Capo%20I%20-%20Dell'assenza/art-50-cc.md).
+Si estinguono inoltre le obbligazioni alimentari indicate nel quarto comma dell'[art. 50](../01%20-%20Capo%20I%20-%20Dell%27assenza/art-50-cc.md).
 
 In ogni caso cessano le cauzioni e le altre cautele che sono state imposte.

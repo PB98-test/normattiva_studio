@@ -24,4 +24,4 @@ ordine: 771
 
 2. A tali persone, tuttavia, non può essere assegnata a titolo di riparazione una somma maggiore di quella che sarebbe stata liquidata al prosciolto. La somma è ripartita equitativamente in ragione delle conseguenze derivate dall'errore a ciascuna persona.
 
-3. Il diritto alla riparazione non spetta alle persone che si trovino nella situazione di indegnità prevista dall'[articolo 463 del codice civile](../../../Codice%20Civile/02%20-%20Libro%20II%20-%20DELLE%20SUCCESSIONI/01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI%20SULLE%20SUCCESSIONI/03%20-%20Capo%20III%20-%20Dell'indegnità/art-463-cc.md).
+3. Il diritto alla riparazione non spetta alle persone che si trovino nella situazione di indegnità prevista dall'[articolo 463 del codice civile](../../../Codice%20Civile/02%20-%20Libro%20II%20-%20DELLE%20SUCCESSIONI/01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI%20SULLE%20SUCCESSIONI/03%20-%20Capo%20III%20-%20Dell%27indegnità/art-463-cc.md).

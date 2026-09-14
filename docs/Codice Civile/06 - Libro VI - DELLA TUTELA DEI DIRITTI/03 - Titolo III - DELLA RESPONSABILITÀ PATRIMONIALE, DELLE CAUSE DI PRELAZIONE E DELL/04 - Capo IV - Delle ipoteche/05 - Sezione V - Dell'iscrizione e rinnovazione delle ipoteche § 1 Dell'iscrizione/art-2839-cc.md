@@ -30,4 +30,4 @@ La nota deve indicare:
 - 4) l'importo della somma per la quale l'iscrizione è presa;
 - 5) gli interessi e le annualità che il credito produce;
 - 6) il tempo della esigibilità;
-- 7) la natura e la situazione dei beni gravati, con le indicazioni prescritte dall'[articolo 2826](../04%20-%20Sezione%20IV%20-%20Dell'ipoteca%20volontaria/art-2826-cc.md).
+- 7) la natura e la situazione dei beni gravati, con le indicazioni prescritte dall'[articolo 2826](../04%20-%20Sezione%20IV%20-%20Dell%27ipoteca%20volontaria/art-2826-cc.md).

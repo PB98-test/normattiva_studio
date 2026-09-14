@@ -20,4 +20,4 @@ ordine: 958
 
 # Art. 700 - ***Circostanze aggravanti***
 
-Nei casi preveduti dagli articoli precedenti, la pena è aumentata qualora concorra taluna delle circostanze indicate nell'[articolo 680](../02%20-%20Sezione%20II%20-%20Delle%20contravvenzioni%20concernenti%20l'incolumità%20pubblica%20§%201%20Delle%20c/art-680-cp.md).
+Nei casi preveduti dagli articoli precedenti, la pena è aumentata qualora concorra taluna delle circostanze indicate nell'[articolo 680](../02%20-%20Sezione%20II%20-%20Delle%20contravvenzioni%20concernenti%20l%27incolumità%20pubblica%20§%201%20Delle%20c/art-680-cp.md).

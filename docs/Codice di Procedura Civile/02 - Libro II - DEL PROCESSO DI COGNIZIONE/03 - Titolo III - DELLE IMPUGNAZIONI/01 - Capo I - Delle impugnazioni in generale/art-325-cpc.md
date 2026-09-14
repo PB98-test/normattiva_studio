@@ -20,7 +20,7 @@ ordine: 363
 
 # Art. 325 - ***Termini per le impugnazioni***
 
-Il termine per proporre l'appello, la revocazione e l'opposizione di terzo di cui all'[articolo 404](../05%20-%20Capo%20V%20-%20Dell'opposizione%20di%20terzo/art-404-cpc.md), secondo comma, è di trenta giorni. È anche di trenta giorni il termine per proporre la revocazione e l'opposizione di terzo sopra menzionata contro la sentenza delle corti di appello. [^agg-72]
+Il termine per proporre l'appello, la revocazione e l'opposizione di terzo di cui all'[articolo 404](../05%20-%20Capo%20V%20-%20Dell%27opposizione%20di%20terzo/art-404-cpc.md), secondo comma, è di trenta giorni. È anche di trenta giorni il termine per proporre la revocazione e l'opposizione di terzo sopra menzionata contro la sentenza delle corti di appello. [^agg-72]
 
 Il termine per proporre il ricorso per cassazione è di giorni sessanta.
 

@@ -24,7 +24,7 @@ Si applica la pena della reclusione da due a otto anni e della multa da euro 5.0
 
 La pena è della reclusione da uno a quattro anni e della multa da euro 2.500 a euro 12.500 quando il fatto riguarda denaro o cose provenienti da contravvenzione punita con l'arresto superiore nel massimo a un anno o nel minimo a sei mesi.  La pena è diminuita se il denaro, i beni o le altre utilità provengono da delitto per il quale è stabilita la pena della reclusione inferiore nel massimo a cinque anni.
 
-Si applicano comunque le pene previste dal primo comma se il denaro, i beni o le altre utilità provengono da un delitto commesso con le condizioni o le finalità di cui all'[articolo 416-bis.1](../../05%20-%20Titolo%20V%20-%20DEI%20DELITTI%20CONTRO%20L'ORDINE%20PUBBLICO/art-416-bis.1-cp.md).
+Si applicano comunque le pene previste dal primo comma se il denaro, i beni o le altre utilità provengono da un delitto commesso con le condizioni o le finalità di cui all'[articolo 416-bis.1](../../05%20-%20Titolo%20V%20-%20DEI%20DELITTI%20CONTRO%20L%27ORDINE%20PUBBLICO/art-416-bis.1-cp.md).
 
 Fuori dei casi di cui ai commi precedenti, non sono punibili le condotte per cui il denaro, i beni o le altre utilità vengono destinate alla mera utilizzazione o al godimento personale.
 

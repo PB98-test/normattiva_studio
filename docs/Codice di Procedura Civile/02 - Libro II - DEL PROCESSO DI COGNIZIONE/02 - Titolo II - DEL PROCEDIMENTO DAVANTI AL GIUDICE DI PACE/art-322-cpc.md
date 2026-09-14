@@ -22,7 +22,7 @@ ordine: 360
 
 L'istanza per la conciliazione in sede non contenziosa è proposta anche verbalmente al giudice di pace competente per territorio secondo le disposizioni della sezione III, capo I, titolo I, del libro primo.
 
-Il processo verbale di conciliazione in sede non contenziosa costituisce titolo esecutivo a norma dell'[articolo 185](../01%20-%20Titolo%20I%20-%20DEL%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE/02%20-%20Capo%20II%20-%20Dell'istruzione%20della%20causa/02%20-%20Sezione%20II%20-%20Della%20trattazione%20della%20causa/art-185-cpc.md), ultimo comma, se la controversia rientra nella competenza del giudice di pace.
+Il processo verbale di conciliazione in sede non contenziosa costituisce titolo esecutivo a norma dell'[articolo 185](../01%20-%20Titolo%20I%20-%20DEL%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE/02%20-%20Capo%20II%20-%20Dell%27istruzione%20della%20causa/02%20-%20Sezione%20II%20-%20Della%20trattazione%20della%20causa/art-185-cpc.md), ultimo comma, se la controversia rientra nella competenza del giudice di pace.
 
 Negli altri casi il processo verbale ha valore di scrittura privata riconosciuta in giudizio.   [^agg-72] [^agg-88]
 

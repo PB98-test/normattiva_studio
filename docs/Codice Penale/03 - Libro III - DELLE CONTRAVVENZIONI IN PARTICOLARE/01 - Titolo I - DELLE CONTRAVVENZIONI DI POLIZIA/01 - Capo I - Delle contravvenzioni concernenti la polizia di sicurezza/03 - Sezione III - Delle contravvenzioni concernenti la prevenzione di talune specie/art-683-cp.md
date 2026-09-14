@@ -20,4 +20,4 @@ ordine: 941
 
 # Art. 683 - ***Pubblicazione delle discussioni o delle deliberazioni segrete di una delle Camere***
 
-Chiunque, senza autorizzazione, pubblica col mezzo della stampa, o con un altro dei mezzi indicati nell'[articolo 662](../01%20-%20Sezione%20I%20-%20Delle%20contravvenzioni%20concernenti%20l'ordine%20pubblico%20e%20la%20tranquillit/art-662-cp.md), anche per riassunto, il contenuto delle discussioni o delle deliberazioni segrete del Senato o della Camera dei deputati è punito, qualora il fatto non costituisca un più grave reato, con l'arresto fino a trenta giorni o con l'ammenda da lire centomila a cinquecentomila.
+Chiunque, senza autorizzazione, pubblica col mezzo della stampa, o con un altro dei mezzi indicati nell'[articolo 662](../01%20-%20Sezione%20I%20-%20Delle%20contravvenzioni%20concernenti%20l%27ordine%20pubblico%20e%20la%20tranquillit/art-662-cp.md), anche per riassunto, il contenuto delle discussioni o delle deliberazioni segrete del Senato o della Camera dei deputati è punito, qualora il fatto non costituisca un più grave reato, con l'arresto fino a trenta giorni o con l'ammenda da lire centomila a cinquecentomila.

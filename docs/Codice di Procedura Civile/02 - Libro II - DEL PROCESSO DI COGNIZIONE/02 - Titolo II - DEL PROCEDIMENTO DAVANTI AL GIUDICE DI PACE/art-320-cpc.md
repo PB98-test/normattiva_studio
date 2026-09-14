@@ -22,7 +22,7 @@ ordine: 358
 
 Nella prima udienza il giudice di pace interroga liberamente le parti e tenta la conciliazione.
 
-Se la conciliazione riesce se ne redige processo verbale a norma dell'[articolo 185](../01%20-%20Titolo%20I%20-%20DEL%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE/02%20-%20Capo%20II%20-%20Dell'istruzione%20della%20causa/02%20-%20Sezione%20II%20-%20Della%20trattazione%20della%20causa/art-185-cpc.md), ultimo comma.
+Se la conciliazione riesce se ne redige processo verbale a norma dell'[articolo 185](../01%20-%20Titolo%20I%20-%20DEL%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE/02%20-%20Capo%20II%20-%20Dell%27istruzione%20della%20causa/02%20-%20Sezione%20II%20-%20Della%20trattazione%20della%20causa/art-185-cpc.md), ultimo comma.
 
 Se la conciliazione non riesce, il giudice di pace procede ai sensi dell'[articolo 281-duodecies](../01%20-%20Titolo%20I%20-%20DEL%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE/06%20-%20Capo%20III-quater%20-%20Del%20procedimento%20semplificato%20di%20cognizione/art-281-duodecies-cpc.md), commi secondo, terzo e quarto, e se non ritiene la causa matura per la decisione, procede agli atti di istruzione rilevanti per la decisione. [^agg-171] [^agg-173]
 

@@ -31,7 +31,7 @@ aliases:
 - [Art. 6-bis](04%20-%20Capo%20IV%20-%20AUMENTO%20E%20RAZIONALIZZAZIONE%20DEGLI%20INVESTIMENTI%20IN%20RICERCA%20E%20SVILUPPO/art-6-bis-dl35-05.md) — (Disposizioni per l'incentivazione e lo sviluppo dell'industria per la difesa).
 
 #### Capo V - SVILUPPO DELL'INNOVAZIONE E DELLA DIFFUSIONE DELLE TECNOLOGIE
-- [Art. 7](05%20-%20Capo%20V%20-%20SVILUPPO%20DELL'INNOVAZIONE%20E%20DELLA%20DIFFUSIONE%20DELLE%20TECNOLOGIE/art-7-dl35-05.md) — Interventi per la diffusione delle tecnologie digitali
+- [Art. 7](05%20-%20Capo%20V%20-%20SVILUPPO%20DELL%27INNOVAZIONE%20E%20DELLA%20DIFFUSIONE%20DELLE%20TECNOLOGIE/art-7-dl35-05.md) — Interventi per la diffusione delle tecnologie digitali
 
 #### Capo VI - RAFFORZAMENTO DELLA BASE PRODUTTIVA
 - [Art. 8](06%20-%20Capo%20VI%20-%20RAFFORZAMENTO%20DELLA%20BASE%20PRODUTTIVA/art-8-dl35-05.md) — Riforma degli incentivi

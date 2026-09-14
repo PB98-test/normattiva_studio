@@ -20,7 +20,7 @@ ordine: 588
 
 # Art. 473-bis.50 - ***Provvedimenti temporanei e urgenti***
 
-Il giudice, quando adotta i provvedimenti temporanei e urgenti di cui all'[articolo 473](../../03%20-%20Capo%20II%20-%20Delle%20controversie%20in%20materia%20di%20previdenza%20e%20di%20assistenza%20obbligator/art-473-cpc.md)- bis.22, primo comma, indica le informazioni che ciascun genitore è tenuto a comunicare all'altro e può formulare una proposta di piano genitoriale tenendo conto di quelli allegati dalle parti. Se queste accettano la proposta, il mancato rispetto delle condizioni previste nel piano genitoriale costituisce comportamento sanzionabile ai sensi dell'[articolo 473-bis.39](../../03%20-%20Capo%20II%20-%20Del%20procedimento/03%20-%20Sezione%20III%20-%20Dell'attuazione%20dei%20provvedimenti/art-473-bis.39-cpc.md).
+Il giudice, quando adotta i provvedimenti temporanei e urgenti di cui all'[articolo 473](../../03%20-%20Capo%20II%20-%20Delle%20controversie%20in%20materia%20di%20previdenza%20e%20di%20assistenza%20obbligator/art-473-cpc.md)- bis.22, primo comma, indica le informazioni che ciascun genitore è tenuto a comunicare all'altro e può formulare una proposta di piano genitoriale tenendo conto di quelli allegati dalle parti. Se queste accettano la proposta, il mancato rispetto delle condizioni previste nel piano genitoriale costituisce comportamento sanzionabile ai sensi dell'[articolo 473-bis.39](../../03%20-%20Capo%20II%20-%20Del%20procedimento/03%20-%20Sezione%20III%20-%20Dell%27attuazione%20dei%20provvedimenti/art-473-bis.39-cpc.md).
 
 [^agg-171] [^agg-173]
 

@@ -1,6 +1,6 @@
 site_name: NormattivaStudio
 site_description: Vault normativo personale — codici e leggi in Markdown, generato da NormattivaStudio
-repo_url: https://github.com/PB98-test/vault_normattiva_studio
+repo_url: https://github.com/PB98-test/normattiva_studio
 docs_dir: docs
 site_dir: _site
 theme:

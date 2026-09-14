@@ -22,7 +22,7 @@ ordine: 200
 
 La riabilitazione è conceduta quando siano decorsi almeno tre anni dal giorno in cui la pena principale sia stata eseguita o siasi in altro modo estinta, e il condannato abbia dato prove effettive e costanti di buona condotta.
 
-Il termine è di almeno otto anni se si tratta di recidivi, nei casi preveduti dai capoversi dell'[articolo 99](../../04%20-%20Titolo%20IV%20-%20DEL%20REO%20E%20DELLA%20PERSONA%20OFFESA%20DAL%20REATO/02%20-%20Capo%20II%20-%20Della%20recidiva,%20dell'abitualità%20e%20professionalità%20nel%20reato%20e%20della%20te/art-99-cp.md).
+Il termine è di almeno otto anni se si tratta di recidivi, nei casi preveduti dai capoversi dell'[articolo 99](../../04%20-%20Titolo%20IV%20-%20DEL%20REO%20E%20DELLA%20PERSONA%20OFFESA%20DAL%20REATO/02%20-%20Capo%20II%20-%20Della%20recidiva,%20dell%27abitualità%20e%20professionalità%20nel%20reato%20e%20della%20te/art-99-cp.md).
 
 Il termine è di dieci anni se si tratta di delinquenti abituali, professionali o per tendenza e decorre dal giorno in cui sia stato revocato l'ordine di assegnazione ad una colonia agricola o ad una casa di lavoro.
 

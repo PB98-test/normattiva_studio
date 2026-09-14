@@ -22,6 +22,6 @@ ordine: 793
 
 1. Quando la stessa persona è stata condannata con più sentenze o decreti penali per reati diversi, il pubblico ministero determina la pena da eseguirsi, in osservanza delle norme sul concorso di pene.
 
-2. Se le condanne sono state inflitte da giudici diversi, provvede il pubblico ministero presso il giudice indicato nell'[articolo 665](../03%20-%20Titolo%20III%20-%20ATTRIBUZIONI%20DEGLI%20ORGANI%20GIURISDIZIONALI/01%20-%20Capo%20I%20-%20GIUDICE%20DELL'ESECUZIONE/art-665-cpp.md) comma 4.
+2. Se le condanne sono state inflitte da giudici diversi, provvede il pubblico ministero presso il giudice indicato nell'[articolo 665](../03%20-%20Titolo%20III%20-%20ATTRIBUZIONI%20DEGLI%20ORGANI%20GIURISDIZIONALI/01%20-%20Capo%20I%20-%20GIUDICE%20DELL%27ESECUZIONE/art-665-cpp.md) comma 4.
 
 3. Il provvedimento del pubblico ministero è notificato al condannato e al suo difensore.

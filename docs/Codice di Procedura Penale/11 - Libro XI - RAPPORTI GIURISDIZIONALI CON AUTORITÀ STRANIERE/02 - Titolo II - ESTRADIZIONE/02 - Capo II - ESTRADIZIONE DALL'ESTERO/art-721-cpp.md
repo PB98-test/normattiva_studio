@@ -31,5 +31,5 @@ ordine: 860
 5. Il principio di specialità non opera quando:
 
 - a) lo Stato estero ha consentito all'estensione;
-- b) l'estradato ha espresso il proprio consenso con le modalità indicate nell'[articolo 717](../01%20-%20Capo%20I%20-%20ESTRADIZIONE%20PER%20L'ESTERO/02%20-%20Sezione%20II%20-%20Misure%20cautelari/art-717-cpp.md), commi 2 e 2-bis;
+- b) l'estradato ha espresso il proprio consenso con le modalità indicate nell'[articolo 717](../01%20-%20Capo%20I%20-%20ESTRADIZIONE%20PER%20L%27ESTERO/02%20-%20Sezione%20II%20-%20Misure%20cautelari/art-717-cpp.md), commi 2 e 2-bis;
 - c) l'estradato, avendone avuta la possibilità, non ha lasciato il territorio dello Stato trascorsi quarantacinque giorni dalla sua definitiva liberazione oppure se, dopo averlo lasciato, vi ha fatto volontariamente ritorno.

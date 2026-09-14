@@ -20,7 +20,7 @@ ordine: 2833
 
 # Art. 2545-quindecies - ***Controllo giudiziario***
 
-I fatti previsti dall'[articolo 2409](../../../05%20-%20Titolo%20V%20-%20DELLE%20SOCIETÀ/05%20-%20Capo%20V%20-%20Società%20per%20azioni/08%20-%20Sezione%20VI-bis%20-%20Dell'amministrazione%20e%20del%20controllo%20§%201%20Disposizioni%20generali/art-2409-cc.md) possono essere denunciati al tribunale dai soci che siano titolari del decimo del capitale sociale ovvero da un decimo del numero complessivo dei soci, e, nelle società cooperative che hanno più di tremila soci, da un ventesimo dei soci.
+I fatti previsti dall'[articolo 2409](../../../05%20-%20Titolo%20V%20-%20DELLE%20SOCIETÀ/05%20-%20Capo%20V%20-%20Società%20per%20azioni/08%20-%20Sezione%20VI-bis%20-%20Dell%27amministrazione%20e%20del%20controllo%20§%201%20Disposizioni%20generali/art-2409-cc.md) possono essere denunciati al tribunale dai soci che siano titolari del decimo del capitale sociale ovvero da un decimo del numero complessivo dei soci, e, nelle società cooperative che hanno più di tremila soci, da un ventesimo dei soci.
 
 Il ricorso deve essere notificato a cura dei ricorrenti anche all'autorità di vigilanza.
 

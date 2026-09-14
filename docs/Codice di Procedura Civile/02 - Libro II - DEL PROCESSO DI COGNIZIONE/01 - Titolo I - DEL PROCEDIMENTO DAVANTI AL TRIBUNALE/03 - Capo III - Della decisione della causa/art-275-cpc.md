@@ -20,11 +20,11 @@ ordine: 300
 
 # Art. 275 - ***Decisione del collegio***
 
-Rimessa la causa al collegio, la sentenza è depositata entro sessanta giorni dall'udienza di cui all'[articolo 189](../02%20-%20Capo%20II%20-%20Dell'istruzione%20della%20causa/02%20-%20Sezione%20II%20-%20Della%20trattazione%20della%20causa/art-189-cpc.md).
+Rimessa la causa al collegio, la sentenza è depositata entro sessanta giorni dall'udienza di cui all'[articolo 189](../02%20-%20Capo%20II%20-%20Dell%27istruzione%20della%20causa/02%20-%20Sezione%20II%20-%20Della%20trattazione%20della%20causa/art-189-cpc.md).
 
-Ciascuna delle parti, con la nota di precisazione delle conclusioni, può chiedere al presidente del tribunale che la causa sia discussa oralmente dinanzi al collegio. In tal caso, resta fermo il rispetto dei termini indicati nell'[articolo 189](../02%20-%20Capo%20II%20-%20Dell'istruzione%20della%20causa/02%20-%20Sezione%20II%20-%20Della%20trattazione%20della%20causa/art-189-cpc.md) per il deposito delle sole comparse conclusionali.
+Ciascuna delle parti, con la nota di precisazione delle conclusioni, può chiedere al presidente del tribunale che la causa sia discussa oralmente dinanzi al collegio. In tal caso, resta fermo il rispetto dei termini indicati nell'[articolo 189](../02%20-%20Capo%20II%20-%20Dell%27istruzione%20della%20causa/02%20-%20Sezione%20II%20-%20Della%20trattazione%20della%20causa/art-189-cpc.md) per il deposito delle sole comparse conclusionali.
 
-Il presidente provvede sulla richiesta revocando l'udienza di cui all'[articolo 189](../02%20-%20Capo%20II%20-%20Dell'istruzione%20della%20causa/02%20-%20Sezione%20II%20-%20Della%20trattazione%20della%20causa/art-189-cpc.md) e fissando con decreto la data dell'udienza di discussione davanti al collegio, da tenersi entro sessanta giorni.
+Il presidente provvede sulla richiesta revocando l'udienza di cui all'[articolo 189](../02%20-%20Capo%20II%20-%20Dell%27istruzione%20della%20causa/02%20-%20Sezione%20II%20-%20Della%20trattazione%20della%20causa/art-189-cpc.md) e fissando con decreto la data dell'udienza di discussione davanti al collegio, da tenersi entro sessanta giorni.
 
 Nell'udienza il giudice istruttore fa la relazione orale della causa. Dopo la relazione, il presidente ammette le parti alla discussione e la sentenza è depositata ... entro i sessanta giorni successivi. [^agg-178]   [^agg-171] [^agg-173]
 

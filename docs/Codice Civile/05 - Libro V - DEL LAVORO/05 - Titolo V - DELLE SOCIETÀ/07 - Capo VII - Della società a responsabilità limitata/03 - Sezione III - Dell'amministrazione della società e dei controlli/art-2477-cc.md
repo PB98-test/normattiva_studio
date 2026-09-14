@@ -36,6 +36,6 @@ Nel caso di nomina di un organo di controllo, anche monocratico, si applicano le
 
 L'assemblea che approva il bilancio in cui vengono superati i limiti indicati al secondo comma deve provvedere, entro trenta giorni, alla nomina dell'organo di controllo o del revisore. Se l'assemblea non provvede, alla nomina provvede il tribunale su richiesta di qualsiasi soggetto interessato o su segnalazione del conservatore del registro delle imprese.
 
-Si applicano le disposizioni dell'[articolo 2409](../../05%20-%20Capo%20V%20-%20Società%20per%20azioni/08%20-%20Sezione%20VI-bis%20-%20Dell'amministrazione%20e%20del%20controllo%20§%201%20Disposizioni%20generali/art-2409-cc.md) anche se la società è priva di organo di controllo.
+Si applicano le disposizioni dell'[articolo 2409](../../05%20-%20Capo%20V%20-%20Società%20per%20azioni/08%20-%20Sezione%20VI-bis%20-%20Dell%27amministrazione%20e%20del%20controllo%20§%201%20Disposizioni%20generali/art-2409-cc.md) anche se la società è priva di organo di controllo.
 
 [^agg-224]: *AGGIORNAMENTO (224)* Il D.L. 24 giugno 2014, n. 91 convertito con modificazioni dalla L. 11 agosto 2014, n. 116 ha disposto (con l'[art. 20](../../../../01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/02%20-%20Titolo%20II%20-%20DELLE%20PERSONE%20GIURIDICHE/02%20-%20Capo%20II%20-%20Delle%20associazioni%20e%20delle%20fondazioni/art-20-cc.md), comma 8) che la sopravvenuta insussistenza dell'obbligo di nomina dell'organo di controllo o del revisore costituisce giusta causa di revoca.

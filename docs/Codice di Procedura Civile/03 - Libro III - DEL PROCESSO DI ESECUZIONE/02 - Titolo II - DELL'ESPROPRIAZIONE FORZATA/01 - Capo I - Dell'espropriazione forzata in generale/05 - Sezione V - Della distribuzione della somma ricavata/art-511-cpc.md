@@ -20,6 +20,6 @@ ordine: 650
 
 # Art. 511 - ***Domanda di sostituzione***
 
-I creditori di un creditore avente diritto alla distribuzione possono chiedere di essere a lui sostituiti, proponendo domanda a norma dell'[articolo 499](../03%20-%20Sezione%20III%20-%20Dell'intervento%20dei%20creditori/art-499-cpc.md) secondo comma.
+I creditori di un creditore avente diritto alla distribuzione possono chiedere di essere a lui sostituiti, proponendo domanda a norma dell'[articolo 499](../03%20-%20Sezione%20III%20-%20Dell%27intervento%20dei%20creditori/art-499-cpc.md) secondo comma.
 
 Il giudice dell'esecuzione provvede alla distribuzione anche nei loro confronti, ma le contestazioni relative alle loro domande non possono ritardare la distribuzione tra gli altri creditori concorrenti.

@@ -20,4 +20,4 @@ ordine: 3185
 
 # Art. 2875 - ***Eccesso nel valore dei beni***
 
-Si reputa che il valore dei beni ecceda la cautela da somministrarsi, se tanto alla data dell'iscrizione dell'ipoteca, quanto posteriormente, supera di un terzo l'importo dei crediti iscritti, accresciuto degli accessori a norma dell'[art. 2855](../06%20-%20Sezione%20VI%20-%20Dell'ordine%20delle%20ipoteche/art-2855-cc.md).
+Si reputa che il valore dei beni ecceda la cautela da somministrarsi, se tanto alla data dell'iscrizione dell'ipoteca, quanto posteriormente, supera di un terzo l'importo dei crediti iscritti, accresciuto degli accessori a norma dell'[art. 2855](../06%20-%20Sezione%20VI%20-%20Dell%27ordine%20delle%20ipoteche/art-2855-cc.md).

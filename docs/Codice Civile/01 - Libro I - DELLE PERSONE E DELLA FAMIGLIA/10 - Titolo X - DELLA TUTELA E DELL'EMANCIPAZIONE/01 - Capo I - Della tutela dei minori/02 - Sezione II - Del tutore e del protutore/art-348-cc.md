@@ -30,4 +30,4 @@ In ogni caso la scelta deve cadere su persona idonea all'ufficio, di ineccepibil
 
 IL D.LGS. LUOGOTENENZIALE 14 SETTEMBRE 1944, N. 287 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE COMMA.
 
-[^agg-223]: *AGGIORNAMENTO (223)* Il D.Lgs. 28 dicembre 2013, n. 154 ha disposto (con l'[art. 57](../../../04%20-%20Titolo%20IV%20-%20DELL'ASSENZA%20E%20DELLA%20DICHIARAZIONE%20DI%20MORTE%20PRESUNTA/01%20-%20Capo%20I%20-%20Dell'assenza/art-57-cc.md), comma 1, lettera a)) che "al primo comma le parole: "potestà dei genitori" sono sostituite dalle seguenti: "responsabilità genitoriale".".
+[^agg-223]: *AGGIORNAMENTO (223)* Il D.Lgs. 28 dicembre 2013, n. 154 ha disposto (con l'[art. 57](../../../04%20-%20Titolo%20IV%20-%20DELL%27ASSENZA%20E%20DELLA%20DICHIARAZIONE%20DI%20MORTE%20PRESUNTA/01%20-%20Capo%20I%20-%20Dell%27assenza/art-57-cc.md), comma 1, lettera a)) che "al primo comma le parole: "potestà dei genitori" sono sostituite dalle seguenti: "responsabilità genitoriale".".

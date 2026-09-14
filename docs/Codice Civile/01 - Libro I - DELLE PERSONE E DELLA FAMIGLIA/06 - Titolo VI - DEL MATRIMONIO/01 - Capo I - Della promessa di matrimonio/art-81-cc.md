@@ -20,7 +20,7 @@ ordine: 113
 
 # Art. 81 - ***Risarcimento dei danni.***
 
-La promessa di matrimonio fatta vicendevolmente per atto pubblico o per scrittura privata da una persona maggiore di età o dal minore ammesso a contrarre matrimonio a norma dell'[articolo 84](../03%20-%20Capo%20III%20-%20Del%20matrimonio%20celebrato%20davanti%20all'ufficiale%20dello%20stato%20civile/01%20-%20Sezione%20I%20-%20Delle%20condizioni%20necessarie%20per%20contrarre%20matrimonio/art-84-cc.md), oppure risultante dalla richiesta della pubblicazione, obbliga il promittente che senza giusto motivo ricusi di eseguirla a risarcire il danno cagionato all'altra parte per le spese fatte e per le obbligazioni contratte a causa di quella promessa. Il danno è risarcito entro il limite in cui le spese e le obbligazioni corrispondono alla condizione delle parti.
+La promessa di matrimonio fatta vicendevolmente per atto pubblico o per scrittura privata da una persona maggiore di età o dal minore ammesso a contrarre matrimonio a norma dell'[articolo 84](../03%20-%20Capo%20III%20-%20Del%20matrimonio%20celebrato%20davanti%20all%27ufficiale%20dello%20stato%20civile/01%20-%20Sezione%20I%20-%20Delle%20condizioni%20necessarie%20per%20contrarre%20matrimonio/art-84-cc.md), oppure risultante dalla richiesta della pubblicazione, obbliga il promittente che senza giusto motivo ricusi di eseguirla a risarcire il danno cagionato all'altra parte per le spese fatte e per le obbligazioni contratte a causa di quella promessa. Il danno è risarcito entro il limite in cui le spese e le obbligazioni corrispondono alla condizione delle parti.
 
 Lo stesso risarcimento è dovuto dal promittente che con la propria colpa ha dato giusto motivo al rifiuto dell'altro.
 

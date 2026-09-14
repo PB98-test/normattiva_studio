@@ -20,7 +20,7 @@ ordine: 554
 
 # Art. 473-bis.16 - ***Costituzione del convenuto***
 
-Il convenuto si costituisce nel termine assegnato dal giudice, depositando comparsa di risposta che contiene le indicazioni previste, anche a pena di decadenza, dagli [articoli 167](../../../01%20-%20Titolo%20I%20-%20DEL%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE/01%20-%20Capo%20I%20-%20Dell'introduzione%20della%20causa/01%20-%20Sezione%20I%20-%20Della%20citazione%20e%20della%20costituzione%20delle%20parti/art-167-cpc.md) e [473-bis.12](art-473-bis.12-cpc.md), secondo, terzo e quarto comma.
+Il convenuto si costituisce nel termine assegnato dal giudice, depositando comparsa di risposta che contiene le indicazioni previste, anche a pena di decadenza, dagli [articoli 167](../../../01%20-%20Titolo%20I%20-%20DEL%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE/01%20-%20Capo%20I%20-%20Dell%27introduzione%20della%20causa/01%20-%20Sezione%20I%20-%20Della%20citazione%20e%20della%20costituzione%20delle%20parti/art-167-cpc.md) e [473-bis.12](art-473-bis.12-cpc.md), secondo, terzo e quarto comma.
 
 [^agg-171] [^agg-173]
 

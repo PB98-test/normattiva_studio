@@ -20,4 +20,4 @@ ordine: 629
 
 # Art. 491 - ***Inizio dell'espropriazione***
 
-Salva l'ipotesi prevista nell'[art. 502](../04%20-%20Sezione%20IV%20-%20Della%20vendita%20e%20dell'assegnazione/art-502-cpc.md), l'espropriazione forzata si inizia col pignoramento.
+Salva l'ipotesi prevista nell'[art. 502](../04%20-%20Sezione%20IV%20-%20Della%20vendita%20e%20dell%27assegnazione/art-502-cpc.md), l'espropriazione forzata si inizia col pignoramento.

@@ -26,7 +26,7 @@ Le partecipazioni in altre imprese in misura non inferiore a quelle stabilite da
 
 Gli accantonamenti per rischi ed oneri sono destinati soltanto a coprire perdite o debiti di natura determinata, di esistenza certa o probabile, dei quali tuttavia alla chiusura dell'esercizio sono indeterminati o l'ammontare o la data di sopravvenienza.
 
-Nella voce: "trattamento di fine rapporto di lavoro subordinato" deve essere indicato l'importo calcolato a norma dell'[articolo 2120](../../../02%20-%20Titolo%20II%20-%20DEL%20LAVORO%20NELL'IMPRESA/01%20-%20Capo%20I%20-%20Dell'impresa%20in%20generale/03%20-%20Sezione%20III%20-%20Del%20rapporto%20di%20lavoro%20§%201%20Della%20costituzione%20del%20rapporto%20di%20lavo/art-2120-cc.md).
+Nella voce: "trattamento di fine rapporto di lavoro subordinato" deve essere indicato l'importo calcolato a norma dell'[articolo 2120](../../../02%20-%20Titolo%20II%20-%20DEL%20LAVORO%20NELL%27IMPRESA/01%20-%20Capo%20I%20-%20Dell%27impresa%20in%20generale/03%20-%20Sezione%20III%20-%20Del%20rapporto%20di%20lavoro%20§%201%20Della%20costituzione%20del%20rapporto%20di%20lavo/art-2120-cc.md).
 
 Le attività oggetto di contratti di compravendita con obbligo di retrocessione a termine devono essere iscritte nello stato patrimoniale del venditore.
 

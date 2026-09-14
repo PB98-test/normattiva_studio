@@ -22,7 +22,7 @@ ordine: 829
 
 Chiunque, mediante suggestione ipnotica o in veglia, o mediante somministrazione di sostanze alcooliche o stupefacenti, o con qualsiasi altro mezzo, pone una persona, senza il consenso di lei, in stato d'incapacità d'intendere o di volere, è punito con la reclusione fino a un anno.
 
-Il consenso dato dalle persone indicate nell'ultimo capoverso dell'[articolo 579](../../01%20-%20Capo%20I%20-%20Dei%20delitti%20contro%20la%20vita%20e%20l'incolumità%20individuale/art-579-cp.md) non esclude la punibilità.
+Il consenso dato dalle persone indicate nell'ultimo capoverso dell'[articolo 579](../../01%20-%20Capo%20I%20-%20Dei%20delitti%20contro%20la%20vita%20e%20l%27incolumità%20individuale/art-579-cp.md) non esclude la punibilità.
 
 La pena è della reclusione fino a cinque anni:
 

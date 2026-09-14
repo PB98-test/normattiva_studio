@@ -22,7 +22,7 @@ ordine: 451
 
 Chiunque, dopo che fu commesso un delitto per il quale la legge stabilisce la pena di morte o l'ergastolo o la reclusione, e fuori dei casi di concorso nel medesimo, aiuta taluno a eludere le investigazioni dell'Autorità, comprese quelle svolte da organi della Corte penale internazionale,  o a sottrarsi alle ricerche effettuate dai medesimi soggetti, è punito con la reclusione fino a quattro anni. [^agg-5]
 
-Quando il delitto commesso è quello previsto dall'[articolo 416-bis](../../05%20-%20Titolo%20V%20-%20DEI%20DELITTI%20CONTRO%20L'ORDINE%20PUBBLICO/art-416-bis-cp.md), si applica, in ogni caso, la pena della reclusione non inferiore a due anni.
+Quando il delitto commesso è quello previsto dall'[articolo 416-bis](../../05%20-%20Titolo%20V%20-%20DEI%20DELITTI%20CONTRO%20L%27ORDINE%20PUBBLICO/art-416-bis-cp.md), si applica, in ogni caso, la pena della reclusione non inferiore a due anni.
 
 Se si tratta di delitti per i quali la legge stabilisce una pena diversa, ovvero di contravvenzioni, la pena è della multa fino a lire cinquemila.
 

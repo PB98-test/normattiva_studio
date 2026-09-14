@@ -9,12 +9,12 @@ aliases:
 # Cartabia (Dlgs 149-2022 - 10.10.2022)
 
 #### Capo I - Modifiche al codice civile e alle disposizioni per l'attuazione del codice civile e disposizioni transitorie
-- [Art. 1](01%20-%20Capo%20I%20-%20Modifiche%20al%20codice%20civile%20e%20alle%20disposizioni%20per%20l'attuazione%20del%20cod/art-1-dlgs149-22.md) — Modifiche al codice civile
-- [Art. 2](01%20-%20Capo%20I%20-%20Modifiche%20al%20codice%20civile%20e%20alle%20disposizioni%20per%20l'attuazione%20del%20cod/art-2-dlgs149-22.md) — Modifiche alle disposizioni per l'attuazione del codice civile e disposizioni transitorie
+- [Art. 1](01%20-%20Capo%20I%20-%20Modifiche%20al%20codice%20civile%20e%20alle%20disposizioni%20per%20l%27attuazione%20del%20cod/art-1-dlgs149-22.md) — Modifiche al codice civile
+- [Art. 2](01%20-%20Capo%20I%20-%20Modifiche%20al%20codice%20civile%20e%20alle%20disposizioni%20per%20l%27attuazione%20del%20cod/art-2-dlgs149-22.md) — Modifiche alle disposizioni per l'attuazione del codice civile e disposizioni transitorie
 
 #### Capo II - Modifiche al codice di procedura civile e alle disposizioni per l'attuazione del codice di procedura civile e disposizioni transitorie
-- [Art. 3](02%20-%20Capo%20II%20-%20Modifiche%20al%20codice%20di%20procedura%20civile%20e%20alle%20disposizioni%20per%20l'attu/art-3-dlgs149-22.md) — Modifiche al codice di procedura civile
-- [Art. 4](02%20-%20Capo%20II%20-%20Modifiche%20al%20codice%20di%20procedura%20civile%20e%20alle%20disposizioni%20per%20l'attu/art-4-dlgs149-22.md) — Modifiche alle disposizioni per l'attuazione del codice di procedura civile e disposizioni transitorie
+- [Art. 3](02%20-%20Capo%20II%20-%20Modifiche%20al%20codice%20di%20procedura%20civile%20e%20alle%20disposizioni%20per%20l%27attu/art-3-dlgs149-22.md) — Modifiche al codice di procedura civile
+- [Art. 4](02%20-%20Capo%20II%20-%20Modifiche%20al%20codice%20di%20procedura%20civile%20e%20alle%20disposizioni%20per%20l%27attu/art-4-dlgs149-22.md) — Modifiche alle disposizioni per l'attuazione del codice di procedura civile e disposizioni transitorie
 
 #### Capo III - Modifiche al codice penale, al codice di procedura penale e alle norme di attuazione, di coordinamento e transitorie del codice di procedura penale
 - [Art. 5](03%20-%20Capo%20III%20-%20Modifiche%20al%20codice%20penale,%20al%20codice%20di%20procedura%20penale%20e%20alle%20norm/art-5-dlgs149-22.md) — Modifiche al codice penale e al codice di procedura penale

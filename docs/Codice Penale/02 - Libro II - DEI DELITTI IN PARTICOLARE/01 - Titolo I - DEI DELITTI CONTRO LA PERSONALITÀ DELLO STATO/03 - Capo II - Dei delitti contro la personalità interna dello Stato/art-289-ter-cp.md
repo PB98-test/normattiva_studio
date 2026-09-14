@@ -24,4 +24,4 @@ Chiunque, fuori dei casi indicati negli [articoli 289-bis](art-289-bis-cp.md) e 
 
 Si applicano i commi secondo, terzo, quarto e quinto dell'[articolo 289-bis](art-289-bis-cp.md).
 
-Se il fatto è di lieve entità si applicano le pene previste dall'[articolo 605](../../12%20-%20Titolo%20XII%20-%20DEI%20DELITTI%20CONTRO%20LA%20PERSONA/04%20-%20Capo%20III%20-%20Dei%20delitti%20contro%20la%20libertà%20individuale%20Sezione%201a%20Dei%20delitti%20cont/01%20-%20Sezione%20I-bis%20-%20Dei%20delitti%20contro%20l'eguaglianza/art-605-cp.md) aumentate dalla metà a due terzi.
+Se il fatto è di lieve entità si applicano le pene previste dall'[articolo 605](../../12%20-%20Titolo%20XII%20-%20DEI%20DELITTI%20CONTRO%20LA%20PERSONA/04%20-%20Capo%20III%20-%20Dei%20delitti%20contro%20la%20libertà%20individuale%20Sezione%201a%20Dei%20delitti%20cont/01%20-%20Sezione%20I-bis%20-%20Dei%20delitti%20contro%20l%27eguaglianza/art-605-cp.md) aumentate dalla metà a due terzi.

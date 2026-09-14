@@ -28,4 +28,4 @@ Il matrimonio contratto dal coniuge dell'assente non può essere impugnato finch
 
 Nei casi in cui si sarebbe potuta accordare l'autorizzazione ai sensi del quarto comma dell'[articolo 87](../01%20-%20Sezione%20I%20-%20Delle%20condizioni%20necessarie%20per%20contrarre%20matrimonio/art-87-cc.md), il matrimonio non può essere impugnato dopo un anno dalla celebrazione.
 
-La disposizione del primo comma del presente articolo si applica anche nel caso di nullità del matrimonio previsto dall'[articolo 68](../../../04%20-%20Titolo%20IV%20-%20DELL'ASSENZA%20E%20DELLA%20DICHIARAZIONE%20DI%20MORTE%20PRESUNTA/02%20-%20Capo%20II%20-%20Della%20dichiarazione%20di%20morte%20presunta/art-68-cc.md).
+La disposizione del primo comma del presente articolo si applica anche nel caso di nullità del matrimonio previsto dall'[articolo 68](../../../04%20-%20Titolo%20IV%20-%20DELL%27ASSENZA%20E%20DELLA%20DICHIARAZIONE%20DI%20MORTE%20PRESUNTA/02%20-%20Capo%20II%20-%20Della%20dichiarazione%20di%20morte%20presunta/art-68-cc.md).

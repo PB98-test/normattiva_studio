@@ -20,7 +20,7 @@ ordine: 291
 
 # Art. 267 - ***Costituzione del terzo interveniente***
 
-Per intervenire nel processo a norma dell'[articolo 105](../../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/04%20-%20Titolo%20IV%20-%20DELL'ESERCIZIO%20DELL'AZIONE/art-105-cpc.md), il terzo deve costituirsi depositando una comparsa formata a norma dell'[articolo 167](../../01%20-%20Capo%20I%20-%20Dell'introduzione%20della%20causa/01%20-%20Sezione%20I%20-%20Della%20citazione%20e%20della%20costituzione%20delle%20parti/art-167-cpc.md) con i documenti e la procura. [^agg-171] [^agg-173]
+Per intervenire nel processo a norma dell'[articolo 105](../../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/04%20-%20Titolo%20IV%20-%20DELL%27ESERCIZIO%20DELL%27AZIONE/art-105-cpc.md), il terzo deve costituirsi depositando una comparsa formata a norma dell'[articolo 167](../../01%20-%20Capo%20I%20-%20Dell%27introduzione%20della%20causa/01%20-%20Sezione%20I%20-%20Della%20citazione%20e%20della%20costituzione%20delle%20parti/art-167-cpc.md) con i documenti e la procura. [^agg-171] [^agg-173]
 
 Il cancelliere dà notizia dell'intervento alle altre parti. [^agg-171] [^agg-173]
 

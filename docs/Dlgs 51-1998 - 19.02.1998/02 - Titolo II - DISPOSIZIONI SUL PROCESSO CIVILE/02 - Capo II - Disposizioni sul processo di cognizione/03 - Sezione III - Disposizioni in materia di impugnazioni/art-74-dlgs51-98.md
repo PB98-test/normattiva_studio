@@ -20,7 +20,7 @@ ordine: 75
 
 # Art. 74
 
-1. L'[articolo 350 del codice di procedura civile](../../../../Codice%20di%20Procedura%20Civile/02%20-%20Libro%20II%20-%20DEL%20PROCESSO%20DI%20COGNIZIONE/03%20-%20Titolo%20III%20-%20DELLE%20IMPUGNAZIONI/02%20-%20Capo%20II%20-%20Dell'appello/art-350-cpc.md) è così modificato:
+1. L'[articolo 350 del codice di procedura civile](../../../../Codice%20di%20Procedura%20Civile/02%20-%20Libro%20II%20-%20DEL%20PROCESSO%20DI%20COGNIZIONE/03%20-%20Titolo%20III%20-%20DELLE%20IMPUGNAZIONI/02%20-%20Capo%20II%20-%20Dell%27appello/art-350-cpc.md) è così modificato:
 
 - a) il primo comma è sostituito dal seguente: "Davanti alla corte di appello la trattazione dell'appello è collegiale; davanti al tribunale l'appello è trattato e deciso dal giudice monocratico.";
 - b) nel secondo e nel terzo comma, la parola "collegio" è sostituita dalla parola "giudice".

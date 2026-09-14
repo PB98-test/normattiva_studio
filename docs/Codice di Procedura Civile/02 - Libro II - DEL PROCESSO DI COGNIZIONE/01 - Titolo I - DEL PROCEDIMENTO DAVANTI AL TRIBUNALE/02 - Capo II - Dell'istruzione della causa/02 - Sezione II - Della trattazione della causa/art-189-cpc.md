@@ -22,7 +22,7 @@ ordine: 211
 
 Il giudice istruttore, quando procede a norma dei primi tre commi dell'[articolo 187](art-187-cpc.md) o dell'[articolo 188](art-188-cpc.md), fissa davanti a sè l'udienza per la rimessione della causa al collegio per la decisione e assegna alle parti, salvo che queste vi rinuncino, i seguenti termini perentori:
 
-- 1) un termine non superiore a sessanta giorni prima dell'udienza per il deposito di note scritte contenenti la sola precisazione delle conclusioni che le parti intendono sottoporre al collegio, nei limiti di quelle formulate negli atti introduttivi o a norma dell'[articolo 171-ter](../../01%20-%20Capo%20I%20-%20Dell'introduzione%20della%20causa/01%20-%20Sezione%20I%20-%20Della%20citazione%20e%20della%20costituzione%20delle%20parti/art-171-ter-cpc.md). Le conclusioni di merito debbono essere interamente formulate anche nei casi previsti dell'[articolo 187](art-187-cpc.md), secondo e terzo comma.
+- 1) un termine non superiore a sessanta giorni prima dell'udienza per il deposito di note scritte contenenti la sola precisazione delle conclusioni che le parti intendono sottoporre al collegio, nei limiti di quelle formulate negli atti introduttivi o a norma dell'[articolo 171-ter](../../01%20-%20Capo%20I%20-%20Dell%27introduzione%20della%20causa/01%20-%20Sezione%20I%20-%20Della%20citazione%20e%20della%20costituzione%20delle%20parti/art-171-ter-cpc.md). Le conclusioni di merito debbono essere interamente formulate anche nei casi previsti dell'[articolo 187](art-187-cpc.md), secondo e terzo comma.
 - 2) un termine non superiore a trenta giorni prima dell'udienza per il deposito delle comparse conclusionali;
 - 3) un termine non superiore a quindici giorni prima dell'udienza per il deposito delle memorie di replica.
 

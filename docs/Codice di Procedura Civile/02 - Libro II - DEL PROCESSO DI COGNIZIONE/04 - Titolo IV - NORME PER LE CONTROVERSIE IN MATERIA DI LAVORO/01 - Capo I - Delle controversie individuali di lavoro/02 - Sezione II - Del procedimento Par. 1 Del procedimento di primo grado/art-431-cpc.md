@@ -28,7 +28,7 @@ Il giudice di appello può disporre con ordinanza non impugnabile che l'esecuzio
 
 La sospensione disposta a norma del comma precedente può essere anche parziale e, in ogni caso, l'esecuzione provvisoria resta autorizzata fino alla somma di lire 500 mila.
 
-Le sentenze che pronunciano condanna a favore del datore di lavoro sono provvisoriamente esecutive e sono soggette alla disciplina degli [articoli 282](../../../01%20-%20Titolo%20I%20-%20DEL%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE/07%20-%20Capo%20IV%20-%20Dell'esecutorietà%20e%20della%20notificazione%20delle%20sentenze/art-282-cpc.md) e [283](../../../01%20-%20Titolo%20I%20-%20DEL%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE/07%20-%20Capo%20IV%20-%20Dell'esecutorietà%20e%20della%20notificazione%20delle%20sentenze/art-283-cpc.md). [^agg-67] [^agg-72]
+Le sentenze che pronunciano condanna a favore del datore di lavoro sono provvisoriamente esecutive e sono soggette alla disciplina degli [articoli 282](../../../01%20-%20Titolo%20I%20-%20DEL%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE/07%20-%20Capo%20IV%20-%20Dell%27esecutorietà%20e%20della%20notificazione%20delle%20sentenze/art-282-cpc.md) e [283](../../../01%20-%20Titolo%20I%20-%20DEL%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE/07%20-%20Capo%20IV%20-%20Dell%27esecutorietà%20e%20della%20notificazione%20delle%20sentenze/art-283-cpc.md). [^agg-67] [^agg-72]
 
 Il giudice di appello può disporre con ordinanza non impugnabile che l'esecuzione sia sospesa in tutto o in parte quando ricorrono gravi motivi. [^agg-67] [^agg-72]
 

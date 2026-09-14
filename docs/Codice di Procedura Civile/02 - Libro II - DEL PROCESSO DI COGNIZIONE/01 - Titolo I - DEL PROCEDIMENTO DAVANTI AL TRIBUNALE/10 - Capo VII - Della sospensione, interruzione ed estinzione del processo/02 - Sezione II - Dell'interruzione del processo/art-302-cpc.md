@@ -20,4 +20,4 @@ ordine: 340
 
 # Art. 302 - ***Prosecuzione del processo***
 
-Nei casi previsti negli articoli precedenti la costituzione per proseguire il processo può avvenire all'udienza o a norma dell'[articolo 166](../../01%20-%20Capo%20I%20-%20Dell'introduzione%20della%20causa/01%20-%20Sezione%20I%20-%20Della%20citazione%20e%20della%20costituzione%20delle%20parti/art-166-cpc.md). Se non è fissata alcuna udienza, la parte può chiedere con ricorso al giudice istruttore o, in mancanza, al presidente del tribunale la fissazione dell'udienza. Il ricorso e il decreto sono notificati alle altre parti a cura dell'istante.
+Nei casi previsti negli articoli precedenti la costituzione per proseguire il processo può avvenire all'udienza o a norma dell'[articolo 166](../../01%20-%20Capo%20I%20-%20Dell%27introduzione%20della%20causa/01%20-%20Sezione%20I%20-%20Della%20citazione%20e%20della%20costituzione%20delle%20parti/art-166-cpc.md). Se non è fissata alcuna udienza, la parte può chiedere con ricorso al giudice istruttore o, in mancanza, al presidente del tribunale la fissazione dell'udienza. Il ricorso e il decreto sono notificati alle altre parti a cura dell'istante.

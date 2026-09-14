@@ -30,7 +30,7 @@ Se non ricorre alcuna di tali eccezioni, i creditori indicati al comma precedent
 
 -------------------
 
-<small>*AGGIORNAMENTO (93)*   Il D.Lgs. 1 settembre 1993, n. 385, ha disposto (con l'[art. 57](../../../../01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/04%20-%20Titolo%20IV%20-%20DELL'ASSENZA%20E%20DELLA%20DICHIARAZIONE%20DI%20MORTE%20PRESUNTA/01%20-%20Capo%20I%20-%20Dell'assenza/art-57-cc.md), comma 3) che " Il termine previsto dall'[art. 2503, primo comma, del codice civile](art-2503-cc.md) è ridotto a quindici giorni."</small>
+<small>*AGGIORNAMENTO (93)*   Il D.Lgs. 1 settembre 1993, n. 385, ha disposto (con l'[art. 57](../../../../01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/04%20-%20Titolo%20IV%20-%20DELL%27ASSENZA%20E%20DELLA%20DICHIARAZIONE%20DI%20MORTE%20PRESUNTA/01%20-%20Capo%20I%20-%20Dell%27assenza/art-57-cc.md), comma 3) che " Il termine previsto dall'[art. 2503, primo comma, del codice civile](art-2503-cc.md) è ridotto a quindici giorni."</small>
 
 ------------------
 

@@ -26,4 +26,4 @@ Qualora possano recare danno alla società, sono impugnabili a norma del precede
 
 Le decisioni aventi oggetto illecito o impossibile e quelle prese in assenza assoluta di informazione possono essere impugnate da chiunque vi abbia interesse entro tre anni dalla trascrizione indicata nel primo periodo del primo comma. Possono essere impugnate senza limiti di tempo le deliberazioni che modificano l'oggetto sociale prevedendo attività impossibili o illecite.
 
-Si applicano, in quanto compatibili, gli [articoli 2377](../../05%20-%20Capo%20V%20-%20Società%20per%20azioni/07%20-%20Sezione%20VI%20-%20Dell'assemblea/art-2377-cc.md), primo, quinto, settimo, ottavo e nono comma, 2378, 2379-bis, 2379-ter e 2434-bis.
+Si applicano, in quanto compatibili, gli [articoli 2377](../../05%20-%20Capo%20V%20-%20Società%20per%20azioni/07%20-%20Sezione%20VI%20-%20Dell%27assemblea/art-2377-cc.md), primo, quinto, settimo, ottavo e nono comma, 2378, 2379-bis, 2379-ter e 2434-bis.

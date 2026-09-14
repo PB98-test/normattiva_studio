@@ -22,6 +22,6 @@ ordine: 2148
 
 In caso di smarrimento, sottrazione o distruzione del titolo, l'intestatario o il giratario di esso può farne denunzia all'emittente e chiedere l'ammortamento del titolo in conformità delle norme relative ai titoli all'ordine.
 
-In caso di smarrimento, sottrazione o distruzione di azioni nominative, durante il termine stabilito dall'[art. 2016](../03%20-%20Capo%20III%20-%20Dei%20titoli%20all'ordine/art-2016-cc.md) il ricorrente può esercitare i diritti inerenti alle azioni, salva, se del caso, la prestazione di una cauzione.
+In caso di smarrimento, sottrazione o distruzione di azioni nominative, durante il termine stabilito dall'[art. 2016](../03%20-%20Capo%20III%20-%20Dei%20titoli%20all%27ordine/art-2016-cc.md) il ricorrente può esercitare i diritti inerenti alle azioni, salva, se del caso, la prestazione di una cauzione.
 
 L'ammortamento estingue il titolo, ma non pregiudica le ragioni del detentore verso chi ha ottenuto il nuovo titolo.

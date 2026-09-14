@@ -20,4 +20,4 @@ ordine: 3180
 
 # Art. 2870 - ***Eccezioni opponibili dal terzo datore***
 
-Il terzo datore che non ha preso parte al giudizio diretto alla condanna del debitore può opporre al creditore le eccezioni indicate dall'[art. 2859](../07%20-%20Sezione%20VII%20-%20Degli%20effetti%20dell'ipoteca%20rispetto%20al%20terzo%20acquirente/art-2859-cc.md).
+Il terzo datore che non ha preso parte al giudizio diretto alla condanna del debitore può opporre al creditore le eccezioni indicate dall'[art. 2859](../07%20-%20Sezione%20VII%20-%20Degli%20effetti%20dell%27ipoteca%20rispetto%20al%20terzo%20acquirente/art-2859-cc.md).

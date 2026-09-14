@@ -20,7 +20,7 @@ ordine: 375
 
 # Art. 337 - ***Sospensione dell'esecuzione e dei processi***
 
-L'esecuzione della sentenza non è sospesa per effetto dall'impugnazione di essa, salve le disposizioni degli [articoli 283](../../01%20-%20Titolo%20I%20-%20DEL%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE/07%20-%20Capo%20IV%20-%20Dell'esecutorietà%20e%20della%20notificazione%20delle%20sentenze/art-283-cpc.md), [373](../03%20-%20Capo%20III%20-%20Del%20ricorso%20per%20cassazione/01%20-%20Sezione%20I%20-%20Dei%20provvedimenti%20impugnabili%20e%20dei%20ricorsi/art-373-cpc.md), [401](../04%20-%20Capo%20IV%20-%20Della%20revocazione/art-401-cpc.md) e [407](../05%20-%20Capo%20V%20-%20Dell'opposizione%20di%20terzo/art-407-cpc.md). [^agg-67] [^agg-72]
+L'esecuzione della sentenza non è sospesa per effetto dall'impugnazione di essa, salve le disposizioni degli [articoli 283](../../01%20-%20Titolo%20I%20-%20DEL%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE/07%20-%20Capo%20IV%20-%20Dell%27esecutorietà%20e%20della%20notificazione%20delle%20sentenze/art-283-cpc.md), [373](../03%20-%20Capo%20III%20-%20Del%20ricorso%20per%20cassazione/01%20-%20Sezione%20I%20-%20Dei%20provvedimenti%20impugnabili%20e%20dei%20ricorsi/art-373-cpc.md), [401](../04%20-%20Capo%20IV%20-%20Della%20revocazione/art-401-cpc.md) e [407](../05%20-%20Capo%20V%20-%20Dell%27opposizione%20di%20terzo/art-407-cpc.md). [^agg-67] [^agg-72]
 
 Quando l'autorità di una sentenza è invocata in un diverso processo, questo può essere sospeso se tale sentenza è impugnata.
 

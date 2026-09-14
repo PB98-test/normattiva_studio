@@ -22,4 +22,4 @@ ordine: 3192
 
 La cancellazione consentita dalle parti interessate deve essere eseguita dal conservatore in seguito a presentazione dell'atto contenente il consenso del creditore.
 
-Per quest'atto devono essere osservate le forme prescritte dagli [articoli 2821](../04%20-%20Sezione%20IV%20-%20Dell'ipoteca%20volontaria/art-2821-cc.md), [2835](../05%20-%20Sezione%20V%20-%20Dell'iscrizione%20e%20rinnovazione%20delle%20ipoteche%20§%201%20Dell'iscrizione/art-2835-cc.md) e [2837](../05%20-%20Sezione%20V%20-%20Dell'iscrizione%20e%20rinnovazione%20delle%20ipoteche%20§%201%20Dell'iscrizione/art-2837-cc.md).
+Per quest'atto devono essere osservate le forme prescritte dagli [articoli 2821](../04%20-%20Sezione%20IV%20-%20Dell%27ipoteca%20volontaria/art-2821-cc.md), [2835](../05%20-%20Sezione%20V%20-%20Dell%27iscrizione%20e%20rinnovazione%20delle%20ipoteche%20§%201%20Dell%27iscrizione/art-2835-cc.md) e [2837](../05%20-%20Sezione%20V%20-%20Dell%27iscrizione%20e%20rinnovazione%20delle%20ipoteche%20§%201%20Dell%27iscrizione/art-2837-cc.md).

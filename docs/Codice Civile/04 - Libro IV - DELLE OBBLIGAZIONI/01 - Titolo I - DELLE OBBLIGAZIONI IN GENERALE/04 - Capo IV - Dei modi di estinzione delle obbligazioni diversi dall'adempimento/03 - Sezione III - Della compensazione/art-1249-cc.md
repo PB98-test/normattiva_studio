@@ -20,4 +20,4 @@ ordine: 1351
 
 # Art. 1249 - ***Compensazione di più debiti***
 
-Quando una persona ha verso un'altra più debiti compensabili, si osservano per la compensazione le disposizioni del secondo comma dell'[art. 1193](../../02%20-%20Capo%20II%20-%20Dell'adempimento%20delle%20obbligazioni/01%20-%20Sezione%20I%20-%20Dell'adempimento%20in%20generale/art-1193-cc.md).
+Quando una persona ha verso un'altra più debiti compensabili, si osservano per la compensazione le disposizioni del secondo comma dell'[art. 1193](../../02%20-%20Capo%20II%20-%20Dell%27adempimento%20delle%20obbligazioni/01%20-%20Sezione%20I%20-%20Dell%27adempimento%20in%20generale/art-1193-cc.md).

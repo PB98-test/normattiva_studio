@@ -22,4 +22,4 @@ ordine: 846
 
 Il sequestro conservativo sugli immobili si esegue con la trascrizione del provvedimento presso l'ufficio del conservatore dei registri immobiliari del luogo in cui i beni sono situati.
 
-Per la custodia dell'immobile si applica la disposizione dell'[articolo 559](../../../../03%20-%20Libro%20III%20-%20DEL%20PROCESSO%20DI%20ESECUZIONE/02%20-%20Titolo%20II%20-%20DELL'ESPROPRIAZIONE%20FORZATA/04%20-%20Capo%20IV%20-%20Dell'espropriazione%20immobiliare/01%20-%20Sezione%20I%20-%20Del%20pignoramento/art-559-cpc.md).
+Per la custodia dell'immobile si applica la disposizione dell'[articolo 559](../../../../03%20-%20Libro%20III%20-%20DEL%20PROCESSO%20DI%20ESECUZIONE/02%20-%20Titolo%20II%20-%20DELL%27ESPROPRIAZIONE%20FORZATA/04%20-%20Capo%20IV%20-%20Dell%27espropriazione%20immobiliare/01%20-%20Sezione%20I%20-%20Del%20pignoramento/art-559-cpc.md).

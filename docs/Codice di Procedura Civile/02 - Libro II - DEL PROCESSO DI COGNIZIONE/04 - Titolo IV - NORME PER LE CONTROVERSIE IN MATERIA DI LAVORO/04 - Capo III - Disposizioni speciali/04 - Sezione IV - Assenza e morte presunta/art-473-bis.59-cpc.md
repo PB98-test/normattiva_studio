@@ -20,7 +20,7 @@ ordine: 597
 
 # Art. 473-bis.59 - ***Provvedimenti conservativi nell'interesse dello scomparso***
 
-I provvedimenti indicati nell'[articolo 48 del codice civile](../../../../../Codice%20Civile/01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/04%20-%20Titolo%20IV%20-%20DELL'ASSENZA%20E%20DELLA%20DICHIARAZIONE%20DI%20MORTE%20PRESUNTA/01%20-%20Capo%20I%20-%20Dell'assenza/art-48-cc.md) sono pronunciati dal tribunale in camera di consiglio su ricorso degli interessati, sentito il pubblico ministero.
+I provvedimenti indicati nell'[articolo 48 del codice civile](../../../../../Codice%20Civile/01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/04%20-%20Titolo%20IV%20-%20DELL%27ASSENZA%20E%20DELLA%20DICHIARAZIONE%20DI%20MORTE%20PRESUNTA/01%20-%20Capo%20I%20-%20Dell%27assenza/art-48-cc.md) sono pronunciati dal tribunale in camera di consiglio su ricorso degli interessati, sentito il pubblico ministero.
 
 [^agg-171] [^agg-173]
 

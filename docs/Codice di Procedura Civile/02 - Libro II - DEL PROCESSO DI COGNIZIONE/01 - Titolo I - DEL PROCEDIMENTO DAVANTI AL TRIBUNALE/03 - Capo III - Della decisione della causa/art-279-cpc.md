@@ -28,7 +28,7 @@ Il collegio pronuncia sentenza:
 - 2° quando definisce il giudizio, decidendo questioni pregiudiziali attinenti al processo o questioni preliminari di merito;
 - 3° quando definisce il giudizio, decidendo totalmente il merito;
 - 4° quando, decidendo alcune delle questioni di cui ai numeri 1, 2 e 3, non definisce il giudizio e impartisce distinti provvedimenti per l'ulteriore istruzione della causa;
-- 5° quando, valendosi della facoltà di cui agli [articoli 103](../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/04%20-%20Titolo%20IV%20-%20DELL'ESERCIZIO%20DELL'AZIONE/art-103-cpc.md), secondo comma, e 104, secondo comma, decide solo alcune delle cause fino a quel momento riunite, e con distinti provvedimenti dispone la separazione delle altre cause e l'ulteriore istruzione riguardo alle medesime, ovvero la rimessione al giudice inferiore delle cause di sua competenza.
+- 5° quando, valendosi della facoltà di cui agli [articoli 103](../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/04%20-%20Titolo%20IV%20-%20DELL%27ESERCIZIO%20DELL%27AZIONE/art-103-cpc.md), secondo comma, e 104, secondo comma, decide solo alcune delle cause fino a quel momento riunite, e con distinti provvedimenti dispone la separazione delle altre cause e l'ulteriore istruzione riguardo alle medesime, ovvero la rimessione al giudice inferiore delle cause di sua competenza.
 
 I provvedimenti per l'ulteriore istruzione, previsti dai numeri 4 e 5, sono dati con separata ordinanza.
 

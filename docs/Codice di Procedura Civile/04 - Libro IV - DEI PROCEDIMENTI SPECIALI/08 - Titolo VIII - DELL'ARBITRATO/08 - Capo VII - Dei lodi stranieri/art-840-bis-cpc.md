@@ -28,7 +28,7 @@ L'azione di classe può essere esperita nei confronti di imprese ovvero nei conf
 
 In ogni caso, resta fermo il diritto all'azione individuale, salvo quanto previsto all'[articolo 840-undecies](art-840-undecies-cpc.md), nono comma.
 
-Non è ammesso l'intervento dei terzi ai sensi dell'[articolo 105](../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/04%20-%20Titolo%20IV%20-%20DELL'ESERCIZIO%20DELL'AZIONE/art-105-cpc.md).
+Non è ammesso l'intervento dei terzi ai sensi dell'[articolo 105](../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/04%20-%20Titolo%20IV%20-%20DELL%27ESERCIZIO%20DELL%27AZIONE/art-105-cpc.md).
 
 Nel caso in cui, a seguito di accordi transattivi o conciliativi intercorsi tra le parti, vengano a mancare in tutto le parti ricorrenti, il tribunale assegna agli aderenti un termine, non inferiore a sessanta giorni e non superiore a novanta giorni, per la prosecuzione della causa, che deve avvenire con la costituzione in giudizio di almeno uno degli aderenti mediante il ministero di un difensore. Nel caso in cui, decorso inutilmente il termine di cui al primo periodo, non avvenga la prosecuzione del procedimento, il tribunale ne dichiara l'estinzione. A seguito dell'estinzione, resta comunque salvo il diritto all'azione individuale dei soggetti aderenti oppure all'avvio di una nuova azione di classe.
 

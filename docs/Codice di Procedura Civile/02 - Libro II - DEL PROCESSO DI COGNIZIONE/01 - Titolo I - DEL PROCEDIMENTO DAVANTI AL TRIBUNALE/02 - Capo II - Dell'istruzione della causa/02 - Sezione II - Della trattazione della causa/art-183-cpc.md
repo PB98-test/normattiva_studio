@@ -22,7 +22,7 @@ ordine: 197
 
 All'udienza fissata per la prima comparizione e la trattazione le parti devono comparire personalmente. La mancata comparizione delle parti senza giustificato motivo costituisce comportamento valutabile ai sensi dell'[articolo 116](../../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/05%20-%20Titolo%20V%20-%20DEI%20POTERI%20DEL%20GIUDICE/art-116-cpc.md), secondo comma.
 
-Salva l'applicazione dell'[articolo 187](art-187-cpc.md), il giudice, se autorizza l'attore a chiamare in causa un terzo, fissa una nuova udienza a norma dell'[articolo 269](../04%20-%20Sezione%20IV%20-%20Dell'intervento%20di%20terzi%20e%20della%20riunione%20di%20procedimenti%20§%201%20Dell'/art-269-cpc.md), terzo comma.
+Salva l'applicazione dell'[articolo 187](art-187-cpc.md), il giudice, se autorizza l'attore a chiamare in causa un terzo, fissa una nuova udienza a norma dell'[articolo 269](../04%20-%20Sezione%20IV%20-%20Dell%27intervento%20di%20terzi%20e%20della%20riunione%20di%20procedimenti%20§%201%20Dell%27/art-269-cpc.md), terzo comma.
 
 Il giudice interroga liberamente le parti, richiedendo, sulla base dei fatti allegati, i chiarimenti necessari e tenta la conciliazione a norma dell'[articolo 185](art-185-cpc.md).
 

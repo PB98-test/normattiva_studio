@@ -36,4 +36,4 @@ La società non può, neppure per tramite di società fiduciaria, o per interpos
 
 Salvo quanto previsto dal comma sesto, le disposizioni del presente articolo non si applicano alle operazioni effettuate per favorire l'acquisto di azioni da parte di dipendenti della società o di quelli di società controllanti o controllate.
 
-Resta salvo quanto previsto dagli [articoli 2391-bis](../08%20-%20Sezione%20VI-bis%20-%20Dell'amministrazione%20e%20del%20controllo%20§%201%20Disposizioni%20generali/art-2391-bis-cc.md) e [2501-bis](../../10%20-%20Capo%20X%20-%20Della%20trasformazione,%20della%20fusione%20e%20della%20scissione/02%20-%20Sezione%20II%20-%20Della%20fusione%20delle%20società/art-2501-bis-cc.md).
+Resta salvo quanto previsto dagli [articoli 2391-bis](../08%20-%20Sezione%20VI-bis%20-%20Dell%27amministrazione%20e%20del%20controllo%20§%201%20Disposizioni%20generali/art-2391-bis-cc.md) e [2501-bis](../../10%20-%20Capo%20X%20-%20Della%20trasformazione,%20della%20fusione%20e%20della%20scissione/02%20-%20Sezione%20II%20-%20Della%20fusione%20delle%20società/art-2501-bis-cc.md).

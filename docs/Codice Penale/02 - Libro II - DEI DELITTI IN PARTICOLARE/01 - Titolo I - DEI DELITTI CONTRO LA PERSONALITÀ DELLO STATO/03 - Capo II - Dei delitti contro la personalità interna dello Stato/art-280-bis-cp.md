@@ -22,7 +22,7 @@ ordine: 324
 
 Salvo che il fatto costituisca più grave reato, chiunque per finalità di terrorismo compie qualsiasi atto diretto a danneggiare cose mobili o immobili altrui, mediante l'uso di dispositivi esplosivi o comunque micidiali, è punito con la reclusione da due a cinque anni.
 
-Ai fini del presente articolo, per dispositivi esplosivi o comunque micidiali si intendono le armi e le materie ad esse assimilate indicate nell'[articolo 585](../../12%20-%20Titolo%20XII%20-%20DEI%20DELITTI%20CONTRO%20LA%20PERSONA/01%20-%20Capo%20I%20-%20Dei%20delitti%20contro%20la%20vita%20e%20l'incolumità%20individuale/art-585-cp.md) e idonee a causare importanti danni materiali.
+Ai fini del presente articolo, per dispositivi esplosivi o comunque micidiali si intendono le armi e le materie ad esse assimilate indicate nell'[articolo 585](../../12%20-%20Titolo%20XII%20-%20DEI%20DELITTI%20CONTRO%20LA%20PERSONA/01%20-%20Capo%20I%20-%20Dei%20delitti%20contro%20la%20vita%20e%20l%27incolumità%20individuale/art-585-cp.md) e idonee a causare importanti danni materiali.
 
 Se il fatto è diretto contro la sede della Presidenza della Repubblica, delle Assemblee legislative, della Corte costituzionale, di organi del Governo o comunque di organi previsti dalla Costituzione o da leggi costituzionali, la pena è aumentata fino alla metà.
 

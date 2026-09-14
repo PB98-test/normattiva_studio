@@ -24,7 +24,7 @@ Salvo che lo statuto non preveda un maggior numero, il consiglio di sorveglianza
 
 Fatta eccezione per i primi componenti che sono nominati nell'atto costitutivo, e salvo quanto disposto dagli [articoli 2351](../06%20-%20Sezione%20V%20-%20Delle%20azioni%20e%20di%20altri%20strumenti%20finanziari%20partecipativi/art-2351-cc.md) e [2449](../15%20-%20Sezione%20XIII%20-%20Delle%20società%20con%20partecipazione%20dello%20Stato%20o%20di%20enti%20pubblici/art-2449-cc.md), la nomina dei componenti il consiglio di sorveglianza spetta all'assemblea, previa determinazione del loro numero nei limiti stabiliti dallo statuto.
 
-I componenti del consiglio di sorveglianza restano in carica per tre esercizi e scadono alla data della successiva assemblea prevista dal secondo comma dell'[articolo 2364-bis](../07%20-%20Sezione%20VI%20-%20Dell'assemblea/art-2364-bis-cc.md). La cessazione per scadenza del termine ha effetto dal momento in cui il consiglio di sorveglianza è stato ricostituito.
+I componenti del consiglio di sorveglianza restano in carica per tre esercizi e scadono alla data della successiva assemblea prevista dal secondo comma dell'[articolo 2364-bis](../07%20-%20Sezione%20VI%20-%20Dell%27assemblea/art-2364-bis-cc.md). La cessazione per scadenza del termine ha effetto dal momento in cui il consiglio di sorveglianza è stato ricostituito.
 
 Almeno un componente effettivo del consiglio di sorveglianza deve essere scelto tra i revisori legali iscritti nell'apposito registro.
 

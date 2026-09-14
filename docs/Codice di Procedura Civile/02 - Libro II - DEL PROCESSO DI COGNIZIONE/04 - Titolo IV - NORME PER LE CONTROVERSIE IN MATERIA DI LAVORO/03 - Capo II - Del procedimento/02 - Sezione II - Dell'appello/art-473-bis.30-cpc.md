@@ -20,7 +20,7 @@ ordine: 568
 
 # Art. 473-bis.30 - ***Forma dell'appello***
 
-L'appello si propone con ricorso, che deve contenere le indicazioni previste dall'[articolo 342](../../../03%20-%20Titolo%20III%20-%20DELLE%20IMPUGNAZIONI/02%20-%20Capo%20II%20-%20Dell'appello/art-342-cpc.md).
+L'appello si propone con ricorso, che deve contenere le indicazioni previste dall'[articolo 342](../../../03%20-%20Titolo%20III%20-%20DELLE%20IMPUGNAZIONI/02%20-%20Capo%20II%20-%20Dell%27appello/art-342-cpc.md).
 
 [^agg-171] [^agg-173]
 

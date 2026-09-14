@@ -20,4 +20,4 @@ ordine: 781
 
 # Art. 628 - ***Sospensione del termine d'efficacia del pignoramento***
 
-L'opposizione ai singoli atti esecutivi sospende il decorso del termine previsto nell'[articolo 497](../../02%20-%20Titolo%20II%20-%20DELL'ESPROPRIAZIONE%20FORZATA/01%20-%20Capo%20I%20-%20Dell'espropriazione%20forzata%20in%20generale/02%20-%20Sezione%20II%20-%20Del%20pignoramento/art-497-cpc.md).
+L'opposizione ai singoli atti esecutivi sospende il decorso del termine previsto nell'[articolo 497](../../02%20-%20Titolo%20II%20-%20DELL%27ESPROPRIAZIONE%20FORZATA/01%20-%20Capo%20I%20-%20Dell%27espropriazione%20forzata%20in%20generale/02%20-%20Sezione%20II%20-%20Del%20pignoramento/art-497-cpc.md).

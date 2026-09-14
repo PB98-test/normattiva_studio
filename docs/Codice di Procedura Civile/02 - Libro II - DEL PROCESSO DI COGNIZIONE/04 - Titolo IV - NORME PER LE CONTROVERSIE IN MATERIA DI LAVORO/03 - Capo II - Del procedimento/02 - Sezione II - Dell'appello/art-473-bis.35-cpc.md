@@ -20,7 +20,7 @@ ordine: 573
 
 # Art. 473-bis.35 - ***Domande ed eccezioni nuove***
 
-Il divieto di nuove domande ed eccezioni e di nuovi mezzi di prova previsto dall'[articolo 345](../../../03%20-%20Titolo%20III%20-%20DELLE%20IMPUGNAZIONI/02%20-%20Capo%20II%20-%20Dell'appello/art-345-cpc.md) si applica limitatamente alle domande aventi ad oggetto diritti disponibili.
+Il divieto di nuove domande ed eccezioni e di nuovi mezzi di prova previsto dall'[articolo 345](../../../03%20-%20Titolo%20III%20-%20DELLE%20IMPUGNAZIONI/02%20-%20Capo%20II%20-%20Dell%27appello/art-345-cpc.md) si applica limitatamente alle domande aventi ad oggetto diritti disponibili.
 
 [^agg-171] [^agg-173]
 

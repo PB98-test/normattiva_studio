@@ -20,7 +20,7 @@ ordine: 2701
 
 # Art. 2478-bis - ***Bilancio e distribuzione degli utili ai soci***
 
-Il bilancio deve essere redatto con l'osservanza delle disposizioni di cui alla sezione IX, del capo V del presente libro. Esso è presentato ai soci entro il termine stabilito dall'atto costitutivo e comunque non superiore a centoventi giorni dalla chiusura dell'esercizio sociale, salva la possibilità di un maggior termine nei limiti ed alle condizioni previsti dal secondo comma dell'[articolo 2364](../../05%20-%20Capo%20V%20-%20Società%20per%20azioni/07%20-%20Sezione%20VI%20-%20Dell'assemblea/art-2364-cc.md). [^agg-246]
+Il bilancio deve essere redatto con l'osservanza delle disposizioni di cui alla sezione IX, del capo V del presente libro. Esso è presentato ai soci entro il termine stabilito dall'atto costitutivo e comunque non superiore a centoventi giorni dalla chiusura dell'esercizio sociale, salva la possibilità di un maggior termine nei limiti ed alle condizioni previsti dal secondo comma dell'[articolo 2364](../../05%20-%20Capo%20V%20-%20Società%20per%20azioni/07%20-%20Sezione%20VI%20-%20Dell%27assemblea/art-2364-cc.md). [^agg-246]
 
 Entro trenta giorni dalla decisione dei soci di approvazione del bilancio deve essere depositata presso l'ufficio del registro delle imprese, a norma dell'[articolo 2435](../../05%20-%20Capo%20V%20-%20Società%20per%20azioni/11%20-%20Sezione%20IX%20-%20Del%20bilancio/art-2435-cc.md), copia del bilancio approvato.
 

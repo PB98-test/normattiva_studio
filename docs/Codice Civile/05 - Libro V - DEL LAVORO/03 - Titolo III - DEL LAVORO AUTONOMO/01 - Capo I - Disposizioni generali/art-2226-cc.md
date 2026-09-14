@@ -24,4 +24,4 @@ L'accettazione espressa o tacita dell'opera libera il prestatore d'opera dalla r
 
 Il committente deve, a pena di decadenza, denunziare le difformità e i vizi occulti al prestatore d'opera entro otto giorni dalla scoperta. L'azione si prescrive entro un anno dalla consegna.
 
-I diritti del committente nel caso di difformità o di vizi dell'opera sono regolati dall'[art. 1668](../../../04%20-%20Libro%20IV%20-%20DELLE%20OBBLIGAZIONI/03%20-%20Titolo%20III%20-%20DEI%20SINGOLI%20CONTRATTI/07%20-%20Capo%20VII%20-%20Dell'appalto/art-1668-cc.md).
+I diritti del committente nel caso di difformità o di vizi dell'opera sono regolati dall'[art. 1668](../../../04%20-%20Libro%20IV%20-%20DELLE%20OBBLIGAZIONI/03%20-%20Titolo%20III%20-%20DEI%20SINGOLI%20CONTRATTI/07%20-%20Capo%20VII%20-%20Dell%27appalto/art-1668-cc.md).

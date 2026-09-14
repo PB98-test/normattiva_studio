@@ -20,7 +20,7 @@ ordine: 2628
 
 # Art. 2433 - ***Distribuzione degli utili ai soci***
 
-La deliberazione sulla distribuzione degli utili è adottata dall'assemblea che approva il bilancio ovvero, qualora il bilancio sia approvato dal consiglio di sorveglianza, dall'assemblea convocata a norma dell'[articolo 2364-bis](../07%20-%20Sezione%20VI%20-%20Dell'assemblea/art-2364-bis-cc.md), secondo comma.
+La deliberazione sulla distribuzione degli utili è adottata dall'assemblea che approva il bilancio ovvero, qualora il bilancio sia approvato dal consiglio di sorveglianza, dall'assemblea convocata a norma dell'[articolo 2364-bis](../07%20-%20Sezione%20VI%20-%20Dell%27assemblea/art-2364-bis-cc.md), secondo comma.
 
 Non possono essere pagati dividendi sulle azioni, se non per utili realmente conseguiti e risultanti dal bilancio regolarmente approvato.
 

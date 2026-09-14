@@ -20,7 +20,7 @@ ordine: 2700
 
 # Art. 2478 - ***Libri sociali obbligatori***
 
-Oltre i libri e le altre scritture contabili prescritti nell'[articolo 2214](../../../02%20-%20Titolo%20II%20-%20DEL%20LAVORO%20NELL'IMPRESA/03%20-%20Capo%20III%20-%20Delle%20imprese%20commerciali%20e%20delle%20altre%20imprese%20soggette%20a%20registrazi/03%20-%20Sezione%20III%20-%20Disposizioni%20particolari%20per%20le%20imprese%20commerciali%20§%201%20Della%20rapp/art-2214-cc.md), la società deve tenere:
+Oltre i libri e le altre scritture contabili prescritti nell'[articolo 2214](../../../02%20-%20Titolo%20II%20-%20DEL%20LAVORO%20NELL%27IMPRESA/03%20-%20Capo%20III%20-%20Delle%20imprese%20commerciali%20e%20delle%20altre%20imprese%20soggette%20a%20registrazi/03%20-%20Sezione%20III%20-%20Disposizioni%20particolari%20per%20le%20imprese%20commerciali%20§%201%20Della%20rapp/art-2214-cc.md), la società deve tenere:
 
 - 1) NUMERO ABROGATO DAL D.L. 29 NOVEMBRE 2008, N. 185, CONVERTITO CON MODIFICAZIONI, DALLA L. 28 GENNAIO 2009, N. 2;
 - 2) il libro delle decisioni dei soci, nel quale sono trascritti senza indugio sia i verbali delle assemblee, anche se redatti per atto pubblico, sia le decisioni prese ai sensi del primo periodo del terzo comma dell'[articolo 2479](../04%20-%20Sezione%20IV%20-%20Delle%20decisioni%20dei%20soci/art-2479-cc.md); la relativa documentazione è conservata dalla società;

@@ -30,7 +30,7 @@ Si applica l'[articolo 840-quinquies](art-840-quinquies-cpc.md) in quanto compat
 
 Il tribunale può avvalersi di dati statistici e di presunzioni semplici.
 
-Con la condanna alla cessazione della condotta omissiva o commissiva, il tribunale può, su istanza di parte, adottare i provvedimenti di cui all'[articolo 614-bis](../../../03%20-%20Libro%20III%20-%20DEL%20PROCESSO%20DI%20ESECUZIONE/04%20-%20Titolo%20IV%20-%20DELL'ESECUZIONE%20FORZATA%20DI%20OBBLIGHI%20DI%20FARE%20E%20DI%20NON%20FARE/art-614-bis-cpc.md), anche fuori dei casi ivi previsti.
+Con la condanna alla cessazione della condotta omissiva o commissiva, il tribunale può, su istanza di parte, adottare i provvedimenti di cui all'[articolo 614-bis](../../../03%20-%20Libro%20III%20-%20DEL%20PROCESSO%20DI%20ESECUZIONE/04%20-%20Titolo%20IV%20-%20DELL%27ESECUZIONE%20FORZATA%20DI%20OBBLIGHI%20DI%20FARE%20E%20DI%20NON%20FARE/art-614-bis-cpc.md), anche fuori dei casi ivi previsti.
 
 Con la condanna alla cessazione della condotta omissiva o commissiva, il tribunale può, su richiesta del pubblico ministero o delle parti, ordinare che la parte soccombente adotti le misure idonee ad eliminare o ridurre gli effetti delle violazioni accertate.
 

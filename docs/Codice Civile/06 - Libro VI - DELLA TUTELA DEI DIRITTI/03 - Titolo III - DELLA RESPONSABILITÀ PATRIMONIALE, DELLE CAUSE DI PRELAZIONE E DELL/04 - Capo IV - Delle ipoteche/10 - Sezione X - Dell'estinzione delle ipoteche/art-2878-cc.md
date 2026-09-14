@@ -23,7 +23,7 @@ ordine: 3188
 L'ipoteca si estingue:
 
 - 1) con la cancellazione dell'iscrizione;
-- 2) con la mancata rinnovazione dell'iscrizione entro il termine indicato dall'[art. 2847](../05%20-%20Sezione%20V%20-%20Dell'iscrizione%20e%20rinnovazione%20delle%20ipoteche%20§%201%20Dell'iscrizione/art-2847-cc.md);
+- 2) con la mancata rinnovazione dell'iscrizione entro il termine indicato dall'[art. 2847](../05%20-%20Sezione%20V%20-%20Dell%27iscrizione%20e%20rinnovazione%20delle%20ipoteche%20§%201%20Dell%27iscrizione/art-2847-cc.md);
 - 3) con l'estinguersi dell'obbligazione;
 - 4) col perimento del bene ipotecato, salvo quanto è stabilito dall'[art. 2742](../../01%20-%20Capo%20I%20-%20Disposizioni%20generali/art-2742-cc.md);
 - 5) con la rinunzia del creditore;

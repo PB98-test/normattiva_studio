@@ -22,7 +22,7 @@ ordine: 197
 
 Il condannato a pena detentiva che, durante il tempo di esecuzione della pena, abbia tenuto un comportamento tale dal far ritenere sicuro il suo ravvedimento, può essere ammesso alla liberazione condizionale, se ha scontato almeno trenta mesi e comunque almeno metà della pena inflittagli, qualora il rimanente della pena non superi i cinque anni.
 
-Se si tratta di recidivo, nei casi preveduti dai capoversi dell'[articolo 99](../../04%20-%20Titolo%20IV%20-%20DEL%20REO%20E%20DELLA%20PERSONA%20OFFESA%20DAL%20REATO/02%20-%20Capo%20II%20-%20Della%20recidiva,%20dell'abitualità%20e%20professionalità%20nel%20reato%20e%20della%20te/art-99-cp.md), il condannato, per essere ammesso alla liberazione condizionale, deve avere scontato almeno quattro anni di pena e non meno di tre quarti della pena inflittagli.
+Se si tratta di recidivo, nei casi preveduti dai capoversi dell'[articolo 99](../../04%20-%20Titolo%20IV%20-%20DEL%20REO%20E%20DELLA%20PERSONA%20OFFESA%20DAL%20REATO/02%20-%20Capo%20II%20-%20Della%20recidiva,%20dell%27abitualità%20e%20professionalità%20nel%20reato%20e%20della%20te/art-99-cp.md), il condannato, per essere ammesso alla liberazione condizionale, deve avere scontato almeno quattro anni di pena e non meno di tre quarti della pena inflittagli.
 
 Il condannato all'ergastolo può essere ammesso alla liberazione condizionale quando abbia scontato almeno ventisei anni di pena.
 

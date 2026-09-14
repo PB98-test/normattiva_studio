@@ -20,6 +20,6 @@ ordine: 100
 
 # Art. 99
 
-1. Nel [secondo comma dell'articolo 618 del codice di procedura civile](../../../Codice%20di%20Procedura%20Civile/03%20-%20Libro%20III%20-%20DEL%20PROCESSO%20DI%20ESECUZIONE/05%20-%20Titolo%20V%20-%20DELLE%20OPPOSIZIONI/01%20-%20Capo%20I%20-%20Delle%20opposizioni%20del%20debitore%20e%20del%20terzo%20assoggettato%20all'esecuzione/02%20-%20Sezione%20II%20-%20Delle%20opposizioni%20agli%20atti%20esecutivi/art-618-cpc.md) le parole "dal collegio" sono soppresse.
+1. Nel [secondo comma dell'articolo 618 del codice di procedura civile](../../../Codice%20di%20Procedura%20Civile/03%20-%20Libro%20III%20-%20DEL%20PROCESSO%20DI%20ESECUZIONE/05%20-%20Titolo%20V%20-%20DELLE%20OPPOSIZIONI/01%20-%20Capo%20I%20-%20Delle%20opposizioni%20del%20debitore%20e%20del%20terzo%20assoggettato%20all%27esecuzione/02%20-%20Sezione%20II%20-%20Delle%20opposizioni%20agli%20atti%20esecutivi/art-618-cpc.md) le parole "dal collegio" sono soppresse.
 
 #### Disposizioni sui procedimenti speciali

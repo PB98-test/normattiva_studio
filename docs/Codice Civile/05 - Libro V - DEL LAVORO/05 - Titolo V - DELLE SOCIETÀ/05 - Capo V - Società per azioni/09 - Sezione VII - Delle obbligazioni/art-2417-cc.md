@@ -20,7 +20,7 @@ ordine: 2603
 
 # Art. 2417 - ***Rappresentante comune***
 
-Il rappresentante comune può essere scelto al di fuori degli obbligazionisti e possono essere nominate anche le persone giuridiche autorizzate all'esercizio dei servizi di investimento nonchè le società fiduciarie. Non possono essere nominati rappresentanti comuni degli obbligazionisti e, se nominati, decadono dall'ufficio, gli amministratori, i sindaci, i dipendenti della società debitrice e coloro che si trovano nelle condizioni indicate nell'[articolo 2399](../08%20-%20Sezione%20VI-bis%20-%20Dell'amministrazione%20e%20del%20controllo%20§%201%20Disposizioni%20generali/art-2399-cc.md).
+Il rappresentante comune può essere scelto al di fuori degli obbligazionisti e possono essere nominate anche le persone giuridiche autorizzate all'esercizio dei servizi di investimento nonchè le società fiduciarie. Non possono essere nominati rappresentanti comuni degli obbligazionisti e, se nominati, decadono dall'ufficio, gli amministratori, i sindaci, i dipendenti della società debitrice e coloro che si trovano nelle condizioni indicate nell'[articolo 2399](../08%20-%20Sezione%20VI-bis%20-%20Dell%27amministrazione%20e%20del%20controllo%20§%201%20Disposizioni%20generali/art-2399-cc.md).
 
 Se non è nominato dall'assemblea a norma dell'[articolo 2415](art-2415-cc.md), il rappresentante comune è nominato con decreto dal tribunale su domanda di uno o più obbligazionisti o degli amministratori della società.
 

@@ -22,7 +22,7 @@ ordine: 184
 
 Scaduto il termine di cui all'[articolo 166](art-166-cpc.md), entro i successivi quindici giorni il giudice istruttore verifica d'ufficio la regolarità del contraddittorio.
 
-Quando occorre, il giudice pronuncia i provvedimenti previsti dagli [articoli 102](../../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/04%20-%20Titolo%20IV%20-%20DELL'ESERCIZIO%20DELL'AZIONE/art-102-cpc.md), secondo comma, 107, 164, secondo, terzo, quinto e sesto comma, 167, secondo comma, 182, 269, secondo comma, 271, 291, primo comma, e 292, primo comma, e fissa nuova udienza per la comparizione delle parti. Almeno cinquantacinque giorni prima della nuova udienza di comparizione delle parti, il giudice procede nuovamente alle verifiche preliminari.
+Quando occorre, il giudice pronuncia i provvedimenti previsti dagli [articoli 102](../../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/04%20-%20Titolo%20IV%20-%20DELL%27ESERCIZIO%20DELL%27AZIONE/art-102-cpc.md), secondo comma, 107, 164, secondo, terzo, quinto e sesto comma, 167, secondo comma, 182, 269, secondo comma, 271, 291, primo comma, e 292, primo comma, e fissa nuova udienza per la comparizione delle parti. Almeno cinquantacinque giorni prima della nuova udienza di comparizione delle parti, il giudice procede nuovamente alle verifiche preliminari.
 
 Quando non occorre pronunciare i provvedimenti previsti dal secondo comma, il giudice conferma o differisce, fino a un massimo di quarantacinque giorni, la data dell'udienza di comparizione delle parti e indica le questioni rilevabili d'ufficio di cui ritiene opportuna la trattazione nelle memorie integrative di cui all'[articolo 171-ter](art-171-ter-cpc.md), anche con riguardo alle condizioni di procedibilità della domanda.
 

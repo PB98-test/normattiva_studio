@@ -20,7 +20,7 @@ ordine: 2631
 
 # Art. 2434-bis - ***Invalidità della deliberazione di approvazione del bilancio***
 
-Le azioni previste dagli [articoli 2377](../07%20-%20Sezione%20VI%20-%20Dell'assemblea/art-2377-cc.md) e [2379](../07%20-%20Sezione%20VI%20-%20Dell'assemblea/art-2379-cc.md) non possono essere proposte nei confronti delle deliberazioni di approvazione del bilancio dopo che è avvenuta l'approvazione del bilancio dell'esercizio successivo.
+Le azioni previste dagli [articoli 2377](../07%20-%20Sezione%20VI%20-%20Dell%27assemblea/art-2377-cc.md) e [2379](../07%20-%20Sezione%20VI%20-%20Dell%27assemblea/art-2379-cc.md) non possono essere proposte nei confronti delle deliberazioni di approvazione del bilancio dopo che è avvenuta l'approvazione del bilancio dell'esercizio successivo.
 
 La legittimazione ad impugnare la deliberazione di approvazione del bilancio su cui il soggetto incaricato di effettuare la revisione legale dei conti ha emesso un giudizio privo di rilievi spetta a tanti soci che rappresentino almeno il cinque per cento del capitale sociale.
 

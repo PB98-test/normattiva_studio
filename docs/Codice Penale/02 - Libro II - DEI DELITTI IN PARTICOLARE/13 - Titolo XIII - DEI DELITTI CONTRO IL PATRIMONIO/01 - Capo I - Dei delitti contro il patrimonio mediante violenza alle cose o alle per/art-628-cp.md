@@ -28,7 +28,7 @@ La pena è della reclusione da sei a venti anni e della multa da euro 2.000 a eu
 
 - 1) se la violenza o minaccia è commessa con armi o da persona travisata, o da più persone riunite;
 - 2) se la violenza consiste nel porre taluno in stato di incapacità di volere o di agire.
-- 3) se la violenza o minaccia è posta in essere da persona che fa parte dell'associazione di cui all'[articolo 416-bis](../../05%20-%20Titolo%20V%20-%20DEI%20DELITTI%20CONTRO%20L'ORDINE%20PUBBLICO/art-416-bis-cp.md); [^agg-128]
+- 3) se la violenza o minaccia è posta in essere da persona che fa parte dell'associazione di cui all'[articolo 416-bis](../../05%20-%20Titolo%20V%20-%20DEI%20DELITTI%20CONTRO%20L%27ORDINE%20PUBBLICO/art-416-bis-cp.md); [^agg-128]
 - 3-bis) se il fatto è commesso nei luoghi di cui all'articolo
 - 624-bis) o in luoghi tali da ostacolare la pubblica o privata difesa;   3-ter) se il fatto è commesso all'interno di mezzi di pubblico trasporto;   3-quater) se il fatto è commesso nei confronti di persona che si trovi nell'atto di fruire ovvero che abbia appena fruito dei servizi di istituti di credito, uffici postali o sportelli automatici adibiti al prelievo di denaro;   3-quinquies) se il fatto è commesso nei confronti di persona ultrasessantacinquenne.
 

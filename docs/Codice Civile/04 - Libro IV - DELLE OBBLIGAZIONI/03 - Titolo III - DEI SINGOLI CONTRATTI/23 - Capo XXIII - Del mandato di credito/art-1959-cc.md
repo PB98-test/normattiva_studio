@@ -22,4 +22,4 @@ ordine: 2080
 
 Se, dopo l'accettazione dell'incarico, le condizioni patrimoniali di colui che lo ha conferito o del terzo sono divenute tali da rendere notevolmente più difficile il soddisfacimento del credito, colui che ha accettato l'incarico non può essere costretto ad eseguirlo.
 
-Si applica inoltre la disposizione dell'[art. 1956](../22%20-%20Capo%20XXII%20-%20Della%20fideiussione/05%20-%20Sezione%20V%20-%20Dell'estinzione%20della%20fideiussione/art-1956-cc.md).
+Si applica inoltre la disposizione dell'[art. 1956](../22%20-%20Capo%20XXII%20-%20Della%20fideiussione/05%20-%20Sezione%20V%20-%20Dell%27estinzione%20della%20fideiussione/art-1956-cc.md).

@@ -20,7 +20,7 @@ ordine: 96
 
 # Art. 64 - ***Immissione nel possesso e inventario***
 
-Se non v'è stata immissione nel possesso temporaneo dei beni, gli aventi diritto indicati nei capoversi dell'[art. 50](../01%20-%20Capo%20I%20-%20Dell'assenza/art-50-cc.md) o i loro successori conseguono il pieno esercizio dei diritti loro spettanti, quando è diventata eseguibile la sentenza menzionata nell'[art. 58](art-58-cc.md).
+Se non v'è stata immissione nel possesso temporaneo dei beni, gli aventi diritto indicati nei capoversi dell'[art. 50](../01%20-%20Capo%20I%20-%20Dell%27assenza/art-50-cc.md) o i loro successori conseguono il pieno esercizio dei diritti loro spettanti, quando è diventata eseguibile la sentenza menzionata nell'[art. 58](art-58-cc.md).
 
 Coloro che prendono possesso dei beni devono fare precedere l'inventario dei beni.
 

@@ -20,7 +20,7 @@ ordine: 2609
 
 # Art. 2421 - ***Libri sociali obbligatori***
 
-Oltre i libri e le altre scritture contabili prescritti nell'[articolo 2214](../../../02%20-%20Titolo%20II%20-%20DEL%20LAVORO%20NELL'IMPRESA/03%20-%20Capo%20III%20-%20Delle%20imprese%20commerciali%20e%20delle%20altre%20imprese%20soggette%20a%20registrazi/03%20-%20Sezione%20III%20-%20Disposizioni%20particolari%20per%20le%20imprese%20commerciali%20§%201%20Della%20rapp/art-2214-cc.md), la società deve tenere:
+Oltre i libri e le altre scritture contabili prescritti nell'[articolo 2214](../../../02%20-%20Titolo%20II%20-%20DEL%20LAVORO%20NELL%27IMPRESA/03%20-%20Capo%20III%20-%20Delle%20imprese%20commerciali%20e%20delle%20altre%20imprese%20soggette%20a%20registrazi/03%20-%20Sezione%20III%20-%20Disposizioni%20particolari%20per%20le%20imprese%20commerciali%20§%201%20Della%20rapp/art-2214-cc.md), la società deve tenere:
 
 - 1) il libro dei soci, nel quale devono essere indicati distintamente per ogni categoria il numero delle azioni, il cognome e il nome dei titolari delle azioni nominative, i trasferimenti e i vincoli ad esse relativi e i versamenti eseguiti;
 - 2) il libro delle obbligazioni, il quale deve indicare l'ammontare delle obbligazioni emesse e di quelle estinte, il cognome e il nome dei titolari delle obbligazioni nominative e i trasferimenti e i vincoli ad esse relativi;
@@ -33,4 +33,4 @@ Oltre i libri e le altre scritture contabili prescritti nell'[articolo 2214](../
 
 I libri indicati nel primo comma, numeri 1), 2), 3), 4) e 8) sono tenuti a cura degli amministratori o dei componenti del consiglio di gestione, il libro indicato nel numero 5) a cura del collegio sindacale ovvero del consiglio di sorveglianza o del comitato per il controllo sulla gestione, il libro indicato nel numero 6) a cura del comitato esecutivo e il libro indicato nel numero 7) a cura del rappresentante comune degli obbligazionisti.
 
-I libri di cui al presente articolo, prima che siano messi in uso, devono essere numerati progressivamente in ogni pagina e bollati in ogni foglio a norma dell'[articolo 2215](../../../02%20-%20Titolo%20II%20-%20DEL%20LAVORO%20NELL'IMPRESA/03%20-%20Capo%20III%20-%20Delle%20imprese%20commerciali%20e%20delle%20altre%20imprese%20soggette%20a%20registrazi/03%20-%20Sezione%20III%20-%20Disposizioni%20particolari%20per%20le%20imprese%20commerciali%20§%201%20Della%20rapp/art-2215-cc.md).
+I libri di cui al presente articolo, prima che siano messi in uso, devono essere numerati progressivamente in ogni pagina e bollati in ogni foglio a norma dell'[articolo 2215](../../../02%20-%20Titolo%20II%20-%20DEL%20LAVORO%20NELL%27IMPRESA/03%20-%20Capo%20III%20-%20Delle%20imprese%20commerciali%20e%20delle%20altre%20imprese%20soggette%20a%20registrazi/03%20-%20Sezione%20III%20-%20Disposizioni%20particolari%20per%20le%20imprese%20commerciali%20§%201%20Della%20rapp/art-2215-cc.md).

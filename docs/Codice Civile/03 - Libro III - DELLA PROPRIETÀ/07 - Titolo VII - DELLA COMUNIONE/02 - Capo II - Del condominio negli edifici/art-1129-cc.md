@@ -36,7 +36,7 @@ L'amministratore è obbligato a far transitare le somme ricevute a qualunque tit
 
 Alla cessazione dell'incarico l'amministratore è tenuto alla consegna di tutta la documentazione in suo possesso afferente al condominio e ai singoli condomini e ad eseguire le attività urgenti al fine di evitare pregiudizi agli interessi comuni senza diritto ad ulteriori compensi.
 
-Salvo che sia stato espressamente dispensato dall'assemblea, l'amministratore è tenuto ad agire per la riscossione forzosa delle somme dovute dagli obbligati entro sei mesi dalla chiusura dell'esercizio nel quale il credito esigibile è compreso, anche ai sensi dell'[articolo 63](../../../01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/04%20-%20Titolo%20IV%20-%20DELL'ASSENZA%20E%20DELLA%20DICHIARAZIONE%20DI%20MORTE%20PRESUNTA/02%20-%20Capo%20II%20-%20Della%20dichiarazione%20di%20morte%20presunta/art-63-cc.md), primo comma, delle disposizioni per l'attuazione del presente codice.
+Salvo che sia stato espressamente dispensato dall'assemblea, l'amministratore è tenuto ad agire per la riscossione forzosa delle somme dovute dagli obbligati entro sei mesi dalla chiusura dell'esercizio nel quale il credito esigibile è compreso, anche ai sensi dell'[articolo 63](../../../01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/04%20-%20Titolo%20IV%20-%20DELL%27ASSENZA%20E%20DELLA%20DICHIARAZIONE%20DI%20MORTE%20PRESUNTA/02%20-%20Capo%20II%20-%20Della%20dichiarazione%20di%20morte%20presunta/art-63-cc.md), primo comma, delle disposizioni per l'attuazione del presente codice.
 
 L'incarico di amministratore ha durata di un anno e si intende rinnovato per eguale durata. L'assemblea convocata per la revoca o le dimissioni delibera in ordine alla nomina del nuovo amministratore.
 

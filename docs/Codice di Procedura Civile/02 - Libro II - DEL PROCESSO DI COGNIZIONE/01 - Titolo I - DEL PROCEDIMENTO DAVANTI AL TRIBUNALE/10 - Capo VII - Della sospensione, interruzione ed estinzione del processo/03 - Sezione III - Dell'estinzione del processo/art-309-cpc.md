@@ -20,4 +20,4 @@ ordine: 347
 
 # Art. 309 - ***Mancata comparizione all'udienza***
 
-Se nel corso del processo nessuna delle parti si presenta all'udienza, il giudice provvede a norma del primo comma dell'[art. 181](../../02%20-%20Capo%20II%20-%20Dell'istruzione%20della%20causa/02%20-%20Sezione%20II%20-%20Della%20trattazione%20della%20causa/art-181-cpc.md).
+Se nel corso del processo nessuna delle parti si presenta all'udienza, il giudice provvede a norma del primo comma dell'[art. 181](../../02%20-%20Capo%20II%20-%20Dell%27istruzione%20della%20causa/02%20-%20Sezione%20II%20-%20Della%20trattazione%20della%20causa/art-181-cpc.md).

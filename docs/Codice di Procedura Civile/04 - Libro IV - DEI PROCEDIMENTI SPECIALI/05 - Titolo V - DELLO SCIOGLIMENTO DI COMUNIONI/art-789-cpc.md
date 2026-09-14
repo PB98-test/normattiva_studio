@@ -24,7 +24,7 @@ Il giudice istruttore predispone un progetto di divisione ... e fissa con decret
 
 Il decreto è comunicato alle parti.
 
-Se non sorgono contestazioni, il giudice istruttore, con ordinanza non impugnabile, dichiara esecutivo il progetto, altrimenti provvede a norma dell'[articolo 187](../../02%20-%20Libro%20II%20-%20DEL%20PROCESSO%20DI%20COGNIZIONE/01%20-%20Titolo%20I%20-%20DEL%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE/02%20-%20Capo%20II%20-%20Dell'istruzione%20della%20causa/02%20-%20Sezione%20II%20-%20Della%20trattazione%20della%20causa/art-187-cpc.md).
+Se non sorgono contestazioni, il giudice istruttore, con ordinanza non impugnabile, dichiara esecutivo il progetto, altrimenti provvede a norma dell'[articolo 187](../../02%20-%20Libro%20II%20-%20DEL%20PROCESSO%20DI%20COGNIZIONE/01%20-%20Titolo%20I%20-%20DEL%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE/02%20-%20Capo%20II%20-%20Dell%27istruzione%20della%20causa/02%20-%20Sezione%20II%20-%20Della%20trattazione%20della%20causa/art-187-cpc.md).
 
 In ogni caso il giudice istruttore dà con ordinanza le disposizioni necessarie per l'estrazione a sorte dei lotti.
 

@@ -20,6 +20,6 @@ ordine: 587
 
 # Art. 474-ter - ***Circostanza aggravante***
 
-Se, fuori dai casi di cui all'[articolo 416](../../05%20-%20Titolo%20V%20-%20DEI%20DELITTI%20CONTRO%20L'ORDINE%20PUBBLICO/art-416-cp.md), i delitti puniti dagli [articoli 473](art-473-cp.md) e [474](art-474-cp.md), primo comma, sono commessi in modo sistematico ovvero attraverso l'allestimento di mezzi e attività organizzate, la pena è della reclusione da due a sei anni e della multa da euro 5.000 a euro 50.000.
+Se, fuori dai casi di cui all'[articolo 416](../../05%20-%20Titolo%20V%20-%20DEI%20DELITTI%20CONTRO%20L%27ORDINE%20PUBBLICO/art-416-cp.md), i delitti puniti dagli [articoli 473](art-473-cp.md) e [474](art-474-cp.md), primo comma, sono commessi in modo sistematico ovvero attraverso l'allestimento di mezzi e attività organizzate, la pena è della reclusione da due a sei anni e della multa da euro 5.000 a euro 50.000.
 
 Si applica la pena della reclusione fino a tre anni e della multa fino a euro 30.000 se si tratta dei delitti puniti dall'[articolo 474](art-474-cp.md), secondo comma.

@@ -26,6 +26,6 @@ Le deliberazioni del consiglio di sorveglianza sono prese a maggioranza assoluta
 
 Il voto non può essere dato per rappresentanza.
 
-Le deliberazioni del consiglio di sorveglianza che non sono prese in conformità della legge o dello statuto possono essere impugnate dai componenti assenti o dissenzienti entro novanta giorni dalla data della deliberazione; si applica in quanto compatibile l'[articolo 2378](../07%20-%20Sezione%20VI%20-%20Dell'assemblea/art-2378-cc.md). Possono essere altresì impugnate dai soci le deliberazioni lesive dei loro diritti; si applicano in tal caso, in quanto compatibili, gli [articoli 2377](../07%20-%20Sezione%20VI%20-%20Dell'assemblea/art-2377-cc.md) e [2378](../07%20-%20Sezione%20VI%20-%20Dell'assemblea/art-2378-cc.md).
+Le deliberazioni del consiglio di sorveglianza che non sono prese in conformità della legge o dello statuto possono essere impugnate dai componenti assenti o dissenzienti entro novanta giorni dalla data della deliberazione; si applica in quanto compatibile l'[articolo 2378](../07%20-%20Sezione%20VI%20-%20Dell%27assemblea/art-2378-cc.md). Possono essere altresì impugnate dai soci le deliberazioni lesive dei loro diritti; si applicano in tal caso, in quanto compatibili, gli [articoli 2377](../07%20-%20Sezione%20VI%20-%20Dell%27assemblea/art-2377-cc.md) e [2378](../07%20-%20Sezione%20VI%20-%20Dell%27assemblea/art-2378-cc.md).
 
 In ogni caso sono salvi i diritti acquistati in buona fede dai terzi in base ad atti compiuti in esecuzione delle deliberazioni.

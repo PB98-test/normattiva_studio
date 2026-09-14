@@ -24,4 +24,4 @@ Le disposizioni sulla tutela dei minori e quelle sulla curatela dei minori emanc
 
 Le stesse disposizioni si applicano rispettivamente anche nei casi di nomina del tutore provvisorio dell'interdicendo e del curatore provvisorio dell'inabilitando a norma dell'[art. 419](art-419-cc.md). Per l'interdicendo non si nomina il protutore provvisorio.
 
-Nella scelta del tutore dell'interdetto e del curatore dell'inabilitato il giudice tutelare individua di preferenza la persona più idonea all'incarico tra i soggetti, e con i criteri, indicati nell'[articolo 408](../01%20-%20Capo%20I%20-%20Dell'amministrazione%20di%20sostegno/art-408-cc.md).
+Nella scelta del tutore dell'interdetto e del curatore dell'inabilitato il giudice tutelare individua di preferenza la persona più idonea all'incarico tra i soggetti, e con i criteri, indicati nell'[articolo 408](../01%20-%20Capo%20I%20-%20Dell%27amministrazione%20di%20sostegno/art-408-cc.md).

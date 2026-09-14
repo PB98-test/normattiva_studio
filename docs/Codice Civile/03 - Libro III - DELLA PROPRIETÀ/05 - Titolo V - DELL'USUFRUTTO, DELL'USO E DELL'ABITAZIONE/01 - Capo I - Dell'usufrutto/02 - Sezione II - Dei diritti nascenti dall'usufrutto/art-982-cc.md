@@ -20,4 +20,4 @@ ordine: 1077
 
 # Art. 982 - ***Possesso della cosa***
 
-L'usufruttuario ha il diritto di conseguire il possesso della cosa di cui ha l'usufrutto, salvo quanto è disposto dall'[art. 1002](../03%20-%20Sezione%20III%20-%20Degli%20obblighi%20nascenti%20dall'usufrutto/art-1002-cc.md).
+L'usufruttuario ha il diritto di conseguire il possesso della cosa di cui ha l'usufrutto, salvo quanto è disposto dall'[art. 1002](../03%20-%20Sezione%20III%20-%20Degli%20obblighi%20nascenti%20dall%27usufrutto/art-1002-cc.md).

@@ -22,7 +22,7 @@ ordine: 946
 
 Quando all'inventario deve procedere un notaio, il cancelliere gli consegna, ritirandone ricevuta:
 
-- 1) le chiavi da lui custodite a norma dell'[articolo 756](../02%20-%20Capo%20II%20-%20Dell'apposizione%20e%20della%20rimozione%20dei%20sigilli/01%20-%20Sezione%20I%20-%20Dell'apposizione%20dei%20sigilli/art-756-cpc.md);
+- 1) le chiavi da lui custodite a norma dell'[articolo 756](../02%20-%20Capo%20II%20-%20Dell%27apposizione%20e%20della%20rimozione%20dei%20sigilli/01%20-%20Sezione%20I%20-%20Dell%27apposizione%20dei%20sigilli/art-756-cpc.md);
 - 2) copia del processo verbale di apposizione dei sigilli, dell'istanza e del decreto di rimozione;
 - 3) una nota delle opposizioni che sono state proposte con indicazione del nome, cognome degli opponenti e della loro residenza o del domicilio da essi eletto o del loro indirizzo di posta elettronica certificata risultante da pubblici elenchi o del domicilio digitale speciale eletto. [^agg-178]
 

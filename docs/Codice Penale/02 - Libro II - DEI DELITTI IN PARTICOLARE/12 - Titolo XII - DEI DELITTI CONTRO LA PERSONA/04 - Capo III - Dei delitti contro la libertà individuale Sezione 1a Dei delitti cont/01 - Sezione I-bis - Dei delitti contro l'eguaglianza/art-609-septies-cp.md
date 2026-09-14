@@ -22,7 +22,7 @@ ordine: 817
 
 I delitti previsti dagli [articoli 609-bis](art-609-bis-cp.md) e [609-ter](art-609-ter-cp.md) sono punibili a querela della persona offesa.
 
-Salvo quanto previsto dall'[articolo 597](../../03%20-%20Capo%20II%20-%20Dei%20delitti%20contro%20l'onore/art-597-cp.md), terzo comma, il termine per la proposizione della querela è di dodici mesi.
+Salvo quanto previsto dall'[articolo 597](../../03%20-%20Capo%20II%20-%20Dei%20delitti%20contro%20l%27onore/art-597-cp.md), terzo comma, il termine per la proposizione della querela è di dodici mesi.
 
 La querela proposta è irrevocabile.
 

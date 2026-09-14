@@ -20,4 +20,4 @@ ordine: 95
 
 # Art. 94
 
-1. Nell'[articolo 519, primo comma, del codice di procedura civile](../../../Codice%20di%20Procedura%20Civile/03%20-%20Libro%20III%20-%20DEL%20PROCESSO%20DI%20ESECUZIONE/02%20-%20Titolo%20II%20-%20DELL'ESPROPRIAZIONE%20FORZATA/02%20-%20Capo%20II%20-%20Dell'espropriazione%20mobiliare%20presso%20il%20debitore/01%20-%20Sezione%20I%20-%20Del%20pignoramento/art-519-cpc.md) le parole "dal pretore" sono sostituite dalle parole "dal presidente del tribunale o da un giudice da lui delegato".
+1. Nell'[articolo 519, primo comma, del codice di procedura civile](../../../Codice%20di%20Procedura%20Civile/03%20-%20Libro%20III%20-%20DEL%20PROCESSO%20DI%20ESECUZIONE/02%20-%20Titolo%20II%20-%20DELL%27ESPROPRIAZIONE%20FORZATA/02%20-%20Capo%20II%20-%20Dell%27espropriazione%20mobiliare%20presso%20il%20debitore/01%20-%20Sezione%20I%20-%20Del%20pignoramento/art-519-cpc.md) le parole "dal pretore" sono sostituite dalle parole "dal presidente del tribunale o da un giudice da lui delegato".

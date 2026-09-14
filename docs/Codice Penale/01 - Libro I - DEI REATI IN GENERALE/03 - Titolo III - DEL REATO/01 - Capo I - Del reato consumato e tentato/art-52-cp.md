@@ -22,7 +22,7 @@ ordine: 59
 
 Non è punibile chi ha commesso il fatto, per esservi stato costretto dalla necessità di difendere un diritto proprio od altrui contro il pericolo attuale di un'offesa ingiusta, sempre che la difesa sia proporzionata all'offesa.
 
-Nei casi previsti dall'[articolo 614](../../../02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/12%20-%20Titolo%20XII%20-%20DEI%20DELITTI%20CONTRO%20LA%20PERSONA/04%20-%20Capo%20III%20-%20Dei%20delitti%20contro%20la%20libertà%20individuale%20Sezione%201a%20Dei%20delitti%20cont/01%20-%20Sezione%20I-bis%20-%20Dei%20delitti%20contro%20l'eguaglianza/art-614-cp.md), primo e secondo comma, sussiste sempre il rapporto di proporzione di cui al primo comma del presente articolo se taluno legittimamente presente in uno dei luoghi ivi indicati usa un'arma legittimamente detenuta o altro mezzo idoneo al fine di difendere:
+Nei casi previsti dall'[articolo 614](../../../02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/12%20-%20Titolo%20XII%20-%20DEI%20DELITTI%20CONTRO%20LA%20PERSONA/04%20-%20Capo%20III%20-%20Dei%20delitti%20contro%20la%20libertà%20individuale%20Sezione%201a%20Dei%20delitti%20cont/01%20-%20Sezione%20I-bis%20-%20Dei%20delitti%20contro%20l%27eguaglianza/art-614-cp.md), primo e secondo comma, sussiste sempre il rapporto di proporzione di cui al primo comma del presente articolo se taluno legittimamente presente in uno dei luoghi ivi indicati usa un'arma legittimamente detenuta o altro mezzo idoneo al fine di difendere:
 
 - a) la propria o la altrui incolumità:
 - b) i beni propri o altrui, quando non vi è desistenza e vi è pericolo d'aggressione.

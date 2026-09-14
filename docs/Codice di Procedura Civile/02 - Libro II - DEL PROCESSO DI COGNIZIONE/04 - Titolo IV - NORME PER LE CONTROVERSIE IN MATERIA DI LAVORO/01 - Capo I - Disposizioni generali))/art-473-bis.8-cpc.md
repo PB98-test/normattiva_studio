@@ -23,7 +23,7 @@ ordine: 546
 Il giudice provvede alla nomina del curatore speciale del minore, anche d'ufficio e a pena di nullità degli atti del procedimento:
 
 - a) nei casi in cui il pubblico ministero abbia chiesto la decadenza dalla responsabilità genitoriale di entrambi i genitori, o in cui uno dei genitori abbia chiesto la decadenza dell'altro;
-- b) in caso di adozione di provvedimenti ai sensi dell'[articolo 403 del codice civile](../../../../Codice%20Civile/01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/11%20-%20Titolo%20XI%20-%20DELL'AFFILIAZIONE%20E%20DELL'AFFIDAMENTO/art-403-cc.md) o di affidamento del minore ai sensi degli articoli 2 e seguenti della legge 4 maggio 1983, n. 184;
+- b) in caso di adozione di provvedimenti ai sensi dell'[articolo 403 del codice civile](../../../../Codice%20Civile/01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/11%20-%20Titolo%20XI%20-%20DELL%27AFFILIAZIONE%20E%20DELL%27AFFIDAMENTO/art-403-cc.md) o di affidamento del minore ai sensi degli articoli 2 e seguenti della legge 4 maggio 1983, n. 184;
 - c) nel caso in cui dai fatti emersi nel procedimento venga alla luce una situazione di pregiudizio per il minore tale da precluderne l'adeguata rappresentanza processuale da parte di entrambi i genitori;
 - d) quando ne faccia richiesta il minore che abbia compiuto quattordici anni.
 
