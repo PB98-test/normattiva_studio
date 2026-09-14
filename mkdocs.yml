@@ -16,6 +16,7 @@ markdown_extensions:
 - tables
 - attr_list
 nav:
+- Home: index.md
 - Cartabia (Dlgs 149-2022 - 10.10.2022): Cartabia (Dlgs 149-2022 - 10.10.2022)/00 - Indice (dlgs149-22).md
 - CdS (dlgs 285-1992 - 30.04.1992): CdS (dlgs 285-1992 - 30.04.1992)/00 - Indice (dlgs285-92).md
 - Codice Civile: Codice Civile/00 - Indice (cc).md
