@@ -6,29 +6,38 @@ site_dir: _site
 theme:
   name: material
   language: it
+  favicon: assets/favicon.png
+  logo: assets/favicon.png
+  font: false
   features:
   - navigation.sections
   - navigation.top
   - search.suggest
   - search.highlight
+extra_css:
+- stylesheets/normativa.css
+extra_javascript:
+- javascripts/segnalazioni.js
 markdown_extensions:
 - footnotes
 - tables
 - attr_list
 nav:
 - Home: index.md
-- Cartabia (Dlgs 149-2022 - 10.10.2022): Cartabia (Dlgs 149-2022 - 10.10.2022)/00 - Indice (dlgs149-22).md
-- CdS (dlgs 285-1992 - 30.04.1992): CdS (dlgs 285-1992 - 30.04.1992)/00 - Indice (dlgs285-92).md
-- Codice Civile: Codice Civile/00 - Indice (cc).md
-- Codice Penale: Codice Penale/00 - Indice (cp).md
-- Codice di Procedura Civile: Codice di Procedura Civile/00 - Indice (cpc).md
-- Codice di Procedura Penale: Codice di Procedura Penale/00 - Indice (cpp).md
-- Correttivo Cartabia (Dlgs 164-2024 - 31.10.2024): Correttivo Cartabia (Dlgs 164-2024 - 31.10.2024)/00 - Indice (dlgs164-24).md
-- Dl 35-2005 - 14.03.2005: Dl 35-2005 - 14.03.2005/00 - Indice (dl35-05).md
-- Dlgs 51-1998 - 19.02.1998: Dlgs 51-1998 - 19.02.1998/00 - Indice (dlgs51-98).md
-- L. 188-1998 - 16.06.1998: L. 188-1998 - 16.06.1998/00 - Indice (l188-98).md
-- L. 197-2022 - 29.12.2022: L. 197-2022 - 29.12.2022/00 - Indice (l197-22).md
-- L. 353-1990 - 26.11.1990: L. 353-1990 - 26.11.1990/00 - Indice (l353-90).md
-- L. 80-2005 - 14.05.2005: L. 80-2005 - 14.05.2005/00 - Indice (l80-05).md
-- Legge 254-1997 - 16.07.1997: Legge 254-1997 - 16.07.1997/00 - Indice (l254-97).md
-- TU Stupefacenti (Dpr 309-1990 - 09.10.1990): TU Stupefacenti (Dpr 309-1990 - 09.10.1990)/00 - Indice (dpr309-90).md
+- Codici:
+  - Codice Penale: Codice Penale/00 - Indice (cp).md
+  - Codice di Procedura Penale: Codice di Procedura Penale/00 - Indice (cpp).md
+  - Codice Civile: Codice Civile/00 - Indice (cc).md
+  - Codice di Procedura Civile: Codice di Procedura Civile/00 - Indice (cpc).md
+- Altre leggi:
+  - L. 353-1990 - 26.11.1990: L. 353-1990 - 26.11.1990/00 - Indice (l353-90).md
+  - TU Stupefacenti (Dpr 309-1990 - 09.10.1990): TU Stupefacenti (Dpr 309-1990 - 09.10.1990)/00 - Indice (dpr309-90).md
+  - CdS (dlgs 285-1992 - 30.04.1992): CdS (dlgs 285-1992 - 30.04.1992)/00 - Indice (dlgs285-92).md
+  - Legge 254-1997 - 16.07.1997: Legge 254-1997 - 16.07.1997/00 - Indice (l254-97).md
+  - Dlgs 51-1998 - 19.02.1998: Dlgs 51-1998 - 19.02.1998/00 - Indice (dlgs51-98).md
+  - L. 188-1998 - 16.06.1998: L. 188-1998 - 16.06.1998/00 - Indice (l188-98).md
+  - Dl 35-2005 - 14.03.2005: Dl 35-2005 - 14.03.2005/00 - Indice (dl35-05).md
+  - L. 80-2005 - 14.05.2005: L. 80-2005 - 14.05.2005/00 - Indice (l80-05).md
+  - Cartabia (Dlgs 149-2022 - 10.10.2022): Cartabia (Dlgs 149-2022 - 10.10.2022)/00 - Indice (dlgs149-22).md
+  - L. 197-2022 - 29.12.2022: L. 197-2022 - 29.12.2022/00 - Indice (l197-22).md
+  - Correttivo Cartabia (Dlgs 164-2024 - 31.10.2024): Correttivo Cartabia (Dlgs 164-2024 - 31.10.2024)/00 - Indice (dlgs164-24).md

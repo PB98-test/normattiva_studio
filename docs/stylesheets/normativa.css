@@ -1,0 +1,316 @@
+/* NormattivaStudio — restyling sessione 7.
+   Palette e principi ripresi da stile-grafico-scrivania.md (oro/crema),
+   font Jost al posto di Modern Romance/Lexend (licenza incompatibile con
+   un sito pubblico, vedi discussione in chat) — autoospitato, mai
+   Google Fonts via CDN esterno (theme.font: False in mkdocs.yml disattiva
+   il caricamento automatico di Roboto che Material farebbe altrimenti).
+   Solo tema chiaro per ora: i valori del tema scuro nella guida sono
+   segnati come provvisori, da riprendere quando si saranno consolidati. */
+
+@font-face {
+  font-family: "Jost";
+  src: url("../fonts/Jost-Variable.woff2") format("woff2");
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+  --ns-bg: #FAF6EC;
+  --ns-card: #FFFFFF;
+  --ns-text: #211C13;
+  --ns-text2: #6B6355;
+  --ns-bd: rgba(33, 28, 19, 0.14);
+  --ns-gold: #C99A46;
+  --ns-goldx: #6B4C17;
+
+  /* Colori funzionali Penale/Civile — stessi valori di Cruscotto/Scrivania. */
+  --ns-penale: #02B5CB;
+  --ns-penale-testo: #026670;
+  --ns-civile: #9A7E0A;
+  --ns-civile-testo: #7A6208;
+
+  /* Rimappa le variabili di Material sulla palette NormattivaStudio. */
+  --md-default-bg-color: var(--ns-bg);
+  --md-default-fg-color: var(--ns-text);
+  --md-default-fg-color--light: rgba(33, 28, 19, 0.74);
+  --md-default-fg-color--lighter: rgba(33, 28, 19, 0.4);
+  --md-default-fg-color--lightest: rgba(33, 28, 19, 0.12);
+
+  /* Header bianco (non pieno oro): l'accento resta una sottile riga sotto
+     la barra del titolo, come nella guida di Scrivania ("barra del titolo
+     -> linea di accento -> corpo"). */
+  --md-primary-fg-color: #FFFFFF;
+  --md-primary-fg-color--light: #FFFFFF;
+  --md-primary-fg-color--dark: #FFFFFF;
+  --md-primary-bg-color: var(--ns-text);
+  --md-primary-bg-color--light: var(--ns-text2);
+
+  --md-accent-fg-color: var(--ns-goldx);
+  --md-accent-fg-color--transparent: rgba(107, 76, 23, 0.1);
+  --md-accent-bg-color: #FFFFFF;
+
+  --md-typeset-a-color: var(--ns-goldx);
+}
+
+body,
+input,
+button {
+  font-family: "Jost", "Century Gothic", Arial, sans-serif;
+}
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4 {
+  font-weight: 600;
+  text-wrap: balance;
+}
+
+/* Header: bordo sottile invece dell'ombra di default, riga d'accento oro. */
+.md-header {
+  box-shadow: none;
+  border-bottom: 2px solid var(--ns-gold);
+  color: var(--ns-text);
+}
+.md-header__title,
+.md-header__button {
+  color: var(--ns-text);
+}
+.md-search__input {
+  background-color: rgba(33, 28, 19, 0.06);
+}
+
+/* h1 di index.md: presente per Material/accessibilità, mai visibile —
+   vedi il commento in genera_home su perché serve comunque un h1. */
+.ns-sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* Il link al repository GitHub, che Material mette di default subito
+   sotto il logo (sopra le voci di menu), spostato in fondo alla barra
+   laterale e reso più discreto (più piccolo, colore attenuato) —
+   richiesta esplicita dell'utente. Il markup di Material mette
+   .md-nav__source e .md-nav__list come fratelli diretti dentro
+   .md-nav--primary: basta il flex + order, nessun template da toccare. */
+.md-nav--primary {
+  display: flex;
+  flex-direction: column;
+}
+.md-nav--primary > .md-nav__list {
+  order: 1;
+}
+.md-nav--primary > .md-nav__source {
+  order: 2;
+  margin-top: auto;
+  padding-top: 10px;
+  border-top: 1px solid var(--ns-bd);
+  font-size: 0.8em;
+  opacity: 0.65;
+}
+.md-nav--primary > .md-nav__source:hover {
+  opacity: 1;
+}
+
+.md-nav__link--active,
+.md-nav__link:focus,
+.md-nav__link:hover {
+  color: var(--ns-goldx);
+}
+
+/* ── Griglia di index.md (Codici / Altre leggi) ── */
+.doc-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 10px;
+  margin: 0 0 8px;
+}
+.doc-grid--codici {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  max-width: 480px;
+}
+/* Solo su questa griglia: testo abbreviato (CP/CPP/CC/CPC), centrato in
+   entrambe le direzioni, altezza ridotta a circa 2/3 di quella con
+   padding pieno (richiesta esplicita dell'utente, più spazio per lo
+   storico/le altre leggi sotto). */
+.doc-grid--codici .doc-card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 54px;
+  padding: 0 10px;
+  font-weight: 700;
+  font-size: 1.05rem;
+  letter-spacing: 0.02em;
+}
+
+/* Intestazione "Altre leggi" col pulsante di ordinamento a destra —
+   un'icona sola (due freccette), niente etichetta da spiegare: click
+   inverte l'ordine per anno rispetto a quello attuale. */
+.ns-altre-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin: 0 0 14px;
+}
+.ns-altre-header h2 {
+  margin: 0;
+}
+.ns-sort-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  border: 1px solid var(--ns-bd);
+  background: var(--ns-card);
+  color: var(--ns-text2);
+  cursor: pointer;
+  padding: 0;
+}
+.ns-sort-btn:hover {
+  border-color: var(--ns-gold);
+  color: var(--ns-goldx);
+}
+
+.doc-card {
+  display: block;
+  background: var(--ns-card);
+  border: 1px solid var(--ns-bd);
+  border-radius: 12px;
+  padding: 14px 16px;
+  font-weight: 500;
+  font-size: 0.95rem;
+  line-height: 1.3;
+  color: var(--ns-text) !important;
+  text-decoration: none !important;
+  transition: border-color 0.15s ease;
+}
+.doc-card:hover {
+  border-color: var(--ns-gold);
+}
+
+.doc-card--penale {
+  background: rgba(2, 181, 203, 0.10);
+  border-color: rgba(2, 181, 203, 0.45);
+  color: var(--ns-penale-testo) !important;
+}
+.doc-card--penale:hover {
+  border-color: var(--ns-penale);
+}
+
+.doc-card--civile {
+  background: rgba(254, 245, 88, 0.35);
+  border-color: rgba(154, 126, 10, 0.45);
+  color: var(--ns-civile-testo) !important;
+}
+.doc-card--civile:hover {
+  border-color: var(--ns-civile);
+}
+
+/* ── Tasto di segnalazione problemi (segnalazioni.js, ogni pagina) ── */
+.ns-segnala-btn {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  z-index: 10;
+  width: 46px;
+  height: 46px;
+  border-radius: 50%;
+  border: 1px solid var(--ns-bd);
+  background: var(--ns-card);
+  color: #C7402F;
+  box-shadow: 0 2px 10px rgba(33, 28, 19, 0.18);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.ns-segnala-btn:hover {
+  border-color: #C7402F;
+}
+
+.ns-segnala-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 20;
+  background: rgba(33, 28, 19, 0.45);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+.ns-segnala-overlay[hidden] {
+  display: none;
+}
+
+.ns-segnala-popup {
+  background: var(--ns-card);
+  border-radius: 14px;
+  padding: 24px;
+  width: 100%;
+  max-width: 380px;
+  box-shadow: 0 10px 40px rgba(33, 28, 19, 0.3);
+}
+.ns-segnala-popup h3 {
+  margin: 0 0 8px;
+  font-size: 1.1rem;
+}
+.ns-segnala-hint {
+  margin: 0 0 12px;
+  font-size: 0.85rem;
+  color: var(--ns-text2);
+}
+.ns-segnala-testo {
+  width: 100%;
+  font-family: inherit;
+  font-size: 0.95rem;
+  color: var(--ns-text);
+  background: var(--ns-bg);
+  border: 1px solid var(--ns-bd);
+  border-radius: 8px;
+  padding: 10px 12px;
+  resize: vertical;
+  box-sizing: border-box;
+}
+.ns-segnala-azioni {
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+  margin-top: 16px;
+}
+.ns-btn {
+  font-family: inherit;
+  font-size: 0.9rem;
+  font-weight: 500;
+  border-radius: 8px;
+  padding: 8px 18px;
+  cursor: pointer;
+}
+.ns-btn--secondario {
+  background: transparent;
+  border: 1px solid var(--ns-bd);
+  color: var(--ns-text2);
+}
+.ns-btn--primario {
+  background: var(--ns-gold);
+  border: 1px solid var(--ns-gold);
+  color: #fff;
+}
+.ns-segnala-grazie {
+  margin: 0;
+  text-align: center;
+  padding: 10px 0;
+}
