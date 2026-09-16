@@ -1,0 +1,18 @@
+{
+  "name": "NormattivaStudio",
+  "short_name": "NormattivaStudio",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FAF6EC",
+  "theme_color": "#C99A46",
+  "lang": "it",
+  "icons": [
+    {
+      "src": "assets/favicon.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

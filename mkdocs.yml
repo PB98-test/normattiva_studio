@@ -6,6 +6,7 @@ site_dir: _site
 theme:
   name: material
   language: it
+  custom_dir: overrides
   favicon: assets/favicon.png
   logo: assets/favicon.png
   font: false

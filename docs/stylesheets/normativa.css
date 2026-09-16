@@ -67,6 +67,21 @@ button {
   text-wrap: balance;
 }
 
+/* Testo degli articoli più leggibile — Material parte da .8rem (~13px),
+   decisamente piccolo; il resto della scala tipografica di Material è
+   in em relativi a questo valore, quindi cambia tutto in proporzione. */
+.md-typeset {
+  font-size: 1rem;
+}
+
+/* Logo nella barra superiore sottile, accanto al titolo — Material lo
+   nasconde di default sotto i 76.25em (in pratica sempre su mobile),
+   mostrandolo solo nel cassetto del menu: richiesta esplicita
+   dell'utente di vederlo anche lì, su ogni pagina. */
+.md-header__button.md-logo {
+  display: inline-flex !important;
+}
+
 /* Header: bordo sottile invece dell'ombra di default, riga d'accento oro. */
 .md-header {
   box-shadow: none;
@@ -126,6 +141,19 @@ button {
   color: var(--ns-goldx);
 }
 
+/* ── Home (index.md) — vedi il wrapper .ns-home in genera_home ── */
+.ns-home {
+  /* Piccolo margine in più tra i lati dello schermo e le caselle,
+     oltre al padding di base già dato da Material. */
+  padding: 0 6px;
+}
+.ns-home h2:first-of-type {
+  /* Toglie lo spazio vuoto sopra "Codici" (margine di default di
+     Material sulla prima intestazione della pagina) — solo qui, non
+     sulle altre pagine che condividono lo stesso foglio di stile. */
+  margin-top: 0;
+}
+
 /* ── Griglia di index.md (Codici / Altre leggi) ── */
 .doc-grid {
   display: grid;
@@ -136,6 +164,8 @@ button {
 .doc-grid--codici {
   grid-template-columns: repeat(2, minmax(0, 1fr));
   max-width: 480px;
+  /* Separazione visiva da "Altre leggi" sotto, oltre agli 8px di base. */
+  margin-bottom: 28px;
 }
 /* Solo su questa griglia: testo abbreviato (CP/CPP/CC/CPC), centrato in
    entrambe le direzioni, altezza ridotta a circa 2/3 di quella con
