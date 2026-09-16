@@ -1,6 +1,6 @@
 {
-  "name": "NormattivaStudio",
-  "short_name": "NormattivaStudio",
+  "name": "Normattiva Studio",
+  "short_name": "Normattiva Studio",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",

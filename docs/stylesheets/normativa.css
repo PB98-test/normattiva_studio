@@ -50,7 +50,11 @@
   --md-accent-fg-color--transparent: rgba(107, 76, 23, 0.1);
   --md-accent-bg-color: #FFFFFF;
 
-  --md-typeset-a-color: var(--ns-goldx);
+  /* Oro pieno, stesso tono della riga di accento nell'intestazione —
+     richiesta esplicita dell'utente per link più visibili nel testo
+     degli articoli (--ns-goldx, più scuro, resta per i link del menu
+     laterale, dove serve più contrasto su una barra stretta). */
+  --md-typeset-a-color: var(--ns-gold);
 }
 
 body,
@@ -80,6 +84,14 @@ button {
    dell'utente di vederlo anche lì, su ogni pagina. */
 .md-header__button.md-logo {
   display: inline-flex !important;
+}
+/* Scambia le posizioni di logo e icona del menu (stesse funzioni,
+   solo ordine visivo invertito) — richiesta esplicita dell'utente.
+   .md-header__inner è già flex in Material, nessun figlio ha un
+   "order" esplicito (tutti a 0, ordine = ordine nel markup): basta
+   spostare l'icona del menu prima di tutto il resto. */
+label.md-header__button[for="__drawer"] {
+  order: -1;
 }
 
 /* Header: bordo sottile invece dell'ombra di default, riga d'accento oro. */
@@ -164,8 +176,11 @@ button {
 .doc-grid--codici {
   grid-template-columns: repeat(2, minmax(0, 1fr));
   max-width: 480px;
-  /* Separazione visiva da "Altre leggi" sotto, oltre agli 8px di base. */
-  margin-bottom: 28px;
+  /* Separazione visiva da "Altre leggi" sotto — aumentata su richiesta
+     esplicita, per pareggiare visivamente lo spazio "naturale" che
+     Material lascerebbe sopra un titolo di sezione (quello tolto sopra
+     "Codici" per l'altra richiesta di ridurre lo spazio vuoto iniziale). */
+  margin-bottom: 44px;
 }
 /* Solo su questa griglia: testo abbreviato (CP/CPP/CC/CPC), centrato in
    entrambe le direzioni, altezza ridotta a circa 2/3 di quella con
@@ -342,5 +357,8 @@ button {
 .ns-segnala-grazie {
   margin: 0;
   text-align: center;
-  padding: 10px 0;
+  padding: 14px 0;
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: var(--ns-goldx);
 }
