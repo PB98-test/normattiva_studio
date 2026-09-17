@@ -355,6 +355,9 @@ label.md-header__button[for="__drawer"] {
   color: #fff;
 }
 /* ── Titolo articolo riformattato via articoli.js ── */
+.ns-art-numero {
+  font-weight: 400;
+}
 .ns-art-rubrica {
   display: block;
   font-weight: 400;
@@ -373,12 +376,16 @@ label.md-header__button[for="__drawer"] {
   color: var(--ns-goldx);
   margin-bottom: 2px;
 }
-.md-search-result__article p {
+.md-search-result__article p,
+.md-search-result__article li {
   display: -webkit-box;
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
   overflow: hidden;
   margin: 0.3em 0 0;
+}
+.ns-search-numero {
+  color: var(--ns-gold);
 }
 
 .ns-segnala-grazie {

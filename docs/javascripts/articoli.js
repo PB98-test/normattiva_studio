@@ -32,7 +32,14 @@
     var rubrica = testo.slice(idx + 3).trim();
 
     h1.textContent = "";
-    h1.appendChild(document.createTextNode(numero));
+    // "Art. N" nello stesso peso della rubrica (non grassetto): l'h1
+    // di per sé è già in grassetto per via della regola generale sui
+    // titoli in normativa.css, quindi va annullato esplicitamente qui,
+    // non lasciato come testo semplice.
+    var spanNumero = document.createElement("span");
+    spanNumero.className = "ns-art-numero";
+    spanNumero.textContent = numero;
+    h1.appendChild(spanNumero);
     h1.appendChild(document.createElement("br"));
     var span = document.createElement("span");
     span.className = "ns-art-rubrica";
