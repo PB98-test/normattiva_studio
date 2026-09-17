@@ -85,18 +85,43 @@ button {
 .md-header__button.md-logo {
   display: inline-flex !important;
 }
-/* Barra superiore riorganizzata (richiesta esplicita dell'utente,
-   seconda versione): l'icona "home" (aggiunta da interfaccia.js) prende
-   il posto del menu accanto al logo, il menu ☰ va dove prima stava la
-   ricerca, e la lente di ricerca originale di Material esce dalla barra
-   (nascosta, non rimossa: resta l'interruttore vero, richiamato dal
-   nuovo pulsante tondo — vedi interfaccia.js). .md-header__inner è già
-   flex in Material, nessun figlio ha un "order" esplicito di suo. */
+/* Barra superiore riorganizzata (richiesta esplicita dell'utente): il
+   logo (già cliccabile verso la home) resta accanto al titolo, il menu
+   ☰ va dove prima stava la ricerca, e la lente di ricerca originale di
+   Material esce dalla barra (nascosta, non rimossa: resta l'interruttore
+   vero, richiamato dal nuovo pulsante tondo — vedi interfaccia.js).
+   .md-header__inner è già flex in Material, nessun figlio ha un "order"
+   esplicito di suo. */
 label.md-header__button[for="__drawer"] {
   order: 10;
 }
 label.md-header__button[for="__search"] {
   display: none !important;
+}
+
+/* Il cassetto del menu si apre da destra, non da sinistra — coerente
+   con l'icona ☰ ora spostata sulla destra della barra. Material ha
+   già pronta questa identica animazione, riservata di norma alle
+   lingue scritte da destra a sinistra (selettori '[dir=rtl] ...' nel
+   CSS compilato): qui si riusano gli stessi valori esatti, senza
+   impostare dir="rtl" sull'intera pagina (che ribalterebbe anche il
+   layout del testo, mai voluto). Stessa soglia di schermo di Material
+   per il comportamento "cassetto sovrapposto" (sotto i 76.25em):
+   sopra quella soglia il menu è già una colonna fissa, non un
+   cassetto, e questa regola non deve intervenire. */
+@media screen and (max-width: 76.234375em) {
+  /* Stessa specificità della regola '[dir=ltr] .md-sidebar--primary'
+     di Material (quella che normalmente fissa il cassetto a sinistra):
+     senza questo prefisso 'right' veniva ignorato dal browser, perché
+     con left/right/width tutti impostati in un contesto LTR è 'right'
+     a essere scartato, non 'left'. */
+  [dir="ltr"] .md-sidebar--primary {
+    left: auto;
+    right: -12.1rem;
+  }
+  [data-md-toggle="drawer"]:checked ~ .md-container .md-sidebar--primary {
+    transform: translateX(-12.1rem);
+  }
 }
 
 /* Header: bordo sottile invece dell'ombra di default, riga d'accento oro. */
@@ -293,18 +318,19 @@ label.md-header__button[for="__search"] {
 }
 
 /* Pulsante di ricerca tondo (interfaccia.js) — stesso stilema del
-   pulsante di segnalazione, sopra di esso, un po' più grande. */
+   pulsante di segnalazione, sopra di esso, circa il doppio (richiesta
+   esplicita dell'utente), lente in oro pieno. */
 .ns-cerca-btn {
   position: fixed;
   right: 20px;
   bottom: 76px;
   z-index: 10;
-  width: 54px;
-  height: 54px;
+  width: 92px;
+  height: 92px;
   border-radius: 50%;
   border: 1px solid var(--ns-bd);
   background: var(--ns-card);
-  color: var(--ns-goldx);
+  color: var(--ns-gold);
   box-shadow: 0 2px 10px rgba(33, 28, 19, 0.18);
   display: flex;
   align-items: center;
@@ -345,7 +371,7 @@ label.md-header__button[for="__search"] {
   justify-content: space-between;
   gap: 16px;
   margin-top: 32px;
-  margin-bottom: 90px;
+  margin-bottom: 180px;
   padding-top: 16px;
   border-top: 1px solid var(--ns-bd);
 }
