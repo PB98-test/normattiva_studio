@@ -85,13 +85,18 @@ button {
 .md-header__button.md-logo {
   display: inline-flex !important;
 }
-/* Scambia le posizioni di logo e icona del menu (stesse funzioni,
-   solo ordine visivo invertito) — richiesta esplicita dell'utente.
-   .md-header__inner è già flex in Material, nessun figlio ha un
-   "order" esplicito (tutti a 0, ordine = ordine nel markup): basta
-   spostare l'icona del menu prima di tutto il resto. */
+/* Barra superiore riorganizzata (richiesta esplicita dell'utente,
+   seconda versione): l'icona "home" (aggiunta da interfaccia.js) prende
+   il posto del menu accanto al logo, il menu ☰ va dove prima stava la
+   ricerca, e la lente di ricerca originale di Material esce dalla barra
+   (nascosta, non rimossa: resta l'interruttore vero, richiamato dal
+   nuovo pulsante tondo — vedi interfaccia.js). .md-header__inner è già
+   flex in Material, nessun figlio ha un "order" esplicito di suo. */
 label.md-header__button[for="__drawer"] {
-  order: -1;
+  order: 10;
+}
+label.md-header__button[for="__search"] {
+  display: none !important;
 }
 
 /* Header: bordo sottile invece dell'ombra di default, riga d'accento oro. */
@@ -287,6 +292,76 @@ label.md-header__button[for="__drawer"] {
   border-color: #C7402F;
 }
 
+/* Pulsante di ricerca tondo (interfaccia.js) — stesso stilema del
+   pulsante di segnalazione, sopra di esso, un po' più grande. */
+.ns-cerca-btn {
+  position: fixed;
+  right: 20px;
+  bottom: 76px;
+  z-index: 10;
+  width: 54px;
+  height: 54px;
+  border-radius: 50%;
+  border: 1px solid var(--ns-bd);
+  background: var(--ns-card);
+  color: var(--ns-goldx);
+  box-shadow: 0 2px 10px rgba(33, 28, 19, 0.18);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.ns-cerca-btn:hover {
+  border-color: var(--ns-gold);
+}
+
+/* Breadcrumb in cima alla pagina di un articolo (navigazione.js). */
+.ns-briciole {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.78rem;
+  color: var(--ns-text2);
+  margin: 0 0 10px;
+}
+.ns-briciole a {
+  color: var(--ns-text2);
+  text-decoration: none;
+}
+.ns-briciole a:hover {
+  color: var(--ns-goldx);
+  text-decoration: underline;
+}
+.ns-briciole-sep {
+  opacity: 0.6;
+}
+
+/* Articolo precedente/successivo in fondo alla pagina (navigazione.js).
+   margin-bottom generoso: senza, i pulsanti flottanti (segnalazione,
+   ricerca) finiscono sopra questi link, coprendone una parte. */
+.ns-art-nav {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  margin-top: 32px;
+  margin-bottom: 90px;
+  padding-top: 16px;
+  border-top: 1px solid var(--ns-bd);
+}
+.ns-art-nav__link {
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: var(--ns-goldx);
+  text-decoration: none;
+}
+.ns-art-nav__link:hover {
+  text-decoration: underline;
+}
+.ns-art-nav__link--succ {
+  text-align: right;
+}
+
 .ns-segnala-overlay {
   position: fixed;
   inset: 0;
@@ -386,6 +461,14 @@ label.md-header__button[for="__drawer"] {
 }
 .ns-search-numero {
   color: var(--ns-gold);
+}
+/* Quando il termine cercato cade proprio nel numero, Material forza il
+   colore del <mark> (più specifico del nostro span) — lo si fa tornare
+   a ereditare l'oro invece del suo accento scuro di default. */
+.ns-search-numero mark {
+  color: inherit;
+  background: transparent;
+  text-decoration: none;
 }
 
 .ns-segnala-grazie {

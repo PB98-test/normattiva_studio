@@ -98,15 +98,19 @@
       }
 
       // (2) Numero dell'articolo in oro — solo se il titolo è
-      // davvero "Art. N - Rubrica" (non tocca i titoli di legge/codice).
+      // davvero "Art. N..." (non tocca i titoli di legge/codice). Anche
+      // senza rubrica (solo "Art. N", nessun " - "): bug reale segnalato,
+      // in quel caso restava del tutto senza colore. Il colore del
+      // numero stesso, quando corrisponde al termine cercato, è forzato
+      // da Material via 'mark{color:var(--md-accent-fg-color)}' più
+      // specifico del nostro span — vedi .ns-search-numero mark in
+      // normativa.css, che lo fa tornare a ereditare l'oro.
       if (/^Art\.\s/.test(h1.textContent) && !h1.querySelector(".ns-search-numero")) {
         var html = h1.innerHTML;
         var idxSep = html.indexOf(" - ");
-        if (idxSep !== -1) {
-          h1.innerHTML =
-            '<span class="ns-search-numero">' + html.slice(0, idxSep) + "</span>" +
-            html.slice(idxSep);
-        }
+        var numeroHtml = idxSep !== -1 ? html.slice(0, idxSep) : html;
+        var restoHtml = idxSep !== -1 ? html.slice(idxSep) : "";
+        h1.innerHTML = '<span class="ns-search-numero">' + numeroHtml + "</span>" + restoHtml;
       }
 
       // (3) Solo il primo blocco (paragrafo o elenco) come anteprima.
