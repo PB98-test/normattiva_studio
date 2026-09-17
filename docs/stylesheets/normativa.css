@@ -134,6 +134,39 @@ label.md-header__button[for="__search"] {
 .md-header__button {
   color: var(--ns-text);
 }
+/* Titolo centrato nella barra: di suo Material lo mette accanto al logo
+   con margini asimmetrici (pensati per lasciare spazio alla lente di
+   ricerca, non più nella barra) — qui pareggiati (stessa specificità
+   della regola originale), simmetrici perché logo e menu ☰ occupano la
+   stessa larghezza ai due lati della barra. */
+[dir="ltr"] .md-header__title {
+  margin-left: 0.4rem;
+}
+/* Il testo vero e proprio (il nome del sito, e — scorrendo la pagina —
+   il titolo dell'articolo che lo sostituisce) non è centrabile con
+   text-align: Material lo posiziona con position:absolute + transform,
+   ancorato al bordo sinistro del contenitore, per poterlo far scorrere
+   in dentro/fuori durante lo scroll. Si riusano gli stessi 4 selettori
+   esatti di Material (stessa specificità, quindi stesso "chi vince"
+   già visto per il cassetto: l'ultima regola caricata, cioè questa),
+   spostando solo il punto di ancoraggio al centro (left:50% +
+   translateX(-50%)) e sommando lo stesso scarto di ±1.25rem che
+   Material usa per l'animazione di scorrimento — così il testo resta
+   centrato a riposo, ma l'effetto di dissolvenza in entrata/uscita non
+   viene toccato. */
+.md-header__topic {
+  left: 50%;
+  transform: translateX(-50%);
+}
+.md-header__title--active .md-header__topic {
+  transform: translateX(calc(-50% - 1.25rem));
+}
+.md-header__topic + .md-header__topic {
+  transform: translateX(calc(-50% + 1.25rem));
+}
+.md-header__title--active .md-header__topic + .md-header__topic {
+  transform: translateX(-50%);
+}
 .md-search__input {
   background-color: rgba(33, 28, 19, 0.06);
 }
@@ -318,15 +351,14 @@ label.md-header__button[for="__search"] {
 }
 
 /* Pulsante di ricerca tondo (interfaccia.js) — stesso stilema del
-   pulsante di segnalazione, sopra di esso, circa il doppio (richiesta
-   esplicita dell'utente), lente in oro pieno. */
+   pulsante di segnalazione, sopra di esso, lente in oro pieno. */
 .ns-cerca-btn {
   position: fixed;
   right: 20px;
   bottom: 76px;
   z-index: 10;
-  width: 92px;
-  height: 92px;
+  width: 61px;
+  height: 61px;
   border-radius: 50%;
   border: 1px solid var(--ns-bd);
   background: var(--ns-card);
@@ -371,7 +403,7 @@ label.md-header__button[for="__search"] {
   justify-content: space-between;
   gap: 16px;
   margin-top: 32px;
-  margin-bottom: 180px;
+  margin-bottom: 150px;
   padding-top: 16px;
   border-top: 1px solid var(--ns-bd);
 }

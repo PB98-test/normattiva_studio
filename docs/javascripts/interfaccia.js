@@ -28,7 +28,7 @@
     bottone.title = "Cerca";
     bottone.setAttribute("aria-label", "Cerca");
     bottone.innerHTML =
-      '<svg viewBox="0 0 24 24" width="40" height="40" fill="none" stroke="currentColor" ' +
+      '<svg viewBox="0 0 24 24" width="27" height="27" fill="none" stroke="currentColor" ' +
       'stroke-width="2" stroke-linecap="round" stroke-linejoin="round">' +
       '<circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>' +
       "</svg>";
