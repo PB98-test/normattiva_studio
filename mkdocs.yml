@@ -19,6 +19,8 @@ extra_css:
 - stylesheets/normativa.css
 extra_javascript:
 - javascripts/segnalazioni.js
+- javascripts/articoli.js
+- javascripts/ricerca.js
 markdown_extensions:
 - footnotes
 - tables
