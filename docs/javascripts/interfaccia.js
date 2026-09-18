@@ -38,5 +38,33 @@
       if (input) { setTimeout(function () { input.focus(); }, 50); }
     });
     document.body.appendChild(bottone);
+
+    // Segnalato dall'utente: sul telefono vero, chiudendo la ricerca i
+    // due pulsanti tondi (questo e quello di segnalazione) escono per
+    // un istante dallo schermo prima di rimettersi a posto. Non
+    // riproducibile qui (serve una tastiera virtuale vera, che apre e
+    // chiude il riquadro di ricerca — nessun browser automatizzato in
+    // questo ambiente la simula: testato aprendo/chiudendo la ricerca
+    // via JS, nessun movimento, nessuna trasformazione su html/body).
+    // Causa più probabile, comune su mobile: "position: fixed;
+    // bottom: ..." è ancorato al viewport di LAYOUT, ma quando la
+    // tastiera si chiude e il viewport VISIBILE torna ad allargarsi,
+    // alcuni browser mobili ridisegnano i "fixed" con un fotogramma di
+    // ritardo rispetto al vero e proprio resize — da qui il salto.
+    // Fix tentato: riancorare i due pulsanti allo spazio davvero
+    // visibile (VisualViewport, se il browser lo supporta) ad ogni suo
+    // resize/scroll, invece di fidarsi ciecamente del solo CSS — da
+    // confermare sul telefono vero, qui non verificabile fino in fondo.
+    if (window.visualViewport) {
+      var segnalaBtn = document.querySelector(".ns-segnala-btn");
+      var riancora = function () {
+        var vv = window.visualViewport;
+        var scarto = Math.max(0, window.innerHeight - vv.height - vv.offsetTop);
+        if (segnalaBtn) { segnalaBtn.style.bottom = (20 + scarto) + "px"; }
+        bottone.style.bottom = (76 + scarto) + "px";
+      };
+      window.visualViewport.addEventListener("resize", riancora);
+      window.visualViewport.addEventListener("scroll", riancora);
+    }
   });
 })();

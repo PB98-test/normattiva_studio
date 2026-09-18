@@ -16,13 +16,14 @@ theme:
   - search.suggest
   - search.highlight
 extra_css:
-- stylesheets/normativa.css?v=473d182b
+- stylesheets/normativa.css?v=88ea1429
 extra_javascript:
 - javascripts/segnalazioni.js?v=1d8dd674
 - javascripts/articoli.js?v=bbea3eba
 - javascripts/ricerca.js?v=2fd43db5
-- javascripts/navigazione.js?v=df2f73c0
-- javascripts/interfaccia.js?v=fb252556
+- javascripts/ricerca-citazioni.js?v=61770fe9
+- javascripts/navigazione.js?v=772f77d9
+- javascripts/interfaccia.js?v=cbc047e9
 markdown_extensions:
 - footnotes
 - tables

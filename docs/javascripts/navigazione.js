@@ -51,6 +51,26 @@
       return seg.replace(/^\d+\s*-\s*/, "");  // toglie il prefisso di ordinamento
     });
 
+    // Segnalato dall'utente: il nome intero di Titolo/Capo/Sezione (con
+    // la descrizione completa di Normattiva) rende il breadcrumb troppo
+    // "voluminoso" — si ferma al numero/lettera che lo identifica
+    // (es. "Titolo V", non "Titolo V - DELLA NON PUNIBILITÀ PER..."),
+    // stessa regola per un eventuale segmento "Art. N" (oggi non capita
+    // mai: l'articolo stesso è sempre l'ULTIMO segmento del percorso,
+    // già escluso sopra da segmenti.pop() prima di arrivare qui — ma la
+    // regola resta la stessa se un giorno cambiasse). Il nome per
+    // esteso resta leggibile al passaggio del mouse (title), non è
+    // perso, solo non più scritto per intero in pagina. Un segmento
+    // che non segue nessuno di questi due schemi (es. il nome della
+    // legge stessa, "TU Stupefacenti (Dpr 309-1990 - 09.10.1990)", che
+    // ha un suo "-" dentro la data e si romperebbe tagliando al primo)
+    // resta intero: nessuna regola generica "taglia al primo trattino".
+    var RE_BREVE = /^((?:Libro|Titolo|Capo|Sezione)\s+[IVXLCDM\d]+|Art\.\s*\d+(?:-[a-z]+)?)\b/i;
+    function etichettaBreve(testo) {
+      var m = RE_BREVE.exec(testo);
+      return m ? m[1] : testo;
+    }
+
     // ── Breadcrumb ──
     var briciole = document.createElement("nav");
     briciole.className = "ns-briciole";
@@ -62,18 +82,21 @@
         sep.textContent = "›";
         briciole.appendChild(sep);
       }
+      var breve = etichettaBreve(etichetta);
       if (i === 0) {
         var href = hrefNavPer(etichetta);
         if (href) {
           var a = document.createElement("a");
           a.href = href;
-          a.textContent = etichetta;
+          a.textContent = breve;
+          if (breve !== etichetta) { a.title = etichetta; }
           briciole.appendChild(a);
           return;
         }
       }
       var span = document.createElement("span");
-      span.textContent = etichetta;
+      span.textContent = breve;
+      if (breve !== etichetta) { span.title = etichetta; }
       briciole.appendChild(span);
     });
     h1.parentNode.insertBefore(briciole, h1);

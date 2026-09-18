@@ -528,6 +528,14 @@ label.md-header__button[for="__search"] {
   background: transparent;
   text-decoration: none;
 }
+/* Il "risultato esatto" del motore di ricerca su misura per citazioni
+   (ricerca-citazioni.js): bordo e sfondo tenue in oro per distinguerlo
+   a colpo d'occhio dalla lista di Lunr sotto, senza bisogno di
+   un'etichetta "corrispondenza esatta" da spiegare a parole. */
+.ns-search-esatto {
+  background: rgba(201, 154, 70, 0.1);
+  border-left: 3px solid var(--ns-gold);
+}
 
 .ns-segnala-grazie {
   margin: 0;
