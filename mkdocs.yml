@@ -6,44 +6,39 @@ site_dir: _site
 theme:
   name: material
   language: it
-  custom_dir: overrides
-  favicon: assets/favicon.png
-  logo: assets/favicon.png
-  font: false
   features:
   - navigation.sections
   - navigation.top
   - search.suggest
   - search.highlight
-extra_css:
-- stylesheets/normativa.css?v=88ea1429
-extra_javascript:
-- javascripts/segnalazioni.js?v=1d8dd674
-- javascripts/articoli.js?v=bbea3eba
-- javascripts/ricerca.js?v=2fd43db5
-- javascripts/ricerca-citazioni.js?v=61770fe9
-- javascripts/navigazione.js?v=772f77d9
-- javascripts/interfaccia.js?v=cbc047e9
 markdown_extensions:
 - footnotes
 - tables
 - attr_list
 nav:
 - Home: index.md
-- Codici:
-  - Codice Penale: Codice Penale/00 - Indice (cp).md
-  - Codice di Procedura Penale: Codice di Procedura Penale/00 - Indice (cpp).md
-  - Codice Civile: Codice Civile/00 - Indice (cc).md
-  - Codice di Procedura Civile: Codice di Procedura Civile/00 - Indice (cpc).md
-- Altre leggi:
-  - L. 353-1990 - 26.11.1990: L. 353-1990 - 26.11.1990/00 - Indice (l353-90).md
-  - TU Stupefacenti (Dpr 309-1990 - 09.10.1990): TU Stupefacenti (Dpr 309-1990 - 09.10.1990)/00 - Indice (dpr309-90).md
-  - CdS (dlgs 285-1992 - 30.04.1992): CdS (dlgs 285-1992 - 30.04.1992)/00 - Indice (dlgs285-92).md
-  - Legge 254-1997 - 16.07.1997: Legge 254-1997 - 16.07.1997/00 - Indice (l254-97).md
-  - Dlgs 51-1998 - 19.02.1998: Dlgs 51-1998 - 19.02.1998/00 - Indice (dlgs51-98).md
-  - L. 188-1998 - 16.06.1998: L. 188-1998 - 16.06.1998/00 - Indice (l188-98).md
-  - Dl 35-2005 - 14.03.2005: Dl 35-2005 - 14.03.2005/00 - Indice (dl35-05).md
-  - L. 80-2005 - 14.05.2005: L. 80-2005 - 14.05.2005/00 - Indice (l80-05).md
-  - Cartabia (Dlgs 149-2022 - 10.10.2022): Cartabia (Dlgs 149-2022 - 10.10.2022)/00 - Indice (dlgs149-22).md
-  - L. 197-2022 - 29.12.2022: L. 197-2022 - 29.12.2022/00 - Indice (l197-22).md
-  - Correttivo Cartabia (Dlgs 164-2024 - 31.10.2024): Correttivo Cartabia (Dlgs 164-2024 - 31.10.2024)/00 - Indice (dlgs164-24).md
+- Cartabia (Dlgs 149-2022 - 10.10.2022): Cartabia (Dlgs 149-2022 - 10.10.2022)/00 - Indice (dlgs149-22).md
+- CdS (dlgs 285-1992 - 30.04.1992): CdS (dlgs 285-1992 - 30.04.1992)/00 - Indice (dlgs285-92).md
+- Codice Civile: Codice Civile/00 - Indice (cc).md
+- Codice Penale: Codice Penale/00 - Indice (cp).md
+- Codice di Procedura Civile: Codice di Procedura Civile/00 - Indice (cpc).md
+- Codice di Procedura Penale: Codice di Procedura Penale/00 - Indice (cpp).md
+- Correttivo Cartabia (Dlgs 164-2024 - 31.10.2024): Correttivo Cartabia (Dlgs 164-2024 - 31.10.2024)/00 - Indice (dlgs164-24).md
+- Crisi d'impresa e insolvenza (Dlgs 14-2019 - 12.01.2019): Crisi d'impresa e insolvenza (Dlgs 14-2019 - 12.01.2019)/00 - Indice (dlgs14-19).md
+- Disp. att. cpc (RD 1368-1941 - 25.08.1941): Disp. att. cpc (RD 1368-1941 - 25.08.1941)/00 - Indice (rd1368-41).md
+- Disp. att. cpp (Dlgs 271-1989 - 28.07.1989): Disp. att. cpp (Dlgs 271-1989 - 28.07.1989)/00 - Indice (dlgs271-89).md
+- Divorzio (L. 898-1970 - 01.12.1970): Divorzio (L. 898-1970 - 01.12.1970)/00 - Indice (l898-70).md
+- Dl 35-2005 - 14.03.2005: Dl 35-2005 - 14.03.2005/00 - Indice (dl35-05).md
+- Dlgs 51-1998 - 19.02.1998: Dlgs 51-1998 - 19.02.1998/00 - Indice (dlgs51-98).md
+- L. 188-1998 - 16.06.1998: L. 188-1998 - 16.06.1998/00 - Indice (l188-98).md
+- L. 197-2022 - 29.12.2022: L. 197-2022 - 29.12.2022/00 - Indice (l197-22).md
+- L. 260-1949 - 27.05.1949: L. 260-1949 - 27.05.1949/00 - Indice (l260-49).md
+- L. 353-1990 - 26.11.1990: L. 353-1990 - 26.11.1990/00 - Indice (l353-90).md
+- L. 742-1969 - 07.10.1969: L. 742-1969 - 07.10.1969/00 - Indice (l742-69).md
+- L. 80-2005 - 14.05.2005: L. 80-2005 - 14.05.2005/00 - Indice (l80-05).md
+- Legge 254-1997 - 16.07.1997: Legge 254-1997 - 16.07.1997/00 - Indice (l254-97).md
+- Legge fallimentare (RD 267-1942 - 16.03.1942): Legge fallimentare (RD 267-1942 - 16.03.1942)/00 - Indice (rd267-42).md
+- Mediazione (Dlgs 28-2010 - 04.03.2010): Mediazione (Dlgs 28-2010 - 04.03.2010)/00 - Indice (dlgs28-10).md
+- Negoziazione assistita (Dl 132-2014 - 12.09.2014): Negoziazione assistita (Dl 132-2014 - 12.09.2014)/00 - Indice (dl132-14).md
+- Ord. Pen. (L. 354-1975 - 26.07.1975): Ord. Pen. (L. 354-1975 - 26.07.1975)/00 - Indice (l354-75).md
+- TU Stupefacenti (Dpr 309-1990 - 09.10.1990): TU Stupefacenti (Dpr 309-1990 - 09.10.1990)/00 - Indice (dpr309-90).md
