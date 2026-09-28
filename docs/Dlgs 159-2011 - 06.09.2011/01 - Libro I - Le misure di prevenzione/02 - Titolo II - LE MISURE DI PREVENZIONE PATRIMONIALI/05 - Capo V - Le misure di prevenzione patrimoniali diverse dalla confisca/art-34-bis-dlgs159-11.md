@@ -1,0 +1,46 @@
+---
+type: "Articolo di legge"
+title: "Art. 34-bis - Controllo giudiziario delle aziende"
+articolo: "Art. 34-bis"
+codice: dlgs159-11
+aliases:
+  - "art-34-bis-dlgs159-11"
+libro: "I"
+libro_label: "Le misure di prevenzione"
+titolo: "II"
+titolo_label: "LE MISURE DI PREVENZIONE PATRIMONIALI"
+capo: "V"
+capo_label: "Le misure di prevenzione patrimoniali diverse dalla confisca"
+sezione: null
+sezione_label: null
+rubrica: "Controllo giudiziario delle aziende"
+dataVigenza: "20260928"
+ordine: 35
+---
+
+# Art. 34-bis - ***Controllo giudiziario delle aziende***
+
+1. Quando l'agevolazione prevista dal comma 1 dell'[articolo 34](art-34-dlgs159-11.md) risulta occasionale, il tribunale dispone, anche d'ufficio, il controllo giudiziario delle attività economiche e delle aziende di cui al medesimo comma 1, se sussistono circostanze di fatto da cui si possa desumere il pericolo concreto di infiltrazioni mafiose idonee a condizionarne l'attività. Nel caso in cui risultino applicate le misure previste dall'articolo 94-bis, il tribunale valuta se adottare in loro sostituzione il provvedimento di cui al comma 2, lettera b).
+
+2. Il controllo giudiziario è adottato dal tribunale per un periodo non inferiore a un anno e non superiore a tre anni. Con il provvedimento che lo dispone, il tribunale può:
+
+- a) imporre nei confronti di chi ha la proprietà, l'uso o l'amministrazione dei beni e delle aziende di cui al comma 1 l'obbligo di comunicare al questore e al nucleo di polizia tributaria del luogo di dimora abituale, ovvero del luogo in cui si trovano i beni se si tratta di residenti all'estero, ovvero della sede legale se si tratta di un'impresa, gli atti di disposizione, di acquisto o di pagamento effettuati, gli atti di pagamento ricevuti, gli incarichi professionali, di amministrazione o di gestione fiduciaria ricevuti e gli altri atti o contratti indicati dal tribunale, di valore non inferiore a euro 7.000 o del valore superiore stabilito dal tribunale in relazione al reddito della persona o al patrimonio e al volume d'affari dell'impresa. Tale obbligo deve essere assolto entro dieci giorni dal compimento dell'atto e comunque entro il 31 gennaio di ogni anno per gli atti posti in essere nell'anno precedente;
+- b) nominare un giudice delegato e un amministratore giudiziario, il quale riferisce periodicamente, almeno bimestralmente, gli esiti dell'attività di controllo al giudice delegato e al pubblico ministero.
+
+3. Con il provvedimento di cui alla lettera b) del comma 2, il tribunale stabilisce i compiti dell'amministratore giudiziario finalizzati alle attività di controllo e può imporre l'obbligo:
+
+- a) di non cambiare la sede, la denominazione e la ragione sociale, l'oggetto sociale e la composizione degli organi di amministrazione, direzione e vigilanza e di non compiere fusioni o altre trasformazioni, senza l'autorizzazione da parte del giudice delegato;
+- b) di adempiere ai doveri informativi di cui alla lettera a) del comma 2 nei confronti dell'amministratore giudiziario;
+- c) di informare preventivamente l'amministratore giudiziario circa eventuali forme di finanziamento della società da parte dei soci o di terzi;
+- d) di adottare ed efficacemente attuare misure organizzative, anche ai sensi degli [articoli 6](../../../../Dlgs%20231-2001%20-%2008.06.2001/01%20-%20Capo%20I%20-%20RESPONSABILITÀ%20AMMINISTRATIVA%20DELL%27ENTE/01%20-%20Sezione%20I%20-%20Principi%20generali%20e%20criteri%20di%20attribuzione%20della%20responsabilità%20amm/art-6-dlgs231-01.md), [7](../../../../Dlgs%20231-2001%20-%2008.06.2001/01%20-%20Capo%20I%20-%20RESPONSABILITÀ%20AMMINISTRATIVA%20DELL%27ENTE/01%20-%20Sezione%20I%20-%20Principi%20generali%20e%20criteri%20di%20attribuzione%20della%20responsabilità%20amm/art-7-dlgs231-01.md) e [24-ter del decreto legislativo 8 giugno 2001, n. 231](../../../../Dlgs%20231-2001%20-%2008.06.2001/01%20-%20Capo%20I%20-%20RESPONSABILITÀ%20AMMINISTRATIVA%20DELL%27ENTE/03%20-%20Sezione%20III%20-%20Responsabilità%20amministrativa%20da%20reato/art-24-ter-dlgs231-01.md), e successive modificazioni;
+- e) di assumere qualsiasi altra iniziativa finalizzata a prevenire specificamente il rischio di tentativi di infiltrazione o condizionamento mafiosi.
+
+4. Per verificare il corretto adempimento degli obblighi di cui al comma 3, il tribunale può autorizzare gli ufficiali e gli agenti di polizia giudiziaria ad accedere presso gli uffici dell'impresa nonchè presso uffici pubblici, studi professionali, società, banche e intermediari mobiliari al fine di acquisire informazioni e copia della documentazione ritenute utili. Nel caso in cui venga accertata la violazione di una o più prescrizioni ovvero ricorrano i presupposti di cui al comma 1 dell'[articolo 34](art-34-dlgs159-11.md), il tribunale può disporre l'amministrazione giudiziaria dell'impresa.
+
+5. Il titolare dell'attività economica sottoposta al controllo giudiziario può proporre istanza di revoca. In tal caso il tribunale fissa l'udienza entro dieci giorni dal deposito dell'istanza e provvede nelle forme di cui all'[articolo 127 del codice di procedura penale](../../../../Codice%20di%20Procedura%20Penale/02%20-%20Libro%20II%20-%20ATTI/02%20-%20Titolo%20II%20-%20ATTI%20E%20PROVVEDIMENTI%20DEL%20GIUDICE/art-127-cpp.md). All'udienza partecipano il giudice delegato, il pubblico ministero e, ove nominato, l'amministratore giudiziario.
+
+6. Le imprese destinatarie di informazione antimafia interdittiva ai sensi dell'articolo 84, comma 4, che abbiano proposto l'impugnazione del relativo provvedimento del prefetto, possono richiedere al tribunale competente per le misure di prevenzione l'applicazione del controllo giudiziario di cui alla lettera b) del comma 2 del presente articolo. Il tribunale, sentiti il procuratore distrettuale competente, il prefetto che ha adottato l'informazione antimafia interdittiva nonchè gli altri soggetti interessati, nelle forme di cui all'[articolo 127 del codice di procedura penale](../../../../Codice%20di%20Procedura%20Penale/02%20-%20Libro%20II%20-%20ATTI/02%20-%20Titolo%20II%20-%20ATTI%20E%20PROVVEDIMENTI%20DEL%20GIUDICE/art-127-cpp.md), accoglie la richiesta, ove ne ricorrano i presupposti; successivamente, anche sulla base della relazione dell'amministratore giudiziario, può revocare il controllo giudiziario e, ove ne ricorrano i presupposti, disporre altre misure di prevenzione patrimoniali.
+
+7. Il provvedimento che dispone l'amministrazione giudiziaria prevista dall'[articolo 34](art-34-dlgs159-11.md) o il controllo giudiziario ai sensi del presente articolo sospende il termine di cui all'articolo 92, comma 2, nonchè gli effetti di cui all'articolo 94. Lo stesso provvedimento è comunicato dalla cancelleria del tribunale al prefetto della provincia in cui ha sede legale l'impresa, ai fini dell'aggiornamento della banca dati nazionale unica della documentazione antimafia di cui all'articolo 96, ed è valutato anche ai fini dell'applicazione delle misure di cui all'articolo 94-bis nei successivi cinque anni. [^agg-59]
+
+[^agg-59]: *AGGIORNAMENTO (59)* La Corte Costituzionale, con sentenza 20 maggio - 17 luglio 2025, n. 109 (in G.U. 1ª s.s. 23/07/2025, n. 30), ha dichiarato "l'illegittimità costituzionale dell'art. 34-bis, comma 7, del decreto legislativo 6 settembre 2011, n. 159 (Codice delle leggi antimafia e delle misure di prevenzione, nonchè nuove disposizioni in materia di documentazione antimafia, a norma degli articoli 1 e 2 della legge 13 agosto 2010, n. 136), nella parte in cui non prevede che la sospensione degli effetti dell'informazione interdittiva derivante dall'ammissione al controllo giudiziario si protrae, nel caso di sua conclusione con esito positivo, sino alla definizione del procedimento di aggiornamento del provvedimento interdittivo di cui all'art. 91, comma 5, cod. antimafia".

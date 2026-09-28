@@ -51,6 +51,8 @@ title: "NormattivaStudio"
 <a class="doc-card" data-anno="2005" href="Dl%2035-2005%20-%2014.03.2005/00%20-%20Indice%20%28dl35-05%29/">Dl 35-2005 - 14.03.2005</a>
 <a class="doc-card" data-anno="2005" href="L.%2080-2005%20-%2014.05.2005/00%20-%20Indice%20%28l80-05%29/">L. 80-2005 - 14.05.2005</a>
 <a class="doc-card" data-anno="2010" href="Mediazione%20%28Dlgs%2028-2010%20-%2004.03.2010%29/00%20-%20Indice%20%28dlgs28-10%29/">Mediazione (Dlgs 28-2010 - 04.03.2010)</a>
+<a class="doc-card" data-anno="2011" href="Dlgs%20150-2011%20-%2009.01.2011/00%20-%20Indice%20%28dlgs150-11%29/">Dlgs 150-2011 - 09.01.2011</a>
+<a class="doc-card" data-anno="2011" href="Dlgs%20159-2011%20-%2006.09.2011/00%20-%20Indice%20%28dlgs159-11%29/">Dlgs 159-2011 - 06.09.2011</a>
 <a class="doc-card" data-anno="2014" href="Negoziazione%20assistita%20%28Dl%20132-2014%20-%2012.09.2014%29/00%20-%20Indice%20%28dl132-14%29/">Negoziazione assistita (Dl 132-2014 - 12.09.2014)</a>
 <a class="doc-card" data-anno="2017" href="Rif.%20Orlando%20%28L%20103-2017%20-%2023.06.2017%29/00%20-%20Indice%20%28l103-17%29/">Rif. Orlando (L 103-2017 - 23.06.2017)</a>
 <a class="doc-card" data-anno="2019" href="Crisi%20d'impresa%20e%20insolvenza%20%28Dlgs%2014-2019%20-%2012.01.2019%29/00%20-%20Indice%20%28dlgs14-19%29/">Crisi d'impresa e insolvenza (Dlgs 14-2019 - 12.01.2019)</a>
