@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 # Leggi citate da Divorzio (L. 898-1970 - 01.12.1970) ma non ancora nel vault
 
 *(rigenerato automaticamente ad ogni conversione di Divorzio (L. 898-1970 - 01.12.1970) — 10 leggi trovate)*

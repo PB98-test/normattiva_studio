@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 # Leggi citate da CdS (dlgs 285-1992 - 30.04.1992) ma non ancora nel vault
 
 *(rigenerato automaticamente ad ogni conversione di CdS (dlgs 285-1992 - 30.04.1992) — 258 leggi trovate)*

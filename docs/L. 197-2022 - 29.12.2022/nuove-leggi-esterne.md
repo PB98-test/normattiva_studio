@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 # Leggi citate da L. 197-2022 - 29.12.2022 ma non ancora nel vault
 
 *(rigenerato automaticamente ad ogni conversione di L. 197-2022 - 29.12.2022 — 498 leggi trovate)*

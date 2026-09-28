@@ -24,17 +24,19 @@
    libera (scelta esplicita: se il riconoscimento sbaglia o l'indice non
    ha ancora quella voce, l'utente non perde comunque nulla).
 
-   Due rifiniture in più sulla lista di Lunr stessa, richieste
-   dall'utente dopo aver visto la prima versione dare troppo rumore:
-   1. troncata a un numero massimo di voci (75, o "1.4k" per query più
-      generiche, non si leggono comunque mai per intero);
-   2. quando la query è una citazione riconosciuta, le voci dello STESSO
-      codice/legge (e in particolare le varianti bis/ter/... dello
-      stesso numero) vengono portate in cima al gruppo, prima di tutto
-      il resto — Lunr non lo fa da solo (nessun concetto di "stesso
-      codice" nel suo indice), ma il dato per farlo (l'url di ogni
-      articolo del codice cercato) è lo stesso indice già caricato per
-      la card esatta qui sopra.
+   Tre rifiniture in più, richieste dall'utente dopo aver visto la prima
+   versione dare troppo rumore:
+   1. la lista di Lunr è troncata a un numero massimo di voci (75, o
+      "1.4k" per query più generiche, non si leggono comunque mai per
+      intero);
+   2. le altre varianti dello stesso numero (per "133 cp": 133-bis,
+      133-ter) compaiono come card "correlate" subito sotto quella
+      esatta, costruite DALL'INDICE e non prese da Lunr — che mostra solo
+      i primi 10 risultati e ne aggiunge 4 alla volta scorrendo, quindi
+      non le avrebbe di norma nemmeno nella pagina;
+   3. sulle voci di Lunr già presenti, quelle dello stesso codice/legge
+      passano davanti al resto (Lunr non ha un concetto di "stesso
+      codice"), e i doppioni delle card nostre vengono tolti.
 */
 (function () {
   function pronto(fn) {
@@ -168,6 +170,80 @@
   }
 
   var LIMITE_RISULTATI = 15;
+  // Quante varianti dello stesso numero (bis, ter, ...) mostrare al
+  // massimo come card "correlate": il Codice Penale arriva a decies,
+  // qualche articolo di altre leggi ne ha più di una manciata.
+  var LIMITE_CORRELATI = 8;
+  var ORDINE_SUFFISSI = SUFFISSI.split("|");
+
+  // Posizione di una chiave dell'indice ("133", "133-bis", ...) nell'ordine
+  // legale dei suffissi: prima il numero nudo, poi bis, ter, quater...
+  function ordineSuffisso(chiave) {
+    var suffisso = chiave.split("-").slice(1).join("-");
+    if (!suffisso) { return -1; }
+    var i = ORDINE_SUFFISSI.indexOf(suffisso);
+    return i === -1 ? ORDINE_SUFFISSI.length : i;
+  }
+
+  // Le altre varianti dello stesso numero (bis/ter/... di "133 cp"),
+  // lette DIRETTAMENTE dall'indice delle citazioni — non da Lunr. Bug
+  // reale, diagnosticato con dati veri sul sito online: Material mostra
+  // solo i primi 10 risultati di Lunr e ne aggiunge 4 alla volta solo
+  // quando si scorre in fondo, e per "133 cp" il "133-bis" del Codice
+  // Penale non è nemmeno tra i primi 14 (con le pagine-indice delle leggi
+  // nuove, ancora più in basso). Il riordino sotto può spostare solo ciò
+  // che è già nella pagina — quindi funzionava "non sempre e non subito",
+  // solo quando per caso Lunr l'aveva già messo tra i risultati
+  // visualizzati. L'indice le conosce tutte, sempre: nessuna dipendenza
+  // dall'ordine né dal caricamento a blocchi di Lunr.
+  function correlati(indice, riconosciuta, sigla) {
+    var voci = (indice && indice.articoli && indice.articoli[sigla]) || {};
+    var chiaveEsatta = riconosciuta.suffisso
+      ? riconosciuta.numero + "-" + riconosciuta.suffisso
+      : riconosciuta.numero;
+    return Object.keys(voci)
+      .filter(function (k) { return k !== chiaveEsatta && k.split("-")[0] === riconosciuta.numero; })
+      .sort(function (a, b) { return ordineSuffisso(a) - ordineSuffisso(b); })
+      .slice(0, LIMITE_CORRELATI)
+      .map(function (k) { return { chiave: k, record: voci[k] }; });
+  }
+
+  // Una card nostra (esatta o correlata): stessa struttura di un
+  // risultato di Material, costruita col DOM — nessun testo dell'indice
+  // finisce mai dentro una stringa HTML.
+  function creaCard(record, numeroVisibile, classe, chiaveRichiesta, radice) {
+    var li = document.createElement("li");
+    li.className = "md-search-result__item ns-search-nostro " + classe;
+    li.dataset.nsChiave = chiaveRichiesta;
+
+    var a = document.createElement("a");
+    a.className = "md-search-result__link";
+    a.tabIndex = -1;
+    a.href = radice ? new URL(record.url, radice).href : record.url;
+
+    var article = document.createElement("article");
+    // 'md-typeset' dà il carattere normale dei risultati di Lunr (16px,
+    // peso 400) — alle sole card correlate: quella esatta resta più
+    // grande e marcata di proposito, è il risultato che si cerca.
+    article.className = "md-search-result__article"
+      + (classe === "ns-search-correlato" ? " md-typeset" : "");
+    var fonte = document.createElement("div");
+    fonte.className = "ns-search-fonte";
+    fonte.textContent = record.fonte;
+    var h1 = document.createElement("h1");
+    var numero = document.createElement("span");
+    numero.className = "ns-search-numero";
+    numero.textContent = numeroVisibile;
+    h1.appendChild(numero);
+    if (record.rubrica) {
+      h1.appendChild(document.createTextNode(" - " + record.rubrica));
+    }
+    article.appendChild(fonte);
+    article.appendChild(h1);
+    a.appendChild(article);
+    li.appendChild(a);
+    return li;
+  }
 
   pronto(function () {
     var input = document.querySelector('input[name="query"], input.md-search__input');
@@ -175,59 +251,59 @@
     if (!input || !lista) { return; }
     var radice = radiceSito();
 
-    // Tiene solo le prime LIMITE_RISULTATI voci della lista di Lunr (la
-    // card esatta, se presente, non conta contro il limite: resta sempre
-    // visibile) — richiesto dall'utente: anche 75 risultati, figuriamoci
+    function voci() {
+      return Array.prototype.slice.call(lista.children)
+        .filter(function (li) { return !li.classList.contains("ns-search-nostro"); });
+    }
+
+    function rimuoviNostre() {
+      Array.prototype.slice.call(lista.querySelectorAll(".ns-search-nostro"))
+        .forEach(function (li) { li.remove(); });
+    }
+
+    // Tiene solo le prime LIMITE_RISULTATI voci della lista di Lunr (le
+    // card nostre non contano contro il limite: restano sempre
+    // visibili) — richiesto dall'utente: anche 75 risultati, figuriamoci
     // "1.4k", non si leggono comunque mai per intero. Operazione che
     // rimuove soltanto: una volta troncata, richiamarla di nuovo con la
     // stessa lista non tocca più nulla (nessun ciclo con l'observer).
     function tronca() {
-      var voci = Array.prototype.slice.call(lista.children)
-        .filter(function (li) { return !li.classList.contains("ns-search-esatto"); });
-      for (var i = LIMITE_RISULTATI; i < voci.length; i++) {
-        voci[i].remove();
+      var lunr = voci();
+      for (var i = LIMITE_RISULTATI; i < lunr.length; i++) {
+        lunr[i].remove();
       }
     }
 
-    // Quando la query è una citazione riconosciuta e TROVATA nell'indice
-    // del suo codice/legge, porta in cima al gruppo (sotto alla card
-    // esatta) prima le varianti bis/ter/... dello stesso numero, poi le
-    // altre voci dello stesso codice — richiesto dall'utente: Lunr non ha
-    // alcun concetto di "stesso codice", quindi lascia per esempio gli
-    // articoli del Codice Civile (che combaciano solo per il numero)
-    // davanti a un "133-bis" dello stesso Codice Penale appena cercato.
-    // Il duplicato esatto (lo stesso articolo già mostrato dalla card in
-    // cima) viene tolto dalla lista sotto, non solo spostato: mostrarlo
-    // due volte non aggiungerebbe nulla.
-    function riordina(indice, riconosciuta, sigla) {
+    // Sulle voci di Lunr GIÀ PRESENTI nella pagina (vedi correlati() per
+    // il limite): toglie i doppioni delle card nostre — lo stesso
+    // articolo mostrato due volte non aggiungerebbe nulla — e porta in
+    // cima le voci dello stesso codice/legge, prima del resto. Richiesto
+    // dall'utente: Lunr non ha alcun concetto di "stesso codice", quindi
+    // lascia per esempio articoli del Codice Civile (che combaciano solo
+    // per il numero) davanti ad altri articoli del Codice Penale.
+    function riordina(indice, sigla) {
       var vociCodice = (indice && indice.articoli && indice.articoli[sigla]) || {};
-      var slugPerChiave = {};
+      var slugDelCodice = {};
       Object.keys(vociCodice).forEach(function (chiave) {
-        slugPerChiave[slugDaUrl(vociCodice[chiave].url)] = chiave;
+        slugDelCodice[slugDaUrl(vociCodice[chiave].url)] = true;
       });
-      var chiaveEsatta = riconosciuta.suffisso
-        ? riconosciuta.numero + "-" + riconosciuta.suffisso
-        : riconosciuta.numero;
+      var slugNostri = Array.prototype.slice
+        .call(lista.querySelectorAll(".ns-search-nostro a.md-search-result__link"))
+        .map(function (a) { return slugDaUrl(a.href); });
 
-      var attuali = Array.prototype.slice.call(lista.children)
-        .filter(function (li) { return !li.classList.contains("ns-search-esatto"); });
-
-      var stessoNumero = [], stessoCodice = [], altro = [];
-      attuali.forEach(function (li) {
+      var stessoCodice = [], altro = [];
+      voci().forEach(function (li) {
         var link = li.querySelector("a.md-search-result__link");
         var slug = link ? slugDaUrl(link.href) : null;
-        var chiave = slug ? slugPerChiave[slug] : undefined;
-        if (chiave === undefined) { altro.push(li); return; }
-        if (chiave === chiaveEsatta) { li.remove(); return; }  // doppione della card esatta
-        if (chiave.split("-")[0] === riconosciuta.numero) { stessoNumero.push(li); }
-        else { stessoCodice.push(li); }
+        if (slug && slugNostri.indexOf(slug) !== -1) { li.remove(); return; }
+        if (slug && slugDelCodice[slug]) { stessoCodice.push(li); }
+        else { altro.push(li); }
       });
 
-      var ordineDesiderato = stessoNumero.concat(stessoCodice, altro);
-      var attualiRimaste = Array.prototype.slice.call(lista.children)
-        .filter(function (li) { return !li.classList.contains("ns-search-esatto"); });
-      var giaAPosto = attualiRimaste.length === ordineDesiderato.length
-        && attualiRimaste.every(function (li, i) { return li === ordineDesiderato[i]; });
+      var ordineDesiderato = stessoCodice.concat(altro);
+      var attuali = voci();
+      var giaAPosto = attuali.length === ordineDesiderato.length
+        && attuali.every(function (li, i) { return li === ordineDesiderato[i]; });
       if (giaAPosto) { return; }
 
       ordineDesiderato.forEach(function (li) { lista.appendChild(li); });
@@ -235,10 +311,9 @@
 
     function aggiorna() {
       var riconosciuta = riconosci(input.value);
-      var esistente = lista.querySelector(".ns-search-esatto");
 
       if (!riconosciuta) {
-        if (esistente) { esistente.remove(); }
+        rimuoviNostre();
         tronca();
         return;
       }
@@ -246,22 +321,22 @@
       // Riordino e troncamento agiscono SUBITO, in modo sincrono, se
       // l'indice è già arrivato (anche da una query precedente) — non
       // hanno bisogno di aspettare la fetch qui sotto, che serve solo
-      // per (ri)mettere a posto la card esatta. Il riordino va fatto
+      // per (ri)mettere a posto le card nostre. Il riordino va fatto
       // PRIMA del troncamento: una voce da promuovere in cima deve
       // sopravvivere al taglio, non sparire perché era oltre il limite
       // nell'ordine originale di Lunr.
       var sigla = indiceRisolto ? indiceRisolto.alias[riconosciuta.alias] : null;
-      if (sigla) { riordina(indiceRisolto, riconosciuta, sigla); }
+      if (sigla) { riordina(indiceRisolto, sigla); }
       tronca();
 
-      // Chiave di confronto: se la card già in cima corrisponde già a
-      // questa identica citazione, il resto qui sotto (fetch + inserimento
-      // della card) non serve più — evita anche un ciclo con il
-      // MutationObserver (il nostro stesso inserimento è anch'esso una
-      // mutazione della lista, che altrimenti farebbe ripartire questa
-      // funzione all'infinito).
+      // Chiave di confronto: se le card in cima corrispondono già a
+      // questa identica citazione, il resto qui sotto (fetch + inserimento)
+      // non serve più — evita anche un ciclo con il MutationObserver (il
+      // nostro stesso inserimento è anch'esso una mutazione della lista,
+      // che altrimenti farebbe ripartire questa funzione all'infinito).
       var chiaveRichiesta = riconosciuta.alias + "|" + riconosciuta.numero + "|" + riconosciuta.suffisso;
-      if (esistente && esistente.dataset.nsChiave === chiaveRichiesta) {
+      var prima = lista.querySelector(".ns-search-nostro");
+      if (prima && prima.dataset.nsChiave === chiaveRichiesta) {
         return;
       }
 
@@ -274,40 +349,31 @@
           && ancoraValida.suffisso === riconosciuta.suffisso
           && ancoraValida.alias === riconosciuta.alias;
         var record = stessa ? trova(indice, riconosciuta) : null;
+        var siglaQuery = (stessa && indice) ? indice.alias[riconosciuta.alias] : null;
+        var extra = siglaQuery ? correlati(indice, riconosciuta, siglaQuery) : [];
 
-        var attuale = lista.querySelector(".ns-search-esatto");
-        if (attuale) { attuale.remove(); }
-        if (!record) { return; }
-
-        var href = radice ? new URL(record.url, radice).href : record.url;
-        var numeroVisibile = "Art. " + riconosciuta.numero
-          + (riconosciuta.suffisso ? "-" + riconosciuta.suffisso : "");
-
-        var li = document.createElement("li");
-        li.className = "md-search-result__item ns-search-esatto";
-        li.dataset.nsChiave = chiaveRichiesta;
-        li.innerHTML =
-          '<a href="' + href + '" class="md-search-result__link" tabindex="-1">' +
-          '<article class="md-search-result__article">' +
-          '<div class="ns-search-fonte"></div>' +
-          '<h1><span class="ns-search-numero"></span></h1>' +
-          "</article></a>";
-        li.querySelector(".ns-search-fonte").textContent = record.fonte;
-        var h1 = li.querySelector("h1");
-        h1.querySelector(".ns-search-numero").textContent = numeroVisibile;
-        if (record.rubrica) {
-          h1.appendChild(document.createTextNode(" - " + record.rubrica));
+        rimuoviNostre();
+        var carte = [];
+        if (record) {
+          var numeroVisibile = "Art. " + riconosciuta.numero
+            + (riconosciuta.suffisso ? "-" + riconosciuta.suffisso : "");
+          carte.push(creaCard(record, numeroVisibile, "ns-search-esatto", chiaveRichiesta, radice));
         }
-        lista.insertBefore(li, lista.firstChild);
+        extra.forEach(function (c) {
+          carte.push(creaCard(c.record, "Art. " + c.chiave, "ns-search-correlato", chiaveRichiesta, radice));
+        });
+        for (var i = carte.length - 1; i >= 0; i--) {
+          lista.insertBefore(carte[i], lista.firstChild);
+        }
       });
     }
 
     input.addEventListener("input", aggiorna);
     // Material ricostruisce la lista ad ogni risultato che arriva dal
     // worker di Lunr (stesso motivo per cui ricerca.js osserva la lista
-    // con un MutationObserver, non basta elaborarla una volta) — se la
-    // nostra card era presente, la ricostruzione la butta via insieme
-    // al resto: va rimessa dopo ogni giro, non solo alla digitazione.
+    // con un MutationObserver, non basta elaborarla una volta) — se le
+    // nostre card erano presenti, la ricostruzione le butta via insieme
+    // al resto: vanno rimesse dopo ogni giro, non solo alla digitazione.
     new MutationObserver(aggiorna).observe(lista, { childList: true });
   });
 })();

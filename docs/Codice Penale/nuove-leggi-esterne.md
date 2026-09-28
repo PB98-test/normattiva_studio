@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 # Leggi citate da Codice Penale ma non ancora nel vault
 
 *(rigenerato automaticamente ad ogni conversione di Codice Penale — 157 leggi trovate)*

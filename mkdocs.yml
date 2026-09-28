@@ -16,12 +16,12 @@ theme:
   - search.suggest
   - search.highlight
 extra_css:
-- stylesheets/normativa.css?v=7747d1de
+- stylesheets/normativa.css?v=73bd270f
 extra_javascript:
 - javascripts/segnalazioni.js?v=1d8dd674
 - javascripts/articoli.js?v=bbea3eba
 - javascripts/ricerca.js?v=2fd43db5
-- javascripts/ricerca-citazioni.js?v=61770fe9
+- javascripts/ricerca-citazioni.js?v=49da0ea5
 - javascripts/navigazione.js?v=772f77d9
 - javascripts/interfaccia.js?v=cbc047e9
 - javascripts/sw-registra.js?v=cc658d8a
@@ -38,23 +38,38 @@ nav:
   - Codice di Procedura Civile: Codice di Procedura Civile/00 - Indice (cpc).md
 - Altre leggi:
   - Disp. att. cpc (RD 1368-1941 - 25.08.1941): Disp. att. cpc (RD 1368-1941 - 25.08.1941)/00 - Indice (rd1368-41).md
+  - R.D. 12-1941 - 30.01.1941: R.D. 12-1941 - 30.01.1941/00 - Indice (rd12-41).md
   - Legge fallimentare (RD 267-1942 - 16.03.1942): Legge fallimentare (RD 267-1942 - 16.03.1942)/00 - Indice (rd267-42).md
   - L. 260-1949 - 27.05.1949: L. 260-1949 - 27.05.1949/00 - Indice (l260-49).md
   - L. 742-1969 - 07.10.1969: L. 742-1969 - 07.10.1969/00 - Indice (l742-69).md
   - Divorzio (L. 898-1970 - 01.12.1970): Divorzio (L. 898-1970 - 01.12.1970)/00 - Indice (l898-70).md
   - Ord. Pen. (L. 354-1975 - 26.07.1975): Ord. Pen. (L. 354-1975 - 26.07.1975)/00 - Indice (l354-75).md
+  - L 54-1977 - 05.03.1977: L 54-1977 - 05.03.1977/00 - Indice (l54-77).md
+  - L 689-1981 - 24.11.1981: L 689-1981 - 24.11.1981/00 - Indice (l689-81).md
+  - Concordato (L 121-1985 - 25.03.1985): Concordato (L 121-1985 - 25.03.1985)/00 - Indice (l121-85).md
+  - Proc. Minorile (DPR 448-1988 - 22.09.1988): Proc. Minorile (DPR 448-1988 - 22.09.1988)/00 - Indice (dpr448-88).md
   - Disp. att. cpp (Dlgs 271-1989 - 28.07.1989): Disp. att. cpp (Dlgs 271-1989 - 28.07.1989)/00 - Indice (dlgs271-89).md
   - L. 353-1990 - 26.11.1990: L. 353-1990 - 26.11.1990/00 - Indice (l353-90).md
   - TU Stupefacenti (Dpr 309-1990 - 09.10.1990): TU Stupefacenti (Dpr 309-1990 - 09.10.1990)/00 - Indice (dpr309-90).md
   - CdS (dlgs 285-1992 - 30.04.1992): CdS (dlgs 285-1992 - 30.04.1992)/00 - Indice (dlgs285-92).md
+  - L 477-1992 - 04.12.1992: L 477-1992 - 04.12.1992/00 - Indice (l477-92).md
+  - Dl 571-1994 - 07.10.1994: Dl 571-1994 - 07.10.1994/00 - Indice (dl571-94).md
+  - L 673-1994 - 06.12.1994: L 673-1994 - 06.12.1994/00 - Indice (l673-94).md
   - Legge 254-1997 - 16.07.1997: Legge 254-1997 - 16.07.1997/00 - Indice (l254-97).md
   - Dlgs 51-1998 - 19.02.1998: Dlgs 51-1998 - 19.02.1998/00 - Indice (dlgs51-98).md
   - L. 188-1998 - 16.06.1998: L. 188-1998 - 16.06.1998/00 - Indice (l188-98).md
+  - Dlgs 274-2000 - 28.08.2000: Dlgs 274-2000 - 28.08.2000/00 - Indice (dlgs274-00).md
+  - Dlgs 231-2001 - 08.06.2001: Dlgs 231-2001 - 08.06.2001/00 - Indice (dlgs231-01).md
+  - DPR 115-2002 - 30.05.2002: DPR 115-2002 - 30.05.2002/00 - Indice (dpr115-02).md
   - Dl 35-2005 - 14.03.2005: Dl 35-2005 - 14.03.2005/00 - Indice (dl35-05).md
   - L. 80-2005 - 14.05.2005: L. 80-2005 - 14.05.2005/00 - Indice (l80-05).md
   - Mediazione (Dlgs 28-2010 - 04.03.2010): Mediazione (Dlgs 28-2010 - 04.03.2010)/00 - Indice (dlgs28-10).md
   - Negoziazione assistita (Dl 132-2014 - 12.09.2014): Negoziazione assistita (Dl 132-2014 - 12.09.2014)/00 - Indice (dl132-14).md
+  - Rif. Orlando (L 103-2017 - 23.06.2017): Rif. Orlando (L 103-2017 - 23.06.2017)/00 - Indice (l103-17).md
   - Crisi d'impresa e insolvenza (Dlgs 14-2019 - 12.01.2019): Crisi d'impresa e insolvenza (Dlgs 14-2019 - 12.01.2019)/00 - Indice (dlgs14-19).md
+  - L 3-2019 - 09.01.2019: L 3-2019 - 09.01.2019/00 - Indice (l3-19).md
+  - L 134-2021 - 27.09.2021: L 134-2021 - 27.09.2021/00 - Indice (l134-21).md
   - Cartabia (Dlgs 149-2022 - 10.10.2022): Cartabia (Dlgs 149-2022 - 10.10.2022)/00 - Indice (dlgs149-22).md
+  - Cartabia (Dlgs 150-2022 - 10.10.2022): Cartabia (Dlgs 150-2022 - 10.10.2022)/00 - Indice (dlgs150-22).md
   - L. 197-2022 - 29.12.2022: L. 197-2022 - 29.12.2022/00 - Indice (l197-22).md
   - Correttivo Cartabia (Dlgs 164-2024 - 31.10.2024): Correttivo Cartabia (Dlgs 164-2024 - 31.10.2024)/00 - Indice (dlgs164-24).md

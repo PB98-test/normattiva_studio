@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 # Leggi citate da L. 260-1949 - 27.05.1949 ma non ancora nel vault
 
 *(rigenerato automaticamente ad ogni conversione di L. 260-1949 - 27.05.1949 — 1 leggi trovate)*

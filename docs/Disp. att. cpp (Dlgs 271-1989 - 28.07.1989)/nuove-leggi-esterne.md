@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 # Leggi citate da Disp. att. cpp (Dlgs 271-1989 - 28.07.1989) ma non ancora nel vault
 
 *(rigenerato automaticamente ad ogni conversione di Disp. att. cpp (Dlgs 271-1989 - 28.07.1989) — 83 leggi trovate)*

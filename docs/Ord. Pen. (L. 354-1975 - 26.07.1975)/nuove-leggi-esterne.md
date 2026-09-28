@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 # Leggi citate da Ord. Pen. (L. 354-1975 - 26.07.1975) ma non ancora nel vault
 
 *(rigenerato automaticamente ad ogni conversione di Ord. Pen. (L. 354-1975 - 26.07.1975) — 62 leggi trovate)*

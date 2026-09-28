@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 # Leggi citate da Correttivo Cartabia (Dlgs 164-2024 - 31.10.2024) ma non ancora nel vault
 
 *(rigenerato automaticamente ad ogni conversione di Correttivo Cartabia (Dlgs 164-2024 - 31.10.2024) — 28 leggi trovate)*

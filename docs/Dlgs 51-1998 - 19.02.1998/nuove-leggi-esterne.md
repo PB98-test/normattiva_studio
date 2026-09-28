@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 # Leggi citate da Dlgs 51-1998 - 19.02.1998 ma non ancora nel vault
 
 *(rigenerato automaticamente ad ogni conversione di Dlgs 51-1998 - 19.02.1998 — 61 leggi trovate)*

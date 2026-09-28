@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 # Leggi citate da TU Stupefacenti (Dpr 309-1990 - 09.10.1990) ma non ancora nel vault
 
 *(rigenerato automaticamente ad ogni conversione di TU Stupefacenti (Dpr 309-1990 - 09.10.1990) — 67 leggi trovate)*

@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 # Leggi citate da Mediazione (Dlgs 28-2010 - 04.03.2010) ma non ancora nel vault
 
 *(rigenerato automaticamente ad ogni conversione di Mediazione (Dlgs 28-2010 - 04.03.2010) — 38 leggi trovate)*

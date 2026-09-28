@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 # Leggi citate da Codice Civile ma non ancora nel vault
 
 *(rigenerato automaticamente ad ogni conversione di Codice Civile — 169 leggi trovate)*

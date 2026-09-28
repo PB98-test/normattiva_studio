@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 # Leggi citate da Cartabia (Dlgs 149-2022 - 10.10.2022) ma non ancora nel vault
 
 *(rigenerato automaticamente ad ogni conversione di Cartabia (Dlgs 149-2022 - 10.10.2022) — 95 leggi trovate)*

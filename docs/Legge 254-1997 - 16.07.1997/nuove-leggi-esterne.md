@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 # Leggi citate da Legge 254-1997 - 16.07.1997 ma non ancora nel vault
 
 *(rigenerato automaticamente ad ogni conversione di Legge 254-1997 - 16.07.1997 — 9 leggi trovate)*

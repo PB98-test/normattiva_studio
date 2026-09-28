@@ -551,6 +551,12 @@ label.md-header__button[for="__search"] {
   background: rgba(201, 154, 70, 0.1);
   border-left: 3px solid var(--ns-gold);
 }
+/* Le altre varianti dello stesso numero (bis, ter, ...), sotto la card
+   esatta: stesso segno in oro ma più tenue, per leggerle come "parenti
+   stretti" del risultato principale senza confonderle con lui. */
+.ns-search-correlato {
+  border-left: 3px solid rgba(201, 154, 70, 0.4);
+}
 
 .ns-segnala-grazie {
   margin: 0;

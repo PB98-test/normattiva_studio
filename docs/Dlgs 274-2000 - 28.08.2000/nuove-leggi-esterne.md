@@ -1,0 +1,51 @@
+---
+search:
+  exclude: true
+---
+
+# Leggi citate da Dlgs 274-2000 - 28.08.2000 ma non ancora nel vault
+
+*(rigenerato automaticamente ad ogni conversione di Dlgs 274-2000 - 28.08.2000 — 42 leggi trovate)*
+
+- [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const)
+- [articolo 14 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400)
+- [articolo 14 e seguenti della legge 24 novembre 1999, n. 468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-11-24;468)
+- [articoli 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regiodecreto:1931-06-18;773)
+- [articoli 1095](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regiodecreto:1942-03-30;327)
+- [articolo 3 del decreto del Presidente della Repubblica 4 agosto 1957, n. 918](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-08-04;918)
+- [articoli 102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-03-30;361)
+- [articolo 92 del decreto del Presidente della Repubblica 16 maggio 1960, n. 570](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-05-16;570)
+- [articolo 15, secondo comma, della legge 28 novembre 1965, n. 1329](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-11-28;1329)
+- [articolo 3 della legge 8 novembre 1991, n. 362](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-08;362)
+- [articolo 51 della legge 25 maggio 1970, n. 352](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-25;352)
+- [quarto comma e 65](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;753)
+- [articoli 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-02;528)
+- [articolo 17, comma 3, della legge 4 maggio 1990, n. 107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-05-04;107)
+- [articolo 15, comma 3, del decreto legislativo 27 settembre 1991, n. 311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1991-09-27;311)
+- [direttive n. 87/404/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:direttivaue:1987;404)
+- [n. 90/488/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:direttivaue:1990;488)
+- [articolo 56 della legge 29 dicembre 1990, n. 428](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-29;428)
+- [articolo 11, comma 1, del decreto legislativo 27 settembre 1991, n. 313](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1991-09-27;313)
+- [direttiva n. 88/378/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:direttivaue:1988;378)
+- [L. 6 APRILE 2005, N. 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-04-06;49)
+- [articolo 10, comma 1, del decreto legislativo 14 dicembre 1992, n. 507](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1992-12-14;507)
+- [direttiva n. 90/385/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:direttivaue:1990;385)
+- [articolo 23, comma 2, del decreto legislativo 24 febbraio 1997, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1997-02-24;46)
+- [decreto legislativo 25 luglio 1998, n. 286](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1998-07-25;286)
+- [articoli 1 del decreto-legge 15 dicembre 1979, n. 625](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:1979-12-15;625)
+- [legge 6 febbraio 1980, n. 15, 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-06;7)
+- [decreto-legge 13 maggio 1991, n. 152](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:1991-05-13;152)
+- [legge 12 luglio 1991, n. 203](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-12;203)
+- [decreto-legge 26 aprile 1993, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:1993-04-26;122)
+- [legge 25 giugno 1993, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-06-25;205)
+- [art. 4, comma 1, lettera a), del decreto legislativo 28 agosto 2000, n. 274](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2000-08-28;274)
+- [art. 2, comma 4-bis, del decreto-legge 14 agosto 2013, n. 93](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2013-08-14;93)
+- [legge 15 ottobre 2013, n. 119](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-10-15;119)
+- [art. 27 della legge 11 marzo 1953, n. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-03-11;87)
+- [art. 4, comma 1, lettera a), del d.lgs. n. 274 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2000;274)
+- [art. 2 della legge 11 gennaio 2018, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-01-11;4)
+- [articolo 11 della legge 8 luglio 1980, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-08;319)
+- [articolo 162, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1989-07-25;271)
+- [decreto legislativo 17 novembre 1997, n. 398](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1997-11-17;398)
+- [articolo 8 del decreto legislativo 28 agosto 1997, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1997-08-28;281)
+- [D.P.R. 14 novembre 2002, n. 313](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-11-14;313)

@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 # Leggi citate da Dl 35-2005 - 14.03.2005 ma non ancora nel vault
 
 *(rigenerato automaticamente ad ogni conversione di Dl 35-2005 - 14.03.2005 — 173 leggi trovate)*

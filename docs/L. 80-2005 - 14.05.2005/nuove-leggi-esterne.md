@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 # Leggi citate da L. 80-2005 - 14.05.2005 ma non ancora nel vault
 
 *(rigenerato automaticamente ad ogni conversione di L. 80-2005 - 14.05.2005 — 113 leggi trovate)*

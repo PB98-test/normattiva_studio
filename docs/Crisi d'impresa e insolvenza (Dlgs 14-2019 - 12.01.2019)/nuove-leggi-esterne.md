@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 # Leggi citate da Crisi d'impresa e insolvenza (Dlgs 14-2019 - 12.01.2019) ma non ancora nel vault
 
 *(rigenerato automaticamente ad ogni conversione di Crisi d'impresa e insolvenza (Dlgs 14-2019 - 12.01.2019) — 81 leggi trovate)*

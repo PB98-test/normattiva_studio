@@ -1,0 +1,30 @@
+---
+type: "Articolo di legge"
+title: "Art. 5 - Modifiche al Titolo IV del Libro I del codice di procedura penale"
+articolo: "Art. 5"
+codice: dlgs150-22
+aliases:
+  - "art-5-dlgs150-22"
+libro: null
+libro_label: null
+titolo: "II"
+titolo_label: "Modifiche al codice di procedura penale"
+capo: "I"
+capo_label: "Modifiche al Libro I del codice di procedura penale"
+sezione: null
+sezione_label: null
+rubrica: "Modifiche al Titolo IV del Libro I del codice di procedura penale"
+dataVigenza: "20260928"
+ordine: 5
+---
+
+# Art. 5 - ***Modifiche al Titolo IV del Libro I del codice di procedura penale***
+
+1. Al Titolo IV del Libro I del [codice di procedura penale](../../../Codice%20di%20Procedura%20Penale/00%20-%20Indice%20%28cpp%29.md), sono apportate le seguenti modificazioni:
+
+- a) all'articolo 60, comma 3, sono aggiunte, in fine, le seguenti parole: «oppure la riapertura dello stesso a seguito della rescissione del giudicato o di accoglimento della richiesta prevista dall'articolo 628-bis»;
+- b) all'articolo 78: 1) al comma 1, lettera d), dopo le parole: «che giustificano la domanda», sono inserite le seguenti: «agli effetti civili»; 2) dopo il comma 1 è inserito il seguente: «1-bis. Il difensore cui sia stata conferita la procura speciale ai sensi dell'articolo 100, nonchè la procura per la costituzione di parte civile a norma dell'articolo 122, se in questa non risulta la volontà contraria della parte interessata, può conferire al proprio sostituto, con atto scritto, il potere di sottoscrivere e depositare l'atto di costituzione.»;
+- c) all'articolo 79: 1) al comma 1, le parole: «e, successivamente,» sono sostituite dalle seguenti: «, prima che siano ultimati gli accertamenti relativi alla costituzione delle parti, o, quando manca l'udienza preliminare,» e, dopo le parole: «articolo 484», sono aggiunte le seguenti: «o dall'articolo 554-bis, comma 2»; 2) al comma 2, le parole: «Il termine previsto dal comma 1 è stabilito» sono sostituite dalle seguenti: «I termini previsti dal comma 1 sono stabiliti»; 3) al comma 3, le parole: «Se la costituzione» sono sostituite dalle seguenti: «Quando la costituzione di parte civile è consentita fino a che non siano compiuti gli adempimenti previsti dall'articolo 484, se la stessa»;
+- d) all'articolo 90, dopo il comma 1 è inserito il seguente:«1-bis. La persona offesa ha facoltà di dichiarare o eleggere domicilio. Ai fini della dichiarazione di domicilio la persona offesa può indicare un indirizzo di posta elettronica certificata o altro servizio elettronico di recapito certificato qualificato.»;
+- e) all'articolo 90-bis, comma 1: 1) dopo la lettera a) sono inserite le seguenti: «a-bis) all'obbligo del querelante di dichiarare o eleggere domicilio per la comunicazione e la notificazione degli atti del procedimento, con l'avviso che la dichiarazione di domicilio può essere effettuata anche dichiarando un indirizzo di posta elettronica certificata o altro servizio elettronico di recapito certificato qualificato»; a-ter) alla facoltà del querelante, ove non abbia provveduto all'atto di presentazione della querela, di dichiarare o eleggere domicilio anche successivamente; a-quater) all'obbligo del querelante, in caso di mutamento del domicilio dichiarato o eletto, di comunicare tempestivamente e nelle forme prescritte all'autorità giudiziaria procedente la nuova domiciliazione; a-quinquies) al fatto che, ove abbia nominato un difensore, il querelante sarà domiciliato presso quest'ultimo; che, in mancanza di nomina del difensore, le notificazioni saranno eseguite al querelante presso il domicilio digitale e, nei casi di cui all'articolo 148, comma 4, presso il domicilio dichiarato o eletto; che, in caso di mancanza, insufficienza o inidoneità della dichiarazione o elezione di domicilio, le notificazioni al querelante saranno effettuate mediante deposito presso la segreteria del pubblico ministero procedente o presso la cancelleria del giudice procedente;»; 2) alla lettera n) le parole: «, o attraverso la mediazione» sono soppresse; 3) dopo la lettera n) è inserita la seguente: «n-bis) al fatto che la mancata comparizione senza giustificato motivo della persona offesa che abbia proposto querela all'udienza alla quale sia stata citata in qualità di testimone comporta la remissione tacita di querela;»; 4) alla lettera p), dopo le parole: «alle vittime di reato» il segno di interpunzione «.» è sostituito dal seguente: «;»; 5) dopo la lettera p) sono aggiunte le seguenti: «p-bis) alla facoltà di accedere ai programmi di giustizia riparativa; p-ter) al fatto che la partecipazione del querelante a un programma di giustizia riparativa, concluso con un esito riparativo e con il rispetto degli eventuali impegni comportamentali assunti da parte dell'imputato, comporta la remissione tacita di querela.»;
+- f) dopo l'articolo 90-bis, è inserito il seguente: «Art. 90-bis.1 (Informazioni alla vittima di cui all'articolo 42, comma 1, lettera b), del decreto legislativo attuativo della [legge 27 settembre 2021, n. 134](../../../L%20134-2021%20-%2027.09.2021/00%20-%20Indice%20%28l134-21%29.md)). - 1. La vittima del reato di cui all'articolo 42, comma 1, lettera b), del decreto legislativo attuativo della [legge 27 settembre 2021, n. 134](../../../L%20134-2021%20-%2027.09.2021/00%20-%20Indice%20%28l134-21%29.md), sin dal primo contatto con l'autorità procedente, viene informata in una lingua a lei comprensibile della facoltà di svolgere un programma di giustizia riparativa.».

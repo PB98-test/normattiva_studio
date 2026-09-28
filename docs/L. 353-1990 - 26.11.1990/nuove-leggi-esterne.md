@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 # Leggi citate da L. 353-1990 - 26.11.1990 ma non ancora nel vault
 
 *(rigenerato automaticamente ad ogni conversione di L. 353-1990 - 26.11.1990 — 9 leggi trovate)*

@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 # Leggi citate da L. 742-1969 - 07.10.1969 ma non ancora nel vault
 
 *(rigenerato automaticamente ad ogni conversione di L. 742-1969 - 07.10.1969 — 10 leggi trovate)*

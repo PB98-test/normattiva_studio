@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 # Leggi citate da Legge fallimentare (RD 267-1942 - 16.03.1942) ma non ancora nel vault
 
 *(rigenerato automaticamente ad ogni conversione di Legge fallimentare (RD 267-1942 - 16.03.1942) — 49 leggi trovate)*

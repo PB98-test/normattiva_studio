@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 # Leggi citate da Negoziazione assistita (Dl 132-2014 - 12.09.2014) ma non ancora nel vault
 
 *(rigenerato automaticamente ad ogni conversione di Negoziazione assistita (Dl 132-2014 - 12.09.2014) — 36 leggi trovate)*

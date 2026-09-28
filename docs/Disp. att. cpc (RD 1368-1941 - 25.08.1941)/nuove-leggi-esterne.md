@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 # Leggi citate da Disp. att. cpc (RD 1368-1941 - 25.08.1941) ma non ancora nel vault
 
 *(rigenerato automaticamente ad ogni conversione di Disp. att. cpc (RD 1368-1941 - 25.08.1941) — 50 leggi trovate)*
