@@ -20,7 +20,7 @@ ordine: 34
 
 # Art. 15-undecies - ***Disposizioni finanziarie***
 
-1. All'onere derivante dall'attuazione delle disposizioni di cui al presente capo, valutato in 2.082.780 annui euro a decorrere dall'anno 2023, si provvede mediante corrispondente riduzione del Fondo per l'attuazione della delega per l'efficienza del processo civile di cui all'articolo 1, comma 39, della legge 26 novembre 2021, n. 206. [^agg-9] [^agg-10]
+1\. All'onere derivante dall'attuazione delle disposizioni di cui al presente capo, valutato in 2.082.780 annui euro a decorrere dall'anno 2023, si provvede mediante corrispondente riduzione del Fondo per l'attuazione della delega per l'efficienza del processo civile di cui all'articolo 1, comma 39, della legge 26 novembre 2021, n. 206. [^agg-9] [^agg-10]
 
 [^agg-9]: *AGGIORNAMENTO (9)* Il [D.Lgs. 10 ottobre 2022, n. 149](../../Cartabia%20%28Dlgs%20149-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs149-22%29.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'[articolo 7](art-7-dlgs28-10.md) si applicano a decorrere dal 30 giugno 2023".
 

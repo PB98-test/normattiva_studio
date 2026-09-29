@@ -20,4 +20,4 @@ ordine: 610
 
 # Art. 504 - ***Opposizioni nel corso dell'esame dei testimoni***
 
-1. Salvo che la legge disponga diversamente, sulle opposizioni formulate nel corso dell'esame dei testimoni, dei periti, dei consulenti tecnici e delle parti private il presidente decide immediatamente e senza formalità.
+1\. Salvo che la legge disponga diversamente, sulle opposizioni formulate nel corso dell'esame dei testimoni, dei periti, dei consulenti tecnici e delle parti private il presidente decide immediatamente e senza formalità.

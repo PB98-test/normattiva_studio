@@ -20,6 +20,6 @@ ordine: 812
 
 # Art. 682 - ***Liberazione condizionale***
 
-1. Il tribunale di sorveglianza decide sulla concessione e sulla revoca della liberazione condizionale.
+1\. Il tribunale di sorveglianza decide sulla concessione e sulla revoca della liberazione condizionale.
 
-2. Se la liberazione non è concessa per difetto del requisito del ravvedimento, la richiesta non può essere riproposta prima che siano decorsi sei mesi dal giorno in cui è divenuto irrevocabile il provvedimento di rigetto.
+2\. Se la liberazione non è concessa per difetto del requisito del ravvedimento, la richiesta non può essere riproposta prima che siano decorsi sei mesi dal giorno in cui è divenuto irrevocabile il provvedimento di rigetto.

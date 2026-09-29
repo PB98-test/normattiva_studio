@@ -20,6 +20,6 @@ ordine: 73
 
 # Art. 72
 
-1. Nell'[articolo 313 del codice di procedura civile](../../../../Codice%20di%20Procedura%20Civile/02%20-%20Libro%20II%20-%20DEL%20PROCESSO%20DI%20COGNIZIONE/02%20-%20Titolo%20II%20-%20DEL%20PROCEDIMENTO%20DAVANTI%20AL%20GIUDICE%20DI%20PACE/art-313-cpc.md) le parole "il pretore o" sono soppresse.
+1\. Nell'[articolo 313 del codice di procedura civile](../../../../Codice%20di%20Procedura%20Civile/02%20-%20Libro%20II%20-%20DEL%20PROCESSO%20DI%20COGNIZIONE/02%20-%20Titolo%20II%20-%20DEL%20PROCEDIMENTO%20DAVANTI%20AL%20GIUDICE%20DI%20PACE/art-313-cpc.md) le parole "il pretore o" sono soppresse.
 
 #### Disposizioni in materia di impugnazioni

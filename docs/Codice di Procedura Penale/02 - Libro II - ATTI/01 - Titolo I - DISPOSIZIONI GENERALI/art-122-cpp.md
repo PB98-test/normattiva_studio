@@ -20,9 +20,9 @@ ordine: 146
 
 # Art. 122 - ***Procura speciale per determinati atti***
 
-1. Quando la legge consente che un atto sia compiuto per mezzo di un procuratore speciale, la procura deve, a pena di inammissibilità, essere rilasciata per atto pubblico o scrittura privata autenticata e deve contenere, oltre alle indicazioni richieste specificamente dalla legge, la determinazione dell'oggetto per cui è conferita e dei fatti ai quali si riferisce. Se la procura è rilasciata per scrittura privata al difensore, la sottoscrizione può essere autenticata dal difensore medesimo. La procura è unita agli atti. (111)
+1\. Quando la legge consente che un atto sia compiuto per mezzo di un procuratore speciale, la procura deve, a pena di inammissibilità, essere rilasciata per atto pubblico o scrittura privata autenticata e deve contenere, oltre alle indicazioni richieste specificamente dalla legge, la determinazione dell'oggetto per cui è conferita e dei fatti ai quali si riferisce. Se la procura è rilasciata per scrittura privata al difensore, la sottoscrizione può essere autenticata dal difensore medesimo. La procura è unita agli atti. (111)
 
-2. Per le pubbliche amministrazioni è sufficiente che la procura sia sottoscritta dal dirigente dell'ufficio nella circoscrizione in cui si procede e sia munita del sigillo dell'ufficio.
+2\. Per le pubbliche amministrazioni è sufficiente che la procura sia sottoscritta dal dirigente dell'ufficio nella circoscrizione in cui si procede e sia munita del sigillo dell'ufficio.
 
 2-bis. La procura speciale è depositata, in copia informatica autenticata con firma digitale o altra firma elettronica qualificata, nel rispetto della normativa, anche regolamentare, concernente la sottoscrizione, la trasmissione e la ricezione dei documenti informatici, con le modalità previste dall'[articolo 111-bis](art-111-bis-cpp.md), salvo l'obbligo di conservare l'originale analogico da esibire a richiesta dell'autorità giudiziaria.
 

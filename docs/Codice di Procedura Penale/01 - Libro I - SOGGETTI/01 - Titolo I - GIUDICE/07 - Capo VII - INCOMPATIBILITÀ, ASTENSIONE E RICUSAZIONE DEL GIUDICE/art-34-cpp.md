@@ -20,9 +20,9 @@ ordine: 44
 
 # Art. 34 - ***Incompatibilità determinata da atti compiuti nel procedimento***
 
-1. Il giudice che ha pronunciato o ha concorso a pronunciare sentenza in un grado del procedimento non può esercitare funzioni di giudice negli altri gradi, nè partecipare al giudizio di rinvio dopo l'annullamento o al giudizio per revisione. [^agg-126] [^agg-195] [^agg-283] [^agg-340]
+1\. Il giudice che ha pronunciato o ha concorso a pronunciare sentenza in un grado del procedimento non può esercitare funzioni di giudice negli altri gradi, nè partecipare al giudizio di rinvio dopo l'annullamento o al giudizio per revisione. [^agg-126] [^agg-195] [^agg-283] [^agg-340]
 
-2. Non può partecipare al giudizio il giudice che ha emesso il provvedimento conclusivo dell'udienza preliminare o ha disposto il giudizio immediato o ha emesso decreto penale di condanna o ha deciso sull'impugnazione avverso la sentenza di non luogo a procedere. [^agg-13] [^agg-27] [^agg-29] [^agg-32] [^agg-35] [^agg-41] [^agg-51] [^agg-58] [^agg-59] [^agg-64] [^agg-72] [^agg-73] [^agg-77] [^agg-80] [^agg-88] (98)[^agg-94][^agg-104] [^agg-164] [^agg-284] [^agg-313] [^agg-324] [^agg-335]
+2\. Non può partecipare al giudizio il giudice che ha emesso il provvedimento conclusivo dell'udienza preliminare o ha disposto il giudizio immediato o ha emesso decreto penale di condanna o ha deciso sull'impugnazione avverso la sentenza di non luogo a procedere. [^agg-13] [^agg-27] [^agg-29] [^agg-32] [^agg-35] [^agg-41] [^agg-51] [^agg-58] [^agg-59] [^agg-64] [^agg-72] [^agg-73] [^agg-77] [^agg-80] [^agg-88] (98)[^agg-94][^agg-104] [^agg-164] [^agg-284] [^agg-313] [^agg-324] [^agg-335]
 
 2-bis. Il giudice che nel medesimo procedimento ha esercitato funzioni di giudice per le indagini preliminari non può emettere il decreto penale di condanna, nè tenere l'udienza preliminare; inoltre, anche fuori dei casi previsti dal comma 2, non può partecipare al giudizio. [^agg-90] [^agg-90a] [^agg-105]
 
@@ -36,7 +36,7 @@ ordine: 44
 
 2-quater. Le disposizioni del comma 2-bis non si applicano inoltre al giudice che abbia provveduto all'assunzione dell'incidente probatorio o comunque adottato uno dei provvedimenti previsti dal titolo VII del libro quinto.
 
-3. Chi ha esercitato funzioni di pubblico ministero o ha svolto atti di polizia giudiziaria o ha prestato ufficio di difensore, di procuratore speciale, di curatore di una parte ovvero di testimone, perito, consulente tecnico o ha proposto denuncia, querela, istanza o richiesta o ha deliberato o ha concorso a deliberare l'autorizzazione a procedere non può esercitare nel medesimo procedimento l'ufficio di giudice.
+3\. Chi ha esercitato funzioni di pubblico ministero o ha svolto atti di polizia giudiziaria o ha prestato ufficio di difensore, di procuratore speciale, di curatore di una parte ovvero di testimone, perito, consulente tecnico o ha proposto denuncia, querela, istanza o richiesta o ha deliberato o ha concorso a deliberare l'autorizzazione a procedere non può esercitare nel medesimo procedimento l'ufficio di giudice.
 
 [^agg-13]: *AGGIORNAMENTO (13)* La Corte Costituzionale, con sentenza 15 - 26 ottobre 1990, n. 496 (in G.U. 1a s.s. 31/10/1990, n. 43), ha dichiarato "l' illegittimità costituzionale dell'[art. 34, secondo comma, del codice di procedura penale](art-34-cpp.md), nella parte in cui non prevede che non possa partecipare al successivo giudizio abbreviato il giudice per le indagini preliminari presso la Pretura che abbia emesso l'ordinanza di cui all'[art. 554](../../../08%20-%20Libro%20VIII%20-%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSIZIONE%20MONOCRATICA/02%20-%20Titolo%20II%20-%20CITAZIONE%20DIRETTA%20A%20GIUDIZIO/art-554-cpp.md), secondo comma, del medesimo codice."
 

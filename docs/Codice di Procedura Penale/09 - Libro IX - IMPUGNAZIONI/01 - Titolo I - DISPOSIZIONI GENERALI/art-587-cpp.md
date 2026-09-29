@@ -20,10 +20,10 @@ ordine: 705
 
 # Art. 587 - ***Estensione dell'impugnazione***
 
-1. Nel caso di concorso di più persone in uno stesso reato, l'impugnazione proposta da uno degli imputati, purchè non fondata su motivi esclusivamente personali, giova anche agli altri imputati.
+1\. Nel caso di concorso di più persone in uno stesso reato, l'impugnazione proposta da uno degli imputati, purchè non fondata su motivi esclusivamente personali, giova anche agli altri imputati.
 
-2. Nel caso di riunione di procedimenti per reati diversi, l'impugnazione proposta da un imputato giova a tutti gli altri imputati soltanto se i motivi riguardano violazioni della legge processuale e non sono esclusivamente personali.
+2\. Nel caso di riunione di procedimenti per reati diversi, l'impugnazione proposta da un imputato giova a tutti gli altri imputati soltanto se i motivi riguardano violazioni della legge processuale e non sono esclusivamente personali.
 
-3. L'impugnazione proposta dall'imputato giova anche al responsabile civile e alla persona civilmente obbligata per la pena pecuniaria.
+3\. L'impugnazione proposta dall'imputato giova anche al responsabile civile e alla persona civilmente obbligata per la pena pecuniaria.
 
-4. L'impugnazione proposta dal responsabile civile o dalla persona civilmente obbligata per la pena pecuniaria giova all'imputato anche agli effetti penali, purchè non sia fondata su motivi esclusivamente personali.
+4\. L'impugnazione proposta dal responsabile civile o dalla persona civilmente obbligata per la pena pecuniaria giova all'imputato anche agli effetti penali, purchè non sia fondata su motivi esclusivamente personali.

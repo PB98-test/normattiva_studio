@@ -20,8 +20,8 @@ ordine: 124
 
 # Art. 116-bis - ***Rete dell'Unione europea delle patenti di guida***
 
-1. Lo scambio di informazioni con gli altri Stati dell'Unione europea e dello Spazio economico europeo, relative al rilascio, alla conversione, ai duplicati, ai rinnovi di validità e alle revoche delle patenti avviene mediante la rete dell'Unione europea delle patenti di guida, di seguito "rete".
+1\. Lo scambio di informazioni con gli altri Stati dell'Unione europea e dello Spazio economico europeo, relative al rilascio, alla conversione, ai duplicati, ai rinnovi di validità e alle revoche delle patenti avviene mediante la rete dell'Unione europea delle patenti di guida, di seguito "rete".
 
-2. La rete può essere utilizzata anche per lo scambio di informazioni per finalità di controllo previste dalla legislazione dell'Unione.
+2\. La rete può essere utilizzata anche per lo scambio di informazioni per finalità di controllo previste dalla legislazione dell'Unione.
 
-3. L'accesso alla rete è protetto. Lo scambio di informazioni sulla rete dell'Unione europea si conforma alle norme vigenti in materia di protezione dei dati personali e l'accesso alla stessa è consentita esclusivamente alle autorità competenti responsabili per il rilascio, la gestione ed il controllo e delle patenti di guida e delle qualificazioni dei conducenti professionali.
+3\. L'accesso alla rete è protetto. Lo scambio di informazioni sulla rete dell'Unione europea si conforma alle norme vigenti in materia di protezione dei dati personali e l'accesso alla stessa è consentita esclusivamente alle autorità competenti responsabili per il rilascio, la gestione ed il controllo e delle patenti di guida e delle qualificazioni dei conducenti professionali.

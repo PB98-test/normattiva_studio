@@ -20,4 +20,4 @@ ordine: 114
 
 # Art. 94 - ***Termine per l'intervento***
 
-1. Gli enti e le associazioni rappresentativi di interessi lesi dal reato possono intervenire nel procedimento fino a che non siano compiuti gli adempimenti previsti dall'[articolo 484](../../07%20-%20Libro%20VII%20-%20GIUDIZIO/02%20-%20Titolo%20II%20-%20DIBATTIMENTO/02%20-%20Capo%20II%20-%20ATTI%20INTRODUTTIVI/art-484-cpp.md).
+1\. Gli enti e le associazioni rappresentativi di interessi lesi dal reato possono intervenire nel procedimento fino a che non siano compiuti gli adempimenti previsti dall'[articolo 484](../../07%20-%20Libro%20VII%20-%20GIUDIZIO/02%20-%20Titolo%20II%20-%20DIBATTIMENTO/02%20-%20Capo%20II%20-%20ATTI%20INTRODUTTIVI/art-484-cpp.md).

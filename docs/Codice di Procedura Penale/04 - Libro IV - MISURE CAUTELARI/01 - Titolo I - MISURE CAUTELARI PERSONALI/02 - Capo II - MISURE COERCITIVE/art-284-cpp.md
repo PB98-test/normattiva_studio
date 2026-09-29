@@ -20,19 +20,19 @@ ordine: 339
 
 # Art. 284 - ***Arresti domiciliari***
 
-1. Con il provvedimento che dispone gli arresti domiciliari, il giudice prescrive all'imputato di non allontanarsi dalla propria abitazione o da altro luogo di privata dimora ovvero da un luogo pubblico di cura o di assistenza ovvero, ove istituita, da una casa famiglia protetta. [^agg-181a]
+1\. Con il provvedimento che dispone gli arresti domiciliari, il giudice prescrive all'imputato di non allontanarsi dalla propria abitazione o da altro luogo di privata dimora ovvero da un luogo pubblico di cura o di assistenza ovvero, ove istituita, da una casa famiglia protetta. [^agg-181a]
 
 1-bis. Il giudice dispone il luogo degli arresti domiciliari in modo da assicurare comunque le prioritarie esigenze di tutela della persona offesa dal reato.
 
 1-ter. La misura cautelare degli arresti domiciliari non può essere eseguita presso un immobile occupato abusivamente
 
-2. Quando è necessario, il giudice impone limiti o divieti alla facoltà dell'imputato di comunicare con persone diverse da quelle che con lui coabitano o che lo assistono.
+2\. Quando è necessario, il giudice impone limiti o divieti alla facoltà dell'imputato di comunicare con persone diverse da quelle che con lui coabitano o che lo assistono.
 
-3. Se l'imputato non può altrimenti provvedere alle sue indispensabili esigenze di vita ovvero versa in situazione di assoluta indigenza, il giudice può autorizzarlo ad assentarsi nel corso della giornata dal luogo di arresto per il tempo strettamente necessario per provvedere alle suddette esigenze ovvero per esercitare una attività lavorativa.
+3\. Se l'imputato non può altrimenti provvedere alle sue indispensabili esigenze di vita ovvero versa in situazione di assoluta indigenza, il giudice può autorizzarlo ad assentarsi nel corso della giornata dal luogo di arresto per il tempo strettamente necessario per provvedere alle suddette esigenze ovvero per esercitare una attività lavorativa.
 
-4. Il pubblico ministero o la polizia giudiziaria, anche di propria iniziativa, possono controllare in ogni momento l'osservanza delle prescrizioni imposte all'imputato.
+4\. Il pubblico ministero o la polizia giudiziaria, anche di propria iniziativa, possono controllare in ogni momento l'osservanza delle prescrizioni imposte all'imputato.
 
-5. L'imputato agli arresti domiciliari si considera in stato di custodia cautelare.
+5\. L'imputato agli arresti domiciliari si considera in stato di custodia cautelare.
 
 5-bis. Non possono essere, comunque, concessi gli arresti domiciliari a chi sia stato condannato per il reato di evasione nei cinque anni precedenti al fatto per il quale si procede, salvo che il giudice ritenga, sulla base di specifici elementi, che il fatto sia di lieve entità e che le esigenze cautelari possano essere soddisfatte con tale misura. A tale fine il giudice assume nelle forme più rapide le relative notizie.
 

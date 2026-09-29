@@ -20,7 +20,7 @@ ordine: 443
 
 # Art. 372 - ***Avocazione delle indagini***
 
-1. Il procuratore generale presso la corte di appello dispone con decreto motivato, e assunte, quando occorre, le necessarie informazioni, l'avocazione delle indagini preliminari quando:
+1\. Il procuratore generale presso la corte di appello dispone con decreto motivato, e assunte, quando occorre, le necessarie informazioni, l'avocazione delle indagini preliminari quando:
 
 - a) in conseguenza dell'astensione o della incompatibilità del magistrato designato non è possibile provvedere alla sua tempestiva sostituzione;
 - b) il capo dell'ufficio del pubblico ministero ha omesso di provvedere alla tempestiva sostituzione del magistrato designato per le indagini nei casi previsti dall'[articolo 36](../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/07%20-%20Capo%20VII%20-%20INCOMPATIBILITÀ,%20ASTENSIONE%20E%20RICUSAZIONE%20DEL%20GIUDICE/art-36-cpp.md) comma 1 lettere a) , b), d) , e).

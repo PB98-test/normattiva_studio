@@ -20,4 +20,4 @@ ordine: 275
 
 # Art. 237 - ***Acquisizione di documenti provenienti dall'imputato***
 
-1. È consentita l'acquisizione, anche di ufficio, di qualsiasi documento proveniente dall'imputato, anche se sequestrato presso altri o da altri prodotto.
+1\. È consentita l'acquisizione, anche di ufficio, di qualsiasi documento proveniente dall'imputato, anche se sequestrato presso altri o da altri prodotto.

@@ -20,4 +20,4 @@ ordine: 331
 
 # Art. 279 - ***Giudice competente***
 
-1. Sull'applicazione e sulla revoca delle misure nonchè sulle modifiche delle loro modalità esecutive, provvede il giudice che procede. Prima dell'esercizio dell'azione penale provvede il giudice per le indagini preliminari.
+1\. Sull'applicazione e sulla revoca delle misure nonchè sulle modifiche delle loro modalità esecutive, provvede il giudice che procede. Prima dell'esercizio dell'azione penale provvede il giudice per le indagini preliminari.

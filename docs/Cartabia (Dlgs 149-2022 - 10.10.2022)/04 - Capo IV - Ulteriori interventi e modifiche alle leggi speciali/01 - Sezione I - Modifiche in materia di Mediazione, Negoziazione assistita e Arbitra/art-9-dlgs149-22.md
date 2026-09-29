@@ -20,7 +20,7 @@ ordine: 9
 
 # Art. 9 - ***Modifiche al decreto-legge 12 settembre 2014, n. 132, convertito, con modificazioni, dalla legge 10 novembre 2014, n. 162***
 
-1. Al decreto-legge 12 settembre 2014, n. 132, convertito, con modificazioni, dalla legge 10 novembre 2014, n. 162, sono apportate le seguenti modificazioni:
+1\. Al decreto-legge 12 settembre 2014, n. 132, convertito, con modificazioni, dalla legge 10 novembre 2014, n. 162, sono apportate le seguenti modificazioni:
 
 - a) alla rubrica del Capo II, le parole «uno o più» sono soppresse;
 - b) dopo il Capo II, è inserita la seguente Sezione: «Sezione I Della procedura di negoziazione assistita»;

@@ -20,6 +20,6 @@ ordine: 16
 
 # Art. 16
 
-1. La tabella A allegata al regio decreto 30 gennaio 1941, n. 12 è modificata, relativamente ai comuni compresi in ciascun circondario, dalla tabella A allegata al presente decreto.
+1\. La tabella A allegata al regio decreto 30 gennaio 1941, n. 12 è modificata, relativamente ai comuni compresi in ciascun circondario, dalla tabella A allegata al presente decreto.
 
-2. La tabella B allegata al regio decreto 30 gennaio 1941, n. 12 è sostituita dalla tabella B allegata al presente decreto.
+2\. La tabella B allegata al regio decreto 30 gennaio 1941, n. 12 è sostituita dalla tabella B allegata al presente decreto.

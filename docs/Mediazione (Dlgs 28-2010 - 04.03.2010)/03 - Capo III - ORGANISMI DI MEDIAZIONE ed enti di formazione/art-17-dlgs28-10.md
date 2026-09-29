@@ -20,15 +20,15 @@ ordine: 37
 
 # Art. 17 - ***Risorse, regime tributario e indennità***
 
-1. Tutti gli atti, documenti e provvedimenti relativi al procedimento di mediazione sono esenti dall'imposta di bollo e da ogni spesa, tassa o diritto di qualsiasi specie e natura.
+1\. Tutti gli atti, documenti e provvedimenti relativi al procedimento di mediazione sono esenti dall'imposta di bollo e da ogni spesa, tassa o diritto di qualsiasi specie e natura.
 
-2. Il verbale e l'accordo di conciliazione sono esenti dall'imposta di registro entro il limite di valore di centomila euro, altrimenti l'imposta è dovuta per la parte eccedente.
+2\. Il verbale e l'accordo di conciliazione sono esenti dall'imposta di registro entro il limite di valore di centomila euro, altrimenti l'imposta è dovuta per la parte eccedente.
 
-3. Ciascuna parte, al momento della presentazione della domanda di mediazione o al momento dell'adesione, corrisponde all'organismo, oltre alle spese documentate, un importo a titolo di indennità comprendente le spese di avvio e le spese di mediazione per lo svolgimento del primo incontro. Quando la mediazione si conclude senza l'accordo al primo incontro, le parti non sono tenute a corrispondere importi ulteriori.
+3\. Ciascuna parte, al momento della presentazione della domanda di mediazione o al momento dell'adesione, corrisponde all'organismo, oltre alle spese documentate, un importo a titolo di indennità comprendente le spese di avvio e le spese di mediazione per lo svolgimento del primo incontro. Quando la mediazione si conclude senza l'accordo al primo incontro, le parti non sono tenute a corrispondere importi ulteriori.
 
-4. Il regolamento dell'organismo di mediazione indica le ulteriori spese di mediazione dovute dalle parti per la conclusione dell'accordo di conciliazione e per gli incontri successivi al primo.
+4\. Il regolamento dell'organismo di mediazione indica le ulteriori spese di mediazione dovute dalle parti per la conclusione dell'accordo di conciliazione e per gli incontri successivi al primo.
 
-5. Con il decreto di cui all'[articolo 16](art-16-dlgs28-10.md), comma 2, sono determinati:
+5\. Con il decreto di cui all'[articolo 16](art-16-dlgs28-10.md), comma 2, sono determinati:
 
 - a) l'ammontare minimo e massimo delle indennità spettanti agli organismi pubblici, il criterio di calcolo e le modalità di ripartizione tra le parti;
 - b) i criteri per l'approvazione delle tabelle delle indennità proposte dagli organismi costituiti da enti privati;
@@ -37,13 +37,13 @@ ordine: 37
 - e) le riduzioni minime delle indennità dovute nelle ipotesi in cui la mediazione è condizione di procedibilità ai sensi dell'[articolo 5](../02%20-%20Capo%20II%20-%20DEL%20PROCEDIMENTO%20DI%20MEDIAZIONE/art-5-dlgs28-10.md), comma 1, ovvero è demandata dal giudice;
 - f) i criteri per la determinazione del valore dell'accordo di conciliazione ai sensi dell'[articolo 11](../02%20-%20Capo%20II%20-%20DEL%20PROCEDIMENTO%20DI%20MEDIAZIONE/art-11-dlgs28-10.md), comma 3.
 
-6. Quando la mediazione è condizione di procedibilità della domanda giudiziale ai sensi dell'[articolo 5](../02%20-%20Capo%20II%20-%20DEL%20PROCEDIMENTO%20DI%20MEDIAZIONE/art-5-dlgs28-10.md), comma 1, ovvero dell'[articolo 5-quater](../02%20-%20Capo%20II%20-%20DEL%20PROCEDIMENTO%20DI%20MEDIAZIONE/art-5-quater-dlgs28-10.md), comma 2, all'organismo non è dovuta alcuna indennità dalla parte ammessa al patrocinio a spese dello Stato.
+6\. Quando la mediazione è condizione di procedibilità della domanda giudiziale ai sensi dell'[articolo 5](../02%20-%20Capo%20II%20-%20DEL%20PROCEDIMENTO%20DI%20MEDIAZIONE/art-5-dlgs28-10.md), comma 1, ovvero dell'[articolo 5-quater](../02%20-%20Capo%20II%20-%20DEL%20PROCEDIMENTO%20DI%20MEDIAZIONE/art-5-quater-dlgs28-10.md), comma 2, all'organismo non è dovuta alcuna indennità dalla parte ammessa al patrocinio a spese dello Stato.
 
-7. Il Ministero della giustizia provvede, nell'ambito delle proprie attività istituzionali, al monitoraggio delle mediazioni concernenti i soggetti esonerati dal pagamento dell'indennità di mediazione.
+7\. Il Ministero della giustizia provvede, nell'ambito delle proprie attività istituzionali, al monitoraggio delle mediazioni concernenti i soggetti esonerati dal pagamento dell'indennità di mediazione.
 
-8. L'ammontare dell'indennità può essere rideterminato ogni tre anni in relazione alla variazione, accertata dall'Istituto nazionale di statistica, dell'indice dei prezzi al consumo per le famiglie di operai e impiegati, verificatasi nel triennio precedente.
+8\. L'ammontare dell'indennità può essere rideterminato ogni tre anni in relazione alla variazione, accertata dall'Istituto nazionale di statistica, dell'indice dei prezzi al consumo per le famiglie di operai e impiegati, verificatasi nel triennio precedente.
 
-9. Agli oneri per l'attuazione delle disposizioni di cui ai commi 1 e 2, valutati in 5,9 milioni di euro per l'anno 2010, in 7,018 milioni di euro per gli anni dal 2011 al 2022 e in 13,098 milioni di euro a decorrere dall'anno 2023, si provvede:
+9\. Agli oneri per l'attuazione delle disposizioni di cui ai commi 1 e 2, valutati in 5,9 milioni di euro per l'anno 2010, in 7,018 milioni di euro per gli anni dal 2011 al 2022 e in 13,098 milioni di euro a decorrere dall'anno 2023, si provvede:
 
 - a) quanto a 5,9 milioni di euro per l'anno 2010 e 7,018 milioni di euro a decorrere dall'anno 2011 mediante corrispondente riduzione della quota delle risorse del «Fondo unico giustizia» di cui all'articolo 2, comma 7, lettera b) del decreto-legge 16 settembre 2008, n. 143, convertito, con modificazioni, dalla legge 13 novembre 2008, n. 181, che, a tale fine, resta acquisita all'entrata del bilancio dello Stato;
 - b) quanto a 6,08 milioni di euro annui a decorrere dall'anno 2023, mediante corrispondente riduzione del Fondo per l'attuazione della delega per l'efficienza del processo civile di cui all'articolo 1, comma 39, della legge 26 novembre 2021, n. 206. [^agg-9] [^agg-10]

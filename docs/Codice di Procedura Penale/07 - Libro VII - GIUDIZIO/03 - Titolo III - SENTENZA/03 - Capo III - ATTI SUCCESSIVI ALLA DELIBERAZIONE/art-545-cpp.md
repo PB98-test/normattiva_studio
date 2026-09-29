@@ -20,8 +20,8 @@ ordine: 655
 
 # Art. 545 - ***Pubblicazione della sentenza***
 
-1. La sentenza è pubblicata in udienza dal presidente o da un giudice del collegio mediante la lettura del dispositivo.
+1\. La sentenza è pubblicata in udienza dal presidente o da un giudice del collegio mediante la lettura del dispositivo.
 
-2. La lettura della motivazione redatta a norma dell'[articolo 544](art-544-cpp.md) comma 1, segue quella del dispositivo e può essere sostituita con un'esposizione riassuntiva.
+2\. La lettura della motivazione redatta a norma dell'[articolo 544](art-544-cpp.md) comma 1, segue quella del dispositivo e può essere sostituita con un'esposizione riassuntiva.
 
-3. La pubblicazione prevista dal comma 2 equivale a notificazione della sentenza per le parti che sono o devono considerarsi presenti all'udienza.
+3\. La pubblicazione prevista dal comma 2 equivale a notificazione della sentenza per le parti che sono o devono considerarsi presenti all'udienza.

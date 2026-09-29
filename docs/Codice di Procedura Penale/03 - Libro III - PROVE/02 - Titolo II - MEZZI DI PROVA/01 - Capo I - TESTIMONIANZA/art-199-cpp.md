@@ -20,11 +20,11 @@ ordine: 234
 
 # Art. 199 - ***Facoltà di astensione dei prossimi congiunti***
 
-1. I prossimi congiunti dell'imputato non sono obbligati a deporre. Devono tuttavia deporre quando hanno presentato denuncia, querela o istanza ovvero essi o un loro prossimo congiunto sono offesi dal reato.
+1\. I prossimi congiunti dell'imputato non sono obbligati a deporre. Devono tuttavia deporre quando hanno presentato denuncia, querela o istanza ovvero essi o un loro prossimo congiunto sono offesi dal reato.
 
-2. Il giudice, a pena di nullità, avvisa le persone predette della facoltà di astenersi chiedendo loro se intendono avvalersene.
+2\. Il giudice, a pena di nullità, avvisa le persone predette della facoltà di astenersi chiedendo loro se intendono avvalersene.
 
-3. Le disposizioni dei commi 1 e 2 si applicano anche a chi è legato all'imputato da vincolo di adozione. Si applicano inoltre, limitatamente ai fatti verificatisi o appresi dall'imputato durante la convivenza coniugale o derivante da un'unione civile tra persone dello stesso sesso:
+3\. Le disposizioni dei commi 1 e 2 si applicano anche a chi è legato all'imputato da vincolo di adozione. Si applicano inoltre, limitatamente ai fatti verificatisi o appresi dall'imputato durante la convivenza coniugale o derivante da un'unione civile tra persone dello stesso sesso:
 
 - a) a chi, pur non essendo coniuge dell'imputato, come tale conviva o abbia convissuto con esso;
 - b) al coniuge separato dell'imputato;

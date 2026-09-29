@@ -20,6 +20,6 @@ ordine: 150
 
 # Art. 126 - ***Assistenza al giudice***
 
-1. Il giudice, in tutti gli atti ai quali procede, è assistito dall'ausiliario a ciò designato a norma dell'ordinamento, se la legge non dispone altrimenti.
+1\. Il giudice, in tutti gli atti ai quali procede, è assistito dall'ausiliario a ciò designato a norma dell'ordinamento, se la legge non dispone altrimenti.
 
 1-bis. Il giudice è supportato dall'ufficio per il processo penale nei limiti dei compiti a questo attribuiti dalla legge.

@@ -20,6 +20,6 @@ ordine: 896
 
 # Art. 741 - ***Procedimento relativo al riconoscimento delle disposizioni civili di sentenze penali straniere***
 
-1. A domanda dell'interessato, nel medesimo procedimento e con la stessa sentenza prevista dall'[articolo 734](art-734-cpp.md) possono essere dichiarate efficaci le disposizioni civili della sentenza penale straniera di condanna alle restituzioni o al risarcimento del danno.
+1\. A domanda dell'interessato, nel medesimo procedimento e con la stessa sentenza prevista dall'[articolo 734](art-734-cpp.md) possono essere dichiarate efficaci le disposizioni civili della sentenza penale straniera di condanna alle restituzioni o al risarcimento del danno.
 
-2. Negli altri casi, la domanda è proposta da chi ne ha interesse alla corte di appello nel distretto della quale le disposizioni civili della sentenza penale straniera dovrebbero essere fatte valere. Si osservano le disposizioni degli [articoli 733](art-733-cpp.md) e [734](art-734-cpp.md).
+2\. Negli altri casi, la domanda è proposta da chi ne ha interesse alla corte di appello nel distretto della quale le disposizioni civili della sentenza penale straniera dovrebbero essere fatte valere. Si osservano le disposizioni degli [articoli 733](art-733-cpp.md) e [734](art-734-cpp.md).

@@ -20,4 +20,4 @@ ordine: 198
 
 # Art. 166 - ***Notificazioni all'imputato interdetto o infermo di mente***
 
-1. Se l'imputato è interdetto, le notificazioni si eseguono a norma degli articoli precedenti e presso il tutore; se l'imputato si trova nelle condizioni previste dall'[articolo 71](../../01%20-%20Libro%20I%20-%20SOGGETTI/04%20-%20Titolo%20IV%20-%20IMPUTATO/art-71-cpp.md) comma 1, le notificazioni si eseguono a norma degli articoli precedenti e presso il curatore speciale.
+1\. Se l'imputato è interdetto, le notificazioni si eseguono a norma degli articoli precedenti e presso il tutore; se l'imputato si trova nelle condizioni previste dall'[articolo 71](../../01%20-%20Libro%20I%20-%20SOGGETTI/04%20-%20Titolo%20IV%20-%20IMPUTATO/art-71-cpp.md) comma 1, le notificazioni si eseguono a norma degli articoli precedenti e presso il curatore speciale.

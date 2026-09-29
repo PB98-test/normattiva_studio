@@ -20,7 +20,7 @@ ordine: 619
 
 # Art. 512 - ***Lettura di atti per sopravvenuta impossibilità di ripetizione***
 
-1. Il giudice, a richiesta di parte, dispone che sia data lettura degli atti assunti dalla polizia giudiziaria, dal pubblico ministero, dai difensori delle parti private e dal giudice nel corso della udienza preliminare quando, per fatti o circostanze imprevedibili, ne è divenuta impossibile la ripetizione. [^agg-276]
+1\. Il giudice, a richiesta di parte, dispone che sia data lettura degli atti assunti dalla polizia giudiziaria, dal pubblico ministero, dai difensori delle parti private e dal giudice nel corso della udienza preliminare quando, per fatti o circostanze imprevedibili, ne è divenuta impossibile la ripetizione. [^agg-276]
 
 1-bis. È sempre consentita la lettura dei verbali relativi all'acquisizione ed alle operazioni di distruzione degli atti di cui all'[articolo 240](../../../03%20-%20Libro%20III%20-%20PROVE/02%20-%20Titolo%20II%20-%20MEZZI%20DI%20PROVA/07%20-%20Capo%20VII%20-%20DOCUMENTI/art-240-cpp.md).
 

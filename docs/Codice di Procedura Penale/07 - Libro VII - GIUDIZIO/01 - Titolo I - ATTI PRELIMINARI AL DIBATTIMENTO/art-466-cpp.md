@@ -20,4 +20,4 @@ ordine: 571
 
 # Art. 466 - ***Facoltà dei difensori***
 
-1. Durante il termine per comparire, le parti e i loro difensori hanno facoltà di prendere visione, nel luogo dove si trovano, delle cose sequestrate, di esaminare in cancelleria gli atti e i documenti raccolti nel fascicolo per il dibattimento e di estrarne copia.
+1\. Durante il termine per comparire, le parti e i loro difensori hanno facoltà di prendere visione, nel luogo dove si trovano, delle cose sequestrate, di esaminare in cancelleria gli atti e i documenti raccolti nel fascicolo per il dibattimento e di estrarne copia.

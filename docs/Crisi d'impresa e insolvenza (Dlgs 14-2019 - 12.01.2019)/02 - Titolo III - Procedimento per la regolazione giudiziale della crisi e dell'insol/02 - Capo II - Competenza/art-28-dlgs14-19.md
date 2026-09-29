@@ -20,4 +20,4 @@ ordine: 39
 
 # Art. 28 - ***Trasferimento del centro degli interessi principali***
 
-1. Il trasferimento del centro degli interessi principali non rileva ai fini della competenza quando è intervenuto nell'anno antecedente al deposito della domanda di accesso a uno strumento di regolazione della crisi e dell'insolvenza o di apertura della liquidazione giudiziale o controllata.
+1\. Il trasferimento del centro degli interessi principali non rileva ai fini della competenza quando è intervenuto nell'anno antecedente al deposito della domanda di accesso a uno strumento di regolazione della crisi e dell'insolvenza o di apertura della liquidazione giudiziale o controllata.

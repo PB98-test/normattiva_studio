@@ -20,7 +20,7 @@ ordine: 47
 
 # Art. 37 - ***Ricusazione***
 
-1. Il giudice può essere ricusato dalle parti:
+1\. Il giudice può essere ricusato dalle parti:
 
 - a) nei casi previsti dall'[articolo 36](art-36-cpp.md) comma 1 lettere a), b), c), d), e), f), g);
 - b) se nell'esercizio delle funzioni e prima che sia pronunciata sentenza, egli ha manifestato indebitamente il proprio convincimento sui fatti oggetto dell'imputazione. (113)

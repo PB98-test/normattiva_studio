@@ -20,6 +20,6 @@ ordine: 597
 
 # Art. 492 - ***Dichiarazione di apertura del dibattimento***
 
-1. Compiute le attività indicate negli articoli 484 e seguenti, il presidente dichiara aperto il dibattimento.
+1\. Compiute le attività indicate negli articoli 484 e seguenti, il presidente dichiara aperto il dibattimento.
 
-2. L'ausiliario che assiste il giudice dà lettura dell'imputazione.
+2\. L'ausiliario che assiste il giudice dà lettura dell'imputazione.

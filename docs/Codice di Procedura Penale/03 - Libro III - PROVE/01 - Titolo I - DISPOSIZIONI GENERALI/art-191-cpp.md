@@ -20,8 +20,8 @@ ordine: 225
 
 # Art. 191 - ***Prove illegittimamente acquisite***
 
-1. Le prove acquisite in violazione dei divieti stabiliti dalla legge non possono essere utilizzate.
+1\. Le prove acquisite in violazione dei divieti stabiliti dalla legge non possono essere utilizzate.
 
-2. L'inutilizzabilità è rilevabile anche di ufficio in ogni stato e grado del procedimento.
+2\. L'inutilizzabilità è rilevabile anche di ufficio in ogni stato e grado del procedimento.
 
 2-bis. Le dichiarazioni o le informazioni ottenute mediante il delitto di tortura non sono comunque utilizzabili, salvo che contro le persone accusate di tale delitto e al solo fine di provarne la responsabilità penale

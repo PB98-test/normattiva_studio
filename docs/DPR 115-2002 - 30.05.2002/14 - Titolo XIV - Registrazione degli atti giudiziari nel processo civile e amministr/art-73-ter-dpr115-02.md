@@ -20,4 +20,4 @@ ordine: 77
 
 # Art. 73-ter - ***Procedura per la registrazione degli atti giudiziari***
 
-1. La trasmissione della sentenza all'ufficio finanziario è curata dal funzionario addetto all'ufficio del giudice dell'esecuzione)).
+1\. La trasmissione della sentenza all'ufficio finanziario è curata dal funzionario addetto all'ufficio del giudice dell'esecuzione)).

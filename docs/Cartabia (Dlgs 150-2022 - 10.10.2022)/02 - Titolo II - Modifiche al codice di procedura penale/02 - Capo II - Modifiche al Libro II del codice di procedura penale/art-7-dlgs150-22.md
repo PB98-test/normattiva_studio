@@ -20,7 +20,7 @@ ordine: 7
 
 # Art. 7 - ***Modifiche al Titolo II del Libro II del codice di procedura penale***
 
-1. Al Titolo II del Libro II del [codice di procedura penale](../../../Codice%20di%20Procedura%20Penale/00%20-%20Indice%20%28cpp%29.md) sono apportate le seguenti modificazioni:
+1\. Al Titolo II del Libro II del [codice di procedura penale](../../../Codice%20di%20Procedura%20Penale/00%20-%20Indice%20%28cpp%29.md) sono apportate le seguenti modificazioni:
 
 - a) all'articolo 125, al comma 5, secondo periodo, dopo la parola: «redatto», sono inserite le seguenti «in forma di documento analogico» e, dopo il secondo periodo, è aggiunto il seguente: «Non si applicano le disposizioni degli articoli 110, comma 4, e 111-ter, comma 3.»;
 - b) all'articolo 127, comma 3, il secondo periodo è sostituito dai seguenti: «Se l'interessato richiede di essere sentito ed è detenuto o internato in luogo posto fuori della circoscrizione del giudice, si provvede mediante collegamento a distanza, oltre che nei casi particolarmente previsti dalla legge, quando l'interessato vi consente. In caso contrario, l'interessato è sentito prima del giorno dell'udienza dal magistrato di sorveglianza del luogo.»;

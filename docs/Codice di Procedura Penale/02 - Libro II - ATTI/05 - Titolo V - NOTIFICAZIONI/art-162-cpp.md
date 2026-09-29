@@ -20,13 +20,13 @@ ordine: 194
 
 # Art. 162 - ***Comunicazione del domicilio dichiarato o del domicilio eletto***
 
-1. Il domicilio dichiarato, il domicilio eletto e ogni loro mutamento sono comunicati dall'imputato all'autorità che procede, con le modalità previste dall'[articolo 111-bis](../01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-111-bis-cpp.md) o con dichiarazione raccolta a verbale ovvero mediante telegramma o lettera raccomandata con sottoscrizione autenticata da un notaio o da persona autorizzata o dal difensore.
+1\. Il domicilio dichiarato, il domicilio eletto e ogni loro mutamento sono comunicati dall'imputato all'autorità che procede, con le modalità previste dall'[articolo 111-bis](../01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-111-bis-cpp.md) o con dichiarazione raccolta a verbale ovvero mediante telegramma o lettera raccomandata con sottoscrizione autenticata da un notaio o da persona autorizzata o dal difensore.
 
-2. La dichiarazione può essere fatta anche nella cancelleria del tribunale del luogo nel quale l'imputato si trova. [^agg-90] [^agg-90a]
+2\. La dichiarazione può essere fatta anche nella cancelleria del tribunale del luogo nel quale l'imputato si trova. [^agg-90] [^agg-90a]
 
-3. Nel caso previsto dal comma 2 il verbale è trasmesso immediatamente all'autorità giudiziaria che procede. Analogamente si provvede in tutti i casi in cui la comunicazione è ricevuta da una autorità giudiziaria che, nel frattempo, abbia trasmesso gli atti ad altra autorità.
+3\. Nel caso previsto dal comma 2 il verbale è trasmesso immediatamente all'autorità giudiziaria che procede. Analogamente si provvede in tutti i casi in cui la comunicazione è ricevuta da una autorità giudiziaria che, nel frattempo, abbia trasmesso gli atti ad altra autorità.
 
-4. Finchè l'autorità giudiziaria che procede non ha ricevuto il verbale o la comunicazione, sono valide le notificazioni disposte nel domicilio precedentemente dichiarato o eletto.
+4\. Finchè l'autorità giudiziaria che procede non ha ricevuto il verbale o la comunicazione, sono valide le notificazioni disposte nel domicilio precedentemente dichiarato o eletto.
 
 4-bis. L'elezione di domicilio presso il difensore d'ufficio non ha effetto se l'autorità che procede non riceve, unitamente alla dichiarazione di elezione, l'assenso del difensore domiciliatario. Se non presta l'assenso, il difensore attesta l'avvenuta comunicazione da parte sua all'imputato della mancata accettazione della domiciliazione o le cause che hanno impedito tale comunicazione.
 

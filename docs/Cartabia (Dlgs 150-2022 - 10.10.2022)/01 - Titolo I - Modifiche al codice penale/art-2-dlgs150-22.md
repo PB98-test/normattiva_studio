@@ -20,7 +20,7 @@ ordine: 2
 
 # Art. 2 - ***Modifiche al Libro II del codice penale***
 
-1. Al Libro II del [codice penale](../../Codice%20Penale/00%20-%20Indice%20%28cp%29.md) sono apportate le seguenti modificazioni:
+1\. Al Libro II del [codice penale](../../Codice%20Penale/00%20-%20Indice%20%28cp%29.md) sono apportate le seguenti modificazioni:
 
 - a) all'articolo 388-ter: 1) nella rubrica, la parola: «dolosa» è sostituita dalla seguente: «fraudolenta»; 2) al primo comma, le parole: «contenuta nel precetto» sono soppresse;
 - b) all'articolo 582: 1) al primo comma, dopo le parole: «è punito» sono inserite le seguenti: «, a querela della persona offesa,»; 2) il secondo comma è sostituito dal seguente: «Si procede tuttavia d'ufficio se ricorre taluna delle circostanze aggravanti previste negli articoli 61, numero 11-octies), 583 e 585, ad eccezione di quelle indicate nel primo comma, numero 1), e nel secondo comma dell'articolo 577. Si procede altresì d'ufficio se la malattia ha una durata superiore a venti giorni quando il fatto è commesso contro persona incapace, per età o per infermità.»;

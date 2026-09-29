@@ -20,4 +20,4 @@ ordine: 633
 
 # Art. 524 - ***Chiusura del dibattimento***
 
-1. Esaurita la discussione, il presidente dichiara chiuso il dibattimento.
+1\. Esaurita la discussione, il presidente dichiara chiuso il dibattimento.

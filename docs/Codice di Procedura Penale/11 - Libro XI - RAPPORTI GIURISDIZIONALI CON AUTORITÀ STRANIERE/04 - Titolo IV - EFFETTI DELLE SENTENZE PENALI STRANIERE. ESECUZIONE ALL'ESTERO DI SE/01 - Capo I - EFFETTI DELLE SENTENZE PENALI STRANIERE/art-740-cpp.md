@@ -20,6 +20,6 @@ ordine: 893
 
 # Art. 740 - ***Esecuzione della pena pecuniaria e devoluzione di cose confiscate***
 
-1. La somma ricavata dall'esecuzione della pena pecuniaria è versata alla cassa delle ammende; è invece versata allo stato di condanna, a sua richiesta, qualora quest'ultimo stato nelle medesime circostanze provvederebbe al versamento a favore dello Stato italiano.
+1\. La somma ricavata dall'esecuzione della pena pecuniaria è versata alla cassa delle ammende; è invece versata allo stato di condanna, a sua richiesta, qualora quest'ultimo stato nelle medesime circostanze provvederebbe al versamento a favore dello Stato italiano.
 
-2. Le cose confiscate sono devolute allo Stato. Esse sono invece devolute, a sua richiesta, allo stato nel quale è stata pronunciata la sentenza riconosciuta, qualora quest'ultimo stato nelle medesime circostanze provvederebbe alla devoluzione allo Stato italiano.
+2\. Le cose confiscate sono devolute allo Stato. Esse sono invece devolute, a sua richiesta, allo stato nel quale è stata pronunciata la sentenza riconosciuta, qualora quest'ultimo stato nelle medesime circostanze provvederebbe alla devoluzione allo Stato italiano.

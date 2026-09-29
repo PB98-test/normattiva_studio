@@ -20,6 +20,6 @@ ordine: 252
 
 # Art. 216 - ***Altre ricognizioni***
 
-1. Quando dispone la ricognizione di voci, suoni o di quanto altro può essere oggetto di percezione sensoriale, il giudice procede osservando le disposizioni dell'[articolo 213](art-213-cpp.md), in quanto applicabili.
+1\. Quando dispone la ricognizione di voci, suoni o di quanto altro può essere oggetto di percezione sensoriale, il giudice procede osservando le disposizioni dell'[articolo 213](art-213-cpp.md), in quanto applicabili.
 
-2. Si applicano le disposizioni dell'[articolo 214](art-214-cpp.md) comma 3.
+2\. Si applicano le disposizioni dell'[articolo 214](art-214-cpp.md) comma 3.

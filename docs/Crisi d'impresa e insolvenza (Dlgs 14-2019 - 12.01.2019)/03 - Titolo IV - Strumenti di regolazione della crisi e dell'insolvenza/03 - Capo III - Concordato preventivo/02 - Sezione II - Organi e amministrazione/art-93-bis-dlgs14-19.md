@@ -20,6 +20,6 @@ ordine: 108
 
 # Art. 93-bis - ***(Reclami).***
 
-1. I decreti del giudice delegato e del tribunale sono reclamabili ai sensi dell'articolo 124.
+1\. I decreti del giudice delegato e del tribunale sono reclamabili ai sensi dell'articolo 124.
 
-2. Gli atti e le omissioni del commissario o del liquidatore giudiziale sono reclamabili ai sensi dell'articolo 133, sostituito al curatore il commissario o il liquidatore giudiziale.
+2\. Gli atti e le omissioni del commissario o del liquidatore giudiziale sono reclamabili ai sensi dell'articolo 133, sostituito al curatore il commissario o il liquidatore giudiziale.

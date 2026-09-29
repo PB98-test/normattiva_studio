@@ -20,4 +20,4 @@ ordine: 56
 
 # Art. 55
 
-1. Nel sesto e nel [settimo comma dell'articolo 40 del codice di procedura civile](../../../Codice%20di%20Procedura%20Civile/01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/05%20-%20Sezione%20V%20-%20Del%20difetto%20di%20giurisdizione,%20della%20incompetenza%20e%20della%20litispenden/art-40-cpc.md) sono soppresse, dove ricorrono, le parole "del pretore o" e "al pretore o".
+1\. Nel sesto e nel [settimo comma dell'articolo 40 del codice di procedura civile](../../../Codice%20di%20Procedura%20Civile/01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/05%20-%20Sezione%20V%20-%20Del%20difetto%20di%20giurisdizione,%20della%20incompetenza%20e%20della%20litispenden/art-40-cpc.md) sono soppresse, dove ricorrono, le parole "del pretore o" e "al pretore o".

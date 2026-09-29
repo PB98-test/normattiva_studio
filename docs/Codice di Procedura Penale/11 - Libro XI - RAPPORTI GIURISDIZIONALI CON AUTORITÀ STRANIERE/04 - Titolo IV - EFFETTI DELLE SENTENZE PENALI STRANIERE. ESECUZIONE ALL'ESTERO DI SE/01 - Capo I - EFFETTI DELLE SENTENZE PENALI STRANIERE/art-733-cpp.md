@@ -20,7 +20,7 @@ ordine: 883
 
 # Art. 733 - ***Presupposti del riconoscimento***
 
-1. La sentenza straniera non può essere riconosciuta se:
+1\. La sentenza straniera non può essere riconosciuta se:
 
 - a) la sentenza non è divenuta irrevocabile per le leggi dello stato in cui è stata pronunciata;
 - b) la sentenza contiene disposizioni contrarie ai principi fondamentali dell'ordinamento giuridico dello Stato , ovvero quando le condizioni poste dallo Stato straniero per l'esecuzione della sentenza della quale è chiesto il riconoscimento sono contrarie a tali principi;

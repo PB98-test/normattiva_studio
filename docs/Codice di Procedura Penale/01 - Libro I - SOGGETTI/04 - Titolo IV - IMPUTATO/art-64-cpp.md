@@ -20,11 +20,11 @@ ordine: 77
 
 # Art. 64 - ***Regole generali per l'interrogatorio***
 
-1. La persona sottoposta alle indagini, anche se in stato di custodia cautelare o se detenuta per altra causa, interviene libera all'interrogatorio, salve le cautele necessarie per prevenire il pericolo di fuga o di violenze.
+1\. La persona sottoposta alle indagini, anche se in stato di custodia cautelare o se detenuta per altra causa, interviene libera all'interrogatorio, salve le cautele necessarie per prevenire il pericolo di fuga o di violenze.
 
-2. Non possono essere utilizzati, neppure con il consenso della persona interrogata, metodi o tecniche idonei a influire sulla libertà di autodeterminazione o ad alterare la capacità di ricordare e di valutare i fatti.
+2\. Non possono essere utilizzati, neppure con il consenso della persona interrogata, metodi o tecniche idonei a influire sulla libertà di autodeterminazione o ad alterare la capacità di ricordare e di valutare i fatti.
 
-3. Prima che abbia inizio l'interrogatorio, la persona deve essere avvertita che:
+3\. Prima che abbia inizio l'interrogatorio, la persona deve essere avvertita che:
 
 - a)le sue dichiarazioni potranno sempre essere utilizzate nei suoi confronti;
 - b) salvo quanto disposto dall'[articolo 66](art-66-cpp.md), comma 1, ha facoltà di non rispondere ad alcuna domanda, ma comunque il procedimento seguirà il suo corso;

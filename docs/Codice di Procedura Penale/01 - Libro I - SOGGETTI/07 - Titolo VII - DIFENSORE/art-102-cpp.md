@@ -20,6 +20,6 @@ ordine: 122
 
 # Art. 102 - ***Sostituto del difensore***
 
-1. Il difensore di fiducia e il difensore d'ufficio possono nominare un sostituto
+1\. Il difensore di fiducia e il difensore d'ufficio possono nominare un sostituto
 
-2. Il sostituto esercita i diritti e assume i doveri del difensore.
+2\. Il sostituto esercita i diritti e assume i doveri del difensore.

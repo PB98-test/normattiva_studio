@@ -20,4 +20,4 @@ ordine: 132
 
 # Art. 107-ter - ***Assistenza dell'interprete per la proposizione o presentazione di denuncia o querela***
 
-1. La persona offesa che non conosce la lingua italiana, se presenta denuncia o propone querela dinnanzi alla procura della Repubblica presso il tribunale del capoluogo del distretto, ha diritto di utilizzare una lingua a lei conosciuta. Negli stessi casi ha diritto di ottenere, previa richiesta, la traduzione in una lingua a lei conosciuta dell'attestazione di ricezione della denuncia o della querela.
+1\. La persona offesa che non conosce la lingua italiana, se presenta denuncia o propone querela dinnanzi alla procura della Repubblica presso il tribunale del capoluogo del distretto, ha diritto di utilizzare una lingua a lei conosciuta. Negli stessi casi ha diritto di ottenere, previa richiesta, la traduzione in una lingua a lei conosciuta dell'attestazione di ricezione della denuncia o della querela.

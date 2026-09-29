@@ -20,6 +20,6 @@ ordine: 168
 
 # Art. 141 - ***Dichiarazioni orali delle parti***
 
-1. Quando la legge non impone la forma scritta, le parti possono fare, personalmente o a mezzo di procuratore speciale, richieste o dichiarazioni orali attinenti al procedimento. In tal caso l'ausiliario che assiste il giudice redige il verbale e cura la registrazione delle dichiarazioni a norma degli articoli precedenti. Al verbale è unita, se ne è il caso, la procura speciale.
+1\. Quando la legge non impone la forma scritta, le parti possono fare, personalmente o a mezzo di procuratore speciale, richieste o dichiarazioni orali attinenti al procedimento. In tal caso l'ausiliario che assiste il giudice redige il verbale e cura la registrazione delle dichiarazioni a norma degli articoli precedenti. Al verbale è unita, se ne è il caso, la procura speciale.
 
-2. Alla parte che lo richiede è rilasciata, a sue spese, una certificazione ovvero una copia delle dichiarazioni rese.
+2\. Alla parte che lo richiede è rilasciata, a sue spese, una certificazione ovvero una copia delle dichiarazioni rese.

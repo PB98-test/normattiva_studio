@@ -20,27 +20,27 @@ ordine: 7
 
 # Art. 7 - ***Procedimento applicativo***
 
-1. Il tribunale provvede, con decreto motivato, entro trenta giorni dal deposito della proposta. L'udienza si svolge senza la presenza del pubblico. Il presidente dispone che il procedimento si svolga in pubblica udienza quando l'interessato ne faccia richiesta.
+1\. Il tribunale provvede, con decreto motivato, entro trenta giorni dal deposito della proposta. L'udienza si svolge senza la presenza del pubblico. Il presidente dispone che il procedimento si svolga in pubblica udienza quando l'interessato ne faccia richiesta.
 
-2. Il presidente fissa la data dell'udienza e ne fa dare avviso alle parti, alle altre persone interessate e ai difensori. L'avviso è comunicato o notificato almeno dieci giorni prima della data predetta e contiene la concisa esposizione dei contenuti della proposta. Se l'interessato è privo di difensore, l'avviso è dato a quello di ufficio. [^agg-20]
+2\. Il presidente fissa la data dell'udienza e ne fa dare avviso alle parti, alle altre persone interessate e ai difensori. L'avviso è comunicato o notificato almeno dieci giorni prima della data predetta e contiene la concisa esposizione dei contenuti della proposta. Se l'interessato è privo di difensore, l'avviso è dato a quello di ufficio. [^agg-20]
 
-3. Fino a cinque giorni prima dell'udienza possono essere presentate memorie in cancelleria.
+3\. Fino a cinque giorni prima dell'udienza possono essere presentate memorie in cancelleria.
 
-4. L'udienza si svolge con la partecipazione necessaria del difensore e del pubblico ministero. Gli altri destinatari dell'avviso sono sentiti se compaiono. Se l'interessato è detenuto o internato in luogo posto fuori della circoscrizione del giudice e ne fa tempestiva richiesta, la partecipazione all'udienza è assicurata a distanza mediante collegamento audiovisivo ai sensi dell'articolo 146-bis, commi 3, 4, 5, 6 e 7, delle norme di attuazione, di coordinamento e transitorie del [codice di procedura penale](../../../../../Codice%20di%20Procedura%20Penale/00%20-%20Indice%20%28cpp%29.md), di cui al [decreto legislativo 28 luglio 1989, n. 271](../../../../../Disp.%20att.%20cpp%20%28Dlgs%20271-1989%20-%2028.07.1989%29/00%20-%20Indice%20%28dlgs271-89%29.md), salvo che il collegio ritenga necessaria la presenza della parte. Il presidente dispone altresì la traduzione dell'interessato detenuto o internato in caso di indisponibilità di mezzi tecnici idonei.
+4\. L'udienza si svolge con la partecipazione necessaria del difensore e del pubblico ministero. Gli altri destinatari dell'avviso sono sentiti se compaiono. Se l'interessato è detenuto o internato in luogo posto fuori della circoscrizione del giudice e ne fa tempestiva richiesta, la partecipazione all'udienza è assicurata a distanza mediante collegamento audiovisivo ai sensi dell'articolo 146-bis, commi 3, 4, 5, 6 e 7, delle norme di attuazione, di coordinamento e transitorie del [codice di procedura penale](../../../../../Codice%20di%20Procedura%20Penale/00%20-%20Indice%20%28cpp%29.md), di cui al [decreto legislativo 28 luglio 1989, n. 271](../../../../../Disp.%20att.%20cpp%20%28Dlgs%20271-1989%20-%2028.07.1989%29/00%20-%20Indice%20%28dlgs271-89%29.md), salvo che il collegio ritenga necessaria la presenza della parte. Il presidente dispone altresì la traduzione dell'interessato detenuto o internato in caso di indisponibilità di mezzi tecnici idonei.
 
 4-bis. Il tribunale, dopo l'accertamento della regolare costituzione delle parti, ammette le prove rilevanti, escludendo quelle vietate dalla legge o superflue.
 
-5. L'udienza è rinviata se sussiste un legittimo impedimento dell'interessato che ha chiesto di essere sentito personalmente e che non sia detenuto o internato in luogo diverso da quello in cui ha sede il giudice. L'udienza è rinviata anche se sussiste un legittimo impedimento del difensore.
+5\. L'udienza è rinviata se sussiste un legittimo impedimento dell'interessato che ha chiesto di essere sentito personalmente e che non sia detenuto o internato in luogo diverso da quello in cui ha sede il giudice. L'udienza è rinviata anche se sussiste un legittimo impedimento del difensore.
 
-6. Ove l'interessato non intervenga e occorra la sua presenza per essere sentito, il presidente lo invita a comparire, avvisandolo che avrà la facoltà di non rispondere.
+6\. Ove l'interessato non intervenga e occorra la sua presenza per essere sentito, il presidente lo invita a comparire, avvisandolo che avrà la facoltà di non rispondere.
 
-7. Le disposizioni dei commi 2, 4, primo, secondo e terzo periodo, e 5, sono previste a pena di nullità.
+7\. Le disposizioni dei commi 2, 4, primo, secondo e terzo periodo, e 5, sono previste a pena di nullità.
 
-8. Qualora il tribunale debba sentire soggetti informati su fatti rilevanti per il procedimento, il presidente del collegio può disporre l'esame a distanza nei casi e nei modi indicati all'articolo 147-bis, comma 2, delle norme di attuazione, di coordinamento e transitorie del [codice di procedura penale](../../../../../Codice%20di%20Procedura%20Penale/00%20-%20Indice%20%28cpp%29.md), di cui al [decreto legislativo 28 luglio 1989, n. 271](../../../../../Disp.%20att.%20cpp%20%28Dlgs%20271-1989%20-%2028.07.1989%29/00%20-%20Indice%20%28dlgs271-89%29.md). [^agg-24]
+8\. Qualora il tribunale debba sentire soggetti informati su fatti rilevanti per il procedimento, il presidente del collegio può disporre l'esame a distanza nei casi e nei modi indicati all'articolo 147-bis, comma 2, delle norme di attuazione, di coordinamento e transitorie del [codice di procedura penale](../../../../../Codice%20di%20Procedura%20Penale/00%20-%20Indice%20%28cpp%29.md), di cui al [decreto legislativo 28 luglio 1989, n. 271](../../../../../Disp.%20att.%20cpp%20%28Dlgs%20271-1989%20-%2028.07.1989%29/00%20-%20Indice%20%28dlgs271-89%29.md). [^agg-24]
 
-9. Per quanto non espressamente previsto dal presente decreto, si applicano, in quanto compatibili, le disposizioni contenute nell'[articolo 666 del codice di procedura penale](../../../../../Codice%20di%20Procedura%20Penale/10%20-%20Libro%20X%20-%20ESECUZIONE/03%20-%20Titolo%20III%20-%20ATTRIBUZIONI%20DEGLI%20ORGANI%20GIURISDIZIONALI/01%20-%20Capo%20I%20-%20GIUDICE%20DELL%27ESECUZIONE/art-666-cpp.md).
+9\. Per quanto non espressamente previsto dal presente decreto, si applicano, in quanto compatibili, le disposizioni contenute nell'[articolo 666 del codice di procedura penale](../../../../../Codice%20di%20Procedura%20Penale/10%20-%20Libro%20X%20-%20ESECUZIONE/03%20-%20Titolo%20III%20-%20ATTRIBUZIONI%20DEGLI%20ORGANI%20GIURISDIZIONALI/01%20-%20Capo%20I%20-%20GIUDICE%20DELL%27ESECUZIONE/art-666-cpp.md).
 
-10. Le comunicazioni di cui al presente titolo possono essere effettuate con le modalità previste dal decreto legislativo 7 marzo 2005, n. 82.
+10\. Le comunicazioni di cui al presente titolo possono essere effettuate con le modalità previste dal decreto legislativo 7 marzo 2005, n. 82.
 
 10-bis. Le questioni concernenti la competenza per territorio devono essere rilevate o eccepite, a pena di decadenza, alla prima udienza e comunque subito dopo l'accertamento della regolare costituzione delle parti e il tribunale le decide immediatamente. [^agg-20]
 

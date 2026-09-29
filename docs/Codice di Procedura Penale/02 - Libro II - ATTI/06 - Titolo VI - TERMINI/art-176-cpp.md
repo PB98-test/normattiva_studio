@@ -20,6 +20,6 @@ ordine: 209
 
 # Art. 176 - ***Effetti della restituzione nel termine***
 
-1. Il giudice che ha disposto la restituzione provvede, a richiesta di parte e in quanto sia possibile, alla rinnovazione degli atti ai quali la parte aveva diritto di assistere.
+1\. Il giudice che ha disposto la restituzione provvede, a richiesta di parte e in quanto sia possibile, alla rinnovazione degli atti ai quali la parte aveva diritto di assistere.
 
-2. Se la restituzione nel termine è concessa dalla corte di cassazione, al compimento degli atti di cui è disposta la rinnovazione provvede il giudice competente per il merito.
+2\. Se la restituzione nel termine è concessa dalla corte di cassazione, al compimento degli atti di cui è disposta la rinnovazione provvede il giudice competente per il merito.

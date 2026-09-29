@@ -20,4 +20,4 @@ ordine: 3
 
 # Art. 3 - ***Assunzione della qualità di imputato***
 
-1. Nel procedimento davanti al giudice di pace, assume la qualità di imputato la persona alla quale il reato è attribuito nella citazione a giudizio disposta dalla polizia giudiziaria o nel decreto di convocazione delle parti emesso dal giudice di pace.
+1\. Nel procedimento davanti al giudice di pace, assume la qualità di imputato la persona alla quale il reato è attribuito nella citazione a giudizio disposta dalla polizia giudiziaria o nel decreto di convocazione delle parti emesso dal giudice di pace.

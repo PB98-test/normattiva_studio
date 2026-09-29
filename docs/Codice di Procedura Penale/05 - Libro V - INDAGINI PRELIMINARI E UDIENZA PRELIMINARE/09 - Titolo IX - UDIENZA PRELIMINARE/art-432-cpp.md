@@ -20,4 +20,4 @@ ordine: 526
 
 # Art. 432 - ***Trasmissione e custodia del fascicolo per il dibattimento***
 
-1. Il decreto che dispone il giudizio è trasmesso senza ritardo, con il fascicolo previsto dall'[articolo 431](art-431-cpp.md) e con l'eventuale provvedimento che abbia disposto misure cautelari in corso di esecuzione, alla cancelleria del giudice competente per il giudizio.
+1\. Il decreto che dispone il giudizio è trasmesso senza ritardo, con il fascicolo previsto dall'[articolo 431](art-431-cpp.md) e con l'eventuale provvedimento che abbia disposto misure cautelari in corso di esecuzione, alla cancelleria del giudice competente per il giudizio.

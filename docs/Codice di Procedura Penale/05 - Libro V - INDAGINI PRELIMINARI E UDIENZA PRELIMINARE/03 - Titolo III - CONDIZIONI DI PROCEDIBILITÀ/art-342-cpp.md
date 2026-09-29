@@ -20,4 +20,4 @@ ordine: 408
 
 # Art. 342 - ***Richiesta di procedimento***
 
-1. La richiesta di procedimento è presentata al pubblico ministero con atto sottoscritto dall'autorità competente.
+1\. La richiesta di procedimento è presentata al pubblico ministero con atto sottoscritto dall'autorità competente.

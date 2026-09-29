@@ -20,11 +20,11 @@ ordine: 3
 
 # Art. 3 - ***Adeguatezza delle misure e degli assetti in funzione della rilevazione tempestiva della crisi d'impresa***
 
-1. L'imprenditore individuale deve adottare misure idonee a rilevare tempestivamente lo stato di crisi e assumere senza indugio le iniziative necessarie a farvi fronte.
+1\. L'imprenditore individuale deve adottare misure idonee a rilevare tempestivamente lo stato di crisi e assumere senza indugio le iniziative necessarie a farvi fronte.
 
-2. L'imprenditore collettivo deve istituire un assetto organizzativo, amministrativo e contabile adeguato ai sensi dell'[articolo 2086 del codice civile](../../../../Codice%20Civile/05%20-%20Libro%20V%20-%20DEL%20LAVORO/02%20-%20Titolo%20II%20-%20DEL%20LAVORO%20NELL%27IMPRESA/01%20-%20Capo%20I%20-%20Dell%27impresa%20in%20generale/01%20-%20Sezione%20I%20-%20Dell%27imprenditore/art-2086-cc.md), ai fini della tempestiva rilevazione dello stato di crisi e dell'assunzione di idonee iniziative.
+2\. L'imprenditore collettivo deve istituire un assetto organizzativo, amministrativo e contabile adeguato ai sensi dell'[articolo 2086 del codice civile](../../../../Codice%20Civile/05%20-%20Libro%20V%20-%20DEL%20LAVORO/02%20-%20Titolo%20II%20-%20DEL%20LAVORO%20NELL%27IMPRESA/01%20-%20Capo%20I%20-%20Dell%27impresa%20in%20generale/01%20-%20Sezione%20I%20-%20Dell%27imprenditore/art-2086-cc.md), ai fini della tempestiva rilevazione dello stato di crisi e dell'assunzione di idonee iniziative.
 
-3. Al fine di prevedere tempestivamente l'emersione della crisi d'impresa, le misure di cui al comma 1 e gli assetti di cui al comma 2 devono consentire di:
+3\. Al fine di prevedere tempestivamente l'emersione della crisi d'impresa, le misure di cui al comma 1 e gli assetti di cui al comma 2 devono consentire di:
 
 - a) rilevare eventuali squilibri di carattere patrimoniale o economico-finanziario, rapportati alle specifiche caratteristiche dell'impresa e dell'attività imprenditoriale svolta dal debitore;
 - b) verificare la sostenibilità dei debiti e le prospettive di continuità aziendale almeno per i dodici mesi successivi e rilevare i segnali di cui al comma 4;

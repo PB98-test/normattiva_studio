@@ -20,6 +20,6 @@ ordine: 254
 
 # Art. 218 - ***Presupposti dell'esperimento giudiziale***
 
-1. L'esperimento giudiziale è ammesso quando occorre accertare se un fatto sia o possa essere avvenuto in un determinato modo.
+1\. L'esperimento giudiziale è ammesso quando occorre accertare se un fatto sia o possa essere avvenuto in un determinato modo.
 
-2. L'esperimento consiste nella riproduzione, per quanto è possibile, della situazione in cui il fatto si afferma o si ritiene essere avvenuto e nella ripetizione delle modalità di svolgimento del fatto stesso.
+2\. L'esperimento consiste nella riproduzione, per quanto è possibile, della situazione in cui il fatto si afferma o si ritiene essere avvenuto e nella ripetizione delle modalità di svolgimento del fatto stesso.

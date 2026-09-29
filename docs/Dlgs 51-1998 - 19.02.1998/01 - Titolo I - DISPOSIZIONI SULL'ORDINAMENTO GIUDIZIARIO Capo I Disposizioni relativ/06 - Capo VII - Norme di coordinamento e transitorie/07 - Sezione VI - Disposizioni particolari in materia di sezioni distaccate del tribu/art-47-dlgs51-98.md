@@ -20,6 +20,6 @@ ordine: 48
 
 # Art. 47
 
-1. I procedimenti pendenti alla data di efficacia del presente decreto presso le sezioni distaccate delle preture circondariali che devono essere definiti dal tribunale, sono trattati nella sezione distaccata di tribunale la cui circoscrizione comprende l'intero territorio della soppressa sezione distaccata di pretura, o, in mancanza, nella sede principale.
+1\. I procedimenti pendenti alla data di efficacia del presente decreto presso le sezioni distaccate delle preture circondariali che devono essere definiti dal tribunale, sono trattati nella sezione distaccata di tribunale la cui circoscrizione comprende l'intero territorio della soppressa sezione distaccata di pretura, o, in mancanza, nella sede principale.
 
-2. I procedimenti pendenti davanti ai tribunali alla data di efficacia del presente decreto sono trattati nella sede principale.
+2\. I procedimenti pendenti davanti ai tribunali alla data di efficacia del presente decreto sono trattati nella sede principale.

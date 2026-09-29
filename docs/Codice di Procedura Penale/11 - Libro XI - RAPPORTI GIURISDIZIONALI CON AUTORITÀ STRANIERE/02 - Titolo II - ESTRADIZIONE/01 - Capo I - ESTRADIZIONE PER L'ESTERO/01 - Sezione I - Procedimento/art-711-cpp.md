@@ -20,4 +20,4 @@ ordine: 850
 
 # Art. 711 - ***Riestradizione***
 
-1. Le disposizioni dell'[articolo 710](art-710-cpp.md) si applicano anche nel caso in cui lo stato al quale la persona è stata consegnata domanda il consenso alla riestradizione della stessa persona verso un altro stato.
+1\. Le disposizioni dell'[articolo 710](art-710-cpp.md) si applicano anche nel caso in cui lo stato al quale la persona è stata consegnata domanda il consenso alla riestradizione della stessa persona verso un altro stato.

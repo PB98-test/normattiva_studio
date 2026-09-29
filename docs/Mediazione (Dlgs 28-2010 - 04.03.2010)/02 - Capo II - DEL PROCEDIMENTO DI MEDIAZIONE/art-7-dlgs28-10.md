@@ -20,7 +20,7 @@ ordine: 12
 
 # Art. 7 - ***Effetti sulla ragionevole durata del processo***
 
-1. Il periodo di cui all'[articolo 6](art-6-dlgs28-10.md) e il periodo del rinvio disposto dal giudice ai sensi dell'[articolo 5](art-5-dlgs28-10.md), comma 2 e dell'[articolo 5-quater](art-5-quater-dlgs28-10.md), comma 1, non si computano ai fini di cui all'articolo 2 della legge 24 marzo 2001, n. 89.[^agg-4] [^agg-9] [^agg-10]
+1\. Il periodo di cui all'[articolo 6](art-6-dlgs28-10.md) e il periodo del rinvio disposto dal giudice ai sensi dell'[articolo 5](art-5-dlgs28-10.md), comma 2 e dell'[articolo 5-quater](art-5-quater-dlgs28-10.md), comma 1, non si computano ai fini di cui all'articolo 2 della legge 24 marzo 2001, n. 89.[^agg-4] [^agg-9] [^agg-10]
 
 [^agg-3]: *AGGIORNAMENTO (3)* La Corte Costituzionale, con sentenza 24 ottobre 2012 - 6 dicembre 2012, n. 272 (in G.U. 1a s.s. 12/12/2012, n. 49), ha dichiarato "in via consequenziale, ai sensi dell'art. 27 della legge 11 marzo 1953, n. 87 (Norme sulla costituzione e sul funzionamento della Corte costituzionale), l'illegittimità costituzionale: [...] f) dell'[art. 7](art-7-dlgs28-10.md) del detto decreto legislativo, limitatamente alla frase «e il periodo del rinvio disposto dal giudice ai sensi dell'[art. 5](art-5-dlgs28-10.md), comma 1»; g) dello stesso [articolo 7](art-7-dlgs28-10.md) nella parte in cui usa il verbo «computano» anzichè «computa»".
 

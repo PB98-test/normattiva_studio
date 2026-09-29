@@ -20,7 +20,7 @@ ordine: 30
 
 # Art. 25-ter - ***Reati societari***
 
-1. In relazione ai reati in materia societaria previsti dal [codice civile](../../../Codice%20Civile/00%20-%20Indice%20%28cc%29.md) o da altre leggi speciali, si applicano all'ente le seguenti sanzioni pecuniarie:
+1\. In relazione ai reati in materia societaria previsti dal [codice civile](../../../Codice%20Civile/00%20-%20Indice%20%28cc%29.md) o da altre leggi speciali, si applicano all'ente le seguenti sanzioni pecuniarie:
 
 - a) per il delitto di false comunicazioni sociali previsto dall'[articolo 2621 del codice civile](../../../Codice%20Civile/05%20-%20Libro%20V%20-%20DEL%20LAVORO/11%20-%20Titolo%20XI%20-%20DISPOSIZIONI%20PENALI%20IN%20MATERIA%20DI%20SOCIETÀ,%20DI%20CONSORZI%20E%20DI%20ALTRI%20EN/01%20-%20Capo%20I%20-%20Delle%20falsità/art-2621-cc.md), la sanzione pecuniaria da duecento a quattrocento quote;
 - a-bis) per il delitto di false comunicazioni sociali previsto dall'[articolo 2621-bis del codice civile](../../../Codice%20Civile/05%20-%20Libro%20V%20-%20DEL%20LAVORO/11%20-%20Titolo%20XI%20-%20DISPOSIZIONI%20PENALI%20IN%20MATERIA%20DI%20SOCIETÀ,%20DI%20CONSORZI%20E%20DI%20ALTRI%20EN/01%20-%20Capo%20I%20-%20Delle%20falsità/art-2621-bis-cc.md), la sanzione pecuniaria da cento a duecento quote;

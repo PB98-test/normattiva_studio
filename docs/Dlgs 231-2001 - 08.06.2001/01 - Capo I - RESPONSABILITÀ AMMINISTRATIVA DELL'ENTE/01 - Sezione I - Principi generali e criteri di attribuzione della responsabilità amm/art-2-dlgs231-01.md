@@ -20,4 +20,4 @@ ordine: 2
 
 # Art. 2 - ***Principio di legalità***
 
-1. L'ente non può essere ritenuto responsabile per un fatto costituente reato se la sua responsabilità amministrativa in relazione a quel reato e le relative sanzioni non sono espressamente previste da una legge entrata in vigore prima della commissione del fatto.
+1\. L'ente non può essere ritenuto responsabile per un fatto costituente reato se la sua responsabilità amministrativa in relazione a quel reato e le relative sanzioni non sono espressamente previste da una legge entrata in vigore prima della commissione del fatto.

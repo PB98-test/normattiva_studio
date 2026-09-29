@@ -20,4 +20,4 @@ ordine: 170
 
 # Art. 142 - ***Nullità dei verbali***
 
-1. Salve particolari disposizioni di legge, il verbale è nullo se vi è incertezza assoluta sulle persone intervenute o se manca la sottoscrizione del pubblico ufficiale che lo ha redatto.
+1\. Salve particolari disposizioni di legge, il verbale è nullo se vi è incertezza assoluta sulle persone intervenute o se manca la sottoscrizione del pubblico ufficiale che lo ha redatto.

@@ -20,8 +20,8 @@ ordine: 202
 
 # Art. 170 - ***Notificazioni col mezzo della posta***
 
-1. Nei casi di cui all'[articolo 148](art-148-cpp.md), comma 4, e ai fini di cui all'[articolo 157-ter](art-157-ter-cpp.md), le notificazioni possono essere eseguite anche col mezzo degli uffici postali, nei modi stabiliti dalle relative norme speciali.
+1\. Nei casi di cui all'[articolo 148](art-148-cpp.md), comma 4, e ai fini di cui all'[articolo 157-ter](art-157-ter-cpp.md), le notificazioni possono essere eseguite anche col mezzo degli uffici postali, nei modi stabiliti dalle relative norme speciali.
 
-2. È valida la notificazione anche se eseguita col mezzo di un ufficio postale diverso da quello a cui inizialmente fu diretto il piego.
+2\. È valida la notificazione anche se eseguita col mezzo di un ufficio postale diverso da quello a cui inizialmente fu diretto il piego.
 
-3. Qualora l'ufficio postale restituisca il piego per irreperibilità del destinatario, l'ufficiale giudiziario provvede alle notificazioni nei modi ordinari.
+3\. Qualora l'ufficio postale restituisca il piego per irreperibilità del destinatario, l'ufficiale giudiziario provvede alle notificazioni nei modi ordinari.

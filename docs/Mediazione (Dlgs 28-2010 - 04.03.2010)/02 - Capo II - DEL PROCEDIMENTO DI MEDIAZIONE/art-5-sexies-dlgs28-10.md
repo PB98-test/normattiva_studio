@@ -20,9 +20,9 @@ ordine: 10
 
 # Art. 5-sexies - ***Mediazione su clausola contrattuale o statutaria***
 
-1. Quando il contratto, lo statuto o l'atto costitutivo dell'ente pubblico o privato prevedono una clausola di mediazione, l'esperimento della mediazione è condizione di procedibilità della domanda giudiziale. Se il tentativo di conciliazione non risulta esperito, il giudice o l'arbitro, su eccezione di parte entro la prima udienza, provvede ai sensi dell'[articolo 5](art-5-dlgs28-10.md), comma 2. Si applica l'[articolo 5](art-5-dlgs28-10.md), commi 4, 5 e 6.
+1\. Quando il contratto, lo statuto o l'atto costitutivo dell'ente pubblico o privato prevedono una clausola di mediazione, l'esperimento della mediazione è condizione di procedibilità della domanda giudiziale. Se il tentativo di conciliazione non risulta esperito, il giudice o l'arbitro, su eccezione di parte entro la prima udienza, provvede ai sensi dell'[articolo 5](art-5-dlgs28-10.md), comma 2. Si applica l'[articolo 5](art-5-dlgs28-10.md), commi 4, 5 e 6.
 
-2. La domanda di mediazione è presentata all'organismo indicato dalla clausola se iscritto nel registro ovvero, in mancanza, all'organismo individuato ai sensi dell'[articolo 4](art-4-dlgs28-10.md), comma 1. [^agg-9] [^agg-10]
+2\. La domanda di mediazione è presentata all'organismo indicato dalla clausola se iscritto nel registro ovvero, in mancanza, all'organismo individuato ai sensi dell'[articolo 4](art-4-dlgs28-10.md), comma 1. [^agg-9] [^agg-10]
 
 [^agg-9]: *AGGIORNAMENTO (9)* Il [D.Lgs. 10 ottobre 2022, n. 149](../../Cartabia%20%28Dlgs%20149-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs149-22%29.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
 

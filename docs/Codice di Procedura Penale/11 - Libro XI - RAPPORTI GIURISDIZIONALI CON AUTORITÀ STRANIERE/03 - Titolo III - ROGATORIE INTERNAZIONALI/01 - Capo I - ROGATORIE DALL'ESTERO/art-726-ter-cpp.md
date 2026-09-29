@@ -20,4 +20,4 @@ ordine: 869
 
 # Art. 726-ter - ***(Rogatoria proveniente da autorità amministrativa straniera).***
 
-1. Quando la richiesta di assistenza giudiziaria in un procedimento concernente un reato è presentata da un'autorità amministrativa di altro Stato, essa è trasmessa per l'esecuzione al procuratore della Repubblica del luogo nel quale devono essere compiuti gli atti richiesti. Si applicano in quanto compatibili le disposizioni del presente Capo.
+1\. Quando la richiesta di assistenza giudiziaria in un procedimento concernente un reato è presentata da un'autorità amministrativa di altro Stato, essa è trasmessa per l'esecuzione al procuratore della Repubblica del luogo nel quale devono essere compiuti gli atti richiesti. Si applicano in quanto compatibili le disposizioni del presente Capo.

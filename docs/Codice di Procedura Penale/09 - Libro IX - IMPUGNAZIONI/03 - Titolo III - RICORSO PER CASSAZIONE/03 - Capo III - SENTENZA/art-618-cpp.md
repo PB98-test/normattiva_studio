@@ -20,7 +20,7 @@ ordine: 740
 
 # Art. 618 - ***Decisioni delle sezioni unite***
 
-1. Se una sezione della corte rileva che la questione di diritto sottoposta al suo esame ha dato luogo, o può dar luogo, a un contrasto giurisprudenziale, su richiesta delle parti o di ufficio, può con ordinanza rimettere il ricorso alle sezioni unite.
+1\. Se una sezione della corte rileva che la questione di diritto sottoposta al suo esame ha dato luogo, o può dar luogo, a un contrasto giurisprudenziale, su richiesta delle parti o di ufficio, può con ordinanza rimettere il ricorso alle sezioni unite.
 
 1-bis. Se una sezione della corte ritiene di non condividere il principio di diritto enunciato dalle sezioni unite, rimette a queste ultime, con ordinanza, la decisione del ricorso.
 

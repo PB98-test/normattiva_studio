@@ -20,7 +20,7 @@ ordine: 41
 
 # Art. 25-undecies - ***Reati ambientali***
 
-1. In relazione alla commissione dei reati previsti dal [codice penale](../../../Codice%20Penale/00%20-%20Indice%20%28cp%29.md), si applicano all'ente le seguenti sanzioni pecuniarie:
+1\. In relazione alla commissione dei reati previsti dal [codice penale](../../../Codice%20Penale/00%20-%20Indice%20%28cp%29.md), si applicano all'ente le seguenti sanzioni pecuniarie:
 
 - a) per la violazione degli articoli 452-bis e 452-bis.1,, la sanzione pecuniaria da quattrocento a seicento quote;
 - b) per la violazione dell'articolo 452-quater, la sanzione pecuniaria da seicento a milleduecento quote;
@@ -39,7 +39,7 @@ ordine: 41
 
 1-quater. Per i delitti aggravati ai sensi degli articoli 452-bis, secondo, terzo e quarto comma, 452-bis.1, secondo, terzo e quarto comma, e 452-quater, terzo comma, del codice penale, le sanzioni pecuniarie previste dal comma 1 sono aumentate di un terzo. Il medesimo aumento si applica per i delitti aggravati ai sensi dell'articolo 452-sexiesdecies, primo comma, n. 1, del codice penale.
 
-2. In relazione alla commissione dei reati previsti dal decreto legislativo 3 aprile 2006, n. 152, si applicano all'ente le seguenti sanzioni pecuniarie:
+2\. In relazione alla commissione dei reati previsti dal decreto legislativo 3 aprile 2006, n. 152, si applicano all'ente le seguenti sanzioni pecuniarie:
 
 - a) per i reati di cui all'articolo 137: 1) per la violazione dei commi 3, 5, primo periodo, e 13, la sanzione pecuniaria da centocinquanta a duecentocinquanta quote; 2) per la violazione dei commi 2, 5, secondo periodo, e 11, la sanzione pecuniaria da duecento a trecento quote.
 - a-bis) per il reato di cui all'articolo 255-bis, la sanzione pecuniaria da trecentocinquanta a quattrocentocinquanta quote;
@@ -55,26 +55,26 @@ ordine: 41
 
 2-bis. Quando ricorre l'ipotesi di cui all'articolo 259-ter del decreto legislativo 2 aprile 2006, n. 152, le sanzioni previste dal comma 2, lettere a-bis), a-ter), b) ed e), sono diminuite da un terzo a due terzi.
 
-3. In relazione alla commissione dei reati previsti dalla legge 7 febbraio 1992, n. 150, si applicano all'ente le seguenti sanzioni pecuniarie:
+3\. In relazione alla commissione dei reati previsti dalla legge 7 febbraio 1992, n. 150, si applicano all'ente le seguenti sanzioni pecuniarie:
 
 - a) per la violazione degli [articoli 1](../01%20-%20Sezione%20I%20-%20Principi%20generali%20e%20criteri%20di%20attribuzione%20della%20responsabilità%20amm/art-1-dlgs231-01.md), comma 1, 2, commi 1 e 2, e 6, comma 4, la sanzione pecuniaria fino a duecentocinquanta quote;
 - b) per la violazione dell'[articolo 1](../01%20-%20Sezione%20I%20-%20Principi%20generali%20e%20criteri%20di%20attribuzione%20della%20responsabilità%20amm/art-1-dlgs231-01.md), comma 2, la sanzione pecuniaria da centocinquanta a duecentocinquanta quote;
 - c) per i reati del [codice penale](../../../Codice%20Penale/00%20-%20Indice%20%28cp%29.md) richiamati dall'articolo 3-bis, comma 1, della medesima legge n. 150 del 1992, rispettivamente: 1) la sanzione pecuniaria fino a duecentocinquanta quote, in caso di commissione di reati per cui è prevista la pena non superiore nel massimo ad un anno di reclusione; 2) la sanzione pecuniaria da centocinquanta a duecentocinquanta quote, in caso di commissione di reati per cui è prevista la pena non superiore nel massimo a due anni di reclusione; 3) la sanzione pecuniaria da duecento a trecento quote, in caso di commissione di reati per cui è prevista la pena non superiore nel massimo a tre anni di reclusione; 4) la sanzione pecuniaria da trecento a cinquecento quote, in caso di commissione di reati per cui è prevista la pena superiore nel massimo a tre anni di reclusione.
 
-4. In relazione alla commissione dei reati previsti dall'articolo 3, comma 6, della legge 28 dicembre 1993, n. 549, si applica all'ente la sanzione pecuniaria da centocinquanta a duecentocinquanta quote.
+4\. In relazione alla commissione dei reati previsti dall'articolo 3, comma 6, della legge 28 dicembre 1993, n. 549, si applica all'ente la sanzione pecuniaria da centocinquanta a duecentocinquanta quote.
 
-5. In relazione alla commissione dei reati previsti dal decreto legislativo 6 novembre 2007, n. 202, si applicano all'ente le seguenti sanzioni pecuniarie:
+5\. In relazione alla commissione dei reati previsti dal decreto legislativo 6 novembre 2007, n. 202, si applicano all'ente le seguenti sanzioni pecuniarie:
 
 - a) per il reato di cui all'[articolo 9](../02%20-%20Sezione%20II%20-%20Sanzioni%20in%20generale/art-9-dlgs231-01.md), comma 1, la sanzione pecuniaria fino a duecentocinquanta quote;
 - b) per i reati di cui agli [articoli 8](../01%20-%20Sezione%20I%20-%20Principi%20generali%20e%20criteri%20di%20attribuzione%20della%20responsabilità%20amm/art-8-dlgs231-01.md), comma 1, e 9, comma 2, la sanzione pecuniaria da centocinquanta a duecentocinquanta quote;
 - c) per il reato di cui all'[articolo 8](../01%20-%20Sezione%20I%20-%20Principi%20generali%20e%20criteri%20di%20attribuzione%20della%20responsabilità%20amm/art-8-dlgs231-01.md), comma 2, la sanzione pecuniaria da duecento a trecento quote.
 
-6. Le sanzioni previste dal comma 2, lettera b), sono ridotte della metà nel caso di commissione del reato previsto dall'articolo 256, comma 4, del decreto legislativo 3 aprile 2006, n. 152.
+6\. Le sanzioni previste dal comma 2, lettera b), sono ridotte della metà nel caso di commissione del reato previsto dall'articolo 256, comma 4, del decreto legislativo 3 aprile 2006, n. 152.
 
-7. Nei casi di condanna per i reati indicati al comma 2, lettera
+7\. Nei casi di condanna per i reati indicati al comma 2, lettera
 
 - a), numero 2), e al comma 5, lettere b) e
 - c), si applicano le sanzioni interdittive previste dall'[articolo 9](../02%20-%20Sezione%20II%20-%20Sanzioni%20in%20generale/art-9-dlgs231-01.md), comma 2, per una durata non superiore a sei mesi. Nei casi di condanna per i reati indicati dal comma 2, lettere b), b-bis) ed
 - e), si applicano le sanzioni interdittive previste dall'[articolo 9](../02%20-%20Sezione%20II%20-%20Sanzioni%20in%20generale/art-9-dlgs231-01.md), comma 2, per una durata non superiore a un anno. Se l'ente o una sua unità organizzativa vengono stabilmente utilizzati allo scopo unico o prevalente di consentire o agevolare la commissione dei reati di cui agli [articoli 452-bis](../../../Codice%20Penale/02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/06%20-%20Titolo%20VI%20-%20DEI%20DELITTI%20CONTRO%20L%27INCOLUMITÀ%20PUBBLICA/03%20-%20Capo%20III%20-%20Dei%20delitti%20colposi%20di%20comune%20pericolo/art-452-bis-cp.md), [452-quater](../../../Codice%20Penale/02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/06%20-%20Titolo%20VI%20-%20DEI%20DELITTI%20CONTRO%20L%27INCOLUMITÀ%20PUBBLICA/03%20-%20Capo%20III%20-%20Dei%20delitti%20colposi%20di%20comune%20pericolo/art-452-quater-cp.md), [452-sexies](../../../Codice%20Penale/02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/06%20-%20Titolo%20VI%20-%20DEI%20DELITTI%20CONTRO%20L%27INCOLUMITÀ%20PUBBLICA/03%20-%20Capo%20III%20-%20Dei%20delitti%20colposi%20di%20comune%20pericolo/art-452-sexies-cp.md) e [452-quaterdecies del codice penale](../../../Codice%20Penale/02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/06%20-%20Titolo%20VI%20-%20DEI%20DELITTI%20CONTRO%20L%27INCOLUMITÀ%20PUBBLICA/03%20-%20Capo%20III%20-%20Dei%20delitti%20colposi%20di%20comune%20pericolo/art-452-quaterdecies-cp.md), agli articoli 256, 256-bis e 259 del decreto legislativo 3 aprile 2006, n. 152, e all'articolo 8 del decreto legislativo 6 novembre 2007, n. 202, si applica la sanzione dell'interdizione definitiva dall'esercizio dell'attività ai sensi dell'[articolo 16](../02%20-%20Sezione%20II%20-%20Sanzioni%20in%20generale/art-16-dlgs231-01.md), comma 3, del presente decreto.
 
-8. Se l'ente o una sua unità organizzativa vengono stabilmente utilizzati allo scopo unico o prevalente di consentire o agevolare la commissione dei reati di cui all'articolo 260 del decreto legislativo 3 aprile 2006, n. 152, e all'articolo 8 del decreto legislativo 6 novembre 2007, n. 202, si applica la sanzione dell'interdizione definitiva dall'esercizio dell'attività ai sensi dell'art. 16, comma 3, del decreto legislativo 8 giugno 2001 n. 231.
+8\. Se l'ente o una sua unità organizzativa vengono stabilmente utilizzati allo scopo unico o prevalente di consentire o agevolare la commissione dei reati di cui all'articolo 260 del decreto legislativo 3 aprile 2006, n. 152, e all'articolo 8 del decreto legislativo 6 novembre 2007, n. 202, si applica la sanzione dell'interdizione definitiva dall'esercizio dell'attività ai sensi dell'art. 16, comma 3, del decreto legislativo 8 giugno 2001 n. 231.

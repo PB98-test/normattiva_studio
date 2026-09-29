@@ -20,4 +20,4 @@ ordine: 478
 
 # Art. 395 - ***Presentazione e notificazione della richiesta***
 
-1. La richiesta di incidente probatorio è depositata nella cancelleria del giudice per le indagini preliminari, unitamente a eventuali cose o documenti, ed è notificata a cura di chi l'ha proposta, secondo i casi, al pubblico ministero e alle persone indicate nell'[articolo 393](art-393-cpp.md) comma 1 lettera b). La prova della notificazione è depositata in cancelleria.
+1\. La richiesta di incidente probatorio è depositata nella cancelleria del giudice per le indagini preliminari, unitamente a eventuali cose o documenti, ed è notificata a cura di chi l'ha proposta, secondo i casi, al pubblico ministero e alle persone indicate nell'[articolo 393](art-393-cpp.md) comma 1 lettera b). La prova della notificazione è depositata in cancelleria.

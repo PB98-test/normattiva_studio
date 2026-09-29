@@ -20,9 +20,9 @@ ordine: 844
 
 # Art. 705 - ***Condizioni per la decisione***
 
-1. Quando non esiste convenzione o questa non dispone diversamente, la corte di appello pronuncia sentenza favorevole all'estradizione se sussistono gravi indizi di colpevolezza ovvero se esiste una sentenza irrevocabile di condanna e se, per lo stesso fatto, nei confronti della persona della quale è domandata l'estradizione, non è in corso procedimento penale nè è stata pronunciata sentenza irrevocabile nello Stato.
+1\. Quando non esiste convenzione o questa non dispone diversamente, la corte di appello pronuncia sentenza favorevole all'estradizione se sussistono gravi indizi di colpevolezza ovvero se esiste una sentenza irrevocabile di condanna e se, per lo stesso fatto, nei confronti della persona della quale è domandata l'estradizione, non è in corso procedimento penale nè è stata pronunciata sentenza irrevocabile nello Stato.
 
-2. La corte di appello pronuncia comunque sentenza contraria all'estradizione:
+2\. La corte di appello pronuncia comunque sentenza contraria all'estradizione:
 
 - a) se, per il reato per il quale l'estradizione è stata domandata, la persona è stata o sarà sottoposta a un procedimento che non assicura il rispetto dei diritti fondamentali;
 - b) se la sentenza per la cui esecuzione è stata domandata l'estradizione contiene disposizioni contrarie ai principi fondamentali dell'ordinamento giuridico dello Stato;

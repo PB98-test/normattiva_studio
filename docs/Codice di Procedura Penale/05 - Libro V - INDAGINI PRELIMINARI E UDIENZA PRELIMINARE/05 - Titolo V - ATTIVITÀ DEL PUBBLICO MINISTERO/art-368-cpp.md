@@ -20,4 +20,4 @@ ordine: 437
 
 # Art. 368 - ***Provvedimenti del giudice sulla richiesta di sequestro***
 
-1. Quando, nel corso delle indagini preliminari, il pubblico ministero ritiene che non si debba disporre il sequestro richiesto dall'interessato, trasmette la richiesta con il suo parere, al giudice per le indagini preliminari.
+1\. Quando, nel corso delle indagini preliminari, il pubblico ministero ritiene che non si debba disporre il sequestro richiesto dall'interessato, trasmette la richiesta con il suo parere, al giudice per le indagini preliminari.

@@ -20,6 +20,6 @@ ordine: 70
 
 # Art. 69
 
-1. La rubrica del titolo II del libro II del [codice di procedura civile](../../../../Codice%20di%20Procedura%20Civile/00%20-%20Indice%20%28cpc%29.md) è sostituita dalla seguente: "DEL PROCEDIMENTO DAVANTI AL GIUDICE DI PACE".
+1\. La rubrica del titolo II del libro II del [codice di procedura civile](../../../../Codice%20di%20Procedura%20Civile/00%20-%20Indice%20%28cpc%29.md) è sostituita dalla seguente: "DEL PROCEDIMENTO DAVANTI AL GIUDICE DI PACE".
 
-2. Nel medesimo titolo è soppressa la ripartizione interna in capi.
+2\. Nel medesimo titolo è soppressa la ripartizione interna in capi.

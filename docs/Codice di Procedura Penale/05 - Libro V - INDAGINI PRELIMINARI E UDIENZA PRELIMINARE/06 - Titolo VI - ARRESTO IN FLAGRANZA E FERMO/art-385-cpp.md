@@ -20,4 +20,4 @@ ordine: 458
 
 # Art. 385 - ***Divieto di arresto o di fermo in determinate circostanze***
 
-1. L'arresto o il fermo non è consentito quando, tenuto conto delle circostanze del fatto, appare che questo è stato compiuto nell'adempimento di un dovere o nell'esercizio di una facoltà legittima ovvero in presenza di una causa di non punibilità.
+1\. L'arresto o il fermo non è consentito quando, tenuto conto delle circostanze del fatto, appare che questo è stato compiuto nell'adempimento di un dovere o nell'esercizio di una facoltà legittima ovvero in presenza di una causa di non punibilità.

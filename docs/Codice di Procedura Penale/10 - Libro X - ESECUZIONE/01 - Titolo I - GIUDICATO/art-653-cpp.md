@@ -20,6 +20,6 @@ ordine: 781
 
 # Art. 653 - ***Efficacia della sentenza penale  . . .  nel giudizio disciplinare***
 
-1. La sentenza penale irrevocabile di assoluzione . . . ha efficacia di giudicato nel giudizio per responsabilità disciplinare davanti alle pubbliche autorità quanto all'accertamento che il fatto non sussiste o non costituisce illecito penale ovvero che l'imputato non lo ha commesso.
+1\. La sentenza penale irrevocabile di assoluzione . . . ha efficacia di giudicato nel giudizio per responsabilità disciplinare davanti alle pubbliche autorità quanto all'accertamento che il fatto non sussiste o non costituisce illecito penale ovvero che l'imputato non lo ha commesso.
 
 1-bis. La sentenza penale irrevocabile di condanna ha efficacia di giudicato nel giudizio per responsabilità disciplinare davanti alle pubbliche autorità quanto all'accertamento della sussistenza del fatto, della sua illiceità penale e all'affermazione che l'imputato lo ha commesso.

@@ -20,7 +20,7 @@ ordine: 1
 
 # Art. 1 - ***Soggetti destinatari***
 
-1. I provvedimenti previsti dal presente capo si applicano a:
+1\. I provvedimenti previsti dal presente capo si applicano a:
 
 - a) coloro che debbano ritenersi, sulla base di elementi di fatto, abitualmente dediti a traffici delittuosi;
 - b) coloro che per la condotta ed il tenore di vita debba ritenersi, sulla base di elementi di fatto, che vivono abitualmente, anche in parte, con i proventi di attività delittuose;

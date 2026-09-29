@@ -20,9 +20,9 @@ ordine: 54
 
 # Art. 43 - ***Rinuncia alla domanda***
 
-1. In caso di rinuncia alla domanda di cui all'[articolo 40](art-40-dlgs14-19.md) il procedimento si estingue, fatta salva la volontà di proseguirlo manifestata dagli intervenuti o dal pubblico ministero per l'apertura della liquidazione giudiziale. Il pubblico ministero può rinunciare alla domanda di apertura della liquidazione giudiziale.
+1\. In caso di rinuncia alla domanda di cui all'[articolo 40](art-40-dlgs14-19.md) il procedimento si estingue, fatta salva la volontà di proseguirlo manifestata dagli intervenuti o dal pubblico ministero per l'apertura della liquidazione giudiziale. Il pubblico ministero può rinunciare alla domanda di apertura della liquidazione giudiziale.
 
-2. Sull'estinzione il tribunale provvede con decreto e,
+2\. Sull'estinzione il tribunale provvede con decreto e,
 
 nel dichiarare l'estinzione, può condannare
 
@@ -32,4 +32,4 @@ che vi ha dato causa alle spese.
 
 PERIODO SOPPRESSO DAL D.LGS. 17 GIUGNO 2022, N. 83
 
-3. Quando la domanda è stata iscritta nel registro delle imprese, il cancelliere comunica immediatamente il decreto di estinzione al medesimo registro per la sua iscrizione da effettuarsi entro il giorno successivo.
+3\. Quando la domanda è stata iscritta nel registro delle imprese, il cancelliere comunica immediatamente il decreto di estinzione al medesimo registro per la sua iscrizione da effettuarsi entro il giorno successivo.

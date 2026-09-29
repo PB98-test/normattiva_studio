@@ -20,10 +20,10 @@ ordine: 46
 
 # Art. 45
 
-1. In deroga all'articolo 2, primo comma, della legge 24 aprile 1941, n. 392, il Ministro di grazia e giustizia può disporre che vengano utilizzati a servizio del tribunale o di una o più sezioni distaccate, per un periodo non superiore a cinque anni dalla data di efficacia del presente decreto, gli immobili di proprietà dello Stato, ovvero di proprietà comunale interessati da interventi edilizi finanziati ai sensi dell'articolo 19 della legge 30 marzo 1981, n. 119, adibiti a servizio delle soppresse sezioni distaccate della pretura circondariale e ubicati in comuni del circondario non compresi nella tabella B allegata al presente decreto.
+1\. In deroga all'articolo 2, primo comma, della legge 24 aprile 1941, n. 392, il Ministro di grazia e giustizia può disporre che vengano utilizzati a servizio del tribunale o di una o più sezioni distaccate, per un periodo non superiore a cinque anni dalla data di efficacia del presente decreto, gli immobili di proprietà dello Stato, ovvero di proprietà comunale interessati da interventi edilizi finanziati ai sensi dell'articolo 19 della legge 30 marzo 1981, n. 119, adibiti a servizio delle soppresse sezioni distaccate della pretura circondariale e ubicati in comuni del circondario non compresi nella tabella B allegata al presente decreto.
 
-2. Il provvedimento è adottato sentiti il presidente del tribunale, il consiglio giudiziario, il consiglio dell'ordine degli avvocati e le amministrazioni locali interessate.
+2\. Il provvedimento è adottato sentiti il presidente del tribunale, il consiglio giudiziario, il consiglio dell'ordine degli avvocati e le amministrazioni locali interessate.
 
-3. Per il personale che presta servizio presso alcuno degli immobili indicati nel comma 1, si considera sede di servizio il comune nel quale l'immobile stesso è ubicato.
+3\. Per il personale che presta servizio presso alcuno degli immobili indicati nel comma 1, si considera sede di servizio il comune nel quale l'immobile stesso è ubicato.
 
-4. Le spese di gestione e manutenzione degli immobili sono a carico del comune ove i medesimi si trovano in base alle disposizioni della legge 24 aprile 1941, n. 392.
+4\. Le spese di gestione e manutenzione degli immobili sono a carico del comune ove i medesimi si trovano in base alle disposizioni della legge 24 aprile 1941, n. 392.

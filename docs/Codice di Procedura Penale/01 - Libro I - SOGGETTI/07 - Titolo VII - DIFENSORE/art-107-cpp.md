@@ -20,10 +20,10 @@ ordine: 127
 
 # Art. 107 - ***Non accettazione, rinuncia o revoca del difensore***
 
-1. Il difensore che non accetta l'incarico conferitogli o vi rinuncia ne dà subito comunicazione all'autorità procedente e a chi lo ha nominato.
+1\. Il difensore che non accetta l'incarico conferitogli o vi rinuncia ne dà subito comunicazione all'autorità procedente e a chi lo ha nominato.
 
-2. La non accettazione ha effetto dal momento in cui è comunicata all'autorità procedente.
+2\. La non accettazione ha effetto dal momento in cui è comunicata all'autorità procedente.
 
-3. La rinuncia non ha effetto finchè la parte non risulti assistita da un nuovo difensore di fiducia o da un difensore di ufficio e non sia decorso il termine eventualmente concesso a norma dell'[articolo 108](art-108-cpp.md).
+3\. La rinuncia non ha effetto finchè la parte non risulti assistita da un nuovo difensore di fiducia o da un difensore di ufficio e non sia decorso il termine eventualmente concesso a norma dell'[articolo 108](art-108-cpp.md).
 
-4. La disposizione del comma 3 si applica anche nel caso di revoca.
+4\. La disposizione del comma 3 si applica anche nel caso di revoca.

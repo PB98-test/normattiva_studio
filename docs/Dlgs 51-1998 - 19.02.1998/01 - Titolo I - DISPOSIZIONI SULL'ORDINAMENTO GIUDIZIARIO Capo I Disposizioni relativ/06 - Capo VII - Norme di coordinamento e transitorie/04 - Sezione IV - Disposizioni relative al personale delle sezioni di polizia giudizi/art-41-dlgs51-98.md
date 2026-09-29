@@ -20,8 +20,8 @@ ordine: 41
 
 # Art. 41
 
-1. Il personale delle sezioni di polizia giudiziaria delle procure della Repubblica presso le preture è di diritto assegnato o applicato alle sezioni di polizia giudiziaria delle procure della Repubblica presso i tribunali cui sono trasferite le funzioni degli uffici soppressi.
+1\. Il personale delle sezioni di polizia giudiziaria delle procure della Repubblica presso le preture è di diritto assegnato o applicato alle sezioni di polizia giudiziaria delle procure della Repubblica presso i tribunali cui sono trasferite le funzioni degli uffici soppressi.
 
-2. L'assegnazione e l'applicazione previste dal comma 1 non costituiscono nuove assegnazioni o applicazioni ovvero trasferimenti.
+2\. L'assegnazione e l'applicazione previste dal comma 1 non costituiscono nuove assegnazioni o applicazioni ovvero trasferimenti.
 
 #### Disposizioni relative alle attrezzature))

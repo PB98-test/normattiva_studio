@@ -20,7 +20,7 @@ ordine: 7
 
 # Art. 7 - ***Casi di connessione davanti al giudice di pace***
 
-1. Davanti al giudice di pace si ha connessione di procedimenti:
+1\. Davanti al giudice di pace si ha connessione di procedimenti:
 
 - a) se il reato per cui si procede è stato commesso da più persone in concorso o cooperazione fra loro;
 - b) se una persona è imputata di più reati commessi con una sola azione od omissione.

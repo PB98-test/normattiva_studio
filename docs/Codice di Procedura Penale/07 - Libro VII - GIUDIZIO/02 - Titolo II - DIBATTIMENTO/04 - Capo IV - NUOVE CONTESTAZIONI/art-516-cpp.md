@@ -20,7 +20,7 @@ ordine: 624
 
 # Art. 516 - ***Modifica della imputazione***
 
-1. Se nel corso dell'istruzione dibattimentale il fatto risulta diverso da come è descritto nel decreto che dispone il giudizio, e non appartiene alla competenza di un giudice superiore, il pubblico ministero modifica l'imputazione e procede alla relativa contestazione. [^agg-56] [^agg-67]
+1\. Se nel corso dell'istruzione dibattimentale il fatto risulta diverso da come è descritto nel decreto che dispone il giudizio, e non appartiene alla competenza di un giudice superiore, il pubblico ministero modifica l'imputazione e procede alla relativa contestazione. [^agg-56] [^agg-67]
 
 1-bis. Se a seguito della modifica il reato risulta attribuito alla cognizione del tribunale in composizione collegiale anzichè monocratica, l'inosservanza delle disposizioni sula composizione del giudice è rilevata o eccepita, a pena di decadenza, immediatamente dopo la nuova contestazione ovvero, nei casi indicati dagli [articoli 519](art-519-cpp.md) comma 2 e 520 comma 2, prima del compimento di ogni altro atto nella nuova udienza fissata a norma dei medesimi articoli. [^agg-90] [^agg-90a]
 

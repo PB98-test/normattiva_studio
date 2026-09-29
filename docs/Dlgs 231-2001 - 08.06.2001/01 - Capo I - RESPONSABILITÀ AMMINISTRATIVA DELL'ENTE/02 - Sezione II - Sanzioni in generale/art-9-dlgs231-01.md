@@ -20,14 +20,14 @@ ordine: 9
 
 # Art. 9 - ***Sanzioni amministrative***
 
-1. Le sanzioni per gli illeciti amministrativi dipendenti da reato sono:
+1\. Le sanzioni per gli illeciti amministrativi dipendenti da reato sono:
 
 - a) la sanzione pecuniaria;
 - b) le sanzioni interdittive;
 - c) la confisca;
 - d) la pubblicazione della sentenza.
 
-2. Le sanzioni interdittive sono:
+2\. Le sanzioni interdittive sono:
 
 - a) l'interdizione dall'esercizio dell'attività;
 - b) la sospensione o la revoca delle autorizzazioni, licenze o concessioni funzionali alla commissione dell'illecito;

@@ -20,7 +20,7 @@ ordine: 191
 
 # Art. 147-ter - ***Ricognizione in dibattimento delle persone che collaborano con la giustizia***
 
-1. Quando nel dibattimento occorre procedere a ricognizione della persona nei cui confronti è stato emesso il decreto di cambiamento delle generalità di cui all'articolo 3 del decreto legislativo 29 marzo 1993, n. 119, ovvero ad altro atto che implica l'osservazione del corpo della medesima, il giudice, ove lo ritenga indispensabile, ne autorizza o ordina la citazione o ne dispone l'accompagnamento coattivo per il tempo necessario al compimento dell'atto.   2. Durante tutto il tempo in cui la persona è presente nell'aula di udienza, il dibattimento si svolge a porte chiuse a norma dell'articolo 473, comma 2, del codice.   3. Se l'atto da assumere non ne rende necessaria l'osservazione, il giudice dispone le cautele idonee ad evitare che il volto della persona sia visibile. (27) (33)
+1\. Quando nel dibattimento occorre procedere a ricognizione della persona nei cui confronti è stato emesso il decreto di cambiamento delle generalità di cui all'articolo 3 del decreto legislativo 29 marzo 1993, n. 119, ovvero ad altro atto che implica l'osservazione del corpo della medesima, il giudice, ove lo ritenga indispensabile, ne autorizza o ordina la citazione o ne dispone l'accompagnamento coattivo per il tempo necessario al compimento dell'atto.   2. Durante tutto il tempo in cui la persona è presente nell'aula di udienza, il dibattimento si svolge a porte chiuse a norma dell'articolo 473, comma 2, del codice.   3. Se l'atto da assumere non ne rende necessaria l'osservazione, il giudice dispone le cautele idonee ad evitare che il volto della persona sia visibile. (27) (33)
 
 ----------------
 

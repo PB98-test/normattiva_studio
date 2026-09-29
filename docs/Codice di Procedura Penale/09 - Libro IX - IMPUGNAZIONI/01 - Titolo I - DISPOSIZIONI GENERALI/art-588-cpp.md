@@ -20,6 +20,6 @@ ordine: 706
 
 # Art. 588 - ***Sospensione della esecuzione***
 
-1. Dal momento della pronuncia, durante i termini per impugnare e fino all'esito del giudizio di impugnazione, l'esecuzione del provvedimento impugnato è sospesa, salvo che la legge disponga altrimenti.
+1\. Dal momento della pronuncia, durante i termini per impugnare e fino all'esito del giudizio di impugnazione, l'esecuzione del provvedimento impugnato è sospesa, salvo che la legge disponga altrimenti.
 
-2. Le impugnazioni contro i provvedimenti in materia di libertà personale non hanno in alcun caso effetto sospensivo.
+2\. Le impugnazioni contro i provvedimenti in materia di libertà personale non hanno in alcun caso effetto sospensivo.

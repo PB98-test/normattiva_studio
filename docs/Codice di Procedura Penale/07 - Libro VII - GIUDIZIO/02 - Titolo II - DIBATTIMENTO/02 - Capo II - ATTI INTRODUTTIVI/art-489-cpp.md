@@ -20,9 +20,9 @@ ordine: 594
 
 # Art. 489 - ***Rimedi per l'imputato contro il quale si è proceduto in assenza nell'udienza preliminare***
 
-1. Se vi è la prova che nel corso dell'udienza preliminare l'imputato è stato dichiarato assente in mancanza dei presupposti previsti dall'[articolo 420-bis](../../../05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/09%20-%20Titolo%20IX%20-%20UDIENZA%20PRELIMINARE/art-420-bis-cpp.md), il giudice, anche d'ufficio, dichiara la nullità del decreto di rinvio a giudizio e restituisce gli atti al giudice dell'udienza preliminare.
+1\. Se vi è la prova che nel corso dell'udienza preliminare l'imputato è stato dichiarato assente in mancanza dei presupposti previsti dall'[articolo 420-bis](../../../05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/09%20-%20Titolo%20IX%20-%20UDIENZA%20PRELIMINARE/art-420-bis-cpp.md), il giudice, anche d'ufficio, dichiara la nullità del decreto di rinvio a giudizio e restituisce gli atti al giudice dell'udienza preliminare.
 
-2. La nullità prevista dal comma 1 è sanata se non è eccepita dall'imputato che è comparso o ha rinunciato a comparire, ferma la possibilità dello stesso di essere restituito nel termine per formulare le richieste di procedimenti speciali e di esercitare le ulteriori facoltà dalle quali sia decaduto. In ogni caso, la nullità non può essere rilevata o eccepita se risulta che l'imputato era nelle condizioni di comparire all'udienza preliminare
+2\. La nullità prevista dal comma 1 è sanata se non è eccepita dall'imputato che è comparso o ha rinunciato a comparire, ferma la possibilità dello stesso di essere restituito nel termine per formulare le richieste di procedimenti speciali e di esercitare le ulteriori facoltà dalle quali sia decaduto. In ogni caso, la nullità non può essere rilevata o eccepita se risulta che l'imputato era nelle condizioni di comparire all'udienza preliminare
 
 2-bis. Fuori dai casi previsti dal comma 1, ferma restando la validità degli atti regolarmente compiuti in precedenza, l'imputato è restituito nel termine per esercitare le facoltà dalle quali è decaduto:
 

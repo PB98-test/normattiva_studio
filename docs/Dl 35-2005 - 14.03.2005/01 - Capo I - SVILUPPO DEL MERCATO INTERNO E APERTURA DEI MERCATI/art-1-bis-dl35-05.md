@@ -20,7 +20,7 @@ ordine: 2
 
 # Art. 1-bis - ***Modifiche al decreto legislativo 10 settembre 2003, n. 276***
 
-1. Al decreto legislativo 10 settembre 2003, n. 276, sono apportate le seguenti modificazioni:
+1\. Al decreto legislativo 10 settembre 2003, n. 276, sono apportate le seguenti modificazioni:
 
 - a) all'[articolo 13](../07%20-%20Capo%20VII%20-%20MODERNIZZAZIONE%20DEI%20SISTEMI%20DI%20PROTEZIONE%20SOCIALE%20E%20POTENZIAMENTO%20AMM/art-13-dl35-05.md), il comma 6 è abrogato;
 - b) all'articolo 34, il comma 2 è sostituito dal seguente: "2. Il contratto di lavoro intermittente può in ogni caso essere concluso con riferimento a prestazioni rese da soggetti con meno di venticinque anni di età ovvero da lavoratori con più di quarantacinque anni di età, anche pensionati";

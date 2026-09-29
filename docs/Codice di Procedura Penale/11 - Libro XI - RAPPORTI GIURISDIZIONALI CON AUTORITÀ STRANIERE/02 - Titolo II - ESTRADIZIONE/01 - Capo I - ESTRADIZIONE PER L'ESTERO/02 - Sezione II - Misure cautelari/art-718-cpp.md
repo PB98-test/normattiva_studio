@@ -20,6 +20,6 @@ ordine: 857
 
 # Art. 718 - ***Revoca e sostituzione delle misure***
 
-1. La revoca e la sostituzione delle misure previste dagli articoli precedenti sono disposte in camera di consiglio dalla corte di appello o, nel corso del procedimento davanti alla corte di cassazione, dalla corte medesima.
+1\. La revoca e la sostituzione delle misure previste dagli articoli precedenti sono disposte in camera di consiglio dalla corte di appello o, nel corso del procedimento davanti alla corte di cassazione, dalla corte medesima.
 
-2. La revoca è sempre disposta se il Ministro della giustizia ne fa richiesta. CAP012 CAP013 CAP014 CAP015
+2\. La revoca è sempre disposta se il Ministro della giustizia ne fa richiesta. CAP012 CAP013 CAP014 CAP015

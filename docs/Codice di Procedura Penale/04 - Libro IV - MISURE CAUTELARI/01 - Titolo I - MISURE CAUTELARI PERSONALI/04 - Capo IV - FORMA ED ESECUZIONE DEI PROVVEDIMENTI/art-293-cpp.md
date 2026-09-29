@@ -20,7 +20,7 @@ ordine: 351
 
 # Art. 293 - ***Adempimenti esecutivi***
 
-1. Salvo quanto previsto dall'[articolo 156](../../../02%20-%20Libro%20II%20-%20ATTI/05%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-156-cpp.md), l'ufficiale o l'agente incaricato di eseguire l'ordinanza che ha disposto la custodia cautelare consegna all'imputato copia del provvedimento unitamente a una comunicazione scritta, redatta in forma chiara e precisa e, per l'imputato che non conosce la lingua italiana, tradotta in una lingua a lui comprensibile, con cui lo informa:
+1\. Salvo quanto previsto dall'[articolo 156](../../../02%20-%20Libro%20II%20-%20ATTI/05%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-156-cpp.md), l'ufficiale o l'agente incaricato di eseguire l'ordinanza che ha disposto la custodia cautelare consegna all'imputato copia del provvedimento unitamente a una comunicazione scritta, redatta in forma chiara e precisa e, per l'imputato che non conosce la lingua italiana, tradotta in una lingua a lui comprensibile, con cui lo informa:
 
 - a) della facoltà di nominare un difensore di fiducia e di essere ammesso al patrocinio a spese dello Stato nei casi previsti dalla legge;
 - b) del diritto di ottenere informazioni in merito all'accusa;
@@ -41,11 +41,11 @@ ordine: 351
 
 1-quinquies. Nei casi di cui al comma 1-quater, il giudice può disporre la sostituzione della misura cautelare con altra meno grave o la sua esecuzione con le modalità di cui all'[articolo 285-bis](../02%20-%20Capo%20II%20-%20MISURE%20COERCITIVE/art-285-bis-cpp.md) anche prima dell'ingresso della persona sottoposta alla misura nell'istituto di pena.
 
-2. Le ordinanze che dispongono misure diverse dalla custodia cautelare sono notificate all'imputato.
+2\. Le ordinanze che dispongono misure diverse dalla custodia cautelare sono notificate all'imputato.
 
-3. Le ordinanze previste dai commi 1 e 2, dopo la loro notificazione o esecuzione, sono depositate nella cancelleria del giudice che le ha emesse insieme alla richiesta del pubblico ministero e agli atti presentati con la stessa. Avviso del deposito è notificato al difensore. Il difensore ha diritto di esaminare e di estrarre copia dei verbali delle comunicazioni e conversazioni intercettate di cui all'[articolo 291](art-291-cpp.md), comma 1. Ha in ogni caso diritto alla trasposizione, su supporto idoneo alla riproduzione dei dati, delle relative registrazioni. [^agg-83] [^agg-253] [^agg-260] [^agg-263] [^agg-267] [^agg-270] [^agg-275]
+3\. Le ordinanze previste dai commi 1 e 2, dopo la loro notificazione o esecuzione, sono depositate nella cancelleria del giudice che le ha emesse insieme alla richiesta del pubblico ministero e agli atti presentati con la stessa. Avviso del deposito è notificato al difensore. Il difensore ha diritto di esaminare e di estrarre copia dei verbali delle comunicazioni e conversazioni intercettate di cui all'[articolo 291](art-291-cpp.md), comma 1. Ha in ogni caso diritto alla trasposizione, su supporto idoneo alla riproduzione dei dati, delle relative registrazioni. [^agg-83] [^agg-253] [^agg-260] [^agg-263] [^agg-267] [^agg-270] [^agg-275]
 
-4. Copia dell'ordinanza che dispone una misura interdittiva è trasmessa all'organo eventualmente competente a disporre l'interdizione in via ordinaria.
+4\. Copia dell'ordinanza che dispone una misura interdittiva è trasmessa all'organo eventualmente competente a disporre l'interdizione in via ordinaria.
 
 4-bis. Copia dell'ordinanza che dispone la custodia cautelare in carcere nei confronti di madre di prole di minore età è comunicata al procuratore della Repubblica presso il tribunale per i minorenni del luogo di esecuzione della misura.
 

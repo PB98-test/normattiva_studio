@@ -20,7 +20,7 @@ ordine: 625
 
 # Art. 517 - ***Reato concorrente e circostanze aggravanti risultanti dal dibattimento***
 
-1. Qualora nel corso dell'istruzione dibattimentale emerga un reato connesso a norma dell'[articolo 12](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/02%20-%20Capo%20II%20-%20COMPETENZA/04%20-%20Sezione%20IV%20-%20Competenza%20per%20connessione/art-12-cpp.md) comma 1 lettera b) ovvero una circostanza aggravante e non ve ne sia menzione nel decreto che dispone il giudizio, il pubblico ministero contesta all'imputato il reato o la circostanza, purchè la cognizione non appartenga alla competenza di un giudice superiore.
+1\. Qualora nel corso dell'istruzione dibattimentale emerga un reato connesso a norma dell'[articolo 12](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/02%20-%20Capo%20II%20-%20COMPETENZA/04%20-%20Sezione%20IV%20-%20Competenza%20per%20connessione/art-12-cpp.md) comma 1 lettera b) ovvero una circostanza aggravante e non ve ne sia menzione nel decreto che dispone il giudizio, il pubblico ministero contesta all'imputato il reato o la circostanza, purchè la cognizione non appartenga alla competenza di un giudice superiore.
 
 1-bis. Si applicano le disposizioni previste dall'artitolo 516, commi 1-bis e 1-ter. [^agg-65] [^agg-67] [^agg-175] [^agg-190] [^agg-213] [^agg-232] [^agg-259] [^agg-265] [^agg-286]
 

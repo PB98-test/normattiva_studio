@@ -20,7 +20,7 @@ ordine: 203
 
 # Art. 171 - ***Nullità delle notificazioni***
 
-1. La notificazione è nulla:
+1\. La notificazione è nulla:
 
 - a) se l'atto è notificato in modo incompleto, fuori dei casi nei quali la legge consente la notificazione per estratto;
 - b) se vi è incertezza assoluta sull'autorità o sulla parte privata mittente o richiedente ovvero sul destinatario;

@@ -20,4 +20,4 @@ ordine: 219
 
 # Art. 186 - ***Inosservanza di norme tributarie***
 
-1. Quando la legge assoggetta un atto a una imposta o a una tassa, l'inosservanza della norma tributaria non rende inammissibile l'atto nè impedisce il suo compimento, salve le sanzioni finanziarie previste dalla legge.
+1\. Quando la legge assoggetta un atto a una imposta o a una tassa, l'inosservanza della norma tributaria non rende inammissibile l'atto nè impedisce il suo compimento, salve le sanzioni finanziarie previste dalla legge.

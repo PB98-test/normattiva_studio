@@ -20,17 +20,17 @@ ordine: 537
 
 # Art. 442 - ***Decisione***
 
-1. Terminata la discussione, il giudice provvede a norma degli articoli 529 e seguenti.
+1\. Terminata la discussione, il giudice provvede a norma degli articoli 529 e seguenti.
 
 1-bis. Ai fini della deliberazione il giudice utilizza gli atti contenuti nel fascicolo di cui all'[articolo 416](../../05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/09%20-%20Titolo%20IX%20-%20UDIENZA%20PRELIMINARE/art-416-cpp.md), comma 2, la documentazione di cui all'[articolo 419](../../05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/09%20-%20Titolo%20IX%20-%20UDIENZA%20PRELIMINARE/art-419-cpp.md), comma 3, e le prove assunte nell'udienza.
 
-2. In caso di condanna, la pena che il giudice determina tenendo conto di tutte le circostanze è diminuita della metà se si procede per una contravvenzione e di un terzo se si procede per un delitto. PERIODO ABROGATO DALLA L. 12 APRILE 2019, N. 33. PERIODO ABROGATO DALLA L. 12 APRILE 2019, N. 33. [^agg-20] [^agg-116] [^agg-200]
+2\. In caso di condanna, la pena che il giudice determina tenendo conto di tutte le circostanze è diminuita della metà se si procede per una contravvenzione e di un terzo se si procede per un delitto. PERIODO ABROGATO DALLA L. 12 APRILE 2019, N. 33. PERIODO ABROGATO DALLA L. 12 APRILE 2019, N. 33. [^agg-20] [^agg-116] [^agg-200]
 
 2-bis. Quando nè l'imputato, nè il suo difensore hanno proposto impugnazione contro la sentenza di condanna, la pena inflitta è ulteriormente ridotta di un sesto dal giudice dell'esecuzione. [^agg-328]
 
-3. COMMA ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 150.
+3\. COMMA ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 150.
 
-4. Si applica la disposizione dell'[articolo 426](../../05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/09%20-%20Titolo%20IX%20-%20UDIENZA%20PRELIMINARE/art-426-cpp.md) comma 2. [^agg-17] [^agg-30]
+4\. Si applica la disposizione dell'[articolo 426](../../05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/09%20-%20Titolo%20IX%20-%20UDIENZA%20PRELIMINARE/art-426-cpp.md) comma 2. [^agg-17] [^agg-30]
 
 [^agg-17]: *AGGIORNAMENTO (17)* La Corte costituzionale, con sentenza 28 gennaio - 15 febbraio 1991, n. 81 (in G.U. 1a s.s. 20/02/1991, n. 8), ha dichiarato la illegittimità costituzionale del combinato disposto degli [artt. 438](art-438-cpp.md), [439](art-439-cpp.md), [440](art-440-cpp.md) e [442 del codice di procedura penale](art-442-cpp.md), "nella parte in cui non prevede che il pubblico ministero, in caso di dissenso, sia tenuto ad enunciarne le ragioni e nella parte in cui non prevede che il giudice, quando, a dibattimento concluso, ritiene ingiustificato il dissenso del pubblico ministero, possa applicare all'imputato la riduzione di pena contemplata dall'[art. 442](art-442-cpp.md), secondo comma, dello stesso codice".
 

@@ -20,7 +20,7 @@ ordine: 222
 
 # Art. 204-bis - ***(Ricorso in sede giurisdizionale) .***
 
-1. Alternativamente alla proposizione del ricorso di cui all'[articolo 203](art-203-dlgs285-92.md), il trasgressore o gli altri soggetti indicati nell'[articolo 196](art-196-dlgs285-92.md), qualora non sia stato effettuato il pagamento in misura ridotta nei casi in cui è consentito, possono proporre opposizione davanti all'autorità giudiziaria ordinaria. L'opposizione è regolata dall'articolo 7 del decreto legislativo 1° settembre 2011, n. 150.)) [^agg-105]
+1\. Alternativamente alla proposizione del ricorso di cui all'[articolo 203](art-203-dlgs285-92.md), il trasgressore o gli altri soggetti indicati nell'[articolo 196](art-196-dlgs285-92.md), qualora non sia stato effettuato il pagamento in misura ridotta nei casi in cui è consentito, possono proporre opposizione davanti all'autorità giudiziaria ordinaria. L'opposizione è regolata dall'articolo 7 del decreto legislativo 1° settembre 2011, n. 150.)) [^agg-105]
 
 [^agg-62]: *AGGIORNAMENTO (62)* La Corte Costituzionale, con sentenza 5-8 aprile 2004, n. 114 (in G.U. 1a s.s. 14/4/2004, n. 15) ha dichiarato l'illegittimità costituzionale del comma 3 del presente articolo.
 

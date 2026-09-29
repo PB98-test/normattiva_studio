@@ -20,8 +20,8 @@ ordine: 87
 
 # Art. 73 - ***Apertura della liquidazione controllata dopo la revoca dell'omologazione***
 
-1. Dopo la revoca dell'omologazione il tribunale, su istanza del debitore o di un creditore e verificata la sussistenza dei presupposti di cui agli articoli 268 e 269, provvede ai sensi dell'articolo 270.
+1\. Dopo la revoca dell'omologazione il tribunale, su istanza del debitore o di un creditore e verificata la sussistenza dei presupposti di cui agli articoli 268 e 269, provvede ai sensi dell'articolo 270.
 
-2. Se la revoca consegue ad atti di frode o ad inadempimento, l'istanza di cui al comma 1 può essere proposta ... dal pubblico ministero.
+2\. Se la revoca consegue ad atti di frode o ad inadempimento, l'istanza di cui al comma 1 può essere proposta ... dal pubblico ministero.
 
-3. Nell'ipotesi di cui al comma 1, il giudice concede termine al debitore per l'integrazione della documentazione e provvede ai sensi dell'articolo 270.
+3\. Nell'ipotesi di cui al comma 1, il giudice concede termine al debitore per l'integrazione della documentazione e provvede ai sensi dell'articolo 270.

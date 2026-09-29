@@ -20,6 +20,6 @@ ordine: 17
 
 # Art. 17
 
-1. Con decreto del Ministro di grazia e giustizia, emanato entro sessanta giorni dalla data di entrata in vigore del presente decreto, sono stabiliti i modelli dei registri da tenere nelle cancellerie dei tribunali ordinari e delle sezioni distaccate, nonchè le modalità di iscrizione delle cause civili e le attività successive alla definizione dei procedimenti civili e penali.
+1\. Con decreto del Ministro di grazia e giustizia, emanato entro sessanta giorni dalla data di entrata in vigore del presente decreto, sono stabiliti i modelli dei registri da tenere nelle cancellerie dei tribunali ordinari e delle sezioni distaccate, nonchè le modalità di iscrizione delle cause civili e le attività successive alla definizione dei procedimenti civili e penali.
 
 #### Disposizioni relative alla corte di appello

@@ -20,4 +20,4 @@ ordine: 38
 
 # Art. 18 - ***Organismi presso i tribunali***
 
-1. I consigli degli ordini degli avvocati possono istituire organismi presso ciascun tribunale, avvalendosi di proprio personale e utilizzando i locali loro messi a disposizione dal presidente del tribunale. Gli organismi presso i tribunali sono iscritti al registro a semplice domanda, nel rispetto dei criteri stabiliti dai decreti di cui all'[articolo 16](art-16-dlgs28-10.md).
+1\. I consigli degli ordini degli avvocati possono istituire organismi presso ciascun tribunale, avvalendosi di proprio personale e utilizzando i locali loro messi a disposizione dal presidente del tribunale. Gli organismi presso i tribunali sono iscritti al registro a semplice domanda, nel rispetto dei criteri stabiliti dai decreti di cui all'[articolo 16](art-16-dlgs28-10.md).

@@ -20,4 +20,4 @@ ordine: 135
 
 # Art. 108-ter - ***Denunce e querele per reati commessi in altro Stato dell'Unione europea***
 
-1. Quando la persona offesa denunciante o querelante sia residente o abbia il domicilio nel territorio dello Stato, il procuratore della Repubblica trasmette al procuratore generale presso la Corte di appello le denunce o le querele per reati commessi in altri Stati dell'Unione europea, affinchè ne curi l'invio all'autorità giudiziaria competente.
+1\. Quando la persona offesa denunciante o querelante sia residente o abbia il domicilio nel territorio dello Stato, il procuratore della Repubblica trasmette al procuratore generale presso la Corte di appello le denunce o le querele per reati commessi in altri Stati dell'Unione europea, affinchè ne curi l'invio all'autorità giudiziaria competente.

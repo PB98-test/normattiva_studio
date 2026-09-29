@@ -20,4 +20,4 @@ ordine: 391
 
 # Art. 330 - ***Acquisizione delle notizie di reato***
 
-1. Il pubblico ministero e la polizia giudiziaria prendono notizia dei reati di propria iniziativa e ricevono le notizie di reato presentate o trasmesse a norma degli articoli seguenti.
+1\. Il pubblico ministero e la polizia giudiziaria prendono notizia dei reati di propria iniziativa e ricevono le notizie di reato presentate o trasmesse a norma degli articoli seguenti.

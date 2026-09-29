@@ -20,4 +20,4 @@ ordine: 111
 
 # Art. 91 - ***Diritti e facoltà degli enti e delle associazioni rappresentativi di interessi lesi dal reato***
 
-1. Gli enti e le associazioni senza scopo di lucro , ivi inclusi i centri antiviolenza e le case rifugio pubblici e privati, ai quali, anteriormente alla commissione del fatto per cui si procede, sono state riconosciute, in forza di legge, finalità di tutela degli interessi lesi dal reato, possono esercitare, in ogni stato e grado del procedimento, i diritti e le facoltà attribuiti alla persona offesa dal reato.
+1\. Gli enti e le associazioni senza scopo di lucro , ivi inclusi i centri antiviolenza e le case rifugio pubblici e privati, ai quali, anteriormente alla commissione del fatto per cui si procede, sono state riconosciute, in forza di legge, finalità di tutela degli interessi lesi dal reato, possono esercitare, in ogni stato e grado del procedimento, i diritti e le facoltà attribuiti alla persona offesa dal reato.

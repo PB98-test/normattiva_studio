@@ -20,4 +20,4 @@ ordine: 20
 
 # Art. 19 - ***Provvedimenti sulla riunione e separazione***
 
-1. La riunione e la separazione di processi sono disposte con ordinanza, anche di ufficio, sentite le parti.
+1\. La riunione e la separazione di processi sono disposte con ordinanza, anche di ufficio, sentite le parti.

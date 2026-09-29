@@ -20,4 +20,4 @@ ordine: 751
 
 # Art. 626 - ***Effetti della sentenza sui provvedimenti di natura personale o reale***
 
-1. Quando, in seguito alla sentenza della corte di cassazione, deve cessare una misura cautelare ovvero una pena accessoria o una misura di sicurezza, la cancelleria ne comunica immediatamente il dispositivo al procuratore generale presso la corte medesima perchè dia i provvedimenti occorrenti.
+1\. Quando, in seguito alla sentenza della corte di cassazione, deve cessare una misura cautelare ovvero una pena accessoria o una misura di sicurezza, la cancelleria ne comunica immediatamente il dispositivo al procuratore generale presso la corte medesima perchè dia i provvedimenti occorrenti.

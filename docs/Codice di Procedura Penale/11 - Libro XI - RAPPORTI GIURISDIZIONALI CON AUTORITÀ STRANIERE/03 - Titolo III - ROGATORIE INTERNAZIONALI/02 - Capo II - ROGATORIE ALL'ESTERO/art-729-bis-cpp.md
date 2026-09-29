@@ -20,6 +20,6 @@ ordine: 876
 
 # Art. 729-bis - ***(Acquisizione di atti e informazioni da autorità straniere).***
 
-1. La documentazione relativa ad atti e a informazioni spontaneamente trasmessi dall'autorità di altro Stato può essere acquisita al fascicolo del pubblico ministero.
+1\. La documentazione relativa ad atti e a informazioni spontaneamente trasmessi dall'autorità di altro Stato può essere acquisita al fascicolo del pubblico ministero.
 
-2. L'autorità giudiziaria è vincolata al rispetto delle condizioni eventualmente poste all'utilizzabilità degli atti e delle informazioni spontaneamente trasmessi a norma del comma 1.
+2\. L'autorità giudiziaria è vincolata al rispetto delle condizioni eventualmente poste all'utilizzabilità degli atti e delle informazioni spontaneamente trasmessi a norma del comma 1.

@@ -20,7 +20,7 @@ ordine: 3
 
 # Art. 3
 
-1. L'[articolo 3](art-3-dlgs51-98.md) del regio decreto 30 gennaio 1941, n. 12 è così modificato:
+1\. L'[articolo 3](art-3-dlgs51-98.md) del regio decreto 30 gennaio 1941, n. 12 è così modificato:
 
 - a) nel primo comma, le parole ", pretura" sono soppresse;
 - b) nel secondo comma, le parole "Alle corti, ai tribunali ed alle preture" sono sostituite dalle parole "Alle corti e ai tribunali".

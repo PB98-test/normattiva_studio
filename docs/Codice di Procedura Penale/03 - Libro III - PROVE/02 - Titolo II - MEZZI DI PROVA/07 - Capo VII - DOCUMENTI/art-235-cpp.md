@@ -20,4 +20,4 @@ ordine: 273
 
 # Art. 235 - ***Documenti costituenti corpo del reato***
 
-1. I documenti che costituiscono corpo del reato devono essere acquisiti qualunque sia la persona che li abbia formati o li detenga.
+1\. I documenti che costituiscono corpo del reato devono essere acquisiti qualunque sia la persona che li abbia formati o li detenga.

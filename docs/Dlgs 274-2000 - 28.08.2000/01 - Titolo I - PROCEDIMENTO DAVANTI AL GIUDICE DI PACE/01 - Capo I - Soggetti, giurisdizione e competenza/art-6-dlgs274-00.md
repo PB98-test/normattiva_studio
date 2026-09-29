@@ -20,8 +20,8 @@ ordine: 6
 
 # Art. 6 - ***Competenza per materia determinata dalla connessione***
 
-1. Tra procedimenti di competenza del giudice di pace e procedimenti di competenza di altro giudice, si ha connessione solo nel caso di persona imputata di più reati commessi con una sola azione od omissione.
+1\. Tra procedimenti di competenza del giudice di pace e procedimenti di competenza di altro giudice, si ha connessione solo nel caso di persona imputata di più reati commessi con una sola azione od omissione.
 
-2. Se alcuni dei procedimenti connessi appartengono alla competenza del giudice di pace e altri a quella della corte di assise o del tribunale, è competente per tutti il giudice superiore.
+2\. Se alcuni dei procedimenti connessi appartengono alla competenza del giudice di pace e altri a quella della corte di assise o del tribunale, è competente per tutti il giudice superiore.
 
-3. La connessione non opera se non è possibile la riunione dei processi, nè tra procedimenti di competenza del giudice di pace e procedimenti di competenza di un giudice speciale.
+3\. La connessione non opera se non è possibile la riunione dei processi, nè tra procedimenti di competenza del giudice di pace e procedimenti di competenza di un giudice speciale.

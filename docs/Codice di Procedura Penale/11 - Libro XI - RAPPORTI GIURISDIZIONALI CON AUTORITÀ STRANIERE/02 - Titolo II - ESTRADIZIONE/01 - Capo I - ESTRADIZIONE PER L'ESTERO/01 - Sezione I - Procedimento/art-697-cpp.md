@@ -20,7 +20,7 @@ ordine: 836
 
 # Art. 697 - ***Estradizione e poteri del Ministro della giustizia***
 
-1. Salvo che sia diversamente stabilito, la consegna a uno stato estero di una persona per l'esecuzione di una sentenza straniera di condanna a pena detentiva o di altro provvedimento restrittivo della libertà personale può aver luogo soltanto mediante estradizione.
+1\. Salvo che sia diversamente stabilito, la consegna a uno stato estero di una persona per l'esecuzione di una sentenza straniera di condanna a pena detentiva o di altro provvedimento restrittivo della libertà personale può aver luogo soltanto mediante estradizione.
 
 1-bis. Il Ministro della giustizia non dà corso alla domanda di estradizione quando questa può compromettere la sovranità, la sicurezza o altri interessi essenziali dello Stato.
 
@@ -30,4 +30,4 @@ ordine: 836
 
 1-quinquies. La decisione di non dare corso alla domanda di estradizione è comunicata dal Ministro della giustizia allo Stato estero e all'autorità giudiziaria.
 
-2. Nel concorso di più domande di estradizione, il Ministro della giustizia ne stabilisce l'ordine di precedenza. A tal fine egli tiene conto di tutte le circostanze del caso e in particolare della data di ricezione delle domande, della gravità e del luogo di commissione del reato o dei reati, della nazionalità e della residenza della persona richiesta e della possibilità di una riestradizione dallo stato richiedente a un altro stato.
+2\. Nel concorso di più domande di estradizione, il Ministro della giustizia ne stabilisce l'ordine di precedenza. A tal fine egli tiene conto di tutte le circostanze del caso e in particolare della data di ricezione delle domande, della gravità e del luogo di commissione del reato o dei reati, della nazionalità e della residenza della persona richiesta e della possibilità di una riestradizione dallo stato richiedente a un altro stato.

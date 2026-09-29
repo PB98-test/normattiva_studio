@@ -20,7 +20,7 @@ ordine: 2
 
 # Art. 2 - ***Definizioni***
 
-1. Ai fini del presente codice si intende per:
+1\. Ai fini del presente codice si intende per:
 
 - a) "crisi": lo stato del debitore che rende probabile l'insolvenza e che si manifesta con l'inadeguatezza dei flussi di cassa prospettici a far fronte alle obbligazioni nei successivi dodici mesi;
 - b) «insolvenza»: lo stato del debitore che si manifesta con inadempimenti od altri fatti esteriori, i quali dimostrino che il debitore non è più in grado di soddisfare regolarmente le proprie obbligazioni;

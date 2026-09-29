@@ -20,6 +20,6 @@ ordine: 729
 
 # Art. 607 - ***Ricorso dell'imputato***
 
-1. L'imputato può ricorrere per cassazione contro la sentenza di condanna o di proscioglimento ovvero contro la sentenza inappellabile di non luogo a procedere.
+1\. L'imputato può ricorrere per cassazione contro la sentenza di condanna o di proscioglimento ovvero contro la sentenza inappellabile di non luogo a procedere.
 
-2. Può, inoltre, ricorrere contro le sole disposizioni della sentenza che riguardano le spese processuali.
+2\. Può, inoltre, ricorrere contro le sole disposizioni della sentenza che riguardano le spese processuali.

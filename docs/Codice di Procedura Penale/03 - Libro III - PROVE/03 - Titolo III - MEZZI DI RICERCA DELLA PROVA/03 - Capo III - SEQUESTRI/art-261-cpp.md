@@ -20,4 +20,4 @@ ordine: 305
 
 # Art. 261 - ***Rimozione e riapposizione dei sigilli***
 
-1. L'autorità giudiziaria, quando occorre procedere alla rimozione dei sigilli, ne verifica prima l'identità e l'integrità con l'assistenza dell'ausiliario. Compiuto l'atto per cui si è resa necessaria la rimozione dei sigilli, le cose sequestrate sono nuovamente sigillate dall'ausiliario in presenza dell'autorità giudiziaria. L'autorità giudiziaria e l'ausiliario appongono presso il sigillo la data e la sottoscrizione.
+1\. L'autorità giudiziaria, quando occorre procedere alla rimozione dei sigilli, ne verifica prima l'identità e l'integrità con l'assistenza dell'ausiliario. Compiuto l'atto per cui si è resa necessaria la rimozione dei sigilli, le cose sequestrate sono nuovamente sigillate dall'ausiliario in presenza dell'autorità giudiziaria. L'autorità giudiziaria e l'ausiliario appongono presso il sigillo la data e la sottoscrizione.

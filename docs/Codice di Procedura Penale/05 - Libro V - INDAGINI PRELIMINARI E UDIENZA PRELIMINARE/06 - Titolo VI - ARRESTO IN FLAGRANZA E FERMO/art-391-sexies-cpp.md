@@ -20,7 +20,7 @@ ordine: 470
 
 # Art. 391-sexies - ***Accesso ai luoghi e documentazione***
 
-1. Quando effettuano un accesso per prendere visione dello stato dei luoghi e delle cose ovvero per procedere alla loro descrizione o per eseguire rilievi tecnici, grafici, planimetrici, fotografici o audiovisivi, il difensore, il sostituto e gli ausiliari indicati nell'[articolo 391-bis](art-391-bis-cpp.md) possono redigere un verbale nel quale sono riportati:
+1\. Quando effettuano un accesso per prendere visione dello stato dei luoghi e delle cose ovvero per procedere alla loro descrizione o per eseguire rilievi tecnici, grafici, planimetrici, fotografici o audiovisivi, il difensore, il sostituto e gli ausiliari indicati nell'[articolo 391-bis](art-391-bis-cpp.md) possono redigere un verbale nel quale sono riportati:
 
 - a) la data ed il luogo dell'accesso;
 - b) le proprie generalità e quelle delle persone intervenute;

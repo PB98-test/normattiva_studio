@@ -20,8 +20,8 @@ ordine: 220
 
 # Art. 187 - ***Oggetto della prova***
 
-1. Sono oggetto di prova i fatti che si riferiscono all'imputazione, alla punibilità e alla determinazione della pena o della misura di sicurezza.
+1\. Sono oggetto di prova i fatti che si riferiscono all'imputazione, alla punibilità e alla determinazione della pena o della misura di sicurezza.
 
-2. Sono altresì oggetto di prova i fatti dai quali dipende l'applicazione di norme processuali.
+2\. Sono altresì oggetto di prova i fatti dai quali dipende l'applicazione di norme processuali.
 
-3. Se vi è costituzione di parte civile, sono inoltre oggetto di prova i fatti inerenti alla responsabilità civile derivante dal reato.
+3\. Se vi è costituzione di parte civile, sono inoltre oggetto di prova i fatti inerenti alla responsabilità civile derivante dal reato.

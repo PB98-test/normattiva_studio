@@ -20,7 +20,7 @@ ordine: 1
 
 # Art. 1 - ***Definizioni***
 
-1. Ai fini del presente decreto si intende per:
+1\. Ai fini del presente decreto si intende per:
 
 - a) Rito ordinario di cognizione: il procedimento regolato dalle norme del titolo I e del titolo III del libro secondo del [codice di procedura civile](../../Codice%20di%20Procedura%20Civile/00%20-%20Indice%20%28cpc%29.md);
 - b) Rito del lavoro: il procedimento regolato dalle norme della sezione II del capo I del titolo IV del libro secondo del [codice di procedura civile](../../Codice%20di%20Procedura%20Civile/00%20-%20Indice%20%28cpc%29.md);

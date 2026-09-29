@@ -20,4 +20,4 @@ ordine: 199
 
 # Art. 167 - ***Notificazioni ad altri soggetti***
 
-1. Le notificazioni a soggetti diversi da quelli indicati negli articoli precedenti si eseguono a norma dell'[articolo 148](art-148-cpp.md), comma 1. Nel caso previsto dal comma 4 dell'[articolo 148](art-148-cpp.md), si eseguono a norma dell'[articolo 157](art-157-cpp.md), commi 1, 2, 3, 4 e 8, salvi i casi di urgenza previsti dall'[articolo 149](art-149-cpp.md).
+1\. Le notificazioni a soggetti diversi da quelli indicati negli articoli precedenti si eseguono a norma dell'[articolo 148](art-148-cpp.md), comma 1. Nel caso previsto dal comma 4 dell'[articolo 148](art-148-cpp.md), si eseguono a norma dell'[articolo 157](art-157-cpp.md), commi 1, 2, 3, 4 e 8, salvi i casi di urgenza previsti dall'[articolo 149](art-149-cpp.md).

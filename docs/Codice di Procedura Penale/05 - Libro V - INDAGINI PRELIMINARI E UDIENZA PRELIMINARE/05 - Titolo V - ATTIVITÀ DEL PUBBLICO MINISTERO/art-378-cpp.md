@@ -20,4 +20,4 @@ ordine: 449
 
 # Art. 378 - ***Poteri coercitivi del pubblico ministero***
 
-1. Il pubblico ministero ha, nell'esercizio delle sue funzioni, i poteri indicati nell'[articolo 131](../../02%20-%20Libro%20II%20-%20ATTI/02%20-%20Titolo%20II%20-%20ATTI%20E%20PROVVEDIMENTI%20DEL%20GIUDICE/art-131-cpp.md).
+1\. Il pubblico ministero ha, nell'esercizio delle sue funzioni, i poteri indicati nell'[articolo 131](../../02%20-%20Libro%20II%20-%20ATTI/02%20-%20Titolo%20II%20-%20ATTI%20E%20PROVVEDIMENTI%20DEL%20GIUDICE/art-131-cpp.md).

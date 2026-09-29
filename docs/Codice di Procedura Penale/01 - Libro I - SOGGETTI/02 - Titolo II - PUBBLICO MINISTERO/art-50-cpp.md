@@ -20,8 +20,8 @@ ordine: 60
 
 # Art. 50 - ***Azione penale***
 
-1. Il pubblico ministero esercita l'azione penale quando non sussistono i presupposti per la richiesta di archiviazione.
+1\. Il pubblico ministero esercita l'azione penale quando non sussistono i presupposti per la richiesta di archiviazione.
 
-2. Quando non è necessaria la querela, la richiesta, l'istanza o l'autorizzazione a procedere, l'azione penale è esercitata di ufficio.
+2\. Quando non è necessaria la querela, la richiesta, l'istanza o l'autorizzazione a procedere, l'azione penale è esercitata di ufficio.
 
-3. L'esercizio dell'azione penale può essere sospeso o interrotto soltanto nei casi espressamente previsti dalla legge.
+3\. L'esercizio dell'azione penale può essere sospeso o interrotto soltanto nei casi espressamente previsti dalla legge.

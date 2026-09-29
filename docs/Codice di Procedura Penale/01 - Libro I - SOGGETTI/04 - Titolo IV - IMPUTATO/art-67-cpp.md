@@ -20,4 +20,4 @@ ordine: 81
 
 # Art. 67 - ***Incertezza sull'età dell'imputato***
 
-1. In ogni stato e grado del procedimento, quando vi è ragione di ritenere che l'imputato sia minorenne, l'autorità giudiziaria trasmette gli atti al procuratore della Repubblica presso il tribunale per i minorenni.
+1\. In ogni stato e grado del procedimento, quando vi è ragione di ritenere che l'imputato sia minorenne, l'autorità giudiziaria trasmette gli atti al procuratore della Repubblica presso il tribunale per i minorenni.

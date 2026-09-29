@@ -20,7 +20,7 @@ ordine: 52
 
 # Art. 45-bis - ***Liberazione degli immobili e delle aziende***
 
-1. L'Agenzia, ricevuta la comunicazione del provvedimento definitivo di confisca, qualora l'immobile risulti ancora occupato, con provvedimento revocabile in ogni momento, può differire l'esecuzione dello sgombero o dell'allontanamento nel caso previsto dall'[articolo 40](../02%20-%20Capo%20II%20-%20La%20gestione%20dei%20beni%20sequestrati%20e%20confiscati/art-40-dlgs159-11.md), comma 3-ter, ovvero qualora lo ritenga opportuno in vista dei provvedimenti di destinazione da adottare.
+1\. L'Agenzia, ricevuta la comunicazione del provvedimento definitivo di confisca, qualora l'immobile risulti ancora occupato, con provvedimento revocabile in ogni momento, può differire l'esecuzione dello sgombero o dell'allontanamento nel caso previsto dall'[articolo 40](../02%20-%20Capo%20II%20-%20La%20gestione%20dei%20beni%20sequestrati%20e%20confiscati/art-40-dlgs159-11.md), comma 3-ter, ovvero qualora lo ritenga opportuno in vista dei provvedimenti di destinazione da adottare.
 
 1-bis. Dopo la definitività del provvedimento di confisca non possono prestare lavoro presso l'impresa confiscata i soggetti che sono parenti, coniugi, affini o conviventi del destinatario della confisca nè coloro che sono stati condannati, anche con sentenza non definitiva, per il reato di cui all'[articolo 416-bis](../../../../Codice%20Penale/02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/05%20-%20Titolo%20V%20-%20DEI%20DELITTI%20CONTRO%20L%27ORDINE%20PUBBLICO/art-416-bis-cp.md) del codice penale. I relativi contratti sono risolti di diritto. [^agg-20]
 

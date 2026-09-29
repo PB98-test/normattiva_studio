@@ -20,4 +20,4 @@ ordine: 9
 
 # Art. 8 - ***(Durata massima delle misure protettive).***
 
-1. 1. La durata complessiva delle misure protettive, fino alla omologazione dello strumento di regolazione della crisi e dell'insolvenza o alla apertura della procedura di insolvenza, non può superare il periodo, anche non continuativo, di dodici mesi, inclusi eventuali rinnovi o proroghe, tenuto conto delle misure protettive di cui all'articolo 18
+1\. 1. La durata complessiva delle misure protettive, fino alla omologazione dello strumento di regolazione della crisi e dell'insolvenza o alla apertura della procedura di insolvenza, non può superare il periodo, anche non continuativo, di dodici mesi, inclusi eventuali rinnovi o proroghe, tenuto conto delle misure protettive di cui all'articolo 18

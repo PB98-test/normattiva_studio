@@ -20,13 +20,13 @@ ordine: 601
 
 # Art. 495 - ***Provvedimenti del giudice in ordine alla prova***
 
-1. Il giudice, sentite le parti, provvede con ordinanza all'ammissione delle prove a norma degli [articoli 190](../../../03%20-%20Libro%20III%20-%20PROVE/01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-190-cpp.md), comma 1, e 190-bis .Quando è stata ammessa l'acquisizione di verbali di prove di altri procedimenti, il giudice provvede in ordine alla richiesta di nuova assunzione della stessa prova solo dopo l'acquisizione della documentazione relativa alla prova dell'altro procedimento.
+1\. Il giudice, sentite le parti, provvede con ordinanza all'ammissione delle prove a norma degli [articoli 190](../../../03%20-%20Libro%20III%20-%20PROVE/01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-190-cpp.md), comma 1, e 190-bis .Quando è stata ammessa l'acquisizione di verbali di prove di altri procedimenti, il giudice provvede in ordine alla richiesta di nuova assunzione della stessa prova solo dopo l'acquisizione della documentazione relativa alla prova dell'altro procedimento.
 
-2. L'imputato ha diritto all'ammissione delle prove indicate a discarico sui fatti costituenti oggetto delle prove a carico; lo stesso diritto spetta al pubblico ministero in ordine alle prove a carico dell'imputato sui fatti costituenti oggetto delle prove a discarico.
+2\. L'imputato ha diritto all'ammissione delle prove indicate a discarico sui fatti costituenti oggetto delle prove a carico; lo stesso diritto spetta al pubblico ministero in ordine alle prove a carico dell'imputato sui fatti costituenti oggetto delle prove a discarico.
 
-3. Prima che il giudice provveda sulla domanda, le parti hanno facoltà di esaminare i documenti di cui è chiesta l'ammissione.
+3\. Prima che il giudice provveda sulla domanda, le parti hanno facoltà di esaminare i documenti di cui è chiesta l'ammissione.
 
-4. Nel corso dell'istruzione dibattimentale, il giudice decide con ordinanza sulle eccezioni proposte dalle parti in ordine alla ammissibilità delle prove. Il giudice, sentite le parti, può revocare con ordinanza l'ammissione di prove che risultano superflue o ammettere prove già escluse.
+4\. Nel corso dell'istruzione dibattimentale, il giudice decide con ordinanza sulle eccezioni proposte dalle parti in ordine alla ammissibilità delle prove. Il giudice, sentite le parti, può revocare con ordinanza l'ammissione di prove che risultano superflue o ammettere prove già escluse.
 
 4-bis. Nel corso dell'istruzione dibattimentale ciascuna delle parti può rinunziare, con il consenso dell'altra parte, all'assunzione delle prove ammesse a sua richiesta.
 

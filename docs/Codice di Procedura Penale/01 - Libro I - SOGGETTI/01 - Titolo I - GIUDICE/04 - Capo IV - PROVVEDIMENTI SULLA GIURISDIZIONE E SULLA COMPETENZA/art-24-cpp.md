@@ -20,9 +20,9 @@ ordine: 25
 
 # Art. 24 - ***Decisioni del giudice di appello sulla competenza***
 
-1. Il giudice di appello pronuncia sentenza di annullamento e ordina la trasmissione degli atti al giudice di primo grado competente quando riconosce che il giudice di primo grado era incompetente per materia a norma dell'[articolo 23](art-23-cpp.md) comma 1 ovvero per territorio o per connessione, purchè, in tali ultime ipotesi, l'incompetenza sia stata eccepita a norma dell'[articolo 21](art-21-cpp.md) e l'eccezione sia stata riproposta nei motivi di appello. [^agg-48] [^agg-70]
+1\. Il giudice di appello pronuncia sentenza di annullamento e ordina la trasmissione degli atti al giudice di primo grado competente quando riconosce che il giudice di primo grado era incompetente per materia a norma dell'[articolo 23](art-23-cpp.md) comma 1 ovvero per territorio o per connessione, purchè, in tali ultime ipotesi, l'incompetenza sia stata eccepita a norma dell'[articolo 21](art-21-cpp.md) e l'eccezione sia stata riproposta nei motivi di appello. [^agg-48] [^agg-70]
 
-2. Negli altri casi il giudice di appello pronuncia nel merito, salvo che si tratti di decisione inappellabile.
+2\. Negli altri casi il giudice di appello pronuncia nel merito, salvo che si tratti di decisione inappellabile.
 
 [^agg-48]: *AGGIORNAMENTO (48)* La Corte costituzionale, con sentenza 23 aprile-5maggio 1993, n. 214 (in G.U. 1a s. s. 12/5/1993, n. 20) ha dichiarato l' illegittimità costituzionale del secondo comma del presente articolo "nella parte in cui dispone che, a seguito dell'annullamento della sentenza di primo grado per incompetenza per materia, gli atti siano trasmessi al giudice ritenuto competente, anzichè al pubblico ministero presso quest'ultimo".
 

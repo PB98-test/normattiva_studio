@@ -20,6 +20,6 @@ ordine: 290
 
 # Art. 251 - ***Perquisizioni nel domicilio. Limiti temporali***
 
-1. La perquisizione in un'abitazione o nei luoghi chiusi adiacenti a essa non può essere iniziata prima delle ore sette e dopo le ore venti.
+1\. La perquisizione in un'abitazione o nei luoghi chiusi adiacenti a essa non può essere iniziata prima delle ore sette e dopo le ore venti.
 
-2. Tuttavia nei casi urgenti l'autorità giudiziaria può disporre per iscritto che la perquisizione sia eseguita fuori dei suddetti limiti temporali.
+2\. Tuttavia nei casi urgenti l'autorità giudiziaria può disporre per iscritto che la perquisizione sia eseguita fuori dei suddetti limiti temporali.

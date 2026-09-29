@@ -20,4 +20,4 @@ ordine: 398
 
 # Art. 335-bis - ***(Limiti all'efficacia dell'iscrizione ai fini civili e amministrativi).***
 
-1. La mera iscrizione nel registro di cui all'[articolo 335](art-335-cpp.md) non può, da sola, determinare effetti pregiudizievoli di natura civile o amministrativa per la persona alla quale il reato è attribuito.
+1\. La mera iscrizione nel registro di cui all'[articolo 335](art-335-cpp.md) non può, da sola, determinare effetti pregiudizievoli di natura civile o amministrativa per la persona alla quale il reato è attribuito.

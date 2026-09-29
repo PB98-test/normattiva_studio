@@ -20,7 +20,7 @@ ordine: 759
 
 # Art. 632 - ***Soggetti legittimati alla richiesta***
 
-1. Possono chiedere la revisione:
+1\. Possono chiedere la revisione:
 
 - a) il condannato o un suo prossimo congiunto ovvero la persona che ha sul condannato l'autorità tutoria e, se il condannato è morto, l'erede o un prossimo congiunto;
 - b) il procuratore generale presso la corte di appello nel cui distretto fu pronunciata la sentenza di condanna. Le persone indicate nella lettera a) possono unire la propria richiesta a quella del procuratore generale.

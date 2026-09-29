@@ -20,25 +20,25 @@ ordine: 136
 
 # Art. 114 - ***Divieto di pubblicazione di atti e di immagini***
 
-1. È vietata la pubblicazione, anche parziale o per riassunto, con il mezzo della stampa o con altro mezzo di diffusione, degli atti coperti dal segreto o anche solo del loro contenuto.
+1\. È vietata la pubblicazione, anche parziale o per riassunto, con il mezzo della stampa o con altro mezzo di diffusione, degli atti coperti dal segreto o anche solo del loro contenuto.
 
-2. È vietata la pubblicazione, anche parziale, degli atti non più coperti dal segreto fino a che non siano concluse le indagini preliminari ovvero fino al termine dell'udienza preliminare .... [^agg-253] [^agg-260] [^agg-263] [^agg-267] [^agg-270] [^agg-275]
+2\. È vietata la pubblicazione, anche parziale, degli atti non più coperti dal segreto fino a che non siano concluse le indagini preliminari ovvero fino al termine dell'udienza preliminare .... [^agg-253] [^agg-260] [^agg-263] [^agg-267] [^agg-270] [^agg-275]
 
 2-bis. È sempre vietata la pubblicazione, anche parziale, del contenuto delle intercettazioni se non è riprodotto dal giudice nella motivazione di un provvedimento o utilizzato nel corso del dibattimento. [^agg-270] [^agg-275]
 
-3. Se si procede al dibattimento, non è consentita la pubblicazione, anche parziale, degli atti del fascicolo per il dibattimento, se non dopo la pronuncia della sentenza di primo grado, e di quelli del fascicolo del pubblico ministero, se non dopo la pronuncia della sentenza in grado di appello. È sempre consentita la pubblicazione degli atti utilizzati per le contestazioni. [^agg-61]
+3\. Se si procede al dibattimento, non è consentita la pubblicazione, anche parziale, degli atti del fascicolo per il dibattimento, se non dopo la pronuncia della sentenza di primo grado, e di quelli del fascicolo del pubblico ministero, se non dopo la pronuncia della sentenza in grado di appello. È sempre consentita la pubblicazione degli atti utilizzati per le contestazioni. [^agg-61]
 
-4. È vietata la pubblicazione, anche parziale, degli atti del dibattimento celebrato a porte chiuse nei casi previsti dall'[articolo 472](../../07%20-%20Libro%20VII%20-%20GIUDIZIO/02%20-%20Titolo%20II%20-%20DIBATTIMENTO/01%20-%20Capo%20I%20-%20DISPOSIZIONI%20GENERALI/art-472-cpp.md) commi 1 e 2. In tali casi il giudice, sentite le parti, può disporre il divieto di pubblicazione anche degli atti o di parte degli atti utilizzati per le contestazioni. Il divieto di pubblicazione cessa comunque quando sono trascorsi i termini stabiliti dalla legge sugli archivi di Stato ovvero è trascorso il termine di dieci anni dalla sentenza irrevocabile e la pubblicazione è autorizzata dal ministro di grazia e giustizia.
+4\. È vietata la pubblicazione, anche parziale, degli atti del dibattimento celebrato a porte chiuse nei casi previsti dall'[articolo 472](../../07%20-%20Libro%20VII%20-%20GIUDIZIO/02%20-%20Titolo%20II%20-%20DIBATTIMENTO/01%20-%20Capo%20I%20-%20DISPOSIZIONI%20GENERALI/art-472-cpp.md) commi 1 e 2. In tali casi il giudice, sentite le parti, può disporre il divieto di pubblicazione anche degli atti o di parte degli atti utilizzati per le contestazioni. Il divieto di pubblicazione cessa comunque quando sono trascorsi i termini stabiliti dalla legge sugli archivi di Stato ovvero è trascorso il termine di dieci anni dalla sentenza irrevocabile e la pubblicazione è autorizzata dal ministro di grazia e giustizia.
 
-5. Se non si procede al dibattimento, il giudice, sentite le parti, può disporre il divieto di pubblicazione di atti o di parte di atti quando la pubblicazione di essi può offendere il buon costume o comportare la diffusione di notizie sulle quali la legge prescrive di mantenere il segreto nell'interesse dello Stato ovvero causare pregiudizio alla riservatezza dei testimoni o delle parti private. Si applica la disposizione dell'ultimo periodo del comma 4.
+5\. Se non si procede al dibattimento, il giudice, sentite le parti, può disporre il divieto di pubblicazione di atti o di parte di atti quando la pubblicazione di essi può offendere il buon costume o comportare la diffusione di notizie sulle quali la legge prescrive di mantenere il segreto nell'interesse dello Stato ovvero causare pregiudizio alla riservatezza dei testimoni o delle parti private. Si applica la disposizione dell'ultimo periodo del comma 4.
 
-6. E vietata la pubblicazione delle generalità e dell'immagine dei minorenni testimoni, persone offese o danneggiati dal reato fino a quando non sono divenuti maggiorenni. Il tribunale per i minorenni, nell'interesse esclusivo del minorenne, o il minorenne che ha compiuto i sedici anni, può consentire la pubblicazione. È altresì vietata la pubblicazione di elementi che anche indirettamente possano comunque portare alla identificazione dei suddetti minorenni.
+6\. E vietata la pubblicazione delle generalità e dell'immagine dei minorenni testimoni, persone offese o danneggiati dal reato fino a quando non sono divenuti maggiorenni. Il tribunale per i minorenni, nell'interesse esclusivo del minorenne, o il minorenne che ha compiuto i sedici anni, può consentire la pubblicazione. È altresì vietata la pubblicazione di elementi che anche indirettamente possano comunque portare alla identificazione dei suddetti minorenni.
 
 6-bis. È vietata la pubblicazione dell'immagine di persona privata della libertà personale ripresa mentre la stessa si trova sottoposta all'uso di manette ai polsi ovvero ad altro mezzo di coercizione fisica, salvo che la persona vi consenta.
 
 6-ter. Fermo quanto disposto dal comma 7, è vietata la pubblicazione delle ordinanze che applicano misure cautelari personali fino a che non siano concluse le indagini preliminari ovvero fino al termine dell'udienza preliminare.
 
-7. È sempre consentita la pubblicazione del contenuto di atti non coperti dal segreto.
+7\. È sempre consentita la pubblicazione del contenuto di atti non coperti dal segreto.
 
 [^agg-61]: *AGGIORNAMENTO (61)* La Corte costituzionale, con sentenza 20-24 febbraio 1995, n. 59 (G.U. 1a s.s. 1/3/1995, n. 9) ha dichiarato l' illegittimità costituzionale del terzo comma del presente articolo "limitatamente alle parole "del fascicolo per il dibattimento , se non dopo la pronuncia della sentenza di primo grado, e di quelli"."
 

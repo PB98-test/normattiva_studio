@@ -20,4 +20,4 @@ ordine: 402
 
 # Art. 336 - ***Querela***
 
-1. La querela è proposta mediante dichiarazione nella quale, personalmente o a mezzo di procuratore speciale, si manifesta la volontà che si proceda in ordine a un fatto previsto dalla legge come reato.
+1\. La querela è proposta mediante dichiarazione nella quale, personalmente o a mezzo di procuratore speciale, si manifesta la volontà che si proceda in ordine a un fatto previsto dalla legge come reato.

@@ -20,8 +20,8 @@ ordine: 691
 
 # Art. 575 - ***Impugnazione del responsabile civile e della persona civilmente obbligata per la pena pecuniaria***
 
-1. Il responsabile civile può proporre impugnazione contro le disposizioni della sentenza riguardanti la responsabilità dell'imputato e contro quelle relative alla condanna di questi e del responsabile civile alle restituzioni, al risarcimento del danno e alla rifusione delle spese processuali. L'impugnazione è proposta col mezzo che la legge attribuisce all'imputato.
+1\. Il responsabile civile può proporre impugnazione contro le disposizioni della sentenza riguardanti la responsabilità dell'imputato e contro quelle relative alla condanna di questi e del responsabile civile alle restituzioni, al risarcimento del danno e alla rifusione delle spese processuali. L'impugnazione è proposta col mezzo che la legge attribuisce all'imputato.
 
-2. Lo stesso diritto spetta alla persona civilmente obbligata per la pena pecuniaria nel caso in cui sia stata condannata.
+2\. Lo stesso diritto spetta alla persona civilmente obbligata per la pena pecuniaria nel caso in cui sia stata condannata.
 
-3. Il responsabile civile può altresì proporre impugnazione contro le disposizioni della sentenza di assoluzione relative alle domande proposte per il risarcimento del danno e per la rifusione delle spese processuali.
+3\. Il responsabile civile può altresì proporre impugnazione contro le disposizioni della sentenza di assoluzione relative alle domande proposte per il risarcimento del danno e per la rifusione delle spese processuali.

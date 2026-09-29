@@ -20,7 +20,7 @@ ordine: 216
 
 # Art. 183 - ***Sanatorie generali delle nullità***
 
-1. Salvo che sia diversamente stabilito, le nullità sono sanate:
+1\. Salvo che sia diversamente stabilito, le nullità sono sanate:
 
 - a) se la parte interessata ha rinunciato espressamente ad eccepirle ovvero ha accettato gli effetti dell'atto;
 - b) se la parte si è avvalsa della facoltà al cui esercizio l'atto omesso o nullo è preordinato.

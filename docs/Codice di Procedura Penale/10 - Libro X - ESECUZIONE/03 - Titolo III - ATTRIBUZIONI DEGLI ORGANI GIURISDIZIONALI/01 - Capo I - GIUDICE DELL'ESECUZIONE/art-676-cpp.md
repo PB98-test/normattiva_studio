@@ -20,11 +20,11 @@ ordine: 806
 
 # Art. 676 - ***Altre competenze***
 
-1. Il giudice dell'esecuzione è competente a decidere in ordine all'estinzione del reato dopo la condanna, all'estinzione della pena quando la stessa non consegue alla liberazione condizionale o all'affidamento in prova al servizio sociale, in ordine alle pene accessorie, alla confisca o alla restituzione delle cose sequestrate. In questi casi il giudice dell'esecuzione procede a norma dell'[articolo 667](art-667-cpp.md) comma 4.
+1\. Il giudice dell'esecuzione è competente a decidere in ordine all'estinzione del reato dopo la condanna, all'estinzione della pena quando la stessa non consegue alla liberazione condizionale o all'affidamento in prova al servizio sociale, in ordine alle pene accessorie, alla confisca o alla restituzione delle cose sequestrate. In questi casi il giudice dell'esecuzione procede a norma dell'[articolo 667](art-667-cpp.md) comma 4.
 
-2. Qualora sorga controversia sulla proprietà delle cose confiscate, si applica la disposizione dell'[articolo 263](../../../03%20-%20Libro%20III%20-%20PROVE/03%20-%20Titolo%20III%20-%20MEZZI%20DI%20RICERCA%20DELLA%20PROVA/03%20-%20Capo%20III%20-%20SEQUESTRI/art-263-cpp.md) comma 3.
+2\. Qualora sorga controversia sulla proprietà delle cose confiscate, si applica la disposizione dell'[articolo 263](../../../03%20-%20Libro%20III%20-%20PROVE/03%20-%20Titolo%20III%20-%20MEZZI%20DI%20RICERCA%20DELLA%20PROVA/03%20-%20Capo%20III%20-%20SEQUESTRI/art-263-cpp.md) comma 3.
 
-3. Quando accerta l'estinzione del reato o della pena, il giudice dell'esecuzione la dichiara anche di ufficio adottando i provvedimenti conseguenti.
+3\. Quando accerta l'estinzione del reato o della pena, il giudice dell'esecuzione la dichiara anche di ufficio adottando i provvedimenti conseguenti.
 
 3-bis. Il giudice dell'esecuzione è, altresì, competente a decidere in ordine all'applicazione della riduzione della pena prevista dall'[articolo 442](../../../06%20-%20Libro%20VI%20-%20PROCEDIMENTI%20SPECIALI/01%20-%20Titolo%20I%20-%20GIUDIZIO%20ABBREVIATO/art-442-cpp.md), comma 2-bis. In questo caso, il giudice procede d'ufficio prima della trasmissione dell'estratto del provvedimento divenuto irrevocabile. [^agg-231] [^agg-328]
 

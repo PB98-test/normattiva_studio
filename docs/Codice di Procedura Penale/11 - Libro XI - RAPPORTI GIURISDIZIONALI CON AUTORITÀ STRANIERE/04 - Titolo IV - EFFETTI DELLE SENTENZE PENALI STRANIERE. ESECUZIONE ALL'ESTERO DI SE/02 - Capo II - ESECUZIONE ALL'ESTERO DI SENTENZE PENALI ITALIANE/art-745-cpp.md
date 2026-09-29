@@ -20,8 +20,8 @@ ordine: 901
 
 # Art. 745 - ***Richiesta di misure cautelari all'estero***
 
-1. Se è domandata l'esecuzione di una pena restrittiva della libertà personale e il condannato si trova all'estero, il Ministro della giustizia ne richiede la custodia cautelare.
+1\. Se è domandata l'esecuzione di una pena restrittiva della libertà personale e il condannato si trova all'estero, il Ministro della giustizia ne richiede la custodia cautelare.
 
-2. Nel domandare l'esecuzione di una confisca, il ministro ha facoltà di richiedere il sequestro.
+2\. Nel domandare l'esecuzione di una confisca, il ministro ha facoltà di richiedere il sequestro.
 
 2-bis. Il Ministro ha altresì facoltà, nei casi previsti da accordi internazionali, di richiedere lo svolgimento di indagini per l'identificazione e la ricerca di beni che si trovano all'estero e che possono divenire oggetto di una domanda di esecuzione di confisca, nonchè di richiedere il loro sequestro.

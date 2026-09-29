@@ -20,4 +20,4 @@ ordine: 54
 
 # Art. 53
 
-1. Il [secondo comma dell'articolo 31 del codice di procedura civile](../../../Codice%20di%20Procedura%20Civile/01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/04%20-%20Sezione%20IV%20-%20Delle%20modificazioni%20della%20competenza%20per%20ragione%20di%20connessione/art-31-cpc.md) è abrogato.
+1\. Il [secondo comma dell'articolo 31 del codice di procedura civile](../../../Codice%20di%20Procedura%20Civile/01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/04%20-%20Sezione%20IV%20-%20Delle%20modificazioni%20della%20competenza%20per%20ragione%20di%20connessione/art-31-cpc.md) è abrogato.

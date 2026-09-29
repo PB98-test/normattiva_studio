@@ -20,7 +20,7 @@ ordine: 3
 
 # Art. 3 - ***Definizioni stradali e di traffico***
 
-1. Ai fini delle presenti norme le denominazioni stradali e di traffico hanno i seguenti significati:
+1\. Ai fini delle presenti norme le denominazioni stradali e di traffico hanno i seguenti significati:
 
 - 1) AREA DI INTERSEZIONE: parte della intersezione a raso, nella quale si intersecano due o più correnti di traffico.
 - 2) Area pedonale: zona interdetta alla circolazione dei veicoli, salvo quelli in servizio di emergenza, i velocipedi e i veicoli al servizio di persone con limitate o impedite capacità motorie, nonchè eventuali deroghe per i veicoli ad emissioni zero aventi ingombro e velocità tali da poter essere assimilati ai velocipedi. In particolari situazioni i comuni possono introdurre, attraverso apposita segnalazione, ulteriori restrizioni alla circolazione su aree pedonali.
@@ -85,4 +85,4 @@ ordine: 3
 - 58) ZONA RESIDENZIALE: zona urbana in cui vigono particolari regole di circolazione a protezione dei pedoni e dell'ambiente, delimitata lungo le vie di accesso dagli appositi segnali di inizio e di fine.
 - 58-bis) Zona scolastica: zona urbana in prossimità della quale si trovano edifici adibiti ad uso scolastico, in cui è garantita una particolare protezione dei pedoni e dell'ambiente, delimitata lungo le vie di accesso dagli appositi segnali di inizio e di fine.
 
-2. Nel regolamento sono stabilite altre definizioni stradali e di traffico di specifico rilievo tecnico.
+2\. Nel regolamento sono stabilite altre definizioni stradali e di traffico di specifico rilievo tecnico.

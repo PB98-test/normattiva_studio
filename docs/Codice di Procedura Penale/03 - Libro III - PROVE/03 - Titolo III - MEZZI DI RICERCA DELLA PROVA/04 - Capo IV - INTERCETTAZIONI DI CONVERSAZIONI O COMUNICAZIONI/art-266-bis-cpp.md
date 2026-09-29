@@ -20,4 +20,4 @@ ordine: 312
 
 # Art. 266-bis - ***Intercettazioni di comunicazioni informatiche o telematiche***
 
-1. Nei procedimenti relativi ai reati indicati nell'[articolo 266](art-266-cpp.md), nonchè a quelli commessi mediante l'impiego di tecnologie informatiche o telematiche, è consentita l'intercettazione del flusso di comunicazioni relativo a sistemi informatici o telematici ovvero intercorrente tra più sistemi)).
+1\. Nei procedimenti relativi ai reati indicati nell'[articolo 266](art-266-cpp.md), nonchè a quelli commessi mediante l'impiego di tecnologie informatiche o telematiche, è consentita l'intercettazione del flusso di comunicazioni relativo a sistemi informatici o telematici ovvero intercorrente tra più sistemi)).

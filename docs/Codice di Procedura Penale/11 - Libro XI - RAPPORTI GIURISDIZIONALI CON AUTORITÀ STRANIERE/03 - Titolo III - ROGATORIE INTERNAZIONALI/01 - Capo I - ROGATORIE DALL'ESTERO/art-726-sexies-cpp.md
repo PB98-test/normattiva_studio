@@ -20,6 +20,6 @@ ordine: 872
 
 # Art. 726-sexies - ***(Audizione mediante teleconferenza).***
 
-1. Nei casi previsti dagli accordi internazionali, l'audizione del testimone o del perito che si trovi nello Stato e la cui comparizione davanti all'autorità richiedente non sia possibile od opportuna può essere eseguita mediante teleconferenza.
+1\. Nei casi previsti dagli accordi internazionali, l'audizione del testimone o del perito che si trovi nello Stato e la cui comparizione davanti all'autorità richiedente non sia possibile od opportuna può essere eseguita mediante teleconferenza.
 
-2. Si applicano le disposizioni dell'[articolo 726-quinquies](art-726-quinquies-cpp.md), comma 8, nonchè in quanto compatibili le ulteriori disposizioni del medesimo articolo.
+2\. Si applicano le disposizioni dell'[articolo 726-quinquies](art-726-quinquies-cpp.md), comma 8, nonchè in quanto compatibili le ulteriori disposizioni del medesimo articolo.

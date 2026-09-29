@@ -20,4 +20,4 @@ ordine: 45
 
 # Art. 35 - ***Incompatibilità per ragioni di parentela, affinità o coniugio***
 
-1. Nello stesso procedimento non possono esercitare funzioni, anche separate o diverse, giudici che sono tra loro coniugi, parenti o affini fino al secondo grado.
+1\. Nello stesso procedimento non possono esercitare funzioni, anche separate o diverse, giudici che sono tra loro coniugi, parenti o affini fino al secondo grado.

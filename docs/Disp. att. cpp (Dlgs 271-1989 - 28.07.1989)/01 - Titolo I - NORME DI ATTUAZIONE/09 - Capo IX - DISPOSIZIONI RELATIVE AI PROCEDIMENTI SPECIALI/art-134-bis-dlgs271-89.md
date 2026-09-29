@@ -20,7 +20,7 @@ ordine: 171
 
 # Art. 134-bis - ***Partecipazione a distanza nel giudizio abbreviato***
 
-1. Nei casi previsti dall'articolo 146-bis, commi 1 , 1-bis e 1-quater, la partecipazione dell'imputato avviene a distanza anche quando il giudizio abbreviato si svolge in pubblica udienza. [^agg-76] [^agg-83]
+1\. Nei casi previsti dall'articolo 146-bis, commi 1 , 1-bis e 1-quater, la partecipazione dell'imputato avviene a distanza anche quando il giudizio abbreviato si svolge in pubblica udienza. [^agg-76] [^agg-83]
 
 [^agg-76]: *AGGIORNAMENTO (76)* La L. 23 giugno 2017, n. 103, ha disposto (con l'[art. 1](../01%20-%20Capo%20I%20-%20DISPOSIZIONI%20RELATIVE%20AL%20GIUDICE/art-1-dlgs271-89.md), comma 81) che "Le disposizioni di cui ai commi 77, 78, 79 e 80 acquistano efficacia decorso un anno dalla pubblicazione della presente legge nella Gazzetta Ufficiale, fatta eccezione per le disposizioni di cui al comma 77, relativamente alle persone che si trovano in stato di detenzione per i delitti di cui agli articoli 270-bis, primo comma, e 416-bis, secondo comma, del codice penale, nonchè di cui all'articolo 74, comma 1, del testo unico di cui al [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../../../TU%20Stupefacenti%20%28Dpr%20309-1990%20-%2009.10.1990%29/00%20-%20Indice%20%28dpr309-90%29.md), e successive modificazioni".
 

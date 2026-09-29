@@ -20,4 +20,4 @@ ordine: 25
 
 # Art. 25
 
-1. Nel secondo comma dell'[articolo 90](../../02%20-%20Titolo%20II%20-%20DISPOSIZIONI%20SUL%20PROCESSO%20CIVILE/03%20-%20Capo%20III%20-%20Disposizioni%20sul%20processo%20di%20esecuzione/art-90-dlgs51-98.md) del regio decreto 30 gennaio 1941, n. 12 il secondo periodo è soppresso.
+1\. Nel secondo comma dell'[articolo 90](../../02%20-%20Titolo%20II%20-%20DISPOSIZIONI%20SUL%20PROCESSO%20CIVILE/03%20-%20Capo%20III%20-%20Disposizioni%20sul%20processo%20di%20esecuzione/art-90-dlgs51-98.md) del regio decreto 30 gennaio 1941, n. 12 il secondo periodo è soppresso.

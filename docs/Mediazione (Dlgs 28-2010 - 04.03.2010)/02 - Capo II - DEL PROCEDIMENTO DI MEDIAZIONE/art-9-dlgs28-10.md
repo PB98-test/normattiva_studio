@@ -20,9 +20,9 @@ ordine: 16
 
 # Art. 9 - ***Dovere di riservatezza***
 
-1. Chiunque presta la propria opera o il proprio servizio nell'organismo o partecipa al procedimento di mediazione è tenuto all'obbligo di riservatezza rispetto alle dichiarazioni rese e alle informazioni acquisite durante il procedimento medesimo. [^agg-9] [^agg-10]
+1\. Chiunque presta la propria opera o il proprio servizio nell'organismo o partecipa al procedimento di mediazione è tenuto all'obbligo di riservatezza rispetto alle dichiarazioni rese e alle informazioni acquisite durante il procedimento medesimo. [^agg-9] [^agg-10]
 
-2. Rispetto alle dichiarazioni rese e alle informazioni acquisite nel corso delle sessioni separate e salvo consenso della parte dichiarante o dalla quale provengono le informazioni, il mediatore è altresì tenuto alla riservatezza nei confronti delle altre parti.
+2\. Rispetto alle dichiarazioni rese e alle informazioni acquisite nel corso delle sessioni separate e salvo consenso della parte dichiarante o dalla quale provengono le informazioni, il mediatore è altresì tenuto alla riservatezza nei confronti delle altre parti.
 
 [^agg-9]: *AGGIORNAMENTO (9)* Il [D.Lgs. 10 ottobre 2022, n. 149](../../Cartabia%20%28Dlgs%20149-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs149-22%29.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'[articolo 7](art-7-dlgs28-10.md) si applicano a decorrere dal 30 giugno 2023".
 

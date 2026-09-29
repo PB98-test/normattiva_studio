@@ -20,4 +20,4 @@ ordine: 425
 
 # Art. 358 - ***Attività di indagine del pubblico ministero***
 
-1. Il pubblico ministero compie ogni attività necessaria ai fini indicati nell'[articolo 326](../01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-326-cpp.md) e svolge altresì accertamenti su fatti e circostanze a favore della persona sottoposta alle indagini.
+1\. Il pubblico ministero compie ogni attività necessaria ai fini indicati nell'[articolo 326](../01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-326-cpp.md) e svolge altresì accertamenti su fatti e circostanze a favore della persona sottoposta alle indagini.

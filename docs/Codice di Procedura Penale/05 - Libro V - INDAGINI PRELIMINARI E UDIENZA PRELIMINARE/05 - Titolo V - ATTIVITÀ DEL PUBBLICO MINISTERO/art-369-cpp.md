@@ -20,7 +20,7 @@ ordine: 438
 
 # Art. 369 - ***Informazione di garanzia***
 
-1. A tutela del diritto di difesa, quando deve compiere un atto al quale il difensore ha diritto di assistere, il pubblico ministero notifica alla persona sottoposta alle indagini e alla persona offesa una informazione di garanzia contenente la descrizione sommaria del fatto, l'indicazione delle norme di legge che si assumono violate, dell a data e del luogo del fatto e l'invito a esercitare la facoltà di nominare un difensore di fiducia.
+1\. A tutela del diritto di difesa, quando deve compiere un atto al quale il difensore ha diritto di assistere, il pubblico ministero notifica alla persona sottoposta alle indagini e alla persona offesa una informazione di garanzia contenente la descrizione sommaria del fatto, l'indicazione delle norme di legge che si assumono violate, dell a data e del luogo del fatto e l'invito a esercitare la facoltà di nominare un difensore di fiducia.
 
 1-bis. Il pubblico ministero informa altresì la persona sottoposta alle indagini e la persona offesa del diritto alla comunicazione previsto dall'[articolo 335](../02%20-%20Titolo%20II%20-%20NOTIZIA%20DI%20REATO/art-335-cpp.md), comma 3.
 
@@ -30,4 +30,4 @@ ordine: 438
 
 1-quinquies. All'informazione di garanzia si applica l'[articolo 114](../../02%20-%20Libro%20II%20-%20ATTI/01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-114-cpp.md), comma 2))
 
-2. COMMA ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 150.
+2\. COMMA ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 150.

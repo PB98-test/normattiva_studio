@@ -20,17 +20,17 @@ ordine: 204
 
 # Art. 172 - ***Regole generali***
 
-1. I termini processuali sono stabiliti a ore, a giorni, a mesi o ad anni.
+1\. I termini processuali sono stabiliti a ore, a giorni, a mesi o ad anni.
 
-2. I termini si computano secondo il calendario comune.
+2\. I termini si computano secondo il calendario comune.
 
-3. Il termine stabilito a giorni, il quale scade in giorno festivo, è prorogato di diritto al giorno successivo non festivo.
+3\. Il termine stabilito a giorni, il quale scade in giorno festivo, è prorogato di diritto al giorno successivo non festivo.
 
-4. Salvo che la legge disponga altrimenti, nel termine non si computa l'ora o il giorno in cui ne è iniziata la decorrenza; si computa l'ultima ora o l'ultimo giorno.
+4\. Salvo che la legge disponga altrimenti, nel termine non si computa l'ora o il giorno in cui ne è iniziata la decorrenza; si computa l'ultima ora o l'ultimo giorno.
 
-5. Quando è stabilito soltanto il momento finale, le unità di tempo stabilite per il termine si computano intere e libere.
+5\. Quando è stabilito soltanto il momento finale, le unità di tempo stabilite per il termine si computano intere e libere.
 
-6. Il termine per fare dichiarazioni, depositare documenti o compiere altri atti in un ufficio giudiziario si considera scaduto nel momento in cui, secondo i regolamenti, l'ufficio viene chiuso al pubblico.
+6\. Il termine per fare dichiarazioni, depositare documenti o compiere altri atti in un ufficio giudiziario si considera scaduto nel momento in cui, secondo i regolamenti, l'ufficio viene chiuso al pubblico.
 
 6-bis. Il termine per fare dichiarazioni, depositare documenti o compiere altri atti in un ufficio giudiziario con modalità telematiche si considera rispettato se l'accettazione da parte del sistema informatico avviene entro le ore 24 dell'ultimo giorno utile.
 

@@ -20,7 +20,7 @@ ordine: 5
 
 # Art. 5 - ***Modifiche al Titolo IV del Libro I del codice di procedura penale***
 
-1. Al Titolo IV del Libro I del [codice di procedura penale](../../../Codice%20di%20Procedura%20Penale/00%20-%20Indice%20%28cpp%29.md), sono apportate le seguenti modificazioni:
+1\. Al Titolo IV del Libro I del [codice di procedura penale](../../../Codice%20di%20Procedura%20Penale/00%20-%20Indice%20%28cpp%29.md), sono apportate le seguenti modificazioni:
 
 - a) all'articolo 60, comma 3, sono aggiunte, in fine, le seguenti parole: «oppure la riapertura dello stesso a seguito della rescissione del giudicato o di accoglimento della richiesta prevista dall'articolo 628-bis»;
 - b) all'articolo 78: 1) al comma 1, lettera d), dopo le parole: «che giustificano la domanda», sono inserite le seguenti: «agli effetti civili»; 2) dopo il comma 1 è inserito il seguente: «1-bis. Il difensore cui sia stata conferita la procura speciale ai sensi dell'articolo 100, nonchè la procura per la costituzione di parte civile a norma dell'articolo 122, se in questa non risulta la volontà contraria della parte interessata, può conferire al proprio sostituto, con atto scritto, il potere di sottoscrivere e depositare l'atto di costituzione.»;

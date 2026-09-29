@@ -20,4 +20,4 @@ ordine: 50
 
 # Art. 49
 
-1. L'[articolo 8 del codice di procedura civile](../../../Codice%20di%20Procedura%20Civile/01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/02%20-%20Sezione%20II%20-%20Della%20competenza%20per%20materia%20e%20valore/art-8-cpc.md) è abrogato.
+1\. L'[articolo 8 del codice di procedura civile](../../../Codice%20di%20Procedura%20Civile/01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/02%20-%20Sezione%20II%20-%20Della%20competenza%20per%20materia%20e%20valore/art-8-cpc.md) è abrogato.

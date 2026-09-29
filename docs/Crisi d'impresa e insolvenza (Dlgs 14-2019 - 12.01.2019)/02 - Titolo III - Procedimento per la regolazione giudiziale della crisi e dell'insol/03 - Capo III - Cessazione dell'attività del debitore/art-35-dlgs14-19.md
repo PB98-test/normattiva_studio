@@ -20,6 +20,6 @@ ordine: 46
 
 # Art. 35 - ***Morte del debitore***
 
-1. Se il debitore muore dopo l'apertura della procedura di liquidazione controllata o giudiziale, questa prosegue nei confronti degli eredi, anche se hanno accettato con beneficio d'inventario.
+1\. Se il debitore muore dopo l'apertura della procedura di liquidazione controllata o giudiziale, questa prosegue nei confronti degli eredi, anche se hanno accettato con beneficio d'inventario.
 
-2. Se ci sono più eredi, la procedura prosegue nei confronti di quello che è designato come rappresentante. In mancanza di accordo sulla designazione, entro quindici giorni dalla morte del debitore vi provvede il giudice delegato.
+2\. Se ci sono più eredi, la procedura prosegue nei confronti di quello che è designato come rappresentante. In mancanza di accordo sulla designazione, entro quindici giorni dalla morte del debitore vi provvede il giudice delegato.

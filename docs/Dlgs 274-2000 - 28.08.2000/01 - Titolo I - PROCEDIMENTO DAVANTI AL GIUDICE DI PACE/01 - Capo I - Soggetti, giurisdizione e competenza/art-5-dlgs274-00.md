@@ -20,6 +20,6 @@ ordine: 5
 
 # Art. 5 - ***Competenza per territorio***
 
-1. Per i reati indicati nell'[articolo 4](art-4-dlgs274-00.md), competente per il giudizio è il giudice di pace del luogo in cui il reato è stato consumato.
+1\. Per i reati indicati nell'[articolo 4](art-4-dlgs274-00.md), competente per il giudizio è il giudice di pace del luogo in cui il reato è stato consumato.
 
-2. Competente per gli atti da compiere nella fase delle indagini preliminari è il giudice di pace del luogo ove ha sede il tribunale del circondario in cui è compreso il giudice territorialmente competente.
+2\. Competente per gli atti da compiere nella fase delle indagini preliminari è il giudice di pace del luogo ove ha sede il tribunale del circondario in cui è compreso il giudice territorialmente competente.

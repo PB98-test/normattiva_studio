@@ -20,4 +20,4 @@ ordine: 27
 
 # Art. 25 - ***Effetti delle decisioni della corte di cassazione sulla giurisdizione e sulla competenza***
 
-1. La decisione della corte di cassazione sulla giurisdizione o sulla competenza è vincolante nel corso del processo, salvo che risultino nuovi fatti che comportino una diversa definizione giuridica da cui derivi la modificazione della giurisdizione o la competenza di un giudice superiore.
+1\. La decisione della corte di cassazione sulla giurisdizione o sulla competenza è vincolante nel corso del processo, salvo che risultino nuovi fatti che comportino una diversa definizione giuridica da cui derivi la modificazione della giurisdizione o la competenza di un giudice superiore.

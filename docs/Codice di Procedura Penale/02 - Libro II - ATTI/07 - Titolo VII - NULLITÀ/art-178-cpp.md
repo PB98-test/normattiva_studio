@@ -20,7 +20,7 @@ ordine: 211
 
 # Art. 178 - ***Nullità di ordine generale***
 
-1. È sempre prescritta a pena di nullità l'osservanza delle disposizioni concernenti:
+1\. È sempre prescritta a pena di nullità l'osservanza delle disposizioni concernenti:
 
 - a) le condizioni di capacità del giudice e il numero dei giudici necessario per costituire i collegi stabilito dalle leggi di ordinamento giudiziario;
 - b) l'iniziativa del pubblico ministero nell'esercizio dell'azione penale e la sua partecipazione al procedimento;

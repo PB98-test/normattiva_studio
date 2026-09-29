@@ -20,8 +20,8 @@ ordine: 9
 
 # Art. 9 - ***Riunione e separazione dei processi***
 
-1. Nei casi previsti dall'[articolo 7](art-7-dlgs274-00.md), prima di procedere all'udienza di comparizione, il giudice di pace può ordinare la riunione dei processi, quando questa non pregiudica la rapida definizione degli stessi.
+1\. Nei casi previsti dall'[articolo 7](art-7-dlgs274-00.md), prima di procedere all'udienza di comparizione, il giudice di pace può ordinare la riunione dei processi, quando questa non pregiudica la rapida definizione degli stessi.
 
-2. Anche fuori dei casi previsti dall'[articolo 7](art-7-dlgs274-00.md), il giudice di pace può ordinare la riunione dei processi quando i reati sono commessi da più persone in danno reciproco le une delle altre o quando più persone con condotte indipendenti hanno determinato l'evento o quando una persona è imputata di più reati commessi con più azioni od omissioni esecutive di un medesimo disegno criminoso, ovvero ogni volta in cui ciò giovi alla celerità e alla completezza dell'accertamento.
+2\. Anche fuori dei casi previsti dall'[articolo 7](art-7-dlgs274-00.md), il giudice di pace può ordinare la riunione dei processi quando i reati sono commessi da più persone in danno reciproco le une delle altre o quando più persone con condotte indipendenti hanno determinato l'evento o quando una persona è imputata di più reati commessi con più azioni od omissioni esecutive di un medesimo disegno criminoso, ovvero ogni volta in cui ciò giovi alla celerità e alla completezza dell'accertamento.
 
-3. Prima di procedere all'udienza di comparizione e, comunque, non oltre la dichiarazione di apertura del dibattimento, il giudice di pace ordina la separazione dei processi, qualora ritenga che la riunione possa pregiudicare il tentativo di conciliazione, ovvero la rapida definizione di alcuni fra i processi riuniti.
+3\. Prima di procedere all'udienza di comparizione e, comunque, non oltre la dichiarazione di apertura del dibattimento, il giudice di pace ordina la separazione dei processi, qualora ritenga che la riunione possa pregiudicare il tentativo di conciliazione, ovvero la rapida definizione di alcuni fra i processi riuniti.

@@ -20,10 +20,10 @@ ordine: 517
 
 # Art. 424 - ***Provvedimenti del giudice***
 
-1. Subito dopo che è stata dichiarata chiusa la discussione, il giudice procede alla deliberazione pronunciando sentenza di non luogo a procedere o decreto che dispone il giudizio.
+1\. Subito dopo che è stata dichiarata chiusa la discussione, il giudice procede alla deliberazione pronunciando sentenza di non luogo a procedere o decreto che dispone il giudizio.
 
-2. Il giudice dà immediata lettura del provvedimento. La lettura equivale a notificazione per le parti presenti.
+2\. Il giudice dà immediata lettura del provvedimento. La lettura equivale a notificazione per le parti presenti.
 
-3. Il provvedimento è immediatamente depositato in cancelleria. Le parti hanno diritto di ottenere copia.
+3\. Il provvedimento è immediatamente depositato in cancelleria. Le parti hanno diritto di ottenere copia.
 
-4. Qualora non sia possibile procedere alla redazione immediata dei motivi della sentenza di non luogo a procedere, il giudice provvede non oltre il trentesimo giorno da quello della pronuncia.
+4\. Qualora non sia possibile procedere alla redazione immediata dei motivi della sentenza di non luogo a procedere, il giudice provvede non oltre il trentesimo giorno da quello della pronuncia.

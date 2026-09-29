@@ -20,13 +20,13 @@ ordine: 3
 
 # Art. 3 - ***Disciplina applicabile e forma degli atti***
 
-1. Al procedimento di mediazione si applica il regolamento dell'organismo scelto dalle parti, nel rispetto di quanto previsto dall'articolo 8. [^agg-9] [^agg-10]
+1\. Al procedimento di mediazione si applica il regolamento dell'organismo scelto dalle parti, nel rispetto di quanto previsto dall'articolo 8. [^agg-9] [^agg-10]
 
-2. Il regolamento deve in ogni caso garantire la riservatezza del procedimento ai sensi dell'articolo 9, nonchè modalità di nomina del mediatore che ne assicurano l'imparzialità, l'indipendenza e l'idoneità al corretto e sollecito espletamento dell'incarico. [^agg-9] [^agg-10]
+2\. Il regolamento deve in ogni caso garantire la riservatezza del procedimento ai sensi dell'articolo 9, nonchè modalità di nomina del mediatore che ne assicurano l'imparzialità, l'indipendenza e l'idoneità al corretto e sollecito espletamento dell'incarico. [^agg-9] [^agg-10]
 
-3. Gli atti del procedimento di mediazione non sono soggetti a formalità.
+3\. Gli atti del procedimento di mediazione non sono soggetti a formalità.
 
-4. La mediazione può svolgersi secondo modalità telematiche previste dal regolamento dell'organismo, nel rispetto dell'articolo 8-bis , e gli incontri di mediazione possono svolgersi con modalità audiovisive da remoto, nel rispetto dell'articolo 8-ter. [^agg-9] [^agg-10]
+4\. La mediazione può svolgersi secondo modalità telematiche previste dal regolamento dell'organismo, nel rispetto dell'articolo 8-bis , e gli incontri di mediazione possono svolgersi con modalità audiovisive da remoto, nel rispetto dell'articolo 8-ter. [^agg-9] [^agg-10]
 
 [^agg-9]: *AGGIORNAMENTO (9)* Il [D.Lgs. 10 ottobre 2022, n. 149](../../Cartabia%20%28Dlgs%20149-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs149-22%29.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
 

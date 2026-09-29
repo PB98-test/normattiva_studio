@@ -20,4 +20,4 @@ ordine: 12
 
 # Art. 9 - ***Direzione e coordinamento delle sezioni***
 
-1. Il capo dell'ufficio presso cui è istituita la sezione la dirige e ne coordina l'attività in relazione alle richieste formulate dai singoli magistrati a norma dell'articolo 58 del codice.   2. Per ciascuna forza di polizia che compone la sezione, l'ufficiale di polizia giudiziaria più elevato in grado o con qualifica superiore è responsabile del personale appartenente alla propria amministrazione.
+1\. Il capo dell'ufficio presso cui è istituita la sezione la dirige e ne coordina l'attività in relazione alle richieste formulate dai singoli magistrati a norma dell'articolo 58 del codice.   2. Per ciascuna forza di polizia che compone la sezione, l'ufficiale di polizia giudiziaria più elevato in grado o con qualifica superiore è responsabile del personale appartenente alla propria amministrazione.

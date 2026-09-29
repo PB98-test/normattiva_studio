@@ -20,4 +20,4 @@ ordine: 210
 
 # Art. 177 - ***Tassativà***
 
-1. L'inosservanza delle disposizioni stabilite per gli atti del procedimento è causa di nullità soltanto nei casi previsti dalla legge.
+1\. L'inosservanza delle disposizioni stabilite per gli atti del procedimento è causa di nullità soltanto nei casi previsti dalla legge.

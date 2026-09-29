@@ -20,7 +20,7 @@ ordine: 36
 
 # Art. 33-bis - ***Attribuzioni del tribunale in composizione collegiale***
 
-1. Sono attribuiti al tribunale in composizione collegiale i seguenti reati, consumati o tentati:
+1\. Sono attribuiti al tribunale in composizione collegiale i seguenti reati, consumati o tentati:
 
 - a) delitti indicati nell'[articolo 407](../../../05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/08%20-%20Titolo%20VIII%20-%20CHIUSURA%20DELLE%20INDAGINI%20PRELIMINARI/art-407-cpp.md), comma 2, lettera a), numeri 3), 4) e 5), sempre che per essi non sia stabilita la competenza della corte di assise;
 - b) delitti previsti dal capo I dei titolo II del libro II del [codice penale](../../../../Codice%20Penale/00%20-%20Indice%20%28cp%29.md), esclusi quelli indicati dagli [articoli 329](../../../05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-329-cpp.md), [331](../../../05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/02%20-%20Titolo%20II%20-%20NOTIZIA%20DI%20REATO/art-331-cpp.md), primo comma, 332, 334 e 335;
@@ -39,7 +39,7 @@ ordine: 36
 - p) delitti previsti dall'articolo 6, commi 3 e 4, del decreto-legge 26 aprile 1993, n. 122, convertito, con modificazione, dalla legge 25 giugno 1993, n. 205, in materia di discriminazione razziale, etnica e religiosa;
 - q) delitti previsti dall'articolo 10 della legge 18 novembre 1995, n. 496, in materia di produzione e uso di armi chimiche.
 
-2. Sono attribuiti altresì al tribunale in composizione collegiale, salva la disposizione dell'[articolo 33-ter](art-33-ter-cpp.md), comma 1, i delitti puniti con la pena della reclusione superiore nel massimo a dieci anni, anche nell'ipotesi del tentativo. Per la determinazione della pena si osservano le disposizioni dell'[articolo 4](../02%20-%20Capo%20II%20-%20COMPETENZA/01%20-%20Sezione%20I%20-%20Disposizione%20generale/art-4-cpp.md).
+2\. Sono attribuiti altresì al tribunale in composizione collegiale, salva la disposizione dell'[articolo 33-ter](art-33-ter-cpp.md), comma 1, i delitti puniti con la pena della reclusione superiore nel massimo a dieci anni, anche nell'ipotesi del tentativo. Per la determinazione della pena si osservano le disposizioni dell'[articolo 4](../02%20-%20Capo%20II%20-%20COMPETENZA/01%20-%20Sezione%20I%20-%20Disposizione%20generale/art-4-cpp.md).
 
 [^agg-90]: *AGGIORNAMENTO (90)* Il [D. Lgs. 19 febbraio 1998, n. 51](../../../../Dlgs%2051-1998%20-%2019.02.1998/00%20-%20Indice%20%28dlgs51-98%29.md) ha disposto (con l'[art. 247](../../../03%20-%20Libro%20III%20-%20PROVE/03%20-%20Titolo%20III%20-%20MEZZI%20DI%20RICERCA%20DELLA%20PROVA/02%20-%20Capo%20II%20-%20PERQUISIZIONI/art-247-cpp.md), comma 1) che "Il presente decreto legislativo entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace decorso il termine stabilito dall'articolo 1, comma 1, lettera r), della legge 16 luglio 1997, n. 254, fatta eccezione per le disposizioni previste dagli [articoli 17](../03%20-%20Capo%20III%20-%20RIUNIONE%20E%20SEPARAZIONE%20DI%20PROCESSI/art-17-cpp.md), [33](art-33-cpp.md), comma 1, 38, comma 1 e 40, commi 1 e 3."
 

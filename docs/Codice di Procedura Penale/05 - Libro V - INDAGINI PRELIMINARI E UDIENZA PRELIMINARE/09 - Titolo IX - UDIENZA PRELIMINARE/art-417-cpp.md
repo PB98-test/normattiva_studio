@@ -20,7 +20,7 @@ ordine: 504
 
 # Art. 417 - ***Requisiti formali della richiesta di rinvio a giudizio***
 
-1. La richiesta di rinvio a giudizio contiene:
+1\. La richiesta di rinvio a giudizio contiene:
 
 - a) le generalità dell'imputato o le altre indicazioni personali che valgono a identificarlo nonchè le generalità della persona offesa dal reato qualora ne sia possibile l'identificazione;
 - c) l'indicazione delle fonti di prova acquisite;

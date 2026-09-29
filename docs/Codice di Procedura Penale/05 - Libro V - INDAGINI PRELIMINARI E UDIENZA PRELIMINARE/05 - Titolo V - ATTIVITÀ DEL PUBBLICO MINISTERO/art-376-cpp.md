@@ -20,4 +20,4 @@ ordine: 447
 
 # Art. 376 - ***Accompagnamento coattivo per procedere a interrogatorio o a confronto***
 
-1. Quando si tratta di procedere ad atti di interrogatorio o confronto, l'accompagnamento coattivo è disposto dal pubblico ministero su autorizzazione del giudice.
+1\. Quando si tratta di procedere ad atti di interrogatorio o confronto, l'accompagnamento coattivo è disposto dal pubblico ministero su autorizzazione del giudice.

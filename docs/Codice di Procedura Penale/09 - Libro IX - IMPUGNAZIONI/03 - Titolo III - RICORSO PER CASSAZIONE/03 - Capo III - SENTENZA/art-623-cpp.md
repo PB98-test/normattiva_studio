@@ -20,7 +20,7 @@ ordine: 745
 
 # Art. 623 - ***Annullamento con rinvio***
 
-1. Fuori dei casi previsti dagli [articoli 620](art-620-cpp.md) e [622](art-622-cpp.md):
+1\. Fuori dei casi previsti dagli [articoli 620](art-620-cpp.md) e [622](art-622-cpp.md):
 
 - a) se è annullata un'ordinanza, la corte di cassazione dispone che gli atti siano trasmessi al giudice che l'ha pronunciata, il quale provvede uniformandosi alla sentenza di annullamento; [^agg-195] [^agg-283] [^agg-340]
 - b) se è annullata una sentenza di condanna nei casi previsti dall'[articolo 604](../../02%20-%20Titolo%20II%20-%20APPELLO/art-604-cpp.md), commi 1 e 4, la Corte di cassazione dispone che gli atti siano trasmessi al giudice di primo grado; [^agg-215]

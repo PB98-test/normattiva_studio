@@ -20,4 +20,4 @@ ordine: 269
 
 # Art. 232 - ***Liquidazione del compenso al perito***
 
-1. Il compenso al perito è liquidato con decreto del giudice che ha disposto la perizia, secondo le norme delle leggi speciali.
+1\. Il compenso al perito è liquidato con decreto del giudice che ha disposto la perizia, secondo le norme delle leggi speciali.

@@ -20,10 +20,10 @@ ordine: 736
 
 # Art. 614 - ***Dibattimento***
 
-1. Le norme concernenti la pubblicità, la polizia e la disciplina delle udienze e la direzione della discussione nei giudizi di primo e di secondo grado si osservano davanti alla corte di cassazione, in quanto siano applicabili.
+1\. Le norme concernenti la pubblicità, la polizia e la disciplina delle udienze e la direzione della discussione nei giudizi di primo e di secondo grado si osservano davanti alla corte di cassazione, in quanto siano applicabili.
 
-2. Le parti private possono comparire per mezzo dei loro difensori.
+2\. Le parti private possono comparire per mezzo dei loro difensori.
 
-3. Nell'udienza stabilita, il presidente procede alla verifica della costituzione delle parti e della regolarità degli avvisi, dandone atto a verbale; quindi, il presidente o un consigliere da lui delegato fa la relazione della causa.
+3\. Nell'udienza stabilita, il presidente procede alla verifica della costituzione delle parti e della regolarità degli avvisi, dandone atto a verbale; quindi, il presidente o un consigliere da lui delegato fa la relazione della causa.
 
-4. Dopo la requisitoria del pubblico ministero, i difensori della parte civile, del responsabile civile, della persona civilmente obbligata per la pena pecuniaria e dell'imputato espongono nell'ordine le loro difese. Non sono ammesse repliche.
+4\. Dopo la requisitoria del pubblico ministero, i difensori della parte civile, del responsabile civile, della persona civilmente obbligata per la pena pecuniaria e dell'imputato espongono nell'ordine le loro difese. Non sono ammesse repliche.

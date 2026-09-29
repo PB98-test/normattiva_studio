@@ -20,4 +20,4 @@ ordine: 407
 
 # Art. 341 - ***Istanza di procedimento***
 
-1. L'istanza di procedimento è proposta dalla persona offesa con le forme della querela.
+1\. L'istanza di procedimento è proposta dalla persona offesa con le forme della querela.

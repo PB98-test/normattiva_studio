@@ -20,7 +20,7 @@ ordine: 1
 
 # Art. 1 - ***Modifiche al Libro I del codice penale***
 
-1. Al Libro I del [codice penale](../../Codice%20Penale/00%20-%20Indice%20%28cp%29.md) sono apportate le seguenti modificazioni:
+1\. Al Libro I del [codice penale](../../Codice%20Penale/00%20-%20Indice%20%28cp%29.md) sono apportate le seguenti modificazioni:
 
 - a) dopo l'articolo 20, è inserito il seguente: «Art. 20-bis (Pene sostitutive delle pene detentive brevi). - Salvo quanto previsto da particolari disposizioni di legge, le pene sostitutive della reclusione e dell'arresto sono disciplinate dal Capo III della legge 24 novembre 1981, n. 689, e sono le seguenti: 1) la semilibertà sostitutiva; 2) la detenzione domiciliare sostitutiva; 3) il lavoro di pubblica utilità sostitutivo; 4) la pena pecuniaria sostitutiva. La semilibertà sostitutiva e la detenzione domiciliare sostitutiva possono essere applicate dal giudice in caso di condanna alla reclusione o all'arresto non superiori a quattro anni. Il lavoro di pubblica utilità sostitutivo può essere applicato dal giudice in caso di condanna alla reclusione o all'arresto non superiori a tre anni. La pena pecuniaria sostitutiva può essere applicata dal giudice in caso di condanna alla reclusione o all'arresto non superiori a un anno.»;
 - b) all'articolo 62, primo comma, numero 6), dopo le parole: «le conseguenze dannose o pericolose del reato» sono aggiunte le seguenti: «; o l'avere partecipato a un programma di giustizia riparativa con la vittima del reato, concluso con un esito riparativo. Qualora l'esito riparativo comporti l'assunzione da parte dell'imputato di impegni comportamentali, la circostanza è valutata solo quando gli impegni sono stati rispettati»;

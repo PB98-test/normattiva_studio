@@ -19,4 +19,4 @@ dataVigenza: "20260914"
 
 # Art. 8 - ***Clausola di invarianza finanziaria***
 
-1. Dall'attuazione del presente decreto non derivano nuovi o maggiori oneri a carico della finanza pubblica. Le amministrazioni interessate provvedono ai relativi adempimenti nell'ambito delle risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
+1\. Dall'attuazione del presente decreto non derivano nuovi o maggiori oneri a carico della finanza pubblica. Le amministrazioni interessate provvedono ai relativi adempimenti nell'ambito delle risorse umane, strumentali e finanziarie disponibili a legislazione vigente.

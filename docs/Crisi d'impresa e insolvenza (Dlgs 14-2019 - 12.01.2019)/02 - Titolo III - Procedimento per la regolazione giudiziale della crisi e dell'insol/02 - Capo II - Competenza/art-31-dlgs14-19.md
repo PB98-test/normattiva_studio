@@ -20,4 +20,4 @@ ordine: 42
 
 # Art. 31 - ***Salvezza degli effetti***
 
-1. A seguito del trasferimento del procedimento da un tribunale all'altro restano salvi gli effetti degli atti compiuti nel procedimento davanti al giudice incompetente.
+1\. A seguito del trasferimento del procedimento da un tribunale all'altro restano salvi gli effetti degli atti compiuti nel procedimento davanti al giudice incompetente.

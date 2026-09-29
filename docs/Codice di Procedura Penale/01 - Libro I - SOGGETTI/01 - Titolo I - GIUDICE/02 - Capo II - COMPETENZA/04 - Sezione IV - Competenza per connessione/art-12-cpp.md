@@ -20,7 +20,7 @@ ordine: 13
 
 # Art. 12 - ***Casi di connessione***
 
-1. Si ha connessione di procedimenti:
+1\. Si ha connessione di procedimenti:
 
 - a) se il reato per cui si procede è stato commesso da più persone in concorso o cooperazione fra loro, o se più persone con condotte indipendenti hanno determinato l'evento;
 - b) se una persona è imputata di più reati commessi con una sola azione od omissione ovvero con più azioni od omissioni esecutive di un medesimo disegno criminoso;

@@ -20,6 +20,6 @@ ordine: 731
 
 # Art. 609 - ***Cognizione della corte di cassazione***
 
-1. Il ricorso attribuisce alla corte di cassazione la cognizione del procedimento limitatamente ai motivi proposti.
+1\. Il ricorso attribuisce alla corte di cassazione la cognizione del procedimento limitatamente ai motivi proposti.
 
-2. La corte decide altresì le questioni rilevabili di ufficio in ogni stato e grado del processo e quelle che non sarebbe stato possibile dedurre in grado di appello.
+2\. La corte decide altresì le questioni rilevabili di ufficio in ogni stato e grado del processo e quelle che non sarebbe stato possibile dedurre in grado di appello.

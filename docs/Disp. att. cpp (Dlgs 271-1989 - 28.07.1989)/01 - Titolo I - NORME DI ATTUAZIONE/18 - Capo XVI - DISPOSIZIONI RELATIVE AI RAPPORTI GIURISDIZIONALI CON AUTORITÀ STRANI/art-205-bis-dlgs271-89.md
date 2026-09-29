@@ -20,4 +20,4 @@ ordine: 267
 
 # Art. 205-bis - ***Irrevocabilità del consenso nell'ambito di procedure di cooperazione giudiziaria***
 
-1. Quando è previsto dal codice o da accordi internazionali, per l'espletamento di determinati atti, che l'interessato esprima il proprio consenso in una procedura di cooperazione giudiziaria, il consenso espresso non può essere revocato, salvo che l'interessato ignorasse circostanze di fatto rilevanti ai fini della sua decisione ovvero esse si siano successivamente modificate.))
+1\. Quando è previsto dal codice o da accordi internazionali, per l'espletamento di determinati atti, che l'interessato esprima il proprio consenso in una procedura di cooperazione giudiziaria, il consenso espresso non può essere revocato, salvo che l'interessato ignorasse circostanze di fatto rilevanti ai fini della sua decisione ovvero esse si siano successivamente modificate.))

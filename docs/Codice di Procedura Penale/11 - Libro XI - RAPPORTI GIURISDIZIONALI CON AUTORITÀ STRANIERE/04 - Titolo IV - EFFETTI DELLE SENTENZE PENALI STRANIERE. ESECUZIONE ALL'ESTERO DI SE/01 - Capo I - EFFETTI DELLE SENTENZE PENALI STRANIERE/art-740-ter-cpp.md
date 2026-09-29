@@ -20,6 +20,6 @@ ordine: 895
 
 # Art. 740-ter - ***Ordine di devoluzione***
 
-1. La Corte di appello, nel deliberare il riconoscimento della sentenza straniera o del provvedimento di confisca, ordina la devoluzione delle cose confiscate ai sensi dell'[articolo 740-bis](art-740-bis-cpp.md).
+1\. La Corte di appello, nel deliberare il riconoscimento della sentenza straniera o del provvedimento di confisca, ordina la devoluzione delle cose confiscate ai sensi dell'[articolo 740-bis](art-740-bis-cpp.md).
 
-2. Copia del provvedimento è immediatamente trasmessa al Ministro della giustizia, che concorda le modalità della devoluzione con lo Stato richiedente.
+2\. Copia del provvedimento è immediatamente trasmessa al Ministro della giustizia, che concorda le modalità della devoluzione con lo Stato richiedente.

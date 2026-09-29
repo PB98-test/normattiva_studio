@@ -20,9 +20,9 @@ ordine: 8
 
 # Art. 8 - ***Circolazione nelle piccole isole***
 
-1. Nelle piccole isole, dove si trovino comuni dichiarati di soggiorno o di cura, qualora la rete stradale extraurbana non superi 50 chilometri e le difficoltà ed i pericoli del traffico automobilistico siano particolarmente intensi, il presidente della regione territorialmente competente, sentita la prefettura-ufficio territoriale del Governo e i comuni interessati, può, con proprio decreto, vietare che, nei mesi di più intenso movimento turistico, i veicoli appartenenti a persone non facenti parte della popolazione stabile siano fatti affluire e circolare nell' isola. Con medesimo provvedimento possono essere stabilite deroghe al divieto a favore di determinate categorie di veicoli e di utenti.
+1\. Nelle piccole isole, dove si trovino comuni dichiarati di soggiorno o di cura, qualora la rete stradale extraurbana non superi 50 chilometri e le difficoltà ed i pericoli del traffico automobilistico siano particolarmente intensi, il presidente della regione territorialmente competente, sentita la prefettura-ufficio territoriale del Governo e i comuni interessati, può, con proprio decreto, vietare che, nei mesi di più intenso movimento turistico, i veicoli appartenenti a persone non facenti parte della popolazione stabile siano fatti affluire e circolare nell' isola. Con medesimo provvedimento possono essere stabilite deroghe al divieto a favore di determinate categorie di veicoli e di utenti.
 
-2. Chiunque viola gli obblighi, i divieti e le limitazioni previsti dal presente articolo è punito con la sanzione amministrativa del pagamento di una somma da € 430 a € 1.731. [^agg-19] [^agg-29] [^agg-43] [^agg-52] [^agg-64] [^agg-80] [^agg-89] [^agg-101] [^agg-114] [^agg-124] [^agg-133] [^agg-145] [^agg-163]
+2\. Chiunque viola gli obblighi, i divieti e le limitazioni previsti dal presente articolo è punito con la sanzione amministrativa del pagamento di una somma da € 430 a € 1.731. [^agg-19] [^agg-29] [^agg-43] [^agg-52] [^agg-64] [^agg-80] [^agg-89] [^agg-101] [^agg-114] [^agg-124] [^agg-133] [^agg-145] [^agg-163]
 
 [^agg-19]: *AGGIORNAMENTO (19)* Il Decreto 20 dicembre 1996 (in G.U. 28/12/1996, n. 303) ha disposto (con l'[art. 1](art-1-dlgs285-92.md), comma 1) che la presente modifica avrà effetto a decorrere dal 1 gennaio 1997.
 

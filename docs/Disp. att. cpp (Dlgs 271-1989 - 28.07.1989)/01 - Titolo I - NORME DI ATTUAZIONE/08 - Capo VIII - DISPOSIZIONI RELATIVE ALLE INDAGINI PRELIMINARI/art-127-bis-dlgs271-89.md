@@ -20,4 +20,4 @@ ordine: 159
 
 # Art. 127-bis - ***Avocazione e criteri di priorità***
 
-1. Nel disporre l'avocazione delle notizie di reato nei casi previsti dagli articoli 412 e 421-bis, comma 2, del codice, il procuratore generale presso la corte di appello tiene conto dei criteri di priorità contenuti nel progetto organizzativo dell'ufficio della procura della Repubblica che ha iscritto la notizia di reato.
+1\. Nel disporre l'avocazione delle notizie di reato nei casi previsti dagli articoli 412 e 421-bis, comma 2, del codice, il procuratore generale presso la corte di appello tiene conto dei criteri di priorità contenuti nel progetto organizzativo dell'ufficio della procura della Repubblica che ha iscritto la notizia di reato.

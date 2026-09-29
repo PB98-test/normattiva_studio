@@ -20,4 +20,4 @@ ordine: 1
 
 # Art. 1 - ***Giurisdizione penale***
 
-1. La giurisdizione penale è esercitata dai giudici previsti dalle leggi di ordinamento giudiziario secondo le norme di questo codice.
+1\. La giurisdizione penale è esercitata dai giudici previsti dalle leggi di ordinamento giudiziario secondo le norme di questo codice.

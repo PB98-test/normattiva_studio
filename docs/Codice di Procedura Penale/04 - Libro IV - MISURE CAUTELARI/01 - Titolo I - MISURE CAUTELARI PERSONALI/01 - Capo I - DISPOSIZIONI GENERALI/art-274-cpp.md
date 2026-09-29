@@ -20,7 +20,7 @@ ordine: 324
 
 # Art. 274 - ***Esigenze cautelari***
 
-1. Le misure cautelari sono disposte:
+1\. Le misure cautelari sono disposte:
 
 - a) quando sussistono specifiche ed iderogabili esigenze attinenti alle indagini relative ai fatti per i quali si procede, in relazione a situazioni di concreto ed attuale pericolo per l'acquisizione o la genuinità della prova, fondate su circostanze di fatto espressamente indicate nel provvedimento a pena di nullità rilevabile anche di ufficio. Le situazioni di concreto ed attuale pericolo non possono essere individuate nel rifiuto della persona sottoposta alle indagini o dell'imputato di rendere dichiarazioni nè nella mancata ammissione degli addebiti;
 - b) quando l'imputato si è dato alla fuga o sussiste concreto e attuale pericolo che egli si dia alla fuga, sempre che il giudice ritenga che possa essere irrogata una pena superiore a due anni di reclusione . Le situazioni di concreto e attuale pericolo non possono essere desunte esclusivamente dalla gravità del titolo di reato per cui si procede;

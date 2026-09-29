@@ -20,13 +20,13 @@ ordine: 24
 
 # Art. 23 - ***Conclusione delle trattative***
 
-1. Quando è individuata una soluzione idonea al superamento della situazione di cui all'[articolo 12](art-12-dlgs14-19.md), comma 1, le parti possono, alternativamente:
+1\. Quando è individuata una soluzione idonea al superamento della situazione di cui all'[articolo 12](art-12-dlgs14-19.md), comma 1, le parti possono, alternativamente:
 
 - a) concludere un contratto, con uno o più creditori oppure con una o più parti interessate all'operazione di risanamento, che produce gli effetti di cui all'articolo 25-bis, comma 1, se, secondo la relazione dell'esperto di cui all'[articolo 17](art-17-dlgs14-19.md), comma 8, è idoneo ad assicurare la continuità aziendale per un periodo non inferiore a due anni;
 - b) concludere la convenzione di moratoria di cui all'articolo 62;
 - c) concludere un accordo sottoscritto dall'imprenditore, dai creditori aderenti e dalle altre parti interessate all'operazione di risanamento che vi hanno aderito nonchè e dall'esperto che produce gli effetti di cui agli articoli 166, comma 3, lettera d), e 324. Con la sottoscrizione dell'accordo l'esperto dà atto che il piano di risanamento appare coerente con la regolazione della crisi o dell'insolvenza.
 
-2. Oltre ai contratti o agli accordi di cui al comma 1, l'imprenditore può anche, alternativamente:
+2\. Oltre ai contratti o agli accordi di cui al comma 1, l'imprenditore può anche, alternativamente:
 
 - a) predisporre il piano attestato di risanamento di cui all'articolo 56;
 - b) chiedere l'omologazione di un accordo di ristrutturazione dei debiti ai sensi degli articoli 57, 60 e 61. La percentuale di cui all'articolo 61, comma 2, lettera c), è ridotta al 60 per cento se il raggiungimento dell'accordo risulta dalla relazione finale dell'esperto o se la domanda di omologazione è proposta nei sessanta giorni successivi alla comunicazione di cui all'[articolo 17](art-17-dlgs14-19.md), comma 8;

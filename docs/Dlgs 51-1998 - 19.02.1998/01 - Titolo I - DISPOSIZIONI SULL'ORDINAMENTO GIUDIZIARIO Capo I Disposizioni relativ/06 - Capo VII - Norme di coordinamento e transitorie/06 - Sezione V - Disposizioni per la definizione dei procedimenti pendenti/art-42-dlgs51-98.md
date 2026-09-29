@@ -20,4 +20,4 @@ ordine: 43
 
 # Art. 42
 
-1. L'ufficio del pretore è mantenuto per la definizione dei procedimenti pendenti alla data di efficacia del presente decreto che proseguono con l'applicazione delle norme anteriormente vigenti.
+1\. L'ufficio del pretore è mantenuto per la definizione dei procedimenti pendenti alla data di efficacia del presente decreto che proseguono con l'applicazione delle norme anteriormente vigenti.

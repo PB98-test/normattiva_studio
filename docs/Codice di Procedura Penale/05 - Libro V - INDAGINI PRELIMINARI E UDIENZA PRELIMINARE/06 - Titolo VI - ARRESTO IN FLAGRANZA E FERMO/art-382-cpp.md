@@ -20,6 +20,6 @@ ordine: 453
 
 # Art. 382 - ***Stato di flagranza***
 
-1. È in stato di flagranza chi viene colto nell'atto di commettere il reato ovvero chi, subito dopo il reato, è inseguito dalla polizia giudiziaria, dalla persona offesa o da altre persone ovvero è sorpreso con cose o tracce dalle quali appaia che egli abbia commesso il reato immediatamente prima.
+1\. È in stato di flagranza chi viene colto nell'atto di commettere il reato ovvero chi, subito dopo il reato, è inseguito dalla polizia giudiziaria, dalla persona offesa o da altre persone ovvero è sorpreso con cose o tracce dalle quali appaia che egli abbia commesso il reato immediatamente prima.
 
-2. Nel reato permanente lo stato di flagranza dura fino a quando non è cessata la permanenza.
+2\. Nel reato permanente lo stato di flagranza dura fino a quando non è cessata la permanenza.

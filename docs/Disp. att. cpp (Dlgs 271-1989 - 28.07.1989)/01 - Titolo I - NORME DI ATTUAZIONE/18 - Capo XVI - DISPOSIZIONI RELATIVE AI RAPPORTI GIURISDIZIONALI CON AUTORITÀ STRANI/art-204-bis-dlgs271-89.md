@@ -20,4 +20,4 @@ ordine: 265
 
 # Art. 204-bis - ***Comunicazioni dell'autorità giudiziaria in tema di rogatoria***
 
-1. Quando un accordo internazionale prevede la trasmissione diretta della richiesta di assistenza giudiziaria, l'autorità giudiziaria indicata dagli articoli 724, 726 e 726-ter del codice che riceve direttamente la richiesta ovvero l'autorità giudiziaria che la invia direttamente all'autorità straniera ne trasmette senza ritardo copia al Ministero della giustizia)).
+1\. Quando un accordo internazionale prevede la trasmissione diretta della richiesta di assistenza giudiziaria, l'autorità giudiziaria indicata dagli articoli 724, 726 e 726-ter del codice che riceve direttamente la richiesta ovvero l'autorità giudiziaria che la invia direttamente all'autorità straniera ne trasmette senza ritardo copia al Ministero della giustizia)).

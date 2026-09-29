@@ -20,11 +20,11 @@ ordine: 903
 
 # Art. 746-bis - ***(Disposizioni generali).***
 
-1. Salve le disposizioni speciali in materia di conflitti di giurisdizione con le autorità giudiziarie degli Stati membri dell'Unione europea, possono essere disposti, quando previsto dalle convenzioni internazionali, sia il trasferimento del procedimento penale in favore dell'autorità giudiziaria di altro Stato perchè essa proceda che l'assunzione, nello Stato, del procedimento penale pendente davanti all'autorità giudiziaria di Stato estero.
+1\. Salve le disposizioni speciali in materia di conflitti di giurisdizione con le autorità giudiziarie degli Stati membri dell'Unione europea, possono essere disposti, quando previsto dalle convenzioni internazionali, sia il trasferimento del procedimento penale in favore dell'autorità giudiziaria di altro Stato perchè essa proceda che l'assunzione, nello Stato, del procedimento penale pendente davanti all'autorità giudiziaria di Stato estero.
 
-2. Il trasferimento del procedimento penale o la sua assunzione sono disposti fino a quando non sia esercitata l'azione penale.
+2\. Il trasferimento del procedimento penale o la sua assunzione sono disposti fino a quando non sia esercitata l'azione penale.
 
-3. Il trasferimento è disposto in favore dell'autorità giudiziaria di altro Stato che presenti più stretti legami territoriali con il fatto per il quale si procede o con le fonti di prova. Ai fini della decisione si tiene conto dei seguenti criteri:
+3\. Il trasferimento è disposto in favore dell'autorità giudiziaria di altro Stato che presenti più stretti legami territoriali con il fatto per il quale si procede o con le fonti di prova. Ai fini della decisione si tiene conto dei seguenti criteri:
 
 a) luogo in cui è avvenuta la maggior parte dell'azione, dell'omissione o dell'evento;
 

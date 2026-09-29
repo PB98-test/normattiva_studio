@@ -20,4 +20,4 @@ ordine: 387
 
 # Art. 327 - ***Direzione delle indagini preliminari***
 
-1. Il pubblico ministero dirige le indagini e dispone direttamente della polizia giudiziaria che, anche dopo la comunicazione della notizia di reato, continua a svolgere attività di propria iniziativa secondo le modalità indicate nei successivi articoli.
+1\. Il pubblico ministero dirige le indagini e dispone direttamente della polizia giudiziaria che, anche dopo la comunicazione della notizia di reato, continua a svolgere attività di propria iniziativa secondo le modalità indicate nei successivi articoli.

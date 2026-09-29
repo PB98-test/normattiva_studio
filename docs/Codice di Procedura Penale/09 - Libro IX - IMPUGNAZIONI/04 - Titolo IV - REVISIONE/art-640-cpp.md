@@ -20,4 +20,4 @@ ordine: 767
 
 # Art. 640 - ***Impugnabilità della sentenza***
 
-1. La sentenza pronunciata nel giudizio di revisione è soggetta al ricorso per cassazione.
+1\. La sentenza pronunciata nel giudizio di revisione è soggetta al ricorso per cassazione.

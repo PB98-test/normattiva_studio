@@ -20,4 +20,4 @@ ordine: 885
 
 # Art. 734-bis - ***(Poteri del Ministro in materia di esecuzione della decisione dello Stato estero).***
 
-1. Il Ministro della giustizia assicura il rispetto delle condizioni eventualmente poste dallo Stato estero per l'esecuzione della sentenza della quale è stato chiesto il riconoscimento, purchè non contrastanti con i principi fondamentali dell'ordinamento giuridico dello Stato.
+1\. Il Ministro della giustizia assicura il rispetto delle condizioni eventualmente poste dallo Stato estero per l'esecuzione della sentenza della quale è stato chiesto il riconoscimento, purchè non contrastanti con i principi fondamentali dell'ordinamento giuridico dello Stato.

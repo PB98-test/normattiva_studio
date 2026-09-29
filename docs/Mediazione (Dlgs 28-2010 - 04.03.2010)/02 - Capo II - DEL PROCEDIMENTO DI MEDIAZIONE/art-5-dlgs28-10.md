@@ -20,11 +20,11 @@ ordine: 5
 
 # Art. 5 - ***Condizione di procedibilità e rapporti con il processo***
 
-1. Chi intende esercitare in giudizio un'azione relativa a una controversia in materia di condominio, diritti reali, divisione, successioni ereditarie, patti di famiglia, locazione, comodato, affitto di aziende, risarcimento del danno derivante da responsabilità medica e sanitaria e da diffamazione con il mezzo della stampa o con altro mezzo di pubblicità, contratti assicurativi, bancari e finanziari, associazione in partecipazione, consorzio, franchising, opera, rete, somministrazione, società di persone e subfornitura, è tenuto preliminarmente a esperire il procedimento di mediazione ai sensi del presente capo.
+1\. Chi intende esercitare in giudizio un'azione relativa a una controversia in materia di condominio, diritti reali, divisione, successioni ereditarie, patti di famiglia, locazione, comodato, affitto di aziende, risarcimento del danno derivante da responsabilità medica e sanitaria e da diffamazione con il mezzo della stampa o con altro mezzo di pubblicità, contratti assicurativi, bancari e finanziari, associazione in partecipazione, consorzio, franchising, opera, rete, somministrazione, società di persone e subfornitura, è tenuto preliminarmente a esperire il procedimento di mediazione ai sensi del presente capo.
 
-2. Nelle controversie di cui al comma 1 l'esperimento del procedimento di mediazione è condizione di procedibilità della domanda introduttiva del giudizio. L'improcedibilità è eccepita dal convenuto, a pena di decadenza, o rilevata d'ufficio dal giudice non oltre la prima udienza. Il giudice, quando rileva che la mediazione non è stata esperita o è già iniziata, ma non si è conclusa, fissa la successiva udienza dopo la scadenza del termine di cui all'articolo 6. A tale udienza, il giudice accerta se la condizione di procedibilità è stata soddisfatta e, in mancanza, dichiara l'improcedibilità della domanda giudiziale.
+2\. Nelle controversie di cui al comma 1 l'esperimento del procedimento di mediazione è condizione di procedibilità della domanda introduttiva del giudizio. L'improcedibilità è eccepita dal convenuto, a pena di decadenza, o rilevata d'ufficio dal giudice non oltre la prima udienza. Il giudice, quando rileva che la mediazione non è stata esperita o è già iniziata, ma non si è conclusa, fissa la successiva udienza dopo la scadenza del termine di cui all'articolo 6. A tale udienza, il giudice accerta se la condizione di procedibilità è stata soddisfatta e, in mancanza, dichiara l'improcedibilità della domanda giudiziale.
 
-3. Per assolvere alla condizione di procedibilità le parti possono anche esperire, per le materie e nei limiti ivi regolamentati, le procedure previste:
+3\. Per assolvere alla condizione di procedibilità le parti possono anche esperire, per le materie e nei limiti ivi regolamentati, le procedure previste:
 
 - a) dall'articolo 128-bis del decreto legislativo 1° settembre 1993, n. 385;
 - b) dall'articolo 32-ter del decreto legislativo 24 febbraio 1998, n. 58;
@@ -32,11 +32,11 @@ ordine: 5
 - d) dall'articolo 2, comma 24, lettera b), della legge 14 novembre 1995, n. 481;
 - d-bis) dall'articolo 1, comma 11, della legge 31 luglio 1997, n. 249.
 
-4. Quando l'esperimento del procedimento di mediazione è condizione di procedibilità della domanda giudiziale, la condizione si considera avverata se il primo incontro dinanzi al mediatore si conclude senza l'accordo di conciliazione.
+4\. Quando l'esperimento del procedimento di mediazione è condizione di procedibilità della domanda giudiziale, la condizione si considera avverata se il primo incontro dinanzi al mediatore si conclude senza l'accordo di conciliazione.
 
-5. Lo svolgimento della mediazione non preclude in ogni caso la concessione dei provvedimenti urgenti e cautelari, nè la trascrizione della domanda giudiziale.
+5\. Lo svolgimento della mediazione non preclude in ogni caso la concessione dei provvedimenti urgenti e cautelari, nè la trascrizione della domanda giudiziale.
 
-6. Il comma 1 e l'articolo 5-quater non si applicano:
+6\. Il comma 1 e l'articolo 5-quater non si applicano:
 
 - a) nei procedimenti per ingiunzione, inclusa l'opposizione, fino alla pronuncia sulle istanze di concessione e sospensione della provvisoria esecuzione, secondo quanto previsto dall'articolo 5-bis;
 - b) nei procedimenti per convalida di licenza o sfratto, fino al mutamento del rito di cui all'[articolo 667 del codice di procedura civile](../../Codice%20di%20Procedura%20Civile/04%20-%20Libro%20IV%20-%20DEI%20PROCEDIMENTI%20SPECIALI/01%20-%20Titolo%20I%20-%20DEI%20PROCEDIMENTI%20SOMMARI/02%20-%20Capo%20II%20-%20Del%20procedimento%20per%20convalida%20di%20sfratto/art-667-cpc.md);

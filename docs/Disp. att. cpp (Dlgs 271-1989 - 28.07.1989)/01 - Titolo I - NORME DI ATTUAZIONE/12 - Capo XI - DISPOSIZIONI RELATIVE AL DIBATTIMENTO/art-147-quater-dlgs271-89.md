@@ -20,4 +20,4 @@ ordine: 192
 
 # Art. 147-quater - ***Requisiti tecnici di sicurezza in caso di partecipazione a distanza***
 
-1. Il Ministero della giustizia assicura che, nei casi di partecipazione a distanza al compimento di atti del procedimento ovvero alla celebrazione delle udienze, i collegamenti telematici agli uffici giudiziari siano realizzati attraverso reti o canali di comunicazione idonei a garantire l'integrità e la sicurezza della trasmissione dei dati.
+1\. Il Ministero della giustizia assicura che, nei casi di partecipazione a distanza al compimento di atti del procedimento ovvero alla celebrazione delle udienze, i collegamenti telematici agli uffici giudiziari siano realizzati attraverso reti o canali di comunicazione idonei a garantire l'integrità e la sicurezza della trasmissione dei dati.

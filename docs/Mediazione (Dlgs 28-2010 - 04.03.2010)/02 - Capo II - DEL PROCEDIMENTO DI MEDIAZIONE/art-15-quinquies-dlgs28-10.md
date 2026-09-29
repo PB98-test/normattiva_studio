@@ -20,15 +20,15 @@ ordine: 28
 
 # Art. 15-quinquies - ***Organo competente a ricevere l'istanza per l'ammissione anticipata e nomina dell'avvocato***
 
-1. L'istanza per l'ammissione anticipata è presentata, o personalmente o a mezzo raccomandata o a mezzo posta elettronica certificata o con altro servizio elettronico di recapito certificato qualificato, dall'interessato o dall'avvocato che ne ha autenticato la firma, al consiglio dell'ordine degli avvocati del luogo dove ha sede l'organismo di mediazione competente individuato in conformità all'[articolo 4](art-4-dlgs28-10.md), comma 1.
+1\. L'istanza per l'ammissione anticipata è presentata, o personalmente o a mezzo raccomandata o a mezzo posta elettronica certificata o con altro servizio elettronico di recapito certificato qualificato, dall'interessato o dall'avvocato che ne ha autenticato la firma, al consiglio dell'ordine degli avvocati del luogo dove ha sede l'organismo di mediazione competente individuato in conformità all'[articolo 4](art-4-dlgs28-10.md), comma 1.
 
 1-bis. L'interessato, se il consiglio dell'ordine degli avvocati competente a provvedere in via anticipata lo richiede, è tenuto, a pena di inammissibilità dell'istanza, a produrre la documentazione necessaria ad accertare la veridicità di quanto in essa indicato.
 
-2. Entro venti giorni dalla presentazione dell'istanza per l'ammissione, il consiglio dell'ordine degli avvocati, verificatane l'ammissibilità, ammette l'interessato al patrocinio, in via anticipata e provvisoria, e gliene dà immediata comunicazione.
+2\. Entro venti giorni dalla presentazione dell'istanza per l'ammissione, il consiglio dell'ordine degli avvocati, verificatane l'ammissibilità, ammette l'interessato al patrocinio, in via anticipata e provvisoria, e gliene dà immediata comunicazione.
 
 2-bis. Copia dell'atto con il quale il consiglio dell'ordine accoglie l'istanza di ammissione anticipata è trasmessa all'ufficio finanziario competente per le verifiche previste dall'articolo 127 del testo unico delle disposizioni legislative e regolamentari in materia di spese di giustizia, di cui al decreto del Presidente della Repubblica 30 maggio 2002, n. 115.
 
-3. Chi è ammesso al patrocinio può nominare un avvocato scelto tra gli iscritti negli elenchi degli avvocati per il patrocinio a spese dello Stato, istituiti presso i consigli dell'ordine del luogo dove ha sede l'organismo di mediazione competente individuato in conformità all'[articolo 4](art-4-dlgs28-10.md), comma 1. [^agg-12]
+3\. Chi è ammesso al patrocinio può nominare un avvocato scelto tra gli iscritti negli elenchi degli avvocati per il patrocinio a spese dello Stato, istituiti presso i consigli dell'ordine del luogo dove ha sede l'organismo di mediazione competente individuato in conformità all'[articolo 4](art-4-dlgs28-10.md), comma 1. [^agg-12]
 
 3-bis. Quando l'avvocato nominato dall'interessato è iscritto in un elenco di un distretto di corte d'appello diverso da quello in cui ha sede l'organismo di mediazione competente ai sensi dell'[articolo 4](art-4-dlgs28-10.md), comma 1, non sono dovute le spese e le indennità di trasferta previste dai parametri forensi. [^agg-9] [^agg-10]
 

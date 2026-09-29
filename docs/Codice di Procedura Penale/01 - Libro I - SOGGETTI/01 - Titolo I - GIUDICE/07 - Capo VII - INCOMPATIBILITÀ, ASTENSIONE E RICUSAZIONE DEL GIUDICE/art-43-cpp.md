@@ -20,6 +20,6 @@ ordine: 53
 
 # Art. 43 - ***Sostituzione del giudice astenuto o ricusato***
 
-1. Il giudice astenuto o ricusato è sostituito con altro magistrato dello stesso ufficio designato secondo le leggi di ordinamento giudiziario.
+1\. Il giudice astenuto o ricusato è sostituito con altro magistrato dello stesso ufficio designato secondo le leggi di ordinamento giudiziario.
 
-2. Qualora non sia possibile la sostituzione prevista dal comma 1, la corte o il tribunale rimette il procedimento al giudice ugualmente competente per materia determinato a norma dell'[articolo 11](../02%20-%20Capo%20II%20-%20COMPETENZA/03%20-%20Sezione%20III%20-%20Competenza%20per%20territorio/art-11-cpp.md).
+2\. Qualora non sia possibile la sostituzione prevista dal comma 1, la corte o il tribunale rimette il procedimento al giudice ugualmente competente per materia determinato a norma dell'[articolo 11](../02%20-%20Capo%20II%20-%20COMPETENZA/03%20-%20Sezione%20III%20-%20Competenza%20per%20territorio/art-11-cpp.md).

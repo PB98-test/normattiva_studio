@@ -20,7 +20,7 @@ ordine: 106
 
 # Art. 90-bis - ***Informazioni alla persona offesa***
 
-1. Alla persona offesa, sin dal primo contatto con l'autorità procedente, vengono fornite, in una lingua a lei comprensibile, informazioni in merito:
+1\. Alla persona offesa, sin dal primo contatto con l'autorità procedente, vengono fornite, in una lingua a lei comprensibile, informazioni in merito:
 
 - a) alle modalità di presentazione degli atti di denuncia o querela, al ruolo che assume nel corso delle indagini e del processo, al diritto ad avere conoscenza della data, del luogo del processo e della imputazione e, ove costituita parte civile, al diritto a ricevere notifica della sentenza, anche per estratto;
 - a-bis) all'obbligo del querelante di dichiarare o eleggere domicilio per la comunicazione e la notificazione degli atti del procedimento, con l'avviso che la dichiarazione di domicilio può essere effettuata anche dichiarando un indirizzo di posta elettronica certificata o altro servizio elettronico di recapito certificato qualificato»;

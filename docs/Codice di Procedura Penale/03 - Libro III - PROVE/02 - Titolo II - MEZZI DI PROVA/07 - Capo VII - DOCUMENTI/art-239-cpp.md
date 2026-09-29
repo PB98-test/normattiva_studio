@@ -20,4 +20,4 @@ ordine: 278
 
 # Art. 239 - ***Accertamento della provenienza dei documenti***
 
-1. Se occorre verificarne la provenienza, il documento è sottoposto per il riconoscimento alle parti private o ai testimoni.
+1\. Se occorre verificarne la provenienza, il documento è sottoposto per il riconoscimento alle parti private o ai testimoni.

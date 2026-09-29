@@ -20,4 +20,4 @@ ordine: 393
 
 # Art. 332 - ***Contenuto della denuncia***
 
-1. La denuncia contiene la esposizione degli elementi essenziali del fatto e indica il giorno dell'acquisizione della notizia nonchè le fonti di prova già note. Contiene inoltre, quando è possibile, le generalità, il domicilio e quanto altro valga alla identificazione della persona alla quale il fatto è attribuito, della persona offesa e di coloro che siano in grado di riferire su circostanze rilevanti per la ricostruzione dei fatti.
+1\. La denuncia contiene la esposizione degli elementi essenziali del fatto e indica il giorno dell'acquisizione della notizia nonchè le fonti di prova già note. Contiene inoltre, quando è possibile, le generalità, il domicilio e quanto altro valga alla identificazione della persona alla quale il fatto è attribuito, della persona offesa e di coloro che siano in grado di riferire su circostanze rilevanti per la ricostruzione dei fatti.

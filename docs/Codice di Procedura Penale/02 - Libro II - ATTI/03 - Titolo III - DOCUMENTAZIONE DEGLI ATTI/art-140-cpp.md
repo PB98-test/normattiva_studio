@@ -20,6 +20,6 @@ ordine: 167
 
 # Art. 140 - ***Modalità di documentazione in casi particolari***
 
-1. Il giudice dispone che si effettui soltanto la redazione contestuale del verbale in forma riassuntiva quando gli atti da verbalizzare hanno contenuto semplice o limitata rilevanza ovvero quando si verifica una contingente indisponibilità di strumenti di riproduzione o di ausiliari tecnici.
+1\. Il giudice dispone che si effettui soltanto la redazione contestuale del verbale in forma riassuntiva quando gli atti da verbalizzare hanno contenuto semplice o limitata rilevanza ovvero quando si verifica una contingente indisponibilità di strumenti di riproduzione o di ausiliari tecnici.
 
-2. Quando è redatto soltanto il verbale in forma riassuntiva, il giudice vigila affinchè sia riprodotta nell'originaria genuina espressione la parte essenziale delle dichiarazioni, con la descrizione delle circostanze nelle quali sono rese se queste possono servire a valutarne la credibilità.
+2\. Quando è redatto soltanto il verbale in forma riassuntiva, il giudice vigila affinchè sia riprodotta nell'originaria genuina espressione la parte essenziale delle dichiarazioni, con la descrizione delle circostanze nelle quali sono rese se queste possono servire a valutarne la credibilità.

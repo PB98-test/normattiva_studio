@@ -20,6 +20,6 @@ ordine: 119
 
 # Art. 99 - ***Estensione al difensore dei diritti dell'imputato***
 
-1. Al difensore competono le facoltà e i diritti che la legge riconosce all'imputato, a meno che essi siano riservati personalmente a quest'ultimo.
+1\. Al difensore competono le facoltà e i diritti che la legge riconosce all'imputato, a meno che essi siano riservati personalmente a quest'ultimo.
 
-2. L'imputato può togliere effetto, con espressa dichiarazione contraria, all'atto compiuto dal difensore prima che, in relazione all'atto stesso, sia intervenuto un provvedimento del giudice.
+2\. L'imputato può togliere effetto, con espressa dichiarazione contraria, all'atto compiuto dal difensore prima che, in relazione all'atto stesso, sia intervenuto un provvedimento del giudice.

@@ -20,7 +20,7 @@ ordine: 1
 
 # Art. 1 - ***Definizioni***
 
-1. Ai fini del presente decreto legislativo, si intende per: a) mediazione: l'attività, comunque denominata, svolta da un terzo imparziale e finalizzata ad assistere due o più soggetti nella ricerca di un accordo amichevole per la composizione di una controversia, anche con formulazione di una proposta per la risoluzione della stessa;
+1\. Ai fini del presente decreto legislativo, si intende per: a) mediazione: l'attività, comunque denominata, svolta da un terzo imparziale e finalizzata ad assistere due o più soggetti nella ricerca di un accordo amichevole per la composizione di una controversia, anche con formulazione di una proposta per la risoluzione della stessa;
 
 - b) mediatore: la persona o le persone fisiche che, individualmente o collegialmente, svolgono la mediazione rimanendo prive, in ogni caso, del potere di rendere giudizi o decisioni vincolanti per i destinatari del servizio medesimo;
 - c) conciliazione: la composizione di una controversia a seguito dello svolgimento della mediazione;

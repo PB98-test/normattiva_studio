@@ -20,11 +20,11 @@ ordine: 8
 
 # Art. 5-quater - ***Mediazione demandata dal giudice***
 
-1. Il giudice, anche in sede di giudizio di appello, fino al momento in cui fissa l'udienza di rimessione della causa in decisione, valutata la natura della causa, lo stato dell'istruzione, il comportamento delle parti e ogni altra circostanza, può disporre, con ordinanza motivata, l'esperimento di un procedimento di mediazione. Con la stessa ordinanza fissa la successiva udienza dopo la scadenza del termine di cui all'articolo 6.
+1\. Il giudice, anche in sede di giudizio di appello, fino al momento in cui fissa l'udienza di rimessione della causa in decisione, valutata la natura della causa, lo stato dell'istruzione, il comportamento delle parti e ogni altra circostanza, può disporre, con ordinanza motivata, l'esperimento di un procedimento di mediazione. Con la stessa ordinanza fissa la successiva udienza dopo la scadenza del termine di cui all'articolo 6.
 
-2. La mediazione demandata dal giudice è condizione di procedibilità della domanda giudiziale. Si applica l'[articolo 5](art-5-dlgs28-10.md), commi 4, 5 e 6.
+2\. La mediazione demandata dal giudice è condizione di procedibilità della domanda giudiziale. Si applica l'[articolo 5](art-5-dlgs28-10.md), commi 4, 5 e 6.
 
-3. All'udienza di cui al comma 1, quando la mediazione non risulta esperita, il giudice dichiara l'improcedibilità della domanda giudiziale. [^agg-9] [^agg-10]
+3\. All'udienza di cui al comma 1, quando la mediazione non risulta esperita, il giudice dichiara l'improcedibilità della domanda giudiziale. [^agg-9] [^agg-10]
 
 [^agg-9]: *AGGIORNAMENTO (9)* Il [D.Lgs. 10 ottobre 2022, n. 149](../../Cartabia%20%28Dlgs%20149-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs149-22%29.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
 

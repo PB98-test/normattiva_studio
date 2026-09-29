@@ -20,4 +20,4 @@ ordine: 78
 
 # Art. 77
 
-1. Nel [secondo comma dell'articolo 368 del codice di procedura civile](../../../../Codice%20di%20Procedura%20Civile/02%20-%20Libro%20II%20-%20DEL%20PROCESSO%20DI%20COGNIZIONE/03%20-%20Titolo%20III%20-%20DELLE%20IMPUGNAZIONI/03%20-%20Capo%20III%20-%20Del%20ricorso%20per%20cassazione/01%20-%20Sezione%20I%20-%20Dei%20provvedimenti%20impugnabili%20e%20dei%20ricorsi/art-368-cpc.md) le parole "o davanti a un pretore" sono soppresse.
+1\. Nel [secondo comma dell'articolo 368 del codice di procedura civile](../../../../Codice%20di%20Procedura%20Civile/02%20-%20Libro%20II%20-%20DEL%20PROCESSO%20DI%20COGNIZIONE/03%20-%20Titolo%20III%20-%20DELLE%20IMPUGNAZIONI/03%20-%20Capo%20III%20-%20Del%20ricorso%20per%20cassazione/01%20-%20Sezione%20I%20-%20Dei%20provvedimenti%20impugnabili%20e%20dei%20ricorsi/art-368-cpc.md) le parole "o davanti a un pretore" sono soppresse.

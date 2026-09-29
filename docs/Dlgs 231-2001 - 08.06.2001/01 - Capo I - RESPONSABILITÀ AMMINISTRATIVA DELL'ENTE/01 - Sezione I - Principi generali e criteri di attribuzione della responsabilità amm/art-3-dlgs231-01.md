@@ -20,8 +20,8 @@ ordine: 3
 
 # Art. 3 - ***Successione di leggi***
 
-1. L'ente non può essere ritenuto responsabile per un fatto che secondo una legge posteriore non costituisce più reato o in relazione al quale non è più prevista la responsabilità amministrativa dell'ente, e, se vi è stata condanna, ne cessano l'esecuzione e gli effetti giuridici.
+1\. L'ente non può essere ritenuto responsabile per un fatto che secondo una legge posteriore non costituisce più reato o in relazione al quale non è più prevista la responsabilità amministrativa dell'ente, e, se vi è stata condanna, ne cessano l'esecuzione e gli effetti giuridici.
 
-2. Se la legge del tempo in cui è stato commesso l'illecito e le successive sono diverse, si applica quella le cui disposizioni sono più favorevoli, salvo che sia intervenuta pronuncia irrevocabile.
+2\. Se la legge del tempo in cui è stato commesso l'illecito e le successive sono diverse, si applica quella le cui disposizioni sono più favorevoli, salvo che sia intervenuta pronuncia irrevocabile.
 
-3. Le disposizioni dei commi 1 e 2 non si applicano se si tratta di leggi eccezionali o temporanee.
+3\. Le disposizioni dei commi 1 e 2 non si applicano se si tratta di leggi eccezionali o temporanee.

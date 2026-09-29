@@ -20,14 +20,14 @@ ordine: 99
 
 # Art. 84 - ***Costituzione del responsabile civile***
 
-1. Chi è citato come responsabile civile può costituirsi in ogni stato e grado del processo, anche a mezzo di procuratore speciale, con dichiarazione depositata nella cancelleria del giudice che procede o presentata in udienza.
+1\. Chi è citato come responsabile civile può costituirsi in ogni stato e grado del processo, anche a mezzo di procuratore speciale, con dichiarazione depositata nella cancelleria del giudice che procede o presentata in udienza.
 
-2. La dichiarazione deve contenere a pena di inammissibilità:
+2\. La dichiarazione deve contenere a pena di inammissibilità:
 
 - a) le generalità della persona fisica o la denominazione dell'associazione o dell'ente che si costituisce e le generalità del suo legale rappresentante;
 - b) il nome e il cognome del difensore e l'indicazione della procura;
 - c) la sottoscrizione del difensore.
 
-3. La procura conferita nelle forme previste dall'[articolo 100](../07%20-%20Titolo%20VII%20-%20DIFENSORE/art-100-cpp.md) comma 1 è depositata nella cancelleria o presentata in udienza unitamente alla dichiarazione di costituzione del responsabile civile.
+3\. La procura conferita nelle forme previste dall'[articolo 100](../07%20-%20Titolo%20VII%20-%20DIFENSORE/art-100-cpp.md) comma 1 è depositata nella cancelleria o presentata in udienza unitamente alla dichiarazione di costituzione del responsabile civile.
 
-4. La costituzione produce i suoi effetti in ogni stato e grado del processo.
+4\. La costituzione produce i suoi effetti in ogni stato e grado del processo.

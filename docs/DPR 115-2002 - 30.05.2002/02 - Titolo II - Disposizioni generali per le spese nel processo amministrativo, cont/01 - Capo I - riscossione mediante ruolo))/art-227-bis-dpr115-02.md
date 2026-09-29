@@ -20,4 +20,4 @@ ordine: 237
 
 # Art. 227-bis - ***Quantificazione dell'importo dovuto***
 
-1. La quantificazione dell'importo dovuto è effettuata secondo quanto disposto dall'[articolo 211](../01%20-%20Capo%20I%20-%20Adempimento%20spontaneo/art-211-dpr115-02.md). Ad essa provvede l'ufficio ovvero, a decorrere dalla data di stipula della convenzione prevista dall'articolo 1, comma 367, della legge 24 dicembre 2007, n. 244, e successive modificazioni, e per i crediti ivi indicati, la società Equitalia Giustizia Spa.
+1\. La quantificazione dell'importo dovuto è effettuata secondo quanto disposto dall'[articolo 211](../01%20-%20Capo%20I%20-%20Adempimento%20spontaneo/art-211-dpr115-02.md). Ad essa provvede l'ufficio ovvero, a decorrere dalla data di stipula della convenzione prevista dall'articolo 1, comma 367, della legge 24 dicembre 2007, n. 244, e successive modificazioni, e per i crediti ivi indicati, la società Equitalia Giustizia Spa.

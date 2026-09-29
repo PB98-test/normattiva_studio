@@ -20,10 +20,10 @@ ordine: 293
 
 # Art. 253 - ***Oggetto e formalità del sequestro***
 
-1. L'autorità giudiziaria dispone con decreto motivato il sequestro del corpo del reato e delle cose pertinenti al reato necessarie per l'accertamento dei fatti.
+1\. L'autorità giudiziaria dispone con decreto motivato il sequestro del corpo del reato e delle cose pertinenti al reato necessarie per l'accertamento dei fatti.
 
-2. Sono corpo del reato le cose sulle quali o mediante le quali il reato è stato commesso nonchè le cose che ne costituiscono il prodotto, il profitto o il prezzo.
+2\. Sono corpo del reato le cose sulle quali o mediante le quali il reato è stato commesso nonchè le cose che ne costituiscono il prodotto, il profitto o il prezzo.
 
-3. Al sequestro procede personalmente l'autorità giudiziaria ovvero un ufficiale di polizia giudiziaria delegato con lo stesso decreto.
+3\. Al sequestro procede personalmente l'autorità giudiziaria ovvero un ufficiale di polizia giudiziaria delegato con lo stesso decreto.
 
-4. Copia del decreto di sequestro è consegnata all'interessato, se presente.
+4\. Copia del decreto di sequestro è consegnata all'interessato, se presente.

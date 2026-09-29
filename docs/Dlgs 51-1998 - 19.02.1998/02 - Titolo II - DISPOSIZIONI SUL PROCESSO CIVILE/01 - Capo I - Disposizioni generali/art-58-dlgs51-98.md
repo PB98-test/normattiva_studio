@@ -20,4 +20,4 @@ ordine: 59
 
 # Art. 58
 
-1. Il [secondo comma dell'articolo 65 del codice di procedura civile](../../../Codice%20di%20Procedura%20Civile/01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/03%20-%20Capo%20III%20-%20Del%20consulente%20tecnico,%20del%20custode%20e%20degli%20altri%20ausiliari%20del%20giudi/art-65-cpc.md) è sostituito dal seguente: "Il compenso al custode è stabilito, con decreto, dal giudice dell'esecuzione nel caso di nomina fatta dall'ufficiale giudiziario e in ogni altro caso dal giudice che l'ha nominato.".
+1\. Il [secondo comma dell'articolo 65 del codice di procedura civile](../../../Codice%20di%20Procedura%20Civile/01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/03%20-%20Capo%20III%20-%20Del%20consulente%20tecnico,%20del%20custode%20e%20degli%20altri%20ausiliari%20del%20giudi/art-65-cpc.md) è sostituito dal seguente: "Il compenso al custode è stabilito, con decreto, dal giudice dell'esecuzione nel caso di nomina fatta dall'ufficiale giudiziario e in ogni altro caso dal giudice che l'ha nominato.".

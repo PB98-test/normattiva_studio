@@ -20,7 +20,7 @@ ordine: 7
 
 # Art. 7 - ***Modifiche al decreto legislativo 4 marzo 2010, n. 28***
 
-1. Al decreto legislativo 4 marzo 2010, n. 28, sono apportate le seguenti modificazioni:
+1\. Al decreto legislativo 4 marzo 2010, n. 28, sono apportate le seguenti modificazioni:
 
 - a) all'[articolo 2](../../01%20-%20Capo%20I%20-%20Modifiche%20al%20codice%20civile%20e%20alle%20disposizioni%20per%20l%27attuazione%20del%20cod/art-2-dlgs149-22.md), comma 2, dopo le parole «procedure di reclamo» sono inserite le seguenti: «e di conciliazione»;
 - b) all'[articolo 3](../../02%20-%20Capo%20II%20-%20Modifiche%20al%20codice%20di%20procedura%20civile%20e%20alle%20disposizioni%20per%20l%27attu/art-3-dlgs149-22.md): 1) al comma 1, in fine, sono aggiunte le seguenti parole: «, nel rispetto di quanto previsto dall'[articolo 8](art-8-dlgs149-22.md)»; 2) al comma 2, dopo le parole «ne assicurano l'imparzialità» sono inserite le seguenti: «, l'indipendenza»; 3) al comma 4, in fine, sono aggiunte le seguenti parole: «, nel rispetto dell'articolo 8-bis»;

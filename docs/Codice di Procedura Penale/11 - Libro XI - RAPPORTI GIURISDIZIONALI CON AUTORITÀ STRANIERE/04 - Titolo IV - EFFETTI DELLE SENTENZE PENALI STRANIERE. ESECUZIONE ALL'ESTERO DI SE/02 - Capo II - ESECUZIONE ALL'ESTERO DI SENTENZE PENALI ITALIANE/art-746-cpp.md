@@ -20,6 +20,6 @@ ordine: 902
 
 # Art. 746 - ***Effetti sull'esecuzione nello Stato***
 
-1. L'esecuzione della pena nello Stato è sospesa dal momento in cui ha inizio l'esecuzione nello stato richiesto e per tutta la durata della medesima.
+1\. L'esecuzione della pena nello Stato è sospesa dal momento in cui ha inizio l'esecuzione nello stato richiesto e per tutta la durata della medesima.
 
-2. La pena non può più essere eseguita nello Stato quando, secondo le leggi dello stato richiesto, essa è stata interamente espiata. Visto, Il Ministro di grazia e giustizia VASSALLI
+2\. La pena non può più essere eseguita nello Stato quando, secondo le leggi dello stato richiesto, essa è stata interamente espiata. Visto, Il Ministro di grazia e giustizia VASSALLI

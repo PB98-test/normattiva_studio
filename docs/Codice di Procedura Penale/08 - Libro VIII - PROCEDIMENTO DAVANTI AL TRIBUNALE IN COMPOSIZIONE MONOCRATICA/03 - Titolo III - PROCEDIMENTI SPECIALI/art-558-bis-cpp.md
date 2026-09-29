@@ -20,6 +20,6 @@ ordine: 674
 
 # Art. 558-bis - ***(Giudizio immediato).***
 
-1. Per il giudizio immediato si osservano le disposizioni del titolo IV del libro sesto, in quanto compatibili.
+1\. Per il giudizio immediato si osservano le disposizioni del titolo IV del libro sesto, in quanto compatibili.
 
-2. Nel caso di emissione del decreto di giudizio immediato non si procede all'udienza predibattimentale prevista dall'[articolo 554-bis](../02%20-%20Titolo%20II%20-%20CITAZIONE%20DIRETTA%20A%20GIUDIZIO/art-554-bis-cpp.md)))
+2\. Nel caso di emissione del decreto di giudizio immediato non si procede all'udienza predibattimentale prevista dall'[articolo 554-bis](../02%20-%20Titolo%20II%20-%20CITAZIONE%20DIRETTA%20A%20GIUDIZIO/art-554-bis-cpp.md)))

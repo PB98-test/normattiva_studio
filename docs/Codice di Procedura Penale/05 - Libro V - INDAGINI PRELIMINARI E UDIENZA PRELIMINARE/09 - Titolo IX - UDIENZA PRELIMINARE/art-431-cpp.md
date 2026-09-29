@@ -20,7 +20,7 @@ ordine: 525
 
 # Art. 431 - ***Fascicolo per il dibattimento***
 
-1. Immediatamente dopo l'emissione del decreto che dispone il giudizio, il giudice provvede nel contraddittorio delle parti alla formazione del fascicolo per il dibattimento. Se una delle parti ne fa richiesta il giudice fissa una nuova udienza, non oltre il termine di quindici giorni, per la formazione del fascicolo. Nel fascicolo per il dibattimento sono raccolti:
+1\. Immediatamente dopo l'emissione del decreto che dispone il giudizio, il giudice provvede nel contraddittorio delle parti alla formazione del fascicolo per il dibattimento. Se una delle parti ne fa richiesta il giudice fissa una nuova udienza, non oltre il termine di quindici giorni, per la formazione del fascicolo. Nel fascicolo per il dibattimento sono raccolti:
 
 - a) gli atti relativi alla procedibilità dell'azione penale e all'esercizio dell'azione civile;
 - b) i verbali degli atti non ripetibili compiuti dalla polizia giudiziaria;

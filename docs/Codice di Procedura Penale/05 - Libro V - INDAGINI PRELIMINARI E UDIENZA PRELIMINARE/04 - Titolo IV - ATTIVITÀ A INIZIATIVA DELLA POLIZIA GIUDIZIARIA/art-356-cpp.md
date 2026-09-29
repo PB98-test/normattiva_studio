@@ -20,4 +20,4 @@ ordine: 423
 
 # Art. 356 - ***Assistenza del difensore***
 
-1. Il difensore della persona nei cui confronti vengono svolte le indagini ha facoltà di assistere, senza diritto di essere preventivamente avvisato, agli atti previsti dagli [articoli 352](art-352-cpp.md) e [354](art-354-cpp.md) oltre che all'immediata apertura del plico autorizzata dal pubblico ministero a norma dell'[articolo 353](art-353-cpp.md) comma 2.
+1\. Il difensore della persona nei cui confronti vengono svolte le indagini ha facoltà di assistere, senza diritto di essere preventivamente avvisato, agli atti previsti dagli [articoli 352](art-352-cpp.md) e [354](art-354-cpp.md) oltre che all'immediata apertura del plico autorizzata dal pubblico ministero a norma dell'[articolo 353](art-353-cpp.md) comma 2.

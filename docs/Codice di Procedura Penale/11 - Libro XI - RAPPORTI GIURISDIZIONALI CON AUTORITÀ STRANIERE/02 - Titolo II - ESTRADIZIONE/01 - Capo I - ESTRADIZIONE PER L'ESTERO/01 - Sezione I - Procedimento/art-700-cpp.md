@@ -20,9 +20,9 @@ ordine: 839
 
 # Art. 700 - ***Documenti a sostegno della domanda***
 
-1. L'estradizione è consentita soltanto sulla base di una domanda alla quale sia allegata copia del provvedimento restrittivo della libertà personale o della sentenza di condanna a pena detentiva che ha dato luogo alla domanda stessa.
+1\. L'estradizione è consentita soltanto sulla base di una domanda alla quale sia allegata copia del provvedimento restrittivo della libertà personale o della sentenza di condanna a pena detentiva che ha dato luogo alla domanda stessa.
 
-2. Alla domanda devono essere allegati:
+2\. Alla domanda devono essere allegati:
 
 - a) una relazione sui fatti addebitati alla persona della quale è domandata l'estradizione, con l'indicazione del tempo e del luogo di commissione dei fatti stessi e della loro qualificazione giuridica;
 - b) il testo delle disposizioni di legge applicabili ...;

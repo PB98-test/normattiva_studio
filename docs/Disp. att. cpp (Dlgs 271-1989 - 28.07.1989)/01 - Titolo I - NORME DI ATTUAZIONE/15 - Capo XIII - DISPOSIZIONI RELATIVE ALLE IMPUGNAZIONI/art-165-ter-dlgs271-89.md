@@ -20,4 +20,4 @@ ordine: 217
 
 # Art. 165-ter - ***Monitoraggio dei termini di cui all'articolo 344-bis del codice***
 
-1. I presidenti della Corte di cassazione e delle corti di appello adottano i provvedimenti organizzativi necessari per attuare il costante monitoraggio dei termini di durata massima dei giudizi di impugnazione e del rispetto della disposizione di cui all'articolo 175-bis.
+1\. I presidenti della Corte di cassazione e delle corti di appello adottano i provvedimenti organizzativi necessari per attuare il costante monitoraggio dei termini di durata massima dei giudizi di impugnazione e del rispetto della disposizione di cui all'articolo 175-bis.

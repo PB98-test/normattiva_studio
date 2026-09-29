@@ -20,4 +20,4 @@ ordine: 35
 
 # Art. 25-decies - ***Obblighi di comunicazione per banche e intermediari finanziari***
 
-1. Le banche e gli altri intermediari finanziari di cui all'articolo 106 del testo unico bancario, nel momento in cui comunicano al cliente variazioni in senso peggiorativo, sospensioni o revoche degli affidamenti, ne danno notizia anche agli organi di controllo societari, se esistenti.
+1\. Le banche e gli altri intermediari finanziari di cui all'articolo 106 del testo unico bancario, nel momento in cui comunicano al cliente variazioni in senso peggiorativo, sospensioni o revoche degli affidamenti, ne danno notizia anche agli organi di controllo societari, se esistenti.

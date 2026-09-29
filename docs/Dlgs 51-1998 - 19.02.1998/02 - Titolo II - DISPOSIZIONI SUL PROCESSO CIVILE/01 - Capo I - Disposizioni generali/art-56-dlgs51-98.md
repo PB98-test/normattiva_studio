@@ -20,7 +20,7 @@ ordine: 57
 
 # Art. 56
 
-1. Dopo la sezione VI del capo I del titolo I del libro I del [codice di procedura civile](../../../Codice%20di%20Procedura%20Civile/00%20-%20Indice%20%28cpc%29.md) è inserita la seguente: "Sezione VI-bis Della composizione del tribunale Art. 50-bis. (Cause nelle quali il tribunale giudica in composizione collegiale). - Il tribunale giudica in composizione collegiale:
+1\. Dopo la sezione VI del capo I del titolo I del libro I del [codice di procedura civile](../../../Codice%20di%20Procedura%20Civile/00%20-%20Indice%20%28cpc%29.md) è inserita la seguente: "Sezione VI-bis Della composizione del tribunale Art. 50-bis. (Cause nelle quali il tribunale giudica in composizione collegiale). - Il tribunale giudica in composizione collegiale:
 
 - 1) nelle cause nelle quali è obbligatorio l'intervento del pubblico ministero, salvo che sia altrimenti disposto;
 - 2) nelle cause di opposizione, impugnazione, revocazione e in quelle conseguenti a dichiarazioni tardive di crediti di cui al regio decreto 16 marzo 1942, n. 267, al decreto-legge 30 gennaio 1979, n. 26, convertito con modificazioni dalla legge 3 aprile 1979, n. 95, e alle altre leggi speciali disciplinanti la liquidazione coatta amministrativa;

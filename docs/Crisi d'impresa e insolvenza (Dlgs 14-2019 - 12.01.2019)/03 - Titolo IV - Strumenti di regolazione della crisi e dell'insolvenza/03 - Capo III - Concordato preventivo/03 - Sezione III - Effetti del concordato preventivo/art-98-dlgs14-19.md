@@ -20,4 +20,4 @@ ordine: 114
 
 # Art. 98 - ***Prededuzione nel concordato preventivo***
 
-1. I crediti prededucibili sono soddisfatti durante la procedura alla scadenza prevista dalla legge o dal contratto.
+1\. I crediti prededucibili sono soddisfatti durante la procedura alla scadenza prevista dalla legge o dal contratto.

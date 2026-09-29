@@ -20,7 +20,7 @@ ordine: 4
 
 # Art. 4 - ***Soggetti destinatari***
 
-1. I provvedimenti previsti dal presente capo si applicano:
+1\. I provvedimenti previsti dal presente capo si applicano:
 
 - a) agli indiziati di appartenere alle associazioni di cui all'[articolo 416-bis c.p.](../../../../../Codice%20Penale/02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/05%20-%20Titolo%20V%20-%20DEI%20DELITTI%20CONTRO%20L%27ORDINE%20PUBBLICO/art-416-bis-cp.md);
 - b) ai soggetti indiziati di uno dei reati previsti dall'[articolo 51, comma 3-bis, del codice di procedura penale](../../../../../Codice%20di%20Procedura%20Penale/01%20-%20Libro%20I%20-%20SOGGETTI/02%20-%20Titolo%20II%20-%20PUBBLICO%20MINISTERO/art-51-cpp.md) ovvero del delitto di cui all'articolo 12-quinquies, comma 1, del decreto-legge 8 giugno 1992, n. 306, convertito, con modificazioni, dalla legge 7 agosto 1992, n. 356, o del delitto di cui all'[articolo 418 del codice penale](../../../../../Codice%20Penale/02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/05%20-%20Titolo%20V%20-%20DEI%20DELITTI%20CONTRO%20L%27ORDINE%20PUBBLICO/art-418-cp.md); [^agg-20]

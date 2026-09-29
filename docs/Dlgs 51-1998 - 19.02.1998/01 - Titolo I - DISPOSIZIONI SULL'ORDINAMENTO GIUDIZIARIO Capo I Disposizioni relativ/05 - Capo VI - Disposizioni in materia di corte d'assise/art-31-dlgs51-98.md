@@ -20,4 +20,4 @@ ordine: 31
 
 # Art. 31
 
-1. Salvo quanto previsto dall'[articolo 32](art-32-dlgs51-98.md) del presente decreto, nella legge 10 aprile 1951, n. 287 i riferimenti al pretore e alla pretura sono sostituiti, rispettivamente, dai riferimenti al presidente del tribunale e al tribunale.
+1\. Salvo quanto previsto dall'[articolo 32](art-32-dlgs51-98.md) del presente decreto, nella legge 10 aprile 1951, n. 287 i riferimenti al pretore e alla pretura sono sostituiti, rispettivamente, dai riferimenti al presidente del tribunale e al tribunale.

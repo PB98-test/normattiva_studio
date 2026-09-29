@@ -20,10 +20,10 @@ ordine: 63
 
 # Art. 52 - ***Sospensione della liquidazione, dell'esecuzione del piano o degli accordi***
 
-1. Proposto il reclamo, la corte di appello, su richiesta di parte o del curatore, può, quando ricorrono gravi e fondati motivi, sospendere, in tutto o in parte o temporaneamente, la liquidazione dell'attivo, la formazione dello stato passivo e il compimento di altri atti di gestione. Allo stesso modo può provvedere, in caso di reclamo avverso la omologazione del concordato preventivo o del piano di ristrutturazione soggetto ad omologazione o degli accordi di ristrutturazione dei debiti, ordinando l'inibitoria, in tutto o in parte o temporanea, dell'attuazione del piano o dei pagamenti.
+1\. Proposto il reclamo, la corte di appello, su richiesta di parte o del curatore, può, quando ricorrono gravi e fondati motivi, sospendere, in tutto o in parte o temporaneamente, la liquidazione dell'attivo, la formazione dello stato passivo e il compimento di altri atti di gestione. Allo stesso modo può provvedere, in caso di reclamo avverso la omologazione del concordato preventivo o del piano di ristrutturazione soggetto ad omologazione o degli accordi di ristrutturazione dei debiti, ordinando l'inibitoria, in tutto o in parte o temporanea, dell'attuazione del piano o dei pagamenti.
 
-2. La corte di appello può disporre le opportune tutele per i creditori e per la continuità aziendale.
+2\. La corte di appello può disporre le opportune tutele per i creditori e per la continuità aziendale.
 
-3. L'istanza di sospensione si propone per il reclamante con il reclamo e per le altre parti con l'atto di costituzione; il presidente, con decreto, ordina la comparizione delle parti dinanzi al collegio in camera di consiglio e dispone che copia del ricorso e del decreto siano notificate alle altre parti e al curatore o al commissario giudiziale, nonchè al pubblico ministero.
+3\. L'istanza di sospensione si propone per il reclamante con il reclamo e per le altre parti con l'atto di costituzione; il presidente, con decreto, ordina la comparizione delle parti dinanzi al collegio in camera di consiglio e dispone che copia del ricorso e del decreto siano notificate alle altre parti e al curatore o al commissario giudiziale, nonchè al pubblico ministero.
 
-4. La corte di appello decide con decreto contro il quale non è ammesso ricorso per cassazione.
+4\. La corte di appello decide con decreto contro il quale non è ammesso ricorso per cassazione.

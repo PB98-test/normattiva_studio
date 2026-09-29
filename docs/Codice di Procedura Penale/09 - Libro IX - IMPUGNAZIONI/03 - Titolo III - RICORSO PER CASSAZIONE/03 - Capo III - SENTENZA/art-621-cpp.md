@@ -20,7 +20,7 @@ ordine: 743
 
 # Art. 621 - ***Effetti dell'annullamento senza rinvio***
 
-1. Nel caso previsto dall'[articolo 620](art-620-cpp.md) comma 1 lettera
+1\. Nel caso previsto dall'[articolo 620](art-620-cpp.md) comma 1 lettera
 
 - b), la corte dispone che gli atti siano trasmessi all'autorità competente, che essa designa; in quello previsto dalla lettera
 - e) e in quello previsto dalla lettera

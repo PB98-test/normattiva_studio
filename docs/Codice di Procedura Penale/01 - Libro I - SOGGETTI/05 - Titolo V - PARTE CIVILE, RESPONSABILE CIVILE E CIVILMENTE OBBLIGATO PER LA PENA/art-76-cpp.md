@@ -20,6 +20,6 @@ ordine: 91
 
 # Art. 76 - ***Costituzione di parte civile***
 
-1. L'azione civile nel processo penale è esercitata, anche a mezzo di procuratore speciale, mediante la costituzione di parte civile.
+1\. L'azione civile nel processo penale è esercitata, anche a mezzo di procuratore speciale, mediante la costituzione di parte civile.
 
-2. La costituzione di parte civile produce i suoi effetti in ogni stato e grado del processo.
+2\. La costituzione di parte civile produce i suoi effetti in ogni stato e grado del processo.

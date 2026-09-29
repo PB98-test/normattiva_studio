@@ -20,7 +20,7 @@ ordine: 699
 
 # Art. 581 - ***Forma dell'impugnazione***
 
-1. L'impugnazione si propone con atto scritto nel quale sono indicati il provvedimento impugnato, la data del medesimo e il giudice che lo ha emesso, con l'enunciazione specifica, a pena di inammissibilità:
+1\. L'impugnazione si propone con atto scritto nel quale sono indicati il provvedimento impugnato, la data del medesimo e il giudice che lo ha emesso, con l'enunciazione specifica, a pena di inammissibilità:
 
 - a) dei capi o dei punti della decisione ai quali si riferisce l'impugnazione;
 - b) delle prove delle quali si deduce l'inesistenza, l'omessa assunzione o l'omessa o erronea valutazione;

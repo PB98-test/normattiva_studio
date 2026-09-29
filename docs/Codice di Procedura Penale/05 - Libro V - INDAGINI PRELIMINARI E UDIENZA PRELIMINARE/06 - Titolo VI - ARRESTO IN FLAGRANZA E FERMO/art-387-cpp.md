@@ -20,4 +20,4 @@ ordine: 460
 
 # Art. 387 - ***Avviso dell'arresto o del fermo ai familiari***
 
-1. La polizia giudiziaria, con il consenso dell'arrestato o del fermato, deve senza ritardo dare notizia dell'avvenuto arresto o fermo ai familiari dell'arrestato o del fermato o ad altra persona da essi indicata.
+1\. La polizia giudiziaria, con il consenso dell'arrestato o del fermato, deve senza ritardo dare notizia dell'avvenuto arresto o fermo ai familiari dell'arrestato o del fermato o ad altra persona da essi indicata.

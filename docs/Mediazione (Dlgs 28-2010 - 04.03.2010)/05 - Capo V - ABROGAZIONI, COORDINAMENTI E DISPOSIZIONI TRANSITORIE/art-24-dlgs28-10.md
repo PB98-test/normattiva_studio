@@ -20,7 +20,7 @@ ordine: 44
 
 # Art. 24 - ***Disposizioni transitorie e finali***
 
-1. Le disposizioni di cui all'[articolo 5](../02%20-%20Capo%20II%20-%20DEL%20PROCEDIMENTO%20DI%20MEDIAZIONE/art-5-dlgs28-10.md), comma 1, acquistano efficacia decorsi dodici mesi dalla data di entrata in vigore del presente decreto e si applicano ai processi successivamente iniziati. [^agg-1] [^agg-3]
+1\. Le disposizioni di cui all'[articolo 5](../02%20-%20Capo%20II%20-%20DEL%20PROCEDIMENTO%20DI%20MEDIAZIONE/art-5-dlgs28-10.md), comma 1, acquistano efficacia decorsi dodici mesi dalla data di entrata in vigore del presente decreto e si applicano ai processi successivamente iniziati. [^agg-1] [^agg-3]
 
 [^agg-1]: *AGGIORNAMENTO (1)* Il D.L. 29 dicembre 2010, n. 225, convertito con modificazioni dalla L. 26 febbraio 2011, n. 10, ha disposto (con l'[art. 2](../01%20-%20Capo%20I%20-%20DISPOSIZIONI%20GENERALI/art-2-dlgs28-10.md), comma 16-decies) che il termine di cui al presente articolo, comma 1, è prorogato di dodici mesi, limitatamente alle controversie in materia di condominio e di risarcimento del danno derivante dalla circolazione di veicoli e natanti.
 

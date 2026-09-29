@@ -20,7 +20,7 @@ ordine: 48
 
 # Art. 30-quater - ***Concessione dei permessi premio ai recidivi***
 
-1. I permessi premio possono essere concessi ai detenuti, ai quali sia stata applicata la recidiva prevista dall'[articolo 99, quarto comma, del codice penale](../../../Codice%20Penale/01%20-%20Libro%20I%20-%20DEI%20REATI%20IN%20GENERALE/04%20-%20Titolo%20IV%20-%20DEL%20REO%20E%20DELLA%20PERSONA%20OFFESA%20DAL%20REATO/02%20-%20Capo%20II%20-%20Della%20recidiva,%20dell%27abitualità%20e%20professionalità%20nel%20reato%20e%20della%20te/art-99-cp.md), nei seguenti casi previsti dal comma 4 dell'[articolo 30-ter](art-30-ter-l354-75.md):
+1\. I permessi premio possono essere concessi ai detenuti, ai quali sia stata applicata la recidiva prevista dall'[articolo 99, quarto comma, del codice penale](../../../Codice%20Penale/01%20-%20Libro%20I%20-%20DEI%20REATI%20IN%20GENERALE/04%20-%20Titolo%20IV%20-%20DEL%20REO%20E%20DELLA%20PERSONA%20OFFESA%20DAL%20REATO/02%20-%20Capo%20II%20-%20Della%20recidiva,%20dell%27abitualità%20e%20professionalità%20nel%20reato%20e%20della%20te/art-99-cp.md), nei seguenti casi previsti dal comma 4 dell'[articolo 30-ter](art-30-ter-l354-75.md):
 
 - a) alla lettera a) dopo l'espiazione di un terzo della pena;
 - b) alla lettera b) dopo l'espiazione della metà della pena;

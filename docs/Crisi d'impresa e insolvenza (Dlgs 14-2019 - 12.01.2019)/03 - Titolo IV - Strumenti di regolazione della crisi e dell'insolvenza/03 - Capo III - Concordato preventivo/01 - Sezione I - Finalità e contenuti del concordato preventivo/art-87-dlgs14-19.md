@@ -20,7 +20,7 @@ ordine: 101
 
 # Art. 87 - ***Contenuto del piano di concordato***
 
-1. Il debitore presenta, con la proposta di concordato e unitamente alla documentazione prevista dall'[articolo 39](../../../02%20-%20Titolo%20III%20-%20Procedimento%20per%20la%20regolazione%20giudiziale%20della%20crisi%20e%20dell%27insol/04%20-%20Capo%20IV%20-%20Accesso%20agli%20strumenti%20di%20regolazione%20della%20crisi%20e%20dell%27insolvenza%20e/01%20-%20Sezione%20I%20-%20Iniziativa%20per%20l%27accesso%20agli%20strumenti%20di%20regolazione%20della%20crisi%20e/art-39-dlgs14-19.md), un piano contenente:
+1\. Il debitore presenta, con la proposta di concordato e unitamente alla documentazione prevista dall'[articolo 39](../../../02%20-%20Titolo%20III%20-%20Procedimento%20per%20la%20regolazione%20giudiziale%20della%20crisi%20e%20dell%27insol/04%20-%20Capo%20IV%20-%20Accesso%20agli%20strumenti%20di%20regolazione%20della%20crisi%20e%20dell%27insolvenza%20e/01%20-%20Sezione%20I%20-%20Iniziativa%20per%20l%27accesso%20agli%20strumenti%20di%20regolazione%20della%20crisi%20e/art-39-dlgs14-19.md), un piano contenente:
 
 - a) l'indicazione del debitore e delle eventuali parti correlate, le sue attività e passività al momento della presentazione del piano e la descrizione della situazione economico-patrimoniale e finanziaria dell'impresa e della posizione dei lavoratori;
 - b) una descrizione delle cause e dell'entità dello stato di crisi o di insolvenza in cui si trova e l'indicazione delle strategie d'intervento;
@@ -38,6 +38,6 @@ ordine: 101
 - p) l'indicazione del commissario giudiziale ove già nominato ;
 - p-bis) l'indicazione, laddove necessario, di fondi rischi, con specifico riferimento, per il caso di finanziamenti garantiti da misure di sostegno pubblico, a quanto necessario al pagamento dei relativi crediti nell'ipotesi di escussione della garanzia e nei limiti delle previsioni di soddisfacimento del credito.
 
-2. Nella domanda il debitore indica le ragioni per cui la proposta concordataria è preferibile rispetto alla liquidazione giudiziale.
+2\. Nella domanda il debitore indica le ragioni per cui la proposta concordataria è preferibile rispetto alla liquidazione giudiziale.
 
-3. Il debitore deposita, con la domanda, la relazione di un professionista indipendente, che attesti la veridicità dei dati aziendali e la fattibilità del piano e, in caso di continuità aziendale, che il piano è atto a impedire o superare l'insolvenza del debitore, a garantire la sostenibilità economica dell'impresa e a riconoscere a ciascun creditore un trattamento non deteriore rispetto a quello che riceverebbe in caso di liquidazione giudiziale. Analoga relazione deve essere presentata nel caso di modifiche sostanziali della proposta o del piano.
+3\. Il debitore deposita, con la domanda, la relazione di un professionista indipendente, che attesti la veridicità dei dati aziendali e la fattibilità del piano e, in caso di continuità aziendale, che il piano è atto a impedire o superare l'insolvenza del debitore, a garantire la sostenibilità economica dell'impresa e a riconoscere a ciascun creditore un trattamento non deteriore rispetto a quello che riceverebbe in caso di liquidazione giudiziale. Analoga relazione deve essere presentata nel caso di modifiche sostanziali della proposta o del piano.

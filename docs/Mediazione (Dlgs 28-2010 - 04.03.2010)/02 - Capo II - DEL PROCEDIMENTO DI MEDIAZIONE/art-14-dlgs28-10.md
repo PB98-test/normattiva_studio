@@ -20,16 +20,16 @@ ordine: 23
 
 # Art. 14 - ***Obblighi del mediatore***
 
-1. Al mediatore e ai suoi ausiliari è fatto divieto di assumere diritti o obblighi connessi, direttamente o indirettamente, con gli affari trattati, fatta eccezione per quelli strettamente inerenti alla prestazione dell'opera o del servizio; è fatto loro divieto di percepire compensi direttamente dalle parti.
+1\. Al mediatore e ai suoi ausiliari è fatto divieto di assumere diritti o obblighi connessi, direttamente o indirettamente, con gli affari trattati, fatta eccezione per quelli strettamente inerenti alla prestazione dell'opera o del servizio; è fatto loro divieto di percepire compensi direttamente dalle parti.
 
-2. Al mediatore è fatto, altresì, obbligo di:
+2\. Al mediatore è fatto, altresì, obbligo di:
 
 - a) sottoscrivere, per ciascun affare per il quale è designato, una dichiarazione di indipendenza e di imparzialità secondo le formule previste dal regolamento di procedura applicabile, nonchè gli ulteriori impegni eventualmente previsti dal medesimo regolamento;
 - b) comunicare immediatamente al responsabile dell'organismo e alle parti tutte le circostanze, emerse durante la procedura, idonee ad incidere sulla sua indipendenza e imparzialità;
 - c) formulare le proposte di conciliazione nel rispetto del limite dell'ordine pubblico e delle norme imperative;
 - d) corrispondere immediatamente a ogni richiesta organizzativa del responsabile dell'organismo. [^agg-9] [^agg-10]
 
-3. Su istanza di parte, il responsabile dell'organismo provvede alla eventuale sostituzione del mediatore. Il regolamento individua la diversa competenza a decidere sull'istanza, quando la mediazione è svolta dal responsabile dell'organismo.
+3\. Su istanza di parte, il responsabile dell'organismo provvede alla eventuale sostituzione del mediatore. Il regolamento individua la diversa competenza a decidere sull'istanza, quando la mediazione è svolta dal responsabile dell'organismo.
 
 [^agg-9]: *AGGIORNAMENTO (9)* Il [D.Lgs. 10 ottobre 2022, n. 149](../../Cartabia%20%28Dlgs%20149-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs149-22%29.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'[articolo 7](art-7-dlgs28-10.md) si applicano a decorrere dal 30 giugno 2023".
 

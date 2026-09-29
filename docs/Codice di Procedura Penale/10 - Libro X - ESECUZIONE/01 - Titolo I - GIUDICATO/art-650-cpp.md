@@ -20,6 +20,6 @@ ordine: 777
 
 # Art. 650 - ***Esecutività delle sentenze e dei decreti penali***
 
-1. Salvo che sia diversamente disposto, le sentenze e i decreti penali hanno forza esecutiva quando sono divenuti irrevocabili.
+1\. Salvo che sia diversamente disposto, le sentenze e i decreti penali hanno forza esecutiva quando sono divenuti irrevocabili.
 
-2. Le sentenze di non luogo a procedere hanno forza esecutiva quando non sono più soggette a impugnazione.
+2\. Le sentenze di non luogo a procedere hanno forza esecutiva quando non sono più soggette a impugnazione.

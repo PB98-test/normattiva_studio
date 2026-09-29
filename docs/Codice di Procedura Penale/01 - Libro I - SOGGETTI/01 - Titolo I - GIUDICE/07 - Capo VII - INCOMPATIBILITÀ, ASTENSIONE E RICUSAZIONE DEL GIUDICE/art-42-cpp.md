@@ -20,6 +20,6 @@ ordine: 52
 
 # Art. 42 - ***Provvedimenti in caso di accoglimento della dichiarazione di astensione o ricusazione***
 
-1. Se la dichiarazione di astensione o di ricusazione è accolta, il giudice non può compiere alcun atto del procedimento.
+1\. Se la dichiarazione di astensione o di ricusazione è accolta, il giudice non può compiere alcun atto del procedimento.
 
-2. Il provvedimento che accoglie la dichiarazione di astensione o di ricusazione dichiara se e in quale parte gli atti compiuti precedentemente dal giudice astenutosi o ricusato conservano efficacia.
+2\. Il provvedimento che accoglie la dichiarazione di astensione o di ricusazione dichiara se e in quale parte gli atti compiuti precedentemente dal giudice astenutosi o ricusato conservano efficacia.

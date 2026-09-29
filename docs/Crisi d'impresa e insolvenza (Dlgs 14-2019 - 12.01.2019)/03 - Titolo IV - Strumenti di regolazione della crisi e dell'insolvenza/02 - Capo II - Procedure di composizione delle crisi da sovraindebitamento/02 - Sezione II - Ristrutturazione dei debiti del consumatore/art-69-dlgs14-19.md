@@ -20,6 +20,6 @@ ordine: 83
 
 # Art. 69 - ***Condizioni soggettive ostative***
 
-1. Il consumatore non può accedere alla procedura disciplinata in questa sezione se è già stato esdebitato nei cinque anni precedenti la domanda o ha già beneficiato dell'esdebitazione per due volte, ovvero ha determinato la situazione di sovraindebitamento con colpa grave, malafede o frode.
+1\. Il consumatore non può accedere alla procedura disciplinata in questa sezione se è già stato esdebitato nei cinque anni precedenti la domanda o ha già beneficiato dell'esdebitazione per due volte, ovvero ha determinato la situazione di sovraindebitamento con colpa grave, malafede o frode.
 
-2. Il creditore che ha colpevolmente determinato la situazione di indebitamento o il suo aggravamento o che ha violato i principi di cui all'articolo 124-bis del decreto legislativo 1° settembre 1993, n. 385, non può presentare opposizione o reclamo in sede di omologa per contestare la convenienza della proposta.
+2\. Il creditore che ha colpevolmente determinato la situazione di indebitamento o il suo aggravamento o che ha violato i principi di cui all'articolo 124-bis del decreto legislativo 1° settembre 1993, n. 385, non può presentare opposizione o reclamo in sede di omologa per contestare la convenienza della proposta.

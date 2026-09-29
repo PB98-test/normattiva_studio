@@ -20,8 +20,8 @@ ordine: 741
 
 # Art. 619 - ***Rettificazione di errori non determinanti annullamento***
 
-1. Gli errori di diritto nella motivazione e le erronee indicazioni di testi di legge non producono l'annullamento della sentenza impugnata, se non hanno avuto influenza decisiva sul dispositivo. La corte tuttavia specifica nella sentenza le censure e le rettificazioni occorrenti.
+1\. Gli errori di diritto nella motivazione e le erronee indicazioni di testi di legge non producono l'annullamento della sentenza impugnata, se non hanno avuto influenza decisiva sul dispositivo. La corte tuttavia specifica nella sentenza le censure e le rettificazioni occorrenti.
 
-2. Quando nella sentenza impugnata si deve soltanto rettificare la specie o la quantità della pena per errore di denominazione o di computo, la corte di cassazione vi provvede senza pronunciare annullamento.
+2\. Quando nella sentenza impugnata si deve soltanto rettificare la specie o la quantità della pena per errore di denominazione o di computo, la corte di cassazione vi provvede senza pronunciare annullamento.
 
-3. Nello stesso modo si provvede nei casi di legge più favorevole all'imputato, anche se sopravvenuta dopo la proposizione del ricorso, qualora non siano necessari nuovi accertamenti di fatto.
+3\. Nello stesso modo si provvede nei casi di legge più favorevole all'imputato, anche se sopravvenuta dopo la proposizione del ricorso, qualora non siano necessari nuovi accertamenti di fatto.

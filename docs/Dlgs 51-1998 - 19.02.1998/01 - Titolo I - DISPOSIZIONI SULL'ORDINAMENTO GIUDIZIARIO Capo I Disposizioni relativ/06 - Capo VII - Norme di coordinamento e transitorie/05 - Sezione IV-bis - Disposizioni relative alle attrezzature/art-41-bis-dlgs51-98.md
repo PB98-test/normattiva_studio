@@ -20,12 +20,12 @@ ordine: 42
 
 # Art. 41-bis
 
-1. Le attrezzature delle preture circondariali e delle relative sezioni distaccate possono essere assegnate dal presidente del tribunale, nel cui circondario sono ubicati gli uffici soppressi, alla sede principale del tribunale ovvero ad una o più sezioni distaccate del medesimo.
+1\. Le attrezzature delle preture circondariali e delle relative sezioni distaccate possono essere assegnate dal presidente del tribunale, nel cui circondario sono ubicati gli uffici soppressi, alla sede principale del tribunale ovvero ad una o più sezioni distaccate del medesimo.
 
-2. Le attrezzature delle procure della Repubblica presso le preture circondariali possono essere assegnate dal procuratore della Repubblica presso il tribunale, ubicato nel medesimo comune dell'ufficio soppresso, all'ufficio di procura da lui diretto.
+2\. Le attrezzature delle procure della Repubblica presso le preture circondariali possono essere assegnate dal procuratore della Repubblica presso il tribunale, ubicato nel medesimo comune dell'ufficio soppresso, all'ufficio di procura da lui diretto.
 
-3. La destinazione delle attrezzature delle quali non è stata disposta l'assegnazione a norma dei commi 1 e 2 è stabilita dal Ministero di grazia e giustizia.
+3\. La destinazione delle attrezzature delle quali non è stata disposta l'assegnazione a norma dei commi 1 e 2 è stabilita dal Ministero di grazia e giustizia.
 
-4. I provvedimenti previsti dal presente articolo sono adottati anche in deroga alle norme sulla contabilità generale dello Stato e con il consenso degli enti locali interessati, quanto alle attrezzature ad essi appartenenti.
+4\. I provvedimenti previsti dal presente articolo sono adottati anche in deroga alle norme sulla contabilità generale dello Stato e con il consenso degli enti locali interessati, quanto alle attrezzature ad essi appartenenti.
 
 #### Disposizioni per la definizione dei procedimenti pendenti

@@ -20,4 +20,4 @@ ordine: 487
 
 # Art. 404 - ***Efficacia dell'incidente probatorio nei confronti della parte civile***
 
-1. La sentenza pronunciata sulla base di una prova assunta con incidente probatorio a cui il danneggiato dal reato non è stato posto in grado di partecipare non produce gli effetti previsti dall'[articolo 652](../../10%20-%20Libro%20X%20-%20ESECUZIONE/01%20-%20Titolo%20I%20-%20GIUDICATO/art-652-cpp.md), salvo che il danneggiato stesso ne abbia fatta accettazione anche tacita.
+1\. La sentenza pronunciata sulla base di una prova assunta con incidente probatorio a cui il danneggiato dal reato non è stato posto in grado di partecipare non produce gli effetti previsti dall'[articolo 652](../../10%20-%20Libro%20X%20-%20ESECUZIONE/01%20-%20Titolo%20I%20-%20GIUDICATO/art-652-cpp.md), salvo che il danneggiato stesso ne abbia fatta accettazione anche tacita.

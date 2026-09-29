@@ -20,4 +20,4 @@ ordine: 221
 
 # Art. 188 - ***Libertà morale della persona nell'assunzione della prova***
 
-1. Non possono essere utilizzati, neppure con il consenso della persona interessata, metodi o tecniche idonei a influire sulla libertà di autodeterminazione o ad alterare la capacità di ricordare e di valutare i fatti.
+1\. Non possono essere utilizzati, neppure con il consenso della persona interessata, metodi o tecniche idonei a influire sulla libertà di autodeterminazione o ad alterare la capacità di ricordare e di valutare i fatti.

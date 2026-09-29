@@ -20,6 +20,6 @@ ordine: 581
 
 # Art. 476 - ***Reati commessi in udienza***
 
-1. Quando viene commesso un reato in udienza, il pubblico ministero procede a norma di legge, disponendo l'arresto dell'autore nei casi consentiti.
+1\. Quando viene commesso un reato in udienza, il pubblico ministero procede a norma di legge, disponendo l'arresto dell'autore nei casi consentiti.
 
-2. Non è consentito l'arresto del testimone in udienza per reati concernenti il contenuto della deposizione.
+2\. Non è consentito l'arresto del testimone in udienza per reati concernenti il contenuto della deposizione.

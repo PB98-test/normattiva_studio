@@ -20,6 +20,6 @@ ordine: 891
 
 # Art. 738 - ***Esecuzione conseguente al riconoscimento***
 
-1. Nei casi di riconoscimento ai fini dell'esecuzione della sentenza straniera, le pene e la confisca conseguenti al riconoscimento sono eseguite secondo la legge italiana. La pena espiata nello stato di condanna è computata ai fini dell'esecuzione.
+1\. Nei casi di riconoscimento ai fini dell'esecuzione della sentenza straniera, le pene e la confisca conseguenti al riconoscimento sono eseguite secondo la legge italiana. La pena espiata nello stato di condanna è computata ai fini dell'esecuzione.
 
-2. All'esecuzione provvede di ufficio il procuratore generale presso la corte di appello che ha deliberato il riconoscimento. Tale corte è equiparata, a ogni effetto, al giudice che ha pronunciato sentenza di condanna in un procedimento penale ordinario.
+2\. All'esecuzione provvede di ufficio il procuratore generale presso la corte di appello che ha deliberato il riconoscimento. Tale corte è equiparata, a ogni effetto, al giudice che ha pronunciato sentenza di condanna in un procedimento penale ordinario.

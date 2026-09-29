@@ -20,4 +20,4 @@ ordine: 483
 
 # Art. 400 - ***Provvedimenti per i casi di urgenza***
 
-1. Quando per assicurare l'assunzione della prova è indispensabile procedere con urgenza all'incidente probatorio, il giudice dispone con decreto motivato che i termini previsti dagli articoli precedenti siano abbreviati nella misura necessaria.
+1\. Quando per assicurare l'assunzione della prova è indispensabile procedere con urgenza all'incidente probatorio, il giudice dispone con decreto motivato che i termini previsti dagli articoli precedenti siano abbreviati nella misura necessaria.

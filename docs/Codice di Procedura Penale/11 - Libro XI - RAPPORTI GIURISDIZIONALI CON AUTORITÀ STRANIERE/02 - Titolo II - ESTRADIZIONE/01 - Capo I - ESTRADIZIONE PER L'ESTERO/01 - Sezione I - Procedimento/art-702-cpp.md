@@ -20,4 +20,4 @@ ordine: 841
 
 # Art. 702 - ***Intervento dello stato richiedente***
 
-1. A condizione di reciprocità, lo stato richiedente ha la facoltà di intervenire nel procedimento davanti alla corte di appello e alla corte di cassazione facendosi rappresentare da un avvocato abilitato al patrocinio davanti all'autorità giudiziaria italiana.
+1\. A condizione di reciprocità, lo stato richiedente ha la facoltà di intervenire nel procedimento davanti alla corte di appello e alla corte di cassazione facendosi rappresentare da un avvocato abilitato al patrocinio davanti all'autorità giudiziaria italiana.

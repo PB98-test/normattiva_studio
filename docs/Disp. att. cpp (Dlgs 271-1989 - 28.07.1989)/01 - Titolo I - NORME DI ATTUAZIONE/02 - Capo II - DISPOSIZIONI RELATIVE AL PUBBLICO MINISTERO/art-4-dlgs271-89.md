@@ -20,4 +20,4 @@ ordine: 5
 
 # Art. 4 - ***Contrasto tra pubblici ministeri***
 
-1. Quando ricorre l'ipotesi prevista dall'articolo 54 comma 2 del codice, il pubblico ministero trasmette immediatamente al procuratore generale presso la corte di appello o presso la corte di cassazione gli atti del procedimento in originale o in copia.
+1\. Quando ricorre l'ipotesi prevista dall'articolo 54 comma 2 del codice, il pubblico ministero trasmette immediatamente al procuratore generale presso la corte di appello o presso la corte di cassazione gli atti del procedimento in originale o in copia.

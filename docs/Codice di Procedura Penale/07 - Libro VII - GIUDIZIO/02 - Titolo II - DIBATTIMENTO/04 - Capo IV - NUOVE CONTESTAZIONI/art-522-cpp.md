@@ -20,6 +20,6 @@ ordine: 631
 
 # Art. 522 - ***Nullità della sentenza per difetto di contestazione***
 
-1. L'inosservanza delle disposizioni previste in questo capo è causa di nullità.
+1\. L'inosservanza delle disposizioni previste in questo capo è causa di nullità.
 
-2. La sentenza di condanna pronunciata per un fatto nuovo, per un reato concorrente o per una circostanza aggravante senza che siano state osservate le disposizioni degli articoli precedenti è nulla soltanto nella parte relativa al fatto nuovo, al reato concorrente o alla circostanza aggravante.
+2\. La sentenza di condanna pronunciata per un fatto nuovo, per un reato concorrente o per una circostanza aggravante senza che siano state osservate le disposizioni degli articoli precedenti è nulla soltanto nella parte relativa al fatto nuovo, al reato concorrente o alla circostanza aggravante.

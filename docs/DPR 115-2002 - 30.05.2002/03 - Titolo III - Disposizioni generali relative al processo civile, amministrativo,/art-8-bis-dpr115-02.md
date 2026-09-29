@@ -20,8 +20,8 @@ ordine: 9
 
 # Art. 8-bis - ***Regime delle spese di giustizia nei procedimenti civili di cui è parte il pubblico ministero***
 
-1. Salvo che non sia diversamente disposto, nei procedimenti civili promossi dal pubblico ministero o nei quali il medesimo è parte, le spese di giustizia che non sono poste, dalla legge o dal giudice, a carico di una parte del processo diversa dal medesimo pubblico ministero sono regolate dall'articolo 131.
+1\. Salvo che non sia diversamente disposto, nei procedimenti civili promossi dal pubblico ministero o nei quali il medesimo è parte, le spese di giustizia che non sono poste, dalla legge o dal giudice, a carico di una parte del processo diversa dal medesimo pubblico ministero sono regolate dall'articolo 131.
 
-2. Il provvedimento che pone a carico della parte soccombente non ammessa al patrocinio la rifusione delle spese di cui al comma 1 dispone che il pagamento sia eseguito a favore dello Stato.)) [^agg-95]
+2\. Il provvedimento che pone a carico della parte soccombente non ammessa al patrocinio la rifusione delle spese di cui al comma 1 dispone che il pagamento sia eseguito a favore dello Stato.)) [^agg-95]
 
 [^agg-95]: *AGGIORNAMENTO (95)* Il [D.Lgs. 31 ottobre 2024, n. 164](../../Correttivo%20Cartabia%20%28Dlgs%20164-2024%20-%2031.10.2024%29/00%20-%20Indice%20%28dlgs164-24%29.md), ha disposto (con l'[art. 7](../02%20-%20Titolo%20II%20-%20Disposizioni%20generali%20relative%20al%20processo%20penale/art-7-dpr115-02.md), comma 1) che "Ove non diversamente previsto, le disposizioni del presente decreto si applicano ai procedimenti introdotti successivamente al 28 febbraio 2023".

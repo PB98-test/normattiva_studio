@@ -20,4 +20,4 @@ ordine: 227
 
 # Art. 193 - ***Limiti di prova stabiliti dalle leggi civili***
 
-1. Nel processo penale non si osservano i limiti di prova stabiliti dalle leggi civili, eccettuati quelli che riguardano lo stato di famiglia e di cittadinanza.
+1\. Nel processo penale non si osservano i limiti di prova stabiliti dalle leggi civili, eccettuati quelli che riguardano lo stato di famiglia e di cittadinanza.

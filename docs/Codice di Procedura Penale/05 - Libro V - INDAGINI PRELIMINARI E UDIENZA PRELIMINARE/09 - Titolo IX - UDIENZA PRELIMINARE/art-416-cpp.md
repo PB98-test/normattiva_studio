@@ -20,9 +20,9 @@ ordine: 503
 
 # Art. 416 - ***Presentazione della richiesta del pubblico ministero***
 
-1. La richiesta di rinvio a giudizio è depositata dal pubblico ministero nella cancelleria del giudice. La richiesta di rinvio a giudizio è nulla se non è preceduta dall'avviso, previsto dall'[articolo 415-bis](../08%20-%20Titolo%20VIII%20-%20CHIUSURA%20DELLE%20INDAGINI%20PRELIMINARI/art-415-bis-cpp.md), nonchè dall'invito a presentarsi per rendere l'interrogatorio ai sensi dell'[articolo 375](../05%20-%20Titolo%20V%20-%20ATTIVITÀ%20DEL%20PUBBLICO%20MINISTERO/art-375-cpp.md). comma 3, qualora la persona sottoposta alle indagini abbia chiesto di essere sottoposta ad interrogatorio entro il termine di cui all'[articolo 415-bis](../08%20-%20Titolo%20VIII%20-%20CHIUSURA%20DELLE%20INDAGINI%20PRELIMINARI/art-415-bis-cpp.md), comma 3. [^agg-84]
+1\. La richiesta di rinvio a giudizio è depositata dal pubblico ministero nella cancelleria del giudice. La richiesta di rinvio a giudizio è nulla se non è preceduta dall'avviso, previsto dall'[articolo 415-bis](../08%20-%20Titolo%20VIII%20-%20CHIUSURA%20DELLE%20INDAGINI%20PRELIMINARI/art-415-bis-cpp.md), nonchè dall'invito a presentarsi per rendere l'interrogatorio ai sensi dell'[articolo 375](../05%20-%20Titolo%20V%20-%20ATTIVITÀ%20DEL%20PUBBLICO%20MINISTERO/art-375-cpp.md). comma 3, qualora la persona sottoposta alle indagini abbia chiesto di essere sottoposta ad interrogatorio entro il termine di cui all'[articolo 415-bis](../08%20-%20Titolo%20VIII%20-%20CHIUSURA%20DELLE%20INDAGINI%20PRELIMINARI/art-415-bis-cpp.md), comma 3. [^agg-84]
 
-2. Con la richiesta è trasmesso il fascicolo contenente la notizia di reato, la documentazione relativa alle indagini espletate e i verbali degli atti compiuti davanti al giudice per le indagini preliminari. Il corpo del reato e le cose pertinenti al reato sono allegati al fascicolo, qualora non debbano essere custoditi altrove.
+2\. Con la richiesta è trasmesso il fascicolo contenente la notizia di reato, la documentazione relativa alle indagini espletate e i verbali degli atti compiuti davanti al giudice per le indagini preliminari. Il corpo del reato e le cose pertinenti al reato sono allegati al fascicolo, qualora non debbano essere custoditi altrove.
 
 2-bis. COMMA ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 150.
 

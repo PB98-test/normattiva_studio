@@ -20,4 +20,4 @@ ordine: 140
 
 # Art. 110-quater - ***Riferimenti alla persona iscritta nel registro delle notizie di reato contenuti nelle disposizioni civili e amministrative***
 
-1. Le disposizioni da cui derivano effetti pregiudizievoli in sede civile o amministrativa per la persona sottoposta a indagini devono intendersi nel senso che esse si applicano comunque alla persona nei cui confronti è stata emessa una misura cautelare personale o è stata esercitata l'azione penale.
+1\. Le disposizioni da cui derivano effetti pregiudizievoli in sede civile o amministrativa per la persona sottoposta a indagini devono intendersi nel senso che esse si applicano comunque alla persona nei cui confronti è stata emessa una misura cautelare personale o è stata esercitata l'azione penale.

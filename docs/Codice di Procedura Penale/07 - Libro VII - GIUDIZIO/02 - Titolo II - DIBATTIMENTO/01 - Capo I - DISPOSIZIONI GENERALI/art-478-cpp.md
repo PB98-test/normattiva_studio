@@ -20,4 +20,4 @@ ordine: 583
 
 # Art. 478 - ***Questioni incidentali***
 
-1. Sulle questioni incidentali proposte dalle parti nel corso del dibattimento il giudice decide immediatamente con ordinanza, previa discussione nei modi previsti dall'[articolo 491](../02%20-%20Capo%20II%20-%20ATTI%20INTRODUTTIVI/art-491-cpp.md).
+1\. Sulle questioni incidentali proposte dalle parti nel corso del dibattimento il giudice decide immediatamente con ordinanza, previa discussione nei modi previsti dall'[articolo 491](../02%20-%20Capo%20II%20-%20ATTI%20INTRODUTTIVI/art-491-cpp.md).

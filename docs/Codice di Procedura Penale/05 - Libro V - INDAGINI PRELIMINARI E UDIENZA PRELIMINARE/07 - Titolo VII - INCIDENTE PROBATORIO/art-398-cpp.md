@@ -20,21 +20,21 @@ ordine: 481
 
 # Art. 398 - ***Provvedimenti sulla richiesta di incidente probatorio***
 
-1. Entro due giorni dal deposito della prova della notifica e comunque dopo la scadenza del termine previsto dall'[articolo 396](art-396-cpp.md) comma 1, il giudice pronuncia ordinanza con la quale accoglie, dichiara inammissibile o rigetta la richiesta di incidente probatorio. L'ordinanza di inammissibilità o di rigetto è immediatamente comunicata al pubblico ministero e notificata alle persone interessate.
+1\. Entro due giorni dal deposito della prova della notifica e comunque dopo la scadenza del termine previsto dall'[articolo 396](art-396-cpp.md) comma 1, il giudice pronuncia ordinanza con la quale accoglie, dichiara inammissibile o rigetta la richiesta di incidente probatorio. L'ordinanza di inammissibilità o di rigetto è immediatamente comunicata al pubblico ministero e notificata alle persone interessate.
 
-2. Con l'ordinanza che accoglie la richiesta il giudice stabilisce:
+2\. Con l'ordinanza che accoglie la richiesta il giudice stabilisce:
 
 - a) l'oggetto della prova nei limiti della richiesta e delle deduzioni;
 - b) le persone interessate all'assunzione della prova individuate sulla base della richiesta e delle deduzioni;
 - c) la data dell'udienza. Tra il provvedimento e la data dell'udienza non può intercorrere un termine superiore a dieci giorni.
 
-3. Il giudice fa notificare alla persona sottoposta alle indagini, alla persona offesa e ai difensori avviso del giorno, dell'ora e del luogo in cui si deve procedere all'incidente probatorio almeno due giorni prima della data fissata con l'avvertimento che nei due giorni precedenti l'udienza possono prendere cognizione ed estrarre copia delle dichiarazioni già rese dalla persona da esaminare. Nello stesso termine l'avviso e 'comunicato al pubblico ministero.
+3\. Il giudice fa notificare alla persona sottoposta alle indagini, alla persona offesa e ai difensori avviso del giorno, dell'ora e del luogo in cui si deve procedere all'incidente probatorio almeno due giorni prima della data fissata con l'avvertimento che nei due giorni precedenti l'udienza possono prendere cognizione ed estrarre copia delle dichiarazioni già rese dalla persona da esaminare. Nello stesso termine l'avviso e 'comunicato al pubblico ministero.
 
 3-bis. La persona sottoposta alle indagini ed i difensori delle parti hanno diritto di ottenere copia degli atti depositati ai sensi dell'[articolo 393](art-393-cpp.md), comma 2-bis.
 
-4. Se si deve procedere a più incidenti probatori, essi sono assegnati alla medesima udienza, sempre che non ne derivi ritardo.
+4\. Se si deve procedere a più incidenti probatori, essi sono assegnati alla medesima udienza, sempre che non ne derivi ritardo.
 
-5. Quando ricorrono ragioni di urgenza e l'incidente probatorio non può essere svolto nella circoscrizione del giudice competente, quest'ultimo può delegare il giudice per le indagini preliminari del luogo dove la prova deve essere assunta.
+5\. Quando ricorrono ragioni di urgenza e l'incidente probatorio non può essere svolto nella circoscrizione del giudice competente, quest'ultimo può delegare il giudice per le indagini preliminari del luogo dove la prova deve essere assunta.
 
 5-bis. Nel caso di indagini che riguardano ipotesi di reato previste dagli [articoli 572](../../09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-572-cpp.md), [600](../../09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/02%20-%20Titolo%20II%20-%20APPELLO/art-600-cpp.md), 600-bis, 600-ter, 600-quinquies, [601](../../09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/02%20-%20Titolo%20II%20-%20APPELLO/art-601-cpp.md), [602](../../09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/02%20-%20Titolo%20II%20-%20APPELLO/art-602-cpp.md), 609-bis, 609-ter, anche se relativo al materiale pornografico di cui all'articolo 600-quater 1, 609-quater e 609-octies, 609-undecies e 612-bis del [codice penale](../../../Codice%20Penale/00%20-%20Indice%20%28cp%29.md), il giudice, ove fra le persone interessate all'assunzione della prova vi siano minorenni, con l'ordinanza di cui al comma 2, stabilisce il luogo, il tempo e Le modalità particolari attraverso cui procedere all'incidente probatorio, quando le esigenze di tutela delle persone lo rendono necessario od opportuno. A tal fine l'udienza può svolgersi anche in luogo diverso dal tribunale, avvalendosi il giudice, ove esistano, di strutture specializzate di assistenza o, in mancanza, presso l'abitazione della persona interessata all'assunzione della prova. Le dichiarazioni testimoniali debbono essere documentate integralmente con mezzi di riproduzione fonografica o audiovisiva. Quando si verifica una indisponibilità di strumenti di riproduzione o di personale tecnico, si provvede con le forme della perizia ovvero della consulenza tecnica. Dell'interrogatorio è anche redatto verbale in forma riassuntiva. La trascrizione della riproduzione è disposta solo se richiesta dalle parti. [^agg-93] [^agg-140]
 

@@ -20,8 +20,8 @@ ordine: 253
 
 # Art. 217 - ***Pluralità di ricognizioni***
 
-1. Quando più persone sono chiamate ad eseguire la ricognizione della medesima persona o del medesimo oggetto, il giudice procede con atti separati, impedendo ogni comunicazione tra chi ha compiuto la ricognizione e coloro che devono ancora eseguirla.
+1\. Quando più persone sono chiamate ad eseguire la ricognizione della medesima persona o del medesimo oggetto, il giudice procede con atti separati, impedendo ogni comunicazione tra chi ha compiuto la ricognizione e coloro che devono ancora eseguirla.
 
-2. Se una stessa persona deve eseguire la ricognizione di più persone o di più oggetti, il giudice provvede, per ogni atto, in modo che la persona o l'oggetto sottoposti a ricognizione siano collocati tra persone od oggetti diversi.
+2\. Se una stessa persona deve eseguire la ricognizione di più persone o di più oggetti, il giudice provvede, per ogni atto, in modo che la persona o l'oggetto sottoposti a ricognizione siano collocati tra persone od oggetti diversi.
 
-3. Si applicano le disposizioni degli articoli precedenti.
+3\. Si applicano le disposizioni degli articoli precedenti.

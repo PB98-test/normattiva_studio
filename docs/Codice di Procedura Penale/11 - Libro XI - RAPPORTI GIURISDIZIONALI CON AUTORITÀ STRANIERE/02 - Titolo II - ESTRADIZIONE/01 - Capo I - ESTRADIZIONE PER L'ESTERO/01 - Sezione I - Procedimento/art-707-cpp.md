@@ -20,4 +20,4 @@ ordine: 846
 
 # Art. 707 - ***Rinnovo della domanda di estradizione***
 
-1. La sentenza contraria all'estradizione preclude la pronuncia di una successiva sentenza favorevole a seguito di un'ulteriore domanda presentata per i medesimi fatti dallo stesso stato, salvo che la domanda sia fondata su elementi che non siano già stati valutati dall'autorità giudiziaria.
+1\. La sentenza contraria all'estradizione preclude la pronuncia di una successiva sentenza favorevole a seguito di un'ulteriore domanda presentata per i medesimi fatti dallo stesso stato, salvo che la domanda sia fondata su elementi che non siano già stati valutati dall'autorità giudiziaria.

@@ -20,7 +20,7 @@ ordine: 418
 
 # Art. 351 - ***Altre sommarie informazioni***
 
-1. La polizia giudiziaria assume sommarie informazioni dalle persone che possono riferire circostanze utili ai fini delle indagini. Si applicano le disposizioni del secondo e terzo periodo del comma 1 dell'[articolo 362](../05%20-%20Titolo%20V%20-%20ATTIVITÀ%20DEL%20PUBBLICO%20MINISTERO/art-362-cpp.md).
+1\. La polizia giudiziaria assume sommarie informazioni dalle persone che possono riferire circostanze utili ai fini delle indagini. Si applicano le disposizioni del secondo e terzo periodo del comma 1 dell'[articolo 362](../05%20-%20Titolo%20V%20-%20ATTIVITÀ%20DEL%20PUBBLICO%20MINISTERO/art-362-cpp.md).
 
 1-bis. All'assunzione di informazioni da persona imputata in un procedimento connesso ovvero da persona imputata di un reato collegato a quello per cui si procede nel caso previsto dall'[articolo 371](../05%20-%20Titolo%20V%20-%20ATTIVITÀ%20DEL%20PUBBLICO%20MINISTERO/art-371-cpp.md), comma 2, lettera b), procede un ufficiale di polizia giudiziaria. La persona predetta, se priva del difensore, è avvisata che è assistita da un difensore di ufficio, ma che può nominarne uno di fiducia. Il difensore deve essere tempestivamente avvisato e ha diritto di assistere all'atto.
 

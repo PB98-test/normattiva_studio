@@ -20,7 +20,7 @@ ordine: 4
 
 # Art. 4
 
-1. L'[articolo 4](art-4-dlgs51-98.md) del regio decreto 30 gennaio 1941, n. 12 è così modificato:
+1\. L'[articolo 4](art-4-dlgs51-98.md) del regio decreto 30 gennaio 1941, n. 12 è così modificato:
 
 - a) nel primo comma, le parole "delle preture," sono soppresse;
 - b) nel secondo comma, le parole "i vice pretori" sono sostituite dalle parole "i giudici onorari di tribunale".

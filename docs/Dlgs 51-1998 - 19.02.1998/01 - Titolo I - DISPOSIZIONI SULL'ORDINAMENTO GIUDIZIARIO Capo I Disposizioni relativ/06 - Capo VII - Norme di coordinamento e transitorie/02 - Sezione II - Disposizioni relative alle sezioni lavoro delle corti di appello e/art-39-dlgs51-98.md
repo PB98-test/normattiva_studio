@@ -20,6 +20,6 @@ ordine: 39
 
 # Art. 39
 
-1. Le disposizioni dell'[articolo 38](art-38-dlgs51-98.md) si osservano, in quanto compatibili, anche nell'attribuzione dei posti di organico ai singoli tribunali e nella loro copertura, relativamente ai giudici incaricati in via esclusiva della trattazione delle controversie in materia di lavoro e di assistenza e previdenza obbligatorie.
+1\. Le disposizioni dell'[articolo 38](art-38-dlgs51-98.md) si osservano, in quanto compatibili, anche nell'attribuzione dei posti di organico ai singoli tribunali e nella loro copertura, relativamente ai giudici incaricati in via esclusiva della trattazione delle controversie in materia di lavoro e di assistenza e previdenza obbligatorie.
 
 #### Disposizioni relative al personale amministrativo

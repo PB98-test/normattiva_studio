@@ -20,13 +20,13 @@ ordine: 32
 
 # Art. 15-nonies - ***Revoca del provvedimento di ammissione e ricorso avverso il relativo decreto***
 
-1. L'insussistenza dei presupposti per l'ammissione di cui all'[articolo 15-ter](art-15-ter-dlgs28-10.md), da chiunque accertata, anche a seguito dei controlli di cui all'articolo 15-decies, comma 2, è comunicata al consiglio dell'ordine che ha deliberato l'ammissione.
+1\. L'insussistenza dei presupposti per l'ammissione di cui all'[articolo 15-ter](art-15-ter-dlgs28-10.md), da chiunque accertata, anche a seguito dei controlli di cui all'articolo 15-decies, comma 2, è comunicata al consiglio dell'ordine che ha deliberato l'ammissione.
 
-2. Le sopravvenute modifiche delle condizioni reddituali che escludono l'ammissione al patrocinio sono immediatamente comunicate dalla parte ammessa o dal suo avvocato al consiglio dell'ordine che ha deliberato l'ammissione in via anticipata.
+2\. Le sopravvenute modifiche delle condizioni reddituali che escludono l'ammissione al patrocinio sono immediatamente comunicate dalla parte ammessa o dal suo avvocato al consiglio dell'ordine che ha deliberato l'ammissione in via anticipata.
 
-3. Ricevute le comunicazioni previste dai commi 1 e 2, il consiglio dell'ordine, effettuate le verifiche ritenute necessarie, revoca l'ammissione e ne dà comunicazione all'interessato, all'avvocato e all'organismo di mediazione.
+3\. Ricevute le comunicazioni previste dai commi 1 e 2, il consiglio dell'ordine, effettuate le verifiche ritenute necessarie, revoca l'ammissione e ne dà comunicazione all'interessato, all'avvocato e all'organismo di mediazione.
 
-4. Contro il provvedimento di revoca l'interessato può proporre ricorso, entro venti giorni dalla comunicazione, avanti al presidente del tribunale del luogo in cui ha sede il consiglio dell'ordine che lo ha adottato. Si applica l'articolo 99, commi 2, 3 e 4, del decreto del Presidente della Repubblica n. 115 del 2002. [^agg-9] [^agg-10]
+4\. Contro il provvedimento di revoca l'interessato può proporre ricorso, entro venti giorni dalla comunicazione, avanti al presidente del tribunale del luogo in cui ha sede il consiglio dell'ordine che lo ha adottato. Si applica l'articolo 99, commi 2, 3 e 4, del decreto del Presidente della Repubblica n. 115 del 2002. [^agg-9] [^agg-10]
 
 [^agg-9]: *AGGIORNAMENTO (9)* Il [D.Lgs. 10 ottobre 2022, n. 149](../../Cartabia%20%28Dlgs%20149-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs149-22%29.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'[articolo 7](art-7-dlgs28-10.md) si applicano a decorrere dal 30 giugno 2023".
 

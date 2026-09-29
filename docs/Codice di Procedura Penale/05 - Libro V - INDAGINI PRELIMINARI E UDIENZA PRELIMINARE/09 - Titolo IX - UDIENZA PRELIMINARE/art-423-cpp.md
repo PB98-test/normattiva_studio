@@ -20,10 +20,10 @@ ordine: 516
 
 # Art. 423 - ***Modificazione dell'imputazione***
 
-1. Se nel corso dell'udienza il fatto risulta diverso da come è descritto nell'imputazione ovvero emerge un reato connesso a norma dell'[articolo 12](../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/02%20-%20Capo%20II%20-%20COMPETENZA/04%20-%20Sezione%20IV%20-%20Competenza%20per%20connessione/art-12-cpp.md) comma 1 lettera b), o una circostanza aggravante, il pubblico ministero modifica l'imputazione ....
+1\. Se nel corso dell'udienza il fatto risulta diverso da come è descritto nell'imputazione ovvero emerge un reato connesso a norma dell'[articolo 12](../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/02%20-%20Capo%20II%20-%20COMPETENZA/04%20-%20Sezione%20IV%20-%20Competenza%20per%20connessione/art-12-cpp.md) comma 1 lettera b), o una circostanza aggravante, il pubblico ministero modifica l'imputazione ....
 
 1-bis. Se rileva che il fatto, le circostanze aggravanti e quelle che possono comportare l'applicazione di misure di sicurezza non sono indicati nell'imputazione in termini corrispondenti a quanto emerge dagli atti o che la definizione giuridica non è corretta, il giudice invita il pubblico ministero a operare le necessarie modificazioni. Se la difformità indicata permane, sentite le parti, il giudice dispone con ordinanza, anche d'ufficio, la restituzione degli atti al pubblico ministero.
 
 1-ter. Nei casi di modifica dell'imputazione ai sensi dei commi 1 e 1-bis, si applicano le disposizioni di cui all'[articolo 421](art-421-cpp.md), comma 1-bis.
 
-2. Se risulta a carico dell'imputato un fatto nuovo non enunciato nella richiesta di rinvio a giudizio, per il quale si debba procedere di ufficio, il giudice ne autorizza la contestazione se il pubblico ministero ne fa richiesta e vi è il consenso dell'imputato.
+2\. Se risulta a carico dell'imputato un fatto nuovo non enunciato nella richiesta di rinvio a giudizio, per il quale si debba procedere di ufficio, il giudice ne autorizza la contestazione se il pubblico ministero ne fa richiesta e vi è il consenso dell'imputato.

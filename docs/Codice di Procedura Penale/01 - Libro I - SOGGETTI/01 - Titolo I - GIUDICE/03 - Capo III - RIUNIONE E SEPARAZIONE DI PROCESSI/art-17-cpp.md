@@ -20,7 +20,7 @@ ordine: 18
 
 # Art. 17 - ***Riunione di processi***
 
-1. La riunione di processi pendenti nello stesso stato e grado davanti al medesimo giudice può essere disposta quando non determini un ritardo nella definizione degli stessi:
+1\. La riunione di processi pendenti nello stesso stato e grado davanti al medesimo giudice può essere disposta quando non determini un ritardo nella definizione degli stessi:
 
 - a) nei casi previsti dall'[articolo 12](../02%20-%20Capo%20II%20-%20COMPETENZA/04%20-%20Sezione%20IV%20-%20Competenza%20per%20connessione/art-12-cpp.md);
 - b) LETTERA SOPPRESSA DAL D.L. 20 NOVEMBRE 1991, N. 367, CONVERTITO CON MODIFICAZIONI DALLA L. 20 GENNAIO 1992, N. 8.

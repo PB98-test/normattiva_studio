@@ -20,4 +20,4 @@ ordine: 830
 
 # Art. 696-quinquies - ***(Limiti al sindacato delle decisioni giudiziarie degli altri Stati membri).***
 
-1. L'autorità giudiziaria riconosce ed esegue le decisioni e i provvedimenti giudiziari degli altri Stati membri senza sindacarne le ragioni di merito, salvo che sia altrimenti previsto. È in ogni caso assicurato il rispetto dei principi fondamentali dell'ordinamento giuridico dello Stato.
+1\. L'autorità giudiziaria riconosce ed esegue le decisioni e i provvedimenti giudiziari degli altri Stati membri senza sindacarne le ragioni di merito, salvo che sia altrimenti previsto. È in ogni caso assicurato il rispetto dei principi fondamentali dell'ordinamento giuridico dello Stato.

@@ -20,4 +20,4 @@ ordine: 247
 
 # Art. 211 - ***Presupposti del confronto***
 
-1. Il confronto è ammesso esclusivamente fra persone già esaminate o interrogate, quando vi è disaccordo fra esse su fatti e circostanze importanti.
+1\. Il confronto è ammesso esclusivamente fra persone già esaminate o interrogate, quando vi è disaccordo fra esse su fatti e circostanze importanti.

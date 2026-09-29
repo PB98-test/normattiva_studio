@@ -20,4 +20,4 @@ ordine: 31
 
 # Art. 29 - ***Cessazione del conflitto***
 
-1. I conflitti previsti dall'[articolo 28](art-28-cpp.md) cessano per effetto del provvedimento di uno dei giudici che dichiara, anche di ufficio, la propria competenza o la propria incompetenza.
+1\. I conflitti previsti dall'[articolo 28](art-28-cpp.md) cessano per effetto del provvedimento di uno dei giudici che dichiara, anche di ufficio, la propria competenza o la propria incompetenza.

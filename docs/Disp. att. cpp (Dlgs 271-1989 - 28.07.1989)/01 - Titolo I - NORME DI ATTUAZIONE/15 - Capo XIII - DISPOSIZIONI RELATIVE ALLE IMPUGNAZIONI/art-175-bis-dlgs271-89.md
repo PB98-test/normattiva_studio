@@ -20,4 +20,4 @@ ordine: 231
 
 # Art. 175-bis - ***Decisione sulla improcedibilità ai sensi dell'articolo 344-bis del codice***
 
-1. Ai fini di cui agli articoli 578, comma 1-bis, e 578-ter, comma 2, del codice, la Corte di cassazione e le corti di appello, nei procedimenti in cui sono costituite parti civili o vi sono beni in sequestro, si pronunciano sulla improcedibilità non oltre il sessantesimo giorno successivo al maturare dei termini di durata massima del giudizio di impugnazione di cui all'articolo 344-bis del codice.
+1\. Ai fini di cui agli articoli 578, comma 1-bis, e 578-ter, comma 2, del codice, la Corte di cassazione e le corti di appello, nei procedimenti in cui sono costituite parti civili o vi sono beni in sequestro, si pronunciano sulla improcedibilità non oltre il sessantesimo giorno successivo al maturare dei termini di durata massima del giudizio di impugnazione di cui all'articolo 344-bis del codice.

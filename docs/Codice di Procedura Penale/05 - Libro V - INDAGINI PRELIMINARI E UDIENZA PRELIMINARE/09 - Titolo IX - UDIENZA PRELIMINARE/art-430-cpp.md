@@ -20,6 +20,6 @@ ordine: 523
 
 # Art. 430 - ***Attività integrativa di indagine del pubblico ministero e del difensore***
 
-1. Successivamente all'emissione del decreto che dispone il giudizio, il pubblico ministero e il difensore possono, ai fini delle proprie richieste al giudice del dibattimento, compiere attività integrativa di indagine, fatta eccezione degli atti pe ri quali è prevista la partecipazione dell'imputato o del difensore di questo.
+1\. Successivamente all'emissione del decreto che dispone il giudizio, il pubblico ministero e il difensore possono, ai fini delle proprie richieste al giudice del dibattimento, compiere attività integrativa di indagine, fatta eccezione degli atti pe ri quali è prevista la partecipazione dell'imputato o del difensore di questo.
 
-2. La documentazione relativa all'attività indicata nel comma 1 è immediatamente depositata nella segreteria del pubblico ministero con facoltà delle parti di prenderne visione e di estrarne copia)).
+2\. La documentazione relativa all'attività indicata nel comma 1 è immediatamente depositata nella segreteria del pubblico ministero con facoltà delle parti di prenderne visione e di estrarne copia)).

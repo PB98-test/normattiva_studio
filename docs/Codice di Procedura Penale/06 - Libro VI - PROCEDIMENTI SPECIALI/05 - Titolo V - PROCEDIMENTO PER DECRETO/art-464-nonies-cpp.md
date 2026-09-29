@@ -20,4 +20,4 @@ ordine: 569
 
 # Art. 464-nonies - ***(Divieto di riproposizione della richiesta di messa alla prova).***
 
-1. Nei casi di cui all'[articolo 464-septies](art-464-septies-cpp.md), comma 2, ovvero di revoca dell'ordinanza di sospensione del procedimento con messa alla prova, l'istanza non può essere riproposta
+1\. Nei casi di cui all'[articolo 464-septies](art-464-septies-cpp.md), comma 2, ovvero di revoca dell'ordinanza di sospensione del procedimento con messa alla prova, l'istanza non può essere riproposta

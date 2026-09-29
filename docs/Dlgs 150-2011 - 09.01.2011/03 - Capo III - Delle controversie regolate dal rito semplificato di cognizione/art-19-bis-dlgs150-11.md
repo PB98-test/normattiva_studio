@@ -20,9 +20,9 @@ ordine: 20
 
 # Art. 19-bis - ***Controversie in materia di accertamento dello stato di apolidia e di cittadinanza italiana***
 
-1. Le controversie in materia di accertamento dello stato di apolidia e di cittadinanza italiana sono regolate dal rito semplificato di cognizione. [^agg-12] [^agg-13]
+1\. Le controversie in materia di accertamento dello stato di apolidia e di cittadinanza italiana sono regolate dal rito semplificato di cognizione. [^agg-12] [^agg-13]
 
-2. È competente il tribunale sede della sezione specializzata in materia di immigrazione, protezione internazionale e libera circolazione dei cittadini dell'Unione europea del luogo in cui il ricorrente ha la dimora.
+2\. È competente il tribunale sede della sezione specializzata in materia di immigrazione, protezione internazionale e libera circolazione dei cittadini dell'Unione europea del luogo in cui il ricorrente ha la dimora.
 
 2-bis. Salvi i casi espressamente previsti dalla legge, nelle controversie in materia di accertamento della cittadinanza italiana non sono ammessi il giuramento e la prova testimoniale.
 

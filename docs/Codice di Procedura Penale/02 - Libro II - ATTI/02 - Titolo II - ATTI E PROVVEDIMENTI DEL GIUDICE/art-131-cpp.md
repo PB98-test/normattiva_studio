@@ -20,4 +20,4 @@ ordine: 156
 
 # Art. 131 - ***Poteri coercitivi del giudice***
 
-1. Il giudice, nell'esercizio delle sue funzioni, può chiedere l'intervento della polizia giudiziaria e, se necessario, della forza pubblica, prescrivendo tutto ciò che occorre per il sicuro e ordinato compimento degli atti ai quali procede.
+1\. Il giudice, nell'esercizio delle sue funzioni, può chiedere l'intervento della polizia giudiziaria e, se necessario, della forza pubblica, prescrivendo tutto ciò che occorre per il sicuro e ordinato compimento degli atti ai quali procede.

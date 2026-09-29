@@ -20,7 +20,7 @@ ordine: 69
 
 # Art. 56 - ***Servizi e sezioni di polizia giudiziaria***
 
-1. Le funzioni di polizia giudiziaria sono svolte alla dipendenza e sotto la direzione dell'autorità giudiziaria:
+1\. Le funzioni di polizia giudiziaria sono svolte alla dipendenza e sotto la direzione dell'autorità giudiziaria:
 
 - a) dai servizi di polizia giudiziaria previsti dalla legge;
 - b) dalle sezioni di polizia giudiziaria istituite presso ogni procura della Repubblica e composte con personale dei servizi di polizia giudiziaria;

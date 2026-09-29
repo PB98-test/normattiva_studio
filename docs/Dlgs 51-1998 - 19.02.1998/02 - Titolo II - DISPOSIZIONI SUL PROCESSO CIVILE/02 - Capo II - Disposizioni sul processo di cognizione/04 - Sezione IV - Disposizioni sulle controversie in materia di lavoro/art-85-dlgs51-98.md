@@ -20,4 +20,4 @@ ordine: 86
 
 # Art. 85
 
-1. Negli articoli 433, primo comma, 434, secondo comma, 435, primo comma, e 439 del [codice di procedura civile](../../../../Codice%20di%20Procedura%20Civile/00%20-%20Indice%20%28cpc%29.md) le parole "al tribunale", "del tribunale" e "il tribunale" sono sostituite, rispettivamente, dalle parole "alla corte di appello", "della corte di appello" e "la corte di appello".
+1\. Negli articoli 433, primo comma, 434, secondo comma, 435, primo comma, e 439 del [codice di procedura civile](../../../../Codice%20di%20Procedura%20Civile/00%20-%20Indice%20%28cpc%29.md) le parole "al tribunale", "del tribunale" e "il tribunale" sono sostituite, rispettivamente, dalle parole "alla corte di appello", "della corte di appello" e "la corte di appello".

@@ -20,6 +20,6 @@ ordine: 148
 
 # Art. 124 - ***Obbligo di osservanza delle norme processuali***
 
-1. I magistrati, i cancellieri e gli altri ausiliari e collaboratori del giudice, gli ufficiali giudiziari, gli ufficiali e gli agenti di polizia giudiziaria sono tenuti a osservare le norme di questo codice anche quando l'inosservanza non importa nullità o altra sanzione processuale.
+1\. I magistrati, i cancellieri e gli altri ausiliari e collaboratori del giudice, gli ufficiali giudiziari, gli ufficiali e gli agenti di polizia giudiziaria sono tenuti a osservare le norme di questo codice anche quando l'inosservanza non importa nullità o altra sanzione processuale.
 
-2. I dirigenti degli uffici vigilano sull'osservanza delle norme anche ai fini della responsabilità disciplinare.
+2\. I dirigenti degli uffici vigilano sull'osservanza delle norme anche ai fini della responsabilità disciplinare.

@@ -20,7 +20,7 @@ ordine: 216
 
 # Art. 165-bis - ***Adempimenti connessi alla trasmissione degli atti al giudice dell'impugnazione***
 
-1. Gli atti da trasmettere al giudice dell'impugnazione devono contenere, in distinti allegati formati subito dopo la presentazione dell'atto di impugnazione, a cura del giudice o del presidente del collegio che ha emesso il provvedimento impugnato, i seguenti dati:
+1\. Gli atti da trasmettere al giudice dell'impugnazione devono contenere, in distinti allegati formati subito dopo la presentazione dell'atto di impugnazione, a cura del giudice o del presidente del collegio che ha emesso il provvedimento impugnato, i seguenti dati:
 
 - a) i nominativi dei difensori, di fiducia o d'ufficio, con indicazione della data di nomina;
 - b) le dichiarazioni o elezioni o determinazioni di domicilio, con indicazione delle relative date;

@@ -20,8 +20,8 @@ ordine: 889
 
 # Art. 737 - ***Sequestro***
 
-1. Su richiesta del procuratore generale, la corte di appello competente per il riconoscimento di una sentenza straniera ai fini dell'esecuzione di una confisca può ordinare il sequestro delle cose assoggettabili a confisca.
+1\. Su richiesta del procuratore generale, la corte di appello competente per il riconoscimento di una sentenza straniera ai fini dell'esecuzione di una confisca può ordinare il sequestro delle cose assoggettabili a confisca.
 
-2. Se la corte non accoglie la richiesta, contro la relativa ordinanza può essere proposto ricorso per cassazione da parte del procuratore generale. Contro l'ordinanza che dispone il sequestro può essere proposto ricorso per cassazione per violazione di legge da parte dell'interessato. Il ricorso non ha effetto sospensivo.
+2\. Se la corte non accoglie la richiesta, contro la relativa ordinanza può essere proposto ricorso per cassazione da parte del procuratore generale. Contro l'ordinanza che dispone il sequestro può essere proposto ricorso per cassazione per violazione di legge da parte dell'interessato. Il ricorso non ha effetto sospensivo.
 
-3. Si osservano, in quanto applicabili, le disposizioni che regolano l'esecuzione del sequestro preventivo
+3\. Si osservano, in quanto applicabili, le disposizioni che regolano l'esecuzione del sequestro preventivo

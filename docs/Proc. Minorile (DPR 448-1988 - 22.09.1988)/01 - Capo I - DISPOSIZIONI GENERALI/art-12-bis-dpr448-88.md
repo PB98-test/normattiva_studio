@@ -20,7 +20,7 @@ ordine: 14
 
 # Art. 12-bis - ***Diritto all'informazione***
 
-1. Fermo quanto previsto dall'[articolo 1](art-1-dpr448-88.md) del presente decreto e dall'articolo 1, comma 1, del decreto legislativo 2 ottobre 2018, n. 121, al minorenne vengono fornite anche le informazioni di cui ai commi 2, 3, 4 e 5 del presente articolo .   2. Quando è informato di essere sottoposto alle indagini, il minorenne è informato altresì del diritto:
+1\. Fermo quanto previsto dall'[articolo 1](art-1-dpr448-88.md) del presente decreto e dall'articolo 1, comma 1, del decreto legislativo 2 ottobre 2018, n. 121, al minorenne vengono fornite anche le informazioni di cui ai commi 2, 3, 4 e 5 del presente articolo .   2. Quando è informato di essere sottoposto alle indagini, il minorenne è informato altresì del diritto:
 
 - a) a che vengano informati l'esercente la responsabilità genitoriale o gli altri soggetti di cui agli [articoli 12](art-12-dpr448-88.md) e 12-ter;
 - b) a essere assistito in ogni stato e grado del procedimento, anche durante le udienze, dall'esercente la responsabilità genitoriale o dagli altri soggetti di cui all'[articolo 12](art-12-dpr448-88.md);

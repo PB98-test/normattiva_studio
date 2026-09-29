@@ -20,4 +20,4 @@ ordine: 768
 
 # Art. 641 - ***Effetti dell'inammissibilità o del rigetto***
 
-1. L'ordinanza che dichiara inammissibile la richiesta o la sentenza che la rigetta non pregiudica il diritto di presentare una nuova richiesta fondata su elementi diversi.
+1\. L'ordinanza che dichiara inammissibile la richiesta o la sentenza che la rigetta non pregiudica il diritto di presentare una nuova richiesta fondata su elementi diversi.

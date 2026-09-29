@@ -20,4 +20,4 @@ ordine: 139
 
 # Art. 110-ter - ***Informazione sulle iscrizioni***
 
-1. Il pubblico ministero, quando presenta una richiesta al giudice per le indagini preliminari, indica sempre la notizia di reato e il nome della persona a cui il reato è attribuito.
+1\. Il pubblico ministero, quando presenta una richiesta al giudice per le indagini preliminari, indica sempre la notizia di reato e il nome della persona a cui il reato è attribuito.

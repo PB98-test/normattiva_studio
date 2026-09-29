@@ -20,7 +20,7 @@ ordine: 64
 
 # Art. 56-bis - ***Notificazione con modalità telematiche eseguita dal difensore***
 
-1. La notificazione con modalità telematiche è eseguita dal difensore a mezzo di posta elettronica certificata o altro servizio elettronico di recapito certificato qualificato a un domicilio digitale risultante da pubblici elenchi, nel rispetto della normativa, anche regolamentare, concernente la sottoscrizione, la trasmissione e la ricezione dei documenti informatici. La notificazione può essere eseguita esclusivamente utilizzando un domicilio digitale del notificante risultante da pubblici elenchi. 2. L'avvocato redige la relazione di notificazione su documento informatico separato, sottoscritto con firma digitale o altra firma elettronica qualificata ed allegato al messaggio inviato con le modalità di cui al comma 1. La relazione deve contenere:
+1\. La notificazione con modalità telematiche è eseguita dal difensore a mezzo di posta elettronica certificata o altro servizio elettronico di recapito certificato qualificato a un domicilio digitale risultante da pubblici elenchi, nel rispetto della normativa, anche regolamentare, concernente la sottoscrizione, la trasmissione e la ricezione dei documenti informatici. La notificazione può essere eseguita esclusivamente utilizzando un domicilio digitale del notificante risultante da pubblici elenchi. 2. L'avvocato redige la relazione di notificazione su documento informatico separato, sottoscritto con firma digitale o altra firma elettronica qualificata ed allegato al messaggio inviato con le modalità di cui al comma 1. La relazione deve contenere:
 
 - a) il nome e il cognome dell'avvocato notificante;
 - b) il nome e il cognome della parte che lo ha nominato o nel cui interesse è stato nominato;

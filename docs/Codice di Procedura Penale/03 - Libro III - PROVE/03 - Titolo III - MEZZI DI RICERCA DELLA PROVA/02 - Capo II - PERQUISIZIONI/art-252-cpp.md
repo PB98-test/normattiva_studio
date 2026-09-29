@@ -20,4 +20,4 @@ ordine: 291
 
 # Art. 252 - ***Sequestro conseguente a perquisizione***
 
-1. Le cose rinvenute a seguito della perquisizione sono sottoposte a sequestro con l'osservanza delle prescrizioni degli [articoli 259](../03%20-%20Capo%20III%20-%20SEQUESTRI/art-259-cpp.md) e [260](../03%20-%20Capo%20III%20-%20SEQUESTRI/art-260-cpp.md).
+1\. Le cose rinvenute a seguito della perquisizione sono sottoposte a sequestro con l'osservanza delle prescrizioni degli [articoli 259](../03%20-%20Capo%20III%20-%20SEQUESTRI/art-259-cpp.md) e [260](../03%20-%20Capo%20III%20-%20SEQUESTRI/art-260-cpp.md).

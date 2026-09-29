@@ -20,13 +20,13 @@ ordine: 604
 
 # Art. 498 - ***Esame diretto e controesame dei testimoni***
 
-1. Le domande sono rivolte direttamente dal pubblico ministero o dal difensore che ha chiesto l'esame del testimone.
+1\. Le domande sono rivolte direttamente dal pubblico ministero o dal difensore che ha chiesto l'esame del testimone.
 
-2. Successivamente altre domande possono essere rivolte dalle parti che non hanno chiesto l'esame, secondo l'ordine indicato nell'[articolo 496](art-496-cpp.md).
+2\. Successivamente altre domande possono essere rivolte dalle parti che non hanno chiesto l'esame, secondo l'ordine indicato nell'[articolo 496](art-496-cpp.md).
 
-3. Chi ha chiesto l'esame può proporre nuove domande.
+3\. Chi ha chiesto l'esame può proporre nuove domande.
 
-4. L'esame testimoniale del minorenne è condotto dal presidente su domande e contestazioni proposte dalle parti. Nell'esame il presidente può avvalersi dell'ausilio di un familiare del minore o di un esperto in psicologia infantile. Il presidente, sentite le parti, se ritiene che l'esame diretto del minore non possa nuocere alla serenità del teste, dispone con ordinanza che la deposizione prosegua nelle forme previste dai commi precedenti. L'ordinanza può essere revocata nel corso dell'esame. [^agg-85]
+4\. L'esame testimoniale del minorenne è condotto dal presidente su domande e contestazioni proposte dalle parti. Nell'esame il presidente può avvalersi dell'ausilio di un familiare del minore o di un esperto in psicologia infantile. Il presidente, sentite le parti, se ritiene che l'esame diretto del minore non possa nuocere alla serenità del teste, dispone con ordinanza che la deposizione prosegua nelle forme previste dai commi precedenti. L'ordinanza può essere revocata nel corso dell'esame. [^agg-85]
 
 4-bis. Si applicano, se una parte lo richiede ovvero se il presidente lo ritiene necessario, le modalità di cui all'[articolo 398](../../../05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/07%20-%20Titolo%20VII%20-%20INCIDENTE%20PROBATORIO/art-398-cpp.md), comma 5-bis.
 

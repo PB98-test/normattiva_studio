@@ -20,6 +20,6 @@ ordine: 153
 
 # Art. 129 - ***Obbligo della immediata declaratoria di determinate cause di non punibilità***
 
-1. In ogni stato e grado del processo, il giudice, il quale riconosce che il fatto non sussiste o che l'imputato non lo ha commesso o che il fatto non costituisce reato o non è previsto dalla legge come reato ovvero che il reato è estinto o che manca una condizione di procedibilità, lo dichiara di ufficio con sentenza.
+1\. In ogni stato e grado del processo, il giudice, il quale riconosce che il fatto non sussiste o che l'imputato non lo ha commesso o che il fatto non costituisce reato o non è previsto dalla legge come reato ovvero che il reato è estinto o che manca una condizione di procedibilità, lo dichiara di ufficio con sentenza.
 
-2. Quando ricorre una causa di estinzione del reato ma dagli atti risulta evidente che il fatto non sussiste o che l'imputato non lo ha commesso o che il fatto non costituisce reato o non è previsto dalla legge come reato, il giudice pronuncia sentenza di assoluzione o di non luogo a procedere con la formula prescritta.
+2\. Quando ricorre una causa di estinzione del reato ma dagli atti risulta evidente che il fatto non sussiste o che l'imputato non lo ha commesso o che il fatto non costituisce reato o non è previsto dalla legge come reato, il giudice pronuncia sentenza di assoluzione o di non luogo a procedere con la formula prescritta.

@@ -20,4 +20,4 @@ ordine: 213
 
 # Art. 180 - ***Regime delle altre nullità di ordine generale***
 
-1. Salvo quanto disposto dall'[articolo 179](art-179-cpp.md), le nullità previste dall'[articolo 178](art-178-cpp.md) sono rilevate anche di ufficio, ma non possono più essere rilevate nè dedotte dopo la deliberazione della sentenza di primo grado ovvero, se si sono verificate nel giudizio, dopo la deliberazione della sentenza del grado successivo.
+1\. Salvo quanto disposto dall'[articolo 179](art-179-cpp.md), le nullità previste dall'[articolo 178](art-178-cpp.md) sono rilevate anche di ufficio, ma non possono più essere rilevate nè dedotte dopo la deliberazione della sentenza di primo grado ovvero, se si sono verificate nel giudizio, dopo la deliberazione della sentenza del grado successivo.

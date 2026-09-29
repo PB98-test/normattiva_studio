@@ -20,4 +20,4 @@ ordine: 436
 
 # Art. 367 - ***Memorie e richieste dei difensori***
 
-1. Nel corso delle indagini preliminari, i difensori hanno facoltà di presentare memorie e richieste scritte al pubblico ministero.
+1\. Nel corso delle indagini preliminari, i difensori hanno facoltà di presentare memorie e richieste scritte al pubblico ministero.

@@ -20,13 +20,13 @@ ordine: 795
 
 # Art. 665 - ***Giudice competente***
 
-1. Salvo diversa disposizione di legge, competente a conoscere dell'esecuzione di un provvedimento è il giudice che lo ha deliberato.
+1\. Salvo diversa disposizione di legge, competente a conoscere dell'esecuzione di un provvedimento è il giudice che lo ha deliberato.
 
-2. Quando è stato proposto appello, se il provvedimento è stato confermato o riformato soltanto in relazione alla pena, alle misure di sicurezza o alle disposizioni civili, è competente il giudice di primo grado; altrimenti è competente il giudice di appello.
+2\. Quando è stato proposto appello, se il provvedimento è stato confermato o riformato soltanto in relazione alla pena, alle misure di sicurezza o alle disposizioni civili, è competente il giudice di primo grado; altrimenti è competente il giudice di appello.
 
-3. Quando vi è stato ricorso per cassazione e questo è stato dichiarato inammissibile o rigettato ovvero quando la corte ha annullato senza rinvio il provvedimento impugnato, è competente il giudice di primo grado, se il ricorso fu proposto contro provvedimento inappellabile ovvero a norma dell'[articolo 569](../../../09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-569-cpp.md), e il giudice indicato nel comma 2 negli altri casi. Quando è stato pronunciato l'annullamento con rinvio, è competente il giudice di rinvio.
+3\. Quando vi è stato ricorso per cassazione e questo è stato dichiarato inammissibile o rigettato ovvero quando la corte ha annullato senza rinvio il provvedimento impugnato, è competente il giudice di primo grado, se il ricorso fu proposto contro provvedimento inappellabile ovvero a norma dell'[articolo 569](../../../09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-569-cpp.md), e il giudice indicato nel comma 2 negli altri casi. Quando è stato pronunciato l'annullamento con rinvio, è competente il giudice di rinvio.
 
-4. Se l'esecuzione concerne più provvedimenti emessi da giudici diversi, è competente il giudice che ha emesso il provvedimento divenuto irrevocabile per ultimo. Tuttavia, se i provvedimenti sono stati emessi da giudici ordinari e giudici speciali, è competente in ogni casi il giudice ordinario.
+4\. Se l'esecuzione concerne più provvedimenti emessi da giudici diversi, è competente il giudice che ha emesso il provvedimento divenuto irrevocabile per ultimo. Tuttavia, se i provvedimenti sono stati emessi da giudici ordinari e giudici speciali, è competente in ogni casi il giudice ordinario.
 
 4-bis. Se l'esecuzione concerne più provvedimenti emessi dal tribunale in composizione monocratica e collegiale, l'esecuzione è attribuita in ogni caso al collegio. [^agg-90] [^agg-90a]
 

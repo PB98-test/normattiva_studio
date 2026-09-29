@@ -20,4 +20,4 @@ ordine: 4
 
 # Art. 3-bis - ***Priorità nella trattazione delle notizie di reato e nell'esercizio dell'azione penale***
 
-1. Nella trattazione delle notizie di reato e nell'esercizio dell'azione penale il pubblico ministero si conforma ai criteri di priorità contenuti nel progetto organizzativo dell'ufficio.
+1\. Nella trattazione delle notizie di reato e nell'esercizio dell'azione penale il pubblico ministero si conforma ai criteri di priorità contenuti nel progetto organizzativo dell'ufficio.

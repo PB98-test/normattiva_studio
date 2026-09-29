@@ -20,6 +20,6 @@ ordine: 833
 
 # Art. 696-octies - ***(Modalità di esecuzione).***
 
-1. L'autorità giudiziaria riconosce ed esegue le decisioni e i provvedimenti giudiziari di altri Stati membri senza ritardo e con modalità idonee ad assicurarne la tempestività e l'efficacia.
+1\. L'autorità giudiziaria riconosce ed esegue le decisioni e i provvedimenti giudiziari di altri Stati membri senza ritardo e con modalità idonee ad assicurarne la tempestività e l'efficacia.
 
-2. All'esecuzione delle decisioni e dei provvedimenti giudiziari al cui riconoscimento l'interessato ha prestato il consenso si provvede senza formalità, nel rispetto dei diritti fondamentali della persona.
+2\. All'esecuzione delle decisioni e dei provvedimenti giudiziari al cui riconoscimento l'interessato ha prestato il consenso si provvede senza formalità, nel rispetto dei diritti fondamentali della persona.

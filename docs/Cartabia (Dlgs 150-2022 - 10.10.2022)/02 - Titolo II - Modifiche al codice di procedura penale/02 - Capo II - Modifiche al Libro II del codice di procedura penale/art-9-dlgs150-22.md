@@ -20,7 +20,7 @@ ordine: 9
 
 # Art. 9 - ***Modifiche al Titolo III del Libro II del codice di procedura penale***
 
-1. Al Titolo III del Libro II del [codice di procedura penale](../../../Codice%20di%20Procedura%20Penale/00%20-%20Indice%20%28cpp%29.md) sono apportate le seguenti modificazioni:
+1\. Al Titolo III del Libro II del [codice di procedura penale](../../../Codice%20di%20Procedura%20Penale/00%20-%20Indice%20%28cpp%29.md) sono apportate le seguenti modificazioni:
 
 - a) all'articolo 134: 1) al comma 1, dopo la parola: «verbale» sono inserite le seguenti: «e, nei casi previsti dalla legge, anche mediante riproduzione audiovisiva o fonografica»; 2) al comma 2, la parola: «meccanico» è sostituita dalle seguenti: «idoneo allo scopo» ed è aggiunto, in fine, il seguente periodo: «Si osservano le disposizioni dell'articolo 110.»; 3) al comma 3, le parole: «è effettuata anche la riproduzione fonografica» sono sostituite dalle seguenti: «o quando la redazione in forma integrale è ritenuta insufficiente, alla documentazione dell'atto si procede altresì mediante riproduzione audiovisiva o fonografica.»;
 - b) all'articolo 135, comma 2, la parola: «meccanico» è sostituita dalla parola: «idoneo»;

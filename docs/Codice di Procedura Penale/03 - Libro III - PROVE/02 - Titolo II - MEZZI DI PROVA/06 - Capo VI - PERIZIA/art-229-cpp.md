@@ -20,6 +20,6 @@ ordine: 266
 
 # Art. 229 - ***Comunicazioni relative alle operazioni peritali***
 
-1. Il perito indica il giorno, l'ora e il luogo in cui inizierà le operazioni peritali e il giudice ne fa dare atto nel verbale.
+1\. Il perito indica il giorno, l'ora e il luogo in cui inizierà le operazioni peritali e il giudice ne fa dare atto nel verbale.
 
-2. Della eventuale continuazione delle operazioni peritali il perito dà comunicazione senza formalità alle parti presenti.
+2\. Della eventuale continuazione delle operazioni peritali il perito dà comunicazione senza formalità alle parti presenti.

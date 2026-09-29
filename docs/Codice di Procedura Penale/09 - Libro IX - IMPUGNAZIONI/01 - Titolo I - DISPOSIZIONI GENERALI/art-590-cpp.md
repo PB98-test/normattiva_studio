@@ -20,4 +20,4 @@ ordine: 708
 
 # Art. 590 - ***Trasmissione di atti in seguito all'impugnazione***
 
-1. Al giudice della impugnazione sono trasmessi senza ritardo il provvedimento impugnato, l'atto di impugnazione e gli atti del procedimento.
+1\. Al giudice della impugnazione sono trasmessi senza ritardo il provvedimento impugnato, l'atto di impugnazione e gli atti del procedimento.

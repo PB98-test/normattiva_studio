@@ -20,7 +20,7 @@ ordine: 258
 
 # Art. 222 - ***Incapacità e incompatibilità del perito***
 
-1. Non può prestare ufficio di perito, a pena di nullità:
+1\. Non può prestare ufficio di perito, a pena di nullità:
 
 - a) il minorenne, l'interdetto, l'inabilitato e chi è affetto da infermità di mente;
 - b) chi è interdetto anche temporaneamente dai pubblici uffici ovvero è interdetto o sospeso dall'esercizio di una professione o di un'arte;

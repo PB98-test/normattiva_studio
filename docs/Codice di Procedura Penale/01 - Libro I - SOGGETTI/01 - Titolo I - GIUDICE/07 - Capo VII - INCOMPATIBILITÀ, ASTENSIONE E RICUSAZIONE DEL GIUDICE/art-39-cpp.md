@@ -20,4 +20,4 @@ ordine: 49
 
 # Art. 39 - ***Concorso di astensione e di ricusazione***
 
-1. La dichiarazione di ricusazione si considera come non proposta quando il giudice, anche successivamente ad essa, dichiara di astenersi e l'astensione è accolta.
+1\. La dichiarazione di ricusazione si considera come non proposta quando il giudice, anche successivamente ad essa, dichiara di astenersi e l'astensione è accolta.

@@ -20,9 +20,9 @@ ordine: 776
 
 # Art. 649 - ***Divieto di un secondo giudizio***
 
-1. L'imputato prosciolto o condannato con sentenza o decreto penale divenuti irrevocabili non può essere di nuovo sottoposto a procedimento penale per il medesimo fatto, neppure se questo viene diversamente considerato per il titolo, per il grado o per le circostanze, salvo quanto disposto dagli [articoli 69](../../01%20-%20Libro%20I%20-%20SOGGETTI/04%20-%20Titolo%20IV%20-%20IMPUTATO/art-69-cpp.md) comma 2 e 345.
+1\. L'imputato prosciolto o condannato con sentenza o decreto penale divenuti irrevocabili non può essere di nuovo sottoposto a procedimento penale per il medesimo fatto, neppure se questo viene diversamente considerato per il titolo, per il grado o per le circostanze, salvo quanto disposto dagli [articoli 69](../../01%20-%20Libro%20I%20-%20SOGGETTI/04%20-%20Titolo%20IV%20-%20IMPUTATO/art-69-cpp.md) comma 2 e 345.
 
-2. Se ciò nonostante viene di nuovo iniziato procedimento penale, il giudice in ogni stato e grado del processo pronuncia sentenza di proscioglimento o di non luogo a procedere, enunciandone la causa nel dispositivo. [^agg-238] [^agg-287]
+2\. Se ciò nonostante viene di nuovo iniziato procedimento penale, il giudice in ogni stato e grado del processo pronuncia sentenza di proscioglimento o di non luogo a procedere, enunciandone la causa nel dispositivo. [^agg-238] [^agg-287]
 
 [^agg-238]: *AGGIORNAMENTO (238)* La Corte Costituzionale con sentenza 31 maggio - 21 luglio 2016, n. 200 (in G.U. 1ª s.s. 27/07/2016 n. 30) ha dichiarato "l'illegittimità costituzionale dell'[art. 649 del codice di procedura penale](art-649-cpp.md), nella parte in cui esclude che il fatto sia il medesimo per la sola circostanza che sussiste un concorso formale tra il reato già giudicato con sentenza divenuta irrevocabile e il reato per cui è iniziato il nuovo procedimento penale".
 

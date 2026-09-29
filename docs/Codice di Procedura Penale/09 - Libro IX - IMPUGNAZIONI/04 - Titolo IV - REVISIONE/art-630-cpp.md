@@ -20,7 +20,7 @@ ordine: 757
 
 # Art. 630 - ***Casi di revisione***
 
-1. La revisione può essere richiesta:
+1\. La revisione può essere richiesta:
 
 - a) se i fatti stabiliti a fondamento della sentenza o del decreto penale di condanna non possono conciliarsi con quelli stabiliti in un'altra sentenza penale irrevocabile del giudice ordinario o di un giudice speciale;
 - b) se la sentenza o il decreto penale di condanna hanno ritenuto la sussistenza del reato a carico del condannato in conseguenza di una sentenza del giudice civile o amministrativo, successivamente revocata, che abbia deciso una delle questioni pregiudiziali previste dall'[articolo 3](../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/01%20-%20Capo%20I%20-%20GIURISDIZIONE/art-3-cpp.md) ovvero una delle questioni previste dall'[articolo 479](../../07%20-%20Libro%20VII%20-%20GIUDIZIO/02%20-%20Titolo%20II%20-%20DIBATTIMENTO/01%20-%20Capo%20I%20-%20DISPOSIZIONI%20GENERALI/art-479-cpp.md);

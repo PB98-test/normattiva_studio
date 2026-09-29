@@ -20,6 +20,6 @@ ordine: 162
 
 # Art. 135 - ***Redazione del verbale***
 
-1. Il verbale è redatto dall'ausiliario che assiste il giudice.
+1\. Il verbale è redatto dall'ausiliario che assiste il giudice.
 
-2. Quando il verbale è redatto con la stenotipia o altro strumento idoneo, il giudice autorizza l'ausiliario che non possiede le necessarie competenze a farsi assistere da personale tecnico, anche esterno all'amministrazione dello Stato.
+2\. Quando il verbale è redatto con la stenotipia o altro strumento idoneo, il giudice autorizza l'ausiliario che non possiede le necessarie competenze a farsi assistere da personale tecnico, anche esterno all'amministrazione dello Stato.

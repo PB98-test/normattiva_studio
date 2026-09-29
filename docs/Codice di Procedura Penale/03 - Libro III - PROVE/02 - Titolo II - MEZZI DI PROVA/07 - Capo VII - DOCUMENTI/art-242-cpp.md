@@ -20,9 +20,9 @@ ordine: 281
 
 # Art. 242 - ***Traduzione di documenti. Trascrizione di registrazioni***
 
-1. Quando è acquisito un documento redatto in lingua diversa da quella italiana, il giudice ne dispone la traduzione a norma dell'[articolo 143](../../../02%20-%20Libro%20II%20-%20ATTI/04%20-%20Titolo%20IV%20-%20TRADUZIONE%20DEGLI%20ATTI/art-143-cpp.md) se ciò è necessario alla sua comprensione.
+1\. Quando è acquisito un documento redatto in lingua diversa da quella italiana, il giudice ne dispone la traduzione a norma dell'[articolo 143](../../../02%20-%20Libro%20II%20-%20ATTI/04%20-%20Titolo%20IV%20-%20TRADUZIONE%20DEGLI%20ATTI/art-143-cpp.md) se ciò è necessario alla sua comprensione.
 
-2. Quando è acquisita una registrazione, il giudice ne dispone, se necessario, la trascrizione a norma dell'[articolo 268](../../03%20-%20Titolo%20III%20-%20MEZZI%20DI%20RICERCA%20DELLA%20PROVA/04%20-%20Capo%20IV%20-%20INTERCETTAZIONI%20DI%20CONVERSAZIONI%20O%20COMUNICAZIONI/art-268-cpp.md), comma 7. [^agg-253] [^agg-260] [^agg-263] [^agg-267] [^agg-270] [^agg-275]
+2\. Quando è acquisita una registrazione, il giudice ne dispone, se necessario, la trascrizione a norma dell'[articolo 268](../../03%20-%20Titolo%20III%20-%20MEZZI%20DI%20RICERCA%20DELLA%20PROVA/04%20-%20Capo%20IV%20-%20INTERCETTAZIONI%20DI%20CONVERSAZIONI%20O%20COMUNICAZIONI/art-268-cpp.md), comma 7. [^agg-253] [^agg-260] [^agg-263] [^agg-267] [^agg-270] [^agg-275]
 
 [^agg-253]: *AGGIORNAMENTO (253)* Il D.Lgs. 29 dicembre 2017, n. 216 ha disposto (con l'[art. 9](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/02%20-%20Capo%20II%20-%20COMPETENZA/03%20-%20Sezione%20III%20-%20Competenza%20per%20territorio/art-9-cpp.md), comma 1) che la presente modifica si applica alle operazioni di intercettazione relative a provvedimenti autorizzativi emessi dopo il centottantesimo giorno successivo alla data di entrata in vigore del decreto medesimo.
 

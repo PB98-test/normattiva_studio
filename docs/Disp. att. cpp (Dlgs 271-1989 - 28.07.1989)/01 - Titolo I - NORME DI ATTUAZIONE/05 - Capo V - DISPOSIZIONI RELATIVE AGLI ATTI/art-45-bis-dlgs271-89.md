@@ -20,7 +20,7 @@ ordine: 50
 
 # Art. 45-bis - ***Partecipazione al procedimento in camera di consiglio a distanza***
 
-1. la partecipazione dell'imputato o del condannato all'udienza procedimento in camera di consiglio avviene a distanza nei casi e secondo quanto previsto dall'articolo 146-bis, commi 1, 1-bis, 1-ter e 1-quater. [^agg-76] [^agg-83]   2. COMMA ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 150.   3. Si applicano, in quanto compatibili, le disposizioni previste dall'articolo 146-bis, comma 4-bis, e dall'articolo 133-ter del codice. [^agg-27] [^agg-33] [^agg-76] [^agg-83]
+1\. la partecipazione dell'imputato o del condannato all'udienza procedimento in camera di consiglio avviene a distanza nei casi e secondo quanto previsto dall'articolo 146-bis, commi 1, 1-bis, 1-ter e 1-quater. [^agg-76] [^agg-83]   2. COMMA ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 150.   3. Si applicano, in quanto compatibili, le disposizioni previste dall'articolo 146-bis, comma 4-bis, e dall'articolo 133-ter del codice. [^agg-27] [^agg-33] [^agg-76] [^agg-83]
 
 [^agg-27]: *AGGIORNAMENTO (27)* La L. 7 gennaio 1998, n. 11 ha disposto (con l'[art. 6](../03%20-%20Capo%20III%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20POLIZIA%20GIUDIZIARIA/art-6-dlgs271-89.md), comma 1) che la suddetta modifica ha efficacia dal 31 dicembre 2000.
 

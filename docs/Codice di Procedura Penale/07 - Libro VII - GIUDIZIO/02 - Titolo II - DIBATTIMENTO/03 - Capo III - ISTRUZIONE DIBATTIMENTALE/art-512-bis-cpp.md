@@ -20,4 +20,4 @@ ordine: 620
 
 # Art. 512-bis - ***Lettura di dichiarazioni rese da persona residente all'estero***
 
-1. Il giudice, a richiesta di parte, può disporre, tenuto conto degli altri elementi di prova acquisiti, che sia data lettura dei verbali di dichiarazioni rese da persona residente all'estero anche a seguito di rogatoria internazionale se essa, essendo stata citata, non è comparsa e solo nel caso in cui non ne sia assolutamente possibile l'esame dibattimentale)).
+1\. Il giudice, a richiesta di parte, può disporre, tenuto conto degli altri elementi di prova acquisiti, che sia data lettura dei verbali di dichiarazioni rese da persona residente all'estero anche a seguito di rogatoria internazionale se essa, essendo stata citata, non è comparsa e solo nel caso in cui non ne sia assolutamente possibile l'esame dibattimentale)).

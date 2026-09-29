@@ -20,6 +20,6 @@ ordine: 575
 
 # Art. 470 - ***Disciplina dell'udienza***
 
-1. La disciplina dell'udienza e la direzione del dibattimento sono esercitate dal presidente che decide senza formalità; in sua assenza la disciplina dell'udienza è esercitata dal pubblico ministero.
+1\. La disciplina dell'udienza e la direzione del dibattimento sono esercitate dal presidente che decide senza formalità; in sua assenza la disciplina dell'udienza è esercitata dal pubblico ministero.
 
-2. Per l'esercizio delle funzioni indicate in questo capo, il presidente o il pubblico ministero si avvale, ove occorra, anche della forza pubblica, che dà immediata esecuzione ai relativi provvedimenti.
+2\. Per l'esercizio delle funzioni indicate in questo capo, il presidente o il pubblico ministero si avvale, ove occorra, anche della forza pubblica, che dà immediata esecuzione ai relativi provvedimenti.

@@ -20,7 +20,7 @@ ordine: 389
 
 # Art. 328 - ***Giudice per le indagini preliminari***
 
-1. Nei casi previsti dalla legge, sulle richieste del pubblico ministero, delle parti private e della persona offesa dal reato, provvede il giudice per le indagini preliminari.
+1\. Nei casi previsti dalla legge, sulle richieste del pubblico ministero, delle parti private e della persona offesa dal reato, provvede il giudice per le indagini preliminari.
 
 1-bis. Quando si tratta di procedimenti per i delitti indicati nell'[articolo 51](../../01%20-%20Libro%20I%20-%20SOGGETTI/02%20-%20Titolo%20II%20-%20PUBBLICO%20MINISTERO/art-51-cpp.md) commi 3-bis e 3-quater, le funzioni di giudice per le indagini preliminari sono esercitate, salve specifiche disposizioni di legge, da un magistrato del tribunale del capoluogo del distretto nel cui ambito ha sede il giudice competente. [^agg-111]
 

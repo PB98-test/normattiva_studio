@@ -20,7 +20,7 @@ ordine: 742
 
 # Art. 620 - ***Annullamento senza rinvio***
 
-1. Oltre che nei casi particolarmente previsti dalla legge, la corte pronuncia sentenza di annullamento senza rinvio:
+1\. Oltre che nei casi particolarmente previsti dalla legge, la corte pronuncia sentenza di annullamento senza rinvio:
 
 - a) se il fatto non è previsto dalla legge come reato, se il reato è estinto o se l'azione penale non doveva essere iniziata o proseguita;
 - b) se il reato non appartiene alla giurisdizione del giudice ordinario;

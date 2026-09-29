@@ -20,6 +20,6 @@ ordine: 477
 
 # Art. 394 - ***Richiesta della persona offesa***
 
-1. La persona offesa può chiedere al pubblico ministero di promuovere un incidente probatorio.
+1\. La persona offesa può chiedere al pubblico ministero di promuovere un incidente probatorio.
 
-2. Se non accoglie la richiesta, il pubblico ministero pronuncia decreto motivato e lo fa notificare alla persona offesa.
+2\. Se non accoglie la richiesta, il pubblico ministero pronuncia decreto motivato e lo fa notificare alla persona offesa.

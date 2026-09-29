@@ -20,4 +20,4 @@ ordine: 219
 
 # Art. 166-bis - ***Poteri del procuratore generale in materia di impugnazione delle sentenze di primo grado***
 
-1. Al fine di acquisire tempestiva notizia in ordine alle determinazioni relative all'impugnazione delle sentenze di primo grado, il procuratore generale presso la corte d'appello promuove intese o altre forme di coordinamento con i procuratori della Repubblica del distretto.
+1\. Al fine di acquisire tempestiva notizia in ordine alle determinazioni relative all'impugnazione delle sentenze di primo grado, il procuratore generale presso la corte d'appello promuove intese o altre forme di coordinamento con i procuratori della Repubblica del distretto.

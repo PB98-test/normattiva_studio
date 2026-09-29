@@ -20,4 +20,4 @@ ordine: 702
 
 # Art. 584 - ***Notificazione della impugnazione***
 
-1. A cura della cancelleria del giudice che ha emesso il provvedimento impugnato, l'atto di impugnazione è comunicato al pubblico ministero presso il medesimo giudice ed è notificato alle parti private senza ritardo.
+1\. A cura della cancelleria del giudice che ha emesso il provvedimento impugnato, l'atto di impugnazione è comunicato al pubblico ministero presso il medesimo giudice ed è notificato alle parti private senza ritardo.

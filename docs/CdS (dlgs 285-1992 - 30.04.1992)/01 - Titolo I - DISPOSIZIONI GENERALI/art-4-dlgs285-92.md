@@ -20,6 +20,6 @@ ordine: 4
 
 # Art. 4 - ***Delimitazione del centro abitato***
 
-1. Ai fini dell'attuazione della disciplina della circolazione stradale, il comune, entro centottanta giorni dalla data di entrata in vigore del presente codice, provvede con deliberazione della giunta alla delimitazione del centro abitato.
+1\. Ai fini dell'attuazione della disciplina della circolazione stradale, il comune, entro centottanta giorni dalla data di entrata in vigore del presente codice, provvede con deliberazione della giunta alla delimitazione del centro abitato.
 
-2. La deliberazione di delimitazione del centro abitato come definito dall'[art. 3](art-3-dlgs285-92.md) è pubblicata all'albo pretorio per trenta giorni consecutivi; ad essa viene allegata idonea cartografia nella quale sono evidenziati i confini sulle strade di accesso.
+2\. La deliberazione di delimitazione del centro abitato come definito dall'[art. 3](art-3-dlgs285-92.md) è pubblicata all'albo pretorio per trenta giorni consecutivi; ad essa viene allegata idonea cartografia nella quale sono evidenziati i confini sulle strade di accesso.

@@ -20,4 +20,4 @@ ordine: 107
 
 # Art. 93 - ***Pubblicità del decreto***
 
-1. Se il debitore possiede beni immobili o altri beni soggetti a pubblica registrazione, il decreto di apertura è trascritto nei pubblici registri a cura del commissario giudiziale.
+1\. Se il debitore possiede beni immobili o altri beni soggetti a pubblica registrazione, il decreto di apertura è trascritto nei pubblici registri a cura del commissario giudiziale.

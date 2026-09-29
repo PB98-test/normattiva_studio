@@ -20,4 +20,4 @@ ordine: 461
 
 # Art. 387-bis - ***(Adempimenti della polizia giudiziaria nel caso di arresto o di fermo di madre di prole di minore età).***
 
-1. Nell'ipotesi di arresto o di fermo di madre con prole di minore età, la polizia giudiziaria che lo ha eseguito, senza ritardo, ne dà notizia al pubblico ministero territorialmente competente, nonchè al procuratore della Repubblica presso il tribunale per i minorenni del luogo dell'arresto o del fermo
+1\. Nell'ipotesi di arresto o di fermo di madre con prole di minore età, la polizia giudiziaria che lo ha eseguito, senza ritardo, ne dà notizia al pubblico ministero territorialmente competente, nonchè al procuratore della Repubblica presso il tribunale per i minorenni del luogo dell'arresto o del fermo

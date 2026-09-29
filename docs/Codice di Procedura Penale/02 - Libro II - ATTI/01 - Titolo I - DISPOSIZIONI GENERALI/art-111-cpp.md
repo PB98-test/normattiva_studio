@@ -20,9 +20,9 @@ ordine: 131
 
 # Art. 111 - ***Data e sottoscrizione degli atti***
 
-1. Quando la legge richiede la data di un atto, informatico o analogico, sono indicati il giorno, il mese, l'anno e il luogo in cui l'atto è compiuto. L'indicazione dell'ora è necessaria solo se espressamente descritta.
+1\. Quando la legge richiede la data di un atto, informatico o analogico, sono indicati il giorno, il mese, l'anno e il luogo in cui l'atto è compiuto. L'indicazione dell'ora è necessaria solo se espressamente descritta.
 
-2. Se l'indicazione della data di un atto è prescritta a pena di nullità, questa sussiste soltanto nel caso in cui la data non possa stabilirsi con certezza in base ad elementi contenuti nell'atto medesimo o in atti a questo connessi.
+2\. Se l'indicazione della data di un atto è prescritta a pena di nullità, questa sussiste soltanto nel caso in cui la data non possa stabilirsi con certezza in base ad elementi contenuti nell'atto medesimo o in atti a questo connessi.
 
 2-bis. L'atto redatto in forma di documento informatico è sottoscritto, con firma digitale o altra firma elettronica qualificata, nel rispetto della normativa, anche regolamentare, concernente la sottoscrizione, la trasmissione e la ricezione degli atti e dei documenti informatici.
 

@@ -20,4 +20,4 @@ ordine: 734
 
 # Art. 612 - ***Sospensione dell'esecuzione della condanna civile***
 
-1. A richiesta dell'imputato o del responsabile civile, la corte di cassazione può sospendere, in pendenza del ricorso, l'esecuzione della condanna civile, quando può derivarne grave e irreparabile danno. La decisione sulla richiesta di sospensione della condanna civile è adottata dalla corte di cassazione con ordinanza in camera di consiglio.
+1\. A richiesta dell'imputato o del responsabile civile, la corte di cassazione può sospendere, in pendenza del ricorso, l'esecuzione della condanna civile, quando può derivarne grave e irreparabile danno. La decisione sulla richiesta di sospensione della condanna civile è adottata dalla corte di cassazione con ordinanza in camera di consiglio.

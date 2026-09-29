@@ -20,6 +20,6 @@ ordine: 455
 
 # Art. 383 - ***Facoltà di arresto da parte dei privati***
 
-1. Nei casi previsti dall'[articolo 380](art-380-cpp.md) ogni persona è autorizzata a procedere all'arresto in flagranza, quando si tratta di delitti perseguibili di ufficio.
+1\. Nei casi previsti dall'[articolo 380](art-380-cpp.md) ogni persona è autorizzata a procedere all'arresto in flagranza, quando si tratta di delitti perseguibili di ufficio.
 
-2. La persona che ha eseguito l'arresto deve senza ritardo consegnare l'arrestato e le cose costituenti il corpo del reato alla polizia giudiziaria la quale redige il verbale della consegna e ne rilascia copia.
+2\. La persona che ha eseguito l'arresto deve senza ritardo consegnare l'arrestato e le cose costituenti il corpo del reato alla polizia giudiziaria la quale redige il verbale della consegna e ne rilascia copia.

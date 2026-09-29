@@ -20,9 +20,9 @@ ordine: 333
 
 # Art. 281 - ***Divieto di espatrio***
 
-1. Con il provvedimento che dispone il divieto di espatrio, il giudice prescrive all'imputato di non uscire dal territorio nazionale senza l'autorizzazione del giudice che procede.
+1\. Con il provvedimento che dispone il divieto di espatrio, il giudice prescrive all'imputato di non uscire dal territorio nazionale senza l'autorizzazione del giudice che procede.
 
-2. Il giudice dà le disposizioni necessarie per assicurare l'esecuzione del provvedimento, anche al fine di impedire l'utilizzazione del passaporto e degli altri documenti di identità validi per l'espatrio.
+2\. Il giudice dà le disposizioni necessarie per assicurare l'esecuzione del provvedimento, anche al fine di impedire l'utilizzazione del passaporto e degli altri documenti di identità validi per l'espatrio.
 
 2-bis. Con l'ordinanza che applica una delle altre misure coercitive previste dal presente capo, il giudice dispone in ogni caso il divieto di espatrio. [^agg-54]
 

@@ -20,4 +20,4 @@ ordine: 482
 
 # Art. 399 - ***Accompagnamento coattivo della persona sottoposta alle indagini***
 
-1. Se la persona sottoposta alle indagini, la cui presenza è necessaria per compiere un atto da assumere con l'incidente probatorio, non compare senza addurre un legittimo impedimento, il giudice ne ordina l'accompagnamento coattivo.
+1\. Se la persona sottoposta alle indagini, la cui presenza è necessaria per compiere un atto da assumere con l'incidente probatorio, non compare senza addurre un legittimo impedimento, il giudice ne ordina l'accompagnamento coattivo.

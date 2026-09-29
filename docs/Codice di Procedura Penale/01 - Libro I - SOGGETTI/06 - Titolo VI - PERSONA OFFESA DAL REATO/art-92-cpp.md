@@ -20,10 +20,10 @@ ordine: 112
 
 # Art. 92 - ***Consenso della persona offesa***
 
-1. L'esercizio dei diritti e delle facoltà spettanti agli enti e alle associazioni rappresentativi di interessi lesi dal reato è subordinato al consenso della persona offesa.
+1\. L'esercizio dei diritti e delle facoltà spettanti agli enti e alle associazioni rappresentativi di interessi lesi dal reato è subordinato al consenso della persona offesa.
 
-2. Il consenso deve risultare da atto pubblico o da scrittura privata autenticata e può essere prestato a non più di uno degli enti o delle associazioni. È inefficace il consenso prestato a più enti o associazioni.
+2\. Il consenso deve risultare da atto pubblico o da scrittura privata autenticata e può essere prestato a non più di uno degli enti o delle associazioni. È inefficace il consenso prestato a più enti o associazioni.
 
-3. Il consenso può essere revocato in qualsiasi momento con le forme previste dal comma 2.
+3\. Il consenso può essere revocato in qualsiasi momento con le forme previste dal comma 2.
 
-4. La persona offesa che ha revocato il consenso non può prestarlo successivamente nè allo stesso nè ad altro ente o associazione.
+4\. La persona offesa che ha revocato il consenso non può prestarlo successivamente nè allo stesso nè ad altro ente o associazione.

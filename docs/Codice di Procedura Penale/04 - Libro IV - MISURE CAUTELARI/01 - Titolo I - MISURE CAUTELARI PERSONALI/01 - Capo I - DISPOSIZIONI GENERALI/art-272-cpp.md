@@ -20,4 +20,4 @@ ordine: 322
 
 # Art. 272 - ***Limitazioni alle libertà della persona***
 
-1. Le libertà della persona possono essere limitate con misure cautelari soltanto a norma delle disposizioni del presente titolo.
+1\. Le libertà della persona possono essere limitate con misure cautelari soltanto a norma delle disposizioni del presente titolo.

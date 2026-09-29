@@ -20,13 +20,13 @@ ordine: 8
 
 # Art. 8 - ***Autonomia delle responsabilità dell'ente***
 
-1. La responsabilità dell'ente sussiste anche quando:
+1\. La responsabilità dell'ente sussiste anche quando:
 
 - a) l'autore del reato non è stato identificato o non è imputabile;
 - b) il reato si estingue per una causa diversa dall'amnistia.
 
-2. Salvo che la legge disponga diversamente, non si procede nei confronti dell'ente quando è concessa amnistia per un reato in relazione al quale è prevista la sua responsabilità e l'imputato ha rinunciato alla sua applicazione.
+2\. Salvo che la legge disponga diversamente, non si procede nei confronti dell'ente quando è concessa amnistia per un reato in relazione al quale è prevista la sua responsabilità e l'imputato ha rinunciato alla sua applicazione.
 
-3. L'ente può rinunciare all'amnistia.
+3\. L'ente può rinunciare all'amnistia.
 
 #### Sanzioni in generale

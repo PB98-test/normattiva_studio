@@ -20,4 +20,4 @@ ordine: 8
 
 # Art. 8 - ***Competenza per territorio determinata dalla connessione***
 
-1. Nei casi previsti dall'[articolo 7](art-7-dlgs274-00.md), se i reati sono stati commessi in luoghi diversi, la competenza per territorio appartiene per tutti al giudice di pace del luogo in cui è stato commesso il primo reato. Se non è possibile determinare in tal modo la competenza, questa appartiene al giudice di pace del luogo in cui è iniziato il primo dei procedimenti connessi.
+1\. Nei casi previsti dall'[articolo 7](art-7-dlgs274-00.md), se i reati sono stati commessi in luoghi diversi, la competenza per territorio appartiene per tutti al giudice di pace del luogo in cui è stato commesso il primo reato. Se non è possibile determinare in tal modo la competenza, questa appartiene al giudice di pace del luogo in cui è iniziato il primo dei procedimenti connessi.

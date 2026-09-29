@@ -20,4 +20,4 @@ ordine: 329
 
 # Art. 277 - ***Salvaguardia dei diritti della persona sottoposta a misure cautelari***
 
-1. Le modalità di esecuzione delle misure devono salvaguardare i diritti della persona ad esse sottoposta, il cui esercizio non sia incompatibile con le esigenze cautelari del caso concreto.
+1\. Le modalità di esecuzione delle misure devono salvaguardare i diritti della persona ad esse sottoposta, il cui esercizio non sia incompatibile con le esigenze cautelari del caso concreto.

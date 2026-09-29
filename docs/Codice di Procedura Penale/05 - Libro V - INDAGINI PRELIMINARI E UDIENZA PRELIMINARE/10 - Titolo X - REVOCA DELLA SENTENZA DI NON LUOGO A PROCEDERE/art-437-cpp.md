@@ -20,4 +20,4 @@ ordine: 531
 
 # Art. 437 - ***Ricorso per cassazione***
 
-1. Contro l'ordinanza che dichiara inammissibile o rigetta la richiesta di revoca il pubblico ministero può proporre ricorso per cassazione solamente per i motivi indicati all'[articolo 606](../../09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/03%20-%20Titolo%20III%20-%20RICORSO%20PER%20CASSAZIONE/01%20-%20Capo%20I%20-%20DISPOSIZIONI%20GENERALI/art-606-cpp.md), comma 1, lettere b), d) ed e) .
+1\. Contro l'ordinanza che dichiara inammissibile o rigetta la richiesta di revoca il pubblico ministero può proporre ricorso per cassazione solamente per i motivi indicati all'[articolo 606](../../09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/03%20-%20Titolo%20III%20-%20RICORSO%20PER%20CASSAZIONE/01%20-%20Capo%20I%20-%20DISPOSIZIONI%20GENERALI/art-606-cpp.md), comma 1, lettere b), d) ed e) .

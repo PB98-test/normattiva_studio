@@ -20,7 +20,7 @@ ordine: 1
 
 # Art. 1 - ***Organi giudiziari nel procedimento penale davanti al giudice di pace***
 
-1. Svolgono funzioni giudiziarie nel procedimento penale davanti al giudice di pace:
+1\. Svolgono funzioni giudiziarie nel procedimento penale davanti al giudice di pace:
 
 - a) il procuratore della Repubblica presso il tribunale nel cui circondario ha sede il giudice di pace;
 - b) il giudice di pace.

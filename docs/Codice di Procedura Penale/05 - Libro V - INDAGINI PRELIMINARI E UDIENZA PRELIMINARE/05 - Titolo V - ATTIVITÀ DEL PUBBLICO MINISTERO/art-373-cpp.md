@@ -20,7 +20,7 @@ ordine: 444
 
 # Art. 373 - ***Documentazione degli atti***
 
-1. Salvo quanto disposto in relazione a specifici atti, è redatto verbale:
+1\. Salvo quanto disposto in relazione a specifici atti, è redatto verbale:
 
 - a) delle denunce, querele e istanze di procedimento presentate oralmente;
 - b) degli interrogatori e dei confronti con la persona sottoposta alle indagini;
@@ -29,7 +29,7 @@ ordine: 444
 - d-bis) dell'interrogatorio assunto a norma dell'[articolo 363](art-363-cpp.md);
 - e) degli accertamenti tecnici compiuti a norma dell'[articolo 360](art-360-cpp.md).
 
-2. Il verbale è redatto secondo le modalità previste nel titolo III del libro II.
+2\. Il verbale è redatto secondo le modalità previste nel titolo III del libro II.
 
 2-bis. Alla documentazione degli interrogatori di cui al comma 1, lettere b) e d-bis), si procede anche con mezzi di riproduzione audiovisiva o, se ciò non è possibile a causa della contingente indisponibilità di mezzi di riproduzione audiovisiva o di personale tecnico, con mezzi di riproduzione fonografica.
 
@@ -42,10 +42,10 @@ ordine: 444
 
 2-quinquies. La trascrizione della riproduzione audiovisiva o fonografica di cui ai commi 2-bis e 2-ter è disposta solo se assolutamente indispensabile e può essere effettuata anche dalla polizia giudiziaria che assiste il pubblico ministero.
 
-3. Alla documentazione delle attività di indagine preliminare, diverse da quelle previste dal comma 1, si procede soltanto mediante la redazione del verbale in forma riassuntiva ovvero, quando si tratta di atti a contenuto semplice o di limitata rilevanza, mediante le annotazioni ritenute necessarie.
+3\. Alla documentazione delle attività di indagine preliminare, diverse da quelle previste dal comma 1, si procede soltanto mediante la redazione del verbale in forma riassuntiva ovvero, quando si tratta di atti a contenuto semplice o di limitata rilevanza, mediante le annotazioni ritenute necessarie.
 
-4. Gli atti sono documentati nel corso del loro compimento ovvero immediatamente dopo quando ricorrono insuperabili circostanze, da indicarsi specificamente, che impediscono la documentazione contestuale.
+4\. Gli atti sono documentati nel corso del loro compimento ovvero immediatamente dopo quando ricorrono insuperabili circostanze, da indicarsi specificamente, che impediscono la documentazione contestuale.
 
-5. L'atto contenente la notizia di reato e la documentazione relativa alle indagini sono conservati in apposito fascicolo presso l'ufficio del pubblico ministero assieme agli atti trasmessi dalla polizia giudiziaria a norma dell'[articolo 357](../04%20-%20Titolo%20IV%20-%20ATTIVITÀ%20A%20INIZIATIVA%20DELLA%20POLIZIA%20GIUDIZIARIA/art-357-cpp.md).
+5\. L'atto contenente la notizia di reato e la documentazione relativa alle indagini sono conservati in apposito fascicolo presso l'ufficio del pubblico ministero assieme agli atti trasmessi dalla polizia giudiziaria a norma dell'[articolo 357](../04%20-%20Titolo%20IV%20-%20ATTIVITÀ%20A%20INIZIATIVA%20DELLA%20POLIZIA%20GIUDIZIARIA/art-357-cpp.md).
 
-6. Alla redazione del verbale e delle annotazioni provvede l'ufficiale di polizia giudiziaria o l'ausiliario che assiste il pubblico ministero. Si applica la disposizione dell'[articolo 142](../../02%20-%20Libro%20II%20-%20ATTI/03%20-%20Titolo%20III%20-%20DOCUMENTAZIONE%20DEGLI%20ATTI/art-142-cpp.md).
+6\. Alla redazione del verbale e delle annotazioni provvede l'ufficiale di polizia giudiziaria o l'ausiliario che assiste il pubblico ministero. Si applica la disposizione dell'[articolo 142](../../02%20-%20Libro%20II%20-%20ATTI/03%20-%20Titolo%20III%20-%20DOCUMENTAZIONE%20DEGLI%20ATTI/art-142-cpp.md).

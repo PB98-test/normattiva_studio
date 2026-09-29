@@ -20,9 +20,9 @@ ordine: 350
 
 # Art. 292 - ***Ordinanza del giudice***
 
-1. Sulla richiesta del pubblico ministero il giudice provvede con ordinanza.
+1\. Sulla richiesta del pubblico ministero il giudice provvede con ordinanza.
 
-2. L'ordinanza che dispone la misura cautelare contiene, a pena di nullità rilevabile anche d'ufficio:
+2\. L'ordinanza che dispone la misura cautelare contiene, a pena di nullità rilevabile anche d'ufficio:
 
 - a) le generalità dell'imputato o quanto altro valga a identificarlo;
 - b) la descrizione sommaria del fatto con l'indicazione delle norme di legge che si assumono violate;
@@ -37,7 +37,7 @@ ordine: 350
 
 2-quater. Quando è necessario per l'esposizione delle esigenze cautelari e degli indizi, delle comunicazioni e conversazioni intercettate sono riprodotti soltanto i brani essenziali, in ogni caso senza indicare i dati personali dei soggetti diversi dalle parti, salvo che ciò sia indispensabile per la compiuta esposizione degli elementi rilevanti. [^agg-253] [^agg-260] [^agg-263] [^agg-267] [^agg-270] [^agg-275]
 
-3. L'incertezza circa il giudice che ha emesso il provvedimento ovvero circa la persona nei cui confronti la misura è disposta esime gli ufficiali e gli agenti incaricati dal darvi esecuzione.
+3\. L'incertezza circa il giudice che ha emesso il provvedimento ovvero circa la persona nei cui confronti la misura è disposta esime gli ufficiali e gli agenti incaricati dal darvi esecuzione.
 
 3-bis. L'ordinanza è nulla se non è preceduta dall'interrogatorio nei casi previsti dall'[articolo 291](art-291-cpp.md), comma 1-quater, nonchè quando l'interrogatorio è nullo per violazione delle disposizioni di cui ai commi 1-septies e 1-octies del medesimo articolo.
 
