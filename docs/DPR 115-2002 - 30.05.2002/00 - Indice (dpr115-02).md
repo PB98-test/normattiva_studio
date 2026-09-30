@@ -25,13 +25,13 @@ aliases:
 
 ### Titolo I - Contributo unificato nel processo civile, amministrativo e tributario
 - [Art. 9](01%20-%20Titolo%20I%20-%20Contributo%20unificato%20nel%20processo%20civile,%20amministrativo%20e%20tributario/art-9-dpr115-02.md) — Contributo unificato
-- [Art. 10](01%20-%20Titolo%20I%20-%20Contributo%20unificato%20nel%20processo%20civile,%20amministrativo%20e%20tributario/art-10-dpr115-02.md) — (L) Esenzioni
+- [Art. 10](01%20-%20Titolo%20I%20-%20Contributo%20unificato%20nel%20processo%20civile,%20amministrativo%20e%20tributario/art-10-dpr115-02.md) — L
 - [Art. 11](01%20-%20Titolo%20I%20-%20Contributo%20unificato%20nel%20processo%20civile,%20amministrativo%20e%20tributario/art-11-dpr115-02.md) — Prenotazione a debito del contributo unificato
 - [Art. 12](01%20-%20Titolo%20I%20-%20Contributo%20unificato%20nel%20processo%20civile,%20amministrativo%20e%20tributario/art-12-dpr115-02.md) — Azione civile nel processo penale
-- [Art. 13](01%20-%20Titolo%20I%20-%20Contributo%20unificato%20nel%20processo%20civile,%20amministrativo%20e%20tributario/art-13-dpr115-02.md) — (L) Importi
-- [Art. 14](01%20-%20Titolo%20I%20-%20Contributo%20unificato%20nel%20processo%20civile,%20amministrativo%20e%20tributario/art-14-dpr115-02.md) — (L) Obbligo di pagamento
+- [Art. 13](01%20-%20Titolo%20I%20-%20Contributo%20unificato%20nel%20processo%20civile,%20amministrativo%20e%20tributario/art-13-dpr115-02.md) — L
+- [Art. 14](01%20-%20Titolo%20I%20-%20Contributo%20unificato%20nel%20processo%20civile,%20amministrativo%20e%20tributario/art-14-dpr115-02.md) — L
 - [Art. 15](01%20-%20Titolo%20I%20-%20Contributo%20unificato%20nel%20processo%20civile,%20amministrativo%20e%20tributario/art-15-dpr115-02.md) — Controllo in ordine alla dichiarazione di valore ed al pagamento del contributo unificato
-- [Art. 16](01%20-%20Titolo%20I%20-%20Contributo%20unificato%20nel%20processo%20civile,%20amministrativo%20e%20tributario/art-16-dpr115-02.md) — (L) Omesso o insufficiente pagamento del contributo unificato
+- [Art. 16](01%20-%20Titolo%20I%20-%20Contributo%20unificato%20nel%20processo%20civile,%20amministrativo%20e%20tributario/art-16-dpr115-02.md) — L
 - [Art. 17](01%20-%20Titolo%20I%20-%20Contributo%20unificato%20nel%20processo%20civile,%20amministrativo%20e%20tributario/art-17-dpr115-02.md) — Variazione degli importi
 - [Art. 18](01%20-%20Titolo%20I%20-%20Contributo%20unificato%20nel%20processo%20civile,%20amministrativo%20e%20tributario/art-18-dpr115-02.md) — Non applicabilità dell'imposta di bollo nel processo penale e nei processi in cui è dovuto il contributo unificato
 - [Art. 18-bis](01%20-%20Titolo%20I%20-%20Contributo%20unificato%20nel%20processo%20civile,%20amministrativo%20e%20tributario/art-18-bis-dpr115-02.md) — Pubblicità sul portale delle vendite pubbliche
@@ -123,7 +123,7 @@ aliases:
 - [Art. 64](11%20-%20Titolo%20XI%20-%20Indennità%20dei%20magistrati%20onorari,%20dei%20giudici%20popolari%20e%20degli%20esper/art-64-dpr115-02.md) — *(abrogato)*
 - [Art. 65](11%20-%20Titolo%20XI%20-%20Indennità%20dei%20magistrati%20onorari,%20dei%20giudici%20popolari%20e%20degli%20esper/art-65-dpr115-02.md) — Indennità dei giudici popolari nei collegi di assise
 - [Art. 66](11%20-%20Titolo%20XI%20-%20Indennità%20dei%20magistrati%20onorari,%20dei%20giudici%20popolari%20e%20degli%20esper/art-66-dpr115-02.md) — Indennità degli esperti dei tribunali e delle sezioni di corte di appello per i minori
-- [Art. 67](11%20-%20Titolo%20XI%20-%20Indennità%20dei%20magistrati%20onorari,%20dei%20giudici%20popolari%20e%20degli%20esper/art-67-dpr115-02.md) — (L) Indennità degli esperti dei tribunali di sorveglianza
+- [Art. 67](11%20-%20Titolo%20XI%20-%20Indennità%20dei%20magistrati%20onorari,%20dei%20giudici%20popolari%20e%20degli%20esper/art-67-dpr115-02.md) — L
 - [Art. 68](11%20-%20Titolo%20XI%20-%20Indennità%20dei%20magistrati%20onorari,%20dei%20giudici%20popolari%20e%20degli%20esper/art-68-dpr115-02.md) — Indennità degli esperti delle sezioni agrarie
 
 ### Titolo XII - Spese escluse e spese straordinarie nel processo penale
@@ -136,8 +136,10 @@ aliases:
 
 ### Titolo XIV - Registrazione degli atti giudiziari nel processo civile e amministrativo
 - [Art. 73](14%20-%20Titolo%20XIV%20-%20Registrazione%20degli%20atti%20giudiziari%20nel%20processo%20civile%20e%20amministr/art-73-dpr115-02.md) — Procedura per la registrazione degli atti giudiziari
-- [Art. 73-bis](14%20-%20Titolo%20XIV%20-%20Registrazione%20degli%20atti%20giudiziari%20nel%20processo%20civile%20e%20amministr/art-73-bis-dpr115-02.md) — Termini per la richiesta di registrazione
-- [Art. 73-ter](14%20-%20Titolo%20XIV%20-%20Registrazione%20degli%20atti%20giudiziari%20nel%20processo%20civile%20e%20amministr/art-73-ter-dpr115-02.md) — Procedura per la registrazione degli atti giudiziari
+
+### Titolo XIV-bis - Registrazione degli atti giudiziari nel processo penale
+- [Art. 73-bis](15%20-%20Titolo%20XIV-bis%20-%20Registrazione%20degli%20atti%20giudiziari%20nel%20processo%20penale/art-73-bis-dpr115-02.md) — Termini per la richiesta di registrazione
+- [Art. 73-ter](15%20-%20Titolo%20XIV-bis%20-%20Registrazione%20degli%20atti%20giudiziari%20nel%20processo%20penale/art-73-ter-dpr115-02.md) — Procedura per la registrazione degli atti giudiziari
 
 ### Titolo I - Disposizioni generali sul patrocinio a spese dello Stato nel processo penale, civile, amministrativo, contabile e tributario
 
@@ -146,7 +148,7 @@ aliases:
 - [Art. 75](01%20-%20Titolo%20I%20-%20Disposizioni%20generali%20sul%20patrocinio%20a%20spese%20dello%20Stato%20nel%20processo/01%20-%20Capo%20I%20-%20Istituzione%20del%20patrocinio/art-75-dpr115-02.md) — Ambito di applicabilita
 
 #### Capo II - Condizioni per l'ammissione al patrocinio
-- [Art. 76](01%20-%20Titolo%20I%20-%20Disposizioni%20generali%20sul%20patrocinio%20a%20spese%20dello%20Stato%20nel%20processo/02%20-%20Capo%20II%20-%20Condizioni%20per%20l%27ammissione%20al%20patrocinio/art-76-dpr115-02.md) — (L) Condizioni per l'ammissione
+- [Art. 76](01%20-%20Titolo%20I%20-%20Disposizioni%20generali%20sul%20patrocinio%20a%20spese%20dello%20Stato%20nel%20processo/02%20-%20Capo%20II%20-%20Condizioni%20per%20l%27ammissione%20al%20patrocinio/art-76-dpr115-02.md) — L
 - [Art. 77](01%20-%20Titolo%20I%20-%20Disposizioni%20generali%20sul%20patrocinio%20a%20spese%20dello%20Stato%20nel%20processo/02%20-%20Capo%20II%20-%20Condizioni%20per%20l%27ammissione%20al%20patrocinio/art-77-dpr115-02.md) — Adeguamento dei limiti di reddito per l'ammissione
 
 #### Capo III - Istanza per l'ammissione al patrocinio
@@ -179,12 +181,12 @@ aliases:
 - [Art. 92](02%20-%20Titolo%20II%20-%20Disposizioni%20particolari%20sul%20patrocinio%20a%20spese%20dello%20Stato%20nel%20proc/02%20-%20Capo%20II%20-%20Condizioni%20per%20l%27ammissione%20al%20patrocinio/art-92-dpr115-02.md) — Elevazione dei limiti di reddito per l'ammissione
 
 #### Capo III - Istanza di ammissione al patrocinio
-- [Art. 93](02%20-%20Titolo%20II%20-%20Disposizioni%20particolari%20sul%20patrocinio%20a%20spese%20dello%20Stato%20nel%20proc/03%20-%20Capo%20III%20-%20Istanza%20di%20ammissione%20al%20patrocinio/art-93-dpr115-02.md) — (L) Presentazione dell'istanza al magistrato competente
+- [Art. 93](02%20-%20Titolo%20II%20-%20Disposizioni%20particolari%20sul%20patrocinio%20a%20spese%20dello%20Stato%20nel%20proc/03%20-%20Capo%20III%20-%20Istanza%20di%20ammissione%20al%20patrocinio/art-93-dpr115-02.md) — L
 - [Art. 94](02%20-%20Titolo%20II%20-%20Disposizioni%20particolari%20sul%20patrocinio%20a%20spese%20dello%20Stato%20nel%20proc/03%20-%20Capo%20III%20-%20Istanza%20di%20ammissione%20al%20patrocinio/art-94-dpr115-02.md) — Impossibilità a presentare la documentazione necessaria ad accertare la veridicita
 - [Art. 95](02%20-%20Titolo%20II%20-%20Disposizioni%20particolari%20sul%20patrocinio%20a%20spese%20dello%20Stato%20nel%20proc/03%20-%20Capo%20III%20-%20Istanza%20di%20ammissione%20al%20patrocinio/art-95-dpr115-02.md) — Sanzioni
 
 #### Capo IV - Decisione sull'istanza di ammissione
-- [Art. 96](02%20-%20Titolo%20II%20-%20Disposizioni%20particolari%20sul%20patrocinio%20a%20spese%20dello%20Stato%20nel%20proc/04%20-%20Capo%20IV%20-%20Decisione%20sull%27istanza%20di%20ammissione/art-96-dpr115-02.md) — (L) Decisione sull'istanza di ammissione al patrocinio
+- [Art. 96](02%20-%20Titolo%20II%20-%20Disposizioni%20particolari%20sul%20patrocinio%20a%20spese%20dello%20Stato%20nel%20proc/04%20-%20Capo%20IV%20-%20Decisione%20sull%27istanza%20di%20ammissione/art-96-dpr115-02.md) — L
 - [Art. 97](02%20-%20Titolo%20II%20-%20Disposizioni%20particolari%20sul%20patrocinio%20a%20spese%20dello%20Stato%20nel%20proc/04%20-%20Capo%20IV%20-%20Decisione%20sull%27istanza%20di%20ammissione/art-97-dpr115-02.md) — Provvedimenti adottabili dal magistrato
 - [Art. 98](02%20-%20Titolo%20II%20-%20Disposizioni%20particolari%20sul%20patrocinio%20a%20spese%20dello%20Stato%20nel%20proc/04%20-%20Capo%20IV%20-%20Decisione%20sull%27istanza%20di%20ammissione/art-98-dpr115-02.md) — Trasmissione all'ufficio finanziario degli atti relativi all'ammissione
 - [Art. 99](02%20-%20Titolo%20II%20-%20Disposizioni%20particolari%20sul%20patrocinio%20a%20spese%20dello%20Stato%20nel%20proc/04%20-%20Capo%20IV%20-%20Decisione%20sull%27istanza%20di%20ammissione/art-99-dpr115-02.md) — Ricorso avverso i provvedimenti di rigetto dell'istanza
@@ -192,7 +194,7 @@ aliases:
 #### Capo V - Difensori, investigatori e consulenti tecnici di parte
 - [Art. 100](02%20-%20Titolo%20II%20-%20Disposizioni%20particolari%20sul%20patrocinio%20a%20spese%20dello%20Stato%20nel%20proc/05%20-%20Capo%20V%20-%20Difensori,%20investigatori%20e%20consulenti%20tecnici%20di%20parte/art-100-dpr115-02.md) — Nomina di un secondo difensore
 - [Art. 101](02%20-%20Titolo%20II%20-%20Disposizioni%20particolari%20sul%20patrocinio%20a%20spese%20dello%20Stato%20nel%20proc/05%20-%20Capo%20V%20-%20Difensori,%20investigatori%20e%20consulenti%20tecnici%20di%20parte/art-101-dpr115-02.md) — Nomina del sostituto del difensore e dell'investigatore
-- [Art. 102](02%20-%20Titolo%20II%20-%20Disposizioni%20particolari%20sul%20patrocinio%20a%20spese%20dello%20Stato%20nel%20proc/05%20-%20Capo%20V%20-%20Difensori,%20investigatori%20e%20consulenti%20tecnici%20di%20parte/art-102-dpr115-02.md) — (L) Nomina del consulente tecnico di parte
+- [Art. 102](02%20-%20Titolo%20II%20-%20Disposizioni%20particolari%20sul%20patrocinio%20a%20spese%20dello%20Stato%20nel%20proc/05%20-%20Capo%20V%20-%20Difensori,%20investigatori%20e%20consulenti%20tecnici%20di%20parte/art-102-dpr115-02.md) — L
 - [Art. 103](02%20-%20Titolo%20II%20-%20Disposizioni%20particolari%20sul%20patrocinio%20a%20spese%20dello%20Stato%20nel%20proc/05%20-%20Capo%20V%20-%20Difensori,%20investigatori%20e%20consulenti%20tecnici%20di%20parte/art-103-dpr115-02.md) — Informazioni all'interessato in caso di nomina di un difensore di ufficio
 - [Art. 104](02%20-%20Titolo%20II%20-%20Disposizioni%20particolari%20sul%20patrocinio%20a%20spese%20dello%20Stato%20nel%20proc/05%20-%20Capo%20V%20-%20Difensori,%20investigatori%20e%20consulenti%20tecnici%20di%20parte/art-104-dpr115-02.md) — Compenso dell'investigatore privato
 - [Art. 105](02%20-%20Titolo%20II%20-%20Disposizioni%20particolari%20sul%20patrocinio%20a%20spese%20dello%20Stato%20nel%20proc/05%20-%20Capo%20V%20-%20Difensori,%20investigatori%20e%20consulenti%20tecnici%20di%20parte/art-105-dpr115-02.md) — Liquidazione con provvedimento del giudice per le indagini preliminari
@@ -207,13 +209,13 @@ aliases:
 - [Art. 111](02%20-%20Titolo%20II%20-%20Disposizioni%20particolari%20sul%20patrocinio%20a%20spese%20dello%20Stato%20nel%20proc/06%20-%20Capo%20VI%20-%20Effetti%20dell%27ammissione%20al%20patrocinio/art-111-dpr115-02.md) — Recupero nei confronti dell'imputato ammesso al patrocinio
 
 #### Capo VII - Revoca del decreto di ammissione al patrocinio
-- [Art. 112](02%20-%20Titolo%20II%20-%20Disposizioni%20particolari%20sul%20patrocinio%20a%20spese%20dello%20Stato%20nel%20proc/07%20-%20Capo%20VII%20-%20Revoca%20del%20decreto%20di%20ammissione%20al%20patrocinio/art-112-dpr115-02.md) — (L) Revoca del decreto di ammissione
-- [Art. 113](02%20-%20Titolo%20II%20-%20Disposizioni%20particolari%20sul%20patrocinio%20a%20spese%20dello%20Stato%20nel%20proc/07%20-%20Capo%20VII%20-%20Revoca%20del%20decreto%20di%20ammissione%20al%20patrocinio/art-113-dpr115-02.md) — (L) Ricorso avverso il decreto di revoca
+- [Art. 112](02%20-%20Titolo%20II%20-%20Disposizioni%20particolari%20sul%20patrocinio%20a%20spese%20dello%20Stato%20nel%20proc/07%20-%20Capo%20VII%20-%20Revoca%20del%20decreto%20di%20ammissione%20al%20patrocinio/art-112-dpr115-02.md) — L
+- [Art. 113](02%20-%20Titolo%20II%20-%20Disposizioni%20particolari%20sul%20patrocinio%20a%20spese%20dello%20Stato%20nel%20proc/07%20-%20Capo%20VII%20-%20Revoca%20del%20decreto%20di%20ammissione%20al%20patrocinio/art-113-dpr115-02.md) — L
 - [Art. 114](02%20-%20Titolo%20II%20-%20Disposizioni%20particolari%20sul%20patrocinio%20a%20spese%20dello%20Stato%20nel%20proc/07%20-%20Capo%20VII%20-%20Revoca%20del%20decreto%20di%20ammissione%20al%20patrocinio/art-114-dpr115-02.md) — Effetti della revoca
 
 ### Titolo III - Estensione, a limitati effetti, della disciplina del patrocinio a spese dello Stato prevista per il processo penale
-- [Art. 115](03%20-%20Titolo%20III%20-%20Estensione,%20a%20limitati%20effetti,%20della%20disciplina%20del%20patrocinio%20a%20s/art-115-dpr115-02.md) — (L) Liquidazione dell'onorario e delle spese al difensore di persona ammessa al programma di protezione dei collaboratori di giustizia
-- [Art. 115-bis](03%20-%20Titolo%20III%20-%20Estensione,%20a%20limitati%20effetti,%20della%20disciplina%20del%20patrocinio%20a%20s/art-115-bis-dpr115-02.md) — Liquidazione dell'onorario e delle spese per la difesa di persona nei cui confronti è emesso provvedimento di archiviazione o sentenza di non luogo a procedere o di proscioglimento nel caso di legittima difesa).  1. L'onorario e le spese spettanti al difensore, all'ausiliario del magistrato e al consulente tecnico di parte di persona nei cui confronti è emesso provvedimento di archiviazione motivato dalla sussistenza delle condizioni di cui all'articolo 52, commi secondo, terzo e quarto, del codice penale o sentenza di non luogo a procedere o di proscioglimento perchè il fatto non costituisce reato in quanto commesso in presenza delle condizioni di cui all'articolo 52, commi secondo, terzo e quarto, del codice penale nonchè all'articolo 55, secondo comma, del medesimo codice, sono liquidati dal magistrato nella misura e con le modalità previste dagli articoli 82 e 83 ed è ammessa opposizione ai sensi dell'articolo 84. Nel caso in cui il difensore sia iscritto nell'albo degli avvocati di un distretto di corte d'appello diverso da quello dell'autorità giudiziaria procedente, in deroga all'articolo 82, comma 2, sono sempre dovute le spese documentate e le indennità di trasferta nella misura minima consentita. 2. Nel caso in cui, a seguito della riapertura delle indagini, della revoca o della impugnazione della sentenza di non luogo a procedere o della impugnazione della sentenza di proscioglimento, sia pronunciata sentenza irrevocabile di condanna, lo Stato ha diritto di ripetere le somme anticipate nei confronti della persona condannata)
+- [Art. 115](03%20-%20Titolo%20III%20-%20Estensione,%20a%20limitati%20effetti,%20della%20disciplina%20del%20patrocinio%20a%20s/art-115-dpr115-02.md) — L
+- [Art. 115-bis](03%20-%20Titolo%20III%20-%20Estensione,%20a%20limitati%20effetti,%20della%20disciplina%20del%20patrocinio%20a%20s/art-115-bis-dpr115-02.md) — Liquidazione dell'onorario e delle spese per la difesa di persona nei cui confronti è emesso provvedimento di archiviazione o sentenza di non luogo a procedere o di proscioglimento nel caso di legittima difesa
 - [Art. 116](03%20-%20Titolo%20III%20-%20Estensione,%20a%20limitati%20effetti,%20della%20disciplina%20del%20patrocinio%20a%20s/art-116-dpr115-02.md) — Liquidazione dell'onorario e delle spese al difensore di ufficio
 - [Art. 117](03%20-%20Titolo%20III%20-%20Estensione,%20a%20limitati%20effetti,%20della%20disciplina%20del%20patrocinio%20a%20s/art-117-dpr115-02.md) — Liquidazione dell'onorario e delle spese al difensore di ufficio di persona irreperibile
 - [Art. 118](03%20-%20Titolo%20III%20-%20Estensione,%20a%20limitati%20effetti,%20della%20disciplina%20del%20patrocinio%20a%20s/art-118-dpr115-02.md) — Liquidazione dell'onorario e delle spese al difensore di ufficio del minore
@@ -293,12 +295,14 @@ aliases:
 ### Titolo V - Processo in cui è parte l'amministrazione pubblica
 - [Art. 158](05%20-%20Titolo%20V%20-%20Processo%20in%20cui%20è%20parte%20l%27amministrazione%20pubblica/art-158-dpr115-02.md) — Spese nel processo in cui è parte l'amministrazione pubblica ammessa alla prenotazione a debito e recupero delle stesse
 - [Art. 159](05%20-%20Titolo%20V%20-%20Processo%20in%20cui%20è%20parte%20l%27amministrazione%20pubblica/art-159-dpr115-02.md) — Imposta di registro della sentenza e compensazione delle spese
-- [Art. 159-bis](05%20-%20Titolo%20V%20-%20Processo%20in%20cui%20è%20parte%20l%27amministrazione%20pubblica/art-159-bis-dpr115-02.md) — (Disposizioni speciali per i procedimenti per l'apertura delle tutele dei minori non accompagnati).
-- [Art. 160](05%20-%20Titolo%20V%20-%20Processo%20in%20cui%20è%20parte%20l%27amministrazione%20pubblica/art-160-dpr115-02.md) — Funzioni sottoposte ad annotazioni
-- [Art. 161](05%20-%20Titolo%20V%20-%20Processo%20in%20cui%20è%20parte%20l%27amministrazione%20pubblica/art-161-dpr115-02.md) — Elenco registri
-- [Art. 162](05%20-%20Titolo%20V%20-%20Processo%20in%20cui%20è%20parte%20l%27amministrazione%20pubblica/art-162-dpr115-02.md) — Attività dell'ufficio
-- [Art. 163](05%20-%20Titolo%20V%20-%20Processo%20in%20cui%20è%20parte%20l%27amministrazione%20pubblica/art-163-dpr115-02.md) — Determinazione dei modelli dei registri
-- [Art. 164](05%20-%20Titolo%20V%20-%20Processo%20in%20cui%20è%20parte%20l%27amministrazione%20pubblica/art-164-dpr115-02.md) — Rinvio
+
+### Titolo V-bis - Procedimenti per l'apertura delle tutele dei minori non accompagnati
+- [Art. 159-bis](16%20-%20Titolo%20V-bis%20-%20Procedimenti%20per%20l%27apertura%20delle%20tutele%20dei%20minori%20non%20accompagn/art-159-bis-dpr115-02.md) — Disposizioni speciali per i procedimenti per l'apertura delle tutele dei minori non accompagnati
+- [Art. 160](16%20-%20Titolo%20V-bis%20-%20Procedimenti%20per%20l%27apertura%20delle%20tutele%20dei%20minori%20non%20accompagn/art-160-dpr115-02.md) — Funzioni sottoposte ad annotazioni
+- [Art. 161](16%20-%20Titolo%20V-bis%20-%20Procedimenti%20per%20l%27apertura%20delle%20tutele%20dei%20minori%20non%20accompagn/art-161-dpr115-02.md) — Elenco registri
+- [Art. 162](16%20-%20Titolo%20V-bis%20-%20Procedimenti%20per%20l%27apertura%20delle%20tutele%20dei%20minori%20non%20accompagn/art-162-dpr115-02.md) — Attività dell'ufficio
+- [Art. 163](16%20-%20Titolo%20V-bis%20-%20Procedimenti%20per%20l%27apertura%20delle%20tutele%20dei%20minori%20non%20accompagn/art-163-dpr115-02.md) — Determinazione dei modelli dei registri
+- [Art. 164](16%20-%20Titolo%20V-bis%20-%20Procedimenti%20per%20l%27apertura%20delle%20tutele%20dei%20minori%20non%20accompagn/art-164-dpr115-02.md) — Rinvio
 
 ### Titolo I - Titoli di pagamento delle spese
 
@@ -309,7 +313,7 @@ aliases:
 
 #### Capo II - Decreto di pagamento emesso dal magistrato
 - [Art. 168](01%20-%20Titolo%20I%20-%20Titoli%20di%20pagamento%20delle%20spese/02%20-%20Capo%20II%20-%20Decreto%20di%20pagamento%20emesso%20dal%20magistrato/art-168-dpr115-02.md) — Decreto di pagamento delle spettanze agli ausiliari del magistrato e dell'indennità di custodia
-- [Art. 168-bis](01%20-%20Titolo%20I%20-%20Titoli%20di%20pagamento%20delle%20spese/02%20-%20Capo%20II%20-%20Decreto%20di%20pagamento%20emesso%20dal%20magistrato/art-168-bis-dpr115-02.md) — (L) Decreto di pagamento delle prestazioni di cui all'articolo 57 del decreto legislativo 1° agosto 2003, n. 259, e di quelle funzionali all'utilizzo delle medesime
+- [Art. 168-bis](01%20-%20Titolo%20I%20-%20Titoli%20di%20pagamento%20delle%20spese/02%20-%20Capo%20II%20-%20Decreto%20di%20pagamento%20emesso%20dal%20magistrato/art-168-bis-dpr115-02.md) — L
 - [Art. 169](01%20-%20Titolo%20I%20-%20Titoli%20di%20pagamento%20delle%20spese/02%20-%20Capo%20II%20-%20Decreto%20di%20pagamento%20emesso%20dal%20magistrato/art-169-dpr115-02.md) — Decreto di pagamento delle spese per la demolizione e la riduzione in pristino dei luoghi
 - [Art. 170](01%20-%20Titolo%20I%20-%20Titoli%20di%20pagamento%20delle%20spese/02%20-%20Capo%20II%20-%20Decreto%20di%20pagamento%20emesso%20dal%20magistrato/art-170-dpr115-02.md) — Opposizione al decreto di pagamento
 - [Art. 171](01%20-%20Titolo%20I%20-%20Titoli%20di%20pagamento%20delle%20spese/02%20-%20Capo%20II%20-%20Decreto%20di%20pagamento%20emesso%20dal%20magistrato/art-171-dpr115-02.md) — Effetti del decreto di pagamento
@@ -420,10 +424,12 @@ aliases:
 - [Art. 226](02%20-%20Titolo%20II%20-%20Disposizioni%20generali%20per%20le%20spese%20nel%20processo%20amministrativo,%20cont/06%20-%20Capo%20VI%20-%20Rinvio%20a%20disposizioni%20relative%20ad%20altre%20entrate%20dello%20Stato/art-226-dpr115-02.md) — Garanzie giurisdizionali e sospensione amministrativa e giurisdizionale della riscossione
 - [Art. 227](02%20-%20Titolo%20II%20-%20Disposizioni%20generali%20per%20le%20spese%20nel%20processo%20amministrativo,%20cont/06%20-%20Capo%20VI%20-%20Rinvio%20a%20disposizioni%20relative%20ad%20altre%20entrate%20dello%20Stato/art-227-dpr115-02.md) — Concessionari
 
-#### Capo I - riscossione mediante ruolo))
-- [Art. 227-bis](02%20-%20Titolo%20II%20-%20Disposizioni%20generali%20per%20le%20spese%20nel%20processo%20amministrativo,%20cont/01%20-%20Capo%20I%20-%20riscossione%20mediante%20ruolo%29%29/art-227-bis-dpr115-02.md) — Quantificazione dell'importo dovuto
-- [Art. 227-ter](02%20-%20Titolo%20II%20-%20Disposizioni%20generali%20per%20le%20spese%20nel%20processo%20amministrativo,%20cont/01%20-%20Capo%20I%20-%20riscossione%20mediante%20ruolo%29%29/art-227-ter-dpr115-02.md) — Riscossione mediante ruolo
-- [Art. 227-quater](02%20-%20Titolo%20II%20-%20Disposizioni%20generali%20per%20le%20spese%20nel%20processo%20amministrativo,%20cont/01%20-%20Capo%20I%20-%20riscossione%20mediante%20ruolo%29%29/art-227-quater-dpr115-02.md) — Norme applicabili
+### Titolo II-bis - Disposizioni generali per spese di mantenimento in carcere, spese processuali, pene pecuniarie, sanzioni amministrative pecuniarie e sanzioni pecuniarie processuali nel processo civile e penale
+
+#### Capo I - riscossione mediante ruolo
+- [Art. 227-bis](17%20-%20Titolo%20II-bis%20-%20Disposizioni%20generali%20per%20spese%20di%20mantenimento%20in%20carcere,%20spes/01%20-%20Capo%20I%20-%20riscossione%20mediante%20ruolo/art-227-bis-dpr115-02.md) — Quantificazione dell'importo dovuto
+- [Art. 227-ter](17%20-%20Titolo%20II-bis%20-%20Disposizioni%20generali%20per%20spese%20di%20mantenimento%20in%20carcere,%20spes/01%20-%20Capo%20I%20-%20riscossione%20mediante%20ruolo/art-227-ter-dpr115-02.md) — Riscossione mediante ruolo
+- [Art. 227-quater](17%20-%20Titolo%20II-bis%20-%20Disposizioni%20generali%20per%20spese%20di%20mantenimento%20in%20carcere,%20spes/01%20-%20Capo%20I%20-%20riscossione%20mediante%20ruolo/art-227-quater-dpr115-02.md) — Norme applicabili
 
 ### Titolo III - Disposizioni particolari per spese processuali, spese di mantenimento e sanzioni pecuniarie processuali
 
@@ -463,7 +469,7 @@ aliases:
 
 ### Titolo VII - Riscossione del contributo unificato
 - [Art. 247](07%20-%20Titolo%20VII%20-%20Riscossione%20del%20contributo%20unificato/art-247-dpr115-02.md) — Ufficio competente
-- [Art. 248](07%20-%20Titolo%20VII%20-%20Riscossione%20del%20contributo%20unificato/art-248-dpr115-02.md) — (R) Invito al pagamento
+- [Art. 248](07%20-%20Titolo%20VII%20-%20Riscossione%20del%20contributo%20unificato/art-248-dpr115-02.md) — R
 - [Art. 249](07%20-%20Titolo%20VII%20-%20Riscossione%20del%20contributo%20unificato/art-249-dpr115-02.md) — Norme applicabili
 
 ### Titolo I - Disposizioni relative al processo amministrativo, contabile e tributario
@@ -513,7 +519,7 @@ aliases:
 - [Art. 267](01%20-%20Titolo%20I%20-%20Voci%20di%20spesa/02%20-%20Capo%20II%20-%20Diritto%20di%20copia%20nel%20processo%20penale,%20civile,%20amministrativo%20e%20contabi/art-267-dpr115-02.md) — Diritto di copia senza certificazione di conformita
 - [Art. 268](01%20-%20Titolo%20I%20-%20Voci%20di%20spesa/02%20-%20Capo%20II%20-%20Diritto%20di%20copia%20nel%20processo%20penale,%20civile,%20amministrativo%20e%20contabi/art-268-dpr115-02.md) — Diritto di copia autentica
 - [Art. 269](01%20-%20Titolo%20I%20-%20Voci%20di%20spesa/02%20-%20Capo%20II%20-%20Diritto%20di%20copia%20nel%20processo%20penale,%20civile,%20amministrativo%20e%20contabi/art-269-dpr115-02.md) — Diritto di copia su supporto diverso da quello cartaceo
-- [Art. 269-bis](01%20-%20Titolo%20I%20-%20Voci%20di%20spesa/02%20-%20Capo%20II%20-%20Diritto%20di%20copia%20nel%20processo%20penale,%20civile,%20amministrativo%20e%20contabi/art-269-bis-dpr115-02.md) — (Diritto di trasmissione con modalità telematica di duplicati e copie informatiche nel procedimento penale).
+- [Art. 269-bis](01%20-%20Titolo%20I%20-%20Voci%20di%20spesa/02%20-%20Capo%20II%20-%20Diritto%20di%20copia%20nel%20processo%20penale,%20civile,%20amministrativo%20e%20contabi/art-269-bis-dpr115-02.md) — Diritto di trasmissione con modalità telematica di duplicati e copie informatiche nel procedimento penale
 - [Art. 270](01%20-%20Titolo%20I%20-%20Voci%20di%20spesa/02%20-%20Capo%20II%20-%20Diritto%20di%20copia%20nel%20processo%20penale,%20civile,%20amministrativo%20e%20contabi/art-270-dpr115-02.md) — Copia urgente su supporto cartaceo
 - [Art. 271](01%20-%20Titolo%20I%20-%20Voci%20di%20spesa/02%20-%20Capo%20II%20-%20Diritto%20di%20copia%20nel%20processo%20penale,%20civile,%20amministrativo%20e%20contabi/art-271-dpr115-02.md) — Diritti di copia per i processi dinanzi al giudice di pace
 - [Art. 272](01%20-%20Titolo%20I%20-%20Voci%20di%20spesa/02%20-%20Capo%20II%20-%20Diritto%20di%20copia%20nel%20processo%20penale,%20civile,%20amministrativo%20e%20contabi/art-272-dpr115-02.md) — Diritto di copia ai sensi dell'[articolo 164 del decreto legislativo 28 luglio 1989, n. 271](../Disp.%20att.%20cpp%20%28Dlgs%20271-1989%20-%2028.07.1989%29/01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/15%20-%20Capo%20XIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20IMPUGNAZIONI/art-164-dlgs271-89.md) e dell'articolo 137 del regio decreto 18 dicembre 1941, n. 1368
@@ -564,14 +570,14 @@ aliases:
 - [Art. 289](05%20-%20Titolo%20V%20-%20Riscossione/02%20-%20Capo%20II%20-%20Riversamento%20del%20riscosso%20dall%27erario%20a%20terzi/art-289-dpr115-02.md) — *(abrogato)*
 - [Art. 290](05%20-%20Titolo%20V%20-%20Riscossione/02%20-%20Capo%20II%20-%20Riversamento%20del%20riscosso%20dall%27erario%20a%20terzi/art-290-dpr115-02.md) — Versamenti di somme alla cassa di previdenza dei cancellieri
 - [Art. 291](05%20-%20Titolo%20V%20-%20Riscossione/02%20-%20Capo%20II%20-%20Riversamento%20del%20riscosso%20dall%27erario%20a%20terzi/art-291-dpr115-02.md) — L
-- [Art. 292](05%20-%20Titolo%20V%20-%20Riscossione/02%20-%20Capo%20II%20-%20Riversamento%20del%20riscosso%20dall%27erario%20a%20terzi/art-292-dpr115-02.md) — (R) Versamenti di somme alle casse di previdenza degli accertatori dei reati finanziari
+- [Art. 292](05%20-%20Titolo%20V%20-%20Riscossione/02%20-%20Capo%20II%20-%20Riversamento%20del%20riscosso%20dall%27erario%20a%20terzi/art-292-dpr115-02.md) — R
 - [Art. 293](05%20-%20Titolo%20V%20-%20Riscossione/02%20-%20Capo%20II%20-%20Riversamento%20del%20riscosso%20dall%27erario%20a%20terzi/art-293-dpr115-02.md) — Processi davanti al tribunale superiore delle acque pubbliche e ai tribunali regionali delle acque pubbliche
 - [Art. 294](05%20-%20Titolo%20V%20-%20Riscossione/02%20-%20Capo%20II%20-%20Riversamento%20del%20riscosso%20dall%27erario%20a%20terzi/art-294-dpr115-02.md) — Relazione al Parlamento sul patrocinio a spese dello Stato
 - [Art. 295](05%20-%20Titolo%20V%20-%20Riscossione/02%20-%20Capo%20II%20-%20Riversamento%20del%20riscosso%20dall%27erario%20a%20terzi/art-295-dpr115-02.md) — Rinvio per la copertura finanziaria
 - [Art. 296](05%20-%20Titolo%20V%20-%20Riscossione/02%20-%20Capo%20II%20-%20Riversamento%20del%20riscosso%20dall%27erario%20a%20terzi/art-296-dpr115-02.md) — Modifiche alle norme esterne ed interne al testo unico
 - [Art. 297](05%20-%20Titolo%20V%20-%20Riscossione/02%20-%20Capo%20II%20-%20Riversamento%20del%20riscosso%20dall%27erario%20a%20terzi/art-297-dpr115-02.md) — Non applicabilità di norme
 - [Art. 298](05%20-%20Titolo%20V%20-%20Riscossione/02%20-%20Capo%20II%20-%20Riversamento%20del%20riscosso%20dall%27erario%20a%20terzi/art-298-dpr115-02.md) — *(abrogato)*
-- [Art. 299](05%20-%20Titolo%20V%20-%20Riscossione/02%20-%20Capo%20II%20-%20Riversamento%20del%20riscosso%20dall%27erario%20a%20terzi/art-299-dpr115-02.md) — (L) Abrogazioni di norme primarie
+- [Art. 299](05%20-%20Titolo%20V%20-%20Riscossione/02%20-%20Capo%20II%20-%20Riversamento%20del%20riscosso%20dall%27erario%20a%20terzi/art-299-dpr115-02.md) — L
 - [Art. 300](05%20-%20Titolo%20V%20-%20Riscossione/02%20-%20Capo%20II%20-%20Riversamento%20del%20riscosso%20dall%27erario%20a%20terzi/art-300-dpr115-02.md) — Abrogazioni parziali e riformulazioni conseguenti di norme
-- [Art. 301](05%20-%20Titolo%20V%20-%20Riscossione/02%20-%20Capo%20II%20-%20Riversamento%20del%20riscosso%20dall%27erario%20a%20terzi/art-301-dpr115-02.md) — (R) Abrogazioni di norme secondarie
-- [Art. 302](05%20-%20Titolo%20V%20-%20Riscossione/02%20-%20Capo%20II%20-%20Riversamento%20del%20riscosso%20dall%27erario%20a%20terzi/art-302-dpr115-02.md) — (L) Entrata in vigore
+- [Art. 301](05%20-%20Titolo%20V%20-%20Riscossione/02%20-%20Capo%20II%20-%20Riversamento%20del%20riscosso%20dall%27erario%20a%20terzi/art-301-dpr115-02.md) — R
+- [Art. 302](05%20-%20Titolo%20V%20-%20Riscossione/02%20-%20Capo%20II%20-%20Riversamento%20del%20riscosso%20dall%27erario%20a%20terzi/art-302-dpr115-02.md) — L

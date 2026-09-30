@@ -14,8 +14,8 @@ capo_label: "GIUDICE DELL'ESECUZIONE"
 sezione: null
 sezione_label: null
 rubrica: "Procedimento di esecuzione"
-dataVigenza: "20260914"
-ordine: 796
+dataVigenza: "20260930"
+ordine: 797
 ---
 
 # Art. 666 - ***Procedimento di esecuzione***
@@ -36,7 +36,7 @@ ordine: 796
 
 8\. Se l'interessato è infermo di mente, l'avviso previsto dal comma 3 è notificato anche al tutore o al curatore; se l'interessato ne è privo, il giudice o il presidente del collegio nomina un curatore provvisorio. Al tutore e al curatore competono gli stessi diritti dell'interessato.
 
-9\. Il verbale di udienza è redatto soltanto in forma riassuntiva a norma dell'[articolo 140](../../../02%20-%20Libro%20II%20-%20ATTI/03%20-%20Titolo%20III%20-%20DOCUMENTAZIONE%20DEGLI%20ATTI/art-140-cpp.md) comma 2. [^agg-15]
+9\. Il verbale di udienza è redatto soltanto in forma riassuntiva a norma dell'[articolo 140](../../../02%20-%20Libro%20II%20-%20ATTI/04%20-%20Titolo%20III%20-%20DOCUMENTAZIONE%20DEGLI%20ATTI/art-140-cpp.md) comma 2. [^agg-15]
 
 [^agg-15]: *AGGIORNAMENTO (15)* La Corte costituzionale, con sentenza 28 novembre - 3 dicembre 1990, n. 529 (in G.U. 1ª s.s. 05/12/1990, n. 48), visto l'[art. 27](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/04%20-%20Capo%20IV%20-%20PROVVEDIMENTI%20SULLA%20GIURISDIZIONE%20E%20SULLA%20COMPETENZA/art-27-cpp.md) della L. 11 marzo 1953, n. 87, ha dichiarato l'illegittimità costituzionale dell'[art. 666, comma 9, del codice di procedura penale](art-666-cpp.md) (approvato con d.P.R. 22 ottobre 1988, n. 247) nella parte in cui dopo la parola "redatto" prevede "soltanto" anzichè "di regola".
 

@@ -14,8 +14,8 @@ capo_label: "ISTRUZIONE DIBATTIMENTALE"
 sezione: null
 sezione_label: null
 rubrica: "Atti preliminari all'esame dei testimoni"
-dataVigenza: "20260914"
-ordine: 603
+dataVigenza: "20260930"
+ordine: 604
 ---
 
 # Art. 497 - ***Atti preliminari all'esame dei testimoni***

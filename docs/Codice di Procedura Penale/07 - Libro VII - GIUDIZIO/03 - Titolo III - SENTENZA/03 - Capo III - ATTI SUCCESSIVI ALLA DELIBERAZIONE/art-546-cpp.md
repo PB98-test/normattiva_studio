@@ -14,8 +14,8 @@ capo_label: "ATTI SUCCESSIVI ALLA DELIBERAZIONE"
 sezione: null
 sezione_label: null
 rubrica: "Requisiti della sentenza"
-dataVigenza: "20260914"
-ordine: 657
+dataVigenza: "20260930"
+ordine: 658
 ---
 
 # Art. 546 - ***Requisiti della sentenza***

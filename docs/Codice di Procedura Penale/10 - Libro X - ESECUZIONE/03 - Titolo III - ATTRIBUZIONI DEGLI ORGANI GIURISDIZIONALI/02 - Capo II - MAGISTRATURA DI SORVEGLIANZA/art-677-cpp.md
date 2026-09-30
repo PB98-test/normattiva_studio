@@ -14,8 +14,8 @@ capo_label: "MAGISTRATURA DI SORVEGLIANZA"
 sezione: null
 sezione_label: null
 rubrica: "Competenza per territorio"
-dataVigenza: "20260914"
-ordine: 807
+dataVigenza: "20260930"
+ordine: 808
 ---
 
 # Art. 677 - ***Competenza per territorio***
@@ -24,4 +24,4 @@ ordine: 807
 
 2\. Quando l'interessato non è detenuto o internato, la competenza, se la legge non dispone diversamente, appartiene al tribunale o al magistrato di sorveglianza che ha giurisdizione sul luogo in cui l'interessato ha la residenza o il domicilio. Se la competenza non può essere determinata secondo il criterio sopra indicato, essa appartiene al tribunale o al magistrato di sorveglianza del luogo in cui fu pronunciata la sentenza di condanna, di proscioglimento o di non luogo a procedere, e, nel caso di più sentenze di condanna o di proscioglimento, al tribunale o al magistrato di sorveglianza del luogo in cui fu pronunciata la sentenza divenuta irrevocabile per ultima.
 
-2-bis. Il condannato, non detenuto, ha l'obbligo, a pena di inammissibilità, di fare la dichiarazione o l'elezione di domicilio con la domanda con la quale chiede una misura alternativa alla detenzione o altro provvedimento attribuito dalla legge alla magistratura di sorveglianza. Il condannato, non detenuto, ha altresì l'obbligo di comunicare ogni mutamento del domicilio dichiarato o eletto. Si applicano, in quanto compatibili, le disposizioni previste dall'[articolo 161](../../../02%20-%20Libro%20II%20-%20ATTI/05%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-161-cpp.md).
+2-bis. Il condannato, non detenuto, ha l'obbligo, a pena di inammissibilità, di fare la dichiarazione o l'elezione di domicilio con la domanda con la quale chiede una misura alternativa alla detenzione o altro provvedimento attribuito dalla legge alla magistratura di sorveglianza. Il condannato, non detenuto, ha altresì l'obbligo di comunicare ogni mutamento del domicilio dichiarato o eletto. Si applicano, in quanto compatibili, le disposizioni previste dall'[articolo 161](../../../02%20-%20Libro%20II%20-%20ATTI/06%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-161-cpp.md).

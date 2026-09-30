@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Richiesta di convalida dell'arresto o del fermo"
-dataVigenza: "20260914"
-ordine: 464
+dataVigenza: "20260930"
+ordine: 465
 ---
 
 # Art. 390 - ***Richiesta di convalida dell'arresto o del fermo***

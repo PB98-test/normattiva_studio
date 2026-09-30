@@ -5,10 +5,9 @@ search:
 
 # Leggi citate da Legge fallimentare (RD 267-1942 - 16.03.1942) ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Legge fallimentare (RD 267-1942 - 16.03.1942) — 49 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Legge fallimentare (RD 267-1942 - 16.03.1942) — 47 leggi trovate)*
 
 - [L. 20 ottobre 1952, n. 1375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-10-20;1375)
-- [regio decreto 16 marzo 1942, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regiodecreto:1942-03-16;267)
 - [D.Lgs. 12 settembre 2007, n. 169](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2007-09-12;169)
 - [D.Lgs. 9 gennaio 2006, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2006-01-09;5)
 - [decreto del Presidente della Repubblica 15 dicembre 1959, n. 1229](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-12-15;1229)
@@ -19,7 +18,6 @@ search:
 - [L. 6 agosto 2015, n. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-08-06;132)
 - [articolo 16-bis, comma 9-septies, del decreto-legge 18 ottobre 2012, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2012-10-18;179)
 - [legge 17 dicembre 2012, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-17;221)
-- [decreto legislativo 6 settembre 2011, n. 159](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2011-09-06;159)
 - [L. 27 dicembre 2017, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205)
 - [articolo 2, comma 6-ter, del decreto-legge 16 settembre 2008, n. 143](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2008-09-16;143)
 - [legge 13 novembre 2008, n. 181, all'articolo 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-11-13;181)

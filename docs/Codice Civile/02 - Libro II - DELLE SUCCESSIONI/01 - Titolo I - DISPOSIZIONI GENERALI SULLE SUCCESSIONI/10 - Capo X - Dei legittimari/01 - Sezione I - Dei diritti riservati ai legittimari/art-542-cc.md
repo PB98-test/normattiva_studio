@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 542"
+title: "Art. 542 - Concorso di coniuge e figli"
 articolo: "Art. 542"
 codice: cc
 aliases:
@@ -13,14 +13,12 @@ capo: "X"
 capo_label: "Dei legittimari"
 sezione: "I"
 sezione_label: "Dei diritti riservati ai legittimari"
-rubrica: null
-dataVigenza: "20260914"
+rubrica: "Concorso di coniuge e figli"
+dataVigenza: "20260930"
 ordine: 629
 ---
 
-# Art. 542
-
-Concorso di coniuge e figli.
+# Art. 542 - ***Concorso di coniuge e figli***
 
 Se chi muore lascia, oltre al coniuge, un solo figlio, ... a quest'ultimo è riservato un terzo del patrimonio ed un altro terzo spetta al coniuge.
 

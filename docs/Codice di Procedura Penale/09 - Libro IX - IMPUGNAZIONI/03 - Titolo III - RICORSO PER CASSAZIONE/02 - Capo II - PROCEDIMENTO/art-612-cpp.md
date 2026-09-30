@@ -14,8 +14,8 @@ capo_label: "PROCEDIMENTO"
 sezione: null
 sezione_label: null
 rubrica: "Sospensione dell'esecuzione della condanna civile"
-dataVigenza: "20260914"
-ordine: 734
+dataVigenza: "20260930"
+ordine: 735
 ---
 
 # Art. 612 - ***Sospensione dell'esecuzione della condanna civile***

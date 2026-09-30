@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 316-bis"
+title: "Art. 316-bis - Concorso nel mantenimento"
 articolo: "Art. 316-bis"
 codice: cc
 aliases:
@@ -13,14 +13,12 @@ capo: "I"
 capo_label: "Dei diritti e doveri del figlio"
 sezione: null
 sezione_label: null
-rubrica: null
-dataVigenza: "20260914"
+rubrica: "Concorso nel mantenimento"
+dataVigenza: "20260930"
 ordine: 390
 ---
 
-# Art. 316-bis
-
-Concorso nel mantenimento .
+# Art. 316-bis - ***Concorso nel mantenimento***
 
 I genitori devono adempiere i loro obblighi nei confronti dei figli in proporzione alle rispettive sostanze e secondo la loro capacità di lavoro professionale o casalingo. Quando i genitori non hanno mezzi sufficienti, gli altri ascendenti, in ordine di prossimità, sono tenuti a fornire ai genitori stessi i mezzi necessari affinchè possano adempiere i loro doveri nei confronti dei figli.
 

@@ -14,7 +14,7 @@ capo_label: "RESPONSABILITÀ AMMINISTRATIVA DELL'ENTE"
 sezione: "III"
 sezione_label: "Responsabilità amministrativa da reato"
 rubrica: "Reati tributari"
-dataVigenza: "20260928"
+dataVigenza: "20260930"
 ordine: 45
 ---
 
@@ -40,4 +40,4 @@ ordine: 45
 
 3\. Nei casi previsti dai commi 1, 1-bis e 2, si applicano le sanzioni interdittive di cui all'[articolo 9](../02%20-%20Sezione%20II%20-%20Sanzioni%20in%20generale/art-9-dlgs231-01.md), comma 2, lettere c), d) ed e). [^agg-37]
 
-[^agg-37]: *AGGIORNAMENTO (37)* Il D.L. 26 ottobre 2019, n. 124, convertito con modificazioni dalla L. 19 dicembre 2019, n. 157, ha disposto (con l'art. 39, comma 3) che "Le disposizioni di cui ai commi 1 a 2 hanno efficacia dalla data di pubblicazione nella Gazzetta Ufficiale della legge di conversione del presente decreto".
+[^agg-37]: *AGGIORNAMENTO (37)* Il D.L. 26 ottobre 2019, n. 124, convertito con modificazioni dalla L. 19 dicembre 2019, n. 157, ha disposto (con l'[art. 39](../../03%20-%20Capo%20III%20-%20PROCEDIMENTO%20DI%20ACCERTAMENTO%20E%20DI%20APPLICAZIONE%20DELLE%20SANZIONI%20AMMINIS/02%20-%20Sezione%20II%20-%20Soggetti,%20giurisdizione%20e%20competenza/art-39-dlgs231-01.md), comma 3) che "Le disposizioni di cui ai commi 1 a 2 hanno efficacia dalla data di pubblicazione nella Gazzetta Ufficiale della legge di conversione del presente decreto".

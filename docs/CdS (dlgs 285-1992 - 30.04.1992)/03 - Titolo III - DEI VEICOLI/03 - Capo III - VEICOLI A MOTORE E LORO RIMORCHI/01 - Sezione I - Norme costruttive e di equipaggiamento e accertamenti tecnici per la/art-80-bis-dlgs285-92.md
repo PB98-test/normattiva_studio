@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 80-bis - (Campagne di richiamo di sicurezza)"
+title: "Art. 80-bis - Campagne di richiamo di sicurezza"
 articolo: "Art. 80-bis"
 codice: dlgs285-92
 aliases:
@@ -13,12 +13,12 @@ capo: "III"
 capo_label: "VEICOLI A MOTORE E LORO RIMORCHI"
 sezione: "I"
 sezione_label: "Norme costruttive e di equipaggiamento e accertamenti tecnici per la circolazione"
-rubrica: "(Campagne di richiamo di sicurezza)"
-dataVigenza: "20260914"
+rubrica: "Campagne di richiamo di sicurezza"
+dataVigenza: "20260930"
 ordine: 85
 ---
 
-# Art. 80-bis - ***(Campagne di richiamo di sicurezza)***
+# Art. 80-bis - ***Campagne di richiamo di sicurezza***
 
 1\. I costruttori dei veicoli, in conformità agli obblighi derivanti dalla normativa nazionale e dell'Unione europea, garantiscono l'immediata adozione di adeguate misure correttive e di informazione in relazione alla totalità dei veicoli di categoria M, N e O che hanno immesso sul mercato o hanno immatricolato o che sono entrati in circolazione nel territorio nazionale o dell'Unione europea, per i quali sia stata valutata la presenza di un rischio grave per la salute o la sicurezza delle persone. Le misure correttive devono garantire che il veicolo non presenti più tale rischio; i costruttori devono altresì svolgere una puntuale e diligente attività di informazione dei proprietari o utilizzatori dei veicoli interessati, quali risultanti dall'archivio nazionale dei veicoli di cui all'articolo 226, commi 5 e seguenti.
 

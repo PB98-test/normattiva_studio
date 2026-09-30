@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Atti introduttivi"
-dataVigenza: "20260914"
-ordine: 506
+dataVigenza: "20260930"
+ordine: 507
 ---
 
 # Art. 419 - ***Atti introduttivi***

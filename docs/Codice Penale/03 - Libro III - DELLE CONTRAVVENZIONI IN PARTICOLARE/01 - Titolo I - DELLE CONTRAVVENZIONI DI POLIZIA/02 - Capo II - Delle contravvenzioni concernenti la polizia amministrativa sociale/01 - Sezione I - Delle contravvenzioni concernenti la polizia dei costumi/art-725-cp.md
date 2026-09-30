@@ -14,8 +14,8 @@ capo_label: "Delle contravvenzioni concernenti la polizia amministrativa sociale
 sezione: "I"
 sezione_label: "Delle contravvenzioni concernenti la polizia dei costumi"
 rubrica: "Commercio di scritti, disegni o altri oggetti contrari alla pubblica decenza"
-dataVigenza: "20260914"
-ordine: 984
+dataVigenza: "20260930"
+ordine: 985
 ---
 
 # Art. 725 - ***Commercio di scritti, disegni o altri oggetti contrari alla pubblica decenza***

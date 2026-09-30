@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Rapporti tra diversi uffici del pubblico ministero"
-dataVigenza: "20260914"
-ordine: 441
+dataVigenza: "20260930"
+ordine: 442
 ---
 
 # Art. 371 - ***Rapporti tra diversi uffici del pubblico ministero***

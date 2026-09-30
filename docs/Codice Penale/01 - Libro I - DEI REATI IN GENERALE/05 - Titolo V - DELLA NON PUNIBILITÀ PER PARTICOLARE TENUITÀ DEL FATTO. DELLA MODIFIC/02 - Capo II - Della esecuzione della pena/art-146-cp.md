@@ -14,7 +14,7 @@ capo_label: "Della esecuzione della pena"
 sezione: null
 sezione_label: null
 rubrica: "Rinvio obbligatorio dell'esecuzione della pena"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 161
 ---
 
@@ -24,7 +24,7 @@ L'esecuzione di una pena, che non sia pecuniaria, è differita:
 
 - 1) NUMERO ABROGATO DAL D.L. 11 APRILE 2025, N. 48;
 - 2) NUMERO ABROGATO DAL D.L. 11 APRILE 2025, N. 48;
-- 3) se deve aver luogo nei confronti di persona affetta da AIDS conclamata o da grave deficienza immunitaria accertate ai sensi dell'[articolo 286-bis, comma 2, del codice di procedura penale](../../../../Codice%20di%20Procedura%20Penale/04%20-%20Libro%20IV%20-%20MISURE%20CAUTELARI/01%20-%20Titolo%20I%20-%20MISURE%20CAUTELARI%20PERSONALI/02%20-%20Capo%20II%20-%20MISURE%20COERCITIVE/art-286-cpp.md), ovvero da altra malattia particolarmente grave per effetto della quale le sue condizioni di salute risultano incompatibili con lo stato di detenzione, quando la persona si trova in una fase della malattia così avanzata da non rispondere più, secondo le certificazioni del servizio sanitario penitenziario o esterno, ai trattamenti disponibili e alle terapie curative.
+- 3) se deve aver luogo nei confronti di persona affetta da AIDS conclamata o da grave deficienza immunitaria accertate ai sensi dell'[articolo 286-bis, comma 2, del codice di procedura penale](../../../../Codice%20di%20Procedura%20Penale/04%20-%20Libro%20IV%20-%20MISURE%20CAUTELARI/01%20-%20Titolo%20I%20-%20MISURE%20CAUTELARI%20PERSONALI/02%20-%20Capo%20II%20-%20MISURE%20COERCITIVE/art-286-bis-cpp.md), ovvero da altra malattia particolarmente grave per effetto della quale le sue condizioni di salute risultano incompatibili con lo stato di detenzione, quando la persona si trova in una fase della malattia così avanzata da non rispondere più, secondo le certificazioni del servizio sanitario penitenziario o esterno, ai trattamenti disponibili e alle terapie curative.
 
 COMMA ABROGATO DAL D.L. 11 APRILE 2025, N. 48.
 

@@ -14,8 +14,8 @@ capo_label: "DISPOSIZIONI GENERALI"
 sezione: null
 sezione_label: null
 rubrica: "Diritto delle parti in ordine alla documentazione"
-dataVigenza: "20260914"
-ordine: 587
+dataVigenza: "20260930"
+ordine: 588
 ---
 
 # Art. 482 - ***Diritto delle parti in ordine alla documentazione***

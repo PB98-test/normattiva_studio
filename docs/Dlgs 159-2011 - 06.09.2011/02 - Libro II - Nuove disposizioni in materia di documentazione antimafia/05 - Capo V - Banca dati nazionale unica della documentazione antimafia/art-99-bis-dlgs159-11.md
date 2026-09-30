@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 99-bis - (Mancato funzionamento della banca dati nazionale unica della documentazione antimafia)"
+title: "Art. 99-bis - Mancato funzionamento della banca dati nazionale unica della documentazione antimafia"
 articolo: "Art. 99-bis"
 codice: dlgs159-11
 aliases:
@@ -13,12 +13,12 @@ capo: "V"
 capo_label: "Banca dati nazionale unica della documentazione antimafia"
 sezione: null
 sezione_label: null
-rubrica: "(Mancato funzionamento della banca dati nazionale unica della documentazione antimafia)"
-dataVigenza: "20260928"
+rubrica: "Mancato funzionamento della banca dati nazionale unica della documentazione antimafia"
+dataVigenza: "20260930"
 ordine: 113
 ---
 
-# Art. 99-bis - ***(Mancato funzionamento della banca dati nazionale unica della documentazione antimafia)***
+# Art. 99-bis - ***Mancato funzionamento della banca dati nazionale unica della documentazione antimafia***
 
 1\. Qualora la banca dati nazionale unica non sia in grado di funzionare regolarmente a causa di eventi eccezionali, la comunicazione antimafia è sostituita dall'autocertificazione di cui all'[articolo 89](../03%20-%20Capo%20III%20-%20Comunicazioni%20antimafia/art-89-dlgs159-11.md) e l'informazione antimafia è rilasciata secondo le modalità previste dall'[articolo 92](../04%20-%20Capo%20IV%20-%20Informazioni%20antimafia/art-92-dlgs159-11.md), commi 2 e 3. Nel caso in cui la comunicazione antimafia è sostituita dall'autocertificazione, i contributi, i finanziamenti, le agevolazioni e le altre erogazioni di cui all'[articolo 67](../../01%20-%20Libro%20I%20-%20Le%20misure%20di%20prevenzione/05%20-%20Titolo%20V%20-%20EFFETTI,%20SANZIONI%20E%20DISPOSIZIONI%20FINALI/01%20-%20Capo%20I%20-%20Effetti%20delle%20misure%20di%20prevenzione/art-67-dlgs159-11.md) sono corrisposti sotto condizione risolutiva e previa presentazione di una garanzia fideiussoria di un importo pari al valore del contributo, finanziamento, agevolazione o erogazione.
 

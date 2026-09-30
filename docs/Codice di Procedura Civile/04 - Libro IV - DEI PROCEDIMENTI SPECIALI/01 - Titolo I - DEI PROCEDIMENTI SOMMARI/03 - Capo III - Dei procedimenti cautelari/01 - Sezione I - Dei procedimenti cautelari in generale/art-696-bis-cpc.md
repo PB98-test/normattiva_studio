@@ -14,7 +14,7 @@ capo_label: "Dei procedimenti cautelari"
 sezione: "I"
 sezione_label: "Dei procedimenti cautelari in generale"
 rubrica: "Consulenza tecnica preventiva ai fini della composizione della lite"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 864
 ---
 
@@ -44,4 +44,4 @@ Il procedimento è definito con il decreto di cui al terzo comma o con il deposi
 
 [^agg-176]: *AGGIORNAMENTO (176)* La Corte Costituzionale, con sentenza 8 novembre - 21 dicembre 2023, n. 222 (in G.U. 1ª s.s. 27/12/2023, n. 52), ha dichiarato "l'illegittimità costituzionale dell'[art. 696-bis](art-696-bis-cpc.md), primo comma, primo periodo, del [codice di procedura civile](../../../../00%20-%20Indice%20%28cpc%29.md) nella parte in cui dopo le parole «da fatto illecito» non prevede «o da ogni altro atto o fatto idoneo a produrli in conformità dell'ordinamento giuridico»".
 
-[^agg-182]: *AGGIORNAMENTO (182)* Il D.L. 19 febbraio 2026, n. 19, ha disposto (con l'[art. 17](../../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/02%20-%20Sezione%20II%20-%20Della%20competenza%20per%20materia%20e%20valore/art-17-cpc.md), comma 4) che "Le disposizioni di cui al comma 3 si applicano anche ai procedimenti pendenti nei quali, alla data di entrata in vigore del presente decreto, non è stata depositata la consulenza tecnica di ufficio o, nel caso previsto dall'[articolo 696-bis, secondo comma, del codice di procedura civile](art-696-cpc.md), non è stato depositato il processo verbale della conciliazione".
+[^agg-182]: *AGGIORNAMENTO (182)* Il D.L. 19 febbraio 2026, n. 19, ha disposto (con l'[art. 17](../../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/02%20-%20Sezione%20II%20-%20Della%20competenza%20per%20materia%20e%20valore/art-17-cpc.md), comma 4) che "Le disposizioni di cui al comma 3 si applicano anche ai procedimenti pendenti nei quali, alla data di entrata in vigore del presente decreto, non è stata depositata la consulenza tecnica di ufficio o, nel caso previsto dall'[articolo 696-bis, secondo comma, del codice di procedura civile](art-696-bis-cpc.md), non è stato depositato il processo verbale della conciliazione".

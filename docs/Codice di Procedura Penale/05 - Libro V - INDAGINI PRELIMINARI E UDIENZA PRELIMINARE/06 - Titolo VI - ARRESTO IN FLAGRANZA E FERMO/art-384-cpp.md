@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Fermo di indiziato di delitto"
-dataVigenza: "20260914"
-ordine: 456
+dataVigenza: "20260930"
+ordine: 457
 ---
 
 # Art. 384 - ***Fermo di indiziato di delitto***

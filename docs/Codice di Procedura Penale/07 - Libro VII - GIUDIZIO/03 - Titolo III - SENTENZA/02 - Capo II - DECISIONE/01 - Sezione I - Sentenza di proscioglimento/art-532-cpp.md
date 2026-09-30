@@ -14,8 +14,8 @@ capo_label: "DECISIONE"
 sezione: "I"
 sezione_label: "Sentenza di proscioglimento"
 rubrica: "Provvedimenti sulle misure cautelari personali"
-dataVigenza: "20260914"
-ordine: 641
+dataVigenza: "20260930"
+ordine: 642
 ---
 
 # Art. 532 - ***Provvedimenti sulle misure cautelari personali***

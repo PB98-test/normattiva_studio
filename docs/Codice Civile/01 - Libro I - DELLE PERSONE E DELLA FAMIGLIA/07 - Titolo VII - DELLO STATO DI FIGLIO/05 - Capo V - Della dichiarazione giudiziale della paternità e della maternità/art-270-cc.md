@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 270"
+title: "Art. 270 - Legittimazione attiva e termine"
 articolo: "Art. 270"
 codice: cc
 aliases:
@@ -13,14 +13,12 @@ capo: "V"
 capo_label: "Della dichiarazione giudiziale della paternità e della maternità"
 sezione: null
 sezione_label: null
-rubrica: null
-dataVigenza: "20260914"
+rubrica: "Legittimazione attiva e termine"
+dataVigenza: "20260930"
 ordine: 315
 ---
 
-# Art. 270
-
-Legittimazione attiva e termine.
+# Art. 270 - ***Legittimazione attiva e termine***
 
 L'azione per ottenere che sia dichiarata giudizialmente la paternità o la maternità ... è imprescrittibile riguardo al figlio.
 

@@ -14,8 +14,8 @@ capo_label: "MAGISTRATURA DI SORVEGLIANZA"
 sezione: null
 sezione_label: null
 rubrica: "Riabilitazione"
-dataVigenza: "20260914"
-ordine: 813
+dataVigenza: "20260930"
+ordine: 814
 ---
 
 # Art. 683 - ***Riabilitazione***

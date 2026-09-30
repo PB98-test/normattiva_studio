@@ -14,7 +14,7 @@ capo_label: "Delle circostanze del reato"
 sezione: null
 sezione_label: null
 rubrica: "Circostanze attenuanti generiche"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 73
 ---
 
@@ -28,4 +28,4 @@ In ogni caso, l'assenza di precedenti condanne per altri reati a carico del cond
 
 [^agg-6]: *AGGIORNAMENTO (6)* Il D.Lgs. Luogotenenziale 14 settembre 1944, n. 288 ha disposto (con l'[art. 1](../../01%20-%20Titolo%20I%20-%20DELLA%20LEGGE%20PENALE/art-1-cp.md), comma 1) che la presente modifica è apportata fino a quando non sia pubblicato il nuovo [Codice penale](../../../00%20-%20Indice%20%28cp%29.md).
 
-[^agg-229]: *AGGIORNAMENTO (229)* La Corte Costituzionale con sentenza 7-10 giugno 2011, n. 183 (in G.U. 1ª s.s. 15/06/2011, n. 26) ha dichiarato "l'illegittimità costituzionale dell'[art. 62-bis, secondo comma, del codice penale](art-62-cp.md), come sostituito dall'art. 1, comma 1, della legge 5 dicembre 2005, n. 251 (Modifiche al [codice penale](../../../00%20-%20Indice%20%28cp%29.md) e alla legge 26 luglio 1975, n. 354, in materia di attenuanti generiche, di recidiva, di giudizio di comparazione delle circostanze di reato per i recidivi, di usura e di prescrizione), nella parte in cui stabilisce che, ai fini dell'applicazione del primo comma dello stesso articolo, non si possa tenere conto della condotta del reo susseguente al reato".
+[^agg-229]: *AGGIORNAMENTO (229)* La Corte Costituzionale con sentenza 7-10 giugno 2011, n. 183 (in G.U. 1ª s.s. 15/06/2011, n. 26) ha dichiarato "l'illegittimità costituzionale dell'[art. 62-bis, secondo comma, del codice penale](art-62-bis-cp.md), come sostituito dall'art. 1, comma 1, della legge 5 dicembre 2005, n. 251 (Modifiche al [codice penale](../../../00%20-%20Indice%20%28cp%29.md) e alla [legge 26 luglio 1975, n. 354](../../../../Ord.%20Pen.%20%28L.%20354-1975%20-%2026.07.1975%29/00%20-%20Indice%20%28l354-75%29.md), in materia di attenuanti generiche, di recidiva, di giudizio di comparazione delle circostanze di reato per i recidivi, di usura e di prescrizione), nella parte in cui stabilisce che, ai fini dell'applicazione del primo comma dello stesso articolo, non si possa tenere conto della condotta del reo susseguente al reato".

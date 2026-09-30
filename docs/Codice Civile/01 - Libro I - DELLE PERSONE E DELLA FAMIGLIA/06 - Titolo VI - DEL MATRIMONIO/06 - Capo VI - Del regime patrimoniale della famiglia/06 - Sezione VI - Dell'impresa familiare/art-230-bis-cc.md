@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 230-bis"
+title: "Art. 230-bis - Impresa familiare"
 articolo: "Art. 230-bis"
 codice: cc
 aliases:
@@ -13,14 +13,12 @@ capo: "VI"
 capo_label: "Del regime patrimoniale della famiglia"
 sezione: "VI"
 sezione_label: "Dell'impresa familiare"
-rubrica: null
-dataVigenza: "20260914"
+rubrica: "Impresa familiare"
+dataVigenza: "20260930"
 ordine: 273
 ---
 
-# Art. 230-bis
-
-Impresa familiare.
+# Art. 230-bis - ***Impresa familiare***
 
 Salvo che sia configurabile un diverso rapporto, il familiare che presta in modo continuativo la sua attività di lavoro nella famiglia o nell'impresa familiare ha diritto al mantenimento secondo la condizione patrimoniale della famiglia e partecipa agli utili dell'impresa familiare ed ai beni acquistati con essi nonchè agli incrementi della azienda, anche in ordine all'avviamento, in proporzione alla quantità e qualità del lavoro prestato. Le decisioni concernenti l'impiego degli utili e degli incrementi nonchè quelle inerenti alla gestione straordinaria, agli indirizzi produttivi e alla cessazione dell'impresa sono adottate, a maggioranza, dai familiari che partecipano all'impresa stessa. I familiari partecipanti all'impresa che non hanno la piena capacità di agire sono rappresentati nel voto da chi esercita la potestà su di essi.
 
@@ -34,4 +32,4 @@ In caso di divisione ereditaria o di trasferimento dell'azienda i partecipi di c
 
 Le comunioni tacite familiari nell'esercizio dell'agricoltura sono regolate dagli usi che non contrastino con le precedenti norme.
 
-[^agg-334]: *AGGIORNAMENTO (334)* La Corte Costituzionale, con sentenza 4 - 25 luglio 2024, n. 148 (in G.U. 1ª s.s. 31/07/2024, n. 31), ha dichiarato "l'illegittimità costituzionale dell'[art. 230-bis, terzo comma, del codice civile](../05%20-%20Sezione%20V%20-%20Del%20regime%20di%20separazione%20dei%20beni/art-230-cc.md), nella parte in cui non prevede come familiare anche il «convivente di fatto» e come impresa familiare quella cui collabora anche il «convivente di fatto»".
+[^agg-334]: *AGGIORNAMENTO (334)* La Corte Costituzionale, con sentenza 4 - 25 luglio 2024, n. 148 (in G.U. 1ª s.s. 31/07/2024, n. 31), ha dichiarato "l'illegittimità costituzionale dell'[art. 230-bis, terzo comma, del codice civile](art-230-bis-cc.md), nella parte in cui non prevede come familiare anche il «convivente di fatto» e come impresa familiare quella cui collabora anche il «convivente di fatto»".

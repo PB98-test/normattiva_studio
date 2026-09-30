@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 2780"
+title: "Art. 2780 - Ordine dei privilegi sugli immobili"
 articolo: "Art. 2780"
 codice: cc
 aliases:
@@ -13,14 +13,12 @@ capo: "II"
 capo_label: "Dei privilegi"
 sezione: "IV"
 sezione_label: "Dell'ordine dei privilegi"
-rubrica: null
-dataVigenza: "20260914"
+rubrica: "Ordine dei privilegi sugli immobili"
+dataVigenza: "20260930"
 ordine: 3087
 ---
 
-# Art. 2780
-
-Ordine dei privilegi sugli immobili.
+# Art. 2780 - ***Ordine dei privilegi sugli immobili***
 
 Quando sul prezzo dello stesso immobile concorrono più crediti privilegiati, la prelazione ha luogo secondo l'ordine seguente:
 

@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 115-bis - (Garanzia della presunzione di innocenza)."
+title: "Art. 115-bis - Garanzia della presunzione di innocenza"
 articolo: "Art. 115-bis"
 codice: cpp
 aliases:
@@ -13,12 +13,12 @@ capo: null
 capo_label: null
 sezione: null
 sezione_label: null
-rubrica: "(Garanzia della presunzione di innocenza)."
-dataVigenza: "20260914"
+rubrica: "Garanzia della presunzione di innocenza"
+dataVigenza: "20260930"
 ordine: 138
 ---
 
-# Art. 115-bis - ***(Garanzia della presunzione di innocenza).***
+# Art. 115-bis - ***Garanzia della presunzione di innocenza***
 
 1\. Salvo quanto previsto dal comma 2, nei provvedimenti diversi da quelli volti alla decisione in merito alla responsabilità penale dell'imputato, la persona sottoposta a indagini o l'imputato non possono essere indicati come colpevoli fino a quando la colpevolezza non è stata accertata con sentenza o decreto penale di condanna irrevocabili. Tale disposizione non si applica agli atti del pubblico ministero volti a dimostrare la colpevolezza della persona sottoposta ad indagini o dell'imputato.
 

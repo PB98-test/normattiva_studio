@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Estensione dell'impugnazione"
-dataVigenza: "20260914"
-ordine: 705
+dataVigenza: "20260930"
+ordine: 706
 ---
 
 # Art. 587 - ***Estensione dell'impugnazione***

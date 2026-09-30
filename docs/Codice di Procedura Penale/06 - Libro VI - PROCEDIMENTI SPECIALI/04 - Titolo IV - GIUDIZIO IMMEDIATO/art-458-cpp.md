@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Richiesta di giudizio abbreviato"
-dataVigenza: "20260914"
-ordine: 553
+dataVigenza: "20260930"
+ordine: 554
 ---
 
 # Art. 458 - ***Richiesta di giudizio abbreviato***
@@ -38,4 +38,4 @@ ordine: 553
 
 [^agg-133]: *AGGIORNAMENTO (133)* La Corte costituzionale, con sentenza 19-23 maggio 2003 n. 169 (in G.U. 1a s.s. 28/5/2003 n. 21), ha dichiarato "l'illegittimità costituzionale dell'[art. 458, comma 2, del codice di procedura penale](art-458-cpp.md), nella parte in cui non prevede che, in caso di rigetto della richiesta di giudizio abbreviato subordinata ad una integrazione probatoria, l'imputato possa rinnovare la richiesta prima della dichiarazione di apertura del dibattimento di primo grado e il giudice possa disporre il giudizio abbreviato".
 
-[^agg-211]: *AGGIORNAMENTO (211)* La Corte Costituzionale, con sentenza 12 - 22 gennaio 2015, n. 1 (in G.U. 1a s.s. 28/01/2015, n. 1), ha dichiarato "l'illegittimità costituzionale dell'[art. 458 del codice di procedura penale](art-458-cpp.md) e dell'art. 1, comma 1, del decreto del Presidente della Repubblica 22 settembre 1988, n. 448 (Approvazione delle disposizioni sul processo penale a carico di imputati minorenni), nella parte in cui prevedono che, nel processo minorile, nel caso di giudizio abbreviato richiesto dall'imputato in seguito a un decreto di giudizio immediato, la composizione dell'organo giudicante sia quella monocratica del giudice per le indagini preliminari e non quella collegiale prevista dall'art. 50-bis, comma 2, del regio decreto 30 gennaio 1941, n. 12 (Ordinamento giudiziario)".
+[^agg-211]: *AGGIORNAMENTO (211)* La Corte Costituzionale, con sentenza 12 - 22 gennaio 2015, n. 1 (in G.U. 1a s.s. 28/01/2015, n. 1), ha dichiarato "l'illegittimità costituzionale dell'[art. 458 del codice di procedura penale](art-458-cpp.md) e dell'[art. 1, comma 1, del decreto del Presidente della Repubblica 22 settembre 1988, n. 448](../../../Proc.%20Minorile%20%28DPR%20448-1988%20-%2022.09.1988%29/01%20-%20Capo%20I%20-%20DISPOSIZIONI%20GENERALI/art-1-dpr448-88.md) (Approvazione delle disposizioni sul processo penale a carico di imputati minorenni), nella parte in cui prevedono che, nel processo minorile, nel caso di giudizio abbreviato richiesto dall'imputato in seguito a un decreto di giudizio immediato, la composizione dell'organo giudicante sia quella monocratica del giudice per le indagini preliminari e non quella collegiale prevista dall'[art. 50-bis, comma 2, del regio decreto 30 gennaio 1941, n. 12](../../../R.D.%2012-1941%20-%2030.01.1941/02%20-%20Titolo%20II%20-%20DEI%20GIUDICI/03%20-%20Capo%20III%20-%20Dei%20tribunali/03%20-%20Sezione%20II%20-%20Del%20tribunale%20per%20i%20minorenni/art-50-bis-rd12-41.md) (Ordinamento giudiziario)".

@@ -14,8 +14,8 @@ capo_label: "DECISIONE"
 sezione: "II"
 sezione_label: "Sentenza di condanna"
 rubrica: "Condanna dell'imputato"
-dataVigenza: "20260914"
-ordine: 642
+dataVigenza: "20260930"
+ordine: 643
 ---
 
 # Art. 533 - ***Condanna dell'imputato***

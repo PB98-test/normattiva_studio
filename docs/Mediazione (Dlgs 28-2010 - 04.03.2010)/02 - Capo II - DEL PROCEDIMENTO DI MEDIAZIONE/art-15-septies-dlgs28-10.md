@@ -14,7 +14,7 @@ capo_label: "DEL PROCEDIMENTO DI MEDIAZIONE"
 sezione: null
 sezione_label: null
 rubrica: "Effetti dell'ammissione anticipata e sua conferma"
-dataVigenza: "20260925"
+dataVigenza: "20260930"
 ordine: 30
 ---
 
@@ -22,7 +22,7 @@ ordine: 30
 
 1\. L'ammissione anticipata al patrocinio è valida per l'intero procedimento di mediazione.
 
-2\. Le indennità di cui all'articolo 17, commi 3 e 4, non sono dovute dalla parte ammessa in via anticipata al patrocinio.
+2\. Le indennità di cui all'[articolo 17](../03%20-%20Capo%20III%20-%20ORGANISMI%20DI%20MEDIAZIONE%20ed%20enti%20di%20formazione/art-17-dlgs28-10.md), commi 3 e 4, non sono dovute dalla parte ammessa in via anticipata al patrocinio.
 
 3\. Quando è raggiunto l'accordo di conciliazione, l'ammissione è confermata, su istanza dell'avvocato, dal consiglio dell'ordine che ha deliberato l'ammissione anticipata, mediante apposizione del visto di congruità sulla parcella.
 

@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da Dlgs 231-2001 - 08.06.2001 ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Dlgs 231-2001 - 08.06.2001 — 39 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Dlgs 231-2001 - 08.06.2001 — 38 leggi trovate)*
 
 - [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const)
 - [articolo 14 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400)
@@ -24,7 +24,6 @@ search:
 - [L. 28 dicembre 2005, n. 262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-28;262)
 - [decreto legislativo 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1998-02-24;58)
 - [legge 3 agosto 2007, n. 123](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-08-03;123)
-- [articolo 6 del decreto legislativo 8 giugno 2001, n. 231](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2001-06-08;231)
 - [decreto legislativo 25 luglio 1998, n. 286](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1998-07-25;286)
 - [legge 22 aprile 1941, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-22;633)
 - [legge n. 633 del 1941](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941;633)

@@ -14,13 +14,13 @@ capo_label: "Delle controversie individuali di lavoro"
 sezione: "II"
 sezione_label: "Del procedimento Par. 1 Del procedimento di primo grado"
 rubrica: "Incompetenza del giudice"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 486
 ---
 
 # Art. 428 - ***Incompetenza del giudice***
 
-Quando una causa relativa ai rapporti di cui all'[articolo 409](../01%20-%20Sezione%20I%20-%20Disposizioni%20generali%29%29/art-409-cpc.md) sia stata proposta a giudice incompetente, l'incompetenza può essere eccepita dal convenuto soltanto nella memoria difensiva di cui all'[articolo 416](art-416-cpc.md) ovvero rilevata d'ufficio dal giudice non oltre l'udienza di cui all'[articolo 420](art-420-cpc.md).
+Quando una causa relativa ai rapporti di cui all'[articolo 409](../01%20-%20Sezione%20I%20-%20Disposizioni%20generali/art-409-cpc.md) sia stata proposta a giudice incompetente, l'incompetenza può essere eccepita dal convenuto soltanto nella memoria difensiva di cui all'[articolo 416](art-416-cpc.md) ovvero rilevata d'ufficio dal giudice non oltre l'udienza di cui all'[articolo 420](art-420-cpc.md).
 
 Quando l'incompetenza sia stata eccepita o rilevata ai sensi del comma precedente, il giudice rimette la causa al tribunale in funzione di giudice del lavoro, fissando un termine perentorio non superiore a trenta giorni per la riassunzione con rito speciale. [^agg-88] [^agg-90]
 

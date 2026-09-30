@@ -5,27 +5,23 @@ search:
 
 # Leggi citate da Codice di Procedura Civile ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Codice di Procedura Civile — 107 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Codice di Procedura Civile — 101 leggi trovate)*
 
 - [legge 30 dicembre 1923, n. 2814](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-12-30;2814)
 - [art. 3 della legge 2 dicembre 1925, n. 2260](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-12-02;2260)
-- [L. 4 dicembre 1992, n. 477](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-04;477)
-- [D.L. 7 ottobre 1994, n. 571](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:1994-10-07;571)
-- [L. 6 dicembre 1994, n. 673](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-06;673)
 - [D.L. 18 OTTOBRE 1995, N. 432](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:1995-10-18;432)
 - [L. 20 DICEMBRE 1995, N. 534](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-20;534)
 - [D.Lgs. 13 luglio 2017, n. 116](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2017-07-13;116)
 - [D.L. 8 agosto 2025, n. 117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2025-08-08;117)
 - [L. 3 ottobre 2025, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-10-03;148)
+- [D.L. 12 giugno 2026, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2026-06-12;100)
 - [D.L. 30 dicembre 2019, n. 162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2019-12-30;162)
 - [L. 28 febbraio 2020, n. 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-02-28;8)
-- [D.L. 12 settembre 2014, n. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2014-09-12;132)
 - [L. 10 novembre 2014, n. 162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-11-10;162)
 - [L. 26 novembre 2021, n. 206](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-11-26;206)
 - [L. 21 novembre 1991, n. 374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374)
 - [D.P.R. 17 ottobre 1950, n. 857](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-17;857)
 - [art. 2 della legge 14 luglio 1950, n. 581](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-07-14;581)
-- [regio decreto 16 marzo 1942, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regiodecreto:1942-03-16;267)
 - [legge 13 aprile 1988, n. 117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-04-13;117)
 - [legge 12 aprile 2019, n. 31](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-04-12;31)
 - [L. 22 luglio 1997, n. 276](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-07-22;276)
@@ -46,7 +42,6 @@ search:
 - [L. 25 luglio 1966, n. 571](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-07-25;571)
 - [D.L. 8 febbraio 2003, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2003-02-08;18)
 - [L. 7 aprile 2003, n. 63](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-04-07;63)
-- [artt. 22](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689)
 - [L. 12 novembre 2011, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011-11-12;183)
 - [regio decreto 18 dicembre 1941, n. 1368, nonchè l'articolo 196-duodecies](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regiodecreto:1941-12-18;1368)
 - [articoli 30](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967-01-05;200)
@@ -102,7 +97,6 @@ search:
 - [L. 16 febbraio 2000, n. 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-02-16;25)
 - [D.L. 18 ottobre 2000, n. 291](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2000-10-18;291)
 - [L. 14 dicembre 2000, n. 372](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-14;372)
-- [articolo 22 del decreto legislativo 21 novembre 2007, n. 231](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2007-11-21;231)
 - [D.Lgs. 9 ottobre 2002, n. 231](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2002-10-09;231)
 - [art. 2 della L. 10 maggio 1976, n. 358](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;358)
 - [D.L. 19 febbraio 2026, n. 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2026-02-19;19)

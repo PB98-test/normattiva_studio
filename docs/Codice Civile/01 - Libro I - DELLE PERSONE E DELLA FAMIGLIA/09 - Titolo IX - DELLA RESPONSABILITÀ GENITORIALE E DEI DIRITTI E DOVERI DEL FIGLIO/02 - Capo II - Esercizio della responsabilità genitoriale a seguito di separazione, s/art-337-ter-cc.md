@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 337-ter"
+title: "Art. 337-ter - Provvedimenti riguardo ai figli"
 articolo: "Art. 337-ter"
 codice: cc
 aliases:
@@ -13,14 +13,12 @@ capo: "II"
 capo_label: "Esercizio della responsabilità genitoriale a seguito di separazione, scioglimento, cessazione degli effetti civili, annullamento, nullità del matrimonio ovvero all'esito di procedimenti relativi ai figli nati fuori del matrimonio"
 sezione: null
 sezione_label: null
-rubrica: null
-dataVigenza: "20260914"
+rubrica: "Provvedimenti riguardo ai figli"
+dataVigenza: "20260930"
 ordine: 415
 ---
 
-# Art. 337-ter
-
-Provvedimenti riguardo ai figli
+# Art. 337-ter - ***Provvedimenti riguardo ai figli***
 
 Il figlio minore ha il diritto di mantenere un rapporto equilibrato e continuativo con ciascuno dei genitori, di ricevere cura, educazione, istruzione e assistenza morale da entrambi e di conservare rapporti significativi con gli ascendenti e con i parenti di ciascun ramo genitoriale.
 

@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 128"
+title: "Art. 128 - Matrimonio putativo"
 articolo: "Art. 128"
 codice: cc
 aliases:
@@ -13,14 +13,12 @@ capo: "III"
 capo_label: "Del matrimonio celebrato davanti all'ufficiale dello stato civile"
 sezione: "VI"
 sezione_label: "Della nullità del matrimonio"
-rubrica: null
-dataVigenza: "20260914"
+rubrica: "Matrimonio putativo"
+dataVigenza: "20260930"
 ordine: 160
 ---
 
-# Art. 128
-
-Matrimonio putativo.
+# Art. 128 - ***Matrimonio putativo***
 
 Se il matrimonio è dichiarato nullo, gli effetti del matrimonio valido si producono, in favore dei coniugi, fino alla sentenza che pronunzia la nullità, quando i coniugi stessi lo hanno contratto in buona fede, oppure quando il loro consenso è stato estorto con violenza o determinato da timore di eccezionale gravità derivante da cause esterne agli sposi.
 

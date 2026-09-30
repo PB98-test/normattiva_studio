@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 87-bis - (Disposizioni transitorie in materia di semplificazione delle attività di deposito di atti, documenti e istanze)."
+title: "Art. 87-bis - Disposizioni transitorie in materia di semplificazione delle attività di deposito di atti, documenti e istanze"
 articolo: "Art. 87-bis"
 codice: dlgs150-22
 aliases:
@@ -13,12 +13,12 @@ capo: null
 capo_label: null
 sezione: null
 sezione_label: null
-rubrica: "(Disposizioni transitorie in materia di semplificazione delle attività di deposito di atti, documenti e istanze)."
-dataVigenza: "20260928"
+rubrica: "Disposizioni transitorie in materia di semplificazione delle attività di deposito di atti, documenti e istanze"
+dataVigenza: "20260930"
 ordine: 89
 ---
 
-# Art. 87-bis - ***(Disposizioni transitorie in materia di semplificazione delle attività di deposito di atti, documenti e istanze).***
+# Art. 87-bis - ***Disposizioni transitorie in materia di semplificazione delle attività di deposito di atti, documenti e istanze***
 
 1\. Sino al quindicesimo giorno successivo alla pubblicazione dei regolamenti di cui ai commi 1 e 3 dell'[articolo 87](art-87-dlgs150-22.md), ovvero sino al diverso termine previsto dal regolamento di cui al comma 3 del medesimo articolo per gli uffici giudiziari e le tipologie di atti in esso indicati, per tutti gli atti, i documenti e le istanze comunque denominati diversi da quelli previsti nell'[articolo 87](art-87-dlgs150-22.md), comma 6-bis, e da quelli individuati ai sensi del comma 6-ter del medesimo articolo, è consentito il deposito con valore legale mediante invio dall'indirizzo di posta elettronica certificata inserito nel registro generale degli indirizzi elettronici di cui all'articolo 7 del regolamento di cui al decreto del Ministro della giustizia 21 febbraio 2011, n. 44. Il deposito con le modalità di cui al periodo precedente deve essere effettuato presso gli indirizzi di posta elettronica certificata degli uffici giudiziari destinatari, indicati in apposito provvedimento del Direttore generale per i sistemi informativi automatizzati, pubblicato nel portale dei servizi telematici del Ministero della giustizia. Con il medesimo provvedimento sono indicate le specifiche tecniche relative ai formati degli atti e alla sottoscrizione digitale e le ulteriori modalità di invio. Quando il messaggio di posta elettronica certificata eccede la dimensione massima stabilita nel provvedimento del Direttore generale per i sistemi informativi automatizzati di cui al presente comma, il deposito può essere eseguito mediante l'invio di più messaggi di posta elettronica certificata. Il deposito è tempestivo quando è eseguito entro le ore 24 del giorno di scadenza.
 

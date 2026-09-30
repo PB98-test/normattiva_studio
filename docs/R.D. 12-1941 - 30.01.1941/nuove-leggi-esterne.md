@@ -5,12 +5,10 @@ search:
 
 # Leggi citate da R.D. 12-1941 - 30.01.1941 ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di R.D. 12-1941 - 30.01.1941 — 112 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di R.D. 12-1941 - 30.01.1941 — 107 leggi trovate)*
 
 - [legge 24 dicembre 1925, n. 2260](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-12-24;2260)
 - [L. 21 novembre 1991, n. 374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374)
-- [D.L. 7 ottobre 1994, n. 571](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:1994-10-07;571)
-- [L. 6 dicembre 1994, n. 673](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-06;673)
 - [D.L. 15 maggio 1989, n. 173](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:1989-05-15;173)
 - [L. 11 luglio 1989, n. 251](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-07-11;251)
 - [art. 5, comma 1 della L. 1 febbraio 1989, n. 30](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-02-01;30)
@@ -20,10 +18,8 @@ search:
 - [legge 15 luglio 2011, n. 111](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011-07-15;111)
 - [articolo 19, comma 1, del decreto legislativo 5 aprile 2006, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2006-04-05;160)
 - [L. 30 LUGLIO 2007, N. 111](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-07-30;111)
-- [decreto legislativo 6 settembre 2011, n. 159](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2011-09-06;159)
 - [D.LGS. 28 MARZO 2024, N. 44](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2024-03-28;44)
 - [L. 16 dicembre 1999, n. 479](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-16;479)
-- [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regiodecreto:1941-01-30;12)
 - [L. 9 agosto 2024, n. 114](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-08-09;114)
 - [D.L. 8 agosto 2025, n. 117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2025-08-08;117)
 - [L. 3 ottobre 2025, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-10-03;148)
@@ -35,7 +31,6 @@ search:
 - [D.Lgs. 23 febbraio 2006, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2006-02-23;109)
 - [D.P.R. 16 settembre 1958, n. 916](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1958-09-16;916)
 - [articolo 2, comma 2, del regio decreto legislativo 31 maggio 1946, n. 511](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regiodecretolegislativo:1946-05-31;511)
-- [L. 4 dicembre 1992, n. 477 (con l'art. 1, comma 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-04;477)
 - [D.L. 4 luglio 2024, n. 92](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2024-07-04;92)
 - [legge 22 dicembre 1973, n. 884](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-12-22;884)
 - [articolo 1, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:1989-09-25;327)

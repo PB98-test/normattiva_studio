@@ -14,15 +14,13 @@ capo_label: "Dei delitti contro le confessioni religiose"
 sezione: null
 sezione_label: null
 rubrica: "Turbamento di funzioni religiose del culto di una confessione religiosa"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 488
 ---
 
 # Art. 405 - ***Turbamento di funzioni religiose del culto di una confessione religiosa***
 
-) )
-
-Chiunque impedisce o turba l'esercizio di funzioni, cerimonie o pratiche religiose ((del culto di una confessione religiosa, le quali si compiano con l'assistenza di un ministro del culto medesimo o in un luogo destinato al culto, o in un luogo pubblico o aperto al pubblico, è punito con la reclusione fino a due anni.
+Chiunque impedisce o turba l'esercizio di funzioni, cerimonie o pratiche religiose del culto di una confessione religiosa, le quali si compiano con l'assistenza di un ministro del culto medesimo o in un luogo destinato al culto, o in un luogo pubblico o aperto al pubblico, è punito con la reclusione fino a due anni.
 
 Se concorrono fatti di violenza alle persone o di minaccia, si applica la reclusione da uno a tre anni.   [^agg-185]
 

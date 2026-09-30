@@ -14,7 +14,7 @@ capo_label: "Informazioni antimafia"
 sezione: null
 sezione_label: null
 rubrica: "Misure amministrative di prevenzione collaborativa applicabili in caso di agevolazione occasionale"
-dataVigenza: "20260928"
+dataVigenza: "20260930"
 ordine: 107
 ---
 
@@ -34,6 +34,6 @@ ordine: 107
 
 4\. Alla scadenza del termine di durata delle misure di cui al presente articolo, il prefetto, ove accerti, sulla base delle analisi formulate dal gruppo interforze, il venir meno dell'agevolazione occasionale e l'assenza di altri tentativi di infiltrazione mafiosa, rilascia un'informazione antimafia liberatoria ed effettua le conseguenti iscrizioni nella banca dati nazionale unica della documentazione antimafia.
 
-5\. Le misure di cui al presente articolo sono annotate in un'apposita sezione della banca dati di cui all'articolo 96, a cui è precluso l'accesso ai soggetti privati sottoscrittori di accordi conclusi ai sensi dell'[articolo 83-bis](../01%20-%20Capo%20I%20-%20Disposizioni%20di%20carattere%20generale/art-83-bis-dlgs159-11.md), e sono comunicate dal prefetto alla cancelleria del tribunale competente per l'applicazione delle misure di prevenzione. [^agg-41]
+5\. Le misure di cui al presente articolo sono annotate in un'apposita sezione della banca dati di cui all'[articolo 96](../05%20-%20Capo%20V%20-%20Banca%20dati%20nazionale%20unica%20della%20documentazione%20antimafia/art-96-dlgs159-11.md), a cui è precluso l'accesso ai soggetti privati sottoscrittori di accordi conclusi ai sensi dell'[articolo 83-bis](../01%20-%20Capo%20I%20-%20Disposizioni%20di%20carattere%20generale/art-83-bis-dlgs159-11.md), e sono comunicate dal prefetto alla cancelleria del tribunale competente per l'applicazione delle misure di prevenzione. [^agg-41]
 
-[^agg-41]: *AGGIORNAMENTO (41)* Il D.L. 6 novembre 2021, n. 152, convertito con modificazioni dalla L. 29 dicembre 2021, n. 233, ha disposto (con l'[art. 49](../../01%20-%20Libro%20I%20-%20Le%20misure%20di%20prevenzione/03%20-%20Titolo%20III%20-%20L%27AMMINISTRAZIONE,%20LA%20GESTIONE%20E%20LA%20DESTINAZIONE%20DEI%20BENI%20SEQUESTRA/03%20-%20Capo%20III%20-%20La%20destinazione%20dei%20beni%20confiscati/art-49-dlgs159-11.md), comma 2) che "Le disposizioni dell'[articolo 94-bis](art-94-bis-dlgs159-11.md) del codice di cui al decreto legislativo 6 settembre 2011, n. 159, introdotto dal comma 1 del presente articolo, si applicano anche ai procedimenti amministrativi per i quali, alla data di entrata in vigore del presente decreto, è stato effettuato l'accesso alla banca dati nazionale unica della documentazione antimafia e non è stata ancora rilasciata l'informazione antimafia".
+[^agg-41]: *AGGIORNAMENTO (41)* Il D.L. 6 novembre 2021, n. 152, convertito con modificazioni dalla L. 29 dicembre 2021, n. 233, ha disposto (con l'[art. 49](../../01%20-%20Libro%20I%20-%20Le%20misure%20di%20prevenzione/03%20-%20Titolo%20III%20-%20L%27AMMINISTRAZIONE,%20LA%20GESTIONE%20E%20LA%20DESTINAZIONE%20DEI%20BENI%20SEQUESTRA/03%20-%20Capo%20III%20-%20La%20destinazione%20dei%20beni%20confiscati/art-49-dlgs159-11.md), comma 2) che "Le disposizioni dell'[articolo 94-bis](art-94-bis-dlgs159-11.md) del codice di cui al [decreto legislativo 6 settembre 2011, n. 159](../../00%20-%20Indice%20%28dlgs159-11%29.md), introdotto dal comma 1 del presente articolo, si applicano anche ai procedimenti amministrativi per i quali, alla data di entrata in vigore del presente decreto, è stato effettuato l'accesso alla banca dati nazionale unica della documentazione antimafia e non è stata ancora rilasciata l'informazione antimafia".

@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Presupposti del giudizio abbreviato"
-dataVigenza: "20260914"
-ordine: 532
+dataVigenza: "20260930"
+ordine: 533
 ---
 
 # Art. 438 - ***Presupposti del giudizio abbreviato***

@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Ordinanza per l'integrazione delle indagini"
-dataVigenza: "20260914"
-ordine: 514
+dataVigenza: "20260930"
+ordine: 515
 ---
 
 # Art. 421-bis - ***Ordinanza per l'integrazione delle indagini***

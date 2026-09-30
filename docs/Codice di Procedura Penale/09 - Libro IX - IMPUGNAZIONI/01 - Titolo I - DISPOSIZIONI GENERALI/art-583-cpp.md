@@ -15,8 +15,8 @@ sezione: null
 sezione_label: null
 rubrica: null
 abrogato: true
-dataVigenza: "20260914"
-ordine: 701
+dataVigenza: "20260930"
+ordine: 702
 ---
 
 # Art. 583 - *(Omissis)*

@@ -14,8 +14,8 @@ capo_label: "DISPOSIZIONI GENERALI"
 sezione: null
 sezione_label: null
 rubrica: "Disciplina dell'udienza"
-dataVigenza: "20260914"
-ordine: 575
+dataVigenza: "20260930"
+ordine: 576
 ---
 
 # Art. 470 - ***Disciplina dell'udienza***

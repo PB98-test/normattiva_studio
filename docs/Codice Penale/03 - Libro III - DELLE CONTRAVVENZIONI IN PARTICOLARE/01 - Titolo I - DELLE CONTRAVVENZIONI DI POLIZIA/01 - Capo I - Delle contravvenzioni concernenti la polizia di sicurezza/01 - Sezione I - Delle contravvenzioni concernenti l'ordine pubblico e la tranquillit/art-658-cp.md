@@ -14,8 +14,8 @@ capo_label: "Delle contravvenzioni concernenti la polizia di sicurezza"
 sezione: "I"
 sezione_label: "Delle contravvenzioni concernenti l'ordine pubblico e la tranquillità pubblica § 1 Delle contravvenzioni concernenti l'inosservanza dei provvedimenti di polizia e le manifestazioni sediziose e pericolose"
 rubrica: "Procurato allarme presso l'Autorità"
-dataVigenza: "20260914"
-ordine: 912
+dataVigenza: "20260930"
+ordine: 913
 ---
 
 # Art. 658 - ***Procurato allarme presso l'Autorità***

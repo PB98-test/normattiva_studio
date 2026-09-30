@@ -14,17 +14,17 @@ capo_label: "Dei delitti contro l'attività giudiziaria"
 sezione: null
 sezione_label: null
 rubrica: "False dichiarazioni al difensore"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 442
 ---
 
 # Art. 371-ter - ***False dichiarazioni al difensore***
 
-Nelle ipotesi previste dall'[articolo 391-bis, commi 1](../../../../Codice%20di%20Procedura%20Penale/05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/06%20-%20Titolo%20VI%20-%20ARRESTO%20IN%20FLAGRANZA%20E%20FERMO/art-391-cpp.md) e [2, del codice di procedura penale](../../../../Codice%20di%20Procedura%20Penale/05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/06%20-%20Titolo%20VI%20-%20ARRESTO%20IN%20FLAGRANZA%20E%20FERMO/art-391-cpp.md), chiunque, non essendosi avvalso della facoltà di cui alla lettera d) del comma 3 del medesimo articolo, rende dichiarazioni false è punito con la reclusione fino a quattro anni.
+Nelle ipotesi previste dall'[articolo 391-bis, commi 1](../../../../Codice%20di%20Procedura%20Penale/05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/06%20-%20Titolo%20VI%20-%20ARRESTO%20IN%20FLAGRANZA%20E%20FERMO/art-391-bis-cpp.md) e [2, del codice di procedura penale](../../../../Codice%20di%20Procedura%20Penale/05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/06%20-%20Titolo%20VI%20-%20ARRESTO%20IN%20FLAGRANZA%20E%20FERMO/art-391-bis-cpp.md), chiunque, non essendosi avvalso della facoltà di cui alla lettera d) del comma 3 del medesimo articolo, rende dichiarazioni false è punito con la reclusione fino a quattro anni.
 
 Il procedimento penale resta sospeso fino a quando nel procedimento nel corso del quale sono state assunte le dichiarazioni sia stata pronunciata sentenza di primo grado ovvero il procedimento sia stato anteriormente definito con archiviazione o con sentenza di non luogo a procedere.
 
-Nelle ipotesi previste dall'articolo 4-bis del decreto-legge 12 settembre 2014, n. 132, convertito, con modificazioni, dall'articolo 1, comma 1, della legge 10 novembre 2014, n. 162, chiunque, non essendosi avvalso della facoltà di cui al comma 2, lettere b) e c), del medesimo articolo, rende dichiarazioni false è punito con la pena prevista dal primo comma. [^agg-326] [^agg-330]
+Nelle ipotesi previste dall'[articolo 4-bis del decreto-legge 12 settembre 2014, n. 132](../../../../Negoziazione%20assistita%20%28Dl%20132-2014%20-%2012.09.2014%29/02%20-%20Capo%20II%20-%20Procedura%20di%20negoziazione%20assistita%20da%20...%20avvocati/01%20-%20Sezione%20I%20-%20Della%20procedura%20di%20negoziazione%20assistita/art-4-bis-dl132-14.md), convertito, con modificazioni, dall'articolo 1, comma 1, della legge 10 novembre 2014, n. 162, chiunque, non essendosi avvalso della facoltà di cui al comma 2, lettere b) e c), del medesimo articolo, rende dichiarazioni false è punito con la pena prevista dal primo comma. [^agg-326] [^agg-330]
 
 Il procedimento penale resta sospeso fino alla conclusione della procedura di negoziazione assistita nel corso della quale sono state acquisite le dichiarazioni ovvero fino a quando sia stata pronunciata sentenza di primo grado nel giudizio successivamente instaurato, nel quale una delle parti si sia avvalsa della facoltà di cui all'articolo 4-bis, comma 6, del decreto-legge n. 132 del 2014, convertito con modificazioni, dall'articolo 1, comma 1, della legge n. 162 del 2014, ovvero fino a quando tale giudizio sia dichiarato estinto. [^agg-326] [^agg-330]
 

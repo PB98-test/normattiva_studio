@@ -14,8 +14,8 @@ capo_label: "ISTRUZIONE DIBATTIMENTALE"
 sezione: null
 sezione_label: null
 rubrica: "Lettura delle dichiarazioni rese dall'imputato nel corso delle indagini preliminari o nell'udienza preliminare"
-dataVigenza: "20260914"
-ordine: 621
+dataVigenza: "20260930"
+ordine: 622
 ---
 
 # Art. 513 - ***Lettura delle dichiarazioni rese dall'imputato nel corso delle indagini preliminari o nell'udienza preliminare***

@@ -14,8 +14,8 @@ capo_label: "SENTENZA"
 sezione: null
 sezione_label: null
 rubrica: "Decisioni delle sezioni unite"
-dataVigenza: "20260914"
-ordine: 740
+dataVigenza: "20260930"
+ordine: 741
 ---
 
 # Art. 618 - ***Decisioni delle sezioni unite***

@@ -14,7 +14,7 @@ capo_label: "Ambito di applicazione e definizioni"
 sezione: null
 sezione_label: null
 rubrica: "Ambito di applicazione"
-dataVigenza: "20260925"
+dataVigenza: "20260930"
 ordine: 1
 ---
 
@@ -25,7 +25,7 @@ ordine: 1
 2\. Sono fatte salve le disposizioni delle leggi speciali in materia di:
 
 - a) amministrazione straordinaria delle grandi imprese. Se la crisi o l'insolvenza di dette imprese non sono disciplinate in via esclusiva, restano applicabili anche le procedure ordinarie regolate dal presente codice;
-- b) liquidazione coatta amministrativa ai sensi dell'articolo 293.
+- b) liquidazione coatta amministrativa ai sensi dell'[articolo 293](../../06%20-%20Titolo%20VII%20-%20LIQUIDAZIONE%20COATTA%20AMMINISTRATIVA/01%20-%20Capo%20I%20-%20Natura%20e%20norme%20applicabili/art-293-dlgs14-19.md).
 
 3\. Sono fatte salve le disposizioni delle leggi speciali in materia di crisi di impresa delle società pubbliche.
 

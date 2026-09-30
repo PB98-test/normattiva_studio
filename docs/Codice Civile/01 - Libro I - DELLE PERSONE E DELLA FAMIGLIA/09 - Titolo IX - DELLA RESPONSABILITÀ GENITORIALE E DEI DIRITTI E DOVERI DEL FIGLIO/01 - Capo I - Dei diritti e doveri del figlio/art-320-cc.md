@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 320"
+title: "Art. 320 - Rappresentanza e amministrazione"
 articolo: "Art. 320"
 codice: cc
 aliases:
@@ -13,14 +13,12 @@ capo: "I"
 capo_label: "Dei diritti e doveri del figlio"
 sezione: null
 sezione_label: null
-rubrica: null
-dataVigenza: "20260914"
+rubrica: "Rappresentanza e amministrazione"
+dataVigenza: "20260930"
 ordine: 395
 ---
 
-# Art. 320
-
-Rappresentanza e amministrazione.
+# Art. 320 - ***Rappresentanza e amministrazione***
 
 I genitori congiuntamente, o quello di essi che esercita in via esclusiva la responsabilità genitoriale, rappresentano i figli nati e nascituri, fino alla maggiore età o all'emancipazione, in tutti gli atti civili e ne amministrano i beni. Gli atti di ordinaria amministrazione, esclusi i contratti con i quali si concedono o si acquistano diritti personali di godimento, possono essere compiuti disgiuntamente da ciascun genitore.
 

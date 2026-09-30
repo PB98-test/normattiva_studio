@@ -14,7 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Clausola di invarianza finanziaria"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
+ordine: 8
 ---
 
 # Art. 8 - ***Clausola di invarianza finanziaria***

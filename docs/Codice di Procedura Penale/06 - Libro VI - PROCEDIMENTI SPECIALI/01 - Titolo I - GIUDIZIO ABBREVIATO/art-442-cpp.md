@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Decisione"
-dataVigenza: "20260914"
-ordine: 537
+dataVigenza: "20260930"
+ordine: 538
 ---
 
 # Art. 442 - ***Decisione***
@@ -28,7 +28,7 @@ ordine: 537
 
 2-bis. Quando nè l'imputato, nè il suo difensore hanno proposto impugnazione contro la sentenza di condanna, la pena inflitta è ulteriormente ridotta di un sesto dal giudice dell'esecuzione. [^agg-328]
 
-3\. COMMA ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 150.
+3\. COMMA ABROGATO DAL [D.LGS. 10 OTTOBRE 2022, N. 150](../../../Cartabia%20%28Dlgs%20150-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs150-22%29.md).
 
 4\. Si applica la disposizione dell'[articolo 426](../../05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/09%20-%20Titolo%20IX%20-%20UDIENZA%20PRELIMINARE/art-426-cpp.md) comma 2. [^agg-17] [^agg-30]
 

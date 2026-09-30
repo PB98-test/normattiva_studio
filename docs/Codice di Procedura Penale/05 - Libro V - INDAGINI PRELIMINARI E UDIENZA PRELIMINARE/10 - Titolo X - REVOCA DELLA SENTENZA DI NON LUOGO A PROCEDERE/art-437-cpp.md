@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Ricorso per cassazione"
-dataVigenza: "20260914"
-ordine: 531
+dataVigenza: "20260930"
+ordine: 532
 ---
 
 # Art. 437 - ***Ricorso per cassazione***

@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 8 - (Durata massima delle misure protettive)."
+title: "Art. 8 - Durata massima delle misure protettive"
 articolo: "Art. 8"
 codice: dlgs14-19
 aliases:
@@ -13,11 +13,11 @@ capo: "II"
 capo_label: "Principi generali"
 sezione: "III"
 sezione_label: "Principi di carattere processuale"
-rubrica: "(Durata massima delle misure protettive)."
-dataVigenza: "20260925"
+rubrica: "Durata massima delle misure protettive"
+dataVigenza: "20260930"
 ordine: 9
 ---
 
-# Art. 8 - ***(Durata massima delle misure protettive).***
+# Art. 8 - ***Durata massima delle misure protettive***
 
-1\. 1. La durata complessiva delle misure protettive, fino alla omologazione dello strumento di regolazione della crisi e dell'insolvenza o alla apertura della procedura di insolvenza, non può superare il periodo, anche non continuativo, di dodici mesi, inclusi eventuali rinnovi o proroghe, tenuto conto delle misure protettive di cui all'articolo 18
+1\. 1. La durata complessiva delle misure protettive, fino alla omologazione dello strumento di regolazione della crisi e dell'insolvenza o alla apertura della procedura di insolvenza, non può superare il periodo, anche non continuativo, di dodici mesi, inclusi eventuali rinnovi o proroghe, tenuto conto delle misure protettive di cui all'[articolo 18](../../01%20-%20Capo%20I%20-%20%28Composizione%20negoziata%20della%20crisi%29/art-18-dlgs14-19.md)

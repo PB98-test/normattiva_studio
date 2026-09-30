@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Facoltà dei difensori"
-dataVigenza: "20260914"
-ordine: 571
+dataVigenza: "20260930"
+ordine: 572
 ---
 
 # Art. 466 - ***Facoltà dei difensori***

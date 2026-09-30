@@ -14,7 +14,7 @@ capo_label: "Dell'impresa in generale"
 sezione: "III"
 sezione_label: "Del rapporto di lavoro § 1 Della costituzione del rapporto di lavoro"
 rubrica: "Mantenimento dei diritti dei lavoratori in caso di trasferimento d'azienda"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 2233
 ---
 
@@ -22,7 +22,7 @@ ordine: 2233
 
 In caso di trasferimento d'azienda, il rapporto di lavoro continua con il cessionario ed il lavoratore conserva tutti i diritti che ne derivano.
 
-Il cedente ed il cessionario sono obbligati, in solido, per tutti i crediti che il lavoratore aveva al tempo del trasferimento. Con le procedure di cui agli [articoli 410](../../../../../Codice%20di%20Procedura%20Civile/02%20-%20Libro%20II%20-%20DEL%20PROCESSO%20DI%20COGNIZIONE/04%20-%20Titolo%20IV%20-%20NORME%20PER%20LE%20CONTROVERSIE%20IN%20MATERIA%20DI%20LAVORO/01%20-%20Capo%20I%20-%20Delle%20controversie%20individuali%20di%20lavoro/01%20-%20Sezione%20I%20-%20Disposizioni%20generali%29%29/art-410-cpc.md) e [411 del codice di procedura civile](../../../../../Codice%20di%20Procedura%20Civile/02%20-%20Libro%20II%20-%20DEL%20PROCESSO%20DI%20COGNIZIONE/04%20-%20Titolo%20IV%20-%20NORME%20PER%20LE%20CONTROVERSIE%20IN%20MATERIA%20DI%20LAVORO/01%20-%20Capo%20I%20-%20Delle%20controversie%20individuali%20di%20lavoro/01%20-%20Sezione%20I%20-%20Disposizioni%20generali%29%29/art-411-cpc.md) il lavoratore può consentire la liberazione del cedente dalle obbligazioni derivanti dal rapporto di lavoro.
+Il cedente ed il cessionario sono obbligati, in solido, per tutti i crediti che il lavoratore aveva al tempo del trasferimento. Con le procedure di cui agli [articoli 410](../../../../../Codice%20di%20Procedura%20Civile/02%20-%20Libro%20II%20-%20DEL%20PROCESSO%20DI%20COGNIZIONE/04%20-%20Titolo%20IV%20-%20NORME%20PER%20LE%20CONTROVERSIE%20IN%20MATERIA%20DI%20LAVORO/01%20-%20Capo%20I%20-%20Delle%20controversie%20individuali%20di%20lavoro/01%20-%20Sezione%20I%20-%20Disposizioni%20generali/art-410-cpc.md) e [411 del codice di procedura civile](../../../../../Codice%20di%20Procedura%20Civile/02%20-%20Libro%20II%20-%20DEL%20PROCESSO%20DI%20COGNIZIONE/04%20-%20Titolo%20IV%20-%20NORME%20PER%20LE%20CONTROVERSIE%20IN%20MATERIA%20DI%20LAVORO/01%20-%20Capo%20I%20-%20Delle%20controversie%20individuali%20di%20lavoro/01%20-%20Sezione%20I%20-%20Disposizioni%20generali/art-411-cpc.md) il lavoratore può consentire la liberazione del cedente dalle obbligazioni derivanti dal rapporto di lavoro.
 
 Il cessionario è tenuto ad applicare i trattamenti economici e normativi previsti dai contratti collettivi nazionali, territoriali ed aziendali vigenti alla data del trasferimento, fino alla loro scadenza, salvo che siano sostituiti da altri contratti collettivi applicabili all'impresa del cessionario. L'effetto di sostituzione si produce esclusivamente fra contratti collettivi del medesimo livello.
 

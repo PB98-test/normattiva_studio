@@ -14,8 +14,8 @@ capo_label: "NUOVE CONTESTAZIONI"
 sezione: null
 sezione_label: null
 rubrica: "Reato concorrente e circostanze aggravanti risultanti dal dibattimento"
-dataVigenza: "20260914"
-ordine: 625
+dataVigenza: "20260930"
+ordine: 626
 ---
 
 # Art. 517 - ***Reato concorrente e circostanze aggravanti risultanti dal dibattimento***

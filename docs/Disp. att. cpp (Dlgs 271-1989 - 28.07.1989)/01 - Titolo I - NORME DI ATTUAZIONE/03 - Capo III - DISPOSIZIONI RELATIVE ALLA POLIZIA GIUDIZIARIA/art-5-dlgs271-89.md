@@ -14,10 +14,10 @@ capo_label: "DISPOSIZIONI RELATIVE ALLA POLIZIA GIUDIZIARIA"
 sezione: null
 sezione_label: null
 rubrica: "Composizione delle sezioni di polizia giudiziaria"
-dataVigenza: "20260925"
+dataVigenza: "20260930"
 ordine: 8
 ---
 
 # Art. 5 - ***Composizione delle sezioni di polizia giudiziaria***
 
-1\. Le sezioni di polizia giudiziaria sono composte dagli ufficiali e dagli agenti di polizia giudiziaria della polizia di Stato, dell'arma dei carabinieri e del corpo della guardia di finanza nonchè del Corpo forestale dello Stato.   2. Quando lo richiedono particolari esigenze di specializzazione dell'attività di polizia giudiziaria, su richiesta del procuratore generale presso la corte di appello e del procuratore della Repubblica interessato, possono essere applicati presso le sezioni, con provvedimento delle amministrazioni di appartenenza, ufficiali e agenti di polizia giudiziaria di altri organi. Si osservano le disposizioni dell'articolo 8 in quanto applicabili.   3. Al personale indicato nel comma 2 si applicano le disposizioni dell'articolo 10.
+1\. Le sezioni di polizia giudiziaria sono composte dagli ufficiali e dagli agenti di polizia giudiziaria della polizia di Stato, dell'arma dei carabinieri e del corpo della guardia di finanza nonchè del Corpo forestale dello Stato.   2. Quando lo richiedono particolari esigenze di specializzazione dell'attività di polizia giudiziaria, su richiesta del procuratore generale presso la corte di appello e del procuratore della Repubblica interessato, possono essere applicati presso le sezioni, con provvedimento delle amministrazioni di appartenenza, ufficiali e agenti di polizia giudiziaria di altri organi. Si osservano le disposizioni dell'[articolo 8](art-8-dlgs271-89.md) in quanto applicabili.   3. Al personale indicato nel comma 2 si applicano le disposizioni dell'[articolo 10](art-10-dlgs271-89.md).

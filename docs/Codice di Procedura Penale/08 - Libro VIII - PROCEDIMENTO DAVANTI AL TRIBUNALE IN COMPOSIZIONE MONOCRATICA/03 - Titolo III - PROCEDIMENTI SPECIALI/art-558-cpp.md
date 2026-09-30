@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Convalida dell'arresto e giudizio direttissimo"
-dataVigenza: "20260914"
-ordine: 673
+dataVigenza: "20260930"
+ordine: 674
 ---
 
 # Art. 558 - ***Convalida dell'arresto e giudizio direttissimo***

@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 565"
+title: "Art. 565 - Categorie dei successibili"
 articolo: "Art. 565"
 codice: cc
 aliases:
@@ -13,14 +13,12 @@ capo: null
 capo_label: null
 sezione: null
 sezione_label: null
-rubrica: null
-dataVigenza: "20260914"
+rubrica: "Categorie dei successibili"
+dataVigenza: "20260930"
 ordine: 652
 ---
 
-# Art. 565
-
-Categorie dei successibili.
+# Art. 565 - ***Categorie dei successibili***
 
 Nella successione legittima l'eredità si devolve al coniuge, ai discendenti ..., agli ascendenti ..., ai collaterali, agli altri parenti e allo Stato, nell'ordine e secondo le regole stabilite nel presente titolo. [^agg-48a] [^agg-73]
 

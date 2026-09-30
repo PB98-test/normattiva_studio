@@ -14,8 +14,8 @@ capo_label: "DECISIONE"
 sezione: "II"
 sezione_label: "Sentenza di condanna"
 rubrica: "Condanna del civilmente obbligato per la pena pecuniaria"
-dataVigenza: "20260914"
-ordine: 643
+dataVigenza: "20260930"
+ordine: 644
 ---
 
 # Art. 534 - ***Condanna del civilmente obbligato per la pena pecuniaria***

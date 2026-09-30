@@ -14,8 +14,8 @@ capo_label: "GIUDICE DELL'ESECUZIONE"
 sezione: null
 sezione_label: null
 rubrica: "Dubbio sull'identità fisica della persona detenuta"
-dataVigenza: "20260914"
-ordine: 797
+dataVigenza: "20260930"
+ordine: 798
 ---
 
 # Art. 667 - ***Dubbio sull'identità fisica della persona detenuta***

@@ -14,8 +14,8 @@ capo_label: "DISPOSIZIONI GENERALI"
 sezione: null
 sezione_label: null
 rubrica: "Reati commessi in udienza"
-dataVigenza: "20260914"
-ordine: 581
+dataVigenza: "20260930"
+ordine: 582
 ---
 
 # Art. 476 - ***Reati commessi in udienza***

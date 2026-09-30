@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 262"
+title: "Art. 262 - Cognome del figlio nato fuori del matrimonio"
 articolo: "Art. 262"
 codice: cc
 aliases:
@@ -13,14 +13,12 @@ capo: "IV"
 capo_label: "Del riconoscimento dei figli nati fuori dal matrimonio"
 sezione: null
 sezione_label: null
-rubrica: null
-dataVigenza: "20260914"
+rubrica: "Cognome del figlio nato fuori del matrimonio"
+dataVigenza: "20260930"
 ordine: 307
 ---
 
-# Art. 262
-
-Cognome del figlio nato fuori del matrimonio.
+# Art. 262 - ***Cognome del figlio nato fuori del matrimonio***
 
 Il figlio assume il cognome del genitore che per primo lo ha riconosciuto. Se il riconoscimento è stato effettuato contemporaneamente da entrambi i genitori il figlio assume il cognome del padre. [^agg-263] [^agg-317]
 

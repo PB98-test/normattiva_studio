@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 10-ter - (Disposizioni per il settore agroalimentare)."
+title: "Art. 10-ter - Disposizioni per il settore agroalimentare"
 articolo: "Art. 10-ter"
 codice: dl35-05
 aliases:
@@ -13,12 +13,12 @@ capo: "VI"
 capo_label: "RAFFORZAMENTO DELLA BASE PRODUTTIVA"
 sezione: null
 sezione_label: null
-rubrica: "(Disposizioni per il settore agroalimentare)."
-dataVigenza: "20260914"
+rubrica: "Disposizioni per il settore agroalimentare"
+dataVigenza: "20260930"
 ordine: 21
 ---
 
-# Art. 10-ter - ***(Disposizioni per il settore agroalimentare).***
+# Art. 10-ter - ***Disposizioni per il settore agroalimentare***
 
 1\. Ferme restando le competenze di approvazione del CIPE, il Ministero delle politiche agricole e forestali, con uno o più decreti, può affidare all'Istituto per lo Sviluppo Agroalimentare (ISA) S.p.a. le funzioni relative alla valutazione, ammissione e gestione dei contratti di filiera di cui all'articolo 66, commi 1 e 2, della legge 27 dicembre 2002, n. 289, e successive modificazioni, e al decreto del Ministro delle politiche agricole e forestali del 1° agosto 2003, pubblicato nella Gazzetta Ufficiale n. 226 del 29 settembre 2003. All'ISA S.p.a. è riconosciuto, a valere sulle risorse destinate ai contratti di filiera, il rimborso delle spese di gestione per lo svolgimento delle predette attività, da stabilire con atto convenzionale stipulato tra la stessa società ed il Ministero delle politiche agricole e forestali.
 

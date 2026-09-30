@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Proroga dei termini"
-dataVigenza: "20260914"
-ordine: 489
+dataVigenza: "20260930"
+ordine: 490
 ---
 
 # Art. 406 - ***Proroga dei termini***
@@ -24,9 +24,9 @@ ordine: 489
 
 2\. La proroga può essere autorizzata per una sola volta e per un tempo non superiore a sei mesi.
 
-2-bis. COMMA ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 150.
+2-bis. COMMA ABROGATO DAL [D.LGS. 10 OTTOBRE 2022, N. 150](../../../Cartabia%20%28Dlgs%20150-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs150-22%29.md).
 
-2-ter. COMMA ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 150.
+2-ter. COMMA ABROGATO DAL [D.LGS. 10 OTTOBRE 2022, N. 150](../../../Cartabia%20%28Dlgs%20150-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs150-22%29.md).
 
 3\. La richiesta di proroga, è notificata, a cura del giudice, con l'avviso della facoltà di presentare memorie entro cinque giorni dalla notificazione, alla persona sottoposta alle indagini nonchè alla persona offesa dal reato che, nella notizia di reato o successivamente alla sua presentazione, abbia dichiarato di volere esserne informata. Il giudice provvede entro dieci giorni dalla scadenza del termine per la presentazione delle memorie.
 

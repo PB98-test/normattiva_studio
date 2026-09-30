@@ -14,13 +14,13 @@ capo_label: "Disposizioni relative al tribunale ordinario"
 sezione: null
 sezione_label: null
 rubrica: null
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 8
 ---
 
 # Art. 8
 
-1\. Dopo l'[articolo 42](../06%20-%20Capo%20VII%20-%20Norme%20di%20coordinamento%20e%20transitorie/06%20-%20Sezione%20V%20-%20Disposizioni%20per%20la%20definizione%20dei%20procedimenti%20pendenti/art-42-dlgs51-98.md) del regio decreto 30 gennaio 1941, n. 12 sono inseriti i seguenti: "Art. 42-bis. (Composizione dell'ufficio del tribunale ordinario). - Il tribunale ordinario è diretto dal presidente del tribunale e ad esso sono addetti più giudici. Al tribunale ordinario possono essere addetti uno o più presidenti di sezione. Al tribunale ordinario possono essere addetti giudici onorari. Art. 42-ter. (Nomina dei giudici onorari di tribunale). - I giudici onorari di tribunale sono nominati con decreto del Ministro di grazia e giustizia, in conformità della deliberazione del Consiglio superiore della magistratura, su proposta del consiglio giudiziario competente per territorio nella composizione prevista dall'articolo 4, comma 1, della legge 21 novembre 1991, n. 374. Per la nomina è richiesto il possesso dei seguenti requisiti:
+1\. Dopo l'[articolo 42 del regio decreto 30 gennaio 1941, n. 12](../../../R.D.%2012-1941%20-%2030.01.1941/02%20-%20Titolo%20II%20-%20DEI%20GIUDICI/03%20-%20Capo%20III%20-%20Dei%20tribunali/01%20-%20Sezione%20I%20-%20Del%20tribunale%20ordinario/art-42-rd12-41.md) sono inseriti i seguenti: "Art. 42-bis. (Composizione dell'ufficio del tribunale ordinario). - Il tribunale ordinario è diretto dal presidente del tribunale e ad esso sono addetti più giudici. Al tribunale ordinario possono essere addetti uno o più presidenti di sezione. Al tribunale ordinario possono essere addetti giudici onorari. Art. 42-ter. (Nomina dei giudici onorari di tribunale). - I giudici onorari di tribunale sono nominati con decreto del Ministro di grazia e giustizia, in conformità della deliberazione del Consiglio superiore della magistratura, su proposta del consiglio giudiziario competente per territorio nella composizione prevista dall'articolo 4, comma 1, della legge 21 novembre 1991, n. 374. Per la nomina è richiesto il possesso dei seguenti requisiti:
 
 - a) cittadinanza italiana;
 - b) esercizio dei diritti civili e politici;

@@ -14,8 +14,8 @@ capo_label: "Delle contravvenzioni concernenti la polizia di sicurezza"
 sezione: "I"
 sezione_label: "Delle contravvenzioni concernenti l'ordine pubblico e la tranquillità pubblica § 1 Delle contravvenzioni concernenti l'inosservanza dei provvedimenti di polizia e le manifestazioni sediziose e pericolose"
 rubrica: "Rifiuto d'indicazioni sulla propria identità personale"
-dataVigenza: "20260914"
-ordine: 905
+dataVigenza: "20260930"
+ordine: 906
 ---
 
 # Art. 651 - ***Rifiuto d'indicazioni sulla propria identità personale***

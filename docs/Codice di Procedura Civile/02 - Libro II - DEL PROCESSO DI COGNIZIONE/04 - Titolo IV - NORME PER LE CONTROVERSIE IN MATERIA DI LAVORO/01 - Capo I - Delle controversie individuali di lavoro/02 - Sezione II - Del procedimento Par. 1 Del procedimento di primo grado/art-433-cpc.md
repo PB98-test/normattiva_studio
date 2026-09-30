@@ -14,13 +14,13 @@ capo_label: "Delle controversie individuali di lavoro"
 sezione: "II"
 sezione_label: "Del procedimento Par. 1 Del procedimento di primo grado"
 rubrica: "Giudice d'appello"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 491
 ---
 
 # Art. 433 - ***Giudice d'appello***
 
-L'appello contro le sentenze pronunciate nei processi relativi alle controversie previste nell'[articolo 409](../01%20-%20Sezione%20I%20-%20Disposizioni%20generali%29%29/art-409-cpc.md) deve essere proposto con ricorso davanti alla corte di appello territorialmente competente in funzione di giudice del lavoro. [^agg-88] [^agg-90]
+L'appello contro le sentenze pronunciate nei processi relativi alle controversie previste nell'[articolo 409](../01%20-%20Sezione%20I%20-%20Disposizioni%20generali/art-409-cpc.md) deve essere proposto con ricorso davanti alla corte di appello territorialmente competente in funzione di giudice del lavoro. [^agg-88] [^agg-90]
 
 Ove l'esecuzione sia iniziata, prima della notificazione della sentenza, l'appello può essere proposto con riserva dei motivi che dovranno essere presentati nel termine di cui all'[articolo 434](art-434-cpc.md).
 

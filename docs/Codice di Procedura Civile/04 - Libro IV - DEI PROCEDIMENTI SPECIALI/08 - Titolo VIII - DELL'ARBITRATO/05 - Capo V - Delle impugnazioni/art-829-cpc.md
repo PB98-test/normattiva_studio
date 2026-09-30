@@ -14,7 +14,7 @@ capo_label: "Delle impugnazioni"
 sezione: null
 sezione_label: null
 rubrica: "Casi di nullità"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 1026
 ---
 
@@ -40,7 +40,7 @@ L'impugnazione per violazione delle regole di diritto relative al merito della c
 
 L'impugnazione per violazione delle regole di diritto relative al merito della controversia è sempre ammessa:
 
-- 1) nelle controversie previste dall'[articolo 409](../../../02%20-%20Libro%20II%20-%20DEL%20PROCESSO%20DI%20COGNIZIONE/04%20-%20Titolo%20IV%20-%20NORME%20PER%20LE%20CONTROVERSIE%20IN%20MATERIA%20DI%20LAVORO/01%20-%20Capo%20I%20-%20Delle%20controversie%20individuali%20di%20lavoro/01%20-%20Sezione%20I%20-%20Disposizioni%20generali%29%29/art-409-cpc.md);
+- 1) nelle controversie previste dall'[articolo 409](../../../02%20-%20Libro%20II%20-%20DEL%20PROCESSO%20DI%20COGNIZIONE/04%20-%20Titolo%20IV%20-%20NORME%20PER%20LE%20CONTROVERSIE%20IN%20MATERIA%20DI%20LAVORO/01%20-%20Capo%20I%20-%20Delle%20controversie%20individuali%20di%20lavoro/01%20-%20Sezione%20I%20-%20Disposizioni%20generali/art-409-cpc.md);
 - 2) se la violazione delle regole di diritto concerne la soluzione di questione pregiudiziale su materia che non può essere oggetto di convenzione di arbitrato.
 
-Nelle controversie previste dall'[articolo 409](../../../02%20-%20Libro%20II%20-%20DEL%20PROCESSO%20DI%20COGNIZIONE/04%20-%20Titolo%20IV%20-%20NORME%20PER%20LE%20CONTROVERSIE%20IN%20MATERIA%20DI%20LAVORO/01%20-%20Capo%20I%20-%20Delle%20controversie%20individuali%20di%20lavoro/01%20-%20Sezione%20I%20-%20Disposizioni%20generali%29%29/art-409-cpc.md), il lodo è soggetto ad impugnazione anche per violazione dei contratti e accordi collettivi.
+Nelle controversie previste dall'[articolo 409](../../../02%20-%20Libro%20II%20-%20DEL%20PROCESSO%20DI%20COGNIZIONE/04%20-%20Titolo%20IV%20-%20NORME%20PER%20LE%20CONTROVERSIE%20IN%20MATERIA%20DI%20LAVORO/01%20-%20Capo%20I%20-%20Delle%20controversie%20individuali%20di%20lavoro/01%20-%20Sezione%20I%20-%20Disposizioni%20generali/art-409-cpc.md), il lodo è soggetto ad impugnazione anche per violazione dei contratti e accordi collettivi.

@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 32-bis - (Svolgimento del giudizio a presentazione immediata)."
+title: "Art. 32-bis - Svolgimento del giudizio a presentazione immediata"
 articolo: "Art. 32-bis"
 codice: dlgs274-00
 aliases:
@@ -13,12 +13,12 @@ capo: "IV"
 capo_label: "Giudizio"
 sezione: null
 sezione_label: null
-rubrica: "(Svolgimento del giudizio a presentazione immediata)."
-dataVigenza: "20260928"
+rubrica: "Svolgimento del giudizio a presentazione immediata"
+dataVigenza: "20260930"
 ordine: 35
 ---
 
-# Art. 32-bis - ***(Svolgimento del giudizio a presentazione immediata).***
+# Art. 32-bis - ***Svolgimento del giudizio a presentazione immediata***
 
 1\. Nel corso del giudizio a presentazione immediata di cui agli [articoli 20-bis](../03%20-%20Capo%20III%20-%20Citazione%20a%20giudizio/art-20-bis-dlgs274-00.md) e [20-ter](../03%20-%20Capo%20III%20-%20Citazione%20a%20giudizio/art-20-ter-dlgs274-00.md) si osservano le disposizioni dell'[articolo 32](art-32-dlgs274-00.md).
 

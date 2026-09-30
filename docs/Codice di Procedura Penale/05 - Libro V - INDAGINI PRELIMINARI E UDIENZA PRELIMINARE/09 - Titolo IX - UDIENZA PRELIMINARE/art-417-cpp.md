@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Requisiti formali della richiesta di rinvio a giudizio"
-dataVigenza: "20260914"
-ordine: 504
+dataVigenza: "20260930"
+ordine: 505
 ---
 
 # Art. 417 - ***Requisiti formali della richiesta di rinvio a giudizio***

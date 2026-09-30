@@ -14,8 +14,8 @@ capo_label: "DECISIONE"
 sezione: "III"
 sezione_label: "Decisione sulle questioni civili"
 rubrica: "Ordine di pubblicazione della sentenza come riparazione del danno"
-dataVigenza: "20260914"
-ordine: 653
+dataVigenza: "20260930"
+ordine: 654
 ---
 
 # Art. 543 - ***Ordine di pubblicazione della sentenza come riparazione del danno***

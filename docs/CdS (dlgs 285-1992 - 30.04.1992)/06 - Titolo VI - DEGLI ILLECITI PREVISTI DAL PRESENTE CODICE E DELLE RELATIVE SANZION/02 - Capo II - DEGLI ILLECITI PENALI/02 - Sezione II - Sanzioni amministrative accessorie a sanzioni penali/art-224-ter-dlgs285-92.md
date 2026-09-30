@@ -14,7 +14,7 @@ capo_label: "DEGLI ILLECITI PENALI"
 sezione: "II"
 sezione_label: "Sanzioni amministrative accessorie a sanzioni penali"
 rubrica: "Procedimento di applicazione delle sanzioni amministrative accessorie della confisca amministrativa e del fermo amministrativo in conseguenza di ipotesi di reato)."
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 250
 ---
 
@@ -34,4 +34,4 @@ ordine: 250
 
 7\. Nel caso di sentenza irrevocabile di proscioglimento, il prefetto, ovvero, nei casi di cui al comma 3, l'ufficio o il comando da cui dipende l'agente o l'organo accertatore della violazione, ricevuta la comunicazione della cancelleria, ordina la restituzione del veicolo all'intestatario. Fino a tale ordine, sono fatti salvi gli effetti del fermo amministrativo provvisorio disposto ai sensi del citato comma 3.
 
-[^agg-157]: *AGGIORNAMENTO (157)* La Corte Costituzionale, con sentenza 7 - 24 aprile 2020, n. 75 (in G.U. 1ª s.s. 29/04/2020, n. 18), ha dichiarato "l'illegittimità costituzionale dell'[art. 224-ter, comma 6, del decreto legislativo 30 aprile 1992, n. 285](art-224-dlgs285-92.md) (Nuovo [codice della strada](../../../00%20-%20Indice%20%28dlgs285-92%29.md)), nella parte in cui prevede che il prefetto verifica la sussistenza delle condizioni di legge per l'applicazione della sanzione amministrativa accessoria della confisca del veicolo, anzichè disporne la restituzione all'avente diritto, in caso di estinzione del reato di guida sotto l'influenza dell'alcool per esito positivo della messa alla prova".
+[^agg-157]: *AGGIORNAMENTO (157)* La Corte Costituzionale, con sentenza 7 - 24 aprile 2020, n. 75 (in G.U. 1ª s.s. 29/04/2020, n. 18), ha dichiarato "l'illegittimità costituzionale dell'[art. 224-ter, comma 6, del decreto legislativo 30 aprile 1992, n. 285](art-224-ter-dlgs285-92.md) (Nuovo [codice della strada](../../../00%20-%20Indice%20%28dlgs285-92%29.md)), nella parte in cui prevede che il prefetto verifica la sussistenza delle condizioni di legge per l'applicazione della sanzione amministrativa accessoria della confisca del veicolo, anzichè disporne la restituzione all'avente diritto, in caso di estinzione del reato di guida sotto l'influenza dell'alcool per esito positivo della messa alla prova".

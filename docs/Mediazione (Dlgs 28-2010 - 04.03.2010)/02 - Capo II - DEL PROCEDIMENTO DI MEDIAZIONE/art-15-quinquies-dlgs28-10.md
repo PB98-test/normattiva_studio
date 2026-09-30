@@ -14,7 +14,7 @@ capo_label: "DEL PROCEDIMENTO DI MEDIAZIONE"
 sezione: null
 sezione_label: null
 rubrica: "Organo competente a ricevere l'istanza per l'ammissione anticipata e nomina dell'avvocato"
-dataVigenza: "20260925"
+dataVigenza: "20260930"
 ordine: 28
 ---
 
@@ -36,4 +36,4 @@ ordine: 28
 
 [^agg-10]: *AGGIORNAMENTO (10)* Il [D.Lgs. 10 ottobre 2022, n. 149](../../Cartabia%20%28Dlgs%20149-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs149-22%29.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../../L.%20197-2022%20-%2029.12.2022/00%20-%20Indice%20%28l197-22%29.md), ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'[articolo 7](art-7-dlgs28-10.md), comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
 
-[^agg-12]: *AGGIORNAMENTO (12)* Il D.Lgs. 27 dicembre 2024, n. 216 ha disposto (con l'[art. 1](../01%20-%20Capo%20I%20-%20DISPOSIZIONI%20GENERALI/art-1-dlgs28-10.md), comma 1, lettera p)) che "Al decreto legislativo 4 marzo 2010, n. 28, sono apportate le seguenti modificazioni: [...] p) all'[articolo 15-quinquies](art-15-quinquies-dlgs28-10.md): [...] 3) al comma 3, le parole: «, istituiti presso i consigli dell'ordine del luogo del distretto dove ha sede l'organismo di mediazione competente individuato in conformità all'[articolo 4](art-4-dlgs28-10.md), comma 1» sono soppresse".
+[^agg-12]: *AGGIORNAMENTO (12)* Il D.Lgs. 27 dicembre 2024, n. 216 ha disposto (con l'[art. 1](../01%20-%20Capo%20I%20-%20DISPOSIZIONI%20GENERALI/art-1-dlgs28-10.md), comma 1, lettera p)) che "Al [decreto legislativo 4 marzo 2010, n. 28](../00%20-%20Indice%20%28dlgs28-10%29.md), sono apportate le seguenti modificazioni: [...] p) all'[articolo 15-quinquies](art-15-quinquies-dlgs28-10.md): [...] 3) al comma 3, le parole: «, istituiti presso i consigli dell'ordine del luogo del distretto dove ha sede l'organismo di mediazione competente individuato in conformità all'[articolo 4](art-4-dlgs28-10.md), comma 1» sono soppresse".

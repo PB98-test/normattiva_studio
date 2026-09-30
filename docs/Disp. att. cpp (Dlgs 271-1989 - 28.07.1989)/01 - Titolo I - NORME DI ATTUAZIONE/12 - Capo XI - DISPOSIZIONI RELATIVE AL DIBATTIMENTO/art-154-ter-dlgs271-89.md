@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 154-ter - (Comunicazione della sentenza). 1. La cancelleria del giudice che ha pronunciato sentenza penale nei confronti di un lavoratore dipendente di un'amministrazione pubblica ne comunica il dispositivo all'amministrazione di appartenenza e, su richiesta di questa, trasmette copia integrale del provvedimento. La comunicazione e la trasmissione sono effettuate con modalità telematiche, ai sensi del decreto legislativo 7 marzo 2005, n. 82, entro trenta giorni dalla data del deposito."
+title: "Art. 154-ter - Comunicazione della sentenza"
 articolo: "Art. 154-ter"
 codice: dlgs271-89
 aliases:
@@ -13,9 +13,11 @@ capo: "XI"
 capo_label: "DISPOSIZIONI RELATIVE AL DIBATTIMENTO"
 sezione: null
 sezione_label: null
-rubrica: "(Comunicazione della sentenza). 1. La cancelleria del giudice che ha pronunciato sentenza penale nei confronti di un lavoratore dipendente di un'amministrazione pubblica ne comunica il dispositivo all'amministrazione di appartenenza e, su richiesta di questa, trasmette copia integrale del provvedimento. La comunicazione e la trasmissione sono effettuate con modalità telematiche, ai sensi del decreto legislativo 7 marzo 2005, n. 82, entro trenta giorni dalla data del deposito."
-dataVigenza: "20260925"
+rubrica: "Comunicazione della sentenza"
+dataVigenza: "20260930"
 ordine: 201
 ---
 
-# Art. 154-ter - ***(Comunicazione della sentenza). 1. La cancelleria del giudice che ha pronunciato sentenza penale nei confronti di un lavoratore dipendente di un'amministrazione pubblica ne comunica il dispositivo all'amministrazione di appartenenza e, su richiesta di questa, trasmette copia integrale del provvedimento. La comunicazione e la trasmissione sono effettuate con modalità telematiche, ai sensi del decreto legislativo 7 marzo 2005, n. 82, entro trenta giorni dalla data del deposito.***
+# Art. 154-ter - ***Comunicazione della sentenza***
+
+1\. La cancelleria del giudice che ha pronunciato sentenza penale nei confronti di un lavoratore dipendente di un'amministrazione pubblica ne comunica il dispositivo all'amministrazione di appartenenza e, su richiesta di questa, trasmette copia integrale del provvedimento. La comunicazione e la trasmissione sono effettuate con modalità telematiche, ai sensi del decreto legislativo 7 marzo 2005, n. 82, entro trenta giorni dalla data del deposito.

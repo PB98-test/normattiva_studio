@@ -14,8 +14,8 @@ capo_label: "SENTENZA"
 sezione: null
 sezione_label: null
 rubrica: "Ricorso straordinario per errore materiale o di fatto"
-dataVigenza: "20260914"
-ordine: 749
+dataVigenza: "20260930"
+ordine: 750
 ---
 
 # Art. 625-bis - ***Ricorso straordinario per errore materiale o di fatto***

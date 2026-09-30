@@ -14,7 +14,7 @@ capo_label: "Procedure di composizione delle crisi da sovraindebitamento"
 sezione: "II"
 sezione_label: "Ristrutturazione dei debiti del consumatore"
 rubrica: "Esecuzione del piano"
-dataVigenza: "20260925"
+dataVigenza: "20260930"
 ordine: 85
 ---
 
@@ -28,6 +28,6 @@ ordine: 85
 
 4\. Terminata l'esecuzione, l'OCC, sentito il debitore, presenta al giudice una relazione finale. Il giudice, se il piano è stato integralmente e correttamente eseguito, procede alla liquidazione del compenso all'OCC, che è determinato ai sensi del decreto del Ministro della giustizia del 24 settembre 2014, n. 202, e tenuto conto di quanto eventualmente convenuto dall'organismo con il debitore, e ne autorizza il pagamento. In caso di esecuzione di un progetto di ripartizione parziale il giudice può accordare all'OCC un acconto sul compenso.
 
-5\. Quando il piano non è stato integralmente e correttamente eseguito, il giudice indica gli atti necessari per l'esecuzione del piano ed un termine per il loro compimento. Se le prescrizioni non sono adempiute nel termine, anche prorogato, il giudice revoca l'omologazione, osservate, in quanto compatibili, le disposizioni di cui all'articolo 72. Nelle ipotesi di cui al primo e secondo periodo il compenso dell'OCC è liquidato dal giudice tenuto conto dell'attività svolta.
+5\. Quando il piano non è stato integralmente e correttamente eseguito, il giudice indica gli atti necessari per l'esecuzione del piano ed un termine per il loro compimento. Se le prescrizioni non sono adempiute nel termine, anche prorogato, il giudice revoca l'omologazione, osservate, in quanto compatibili, le disposizioni di cui all'[articolo 72](art-72-dlgs14-19.md). Nelle ipotesi di cui al primo e secondo periodo il compenso dell'OCC è liquidato dal giudice tenuto conto dell'attività svolta.
 
 6\. Nella liquidazione del compenso il giudice tiene conto della diligenza dell'OCC.

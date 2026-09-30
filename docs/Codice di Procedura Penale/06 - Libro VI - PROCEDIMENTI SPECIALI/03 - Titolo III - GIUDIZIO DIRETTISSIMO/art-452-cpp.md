@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Trasformazione del rito"
-dataVigenza: "20260914"
-ordine: 547
+dataVigenza: "20260930"
+ordine: 548
 ---
 
 # Art. 452 - ***Trasformazione del rito***

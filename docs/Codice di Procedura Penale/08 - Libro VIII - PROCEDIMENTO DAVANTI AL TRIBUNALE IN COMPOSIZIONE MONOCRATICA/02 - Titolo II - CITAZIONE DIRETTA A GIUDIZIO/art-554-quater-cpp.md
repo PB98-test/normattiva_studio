@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 554-quater - (Impugnazione della sentenza di non luogo a procedere)."
+title: "Art. 554-quater - Impugnazione della sentenza di non luogo a procedere"
 articolo: "Art. 554-quater"
 codice: cpp
 aliases:
@@ -13,12 +13,12 @@ capo: null
 capo_label: null
 sezione: null
 sezione_label: null
-rubrica: "(Impugnazione della sentenza di non luogo a procedere)."
-dataVigenza: "20260914"
-ordine: 668
+rubrica: "Impugnazione della sentenza di non luogo a procedere"
+dataVigenza: "20260930"
+ordine: 669
 ---
 
-# Art. 554-quater - ***(Impugnazione della sentenza di non luogo a procedere).***
+# Art. 554-quater - ***Impugnazione della sentenza di non luogo a procedere***
 
 1\. Contro la sentenza di non luogo a procedere possono proporre appello:
 

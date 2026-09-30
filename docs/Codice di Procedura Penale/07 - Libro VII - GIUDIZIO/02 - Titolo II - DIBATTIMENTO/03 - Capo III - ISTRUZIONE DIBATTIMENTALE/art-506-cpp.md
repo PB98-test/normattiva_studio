@@ -14,8 +14,8 @@ capo_label: "ISTRUZIONE DIBATTIMENTALE"
 sezione: null
 sezione_label: null
 rubrica: "Poteri del presidente in ordine all'esame dei testimoni e delle parti private"
-dataVigenza: "20260914"
-ordine: 612
+dataVigenza: "20260930"
+ordine: 613
 ---
 
 # Art. 506 - ***Poteri del presidente in ordine all'esame dei testimoni e delle parti private***

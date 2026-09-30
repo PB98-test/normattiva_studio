@@ -14,7 +14,7 @@ capo_label: "DISPOSIZIONI GENERALI"
 sezione: null
 sezione_label: null
 rubrica: "Definizioni"
-dataVigenza: "20260925"
+dataVigenza: "20260930"
 ordine: 1
 ---
 
@@ -25,4 +25,4 @@ ordine: 1
 - b) mediatore: la persona o le persone fisiche che, individualmente o collegialmente, svolgono la mediazione rimanendo prive, in ogni caso, del potere di rendere giudizi o decisioni vincolanti per i destinatari del servizio medesimo;
 - c) conciliazione: la composizione di una controversia a seguito dello svolgimento della mediazione;
 - d) organismo: l'ente pubblico o privato, presso il quale può svolgersi il procedimento di mediazione ai sensi del presente decreto;
-- e) registro: il registro degli organismi istituito con decreto del Ministro della giustizia ai sensi dell'articolo 16 del presente decreto, nonchè, sino all'emanazione di tale decreto, il registro degli organismi istituito con il decreto del Ministro della giustizia 23 luglio 2004, n. 222.
+- e) registro: il registro degli organismi istituito con decreto del Ministro della giustizia ai sensi dell'[articolo 16](../03%20-%20Capo%20III%20-%20ORGANISMI%20DI%20MEDIAZIONE%20ed%20enti%20di%20formazione/art-16-dlgs28-10.md) del presente decreto, nonchè, sino all'emanazione di tale decreto, il registro degli organismi istituito con il decreto del Ministro della giustizia 23 luglio 2004, n. 222.

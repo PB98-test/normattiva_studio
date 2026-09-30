@@ -14,7 +14,7 @@ capo_label: "RESPONSABILITÀ AMMINISTRATIVA DELL'ENTE"
 sezione: "III"
 sezione_label: "Responsabilità amministrativa da reato"
 rubrica: "Ricettazione, riciclaggio e impiego di denaro, beni o utilità di provenienza illecita , nonchè autoriciclaggio"
-dataVigenza: "20260928"
+dataVigenza: "20260930"
 ordine: 36
 ---
 
@@ -24,4 +24,4 @@ ordine: 36
 
 2\. Nei casi di condanna per uno dei delitti di cui al comma 1 si applicano all'ente le sanzioni interdittive previste dall'[articolo 9](../02%20-%20Sezione%20II%20-%20Sanzioni%20in%20generale/art-9-dlgs231-01.md), comma 2, per una durata non superiore a due anni.
 
-3\. In relazione agli illeciti di cui ai commi 1 e 2, il Ministero della giustizia, sentito il parere dell'UIF, formula le osservazioni di cui all'articolo 6 del decreto legislativo 8 giugno 2001, n. 231.
+3\. In relazione agli illeciti di cui ai commi 1 e 2, il Ministero della giustizia, sentito il parere dell'UIF, formula le osservazioni di cui all'[articolo 6 del decreto legislativo 8 giugno 2001, n. 231](../01%20-%20Sezione%20I%20-%20Principi%20generali%20e%20criteri%20di%20attribuzione%20della%20responsabilità%20amm/art-6-dlgs231-01.md).

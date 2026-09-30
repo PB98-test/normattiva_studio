@@ -14,7 +14,7 @@ capo_label: "MODALITÀ DEL TRATTAMENTO"
 sezione: null
 sezione_label: null
 rubrica: "Contenuti del regime di sorveglianza particolare"
-dataVigenza: "20260925"
+dataVigenza: "20260930"
 ordine: 20
 ---
 
@@ -22,7 +22,7 @@ ordine: 20
 
 1\. Il regime di sorveglianza particolare comporta le restrizioni strettamente necessarie per il mantenimento dell'ordine e della sicurezza, all'esercizio dei diritti dei detenuti e degli internati e alle regole di trattamento previste dall'ordinamento penitenziario.
 
-2\. Per quanto concerne la corrispondenza dei detenuti, si applicano le disposizioni dell'articolo 18-ter
+2\. Per quanto concerne la corrispondenza dei detenuti, si applicano le disposizioni dell'[articolo 18-ter](art-18-ter-l354-75.md)
 
 3\. Le restrizioni di cui ai commi precedenti sono motivatamente stabilite nel provvedimento che dispone il regime di sorveglianza particolare.
 

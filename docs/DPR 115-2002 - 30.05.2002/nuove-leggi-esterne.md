@@ -5,16 +5,14 @@ search:
 
 # Leggi citate da DPR 115-2002 - 30.05.2002 ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di DPR 115-2002 - 30.05.2002 — 206 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di DPR 115-2002 - 30.05.2002 — 202 leggi trovate)*
 
 - [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const)
 - [articoli 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400)
 - [articolo 7 della legge 8 marzo 1999, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-08;50)
 - [articolo 1, comma 6, lettere d)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-11-24;340)
 - [articoli 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59)
-- [testo unico delle disposizioni legislative in materia di spese di giustizia](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-05-30;115)
 - [legge 19 febbraio 1981, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-02-19;27)
-- [decreto legislativo 8 giugno 2001, n. 231](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2001-06-08;231)
 - [articolo 4, del decreto legislativo 9 luglio 1997, n. 237](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1997-07-09;237)
 - [articolo 96 del decreto legislativo 10 agosto 2003, n. 259](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2003-08-10;259)
 - [D.L. 6 luglio 2011, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2011-07-06;98)
@@ -57,7 +55,6 @@ search:
 - [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445)
 - [articolo 60 della legge 18 giugno 2009, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-06-18;69)
 - [d.P.R. n. 115 del 2002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002;115)
-- [decreto del Presidente della Repubblica 30 maggio 2002, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-05-30;1)
 - [legge 22 aprile 2005, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-04-22;69)
 - [legge n. 69 del 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005;69)
 - [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)
@@ -189,7 +186,6 @@ search:
 - [decreto legislativo 19 novembre 1998, n. 422 e l'articolo 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1998-11-19;422)
 - [decreto legislativo 25 luglio 1998, n. 286, l'articolo 13, comma 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1998-07-25;286)
 - [decreto-legge 11 marzo 2002, n. 28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2002-03-11;28)
-- [decreto legislativo 28 agosto 2000, n. 274; - l'articolo 80](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2000-08-28;274)
 - [articoli 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2001-06-30;246)
 - [legge 4 agosto 2001, n. 330; - l'articolo 75](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-08-04;330)
 - [regio decreto 21 aprile 1942, n. 444, all'articolo 73, comma primo, n. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regiodecreto:1942-04-21;444)

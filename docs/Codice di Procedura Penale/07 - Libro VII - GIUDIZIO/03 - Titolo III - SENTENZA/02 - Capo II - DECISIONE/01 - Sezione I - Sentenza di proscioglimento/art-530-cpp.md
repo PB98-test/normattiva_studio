@@ -14,8 +14,8 @@ capo_label: "DECISIONE"
 sezione: "I"
 sezione_label: "Sentenza di proscioglimento"
 rubrica: "Sentenza di assoluzione"
-dataVigenza: "20260914"
-ordine: 639
+dataVigenza: "20260930"
+ordine: 640
 ---
 
 # Art. 530 - ***Sentenza di assoluzione***

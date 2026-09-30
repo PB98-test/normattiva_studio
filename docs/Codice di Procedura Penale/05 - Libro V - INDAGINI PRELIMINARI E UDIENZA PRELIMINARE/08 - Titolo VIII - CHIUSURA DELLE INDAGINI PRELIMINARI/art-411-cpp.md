@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Altri casi di archiviazione"
-dataVigenza: "20260914"
-ordine: 496
+dataVigenza: "20260930"
+ordine: 497
 ---
 
 # Art. 411 - ***Altri casi di archiviazione***

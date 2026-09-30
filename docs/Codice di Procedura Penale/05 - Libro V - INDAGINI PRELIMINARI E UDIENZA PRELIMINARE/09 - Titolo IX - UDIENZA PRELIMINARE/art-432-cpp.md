@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Trasmissione e custodia del fascicolo per il dibattimento"
-dataVigenza: "20260914"
-ordine: 526
+dataVigenza: "20260930"
+ordine: 527
 ---
 
 # Art. 432 - ***Trasmissione e custodia del fascicolo per il dibattimento***

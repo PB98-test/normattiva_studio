@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Allontanamento d'urgenza dalla casa familiare"
-dataVigenza: "20260914"
-ordine: 457
+dataVigenza: "20260930"
+ordine: 458
 ---
 
 # Art. 384-bis - ***Allontanamento d'urgenza dalla casa familiare***

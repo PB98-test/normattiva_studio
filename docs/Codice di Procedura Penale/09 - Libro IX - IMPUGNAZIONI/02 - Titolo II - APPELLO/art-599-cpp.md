@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Decisioni in camera di consiglio con la partecipazione delle parti"
-dataVigenza: "20260914"
-ordine: 720
+dataVigenza: "20260930"
+ordine: 721
 ---
 
 # Art. 599 - ***Decisioni in camera di consiglio con la partecipazione delle parti***
@@ -30,4 +30,4 @@ ordine: 720
 
 5\. COMMA ABROGATO DAL D.L. 23 MAGGIO 2008 N. 92 CONVERTITO CON MODIFICAZIONI DALLA L. 24 LUGLIO 2008, N. 125.
 
-[^agg-290]: *AGGIORNAMENTO (290)* Il D.Lgs. 10 ottobre 2022, n. 150 ha disposto (con l'[art. 94](../../01%20-%20Libro%20I%20-%20SOGGETTI/06%20-%20Titolo%20VI%20-%20PERSONA%20OFFESA%20DAL%20REATO/art-94-cpp.md), comma 2) che "Le disposizioni degli [articoli 34](../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/07%20-%20Capo%20VII%20-%20INCOMPATIBILITÀ,%20ASTENSIONE%20E%20RICUSAZIONE%20DEL%20GIUDICE/art-34-cpp.md), comma 1, lettere c), e), f), g), numeri 2), 3), 4), e h), 35, comma 1, lettera a), e 41, comma 1, lettera ee), si applicano a decorrere dalla scadenza del termine fissato dall'articolo 16, comma 1, del decreto-legge 30 dicembre 2021, n. 228, convertito, con modificazioni, dalla legge 25 febbraio 2022, n. 15".
+[^agg-290]: *AGGIORNAMENTO (290)* Il [D.Lgs. 10 ottobre 2022, n. 150](../../../Cartabia%20%28Dlgs%20150-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs150-22%29.md) ha disposto (con l'[art. 94](../../01%20-%20Libro%20I%20-%20SOGGETTI/06%20-%20Titolo%20VI%20-%20PERSONA%20OFFESA%20DAL%20REATO/art-94-cpp.md), comma 2) che "Le disposizioni degli [articoli 34](../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/07%20-%20Capo%20VII%20-%20INCOMPATIBILITÀ,%20ASTENSIONE%20E%20RICUSAZIONE%20DEL%20GIUDICE/art-34-cpp.md), comma 1, lettere c), e), f), g), numeri 2), 3), 4), e h), 35, comma 1, lettera a), e 41, comma 1, lettera ee), si applicano a decorrere dalla scadenza del termine fissato dall'articolo 16, comma 1, del decreto-legge 30 dicembre 2021, n. 228, convertito, con modificazioni, dalla legge 25 febbraio 2022, n. 15".

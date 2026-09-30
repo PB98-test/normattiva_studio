@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Esecuzione di pene concorrenti"
-dataVigenza: "20260914"
-ordine: 793
+dataVigenza: "20260930"
+ordine: 794
 ---
 
 # Art. 663 - ***Esecuzione di pene concorrenti***

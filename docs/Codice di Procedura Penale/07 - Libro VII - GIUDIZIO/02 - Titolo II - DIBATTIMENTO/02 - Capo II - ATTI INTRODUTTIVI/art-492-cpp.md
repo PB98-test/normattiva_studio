@@ -14,8 +14,8 @@ capo_label: "ATTI INTRODUTTIVI"
 sezione: null
 sezione_label: null
 rubrica: "Dichiarazione di apertura del dibattimento"
-dataVigenza: "20260914"
-ordine: 597
+dataVigenza: "20260930"
+ordine: 598
 ---
 
 # Art. 492 - ***Dichiarazione di apertura del dibattimento***

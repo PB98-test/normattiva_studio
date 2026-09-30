@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Notificazione della impugnazione"
-dataVigenza: "20260914"
-ordine: 702
+dataVigenza: "20260930"
+ordine: 703
 ---
 
 # Art. 584 - ***Notificazione della impugnazione***

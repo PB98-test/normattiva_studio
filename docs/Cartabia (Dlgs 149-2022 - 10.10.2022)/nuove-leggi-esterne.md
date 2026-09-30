@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da Cartabia (Dlgs 149-2022 - 10.10.2022) ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Cartabia (Dlgs 149-2022 - 10.10.2022) — 95 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Cartabia (Dlgs 149-2022 - 10.10.2022) — 85 leggi trovate)*
 
 - [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const)
 - [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400)
@@ -14,28 +14,20 @@ search:
 - [regio decreto 30 marzo 1942, n. 318](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regiodecreto:1942-03-30;318)
 - [regio decreto 18 dicembre 1941, n. 1368](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regiodecreto:1941-12-18;1368)
 - [regio decreto 19 ottobre 1930, n. 1398](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regiodecreto:1930-10-19;1398)
-- [decreto legislativo 28 luglio 1989, n. 271](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1989-07-28;271)
-- [decreto legislativo 4 marzo 2010, n. 28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2010-03-04;28)
 - [articolo 60 della legge 18 giugno 2009, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-06-18;69)
-- [decreto-legge 12 settembre 2014, n. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2014-09-12;132)
 - [legge 10 novembre 2014, n. 162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-11-10;162)
 - [decreto legislativo 17 gennaio 2003, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2003-01-17;5)
 - [articolo 12 della legge 3 ottobre 2001, n. 366](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-10-03;366)
 - [legge 21 gennaio 1994, n. 53](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-21;53)
-- [regio decreto 16 marzo 1942, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regiodecreto:1942-03-16;267)
-- [testo unico delle disposizioni legislative e regolamentari in materia di spese di giustizia](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-05-30;115)
-- [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regiodecreto:1941-01-30;12)
 - [legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89)
 - [legge 7 marzo 1996, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-03-07;108)
 - [decreto legislativo 1° settembre 2011, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2011-09-01;150)
 - [decreto del Presidente della Repubblica 3 novembre 2000, n. 396](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-11-03;396)
 - [articolo 2, comma 12, della legge 15 maggio 1997, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127)
 - [legge 31 maggio 1995, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-05-31;218)
-- [legge 1° dicembre 1970, n. 898](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-12-01;898)
 - [legge 4 maggio 1983, n. 184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-05-04;184)
 - [decreto legislativo 5 aprile 2006, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2006-04-05;160)
 - [articolo 1, comma 1, lettera a), della legge 25 luglio 2005, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-07-25;150)
-- [decreto del Presidente della Repubblica 22 settembre 1988, n. 448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988-09-22;448)
 - [legge 24 marzo 2001, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-03-24;89)
 - [legge 8 marzo 2017, n. 24](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24)
 - [articolo 3-bis, comma 1-bis, del codice dell'amministrazione digitale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2005-03-07;82)
@@ -45,7 +37,6 @@ search:
 - [decreto legislativo 25 luglio 1998, n. 286, agli articoli 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1998-07-25;286)
 - [legge 18 agosto 2015, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-08-18;142)
 - [articolo 8 della legge 1° aprile 1981, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121)
-- [articolo 22 del decreto legislativo 21 novembre 2007, n. 231](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2007-11-21;231)
 - [articolo 7 della legge 14 gennaio 2013, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-01-14;4)
 - [articolo 51 del decreto legislativo 30 giugno 2003, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2003-06-30;196)
 - [decreto del Ministro della giustizia 12 agosto 2015, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto:2015-08-12;144)
@@ -70,7 +61,6 @@ search:
 - [decreto-legge 18 ottobre 2012, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2012-10-18;179)
 - [legge 17 dicembre 2012, n. 221, gli articoli 16-bis](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-17;221)
 - [regio decreto 30 ottobre 1933, n. 1611](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regiodecreto:1933-10-30;1611)
-- [decreto legislativo 12 gennaio 2019, n. 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2019-01-12;14)
 - [articolo 4, comma 9, del decreto-legge 29 dicembre 2009, n. 193](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2009-12-29;193)
 - [legge 22 febbraio 2010, n. 24](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-02-22;24)
 - [decreto del Ministro dell'economia e delle finanze 9 ottobre 2006, n. 293](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto:2006-10-09;293)

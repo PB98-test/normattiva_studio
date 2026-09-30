@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Divieto di un secondo giudizio"
-dataVigenza: "20260914"
-ordine: 776
+dataVigenza: "20260930"
+ordine: 777
 ---
 
 # Art. 649 - ***Divieto di un secondo giudizio***

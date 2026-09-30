@@ -14,7 +14,7 @@ capo_label: "RESPONSABILITÀ AMMINISTRATIVA DELL'ENTE"
 sezione: "III"
 sezione_label: "Responsabilità amministrativa da reato"
 rubrica: "Delitti in materia di strumenti di pagamento diversi dai contanti e trasferimento fraudolento di valori"
-dataVigenza: "20260928"
+dataVigenza: "20260930"
 ordine: 37
 ---
 
@@ -30,6 +30,6 @@ ordine: 37
 - a) se il delitto è punito con la pena della reclusione inferiore ai dieci anni, la sanzione pecuniaria sino a 500 quote;
 - b) se il delitto è punito con la pena non inferiore ai dieci anni di reclusione, la sanzione pecuniaria da 300 a 800 quote.
 
-2-bis. In relazione alla commissione del delitto di cui all'[articolo 512-bis del codice penale](../../../Codice%20Penale/02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/08%20-%20Titolo%20VIII%20-%20DEI%20DELITTI%20CONTRO%20L%27ECONOMIA%20PUBBLICA,%20L%27INDUSTRIA,%20IL%20COMMERCIO/01%20-%20Capo%20I%20-%20Dei%20delitti%20contro%20l%27economia%20pubblica/art-512-bis-cp.md), si applica all'ente la sanzione pecuniaria da 250 a 600 quote
+2-bis. In relazione alla commissione del delitto di cui all'[articolo 512-bis del codice penale](../../../Codice%20Penale/02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/09%20-%20Titolo%20VIII%20-%20DEI%20DELITTI%20CONTRO%20L%27ECONOMIA%20PUBBLICA,%20L%27INDUSTRIA,%20IL%20COMMERCIO/01%20-%20Capo%20I%20-%20Dei%20delitti%20contro%20l%27economia%20pubblica/art-512-bis-cp.md), si applica all'ente la sanzione pecuniaria da 250 a 600 quote
 
 3\. Nei casi di condanna per uno dei delitti di cui ai commi 1, 2 e 2-bis si applicano all'ente le sanzioni interdittive previste dall'[articolo 9](../02%20-%20Sezione%20II%20-%20Sanzioni%20in%20generale/art-9-dlgs231-01.md), comma 2.

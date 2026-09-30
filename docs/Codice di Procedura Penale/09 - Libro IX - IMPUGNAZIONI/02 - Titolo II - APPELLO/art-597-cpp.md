@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Cognizione del giudice di appello"
-dataVigenza: "20260914"
-ordine: 716
+dataVigenza: "20260930"
+ordine: 717
 ---
 
 # Art. 597 - ***Cognizione del giudice di appello***

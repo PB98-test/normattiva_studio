@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Richiesta di revoca"
-dataVigenza: "20260914"
-ordine: 529
+dataVigenza: "20260930"
+ordine: 530
 ---
 
 # Art. 435 - ***Richiesta di revoca***

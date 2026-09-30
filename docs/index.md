@@ -50,6 +50,7 @@ title: "NormattivaStudio"
 <a class="doc-card" data-anno="2002" href="DPR%20115-2002%20-%2030.05.2002/00%20-%20Indice%20%28dpr115-02%29/">DPR 115-2002 - 30.05.2002</a>
 <a class="doc-card" data-anno="2005" href="Dl%2035-2005%20-%2014.03.2005/00%20-%20Indice%20%28dl35-05%29/">Dl 35-2005 - 14.03.2005</a>
 <a class="doc-card" data-anno="2005" href="L.%2080-2005%20-%2014.05.2005/00%20-%20Indice%20%28l80-05%29/">L. 80-2005 - 14.05.2005</a>
+<a class="doc-card" data-anno="2007" href="Antiriciclaggio%20%28Dlgs%20231-2007%20-%2021.11.2007%29/00%20-%20Indice%20%28dlgs231-07%29/">Antiriciclaggio (Dlgs 231-2007 - 21.11.2007)</a>
 <a class="doc-card" data-anno="2010" href="Mediazione%20%28Dlgs%2028-2010%20-%2004.03.2010%29/00%20-%20Indice%20%28dlgs28-10%29/">Mediazione (Dlgs 28-2010 - 04.03.2010)</a>
 <a class="doc-card" data-anno="2011" href="Dlgs%20150-2011%20-%2009.01.2011/00%20-%20Indice%20%28dlgs150-11%29/">Dlgs 150-2011 - 09.01.2011</a>
 <a class="doc-card" data-anno="2011" href="Dlgs%20159-2011%20-%2006.09.2011/00%20-%20Indice%20%28dlgs159-11%29/">Dlgs 159-2011 - 06.09.2011</a>

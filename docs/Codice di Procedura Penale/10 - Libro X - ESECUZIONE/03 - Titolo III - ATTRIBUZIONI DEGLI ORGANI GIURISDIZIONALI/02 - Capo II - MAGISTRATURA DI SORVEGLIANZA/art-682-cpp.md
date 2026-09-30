@@ -14,8 +14,8 @@ capo_label: "MAGISTRATURA DI SORVEGLIANZA"
 sezione: null
 sezione_label: null
 rubrica: "Liberazione condizionale"
-dataVigenza: "20260914"
-ordine: 812
+dataVigenza: "20260930"
+ordine: 813
 ---
 
 # Art. 682 - ***Liberazione condizionale***

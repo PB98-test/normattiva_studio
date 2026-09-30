@@ -14,8 +14,8 @@ capo_label: "ATTI INTRODUTTIVI"
 sezione: null
 sezione_label: null
 rubrica: "Costituzione delle parti"
-dataVigenza: "20260914"
-ordine: 589
+dataVigenza: "20260930"
+ordine: 590
 ---
 
 # Art. 484 - ***Costituzione delle parti***

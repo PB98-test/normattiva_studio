@@ -14,8 +14,8 @@ capo_label: "Delle contravvenzioni concernenti la polizia di sicurezza"
 sezione: "III"
 sezione_label: "Delle contravvenzioni concernenti la prevenzione di talune specie di reati § 1 Delle contravvenzioni concernenti la tutela preventiva dei segreti"
 rubrica: "Determinazione in altri dello stato di ubriachezza"
-dataVigenza: "20260914"
-ordine: 948
+dataVigenza: "20260930"
+ordine: 949
 ---
 
 # Art. 690 - ***Determinazione in altri dello stato di ubriachezza***

@@ -14,8 +14,8 @@ capo_label: "Delle contravvenzioni concernenti la polizia amministrativa sociale
 sezione: "II"
 sezione_label: "Delle contravvenzioni concernenti la polizia sanitaria"
 rubrica: "Trattamento idoneo a sopprimere la coscienza o la volontà altrui"
-dataVigenza: "20260914"
-ordine: 988
+dataVigenza: "20260930"
+ordine: 989
 ---
 
 # Art. 728 - ***Trattamento idoneo a sopprimere la coscienza o la volontà altrui***

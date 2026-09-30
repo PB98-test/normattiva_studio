@@ -14,8 +14,8 @@ capo_label: "Dei delitti di comune pericolo mediante frode"
 sezione: null
 sezione_label: null
 rubrica: "Commercio di sostanze alimentari nocive"
-dataVigenza: "20260914"
-ordine: 538
+dataVigenza: "20260930"
+ordine: 539
 ---
 
 # Art. 444 - ***Commercio di sostanze alimentari nocive***

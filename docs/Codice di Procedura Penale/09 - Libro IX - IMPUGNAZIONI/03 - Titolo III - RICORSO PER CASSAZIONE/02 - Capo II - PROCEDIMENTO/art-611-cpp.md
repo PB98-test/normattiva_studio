@@ -14,8 +14,8 @@ capo_label: "PROCEDIMENTO"
 sezione: null
 sezione_label: null
 rubrica: "Procedimento"
-dataVigenza: "20260914"
-ordine: 733
+dataVigenza: "20260930"
+ordine: 734
 ---
 
 # Art. 611 - ***Procedimento***
@@ -37,6 +37,6 @@ ordine: 733
 
 2\. COMMA ABROGATO DALLA L. 26 MARZO 2001, N. 128.
 
-[^agg-290]: *AGGIORNAMENTO (290)* Il D.Lgs. 10 ottobre 2022, n. 150 ha disposto (con l'[art. 94](../../../01%20-%20Libro%20I%20-%20SOGGETTI/06%20-%20Titolo%20VI%20-%20PERSONA%20OFFESA%20DAL%20REATO/art-94-cpp.md), comma 2) che "Le disposizioni degli [articoli 34](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/07%20-%20Capo%20VII%20-%20INCOMPATIBILITÀ,%20ASTENSIONE%20E%20RICUSAZIONE%20DEL%20GIUDICE/art-34-cpp.md), comma 1, lettere c), e), f), g), numeri 2), 3), 4), e h), 35, comma 1, lettera a), e 41, comma 1, lettera ee), si applicano a decorrere dalla scadenza del termine fissato dall'articolo 16, comma 1, del decreto-legge 30 dicembre 2021, n. 228, convertito, con modificazioni, dalla legge 25 febbraio 2022, n. 15".
+[^agg-290]: *AGGIORNAMENTO (290)* Il [D.Lgs. 10 ottobre 2022, n. 150](../../../../Cartabia%20%28Dlgs%20150-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs150-22%29.md) ha disposto (con l'[art. 94](../../../01%20-%20Libro%20I%20-%20SOGGETTI/06%20-%20Titolo%20VI%20-%20PERSONA%20OFFESA%20DAL%20REATO/art-94-cpp.md), comma 2) che "Le disposizioni degli [articoli 34](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/07%20-%20Capo%20VII%20-%20INCOMPATIBILITÀ,%20ASTENSIONE%20E%20RICUSAZIONE%20DEL%20GIUDICE/art-34-cpp.md), comma 1, lettere c), e), f), g), numeri 2), 3), 4), e h), 35, comma 1, lettera a), e 41, comma 1, lettera ee), si applicano a decorrere dalla scadenza del termine fissato dall'articolo 16, comma 1, del decreto-legge 30 dicembre 2021, n. 228, convertito, con modificazioni, dalla legge 25 febbraio 2022, n. 15".
 
 [^agg-314]: *AGGIORNAMENTO (314)* Il D.L. 29 giugno 2024, n. 89, ha disposto (con l'[art. 11](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/02%20-%20Capo%20II%20-%20COMPETENZA/03%20-%20Sezione%20III%20-%20Competenza%20per%20territorio/art-11-cpp.md), comma 3) che "Le disposizioni di cui ai commi 1 e 2 si applicano ai ricorsi proposti dopo il 30 giugno 2024".

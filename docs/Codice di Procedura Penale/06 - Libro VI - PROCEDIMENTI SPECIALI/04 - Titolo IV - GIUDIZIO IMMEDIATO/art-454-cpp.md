@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Presentazione della richiesta del pubblico ministero"
-dataVigenza: "20260914"
-ordine: 549
+dataVigenza: "20260930"
+ordine: 550
 ---
 
 # Art. 454 - ***Presentazione della richiesta del pubblico ministero***

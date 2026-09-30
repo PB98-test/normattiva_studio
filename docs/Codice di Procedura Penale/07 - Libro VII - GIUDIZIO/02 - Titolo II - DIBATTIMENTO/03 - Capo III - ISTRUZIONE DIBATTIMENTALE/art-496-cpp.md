@@ -14,8 +14,8 @@ capo_label: "ISTRUZIONE DIBATTIMENTALE"
 sezione: null
 sezione_label: null
 rubrica: "Ordine e modalità dell'assunzione delle prove"
-dataVigenza: "20260914"
-ordine: 602
+dataVigenza: "20260930"
+ordine: 603
 ---
 
 # Art. 496 - ***Ordine e modalità dell'assunzione delle prove***

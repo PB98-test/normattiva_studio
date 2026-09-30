@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Accesso ai luoghi privati o non aperti al pubblico"
-dataVigenza: "20260914"
-ordine: 471
+dataVigenza: "20260930"
+ordine: 472
 ---
 
 # Art. 391-septies - ***Accesso ai luoghi privati o non aperti al pubblico***

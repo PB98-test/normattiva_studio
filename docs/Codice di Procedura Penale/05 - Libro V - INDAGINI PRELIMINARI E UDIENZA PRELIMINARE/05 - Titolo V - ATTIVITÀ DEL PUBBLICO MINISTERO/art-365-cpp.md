@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Atti ai quali il difensore ha diritto di assistere senza avviso"
-dataVigenza: "20260914"
-ordine: 434
+dataVigenza: "20260930"
+ordine: 435
 ---
 
 # Art. 365 - ***Atti ai quali il difensore ha diritto di assistere senza avviso***

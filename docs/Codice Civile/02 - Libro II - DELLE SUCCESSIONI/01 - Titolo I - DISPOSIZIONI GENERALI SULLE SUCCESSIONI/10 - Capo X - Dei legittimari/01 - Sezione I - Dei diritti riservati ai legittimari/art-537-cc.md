@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 537"
+title: "Art. 537 - Riserva a favore dei figli ..."
 articolo: "Art. 537"
 codice: cc
 aliases:
@@ -13,14 +13,12 @@ capo: "X"
 capo_label: "Dei legittimari"
 sezione: "I"
 sezione_label: "Dei diritti riservati ai legittimari"
-rubrica: null
-dataVigenza: "20260914"
+rubrica: "Riserva a favore dei figli ..."
+dataVigenza: "20260930"
 ordine: 624
 ---
 
-# Art. 537
-
-Riserva a favore dei figli ....
+# Art. 537 - ***Riserva a favore dei figli ...***
 
 Salvo quanto disposto dall'[articolo 542](art-542-cc.md), se il genitore lascia un figlio solo, ... a questi è riservata la metà del patrimonio.
 

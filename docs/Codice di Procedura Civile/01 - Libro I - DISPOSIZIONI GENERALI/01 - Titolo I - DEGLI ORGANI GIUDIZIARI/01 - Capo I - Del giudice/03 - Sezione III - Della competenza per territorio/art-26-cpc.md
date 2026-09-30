@@ -14,7 +14,7 @@ capo_label: "Del giudice"
 sezione: "III"
 sezione_label: "Della competenza per territorio"
 rubrica: "Foro dell'esecuzione forzata"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 27
 ---
 
@@ -26,4 +26,4 @@ Per l'esecuzione forzata su autoveicoli, motoveicoli e rimorchi è competente il
 
 Per l'esecuzione forzata degli obblighi di fare e di non fare è competente il giudice del luogo dove l'obbligo deve essere adempiuto.
 
-[^agg-144]: *AGGIORNAMENTO (144)* Il D.L. 12 settembre 2014, n. 132, convertito con modificazioni dalla L. 10 novembre 2014, n. 162, ha disposto (con l'[art. 19](art-19-cpc.md), comma 6-bis) che la presente modifica si applica ai procedimenti iniziati a decorrere dal trentesimo giorno successivo alla data di entrata in vigore della legge di conversione del D.L. medesimo.
+[^agg-144]: *AGGIORNAMENTO (144)* Il [D.L. 12 settembre 2014, n. 132](../../../../../Negoziazione%20assistita%20%28Dl%20132-2014%20-%2012.09.2014%29/00%20-%20Indice%20%28dl132-14%29.md), convertito con modificazioni dalla L. 10 novembre 2014, n. 162, ha disposto (con l'[art. 19](art-19-cpc.md), comma 6-bis) che la presente modifica si applica ai procedimenti iniziati a decorrere dal trentesimo giorno successivo alla data di entrata in vigore della legge di conversione del D.L. medesimo.

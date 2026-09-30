@@ -14,7 +14,7 @@ capo_label: "Accesso agli strumenti di regolazione della crisi e dell'insolvenza
 sezione: "II"
 sezione_label: "Procedimento unitario per l'accesso agli strumenti di regolazione della crisi e dell'insolvenza e alla liquidazione giudiziale"
 rubrica: "Impugnazioni"
-dataVigenza: "20260925"
+dataVigenza: "20260930"
 ordine: 62
 ---
 
@@ -31,7 +31,7 @@ ordine: 62
 
 3\. Il termine per il reclamo decorre, per le parti, dalla data della notificazione telematica del provvedimento a cura dell'ufficio e, per gli altri interessati, dalla data della iscrizione nel registro delle imprese. Si applica alle parti la disposizione di cui all'[articolo 327, primo comma, del codice di procedura civile](../../../../Codice%20di%20Procedura%20Civile/02%20-%20Libro%20II%20-%20DEL%20PROCESSO%20DI%20COGNIZIONE/03%20-%20Titolo%20III%20-%20DELLE%20IMPUGNAZIONI/01%20-%20Capo%20I%20-%20Delle%20impugnazioni%20in%20generale/art-327-cpc.md).
 
-4\. Il reclamo non sospende l'efficacia della sentenza, salvo quanto previsto dall'articolo 52. L'accoglimento del reclamo produce gli effetti di cui all'articolo 53.
+4\. Il reclamo non sospende l'efficacia della sentenza, salvo quanto previsto dall'[articolo 52](art-52-dlgs14-19.md). L'accoglimento del reclamo produce gli effetti di cui all'[articolo 53](art-53-dlgs14-19.md).
 
 5\. Il presidente, nei cinque giorni successivi al deposito del ricorso, designa il relatore, e fissa con decreto l'udienza di comparizione entro sessanta giorni dal deposito del ricorso.
 
@@ -51,6 +51,6 @@ ordine: 62
 
 13\. Il termine per proporre il ricorso per cassazione è di trenta giorni dalla notificazione.
 
-14\. Il ricorso per cassazione non sospende l'efficacia della sentenza. Si applica, in quanto compatibile, l'articolo 52 se il ricorso è promosso contro la sentenza con la quale la corte di appello ha rigettato il reclamo.
+14\. Il ricorso per cassazione non sospende l'efficacia della sentenza. Si applica, in quanto compatibile, l'[articolo 52](art-52-dlgs14-19.md) se il ricorso è promosso contro la sentenza con la quale la corte di appello ha rigettato il reclamo.
 
-15\. In caso di società o enti, il giudice accerta, con la sentenza che decide l'impugnazione, se sussiste mala fede del legale rappresentante che ha conferito la procura e, in caso positivo, lo condanna in solido con la società o l'ente al pagamento delle spese dell'intero processo. Nella stessa ipotesi e in presenza dei presupposti previsti dall'articolo 13, comma 1-quater, del testo unico delle disposizioni legislative e regolamentari in materia di spese di giustizia di cui al decreto del Presidente della Repubblica 30 maggio 2002, n. 115, il legale rappresentante è tenuto, in solido con la società o l'ente, al pagamento dell'ulteriore importo previsto dallo stesso [articolo 13](../../../01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Capo%20I%20-%20%28Composizione%20negoziata%20della%20crisi%29%20%29%29/art-13-dlgs14-19.md), comma 1-quater. Resta fermo quanto previsto dall'[articolo 96 del codice di procedura civile](../../../../Codice%20di%20Procedura%20Civile/01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/03%20-%20Titolo%20III%20-%20DELLE%20PARTI%20E%20DEI%20DIFENSORI/04%20-%20Capo%20IV%20-%20Delle%20responsabilità%20delle%20parti%20per%20le%20spese%20e%20per%20i%20danni%20processual/art-96-cpc.md) e dall'articolo 136, comma 2, del decreto del Presidente della Repubblica n. 115 del 2002.
+15\. In caso di società o enti, il giudice accerta, con la sentenza che decide l'impugnazione, se sussiste mala fede del legale rappresentante che ha conferito la procura e, in caso positivo, lo condanna in solido con la società o l'ente al pagamento delle spese dell'intero processo. Nella stessa ipotesi e in presenza dei presupposti previsti dall'[articolo 13, comma 1-quater, del testo unico delle disposizioni legislative e regolamentari in materia di spese di giustizia](../../../../DPR%20115-2002%20-%2030.05.2002/01%20-%20Titolo%20I%20-%20Contributo%20unificato%20nel%20processo%20civile,%20amministrativo%20e%20tributario/art-13-dpr115-02.md) di cui al [decreto del Presidente della Repubblica 30 maggio 2002, n. 115](../../../../DPR%20115-2002%20-%2030.05.2002/00%20-%20Indice%20%28dpr115-02%29.md), il legale rappresentante è tenuto, in solido con la società o l'ente, al pagamento dell'ulteriore importo previsto dallo stesso [articolo 13](../../../01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Capo%20I%20-%20%28Composizione%20negoziata%20della%20crisi%29/art-13-dlgs14-19.md), comma 1-quater. Resta fermo quanto previsto dall'[articolo 96 del codice di procedura civile](../../../../Codice%20di%20Procedura%20Civile/01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/03%20-%20Titolo%20III%20-%20DELLE%20PARTI%20E%20DEI%20DIFENSORI/04%20-%20Capo%20IV%20-%20Delle%20responsabilità%20delle%20parti%20per%20le%20spese%20e%20per%20i%20danni%20processual/art-96-cpc.md) e dall'articolo 136, comma 2, del decreto del Presidente della Repubblica n. 115 del 2002.

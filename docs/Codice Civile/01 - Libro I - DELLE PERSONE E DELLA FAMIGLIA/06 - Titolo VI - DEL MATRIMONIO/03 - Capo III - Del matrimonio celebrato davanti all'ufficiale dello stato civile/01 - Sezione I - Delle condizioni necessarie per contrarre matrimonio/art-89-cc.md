@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 89"
+title: "Art. 89 - Divieto temporaneo di nuove nozze"
 articolo: "Art. 89"
 codice: cc
 aliases:
@@ -13,14 +13,12 @@ capo: "III"
 capo_label: "Del matrimonio celebrato davanti all'ufficiale dello stato civile"
 sezione: "I"
 sezione_label: "Delle condizioni necessarie per contrarre matrimonio"
-rubrica: null
-dataVigenza: "20260914"
+rubrica: "Divieto temporaneo di nuove nozze"
+dataVigenza: "20260930"
 ordine: 121
 ---
 
-# Art. 89
-
-Divieto temporaneo di nuove nozze.
+# Art. 89 - ***Divieto temporaneo di nuove nozze***
 
 Non può contrarre matrimonio la donna, se non dopo trecento giorni dallo scioglimento, dall'annullamento o dalla cessazione degli effetti civili del precedente matrimonio. Sono esclusi dal divieto i casi in cui lo scioglimento o la cessazione degli effetti civili del precedente matrimonio siano stati pronunciati in base all'[articolo 3](../../../01%20-%20Titolo%20I%20-%20DELLE%20PERSONE%20FISICHE/art-3-cc.md), numero 2, lettere b) ed f), della legge 1 dicembre 1970, n. 898, e nei casi in cui il matrimonio sia stato dichiarato nullo per impotenza, anche soltanto a generare, di uno dei coniugi.
 

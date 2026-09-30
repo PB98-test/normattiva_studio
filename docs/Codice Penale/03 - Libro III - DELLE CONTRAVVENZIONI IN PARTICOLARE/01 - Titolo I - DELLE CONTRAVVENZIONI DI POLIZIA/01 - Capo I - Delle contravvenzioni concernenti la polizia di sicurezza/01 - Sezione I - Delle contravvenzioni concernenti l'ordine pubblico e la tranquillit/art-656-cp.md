@@ -14,8 +14,8 @@ capo_label: "Delle contravvenzioni concernenti la polizia di sicurezza"
 sezione: "I"
 sezione_label: "Delle contravvenzioni concernenti l'ordine pubblico e la tranquillità pubblica § 1 Delle contravvenzioni concernenti l'inosservanza dei provvedimenti di polizia e le manifestazioni sediziose e pericolose"
 rubrica: "Pubblicazione o diffusione di notizie false, esagerate o tendenziose, atte a turbare l'ordine pubblico"
-dataVigenza: "20260914"
-ordine: 910
+dataVigenza: "20260930"
+ordine: 911
 ---
 
 # Art. 656 - ***Pubblicazione o diffusione di notizie false, esagerate o tendenziose, atte a turbare l'ordine pubblico***

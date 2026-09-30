@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 206-bis - (Assunzione della testimonianza di cardinali)."
+title: "Art. 206-bis - Assunzione della testimonianza di cardinali"
 articolo: "Art. 206-bis"
 codice: cpp
 aliases:
@@ -13,12 +13,12 @@ capo: "I"
 capo_label: "TESTIMONIANZA"
 sezione: null
 sezione_label: null
-rubrica: "(Assunzione della testimonianza di cardinali)."
-dataVigenza: "20260914"
+rubrica: "Assunzione della testimonianza di cardinali"
+dataVigenza: "20260930"
 ordine: 242
 ---
 
-# Art. 206-bis - ***(Assunzione della testimonianza di cardinali).***
+# Art. 206-bis - ***Assunzione della testimonianza di cardinali***
 
 1\. Se deve essere assunta la testimonianza di un cardinale che svolge una funzione di rilievo particolare presso la Santa Sede, questi può chiedere di essere esaminato in un luogo da lui indicato, al fine di garantire la continuità e la regolarità della funzione cui risulta preposto.
 

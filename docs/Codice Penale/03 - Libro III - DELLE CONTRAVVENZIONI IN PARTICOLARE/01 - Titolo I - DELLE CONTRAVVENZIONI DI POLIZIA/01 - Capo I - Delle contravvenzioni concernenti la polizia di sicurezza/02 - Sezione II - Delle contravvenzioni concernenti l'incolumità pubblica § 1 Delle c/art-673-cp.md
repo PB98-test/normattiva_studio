@@ -14,8 +14,8 @@ capo_label: "Delle contravvenzioni concernenti la polizia di sicurezza"
 sezione: "II"
 sezione_label: "Delle contravvenzioni concernenti l'incolumità pubblica § 1 Delle contravvenzioni concernenti l'incolumità delle persone nei luoghi di pubblico transito o nelle abitazioni"
 rubrica: "Omesso collocamento o rimozione di segnali o ripari"
-dataVigenza: "20260914"
-ordine: 929
+dataVigenza: "20260930"
+ordine: 930
 ---
 
 # Art. 673 - ***Omesso collocamento o rimozione di segnali o ripari***

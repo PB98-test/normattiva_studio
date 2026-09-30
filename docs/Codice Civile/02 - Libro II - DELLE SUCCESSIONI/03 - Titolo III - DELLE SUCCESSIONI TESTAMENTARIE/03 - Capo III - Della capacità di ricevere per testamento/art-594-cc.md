@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 594"
+title: "Art. 594 - Assegno ai figli non riconoscibili"
 articolo: "Art. 594"
 codice: cc
 aliases:
@@ -13,14 +13,12 @@ capo: "III"
 capo_label: "Della capacità di ricevere per testamento"
 sezione: null
 sezione_label: null
-rubrica: null
-dataVigenza: "20260914"
+rubrica: "Assegno ai figli non riconoscibili"
+dataVigenza: "20260930"
 ordine: 681
 ---
 
-# Art. 594
-
-Assegno ai figli non riconoscibili.
+# Art. 594 - ***Assegno ai figli non riconoscibili***
 
 Gli eredi, i legatari e i donatari sono tenuti, in proporzione a quanto hanno ricevuto, a corrispondere ai figli di cui all'[articolo 279](../../../01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/07%20-%20Titolo%20VII%20-%20DELLO%20STATO%20DI%20FIGLIO/05%20-%20Capo%20V%20-%20Della%20dichiarazione%20giudiziale%20della%20paternità%20e%20della%20maternità/art-279-cc.md) un assegno vitalizio nei limiti stabiliti dall'[articolo 580](../../02%20-%20Titolo%20II%20-%20DELLE%20SUCCESSIONI%20LEGITTIME/01%20-%20Capo%20I%20-%20Della%20successione%20dei%20parenti/art-580-cc.md), se il genitore non ha disposto per donazione o testamento in favore dei figli medesimi. Se il genitore ha disposta in loro favore, essi possono rinunziare alla disposizione e chiedere l'assegno. [^agg-40] [^agg-223]
 

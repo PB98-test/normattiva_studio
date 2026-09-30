@@ -14,7 +14,7 @@ capo_label: "ORGANISMI DI MEDIAZIONE ed enti di formazione"
 sezione: null
 sezione_label: null
 rubrica: "Organismi di mediazione e registro. Elenco dei formatori"
-dataVigenza: "20260925"
+dataVigenza: "20260930"
 ordine: 35
 ---
 
@@ -33,13 +33,13 @@ ordine: 35
 
 2\. Il registro degli organismi e tutti gli elenchi sono tenuti e gestiti mediante piattaforma informatica del Ministero della giustizia. La formazione del registro e la sua revisione, l'iscrizione, la sospensione e la cancellazione degli iscritti, l'istituzione di separate sezioni del registro per la trattazione degli affari che richiedono specifiche competenze anche in materia di consumo e internazionali, nonchè la determinazione delle indennità spettanti agli organismi sono disciplinati con appositi decreti del Ministro della giustizia, di concerto, relativamente alla materia del consumo, con il Ministro dello sviluppo economico. PERIODO SOPPRESSO DAL D.LGS. 27 DICEMBRE 2024, N. 216. PERIODO SOPPRESSO DAL D.LGS. 27 DICEMBRE 2024, N. 216.
 
-3\. L'organismo, unitamente alla domanda di iscrizione nel registro, deposita presso il Ministero della giustizia il proprio regolamento di procedura e il codice etico, comunicando ogni successiva variazione. Nel regolamento devono essere previste, fermo quanto stabilito dal presente decreto, le procedure telematiche eventualmente utilizzate dall'organismo, in modo da garantire la sicurezza delle comunicazioni e il rispetto della riservatezza dei dati. Al regolamento devono essere allegate le tabelle delle indennità spettanti agli organismi costituiti da enti privati e dei relativi criteri di calcolo, proposte per l'approvazione a norma dell'articolo 17. Ai fini dell'iscrizione nel registro il Ministero della giustizia valuta l'idoneità del regolamento. [^agg-9] [^agg-10]
+3\. L'organismo, unitamente alla domanda di iscrizione nel registro, deposita presso il Ministero della giustizia il proprio regolamento di procedura e il codice etico, comunicando ogni successiva variazione. Nel regolamento devono essere previste, fermo quanto stabilito dal presente decreto, le procedure telematiche eventualmente utilizzate dall'organismo, in modo da garantire la sicurezza delle comunicazioni e il rispetto della riservatezza dei dati. Al regolamento devono essere allegate le tabelle delle indennità spettanti agli organismi costituiti da enti privati e dei relativi criteri di calcolo, proposte per l'approvazione a norma dell'[articolo 17](art-17-dlgs28-10.md). Ai fini dell'iscrizione nel registro il Ministero della giustizia valuta l'idoneità del regolamento. [^agg-9] [^agg-10]
 
 4\. La vigilanza sul registro è esercitata dal Ministero della giustizia e, con riferimento alla sezione per la trattazione degli affari in materia di consumo di cui al comma 2, anche dal Ministero dello sviluppo economico.
 
 4-bis. Gli avvocati iscritti all'albo sono di diritto mediatori. Gli avvocati iscritti ad organismi di mediazione devono essere adeguatamente formati in materia di mediazione e mantenere la propria preparazione con percorsi di aggiornamento teorico-pratici a ciò finalizzati, nel rispetto di quanto previsto dall'articolo 62 del codice deontologico forense. Dall'attuazione della presente disposizione non devono derivare nuovi o maggiori oneri a carico della finanza pubblica.[^agg-4] [^agg-9] [^agg-10]
 
-5\. Presso il Ministero della giustizia è istituito, con decreto ministeriale, l'elenco dei formatori per la mediazione. Il decreto , in conformità all'articolo 16-bis, stabilisce i criteri per l'iscrizione, la sospensione e la cancellazione degli iscritti, nonchè per lo svolgimento dell'attività di formazione, in modo da garantire elevati livelli di formazione dei mediatori. Con lo stesso decreto, è stabilita la data a decorrere dalla quale la partecipazione all'attività di formazione di cui al presente comma costituisce per il mediatore requisito di qualificazione professionale. [^agg-9] [^agg-10]
+5\. Presso il Ministero della giustizia è istituito, con decreto ministeriale, l'elenco dei formatori per la mediazione. Il decreto , in conformità all'[articolo 16-bis](art-16-bis-dlgs28-10.md), stabilisce i criteri per l'iscrizione, la sospensione e la cancellazione degli iscritti, nonchè per lo svolgimento dell'attività di formazione, in modo da garantire elevati livelli di formazione dei mediatori. Con lo stesso decreto, è stabilita la data a decorrere dalla quale la partecipazione all'attività di formazione di cui al presente comma costituisce per il mediatore requisito di qualificazione professionale. [^agg-9] [^agg-10]
 
 6\. L'istituzione e la tenuta del registro e dell'elenco dei formatori avvengono nell'ambito delle risorse umane, finanziarie e strumentali già esistenti, e disponibili a legislazione vigente, presso il Ministero della giustizia e il Ministero dello sviluppo economico, per la parte di rispettiva competenza, e, comunque, senza nuovi o maggiori oneri per il bilancio dello Stato.
 

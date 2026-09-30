@@ -14,8 +14,8 @@ capo_label: "Delle contravvenzioni concernenti la polizia di sicurezza"
 sezione: "I"
 sezione_label: "Delle contravvenzioni concernenti l'ordine pubblico e la tranquillità pubblica § 1 Delle contravvenzioni concernenti l'inosservanza dei provvedimenti di polizia e le manifestazioni sediziose e pericolose"
 rubrica: "Abuso della credulità popolare"
-dataVigenza: "20260914"
-ordine: 915
+dataVigenza: "20260930"
+ordine: 916
 ---
 
 # Art. 661 - ***Abuso della credulità popolare***

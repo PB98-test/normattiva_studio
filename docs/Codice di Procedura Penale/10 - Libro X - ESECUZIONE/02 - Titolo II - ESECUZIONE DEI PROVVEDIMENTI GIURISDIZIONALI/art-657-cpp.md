@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Computo della custodia cautelare e delle pene espiate senza titolo"
-dataVigenza: "20260914"
-ordine: 785
+dataVigenza: "20260930"
+ordine: 786
 ---
 
 # Art. 657 - ***Computo della custodia cautelare e delle pene espiate senza titolo***

@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 250"
+title: "Art. 250 - Riconoscimento"
 articolo: "Art. 250"
 codice: cc
 aliases:
@@ -13,14 +13,12 @@ capo: "IV"
 capo_label: "Del riconoscimento dei figli nati fuori dal matrimonio"
 sezione: null
 sezione_label: null
-rubrica: null
-dataVigenza: "20260914"
+rubrica: "Riconoscimento"
+dataVigenza: "20260930"
 ordine: 295
 ---
 
-# Art. 250
-
-Riconoscimento.
+# Art. 250 - ***Riconoscimento***
 
 Il figlio nato fuori del matrimonio può essere riconosciuto, nei modi previsti dall'[articolo 254](art-254-cc.md), dalla madre e dal padre, anche se già uniti in matrimonio con altra persona all'epoca del concepimento. Il riconoscimento può avvenire tanto congiuntamente quanto separatamente.
 

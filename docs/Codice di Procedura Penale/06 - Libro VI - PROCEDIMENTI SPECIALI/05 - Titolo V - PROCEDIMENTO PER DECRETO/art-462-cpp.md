@@ -14,10 +14,10 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Restituzione nel termine per proporre opposizione"
-dataVigenza: "20260914"
-ordine: 558
+dataVigenza: "20260930"
+ordine: 559
 ---
 
 # Art. 462 - ***Restituzione nel termine per proporre opposizione***
 
-1\. L'imputato e la persona civilmente obbligata per la pena pecuniaria sono restituiti nel termine per proporre opposizione a norma degli [articoli 175](../../02%20-%20Libro%20II%20-%20ATTI/06%20-%20Titolo%20VI%20-%20TERMINI/art-175-cpp.md) e [175-bis](../../02%20-%20Libro%20II%20-%20ATTI/06%20-%20Titolo%20VI%20-%20TERMINI/art-175-bis-cpp.md).
+1\. L'imputato e la persona civilmente obbligata per la pena pecuniaria sono restituiti nel termine per proporre opposizione a norma degli [articoli 175](../../02%20-%20Libro%20II%20-%20ATTI/07%20-%20Titolo%20VI%20-%20TERMINI/art-175-cpp.md) e [175-bis](../../02%20-%20Libro%20II%20-%20ATTI/07%20-%20Titolo%20VI%20-%20TERMINI/art-175-bis-cpp.md).

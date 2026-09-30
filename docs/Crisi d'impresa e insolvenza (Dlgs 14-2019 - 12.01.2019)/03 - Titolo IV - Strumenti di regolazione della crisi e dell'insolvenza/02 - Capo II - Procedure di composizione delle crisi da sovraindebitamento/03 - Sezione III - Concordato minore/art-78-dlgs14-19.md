@@ -14,7 +14,7 @@ capo_label: "Procedure di composizione delle crisi da sovraindebitamento"
 sezione: "III"
 sezione_label: "Concordato minore"
 rubrica: "Procedimento"
-dataVigenza: "20260925"
+dataVigenza: "20260930"
 ordine: 92
 ---
 
@@ -32,7 +32,7 @@ ordine: 92
 2-bis. Con il decreto di cui al comma 1, il giudice nomina il commissario giudiziale perchè svolga, a partire da quel momento, le funzioni dell'OCC se:
 
 - a) è stata disposta la sospensione generale dalle azioni esecutive e cautelari e la nomina appare necessaria per tutelare gli interessi delle parti;
-- b) è proposta domanda di concordato in continuità aziendale, con omologazione da pronunciarsi ai sensi dell'articolo 112, comma 2;
+- b) è proposta domanda di concordato in continuità aziendale, con omologazione da pronunciarsi ai sensi dell'[articolo 112](../../03%20-%20Capo%20III%20-%20Concordato%20preventivo/06%20-%20Sezione%20VI%20-%20Omologazione%20del%20concordato%20preventivo/art-112-dlgs14-19.md), comma 2;
 - c) la nomina è richiesta dal debitore.
 
 3\. L'OCC cura l'esecuzione del decreto.

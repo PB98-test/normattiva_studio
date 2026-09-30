@@ -14,7 +14,7 @@ capo_label: "Norme di coordinamento e transitorie"
 sezione: "I"
 sezione_label: "Disposizioni relative al personale di magistratura"
 rubrica: null
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 37
 ---
 
@@ -22,7 +22,7 @@ ordine: 37
 
 1\. In deroga al disposto dell'[articolo 2](../../art-2-dlgs51-98.md), terzo comma, del regio decreto legislativo 31 maggio 1946, n. 511, i magistrati titolari dei posti di consigliere pretore dirigente, di consigliere pretore, di procuratore della Repubblica presso la pretura circondariale e di procuratore aggiunto dello stesso ufficio, in attesa di essere destinati ai nuovi incarichi o funzioni a norma delle disposizioni che seguono, esercitano le funzioni di presidente di sezione o di procuratore aggiunto presso gli uffici cui sono state trasferite le funzioni degli uffici soppressi; i magistrati titolari dei posti di presidente di sezione di tribunale eventualmente soppressi continuano ad esercitare transitoriamente tali funzioni. I magistrati titolari dei posti soppressi di consigliere pretore dirigente e di procuratore della Repubblica presso la pretura circondariale collaborano con il presidente del tribunale e con il procuratore della Repubblica per la risoluzione, in particolare, dei problemi di organizzazione degli uffici ristrutturati.
 
-2\. Entro un anno dalla data di efficacia delle disposizioni del presente decreto, i magistrati già titolari dei posti indicati nel comma 1 possono chiedere, in deroga al disposto dell'[articolo 194](../../../04%20-%20Titolo%20IV%20-%20DISPOSIZIONI%20SUL%20PROCESSO%20PENALE/08%20-%20Capo%20VIII%20-%20Disposizioni%20relative%20al%20procedimento%20davanti%20al%20tribunale%20monocrati/art-194-dlgs51-98.md) del regio decreto 30 gennaio 1941, n. 12, l'assegnazione a posti vacanti pubblicati. Nell'assegnazione dei posti vacanti di presidente di tribunale ordinario, presidente di sezione di tribunale ordinario, procuratore della Repubblica e procuratore aggiunto della Repubblica presso il tribunale ordinario, sono particolarmente valutate le attitudini allo svolgimento di funzioni direttive dimostrate nell'esercizio delle precedenti funzioni.
+2\. Entro un anno dalla data di efficacia delle disposizioni del presente decreto, i magistrati già titolari dei posti indicati nel comma 1 possono chiedere, in deroga al disposto dell'[articolo 194 del regio decreto 30 gennaio 1941, n. 12](../../../../R.D.%2012-1941%20-%2030.01.1941/05%20-%20Titolo%20V%20-%20DELLO%20STATO%20GIURIDICO%20DEI%20MAGISTRATI/09%20-%20Capo%20IX%20-%20Delle%20funzioni%20giudicanti%20e%20requirenti,%20della%20assegnazione%20delle%20sedi/art-194-rd12-41.md), l'assegnazione a posti vacanti pubblicati. Nell'assegnazione dei posti vacanti di presidente di tribunale ordinario, presidente di sezione di tribunale ordinario, procuratore della Repubblica e procuratore aggiunto della Repubblica presso il tribunale ordinario, sono particolarmente valutate le attitudini allo svolgimento di funzioni direttive dimostrate nell'esercizio delle precedenti funzioni.
 
 3\. Nel medesimo termine indicato nel comma 2, i magistrati già titolari dei posti indicati nel comma 1 possono chiedere altresì, eventualmente subordinando gli effetti della domanda al mancato conferimento di un posto richiesto a norma del comma 2, di essere destinati all'esercizio di una delle seguenti funzioni, anche in soprannumero riassorbibile con le successive vacanze:
 
@@ -34,7 +34,7 @@ ordine: 37
 
 5\. Le eventuali nuove destinazioni sono considerate come trasferimenti a domanda a tutti gli effetti e, in particolare, agli effetti previsti dall'articolo 13 della legge 2 aprile 1979, n. 97, come sostituito dall'articolo 6 della legge 19 febbraio 1981, n. 27, salvo quanto previsto dall'[articolo 34](art-34-dlgs51-98.md), comma 2, secondo periodo, del presente decreto.
 
-6\. In deroga all'[articolo 194](../../../04%20-%20Titolo%20IV%20-%20DISPOSIZIONI%20SUL%20PROCESSO%20PENALE/08%20-%20Capo%20VIII%20-%20Disposizioni%20relative%20al%20procedimento%20davanti%20al%20tribunale%20monocrati/art-194-dlgs51-98.md) del regio decreto 30 gennaio 1941, n. 12, i magistrati indicati nel comma 1 possono chiedere di essere trasferiti ad altre sedi o assegnati ad altre funzioni:
+6\. In deroga all'[articolo 194 del regio decreto 30 gennaio 1941, n. 12](../../../../R.D.%2012-1941%20-%2030.01.1941/05%20-%20Titolo%20V%20-%20DELLO%20STATO%20GIURIDICO%20DEI%20MAGISTRATI/09%20-%20Capo%20IX%20-%20Delle%20funzioni%20giudicanti%20e%20requirenti,%20della%20assegnazione%20delle%20sedi/art-194-rd12-41.md), i magistrati indicati nel comma 1 possono chiedere di essere trasferiti ad altre sedi o assegnati ad altre funzioni:
 
 - a) trascorsi due anni dal giorno dell'inizio effettivo dell'attività nell'ufficio al quale sono stati destinati, se assegnati a funzioni direttive a norma del comma 2;
 - b) senza l'osservanza di alcun termine, se assegnati ad altre sedi o destinati ad altre funzioni a norma dei commi 2, 3 e 4, fuori del caso previsto dalla lettera a) del presente comma.

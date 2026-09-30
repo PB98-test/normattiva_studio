@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 4-ter - (Indicazione del codice fiscale nelle distinte di versamento in Tesoreria)"
+title: "Art. 4-ter - Indicazione del codice fiscale nelle distinte di versamento in Tesoreria"
 articolo: "Art. 4-ter"
 codice: dl35-05
 aliases:
@@ -13,12 +13,12 @@ capo: "II"
 capo_label: "SEMPLIFICAZIONE DELLA REGOLAMENTAZIONE"
 sezione: null
 sezione_label: null
-rubrica: "(Indicazione del codice fiscale nelle distinte di versamento in Tesoreria)"
-dataVigenza: "20260914"
+rubrica: "Indicazione del codice fiscale nelle distinte di versamento in Tesoreria"
+dataVigenza: "20260930"
 ordine: 10
 ---
 
-# Art. 4-ter - ***(Indicazione del codice fiscale nelle distinte di versamento in Tesoreria)***
+# Art. 4-ter - ***Indicazione del codice fiscale nelle distinte di versamento in Tesoreria***
 
 1\. Gli enti pubblici di cui alle tabelle A e B annesse alla legge 29 ottobre 1984, n. 720, che, ai sensi delle vigenti disposizioni, effettuano il versamento diretto dei tributi in Tesoreria, sono tenuti ad indicare nelle relative distinte, ovvero sui titoli di spesa, il proprio codice fiscale; in mancanza di tale indicazione, le Tesorerie non possono accettare il versamento presso i propri sportelli.
 

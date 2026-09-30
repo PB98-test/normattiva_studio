@@ -14,7 +14,7 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Procedimento in camera di consiglio"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 151
 ---
 
@@ -38,6 +38,6 @@ ordine: 151
 
 9\. L'inammissibilità dell'atto introduttivo del procedimento è dichiarata dal giudice con ordinanza, anche senza formalità di procedura, salvo che sia altrimenti stabilito. Si applicano le disposizioni dei commi 7 e 8.
 
-10\. Il verbale di udienza è redatto soltanto in forma riassuntiva a norma dell'[articolo 140](../03%20-%20Titolo%20III%20-%20DOCUMENTAZIONE%20DEGLI%20ATTI/art-140-cpp.md) comma 2. [^agg-15]
+10\. Il verbale di udienza è redatto soltanto in forma riassuntiva a norma dell'[articolo 140](../04%20-%20Titolo%20III%20-%20DOCUMENTAZIONE%20DEGLI%20ATTI/art-140-cpp.md) comma 2. [^agg-15]
 
 [^agg-15]: *AGGIORNAMENTO (15)* La Corte costituzionale, con sentenza 28 novembre - 3 dicembre 1990, n. 529 (in G.U. 1a s.s. 05/12/1990, n. 48), visto l'[art. 27](../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/04%20-%20Capo%20IV%20-%20PROVVEDIMENTI%20SULLA%20GIURISDIZIONE%20E%20SULLA%20COMPETENZA/art-27-cpp.md) l. 11 marzo 1953, n. 87, ha dichiarato l'illegittimità costituzionale dell'[art. 127, comma 10, del codice di procedura penale](art-127-cpp.md) ( approvato con d.P.R. 22 ottobre 1988, n. 247) nella parte in cui dopo la parola "redatto" prevede "soltanto" anzichè "di regola".

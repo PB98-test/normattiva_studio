@@ -14,7 +14,7 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Sommarie informazioni dalla persona nei cui confronti vengono svolte le indagini"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 417
 ---
 
@@ -28,7 +28,7 @@ ordine: 417
 
 4\. Se il difensore non è stato reperito o non è comparso, la polizia giudiziaria richiede al pubblico ministero di provvedere a norma dell'[articolo 97](../../01%20-%20Libro%20I%20-%20SOGGETTI/07%20-%20Titolo%20VII%20-%20DIFENSORE/art-97-cpp.md), comma 4.
 
-4-bis. Quando la persona sottoposta alle indagini e il difensore vi consentono, il pubblico ministero, su richiesta della polizia giudiziaria, può autorizzare lo svolgimento dell'atto a distanza. Si osservano, in quanto compatibili, le disposizioni dell'[articolo 133-ter](../../02%20-%20Libro%20II%20-%20ATTI/02%20-%20Titolo%20II%20-%20ATTI%20E%20PROVVEDIMENTI%20DEL%20GIUDICE/art-133-ter-cpp.md).
+4-bis. Quando la persona sottoposta alle indagini e il difensore vi consentono, il pubblico ministero, su richiesta della polizia giudiziaria, può autorizzare lo svolgimento dell'atto a distanza. Si osservano, in quanto compatibili, le disposizioni dell'[articolo 133-ter](../../02%20-%20Libro%20II%20-%20ATTI/03%20-%20Titolo%20II-bis%20-%20Partecipazione%20a%20distanza/art-133-ter-cpp.md).
 
 5\. Sul luogo o nell'immediatezza del fatto, gli ufficiali di polizia giudiziaria possono, anche senza la presenza del difensore, assumere notizie e indicazioni dalla persona nei cui confronti vengono svolte le indagini, anche se arrestata in flagranza o fermata a norma dell'[articolo 384](../06%20-%20Titolo%20VI%20-%20ARRESTO%20IN%20FLAGRANZA%20E%20FERMO/art-384-cpp.md), quando ciò è imposto dalla necessità di evitare un imminente pericolo per la libertà, l'integrità fisica o la vita di una persona oppure dalla necessità di compiere attività indispensabili al fine di evitare una grave compromissione delle indagini
 

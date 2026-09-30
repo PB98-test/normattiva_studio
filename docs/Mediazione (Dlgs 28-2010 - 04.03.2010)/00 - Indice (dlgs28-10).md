@@ -21,11 +21,11 @@ aliases:
 - [Art. 5-quater](02%20-%20Capo%20II%20-%20DEL%20PROCEDIMENTO%20DI%20MEDIAZIONE/art-5-quater-dlgs28-10.md) — Mediazione demandata dal giudice
 - [Art. 5-quinquies](02%20-%20Capo%20II%20-%20DEL%20PROCEDIMENTO%20DI%20MEDIAZIONE/art-5-quinquies-dlgs28-10.md) — Formazione del magistrato, valutazione del contenzioso definito con mediazione demandata e collaborazione
 - [Art. 5-sexies](02%20-%20Capo%20II%20-%20DEL%20PROCEDIMENTO%20DI%20MEDIAZIONE/art-5-sexies-dlgs28-10.md) — Mediazione su clausola contrattuale o statutaria
-- [Art. 6](02%20-%20Capo%20II%20-%20DEL%20PROCEDIMENTO%20DI%20MEDIAZIONE/art-6-dlgs28-10.md) — (Durata).
+- [Art. 6](02%20-%20Capo%20II%20-%20DEL%20PROCEDIMENTO%20DI%20MEDIAZIONE/art-6-dlgs28-10.md) — Durata
 - [Art. 7](02%20-%20Capo%20II%20-%20DEL%20PROCEDIMENTO%20DI%20MEDIAZIONE/art-7-dlgs28-10.md) — Effetti sulla ragionevole durata del processo
 - [Art. 8](02%20-%20Capo%20II%20-%20DEL%20PROCEDIMENTO%20DI%20MEDIAZIONE/art-8-dlgs28-10.md) — Procedimento
-- [Art. 8-bis](02%20-%20Capo%20II%20-%20DEL%20PROCEDIMENTO%20DI%20MEDIAZIONE/art-8-bis-dlgs28-10.md) — (Mediazione in modalità telematica).
-- [Art. 8-ter](02%20-%20Capo%20II%20-%20DEL%20PROCEDIMENTO%20DI%20MEDIAZIONE/art-8-ter-dlgs28-10.md) — (Incontri di mediazione con modalità audiovisive da remoto).
+- [Art. 8-bis](02%20-%20Capo%20II%20-%20DEL%20PROCEDIMENTO%20DI%20MEDIAZIONE/art-8-bis-dlgs28-10.md) — Mediazione in modalità telematica
+- [Art. 8-ter](02%20-%20Capo%20II%20-%20DEL%20PROCEDIMENTO%20DI%20MEDIAZIONE/art-8-ter-dlgs28-10.md) — Incontri di mediazione con modalità audiovisive da remoto
 - [Art. 9](02%20-%20Capo%20II%20-%20DEL%20PROCEDIMENTO%20DI%20MEDIAZIONE/art-9-dlgs28-10.md) — Dovere di riservatezza
 - [Art. 10](02%20-%20Capo%20II%20-%20DEL%20PROCEDIMENTO%20DI%20MEDIAZIONE/art-10-dlgs28-10.md) — Inutilizzabilità e segreto professionale
 - [Art. 11](02%20-%20Capo%20II%20-%20DEL%20PROCEDIMENTO%20DI%20MEDIAZIONE/art-11-dlgs28-10.md) — Conclusione del procedimento

@@ -14,7 +14,7 @@ capo_label: "Procedura di negoziazione assistita da ... avvocati"
 sezione: "I"
 sezione_label: "Della procedura di negoziazione assistita"
 rubrica: "Dichiarazioni confessorie"
-dataVigenza: "20260925"
+dataVigenza: "20260930"
 ordine: 8
 ---
 
@@ -26,6 +26,6 @@ ordine: 8
 
 3\. Il rifiuto ingiustificato di rendere dichiarazioni sui fatti di cui al comma 1 è valutato dal giudice ai fini delle spese del giudizio, anche ai sensi dell'[articolo 96, commi primo](../../../Codice%20di%20Procedura%20Civile/01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/03%20-%20Titolo%20III%20-%20DELLE%20PARTI%20E%20DEI%20DIFENSORI/04%20-%20Capo%20IV%20-%20Delle%20responsabilità%20delle%20parti%20per%20le%20spese%20e%20per%20i%20danni%20processual/art-96-cpc.md), [secondo](../../../Codice%20di%20Procedura%20Civile/01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/03%20-%20Titolo%20III%20-%20DELLE%20PARTI%20E%20DEI%20DIFENSORI/04%20-%20Capo%20IV%20-%20Delle%20responsabilità%20delle%20parti%20per%20le%20spese%20e%20per%20i%20danni%20processual/art-96-cpc.md) e [terzo, del codice di procedura civile](../../../Codice%20di%20Procedura%20Civile/01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/03%20-%20Titolo%20III%20-%20DELLE%20PARTI%20E%20DEI%20DIFENSORI/04%20-%20Capo%20IV%20-%20Delle%20responsabilità%20delle%20parti%20per%20le%20spese%20e%20per%20i%20danni%20processual/art-96-cpc.md). [^agg-7] [^agg-8]
 
-[^agg-7]: *AGGIORNAMENTO (7)* Il [D.Lgs. 10 ottobre 2022, n. 149](../../../Cartabia%20%28Dlgs%20149-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs149-22%29.md), ha disposto (con l'art. 41, comma 4) che "Le disposizioni di cui all'articolo 9 si applicano a decorrere dal 30 giugno 2023".
+[^agg-7]: *AGGIORNAMENTO (7)* Il [D.Lgs. 10 ottobre 2022, n. 149](../../../Cartabia%20%28Dlgs%20149-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs149-22%29.md), ha disposto (con l'art. 41, comma 4) che "Le disposizioni di cui all'[articolo 9](art-9-dl132-14.md) si applicano a decorrere dal 30 giugno 2023".
 
 [^agg-8]: *AGGIORNAMENTO (8)* Il [D.Lgs. 10 ottobre 2022, n. 149](../../../Cartabia%20%28Dlgs%20149-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs149-22%29.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../../../L.%20197-2022%20-%2029.12.2022/00%20-%20Indice%20%28l197-22%29.md), non prevede più (con l'art. 41, comma 4) che la modifica di cui al presente articolo si applica a decorrere dal 30 giugno 2023.

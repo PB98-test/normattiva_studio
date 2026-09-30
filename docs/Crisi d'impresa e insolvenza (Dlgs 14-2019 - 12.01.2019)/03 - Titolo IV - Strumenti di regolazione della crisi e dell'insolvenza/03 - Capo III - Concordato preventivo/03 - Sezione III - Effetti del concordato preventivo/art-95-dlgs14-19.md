@@ -14,13 +14,13 @@ capo_label: "Concordato preventivo"
 sezione: "III"
 sezione_label: "Effetti del concordato preventivo"
 rubrica: "Disposizioni speciali per i contratti con le pubbliche amministrazioni"
-dataVigenza: "20260925"
+dataVigenza: "20260930"
 ordine: 111
 ---
 
 # Art. 95 - ***Disposizioni speciali per i contratti con le pubbliche amministrazioni***
 
-1\. Fermo quanto previsto nell'articolo 97, i contratti in corso di esecuzione, stipulati con pubbliche amministrazioni, non si risolvono per effetto del deposito della domanda di concordato. Sono inefficaci eventuali patti contrari.
+1\. Fermo quanto previsto nell'[articolo 97](art-97-dlgs14-19.md), i contratti in corso di esecuzione, stipulati con pubbliche amministrazioni, non si risolvono per effetto del deposito della domanda di concordato. Sono inefficaci eventuali patti contrari.
 
 2\. Il deposito della domanda di accesso al concordato preventivo non impedisce la continuazione di contratti con le pubbliche amministrazioni, se il professionista indipendente ha attestato la conformità al piano, ove predisposto, e la ragionevole capacità di adempimento. Di tale continuazione può beneficiare, in presenza dei requisiti di legge, anche la società cessionaria o conferitaria d'azienda o di rami d'azienda cui i contratti siano trasferiti, purchè in possesso dei requisiti per la partecipazione alla gara e per l'esecuzione del contratto. Il giudice delegato, all'atto della cessione o del conferimento, dispone la cancellazione delle iscrizioni e trascrizioni. Le disposizioni del presente comma si applicano anche nell'ipotesi in cui l'impresa sia stata ammessa al concordato liquidatorio quando il professionista indipendente attesta che la continuazione è necessaria per la migliore liquidazione del patrimonio.
 
@@ -30,4 +30,4 @@ ordine: 111
 
 5\. Fermo quanto previsto dal comma 4, l'impresa in concordato può concorrere anche riunita in raggruppamento temporaneo di imprese, sempre che nessuna delle altre imprese aderenti al raggruppamento sia assoggettata ad una procedura concorsuale. [^agg-20]
 
-[^agg-20]: *AGGIORNAMENTO (20)* Il D.Lgs. 31 marzo 2023, n. 36 ha disposto (con l'art. 225, comma 2) che la presente modifica acquista efficacia a decorrere dal 1° gennaio 2024.
+[^agg-20]: *AGGIORNAMENTO (20)* Il D.Lgs. 31 marzo 2023, n. 36 ha disposto (con l'[art. 225](../../../04%20-%20Titolo%20V%20-%20Liquidazione%20giudiziale%20e%20liquidazione%20controllata/05%20-%20Capo%20V%20-%20Ripartizione%20dell%27attivo/art-225-dlgs14-19.md), comma 2) che la presente modifica acquista efficacia a decorrere dal 1° gennaio 2024.

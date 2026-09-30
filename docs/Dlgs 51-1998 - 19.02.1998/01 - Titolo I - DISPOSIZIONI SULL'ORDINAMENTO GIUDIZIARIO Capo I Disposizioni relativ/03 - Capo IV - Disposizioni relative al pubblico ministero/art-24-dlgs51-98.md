@@ -14,12 +14,12 @@ capo_label: "Disposizioni relative al pubblico ministero"
 sezione: null
 sezione_label: null
 rubrica: null
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 24
 ---
 
 # Art. 24
 
-1\. Nel secondo comma dell'[articolo 74](../../02%20-%20Titolo%20II%20-%20DISPOSIZIONI%20SUL%20PROCESSO%20CIVILE/02%20-%20Capo%20II%20-%20Disposizioni%20sul%20processo%20di%20cognizione/03%20-%20Sezione%20III%20-%20Disposizioni%20in%20materia%20di%20impugnazioni/art-74-dlgs51-98.md) del regio decreto 30 gennaio 1941, n. 12 le parole "delle corti, dei tribunali ordinari e delle preture" sono sostituite dalle parole "delle corti e dei tribunali ordinari".
+1\. Nel [secondo comma dell'articolo 74 del regio decreto 30 gennaio 1941, n. 12](../../../R.D.%2012-1941%20-%2030.01.1941/03%20-%20Titolo%20III%20-%20DEL%20PUBBLICO%20MINISTERO/02%20-%20Capo%20II%20-%20Delle%20attribuzioni%20del%20pubblico%20ministero/art-74-rd12-41.md) le parole "delle corti, dei tribunali ordinari e delle preture" sono sostituite dalle parole "delle corti e dei tribunali ordinari".
 
 #### Altre disposizioni sull'ordinamento giudiziario abrogazioni

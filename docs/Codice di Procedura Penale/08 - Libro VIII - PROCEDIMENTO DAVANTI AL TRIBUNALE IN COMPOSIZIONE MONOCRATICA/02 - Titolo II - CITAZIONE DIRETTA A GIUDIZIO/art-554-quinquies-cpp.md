@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 554-quinquies - (Revoca della sentenza di non luogo a procedere)."
+title: "Art. 554-quinquies - Revoca della sentenza di non luogo a procedere"
 articolo: "Art. 554-quinquies"
 codice: cpp
 aliases:
@@ -13,12 +13,12 @@ capo: null
 capo_label: null
 sezione: null
 sezione_label: null
-rubrica: "(Revoca della sentenza di non luogo a procedere)."
-dataVigenza: "20260914"
-ordine: 669
+rubrica: "Revoca della sentenza di non luogo a procedere"
+dataVigenza: "20260930"
+ordine: 670
 ---
 
-# Art. 554-quinquies - ***(Revoca della sentenza di non luogo a procedere).***
+# Art. 554-quinquies - ***Revoca della sentenza di non luogo a procedere***
 
 1\. Se dopo la pronuncia della sentenza di non luogo a procedere sopravvengono o si scoprono nuove fonti di prova che, da sole o unitamente a quelle già acquisite, possono determinare l'utile svolgimento del giudizio, il giudice su richiesta del pubblico ministero dispone la revoca della sentenza.
 

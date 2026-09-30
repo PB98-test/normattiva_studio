@@ -14,7 +14,7 @@ capo_label: "Principi generali"
 sezione: "II"
 sezione_label: "Pubblicazione delle informazioni ed economicità delle procedure"
 rubrica: "Prededucibilità dei crediti"
-dataVigenza: "20260925"
+dataVigenza: "20260930"
 ordine: 7
 ---
 
@@ -24,7 +24,7 @@ ordine: 7
 
 - a) i crediti relativi a spese e compensi per le prestazioni rese nell'esercizio delle funzioni rientranti nella competenza dell'organismo di composizione della crisi da sovraindebitamento;
 - b) i crediti professionali sorti in funzione della domanda di omologazione degli accordi di ristrutturazione dei debiti o del piano di ristrutturazione soggetto a omologazione e per la richiesta delle misure protettive, nei limiti del 75% del credito accertato e a condizione che gli accordi o il piano siano omologati;
-- c) i crediti professionali sorti in funzione della presentazione della domanda di concordato preventivo nonchè del deposito della relativa proposta e del piano che la correda, nei limiti del 75% del credito accertato e a condizione che la procedura sia aperta ai sensi dell'articolo 47;
+- c) i crediti professionali sorti in funzione della presentazione della domanda di concordato preventivo nonchè del deposito della relativa proposta e del piano che la correda, nei limiti del 75% del credito accertato e a condizione che la procedura sia aperta ai sensi dell'[articolo 47](../../../02%20-%20Titolo%20III%20-%20Procedimento%20per%20la%20regolazione%20giudiziale%20della%20crisi%20e%20dell%27insol/04%20-%20Capo%20IV%20-%20Accesso%20agli%20strumenti%20di%20regolazione%20della%20crisi%20e%20dell%27insolvenza%20e/02%20-%20Sezione%20II%20-%20Procedimento%20unitario%20per%20l%27accesso%20agli%20strumenti%20di%20regolazione%20d/art-47-dlgs14-19.md);
 - d) i crediti legalmente sorti , durante la procedura di liquidazione giudiziale o controllata oppure successivamente alla domanda di accesso ad uno strumento di regolazione della crisi o dell'insolvenza, per la gestione del patrimonio del debitore e la continuazione dell'esercizio dell'impresa, il compenso degli organi preposti e le prestazioni professionali richieste dagli organi medesimi o dal debitore per il buon esito dello strumento.
 
 2\. La prededuzione opera in caso di apertura del concorso e permane anche quando si susseguono più procedure.

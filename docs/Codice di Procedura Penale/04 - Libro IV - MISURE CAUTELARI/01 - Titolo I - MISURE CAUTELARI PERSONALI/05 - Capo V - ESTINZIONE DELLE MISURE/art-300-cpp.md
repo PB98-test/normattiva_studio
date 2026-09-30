@@ -14,7 +14,7 @@ capo_label: "ESTINZIONE DELLE MISURE"
 sezione: null
 sezione_label: null
 rubrica: "Estinzione o sostituzione delle misure per effetto della pronuncia di determinate sentenze"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 358
 ---
 
@@ -28,6 +28,6 @@ ordine: 358
 
 4\. La custodia cautelare perde altresì efficacia quando è pronunciata sentenza di condanna, ancorchè sottoposta a impugnazione, se la durata della custodia già subita non è inferiore all'entità della pena irrogata.
 
-4-bis. Quando, in qualsiasi grado del processo, è pronunciata sentenza di condanna o sentenza di applicazione della pena ai sensi dell'[articolo 444](../../../06%20-%20Libro%20VI%20-%20PROCEDIMENTI%20SPECIALI/02%20-%20Titolo%20II%20-%20APPLICAZIONE%20DELLA%20PENA%20SU%20RICHIESTA%20DELLE%20PARTI/art-444-cpp.md), ancorchè sottoposta a impugnazione, alla pena pecuniaria sostitutiva o al lavoro di pubblica utilità sostitutivo, di cui alla legge 24 novembre 1981 n. 689, non può essere mantenuta la custodia cautelare. Negli stessi casi, quando è pronunciata sentenza di condanna o sentenza di applicazione della pena ai sensi dell'[articolo 444](../../../06%20-%20Libro%20VI%20-%20PROCEDIMENTI%20SPECIALI/02%20-%20Titolo%20II%20-%20APPLICAZIONE%20DELLA%20PENA%20SU%20RICHIESTA%20DELLE%20PARTI/art-444-cpp.md) alla pena della detenzione domiciliare sostitutiva, non può essere mantenuta la custodia cautelare in carcere. In ogni caso, il giudice può sostituire la misura in essere con un'altra meno grave di cui ricorrono i presupposti ai sensi dell'[articolo 299](art-299-cpp.md).
+4-bis. Quando, in qualsiasi grado del processo, è pronunciata sentenza di condanna o sentenza di applicazione della pena ai sensi dell'[articolo 444](../../../06%20-%20Libro%20VI%20-%20PROCEDIMENTI%20SPECIALI/02%20-%20Titolo%20II%20-%20APPLICAZIONE%20DELLA%20PENA%20SU%20RICHIESTA%20DELLE%20PARTI/art-444-cpp.md), ancorchè sottoposta a impugnazione, alla pena pecuniaria sostitutiva o al lavoro di pubblica utilità sostitutivo, di cui alla [legge 24 novembre 1981 n. 689](../../../../L%20689-1981%20-%2024.11.1981/00%20-%20Indice%20%28l689-81%29.md), non può essere mantenuta la custodia cautelare. Negli stessi casi, quando è pronunciata sentenza di condanna o sentenza di applicazione della pena ai sensi dell'[articolo 444](../../../06%20-%20Libro%20VI%20-%20PROCEDIMENTI%20SPECIALI/02%20-%20Titolo%20II%20-%20APPLICAZIONE%20DELLA%20PENA%20SU%20RICHIESTA%20DELLE%20PARTI/art-444-cpp.md) alla pena della detenzione domiciliare sostitutiva, non può essere mantenuta la custodia cautelare in carcere. In ogni caso, il giudice può sostituire la misura in essere con un'altra meno grave di cui ricorrono i presupposti ai sensi dell'[articolo 299](art-299-cpp.md).
 
 5\. Qualora l'imputato prosciolto o nei confronti del quale sia stata emessa sentenza di non luogo a procedere sia successivamente condannato per lo stesso fatto, possono essere disposte nei suoi confronti misure coercitive quando ricorrono le esigenze cautelari previste dall'[articolo 274](../01%20-%20Capo%20I%20-%20DISPOSIZIONI%20GENERALI/art-274-cpp.md) comma 1 lettere b) o c).

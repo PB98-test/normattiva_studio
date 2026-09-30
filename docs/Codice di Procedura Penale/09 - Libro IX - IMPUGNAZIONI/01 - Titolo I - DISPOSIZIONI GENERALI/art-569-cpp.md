@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Ricorso immediato per cassazione"
-dataVigenza: "20260914"
-ordine: 685
+dataVigenza: "20260930"
+ordine: 686
 ---
 
 # Art. 569 - ***Ricorso immediato per cassazione***

@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Richiesta di documentazione alla pubblica amministrazione"
-dataVigenza: "20260914"
-ordine: 468
+dataVigenza: "20260930"
+ordine: 469
 ---
 
 # Art. 391-quater - ***Richiesta di documentazione alla pubblica amministrazione***

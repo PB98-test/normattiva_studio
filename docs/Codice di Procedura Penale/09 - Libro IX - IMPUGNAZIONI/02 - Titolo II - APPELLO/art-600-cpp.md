@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Provvedimenti in ordine all'esecuzione delle condanne civili"
-dataVigenza: "20260914"
-ordine: 722
+dataVigenza: "20260930"
+ordine: 723
 ---
 
 # Art. 600 - ***Provvedimenti in ordine all'esecuzione delle condanne civili***

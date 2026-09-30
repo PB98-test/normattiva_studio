@@ -5,10 +5,9 @@ search:
 
 # Leggi citate da L 689-1981 - 24.11.1981 ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di L 689-1981 - 24.11.1981 — 66 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di L 689-1981 - 24.11.1981 — 63 leggi trovate)*
 
 - [legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283)
-- [legge 24 novembre 1981 n. 689 art. 16 secondo comma](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689)
 - [testo unico delle norme sulla circolazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-01-18;54)
 - [decreto del Presidente della Repubblica 15 giugno 1959, n. 393](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-06-15;393)
 - [D.Lgs. 10 agosto 2018, n. 101](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2018-08-10;101)
@@ -61,8 +60,6 @@ search:
 - [decreto del Presidente della Repubblica 30 giugno 2000, n. 230](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-06-30;230)
 - [decreto del Presidente della Repubblica 30 giugno 2000, n. 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-06-30;23)
 - [decreto legislativo 28 agosto 1997, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1997-08-28;281)
-- [articolo 56 del decreto legislativo 28 agosto 2000, n. 274](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2000-08-28;274)
-- [decreto del Presidente della Repubblica 22 settembre 1988, n. 448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988-09-22;448)
 - [decreto legislativo 2 ottobre 2018, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2018-10-02;121)
 - [articolo 19 del regio decreto-legge 20 luglio 1934, n. 1404](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regiodecretolegge:1934-07-20;1404)
 - [legge 27 maggio 1935, n. 835](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-05-27;835)

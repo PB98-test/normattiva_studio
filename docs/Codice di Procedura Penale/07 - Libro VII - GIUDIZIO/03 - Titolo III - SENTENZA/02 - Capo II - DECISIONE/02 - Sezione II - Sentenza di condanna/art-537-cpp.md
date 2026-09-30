@@ -14,8 +14,8 @@ capo_label: "DECISIONE"
 sezione: "II"
 sezione_label: "Sentenza di condanna"
 rubrica: "Pronuncia sulla falsità di documenti"
-dataVigenza: "20260914"
-ordine: 646
+dataVigenza: "20260930"
+ordine: 647
 ---
 
 # Art. 537 - ***Pronuncia sulla falsità di documenti***

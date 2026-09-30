@@ -14,8 +14,8 @@ capo_label: "Delle contravvenzioni concernenti la polizia amministrativa sociale
 sezione: "I"
 sezione_label: "Delle contravvenzioni concernenti la polizia dei costumi"
 rubrica: "Bestemmia e manifestazioni oltraggiose verso i defunti"
-dataVigenza: "20260914"
-ordine: 983
+dataVigenza: "20260930"
+ordine: 984
 ---
 
 # Art. 724 - ***Bestemmia e manifestazioni oltraggiose verso i defunti***

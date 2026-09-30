@@ -14,7 +14,7 @@ capo_label: "CAPACITÀ E COMPOSIZIONE DEL GIUDICE"
 sezione: null
 sezione_label: null
 rubrica: "Attribuzioni del tribunale in composizione collegiale"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 36
 ---
 
@@ -28,14 +28,14 @@ ordine: 36
 - d) reati previsti dal Titolo XI del libro V del [codice civile](../../../../Codice%20Civile/00%20-%20Indice%20%28cc%29.md), nonchè dalle disposizioni che ne estendono l'applicazione a soggetti diversi da quelli in essi indicati;
 - e) delitti previsti dall'articolo 1136 del codice della navigazione;
 - f) delitti previsti dagli articoli 6 e 11 della legge costituzionale 16 gennaio 1989, n. 1;
-- g) delitti previsti dagli [articoli 216](../../../03%20-%20Libro%20III%20-%20PROVE/02%20-%20Titolo%20II%20-%20MEZZI%20DI%20PROVA/04%20-%20Capo%20IV%20-%20RICOGNIZIONI/art-216-cpp.md), [223](../../../03%20-%20Libro%20III%20-%20PROVE/02%20-%20Titolo%20II%20-%20MEZZI%20DI%20PROVA/06%20-%20Capo%20VI%20-%20PERIZIA/art-223-cpp.md), [228](../../../03%20-%20Libro%20III%20-%20PROVE/02%20-%20Titolo%20II%20-%20MEZZI%20DI%20PROVA/06%20-%20Capo%20VI%20-%20PERIZIA/art-228-cpp.md) e [234](../../../03%20-%20Libro%20III%20-%20PROVE/02%20-%20Titolo%20II%20-%20MEZZI%20DI%20PROVA/07%20-%20Capo%20VII%20-%20DOCUMENTI/art-234-cpp.md) del regio decreto 16 marzo 1942, n. 267, in materia fallimentare, nonchè dalle disposizioni che ne estendono l'applicazione a soggetti diversi da quelli in essi indicati;
+- g) delitti previsti dagli [articoli 216](../../../../Legge%20fallimentare%20%28RD%20267-1942%20-%2016.03.1942%29/06%20-%20Titolo%20VI%20-%20DISPOSIZIONI%20PENALI/01%20-%20Capo%20I%20-%20Reati%20commessi%20dal%20fallito/art-216-rd267-42.md), [223](../../../../Legge%20fallimentare%20%28RD%20267-1942%20-%2016.03.1942%29/06%20-%20Titolo%20VI%20-%20DISPOSIZIONI%20PENALI/02%20-%20Capo%20II%20-%20Reati%20commessi%20da%20persone%20diverse%20dal%20fallito/art-223-rd267-42.md), [228](../../../../Legge%20fallimentare%20%28RD%20267-1942%20-%2016.03.1942%29/06%20-%20Titolo%20VI%20-%20DISPOSIZIONI%20PENALI/02%20-%20Capo%20II%20-%20Reati%20commessi%20da%20persone%20diverse%20dal%20fallito/art-228-rd267-42.md) e [234 del regio decreto 16 marzo 1942, n. 267](../../../../Legge%20fallimentare%20%28RD%20267-1942%20-%2016.03.1942%29/06%20-%20Titolo%20VI%20-%20DISPOSIZIONI%20PENALI/02%20-%20Capo%20II%20-%20Reati%20commessi%20da%20persone%20diverse%20dal%20fallito/art-234-rd267-42.md), in materia fallimentare, nonchè dalle disposizioni che ne estendono l'applicazione a soggetti diversi da quelli in essi indicati;
 - h) delitti previsti dall'articolo 1 del decreto legislativo 14 febbraio 1948, n. 43, ratificato dalla legge 17 aprile 1956, n. 561 in materia di associazioni di carattere militare;
 - i) delitti previsti dalla legge 20 giugno 1952, n. 645, attuativa della XII disposizione transitoria e finale della Costituzione;
 - i-bis) delitti previsti dall'articolo 291-quater del testo unico approvato con decreto del Presidente della Repubblica 23 gennaio 1973, n. 43.
-- l) delitto previsto dall'[articolo 593-ter del codice penale](../../../../Codice%20Penale/02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/12%20-%20Titolo%20XII%20-%20DEI%20DELITTI%20CONTRO%20LA%20PERSONA/02%20-%20Capo%20I-bis%20-%20Dei%20delitti%20contro%20la%20maternità/art-593-ter-cp.md);
+- l) delitto previsto dall'[articolo 593-ter del codice penale](../../../../Codice%20Penale/02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/15%20-%20Titolo%20XII%20-%20DEI%20DELITTI%20CONTRO%20LA%20PERSONA/02%20-%20Capo%20I-bis%20-%20Dei%20delitti%20contro%20la%20maternità/art-593-ter-cp.md);
 - m) delitto previsto dall'articolo 2 della legge 25 gennaio 1982, n. 17, in materia di associazioni segrete;
 - n) delitto previsto dall'articolo 29 secondo comma, della legge 13 settembre 1982, n. 646, in materia di misure di prevenzione;
-- o) delitto previsto dall'[articolo 512-bis del codice penale](../../../../Codice%20Penale/02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/08%20-%20Titolo%20VIII%20-%20DEI%20DELITTI%20CONTRO%20L%27ECONOMIA%20PUBBLICA,%20L%27INDUSTRIA,%20IL%20COMMERCIO/01%20-%20Capo%20I%20-%20Dei%20delitti%20contro%20l%27economia%20pubblica/art-512-bis-cp.md);
+- o) delitto previsto dall'[articolo 512-bis del codice penale](../../../../Codice%20Penale/02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/09%20-%20Titolo%20VIII%20-%20DEI%20DELITTI%20CONTRO%20L%27ECONOMIA%20PUBBLICA,%20L%27INDUSTRIA,%20IL%20COMMERCIO/01%20-%20Capo%20I%20-%20Dei%20delitti%20contro%20l%27economia%20pubblica/art-512-bis-cp.md);
 - p) delitti previsti dall'articolo 6, commi 3 e 4, del decreto-legge 26 aprile 1993, n. 122, convertito, con modificazione, dalla legge 25 giugno 1993, n. 205, in materia di discriminazione razziale, etnica e religiosa;
 - q) delitti previsti dall'articolo 10 della legge 18 novembre 1995, n. 496, in materia di produzione e uso di armi chimiche.
 

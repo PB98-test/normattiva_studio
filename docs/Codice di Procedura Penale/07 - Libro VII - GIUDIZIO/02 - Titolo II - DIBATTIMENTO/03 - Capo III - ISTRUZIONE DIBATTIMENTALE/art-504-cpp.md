@@ -14,8 +14,8 @@ capo_label: "ISTRUZIONE DIBATTIMENTALE"
 sezione: null
 sezione_label: null
 rubrica: "Opposizioni nel corso dell'esame dei testimoni"
-dataVigenza: "20260914"
-ordine: 610
+dataVigenza: "20260930"
+ordine: 611
 ---
 
 # Art. 504 - ***Opposizioni nel corso dell'esame dei testimoni***

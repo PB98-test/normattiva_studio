@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Trasmissione degli atti"
-dataVigenza: "20260914"
-ordine: 552
+dataVigenza: "20260930"
+ordine: 553
 ---
 
 # Art. 457 - ***Trasmissione degli atti***

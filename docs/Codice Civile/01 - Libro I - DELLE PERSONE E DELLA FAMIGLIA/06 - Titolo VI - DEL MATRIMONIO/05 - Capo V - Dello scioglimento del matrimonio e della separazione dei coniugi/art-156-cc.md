@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 156"
+title: "Art. 156 - Effetti della separazione sui rapporti patrimoniali tra i coniugi"
 articolo: "Art. 156"
 codice: cc
 aliases:
@@ -13,14 +13,12 @@ capo: "V"
 capo_label: "Dello scioglimento del matrimonio e della separazione dei coniugi"
 sezione: null
 sezione_label: null
-rubrica: null
-dataVigenza: "20260914"
+rubrica: "Effetti della separazione sui rapporti patrimoniali tra i coniugi"
+dataVigenza: "20260930"
 ordine: 196
 ---
 
-# Art. 156
-
-Effetti della separazione sui rapporti patrimoniali tra i coniugi.
+# Art. 156 - ***Effetti della separazione sui rapporti patrimoniali tra i coniugi***
 
 Il giudice, pronunziando la separazione, stabilisce a vantaggio del coniuge cui non sia addebitabile la separazione il diritto di ricevere dall'altro coniuge quanto è necessario al suo mantenimento, qualora egli non abbia adeguati redditi propri.
 

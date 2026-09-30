@@ -14,7 +14,7 @@ capo_label: "Scioglimento e liquidazione delle società di capitali"
 sezione: null
 sezione_label: null
 rubrica: "Cause di scioglimento"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 2714
 ---
 
@@ -39,6 +39,6 @@ Gli effetti dello scioglimento si determinano, nelle ipotesi previste dai numeri
 
 Quando l'atto costitutivo o lo statuto prevedono altre cause di scioglimento, essi devono determinare la competenza a deciderle od accertarle, e ad effettuare gli adempimenti pubblicitari di cui al precedente comma.
 
-[^agg-311]: *AGGIORNAMENTO (311)* Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 24 agosto 2021, n. 118, ha disposto (con l'[art. 389](../../../01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/10%20-%20Titolo%20X%20-%20DELLA%20TUTELA%20E%20DELL%27EMANCIPAZIONE/01%20-%20Capo%20I%20-%20Della%20tutela%20dei%20minori/05%20-%20Sezione%20V%20-%20Del%20rendimento%20del%20conto%20finale/art-389-cc.md), comma 1) la proroga dell'entrata in vigore dell'introduzione del numero 7-bis) al comma 1 del presente articolo dal 1° settembre 2021 al 16 maggio 2022.
+[^agg-311]: *AGGIORNAMENTO (311)* Il [D.Lgs. 12 gennaio 2019, n. 14](../../../../Crisi%20d%27impresa%20e%20insolvenza%20%28Dlgs%2014-2019%20-%2012.01.2019%29/00%20-%20Indice%20%28dlgs14-19%29.md), come modificato dal D.L. 24 agosto 2021, n. 118, ha disposto (con l'[art. 389](../../../01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/11%20-%20Titolo%20X%20-%20DELLA%20TUTELA%20E%20DELL%27EMANCIPAZIONE/01%20-%20Capo%20I%20-%20Della%20tutela%20dei%20minori/05%20-%20Sezione%20V%20-%20Del%20rendimento%20del%20conto%20finale/art-389-cc.md), comma 1) la proroga dell'entrata in vigore dell'introduzione del numero 7-bis) al comma 1 del presente articolo dal 1° settembre 2021 al 16 maggio 2022.
 
-[^agg-316]: *AGGIORNAMENTO (316)* Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 30 aprile 2022, n. 36, ha disposto (con l'[art. 389](../../../01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/10%20-%20Titolo%20X%20-%20DELLA%20TUTELA%20E%20DELL%27EMANCIPAZIONE/01%20-%20Capo%20I%20-%20Della%20tutela%20dei%20minori/05%20-%20Sezione%20V%20-%20Del%20rendimento%20del%20conto%20finale/art-389-cc.md), comma 1) la proroga dell'entrata in vigore dell'introduzione del numero 7-bis) al comma 1 del presente articolo dal 16 maggio 2022 al 15 luglio 2022.
+[^agg-316]: *AGGIORNAMENTO (316)* Il [D.Lgs. 12 gennaio 2019, n. 14](../../../../Crisi%20d%27impresa%20e%20insolvenza%20%28Dlgs%2014-2019%20-%2012.01.2019%29/00%20-%20Indice%20%28dlgs14-19%29.md), come modificato dal D.L. 30 aprile 2022, n. 36, ha disposto (con l'[art. 389](../../../01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/11%20-%20Titolo%20X%20-%20DELLA%20TUTELA%20E%20DELL%27EMANCIPAZIONE/01%20-%20Capo%20I%20-%20Della%20tutela%20dei%20minori/05%20-%20Sezione%20V%20-%20Del%20rendimento%20del%20conto%20finale/art-389-cc.md), comma 1) la proroga dell'entrata in vigore dell'introduzione del numero 7-bis) al comma 1 del presente articolo dal 16 maggio 2022 al 15 luglio 2022.

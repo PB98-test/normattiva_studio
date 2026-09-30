@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Provvedimenti del giudice a seguito di nuove contestazioni sul giudizio abbreviato"
-dataVigenza: "20260914"
-ordine: 536
+dataVigenza: "20260930"
+ordine: 537
 ---
 
 # Art. 441-bis - ***Provvedimenti del giudice a seguito di nuove contestazioni sul giudizio abbreviato***

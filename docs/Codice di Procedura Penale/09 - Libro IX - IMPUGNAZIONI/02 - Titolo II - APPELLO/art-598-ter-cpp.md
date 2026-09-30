@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 598-ter - (Assenza dell'imputato in appello)."
+title: "Art. 598-ter - Assenza dell'imputato in appello"
 articolo: "Art. 598-ter"
 codice: cpp
 aliases:
@@ -13,12 +13,12 @@ capo: null
 capo_label: null
 sezione: null
 sezione_label: null
-rubrica: "(Assenza dell'imputato in appello)."
-dataVigenza: "20260914"
-ordine: 719
+rubrica: "Assenza dell'imputato in appello"
+dataVigenza: "20260930"
+ordine: 720
 ---
 
-# Art. 598-ter - ***(Assenza dell'imputato in appello).***
+# Art. 598-ter - ***Assenza dell'imputato in appello***
 
 1\. In caso di regolarità delle notificazioni, l'imputato appellante non presente all'udienza di cui agli [articoli 599](art-599-cpp.md) e [602](art-602-cpp.md) è sempre giudicato in assenza anche fuori dei casi di cui all'[articolo 420-bis](../../05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/09%20-%20Titolo%20IX%20-%20UDIENZA%20PRELIMINARE/art-420-bis-cpp.md).
 

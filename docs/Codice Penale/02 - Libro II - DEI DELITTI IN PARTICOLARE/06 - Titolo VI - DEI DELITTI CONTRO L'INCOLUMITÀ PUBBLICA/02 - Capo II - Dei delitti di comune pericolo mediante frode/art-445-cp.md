@@ -14,8 +14,8 @@ capo_label: "Dei delitti di comune pericolo mediante frode"
 sezione: null
 sezione_label: null
 rubrica: "Somministrazione di medicinali in modo pericoloso per la salute pubblica"
-dataVigenza: "20260914"
-ordine: 539
+dataVigenza: "20260930"
+ordine: 540
 ---
 
 # Art. 445 - ***Somministrazione di medicinali in modo pericoloso per la salute pubblica***

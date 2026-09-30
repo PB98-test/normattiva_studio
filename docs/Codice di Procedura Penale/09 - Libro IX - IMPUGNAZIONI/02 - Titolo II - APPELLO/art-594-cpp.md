@@ -15,8 +15,8 @@ sezione: null
 sezione_label: null
 rubrica: null
 abrogato: true
-dataVigenza: "20260914"
-ordine: 713
+dataVigenza: "20260930"
+ordine: 714
 ---
 
 # Art. 594 - *(Omissis)*

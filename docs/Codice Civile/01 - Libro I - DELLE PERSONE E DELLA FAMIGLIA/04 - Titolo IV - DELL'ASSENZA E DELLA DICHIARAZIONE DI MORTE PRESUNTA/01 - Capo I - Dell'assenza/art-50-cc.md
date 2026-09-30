@@ -14,7 +14,7 @@ capo_label: "Dell'assenza"
 sezione: null
 sezione_label: null
 rubrica: "Immissione nel possesso temporaneo dei beni"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 82
 ---
 
@@ -26,6 +26,6 @@ Coloro che sarebbero eredi testamentari o legittimi, se l'assente fosse morto ne
 
 I legatari, i donatari e tutti quelli ai quali spetterebbero diritti dipendenti dalla morte dell'assente possono domandare di essere ammessi all'esercizio temporaneo di questi diritti.
 
-Coloro che per effetto della morte dell'assente sarebbero liberati da obbligazioni possono essere temporaneamente esonerati dall'adempimento di esse, salvo che si tratti delle obbligazioni alimentari previste dall'[art. 434](../../13%20-%20Titolo%20XIII%20-%20DEGLI%20ALIMENTI/art-434-cc.md).
+Coloro che per effetto della morte dell'assente sarebbero liberati da obbligazioni possono essere temporaneamente esonerati dall'adempimento di esse, salvo che si tratti delle obbligazioni alimentari previste dall'[art. 434](../../14%20-%20Titolo%20XIII%20-%20DEGLI%20ALIMENTI/art-434-cc.md).
 
 Per ottenere l'immissione nel possesso, l'esercizio temporaneo dei diritti o la liberazione temporanea dalle obbligazioni si deve dare cauzione nella somma determinata dal tribunale; se taluno non sia in grado di darla, il tribunale può stabilire altre cautele, avuto riguardo alla qualità delle persone e alla loro parentela con l'assente.

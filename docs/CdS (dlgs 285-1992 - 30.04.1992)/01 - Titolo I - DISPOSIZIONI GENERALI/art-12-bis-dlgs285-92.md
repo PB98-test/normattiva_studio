@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 12-bis - (Prevenzione ed accertamento delle violazioni in materia di sosta e fermata)"
+title: "Art. 12-bis - Prevenzione ed accertamento delle violazioni in materia di sosta e fermata"
 articolo: "Art. 12-bis"
 codice: dlgs285-92
 aliases:
@@ -13,12 +13,12 @@ capo: null
 capo_label: null
 sezione: null
 sezione_label: null
-rubrica: "(Prevenzione ed accertamento delle violazioni in materia di sosta e fermata)"
-dataVigenza: "20260914"
+rubrica: "Prevenzione ed accertamento delle violazioni in materia di sosta e fermata"
+dataVigenza: "20260930"
 ordine: 15
 ---
 
-# Art. 12-bis - ***(Prevenzione ed accertamento delle violazioni in materia di sosta e fermata)***
+# Art. 12-bis - ***Prevenzione ed accertamento delle violazioni in materia di sosta e fermata***
 
 1\. Con provvedimento del sindaco possono essere conferite funzioni di prevenzione e accertamento di tutte le violazioni in materia di sosta nell'ambito delle aree oggetto dell'affidamento per la sosta regolamentata o a pagamento, aree verdi comprese, a dipendenti comunali o delle società private e pubbliche esercenti la gestione della sosta di superficie a pagamento o dei parcheggi. Con provvedimento del sindaco possono, inoltre, essere conferite a dipendenti comunali o a dipendenti delle aziende municipalizzate o delle imprese addette alla raccolta dei rifiuti urbani e alla pulizia delle strade funzioni di prevenzione e accertamento di tutte le violazioni in materia di sosta o di fermata connesse all'espletamento delle predette attività.
 

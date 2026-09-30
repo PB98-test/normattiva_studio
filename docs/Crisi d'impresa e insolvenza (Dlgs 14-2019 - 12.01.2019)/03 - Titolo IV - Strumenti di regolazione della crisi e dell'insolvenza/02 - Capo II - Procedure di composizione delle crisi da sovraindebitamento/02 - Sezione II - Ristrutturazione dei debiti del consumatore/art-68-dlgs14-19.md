@@ -14,13 +14,13 @@ capo_label: "Procedure di composizione delle crisi da sovraindebitamento"
 sezione: "II"
 sezione_label: "Ristrutturazione dei debiti del consumatore"
 rubrica: "Presentazione della domanda e attività dell'OCC"
-dataVigenza: "20260925"
+dataVigenza: "20260930"
 ordine: 82
 ---
 
 # Art. 68 - ***Presentazione della domanda e attività dell'OCC***
 
-1\. La domanda deve essere presentata al giudice tramite un OCC costituito nel circondario del tribunale competente ai sensi dell'[articolo 27](../../../02%20-%20Titolo%20III%20-%20Procedimento%20per%20la%20regolazione%20giudiziale%20della%20crisi%20e%20dell%27insol/02%20-%20Capo%20II%20-%20Competenza/art-27-dlgs14-19.md), comma 2. Se nel circondario del tribunale competente non vi è un OCC, i compiti e le funzioni allo stesso attribuiti sono svolti da un professionista o da una società tra professionisti in possesso dei requisiti di cui all'articolo 358 nominati dal presidente del tribunale competente o da un giudice da lui delegato e individuati, ove possibile, tra gli iscritti all'albo dei gestori della crisi di cui al decreto del Ministro della giustizia 24 settembre 2014, n. 202. Non è necessaria l'assistenza di un difensore.
+1\. La domanda deve essere presentata al giudice tramite un OCC costituito nel circondario del tribunale competente ai sensi dell'[articolo 27](../../../02%20-%20Titolo%20III%20-%20Procedimento%20per%20la%20regolazione%20giudiziale%20della%20crisi%20e%20dell%27insol/02%20-%20Capo%20II%20-%20Competenza/art-27-dlgs14-19.md), comma 2. Se nel circondario del tribunale competente non vi è un OCC, i compiti e le funzioni allo stesso attribuiti sono svolti da un professionista o da una società tra professionisti in possesso dei requisiti di cui all'[articolo 358](../../../09%20-%20Titolo%20X%20-%20DISPOSIZIONI%20PER%20L%27ATTUAZIONE%20DEL%20CODICE%20DELLA%20CRISI%20E%20DELL%27INSOLVENZ/02%20-%20Capo%20II%20-%20Albo%20degli%20incaricati%20della%20gestione%20e%20del%20controllo%20nelle%20procedure/art-358-dlgs14-19.md) nominati dal presidente del tribunale competente o da un giudice da lui delegato e individuati, ove possibile, tra gli iscritti all'albo dei gestori della crisi di cui al decreto del Ministro della giustizia 24 settembre 2014, n. 202. Non è necessaria l'assistenza di un difensore.
 
 2\. Alla domanda, deve essere allegata una relazione dell'OCC, che deve contenere:
 

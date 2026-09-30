@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Impedimento a comparire dell'imputato o del difensore"
-dataVigenza: "20260914"
-ordine: 509
+dataVigenza: "20260930"
+ordine: 510
 ---
 
 # Art. 420-ter - ***Impedimento a comparire dell'imputato o del difensore***

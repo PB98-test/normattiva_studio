@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 558-bis - (Giudizio immediato)."
+title: "Art. 558-bis - Giudizio immediato"
 articolo: "Art. 558-bis"
 codice: cpp
 aliases:
@@ -13,12 +13,12 @@ capo: null
 capo_label: null
 sezione: null
 sezione_label: null
-rubrica: "(Giudizio immediato)."
-dataVigenza: "20260914"
-ordine: 674
+rubrica: "Giudizio immediato"
+dataVigenza: "20260930"
+ordine: 675
 ---
 
-# Art. 558-bis - ***(Giudizio immediato).***
+# Art. 558-bis - ***Giudizio immediato***
 
 1\. Per il giudizio immediato si osservano le disposizioni del titolo IV del libro sesto, in quanto compatibili.
 

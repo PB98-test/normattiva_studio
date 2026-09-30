@@ -14,8 +14,8 @@ capo_label: "ISTRUZIONE DIBATTIMENTALE"
 sezione: null
 sezione_label: null
 rubrica: "Allegazione di atti al fascicolo per il dibattimento"
-dataVigenza: "20260914"
-ordine: 623
+dataVigenza: "20260930"
+ordine: 624
 ---
 
 # Art. 515 - ***Allegazione di atti al fascicolo per il dibattimento***

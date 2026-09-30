@@ -14,8 +14,8 @@ capo_label: "ISTRUZIONE DIBATTIMENTALE"
 sezione: null
 sezione_label: null
 rubrica: "Esame delle parti private"
-dataVigenza: "20260914"
-ordine: 609
+dataVigenza: "20260930"
+ordine: 610
 ---
 
 # Art. 503 - ***Esame delle parti private***

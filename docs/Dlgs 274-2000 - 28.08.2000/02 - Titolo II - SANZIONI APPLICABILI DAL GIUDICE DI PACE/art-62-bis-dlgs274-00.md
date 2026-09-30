@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 62-bis - (Espulsione a titolo di sanzione sostitutiva)."
+title: "Art. 62-bis - Espulsione a titolo di sanzione sostitutiva"
 articolo: "Art. 62-bis"
 codice: dlgs274-00
 aliases:
@@ -13,11 +13,11 @@ capo: null
 capo_label: null
 sezione: null
 sezione_label: null
-rubrica: "(Espulsione a titolo di sanzione sostitutiva)."
-dataVigenza: "20260928"
+rubrica: "Espulsione a titolo di sanzione sostitutiva"
+dataVigenza: "20260930"
 ordine: 68
 ---
 
-# Art. 62-bis - ***(Espulsione a titolo di sanzione sostitutiva).***
+# Art. 62-bis - ***Espulsione a titolo di sanzione sostitutiva***
 
 #### DISPOSIZIONI FINALI E TRANSITORIE

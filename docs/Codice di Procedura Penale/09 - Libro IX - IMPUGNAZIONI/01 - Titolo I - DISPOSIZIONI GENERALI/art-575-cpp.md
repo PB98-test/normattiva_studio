@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Impugnazione del responsabile civile e della persona civilmente obbligata per la pena pecuniaria"
-dataVigenza: "20260914"
-ordine: 691
+dataVigenza: "20260930"
+ordine: 692
 ---
 
 # Art. 575 - ***Impugnazione del responsabile civile e della persona civilmente obbligata per la pena pecuniaria***

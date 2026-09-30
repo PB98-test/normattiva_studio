@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da Dl 35-2005 - 14.03.2005 ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Dl 35-2005 - 14.03.2005 — 173 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Dl 35-2005 - 14.03.2005 — 170 leggi trovate)*
 
 - [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const)
 - [decreto legislativo 22 gennaio 2004, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2004-01-22;42)
@@ -15,7 +15,6 @@ search:
 - [articolo 1, comma 932, della legge 27 dicembre 2006, n. 296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296)
 - [L. 23 LUGLIO 2009, N. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99)
 - [decreto legislativo 9 aprile 2003, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2003-04-09;70)
-- [legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689)
 - [legge n. 689 del 1981](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;689)
 - [articolo 4, comma 49, della legge 24 dicembre 2003, n. 350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-12-24;350)
 - [decreto legislativo 31 marzo 1998, n. 143](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1998-03-31;143)
@@ -31,11 +30,9 @@ search:
 - [decreto legislativo 25 luglio 1998, n. 286](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1998-07-25;286)
 - [D.P.R. 14 MAGGIO 2007, N. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-05-14;78)
 - [articolo 145 del decreto legislativo 10 febbraio 2005, n. 30](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2005-02-10;30)
-- [regio decreto 16 marzo 1942, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regiodecreto:1942-03-16;267)
 - [articolo 1 della legge 23 novembre 1939, n. 1966](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-11-23;1966)
 - [L. 28 DICEMBRE 2005, N. 263](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-28;263)
 - [L. 24 FEBBRAIO 2006, N. 52](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-24;52)
-- [articolo 4 della legge 1° dicembre 1970, n. 898](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-12-01;898)
 - [articolo 4 del decreto legislativo 17 gennaio 2003, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2003-01-17;5)
 - [decreto del Presidente della Repubblica 6 giugno 2001, n. 380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-06-06;380)
 - [articolo 40 della legge 28 febbraio 1985, n. 47](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-02-28;47)

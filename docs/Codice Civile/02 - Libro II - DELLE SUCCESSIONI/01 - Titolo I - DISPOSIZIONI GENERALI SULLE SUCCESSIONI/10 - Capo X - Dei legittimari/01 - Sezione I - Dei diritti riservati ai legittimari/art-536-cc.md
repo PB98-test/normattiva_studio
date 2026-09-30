@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 536"
+title: "Art. 536 - Legittimari"
 articolo: "Art. 536"
 codice: cc
 aliases:
@@ -13,14 +13,12 @@ capo: "X"
 capo_label: "Dei legittimari"
 sezione: "I"
 sezione_label: "Dei diritti riservati ai legittimari"
-rubrica: null
-dataVigenza: "20260914"
+rubrica: "Legittimari"
+dataVigenza: "20260930"
 ordine: 623
 ---
 
-# Art. 536
-
-Legittimari.
+# Art. 536 - ***Legittimari***
 
 Le persone a favore delle quali la legge riserva una quota di eredità o altri diritti nella successione sono: il coniuge, i figli, gli ascendenti.
 

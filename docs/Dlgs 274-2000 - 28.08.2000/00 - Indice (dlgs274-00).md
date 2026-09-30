@@ -35,8 +35,8 @@ aliases:
 
 #### Capo III - Citazione a giudizio
 - [Art. 20](01%20-%20Titolo%20I%20-%20PROCEDIMENTO%20DAVANTI%20AL%20GIUDICE%20DI%20PACE/03%20-%20Capo%20III%20-%20Citazione%20a%20giudizio/art-20-dlgs274-00.md) — Citazione a giudizio
-- [Art. 20-bis](01%20-%20Titolo%20I%20-%20PROCEDIMENTO%20DAVANTI%20AL%20GIUDICE%20DI%20PACE/03%20-%20Capo%20III%20-%20Citazione%20a%20giudizio/art-20-bis-dlgs274-00.md) — (Presentazione immediata a giudizio dell'imputato in casi particolari).
-- [Art. 20-ter](01%20-%20Titolo%20I%20-%20PROCEDIMENTO%20DAVANTI%20AL%20GIUDICE%20DI%20PACE/03%20-%20Capo%20III%20-%20Citazione%20a%20giudizio/art-20-ter-dlgs274-00.md) — (Citazione contestuale dell'imputato in udienza in casi particolari).
+- [Art. 20-bis](01%20-%20Titolo%20I%20-%20PROCEDIMENTO%20DAVANTI%20AL%20GIUDICE%20DI%20PACE/03%20-%20Capo%20III%20-%20Citazione%20a%20giudizio/art-20-bis-dlgs274-00.md) — Presentazione immediata a giudizio dell'imputato in casi particolari
+- [Art. 20-ter](01%20-%20Titolo%20I%20-%20PROCEDIMENTO%20DAVANTI%20AL%20GIUDICE%20DI%20PACE/03%20-%20Capo%20III%20-%20Citazione%20a%20giudizio/art-20-ter-dlgs274-00.md) — Citazione contestuale dell'imputato in udienza in casi particolari
 - [Art. 21](01%20-%20Titolo%20I%20-%20PROCEDIMENTO%20DAVANTI%20AL%20GIUDICE%20DI%20PACE/03%20-%20Capo%20III%20-%20Citazione%20a%20giudizio/art-21-dlgs274-00.md) — Ricorso immediato al giudice
 - [Art. 22](01%20-%20Titolo%20I%20-%20PROCEDIMENTO%20DAVANTI%20AL%20GIUDICE%20DI%20PACE/03%20-%20Capo%20III%20-%20Citazione%20a%20giudizio/art-22-dlgs274-00.md) — Presentazione del ricorso
 - [Art. 23](01%20-%20Titolo%20I%20-%20PROCEDIMENTO%20DAVANTI%20AL%20GIUDICE%20DI%20PACE/03%20-%20Capo%20III%20-%20Citazione%20a%20giudizio/art-23-dlgs274-00.md) — Costituzione di parte civile
@@ -51,7 +51,7 @@ aliases:
 - [Art. 30](01%20-%20Titolo%20I%20-%20PROCEDIMENTO%20DAVANTI%20AL%20GIUDICE%20DI%20PACE/04%20-%20Capo%20IV%20-%20Giudizio/art-30-dlgs274-00.md) — Udienza di comparizione a seguito di ricorso al giudice da parte della persona offesa
 - [Art. 31](01%20-%20Titolo%20I%20-%20PROCEDIMENTO%20DAVANTI%20AL%20GIUDICE%20DI%20PACE/04%20-%20Capo%20IV%20-%20Giudizio/art-31-dlgs274-00.md) — Fissazione di nuova udienza a seguito di impossibilità a comparire
 - [Art. 32](01%20-%20Titolo%20I%20-%20PROCEDIMENTO%20DAVANTI%20AL%20GIUDICE%20DI%20PACE/04%20-%20Capo%20IV%20-%20Giudizio/art-32-dlgs274-00.md) — Dibattimento
-- [Art. 32-bis](01%20-%20Titolo%20I%20-%20PROCEDIMENTO%20DAVANTI%20AL%20GIUDICE%20DI%20PACE/04%20-%20Capo%20IV%20-%20Giudizio/art-32-bis-dlgs274-00.md) — (Svolgimento del giudizio a presentazione immediata).
+- [Art. 32-bis](01%20-%20Titolo%20I%20-%20PROCEDIMENTO%20DAVANTI%20AL%20GIUDICE%20DI%20PACE/04%20-%20Capo%20IV%20-%20Giudizio/art-32-bis-dlgs274-00.md) — Svolgimento del giudizio a presentazione immediata
 - [Art. 33](01%20-%20Titolo%20I%20-%20PROCEDIMENTO%20DAVANTI%20AL%20GIUDICE%20DI%20PACE/04%20-%20Capo%20IV%20-%20Giudizio/art-33-dlgs274-00.md) — Sentenza di condanna alla pena della permanenza domiciliare
 
 #### Capo V - Definizioni alternative del procedimento
@@ -63,13 +63,13 @@ aliases:
 - [Art. 37](01%20-%20Titolo%20I%20-%20PROCEDIMENTO%20DAVANTI%20AL%20GIUDICE%20DI%20PACE/06%20-%20Capo%20VI%20-%20Disposizioni%20sulle%20impugnazioni/art-37-dlgs274-00.md) — Impugnazione dell'imputato
 - [Art. 38](01%20-%20Titolo%20I%20-%20PROCEDIMENTO%20DAVANTI%20AL%20GIUDICE%20DI%20PACE/06%20-%20Capo%20VI%20-%20Disposizioni%20sulle%20impugnazioni/art-38-dlgs274-00.md) — Impugnazione del ricorrente che ha chiesto la citazione a giudizio dell'imputato
 - [Art. 39](01%20-%20Titolo%20I%20-%20PROCEDIMENTO%20DAVANTI%20AL%20GIUDICE%20DI%20PACE/06%20-%20Capo%20VI%20-%20Disposizioni%20sulle%20impugnazioni/art-39-dlgs274-00.md) — Giudizio di appello
-- [Art. 39-bis](01%20-%20Titolo%20I%20-%20PROCEDIMENTO%20DAVANTI%20AL%20GIUDICE%20DI%20PACE/06%20-%20Capo%20VI%20-%20Disposizioni%20sulle%20impugnazioni/art-39-bis-dlgs274-00.md) — (Ricorso per cassazione).
+- [Art. 39-bis](01%20-%20Titolo%20I%20-%20PROCEDIMENTO%20DAVANTI%20AL%20GIUDICE%20DI%20PACE/06%20-%20Capo%20VI%20-%20Disposizioni%20sulle%20impugnazioni/art-39-bis-dlgs274-00.md) — Ricorso per cassazione
 
 #### Capo VII - Disposizioni sull'esecuzione
 - [Art. 40](01%20-%20Titolo%20I%20-%20PROCEDIMENTO%20DAVANTI%20AL%20GIUDICE%20DI%20PACE/07%20-%20Capo%20VII%20-%20Disposizioni%20sull%27esecuzione/art-40-dlgs274-00.md) — Giudice dell'esecuzione
 - [Art. 41](01%20-%20Titolo%20I%20-%20PROCEDIMENTO%20DAVANTI%20AL%20GIUDICE%20DI%20PACE/07%20-%20Capo%20VII%20-%20Disposizioni%20sull%27esecuzione/art-41-dlgs274-00.md) — Procedimento di esecuzione
 - [Art. 42](01%20-%20Titolo%20I%20-%20PROCEDIMENTO%20DAVANTI%20AL%20GIUDICE%20DI%20PACE/07%20-%20Capo%20VII%20-%20Disposizioni%20sull%27esecuzione/art-42-dlgs274-00.md) — *(abrogato)*
-- [Art. 42-bis](01%20-%20Titolo%20I%20-%20PROCEDIMENTO%20DAVANTI%20AL%20GIUDICE%20DI%20PACE/07%20-%20Capo%20VII%20-%20Disposizioni%20sull%27esecuzione/art-42-bis-dlgs274-00.md) — (Esecuzione delle pene pecuniarie).
+- [Art. 42-bis](01%20-%20Titolo%20I%20-%20PROCEDIMENTO%20DAVANTI%20AL%20GIUDICE%20DI%20PACE/07%20-%20Capo%20VII%20-%20Disposizioni%20sull%27esecuzione/art-42-bis-dlgs274-00.md) — Esecuzione delle pene pecuniarie
 - [Art. 43](01%20-%20Titolo%20I%20-%20PROCEDIMENTO%20DAVANTI%20AL%20GIUDICE%20DI%20PACE/07%20-%20Capo%20VII%20-%20Disposizioni%20sull%27esecuzione/art-43-dlgs274-00.md) — Esecuzione della pena della permanenza domiciliare e del lavoro di pubblica utilità
 - [Art. 44](01%20-%20Titolo%20I%20-%20PROCEDIMENTO%20DAVANTI%20AL%20GIUDICE%20DI%20PACE/07%20-%20Capo%20VII%20-%20Disposizioni%20sull%27esecuzione/art-44-dlgs274-00.md) — Modifica delle modalità di esecuzione della permanenza domiciliare e del lavoro di pubblica utilità
 - [Art. 45](01%20-%20Titolo%20I%20-%20PROCEDIMENTO%20DAVANTI%20AL%20GIUDICE%20DI%20PACE/07%20-%20Capo%20VII%20-%20Disposizioni%20sull%27esecuzione/art-45-dlgs274-00.md) — *(abrogato)*
@@ -86,7 +86,7 @@ aliases:
 - [Art. 52](02%20-%20Titolo%20II%20-%20SANZIONI%20APPLICABILI%20DAL%20GIUDICE%20DI%20PACE/art-52-dlgs274-00.md) — Sanzioni
 - [Art. 53](02%20-%20Titolo%20II%20-%20SANZIONI%20APPLICABILI%20DAL%20GIUDICE%20DI%20PACE/art-53-dlgs274-00.md) — Obbligo di permanenza domiciliare
 - [Art. 54](02%20-%20Titolo%20II%20-%20SANZIONI%20APPLICABILI%20DAL%20GIUDICE%20DI%20PACE/art-54-dlgs274-00.md) — Lavoro di pubblica utilità
-- [Art. 55](02%20-%20Titolo%20II%20-%20SANZIONI%20APPLICABILI%20DAL%20GIUDICE%20DI%20PACE/art-55-dlgs274-00.md) — (Conversione delle pene pecuniarie).
+- [Art. 55](02%20-%20Titolo%20II%20-%20SANZIONI%20APPLICABILI%20DAL%20GIUDICE%20DI%20PACE/art-55-dlgs274-00.md) — Conversione delle pene pecuniarie
 - [Art. 56](02%20-%20Titolo%20II%20-%20SANZIONI%20APPLICABILI%20DAL%20GIUDICE%20DI%20PACE/art-56-dlgs274-00.md) — Violazione degli obblighi
 - [Art. 57](02%20-%20Titolo%20II%20-%20SANZIONI%20APPLICABILI%20DAL%20GIUDICE%20DI%20PACE/art-57-dlgs274-00.md) — Competenza
 - [Art. 58](02%20-%20Titolo%20II%20-%20SANZIONI%20APPLICABILI%20DAL%20GIUDICE%20DI%20PACE/art-58-dlgs274-00.md) — Effetti delle sanzioni e criteri di ragguaglio
@@ -94,7 +94,7 @@ aliases:
 - [Art. 60](02%20-%20Titolo%20II%20-%20SANZIONI%20APPLICABILI%20DAL%20GIUDICE%20DI%20PACE/art-60-dlgs274-00.md) — Esclusione della sospensione condizionale della pena
 - [Art. 61](02%20-%20Titolo%20II%20-%20SANZIONI%20APPLICABILI%20DAL%20GIUDICE%20DI%20PACE/art-61-dlgs274-00.md) — Interruzione della prescrizione
 - [Art. 62](02%20-%20Titolo%20II%20-%20SANZIONI%20APPLICABILI%20DAL%20GIUDICE%20DI%20PACE/art-62-dlgs274-00.md) — Inapplicabilità delle altre misure sostitutive della detenzione
-- [Art. 62-bis](02%20-%20Titolo%20II%20-%20SANZIONI%20APPLICABILI%20DAL%20GIUDICE%20DI%20PACE/art-62-bis-dlgs274-00.md) — (Espulsione a titolo di sanzione sostitutiva).
+- [Art. 62-bis](02%20-%20Titolo%20II%20-%20SANZIONI%20APPLICABILI%20DAL%20GIUDICE%20DI%20PACE/art-62-bis-dlgs274-00.md) — Espulsione a titolo di sanzione sostitutiva
 
 ### Titolo III - DISPOSIZIONI FINALI E TRANSITORIE
 - [Art. 63](03%20-%20Titolo%20III%20-%20DISPOSIZIONI%20FINALI%20E%20TRANSITORIE/art-63-dlgs274-00.md) — Norme applicabili da parte di giudici diversi

@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 2429-bis"
+title: "Art. 2429-bis - (abrogato)"
 articolo: "Art. 2429-bis"
 codice: cc
 aliases:
@@ -14,13 +14,12 @@ capo_label: "Società per azioni"
 sezione: "IX"
 sezione_label: "Del bilancio"
 rubrica: null
-dataVigenza: "20260914"
+abrogato: true
+dataVigenza: "20260930"
 ordine: 2624
 ---
 
-# Art. 2429-bis
-
-ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 1991, N. 127 (141)
+# Art. 2429-bis - *(Omissis)*
 
 ----------------
 

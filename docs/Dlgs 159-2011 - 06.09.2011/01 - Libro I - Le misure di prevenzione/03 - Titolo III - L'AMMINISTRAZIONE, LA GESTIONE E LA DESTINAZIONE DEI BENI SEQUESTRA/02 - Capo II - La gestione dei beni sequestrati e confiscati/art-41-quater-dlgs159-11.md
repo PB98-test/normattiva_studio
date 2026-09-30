@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 41-quater - (Supporto delle aziende sequestrate o confiscate)."
+title: "Art. 41-quater - Supporto delle aziende sequestrate o confiscate"
 articolo: "Art. 41-quater"
 codice: dlgs159-11
 aliases:
@@ -13,12 +13,12 @@ capo: "II"
 capo_label: "La gestione dei beni sequestrati e confiscati"
 sezione: null
 sezione_label: null
-rubrica: "(Supporto delle aziende sequestrate o confiscate)."
-dataVigenza: "20260928"
+rubrica: "Supporto delle aziende sequestrate o confiscate"
+dataVigenza: "20260930"
 ordine: 47
 ---
 
-# Art. 41-quater - ***(Supporto delle aziende sequestrate o confiscate).***
+# Art. 41-quater - ***Supporto delle aziende sequestrate o confiscate***
 
 1\. Nella gestione dell'azienda l'amministratore giudiziario, sentito il competente tavolo provinciale permanente di cui all'[articolo 41-ter](art-41-ter-dlgs159-11.md), previa autorizzazione del giudice delegato, e l'Agenzia possono avvalersi del supporto tecnico, a titolo gratuito, di imprenditori attivi nel medesimo settore o in settori affini a quelli in cui opera l'azienda sequestrata o non definitivamente confiscata, in possesso dei requisiti previsti dal regolamento di attuazione dell'articolo 5-ter del decreto-legge 24 gennaio 2012, n. 1, convertito, con modificazioni, dalla legge 24 marzo 2012, n. 27, prescindendo dai limiti di fatturato, individuati nel rispetto dei criteri di economicità, efficacia, imparzialità, parità di trattamento, trasparenza, proporzionalità, attraverso procedure ad evidenza pubblica indette dall'amministratore giudiziario, tenendo conto dei progetti di affiancamento dagli stessi presentati e dell'idoneità a fornire il necessario sostegno all'azienda.
 

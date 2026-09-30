@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Presentazione spontanea"
-dataVigenza: "20260914"
-ordine: 445
+dataVigenza: "20260930"
+ordine: 446
 ---
 
 # Art. 374 - ***Presentazione spontanea***

@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 275-bis - (Disciplina dei crediti prededucibili)."
+title: "Art. 275-bis - Disciplina dei crediti prededucibili"
 articolo: "Art. 275-bis"
 codice: dlgs14-19
 aliases:
@@ -13,12 +13,12 @@ capo: "IX"
 capo_label: "Liquidazione controllata del sovraindebitato"
 sezione: null
 sezione_label: null
-rubrica: "(Disciplina dei crediti prededucibili)."
-dataVigenza: "20260925"
+rubrica: "Disciplina dei crediti prededucibili"
+dataVigenza: "20260930"
 ordine: 298
 ---
 
-# Art. 275-bis - ***(Disciplina dei crediti prededucibili).***
+# Art. 275-bis - ***Disciplina dei crediti prededucibili***
 
 1\. I crediti prededucibili sono accertati con le modalità di cui all'[articolo 273](art-273-dlgs14-19.md), con esclusione di quelli non contestati per collocazione e ammontare, anche se sorti durante l'esercizio dell'impresa del debitore, e di quelli sorti a seguito di provvedimenti di liquidazione di compensi dei soggetti nominati nel corso della procedura; in questo ultimo caso, se contestati, devono essere accertati con le modalità di cui all'[articolo 273](art-273-dlgs14-19.md).
 

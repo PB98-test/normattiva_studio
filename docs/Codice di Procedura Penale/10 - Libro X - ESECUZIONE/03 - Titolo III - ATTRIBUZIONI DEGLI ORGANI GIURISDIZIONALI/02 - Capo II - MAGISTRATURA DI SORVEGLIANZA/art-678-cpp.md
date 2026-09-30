@@ -14,8 +14,8 @@ capo_label: "MAGISTRATURA DI SORVEGLIANZA"
 sezione: null
 sezione_label: null
 rubrica: "Procedimento di sorveglianza"
-dataVigenza: "20260914"
-ordine: 808
+dataVigenza: "20260930"
+ordine: 809
 ---
 
 # Art. 678 - ***Procedimento di sorveglianza***
@@ -28,7 +28,11 @@ ordine: 808
 
 2\. Quando si procede nei confronti di persona sottoposta a osservazione scientifica della personalità, il giudice acquisisce la relativa documentazione e si avvale, se occorre, della consulenza dei tecnici del trattamento.
 
-3\. Le funzioni di pubblico ministero sono esercitate, davanti al tribunale di sorveglianza, dal procuratore generale presso la corte di appello e, davanti al magistrato di sorveglianza, dal procuratore della Repubblica presso il tribunale della sede dell'ufficio di sorveglianza. 3.1. Quando ne fa richiesta l'interessato l'udienza si svolge in forma pubblica. Si osservano, in quanto compatibili, le disposizioni degli [articoli 471](../../../07%20-%20Libro%20VII%20-%20GIUDIZIO/02%20-%20Titolo%20II%20-%20DIBATTIMENTO/01%20-%20Capo%20I%20-%20DISPOSIZIONI%20GENERALI/art-471-cpp.md) e [472](../../../07%20-%20Libro%20VII%20-%20GIUDIZIO/02%20-%20Titolo%20II%20-%20DIBATTIMENTO/01%20-%20Capo%20I%20-%20DISPOSIZIONI%20GENERALI/art-472-cpp.md). 3.2. L'avviso di fissazione dell'udienza, notificato all'interessato, contiene, a pena di nullità, l'avvertimento della facoltà di parteciparvi personalmente. Se l'interessato detenuto o internato ne fa richiesta, il giudice dispone la traduzione. Si applicano in ogni caso le forme e le modalità di partecipazione a distanza nei procedimenti in camera di consiglio previste dalla legge. La partecipazione all'udienza avviene a distanza anche quando l'interessato, detenuto o internato, ne fa richiesta ovvero quando lo stesso è detenuto o internato in un luogo posto fuori dalla circoscrizione del giudice. Ove lo ritenga opportuno, il giudice dispone la traduzione dell'interessato.
+3\. Le funzioni di pubblico ministero sono esercitate, davanti al tribunale di sorveglianza, dal procuratore generale presso la corte di appello e, davanti al magistrato di sorveglianza, dal procuratore della Repubblica presso il tribunale della sede dell'ufficio di sorveglianza.
+
+3.1. Quando ne fa richiesta l'interessato l'udienza si svolge in forma pubblica. Si osservano, in quanto compatibili, le disposizioni degli [articoli 471](../../../07%20-%20Libro%20VII%20-%20GIUDIZIO/02%20-%20Titolo%20II%20-%20DIBATTIMENTO/01%20-%20Capo%20I%20-%20DISPOSIZIONI%20GENERALI/art-471-cpp.md) e [472](../../../07%20-%20Libro%20VII%20-%20GIUDIZIO/02%20-%20Titolo%20II%20-%20DIBATTIMENTO/01%20-%20Capo%20I%20-%20DISPOSIZIONI%20GENERALI/art-472-cpp.md).
+
+3.2. L'avviso di fissazione dell'udienza, notificato all'interessato, contiene, a pena di nullità, l'avvertimento della facoltà di parteciparvi personalmente. Se l'interessato detenuto o internato ne fa richiesta, il giudice dispone la traduzione. Si applicano in ogni caso le forme e le modalità di partecipazione a distanza nei procedimenti in camera di consiglio previste dalla legge. La partecipazione all'udienza avviene a distanza anche quando l'interessato, detenuto o internato, ne fa richiesta ovvero quando lo stesso è detenuto o internato in un luogo posto fuori dalla circoscrizione del giudice. Ove lo ritenga opportuno, il giudice dispone la traduzione dell'interessato.
 
 3-bis. Il tribunale di sorveglianza e il magistrato di sorveglianza, nelle materie di rispettiva competenza, quando provvedono su richieste di provvedimenti incidenti sulla libertà personale di condannati da Tribunali o Corti penali internazionali, danno immediata comunicazione della data dell'udienza e della pertinente documentazione al Ministro della giustizia, che tempestivamente ne informa il Ministro degli affari esteri e, qualora previsto da accordi internazionali, l'organismo che ha pronunciato la condanna.
 

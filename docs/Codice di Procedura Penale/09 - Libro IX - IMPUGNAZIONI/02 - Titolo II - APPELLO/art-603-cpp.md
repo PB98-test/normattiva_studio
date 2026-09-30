@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Rinnovazione dell'istruzione dibattimentale"
-dataVigenza: "20260914"
-ordine: 725
+dataVigenza: "20260930"
+ordine: 726
 ---
 
 # Art. 603 - ***Rinnovazione dell'istruzione dibattimentale***

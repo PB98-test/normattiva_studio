@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Efficacia della sentenza penale  . . .  nel giudizio disciplinare"
-dataVigenza: "20260914"
-ordine: 781
+dataVigenza: "20260930"
+ordine: 782
 ---
 
 # Art. 653 - ***Efficacia della sentenza penale  . . .  nel giudizio disciplinare***

@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Requisiti della sentenza"
-dataVigenza: "20260914"
-ordine: 519
+dataVigenza: "20260930"
+ordine: 520
 ---
 
 # Art. 426 - ***Requisiti della sentenza***

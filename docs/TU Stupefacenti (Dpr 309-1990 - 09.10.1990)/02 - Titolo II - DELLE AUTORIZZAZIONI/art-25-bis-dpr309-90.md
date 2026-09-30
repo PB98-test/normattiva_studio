@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 25-bis - (Distruzione delle sostanze e delle composizioni in possesso dei soggetti di cui all'articolo 17 e delle farmacie)."
+title: "Art. 25-bis - Distruzione delle sostanze e delle composizioni in possesso dei soggetti di cui all'articolo 17 e delle farmacie"
 articolo: "Art. 25-bis"
 codice: dpr309-90
 aliases:
@@ -13,12 +13,12 @@ capo: null
 capo_label: null
 sezione: null
 sezione_label: null
-rubrica: "(Distruzione delle sostanze e delle composizioni in possesso dei soggetti di cui all'articolo 17 e delle farmacie)."
-dataVigenza: "20260914"
+rubrica: "Distruzione delle sostanze e delle composizioni in possesso dei soggetti di cui all'articolo 17 e delle farmacie"
+dataVigenza: "20260930"
 ordine: 27
 ---
 
-# Art. 25-bis - ***(Distruzione delle sostanze e delle composizioni in possesso dei soggetti di cui all'articolo 17 e delle farmacie).***
+# Art. 25-bis - ***Distruzione delle sostanze e delle composizioni in possesso dei soggetti di cui all'articolo 17 e delle farmacie***
 
 1\. Le sostanze e le composizioni scadute o deteriorate non utilizzabili farmacologicamente, limitatamente a quelle soggette all'obbligo di registrazione, in possesso dei soggetti autorizzati ai sensi dell'[articolo 17](art-17-dpr309-90.md), sono distrutte previa autorizzazione del Ministero della salute.
 

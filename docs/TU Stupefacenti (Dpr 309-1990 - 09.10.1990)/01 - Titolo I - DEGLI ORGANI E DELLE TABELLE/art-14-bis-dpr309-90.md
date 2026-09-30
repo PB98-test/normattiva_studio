@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 14-bis - (Sistema nazionale di allerta rapida per le droghe - NEWS-D)"
+title: "Art. 14-bis - Sistema nazionale di allerta rapida per le droghe - NEWS-D"
 articolo: "Art. 14-bis"
 codice: dpr309-90
 aliases:
@@ -13,12 +13,12 @@ capo: null
 capo_label: null
 sezione: null
 sezione_label: null
-rubrica: "(Sistema nazionale di allerta rapida per le droghe - NEWS-D)"
-dataVigenza: "20260914"
+rubrica: "Sistema nazionale di allerta rapida per le droghe - NEWS-D"
+dataVigenza: "20260930"
 ordine: 15
 ---
 
-# Art. 14-bis - ***(Sistema nazionale di allerta rapida per le droghe - NEWS-D)***
+# Art. 14-bis - ***Sistema nazionale di allerta rapida per le droghe - NEWS-D***
 
 1\. Al fine di dare piena attuazione operativa all'articolo 13 del regolamento (UE) 2023/1322 del Parlamento europeo e del Consiglio, del 27 giugno 2023, a decorrere dal 1° gennaio 2025, è istituito, presso il Dipartimento per le politiche antidroga della Presidenza del Consiglio dei ministri, il Sistema nazionale di allerta rapida per le droghe (NEWS-D), quale strumento di coordinamento operativo delle informazioni di allerta che opera anche attraverso un dispositivo informatico dedicato, finalizzato alla prevenzione e alla tutela della salute pubblica, per individuare tempestivamente e prevenire fenomeni potenzialmente pericolosi correlati alla comparsa di nuove sostanze psicoattive o al consumo di sostanze stupefacenti già vietate.
 

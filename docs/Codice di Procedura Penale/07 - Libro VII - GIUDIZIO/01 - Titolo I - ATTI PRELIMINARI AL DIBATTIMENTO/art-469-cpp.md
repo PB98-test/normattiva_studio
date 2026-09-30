@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Proscioglimento prima del dibattimento"
-dataVigenza: "20260914"
-ordine: 574
+dataVigenza: "20260930"
+ordine: 575
 ---
 
 # Art. 469 - ***Proscioglimento prima del dibattimento***

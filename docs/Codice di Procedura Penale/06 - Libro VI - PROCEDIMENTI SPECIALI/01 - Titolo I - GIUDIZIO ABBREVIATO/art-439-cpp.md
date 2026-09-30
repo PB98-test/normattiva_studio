@@ -15,8 +15,8 @@ sezione: null
 sezione_label: null
 rubrica: null
 abrogato: true
-dataVigenza: "20260914"
-ordine: 533
+dataVigenza: "20260930"
+ordine: 534
 ---
 
 # Art. 439 - *(Omissis)*

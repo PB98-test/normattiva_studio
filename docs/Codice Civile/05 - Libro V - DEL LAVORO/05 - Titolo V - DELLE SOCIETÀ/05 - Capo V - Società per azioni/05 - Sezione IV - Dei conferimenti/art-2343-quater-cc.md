@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 2343-quater"
+title: "Art. 2343-quater - Fatti eccezionali o rilevanti che incidono sulla valutazione"
 articolo: "Art. 2343-quater"
 codice: cc
 aliases:
@@ -13,14 +13,12 @@ capo: "V"
 capo_label: "Società per azioni"
 sezione: "IV"
 sezione_label: "Dei conferimenti"
-rubrica: null
-dataVigenza: "20260914"
+rubrica: "Fatti eccezionali o rilevanti che incidono sulla valutazione"
+dataVigenza: "20260930"
 ordine: 2473
 ---
 
-# Art. 2343-quater
-
-Fatti eccezionali o rilevanti che incidono sulla valutazione
+# Art. 2343-quater - ***Fatti eccezionali o rilevanti che incidono sulla valutazione***
 
 Gli amministratori verificano, nel termine di trenta giorni dalla iscrizione della società, se, nel periodo successivo a quello di cui all'[articolo 2343-ter](art-2343-ter-cc.md),primo comma, sono intervenuti fatti eccezionali che hanno inciso sul prezzo dei valori mobiliari o degli strumenti del mercato monetario conferiti in modo tale da modificare sensibilmente il valore di tali beni alla data di iscrizione della società nel registro delle imprese, comprese le situazioni in cui il mercato dei valori o strumenti non è più liquido. Gli amministratori verificano altresì nel medesimo termine se, successivamente al termine dell'esercizio cui si riferisce il bilancio di cui alla lettera
 

@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 11-quinquies - (Sostegno all'internazionalizzazione dell'economia italiana)."
+title: "Art. 11-quinquies - Sostegno all'internazionalizzazione dell'economia italiana"
 articolo: "Art. 11-quinquies"
 codice: dl35-05
 aliases:
@@ -13,12 +13,12 @@ capo: "VI"
 capo_label: "RAFFORZAMENTO DELLA BASE PRODUTTIVA"
 sezione: null
 sezione_label: null
-rubrica: "(Sostegno all'internazionalizzazione dell'economia italiana)."
-dataVigenza: "20260914"
+rubrica: "Sostegno all'internazionalizzazione dell'economia italiana"
+dataVigenza: "20260930"
 ordine: 26
 ---
 
-# Art. 11-quinquies - ***(Sostegno all'internazionalizzazione dell'economia italiana).***
+# Art. 11-quinquies - ***Sostegno all'internazionalizzazione dell'economia italiana***
 
 1\. All'articolo 6, comma 18, del decreto-legge 30 settembre 2003, n. 269, convertito, con modificazioni, dalla legge 24 novembre 2003, n. 326, le parole da: "ad eccezione di una quota" fino al termine del comma sono soppresse.
 

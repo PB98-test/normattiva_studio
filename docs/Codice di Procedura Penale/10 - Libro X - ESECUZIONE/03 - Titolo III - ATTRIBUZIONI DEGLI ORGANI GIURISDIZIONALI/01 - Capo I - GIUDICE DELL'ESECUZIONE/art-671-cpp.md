@@ -14,8 +14,8 @@ capo_label: "GIUDICE DELL'ESECUZIONE"
 sezione: null
 sezione_label: null
 rubrica: "Applicazione della disciplina del concorso formale e del reato continuato"
-dataVigenza: "20260914"
-ordine: 801
+dataVigenza: "20260930"
+ordine: 802
 ---
 
 # Art. 671 - ***Applicazione della disciplina del concorso formale e del reato continuato***

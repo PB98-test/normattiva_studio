@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 327"
+title: "Art. 327 - Usufrutto legale di uno solo dei genitori"
 articolo: "Art. 327"
 codice: cc
 aliases:
@@ -13,13 +13,11 @@ capo: "I"
 capo_label: "Dei diritti e doveri del figlio"
 sezione: null
 sezione_label: null
-rubrica: null
-dataVigenza: "20260914"
+rubrica: "Usufrutto legale di uno solo dei genitori"
+dataVigenza: "20260930"
 ordine: 402
 ---
 
-# Art. 327
-
-Usufrutto legale di uno solo dei genitori.
+# Art. 327 - ***Usufrutto legale di uno solo dei genitori***
 
 Il genitore che esercita in modo esclusivo la responsabilità genitoriale è il solo titolare dell'usufrutto legale.

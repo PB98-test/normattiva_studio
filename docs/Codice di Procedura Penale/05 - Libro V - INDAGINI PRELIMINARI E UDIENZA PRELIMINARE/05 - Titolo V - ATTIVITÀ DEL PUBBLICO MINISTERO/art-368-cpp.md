@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Provvedimenti del giudice sulla richiesta di sequestro"
-dataVigenza: "20260914"
-ordine: 437
+dataVigenza: "20260930"
+ordine: 438
 ---
 
 # Art. 368 - ***Provvedimenti del giudice sulla richiesta di sequestro***

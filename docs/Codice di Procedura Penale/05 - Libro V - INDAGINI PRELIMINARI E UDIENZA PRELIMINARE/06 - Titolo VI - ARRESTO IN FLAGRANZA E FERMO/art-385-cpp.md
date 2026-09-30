@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Divieto di arresto o di fermo in determinate circostanze"
-dataVigenza: "20260914"
-ordine: 458
+dataVigenza: "20260930"
+ordine: 459
 ---
 
 # Art. 385 - ***Divieto di arresto o di fermo in determinate circostanze***

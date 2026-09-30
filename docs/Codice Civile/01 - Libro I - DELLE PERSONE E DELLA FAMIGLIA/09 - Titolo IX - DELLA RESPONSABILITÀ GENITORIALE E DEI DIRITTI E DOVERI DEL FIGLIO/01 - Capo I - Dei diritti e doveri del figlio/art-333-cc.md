@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 333"
+title: "Art. 333 - Condotta del genitore pregiudizievole ai figli"
 articolo: "Art. 333"
 codice: cc
 aliases:
@@ -13,14 +13,12 @@ capo: "I"
 capo_label: "Dei diritti e doveri del figlio"
 sezione: null
 sezione_label: null
-rubrica: null
-dataVigenza: "20260914"
+rubrica: "Condotta del genitore pregiudizievole ai figli"
+dataVigenza: "20260930"
 ordine: 408
 ---
 
-# Art. 333
-
-Condotta del genitore pregiudizievole ai figli.
+# Art. 333 - ***Condotta del genitore pregiudizievole ai figli***
 
 Quando la condotta di uno o di entrambi i genitori non è tale da dare luogo alla pronuncia di decadenza prevista dall'[articolo 330](art-330-cc.md), ma appare comunque pregiudizievole al figlio, il giudice, secondo le circostanze può adottare i provvedimenti convenienti e può anche disporre l'allontanamento di lui dalla residenza familiare ovvero l'allontanamento del genitore o convivente che maltratta o abusa del minore.
 

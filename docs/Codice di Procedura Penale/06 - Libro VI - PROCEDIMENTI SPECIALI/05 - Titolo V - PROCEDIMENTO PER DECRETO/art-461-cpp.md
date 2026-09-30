@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Opposizione"
-dataVigenza: "20260914"
-ordine: 557
+dataVigenza: "20260930"
+ordine: 558
 ---
 
 # Art. 461 - ***Opposizione***

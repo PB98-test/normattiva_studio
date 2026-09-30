@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Richiesta di applicazione della pena e consenso"
-dataVigenza: "20260914"
-ordine: 541
+dataVigenza: "20260930"
+ordine: 542
 ---
 
 # Art. 446 - ***Richiesta di applicazione della pena e consenso***

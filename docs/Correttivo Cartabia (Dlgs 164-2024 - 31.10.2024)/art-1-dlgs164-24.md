@@ -14,7 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Modifiche al codice civile"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
+ordine: 1
 ---
 
 # Art. 1 - ***Modifiche al codice civile***

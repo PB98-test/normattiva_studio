@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Accompagnamento coattivo della persona sottoposta alle indagini"
-dataVigenza: "20260914"
-ordine: 482
+dataVigenza: "20260930"
+ordine: 483
 ---
 
 # Art. 399 - ***Accompagnamento coattivo della persona sottoposta alle indagini***

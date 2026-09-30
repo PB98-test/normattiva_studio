@@ -14,8 +14,8 @@ capo_label: "MAGISTRATURA DI SORVEGLIANZA"
 sezione: null
 sezione_label: null
 rubrica: "Misure di sicurezza"
-dataVigenza: "20260914"
-ordine: 809
+dataVigenza: "20260930"
+ordine: 810
 ---
 
 # Art. 679 - ***Misure di sicurezza***

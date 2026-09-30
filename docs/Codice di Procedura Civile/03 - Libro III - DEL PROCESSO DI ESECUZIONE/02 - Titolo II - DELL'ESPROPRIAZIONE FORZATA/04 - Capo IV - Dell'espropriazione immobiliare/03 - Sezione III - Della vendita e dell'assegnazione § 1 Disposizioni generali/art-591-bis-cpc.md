@@ -14,7 +14,7 @@ capo_label: "Dell'espropriazione immobiliare"
 sezione: "III"
 sezione_label: "Della vendita e dell'assegnazione § 1 Disposizioni generali"
 rubrica: "Delega delle operazioni di vendita"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 739
 ---
 
@@ -48,7 +48,7 @@ Il verbale è sottoscritto esclusivamente dal professionista delegato e allo ste
 
 Se il prezzo non è stato versato nel termine, il professionista delegato ne dà tempestivo avviso al giudice, trasmettendogli il fascicolo.
 
-Avvenuto il versamento del prezzo con le modalità stabilite ai sensi degli [articoli 574](art-574-cpc.md), [585](art-585-cpc.md) e [590](art-590-cpc.md), secondo comma, e verificato l'assolvimento dell'obbligo posto a carico dell'aggiudicatario dall'[articolo 585](art-585-cpc.md), quarto comma, il professionista delegato predispone il decreto di trasferimento e trasmette senza indugio al giudice dell'esecuzione il fascicolo. Al decreto, se previsto dalla legge, deve essere allegato il certificato di destinazione urbanistica dell'immobile quale risultante dal fascicolo processuale. Il professionista delegato provvede alla trasmissione del fascicolo al giudice dell'esecuzione nel caso in cui non faccia luogo all'assegnazione o ad ulteriori incanti ai sensi dell'[articolo 591](art-591-cpc.md). Contro il decreto previsto nel presente comma è proponibile l'opposizione di cui all'[articolo 617](../../../05%20-%20Titolo%20V%20-%20DELLE%20OPPOSIZIONI/01%20-%20Capo%20I%20-%20Delle%20opposizioni%20del%20debitore%20e%20del%20terzo%20assoggettato%20all%27esecuzione/02%20-%20Sezione%20II%20-%20Delle%20opposizioni%20agli%20atti%20esecutivi/art-617-cpc.md).
+Avvenuto il versamento del prezzo con le modalità stabilite ai sensi degli [articoli 574](art-574-cpc.md), [585](art-585-cpc.md) e [590](art-590-cpc.md), secondo comma, e verificato l'assolvimento dell'obbligo posto a carico dell'aggiudicatario dall'[articolo 585](art-585-cpc.md), quarto comma, il professionista delegato predispone il decreto di trasferimento e trasmette senza indugio al giudice dell'esecuzione il fascicolo. Al decreto, se previsto dalla legge, deve essere allegato il certificato di destinazione urbanistica dell'immobile quale risultante dal fascicolo processuale. Il professionista delegato provvede alla trasmissione del fascicolo al giudice dell'esecuzione nel caso in cui non faccia luogo all'assegnazione o ad ulteriori incanti ai sensi dell'[articolo 591](art-591-cpc.md). Contro il decreto previsto nel presente comma è proponibile l'opposizione di cui all'[articolo 617](../../../06%20-%20Titolo%20V%20-%20DELLE%20OPPOSIZIONI/01%20-%20Capo%20I%20-%20Delle%20opposizioni%20del%20debitore%20e%20del%20terzo%20assoggettato%20all%27esecuzione/02%20-%20Sezione%20II%20-%20Delle%20opposizioni%20agli%20atti%20esecutivi/art-617-cpc.md).
 
 Le somme versate dall'aggiudicatario sono depositate presso una banca o su un conto postale indicati dal giudice.
 

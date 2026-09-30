@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 293"
+title: "Art. 293 - Divieto d'adozione di figli ..."
 articolo: "Art. 293"
 codice: cc
 aliases:
@@ -13,14 +13,12 @@ capo: "I"
 capo_label: "Dell'adozione di persone maggiori di età e dei suoi effetti"
 sezione: null
 sezione_label: null
-rubrica: null
-dataVigenza: "20260914"
+rubrica: "Divieto d'adozione di figli ..."
+dataVigenza: "20260930"
 ordine: 338
 ---
 
-# Art. 293
-
-Divieto d'adozione di figli ....
+# Art. 293 - ***Divieto d'adozione di figli ...***
 
 I figli ... non possono essere adottati dai loro genitori.
 

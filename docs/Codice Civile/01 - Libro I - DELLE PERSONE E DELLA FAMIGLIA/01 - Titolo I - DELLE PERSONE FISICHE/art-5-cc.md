@@ -14,7 +14,7 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Atti di disposizione del proprio corpo"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 36
 ---
 
@@ -30,7 +30,7 @@ Gli atti di disposizione del proprio corpo sono vietati quando cagionino una dim
 
 [^agg-56a]: *AGGIORNAMENTO (56a)* La L. 22 maggio 1978, n. 194 ha disposto (con l'[art. 4](art-4-cc.md), comma 1) che "Per l'interruzione volontaria della gravidanza entro i primi novanta giorni, la donna che accusi circostanze per le quali la prosecuzione della gravidanza, il parto o la maternità comporterebbero un serio pericolo per la sua salute fisica o psichica, in relazione o al suo stato di salute, o alle sue condizioni economiche, o sociali o familiari, o alle circostanze in cui è avvenuto il concepimento, o a previsioni di anomalie o malformazioni del concepito, si rivolge ad un consultorio pubblico istituito ai sensi dell'articolo 2, lettera a), della legge 29 luglio 1975, n. 405, o a una struttura sociosanitaria a ciò abilitata dalla regione, o a un medico di sua fiducia".
 
-[^agg-64a]: *AGGIORNAMENTO (64a)* La L. 14 aprile 1982, n. 164 ha disposto (con l'[art. 1](art-1-cc.md), comma 1) che "La rettificazione di cui all'[articolo 454 del codice civile](../14%20-%20Titolo%20XIV%20-%20DEGLI%20ATTI%20DELLO%20STATO%20CIVILE/art-454-cc.md) si fa anche in forza di sentenza del tribunale passata in giudicato che attribuisca ad una persona sesso diverso da quello enunciato nell'atto di nascita a seguito di intervenute modificazioni dei suoi caratteri sessuali". Ha inoltre disposto (con l'[art. 3](art-3-cc.md), comma 1) che "Il tribunale, quando risulta necessario un adeguamento dei caratteri sessuali da realizzare mediante trattamento medico-chirurgico, lo autorizza con sentenza".
+[^agg-64a]: *AGGIORNAMENTO (64a)* La L. 14 aprile 1982, n. 164 ha disposto (con l'[art. 1](art-1-cc.md), comma 1) che "La rettificazione di cui all'[articolo 454 del codice civile](../15%20-%20Titolo%20XIV%20-%20DEGLI%20ATTI%20DELLO%20STATO%20CIVILE/art-454-cc.md) si fa anche in forza di sentenza del tribunale passata in giudicato che attribuisca ad una persona sesso diverso da quello enunciato nell'atto di nascita a seguito di intervenute modificazioni dei suoi caratteri sessuali". Ha inoltre disposto (con l'[art. 3](art-3-cc.md), comma 1) che "Il tribunale, quando risulta necessario un adeguamento dei caratteri sessuali da realizzare mediante trattamento medico-chirurgico, lo autorizza con sentenza".
 
 [^agg-142a]: *AGGIORNAMENTO (142a)* La L. 16 dicembre 1999, n. 483 ha disposto (con l'[art. 1](art-1-cc.md), comma 1) che "In deroga al divieto di cui all'[articolo 5 del codice civile](art-5-cc.md) è ammesso disporre a titolo gratuito di parti di fegato al fine esclusivo del trapianto tra persone viventi".
 

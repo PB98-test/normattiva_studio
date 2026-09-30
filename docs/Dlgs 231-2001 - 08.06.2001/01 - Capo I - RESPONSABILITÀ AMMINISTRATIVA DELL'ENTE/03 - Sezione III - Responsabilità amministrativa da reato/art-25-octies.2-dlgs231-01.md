@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 25-octies.2 - (Reati in materia di violazione di misure restrittive dell'Unione europea)."
+title: "Art. 25-octies.2 - Reati in materia di violazione di misure restrittive dell'Unione europea"
 articolo: "Art. 25-octies.2"
 codice: dlgs231-01
 aliases:
@@ -13,12 +13,12 @@ capo: "I"
 capo_label: "RESPONSABILITÀ AMMINISTRATIVA DELL'ENTE"
 sezione: "III"
 sezione_label: "Responsabilità amministrativa da reato"
-rubrica: "(Reati in materia di violazione di misure restrittive dell'Unione europea)."
-dataVigenza: "20260928"
+rubrica: "Reati in materia di violazione di misure restrittive dell'Unione europea"
+dataVigenza: "20260930"
 ordine: 38
 ---
 
-# Art. 25-octies.2 - ***(Reati in materia di violazione di misure restrittive dell'Unione europea).***
+# Art. 25-octies.2 - ***Reati in materia di violazione di misure restrittive dell'Unione europea***
 
 1\. In relazione alla commissione dei delitti previsti dal codice penale contro la politica estera e la sicurezza comune dell'Unione europea, si applicano:
 

@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Provvedimenti del giudice sulla richiesta di archiviazione"
-dataVigenza: "20260914"
-ordine: 493
+dataVigenza: "20260930"
+ordine: 494
 ---
 
 # Art. 409 - ***Provvedimenti del giudice sulla richiesta di archiviazione***
@@ -30,4 +30,4 @@ ordine: 493
 
 5\. Fuori del caso previsto dal comma 4, il giudice, quando non accoglie la richiesta di archiviazione, dispone con ordinanza che, entro dieci giorni, il pubblico ministero formuli l'imputazione. Entro due giorni dalla formulazione dell'imputazione, il giudice fissa con decreto l'udienza preliminare. Si osservano, in quanto applicabili, le disposizioni degli [articoli 418](../09%20-%20Titolo%20IX%20-%20UDIENZA%20PRELIMINARE/art-418-cpp.md) e [419](../09%20-%20Titolo%20IX%20-%20UDIENZA%20PRELIMINARE/art-419-cpp.md).
 
-6\. COMMA ABROGATO DALLA L. 23 GIUGNO 2017, N. 103.
+6\. COMMA ABROGATO DALLA [L. 23 GIUGNO 2017, N. 103](../../../Rif.%20Orlando%20%28L%20103-2017%20-%2023.06.2017%29/00%20-%20Indice%20%28l103-17%29.md).

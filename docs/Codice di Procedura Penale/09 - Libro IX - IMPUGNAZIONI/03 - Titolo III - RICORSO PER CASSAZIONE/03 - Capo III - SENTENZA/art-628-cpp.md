@@ -14,8 +14,8 @@ capo_label: "SENTENZA"
 sezione: null
 sezione_label: null
 rubrica: "Impugnabilità della sentenza del giudice di rinvio"
-dataVigenza: "20260914"
-ordine: 753
+dataVigenza: "20260930"
+ordine: 754
 ---
 
 # Art. 628 - ***Impugnabilità della sentenza del giudice di rinvio***

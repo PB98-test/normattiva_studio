@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 25-bis - (Falsità in monete, in carte di pubblico credito, in valori di bollo e in strumenti o segni di riconoscimento)."
+title: "Art. 25-bis - Falsità in monete, in carte di pubblico credito, in valori di bollo e in strumenti o segni di riconoscimento"
 articolo: "Art. 25-bis"
 codice: dlgs231-01
 aliases:
@@ -13,12 +13,12 @@ capo: "I"
 capo_label: "RESPONSABILITÀ AMMINISTRATIVA DELL'ENTE"
 sezione: "III"
 sezione_label: "Responsabilità amministrativa da reato"
-rubrica: "(Falsità in monete, in carte di pubblico credito, in valori di bollo e in strumenti o segni di riconoscimento)."
-dataVigenza: "20260928"
+rubrica: "Falsità in monete, in carte di pubblico credito, in valori di bollo e in strumenti o segni di riconoscimento"
+dataVigenza: "20260930"
 ordine: 28
 ---
 
-# Art. 25-bis - ***(Falsità in monete, in carte di pubblico credito, in valori di bollo e in strumenti o segni di riconoscimento).***
+# Art. 25-bis - ***Falsità in monete, in carte di pubblico credito, in valori di bollo e in strumenti o segni di riconoscimento***
 
 1\. In relazione alla commissione dei delitti previsti dal [codice penale](../../../Codice%20Penale/00%20-%20Indice%20%28cp%29.md) in materia di falsità in monete, in carte di pubblico credito , in valori di bollo e in strumenti o segni di riconoscimento, si applicano all'ente le seguenti sanzioni pecuniarie:
 

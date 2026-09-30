@@ -14,8 +14,8 @@ capo_label: "Delle contravvenzioni concernenti la polizia di sicurezza"
 sezione: "I"
 sezione_label: "Delle contravvenzioni concernenti l'ordine pubblico e la tranquillità pubblica § 1 Delle contravvenzioni concernenti l'inosservanza dei provvedimenti di polizia e le manifestazioni sediziose e pericolose"
 rubrica: "Vendita, distribuzione o affissione abusiva di scritti o disegni"
-dataVigenza: "20260914"
-ordine: 917
+dataVigenza: "20260930"
+ordine: 918
 ---
 
 # Art. 663 - ***Vendita, distribuzione o affissione abusiva di scritti o disegni***

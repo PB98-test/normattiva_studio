@@ -14,13 +14,13 @@ capo_label: "DELL'ACCETTAZIONE DELL'EREDITÀ"
 sezione: "II"
 sezione_label: "Del beneficio d'inventario"
 rubrica: "Chiamato all'eredità che è nel possesso di beni"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 572
 ---
 
 # Art. 485 - ***Chiamato all'eredità che è nel possesso di beni***
 
-Il chiamato all'eredità, quando a qualsiasi titolo è nel possesso di beni ereditari, deve fare l'inventario entro tre mesi dal giorno dell'apertura della successione o della notizia della devoluta eredità. Se entro questo termine lo ha cominciato ma non è stato in grado di completarlo, può ottenere dal giudice di pace del luogo in cui si è aperta la successione una proroga che, salvo gravi circostanze, non deve eccedere i tre mesi.[^agg-111] [^agg-112a] [^agg-273] [^agg-300] [^agg-341] [^agg-351]
+Il chiamato all'eredità, quando a qualsiasi titolo è nel possesso di beni ereditari, deve fare l'inventario entro tre mesi dal giorno dell'apertura della successione o della notizia della devoluta eredità. Se entro questo termine lo ha cominciato ma non è stato in grado di completarlo, può ottenere dal giudice di pace del luogo in cui si è aperta la successione una proroga che, salvo gravi circostanze, non deve eccedere i tre mesi.[^agg-111] [^agg-112a] [^agg-273]  [^agg-300]  [^agg-341]  [^agg-351]
 
 Trascorso tale termine senza che l'inventario sia stato compiuto, il chiamato all'eredità è considerato erede puro e semplice.
 
@@ -36,4 +36,4 @@ Compiuto l'inventario, il chiamato che non abbia ancora fatto la dichiarazione a
 
 [^agg-341]: *AGGIORNAMENTO (341)* Il D.Lgs. 13 luglio 2017, n. 116, come modificato dal D.L. 8 agosto 2025, n. 117, convertito con modificazioni dalla L. 3 ottobre 2025, n. 148, ha disposto (con l'[art. 32](../../../../01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/02%20-%20Titolo%20II%20-%20DELLE%20PERSONE%20GIURIDICHE/02%20-%20Capo%20II%20-%20Delle%20associazioni%20e%20delle%20fondazioni/art-32-cc.md), comma 3) che la modifica di cui al primo comma del presente articolo entra in vigore il 31 ottobre 2026.
 
-[^agg-351]: *AGGIORNAMENTO (351)* Il D.Lgs. 13 luglio 2017, n. 116, come modificato dal D.L. 8 agosto 2025, n. 117, ha disposto (con l'[art. 32](../../../../01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/02%20-%20Titolo%20II%20-%20DELLE%20PERSONE%20GIURIDICHE/02%20-%20Capo%20II%20-%20Delle%20associazioni%20e%20delle%20fondazioni/art-32-cc.md), comma 3) che "Le disposizioni dell'[articolo 27](../../../../01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/02%20-%20Titolo%20II%20-%20DELLE%20PERSONE%20GIURIDICHE/02%20-%20Capo%20II%20-%20Delle%20associazioni%20e%20delle%20fondazioni/art-27-cc.md) entrano in vigore il 31 ottobre 2027"
+[^agg-351]: *AGGIORNAMENTO (351)* Il D.Lgs. 13 luglio 2017, n. 116, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'[art. 32](../../../../01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/02%20-%20Titolo%20II%20-%20DELLE%20PERSONE%20GIURIDICHE/02%20-%20Capo%20II%20-%20Delle%20associazioni%20e%20delle%20fondazioni/art-32-cc.md), comma 3) che "Le disposizioni dell'[articolo 27](../../../../01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/02%20-%20Titolo%20II%20-%20DELLE%20PERSONE%20GIURIDICHE/02%20-%20Capo%20II%20-%20Delle%20associazioni%20e%20delle%20fondazioni/art-27-cc.md) entrano in vigore il 31 ottobre 2027".

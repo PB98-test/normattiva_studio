@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Inammissibilità dell'impugnazione"
-dataVigenza: "20260914"
-ordine: 709
+dataVigenza: "20260930"
+ordine: 710
 ---
 
 # Art. 591 - ***Inammissibilità dell'impugnazione***

@@ -14,8 +14,8 @@ capo_label: "DECISIONE"
 sezione: "II"
 sezione_label: "Sentenza di condanna"
 rubrica: "Condanna alle spese"
-dataVigenza: "20260914"
-ordine: 644
+dataVigenza: "20260930"
+ordine: 645
 ---
 
 # Art. 535 - ***Condanna alle spese***

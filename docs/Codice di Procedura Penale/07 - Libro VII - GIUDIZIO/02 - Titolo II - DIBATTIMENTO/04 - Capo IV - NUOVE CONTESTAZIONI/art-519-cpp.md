@@ -14,8 +14,8 @@ capo_label: "NUOVE CONTESTAZIONI"
 sezione: null
 sezione_label: null
 rubrica: "Diritti delle parti"
-dataVigenza: "20260914"
-ordine: 627
+dataVigenza: "20260930"
+ordine: 628
 ---
 
 # Art. 519 - ***Diritti delle parti***

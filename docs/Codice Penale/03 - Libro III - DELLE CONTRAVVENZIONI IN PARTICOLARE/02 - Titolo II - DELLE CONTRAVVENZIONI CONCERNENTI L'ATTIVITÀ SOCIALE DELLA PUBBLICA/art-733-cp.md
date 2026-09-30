@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Danneggiamento al patrimonio archeologico, storico o artistico nazionale"
-dataVigenza: "20260914"
-ordine: 993
+dataVigenza: "20260930"
+ordine: 994
 ---
 
 # Art. 733 - ***Danneggiamento al patrimonio archeologico, storico o artistico nazionale***

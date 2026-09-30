@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 258"
+title: "Art. 258 - Effetti del riconoscimento"
 articolo: "Art. 258"
 codice: cc
 aliases:
@@ -13,14 +13,12 @@ capo: "IV"
 capo_label: "Del riconoscimento dei figli nati fuori dal matrimonio"
 sezione: null
 sezione_label: null
-rubrica: null
-dataVigenza: "20260914"
+rubrica: "Effetti del riconoscimento"
+dataVigenza: "20260930"
 ordine: 303
 ---
 
-# Art. 258
-
-Effetti del riconoscimento.
+# Art. 258 - ***Effetti del riconoscimento***
 
 Il riconoscimento produce effetti riguardo al genitore da cui fu fatto e riguardo ai parenti di esso.
 

@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Discussione"
-dataVigenza: "20260914"
-ordine: 513
+dataVigenza: "20260930"
+ordine: 514
 ---
 
 # Art. 421 - ***Discussione***

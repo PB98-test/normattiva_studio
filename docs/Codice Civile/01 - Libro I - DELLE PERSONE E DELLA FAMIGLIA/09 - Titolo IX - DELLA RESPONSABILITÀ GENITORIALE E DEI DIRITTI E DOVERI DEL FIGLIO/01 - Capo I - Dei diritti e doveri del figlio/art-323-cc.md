@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 323"
+title: "Art. 323 - Atti vietati ai genitori"
 articolo: "Art. 323"
 codice: cc
 aliases:
@@ -13,14 +13,12 @@ capo: "I"
 capo_label: "Dei diritti e doveri del figlio"
 sezione: null
 sezione_label: null
-rubrica: null
-dataVigenza: "20260914"
+rubrica: "Atti vietati ai genitori"
+dataVigenza: "20260930"
 ordine: 398
 ---
 
-# Art. 323
-
-Atti vietati ai genitori.
+# Art. 323 - ***Atti vietati ai genitori***
 
 I genitori esercenti la responsabilità genitoriale sui figli non possono, neppure all'asta pubblica, rendersi acquirenti direttamente o per interposta persona dei beni e dei diritti del minore.
 

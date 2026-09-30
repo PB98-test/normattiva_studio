@@ -14,8 +14,8 @@ capo_label: "ISTRUZIONE DIBATTIMENTALE"
 sezione: null
 sezione_label: null
 rubrica: "Letture consentite"
-dataVigenza: "20260914"
-ordine: 617
+dataVigenza: "20260930"
+ordine: 618
 ---
 
 # Art. 511 - ***Letture consentite***

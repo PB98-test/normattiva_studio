@@ -14,8 +14,8 @@ capo_label: "ISTRUZIONE DIBATTIMENTALE"
 sezione: null
 sezione_label: null
 rubrica: "Esame a domicilio di testimoni, periti e consulenti tecnici"
-dataVigenza: "20260914"
-ordine: 608
+dataVigenza: "20260930"
+ordine: 609
 ---
 
 # Art. 502 - ***Esame a domicilio di testimoni, periti e consulenti tecnici***

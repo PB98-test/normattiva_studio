@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 274"
+title: "Art. 274 - Ammissibilità dell'azione"
 articolo: "Art. 274"
 codice: cc
 aliases:
@@ -13,14 +13,12 @@ capo: "V"
 capo_label: "Della dichiarazione giudiziale della paternità e della maternità"
 sezione: null
 sezione_label: null
-rubrica: null
-dataVigenza: "20260914"
+rubrica: "Ammissibilità dell'azione"
+dataVigenza: "20260930"
 ordine: 319
 ---
 
-# Art. 274
-
-Ammissibilità dell'azione.
+# Art. 274 - ***Ammissibilità dell'azione***
 
 L'azione per la dichiarazione giudiziale di paternità o di maternità naturale è ammessa solo quando occorrono specifiche circostanze tali da farla apparire giustificata.
 

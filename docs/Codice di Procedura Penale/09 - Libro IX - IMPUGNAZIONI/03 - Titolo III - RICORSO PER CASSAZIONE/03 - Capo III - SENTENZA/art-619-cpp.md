@@ -14,8 +14,8 @@ capo_label: "SENTENZA"
 sezione: null
 sezione_label: null
 rubrica: "Rettificazione di errori non determinanti annullamento"
-dataVigenza: "20260914"
-ordine: 741
+dataVigenza: "20260930"
+ordine: 742
 ---
 
 # Art. 619 - ***Rettificazione di errori non determinanti annullamento***

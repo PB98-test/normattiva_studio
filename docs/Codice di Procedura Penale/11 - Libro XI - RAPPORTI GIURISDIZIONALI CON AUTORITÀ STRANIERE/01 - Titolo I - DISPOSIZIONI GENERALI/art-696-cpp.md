@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 696 - (Prevalenza del diritto dell'Unione europea, delle convenzioni e del diritto internazionale generale)."
+title: "Art. 696 - Prevalenza del diritto dell'Unione europea, delle convenzioni e del diritto internazionale generale"
 articolo: "Art. 696"
 codice: cpp
 aliases:
@@ -13,12 +13,12 @@ capo: null
 capo_label: null
 sezione: null
 sezione_label: null
-rubrica: "(Prevalenza del diritto dell'Unione europea, delle convenzioni e del diritto internazionale generale)."
-dataVigenza: "20260914"
-ordine: 826
+rubrica: "Prevalenza del diritto dell'Unione europea, delle convenzioni e del diritto internazionale generale"
+dataVigenza: "20260930"
+ordine: 827
 ---
 
-# Art. 696 - ***(Prevalenza del diritto dell'Unione europea, delle convenzioni e del diritto internazionale generale).***
+# Art. 696 - ***Prevalenza del diritto dell'Unione europea, delle convenzioni e del diritto internazionale generale***
 
 1\. Nei rapporti con gli Stati membri dell'Unione europea le estradizioni, le domande di assistenza giudiziaria internazionali, gli effetti delle sentenze penali straniere, l'esecuzione all'estero delle sentenze penali italiane e gli altri rapporti con le autorità straniere, relativi all'amministrazione della giustizia in materia penale, sono disciplinati dalle norme del Trattato sull'Unione europea e del Trattato sul funzionamento dell'Unione europea, nonchè dagli atti normativi adottati in attuazione dei medesimi. Se tali norme mancano o non dispongono diversamente, si applicano le norme delle convenzioni internazionali in vigore per lo Stato e le norme di diritto internazionale generale.
 

@@ -14,13 +14,13 @@ capo_label: "Dell'apposizione e della rimozione dei sigilli"
 sezione: "II"
 sezione_label: "Della rimozione dei sigilli"
 rubrica: "Provvedimento di rimozione"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 939
 ---
 
 # Art. 763 - ***Provvedimento di rimozione***
 
-La rimozione dei sigilli è ordinata con decreto dal giudice di pace su istanza di alcuna delle persone indicate nell'[articolo 753](../01%20-%20Sezione%20I%20-%20Dell%27apposizione%20dei%20sigilli/art-753-cpc.md) numeri 1, 2 e 4. [^agg-88] [^agg-90] [^agg-155] [^agg-160] [^agg-179] [^agg-183]
+La rimozione dei sigilli è ordinata con decreto dal giudice di pace su istanza di alcuna delle persone indicate nell'[articolo 753](../01%20-%20Sezione%20I%20-%20Dell%27apposizione%20dei%20sigilli/art-753-cpc.md) numeri 1, 2 e 4. [^agg-88] [^agg-90] [^agg-155]  [^agg-160]  [^agg-179]  [^agg-183]
 
 Nei casi previsti nell'[articolo 754](../01%20-%20Sezione%20I%20-%20Dell%27apposizione%20dei%20sigilli/art-754-cpc.md) può essere ordinata anche d'ufficio e, se ricorrano le ipotesi di cui ai numeri 2 e 3, la rimozione deve essere seguita dall'inventario.
 
@@ -36,4 +36,4 @@ L'istanza e il decreto sono stesi di seguito al processo verbale di apposizione.
 
 [^agg-179]: *AGGIORNAMENTO (179)* Il D.Lgs. 13 luglio 2017, n. 116, come modificato dal D.L. 8 agosto 2025, n. 117, convertito con modificazioni dalla L. 3 ottobre 2025, n. 148, ha disposto (con l'[art. 32](../../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/04%20-%20Sezione%20IV%20-%20Delle%20modificazioni%20della%20competenza%20per%20ragione%20di%20connessione/art-32-cpc.md), comma 3) che la modifica di cui al primo comma del presente articolo entra in vigore il 31 ottobre 2026.
 
-[^agg-183]: *AGGIORNAMENTO (183)* Il D.Lgs. 13 luglio 2017, n. 116, come modificato dal D.L. 8 agosto 2025, n. 117, ha disposto (con l'[art. 32](../../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/04%20-%20Sezione%20IV%20-%20Delle%20modificazioni%20della%20competenza%20per%20ragione%20di%20connessione/art-32-cpc.md), comma 3) che "Le disposizioni dell'[articolo 27](../../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/03%20-%20Sezione%20III%20-%20Della%20competenza%20per%20territorio/art-27-cpc.md) entrano in vigore il 31 ottobre 2027".
+[^agg-183]: *AGGIORNAMENTO (183)* Il D.Lgs. 13 luglio 2017, n. 116, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'[art. 32](../../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/04%20-%20Sezione%20IV%20-%20Delle%20modificazioni%20della%20competenza%20per%20ragione%20di%20connessione/art-32-cpc.md), comma 3) che "Le disposizioni dell'[articolo 27](../../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/03%20-%20Sezione%20III%20-%20Della%20competenza%20per%20territorio/art-27-cpc.md) entrano in vigore il 31 ottobre 2027".

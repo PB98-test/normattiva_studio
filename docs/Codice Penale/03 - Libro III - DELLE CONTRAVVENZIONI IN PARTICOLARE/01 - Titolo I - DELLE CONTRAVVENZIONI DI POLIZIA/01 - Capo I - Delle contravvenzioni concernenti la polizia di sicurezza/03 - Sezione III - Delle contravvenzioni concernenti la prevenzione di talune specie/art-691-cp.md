@@ -14,8 +14,8 @@ capo_label: "Delle contravvenzioni concernenti la polizia di sicurezza"
 sezione: "III"
 sezione_label: "Delle contravvenzioni concernenti la prevenzione di talune specie di reati § 1 Delle contravvenzioni concernenti la tutela preventiva dei segreti"
 rubrica: "Somministrazione di bevande alcooliche a persona in stato di manifesta ubriachezza"
-dataVigenza: "20260914"
-ordine: 949
+dataVigenza: "20260930"
+ordine: 950
 ---
 
 # Art. 691 - ***Somministrazione di bevande alcooliche a persona in stato di manifesta ubriachezza***

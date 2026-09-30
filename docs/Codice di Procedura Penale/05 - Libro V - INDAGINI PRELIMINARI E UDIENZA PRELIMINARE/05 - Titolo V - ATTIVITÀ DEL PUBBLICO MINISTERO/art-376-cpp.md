@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Accompagnamento coattivo per procedere a interrogatorio o a confronto"
-dataVigenza: "20260914"
-ordine: 447
+dataVigenza: "20260930"
+ordine: 448
 ---
 
 # Art. 376 - ***Accompagnamento coattivo per procedere a interrogatorio o a confronto***

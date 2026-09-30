@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Attività integrativa di indagine del pubblico ministero e del difensore"
-dataVigenza: "20260914"
-ordine: 523
+dataVigenza: "20260930"
+ordine: 524
 ---
 
 # Art. 430 - ***Attività integrativa di indagine del pubblico ministero e del difensore***

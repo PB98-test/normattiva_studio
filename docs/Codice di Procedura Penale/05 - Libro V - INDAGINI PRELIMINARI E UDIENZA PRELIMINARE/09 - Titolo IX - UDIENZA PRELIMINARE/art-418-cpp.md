@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Fissazione dell'udienza"
-dataVigenza: "20260914"
-ordine: 505
+dataVigenza: "20260930"
+ordine: 506
 ---
 
 # Art. 418 - ***Fissazione dell'udienza***

@@ -14,8 +14,8 @@ capo_label: "DISPOSIZIONI GENERALI"
 sezione: null
 sezione_label: null
 rubrica: "Contenuto del verbale"
-dataVigenza: "20260914"
-ordine: 586
+dataVigenza: "20260930"
+ordine: 587
 ---
 
 # Art. 481 - ***Contenuto del verbale***

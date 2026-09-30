@@ -14,19 +14,19 @@ capo_label: "Procedura di negoziazione assistita da ... avvocati"
 sezione: "II"
 sezione_label: "Disposizioni sul patrocinio a spese dello Stato nella negoziazione assistita"
 rubrica: "Revoca del provvedimento di ammissione e ricorso avverso il relativo decreto"
-dataVigenza: "20260925"
+dataVigenza: "20260930"
 ordine: 23
 ---
 
 # Art. 11-nonies - ***Revoca del provvedimento di ammissione e ricorso avverso il relativo decreto***
 
-1\. L'insussistenza dei presupposti per l'ammissione, da chiunque accertata, anche a seguito dei controlli di cui all'articolo 11-decies, è comunicata al Consiglio dell'ordine che ha deliberato l'ammissione.
+1\. L'insussistenza dei presupposti per l'ammissione, da chiunque accertata, anche a seguito dei controlli di cui all'[articolo 11-decies](art-11-decies-dl132-14.md), è comunicata al Consiglio dell'ordine che ha deliberato l'ammissione.
 
 2\. Le sopravvenute modifiche delle condizioni reddituali che escludono l'ammissione al patrocinio sono immediatamente comunicate dalla parte ammessa o dal suo avvocato al Consiglio dell'ordine che ha deliberato l'ammissione in via anticipata.
 
 3\. Ricevute le comunicazioni previste dai commi 1 e 2, il Consiglio dell'ordine, effettuate le verifiche ritenute necessarie, revoca l'ammissione e ne dà comunicazione all'interessato e all'avvocato.
 
-4\. Contro il provvedimento di revoca l'interessato può proporre ricorso, entro venti giorni dalla comunicazione, avanti al presidente del tribunale del luogo in cui ha sede il Consiglio dell'ordine che lo ha adottato. Si applica l'articolo 99, commi 2, 3 e 4, del decreto del Presidente della Repubblica 30 maggio 2002, n. 115. [^agg-7] [^agg-8]
+4\. Contro il provvedimento di revoca l'interessato può proporre ricorso, entro venti giorni dalla comunicazione, avanti al presidente del tribunale del luogo in cui ha sede il Consiglio dell'ordine che lo ha adottato. Si applica l'[articolo 99, commi 2](../../../DPR%20115-2002%20-%2030.05.2002/02%20-%20Titolo%20II%20-%20Disposizioni%20particolari%20sul%20patrocinio%20a%20spese%20dello%20Stato%20nel%20proc/04%20-%20Capo%20IV%20-%20Decisione%20sull%27istanza%20di%20ammissione/art-99-dpr115-02.md), [3](../../../DPR%20115-2002%20-%2030.05.2002/02%20-%20Titolo%20II%20-%20Disposizioni%20particolari%20sul%20patrocinio%20a%20spese%20dello%20Stato%20nel%20proc/04%20-%20Capo%20IV%20-%20Decisione%20sull%27istanza%20di%20ammissione/art-99-dpr115-02.md) e [4, del decreto del Presidente della Repubblica 30 maggio 2002, n. 115](../../../DPR%20115-2002%20-%2030.05.2002/02%20-%20Titolo%20II%20-%20Disposizioni%20particolari%20sul%20patrocinio%20a%20spese%20dello%20Stato%20nel%20proc/04%20-%20Capo%20IV%20-%20Decisione%20sull%27istanza%20di%20ammissione/art-99-dpr115-02.md). [^agg-7] [^agg-8]
 
 [^agg-7]: *AGGIORNAMENTO (7)* Il [D.Lgs. 10 ottobre 2022, n. 149](../../../Cartabia%20%28Dlgs%20149-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs149-22%29.md), ha disposto (con l'art. 41, comma 4) che "Le disposizioni di cui all'[articolo 9](../01%20-%20Sezione%20I%20-%20Della%20procedura%20di%20negoziazione%20assistita/art-9-dl132-14.md) si applicano a decorrere dal 30 giugno 2023".
 

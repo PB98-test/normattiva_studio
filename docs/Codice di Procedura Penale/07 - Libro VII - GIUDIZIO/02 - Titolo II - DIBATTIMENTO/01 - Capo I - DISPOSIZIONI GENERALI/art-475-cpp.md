@@ -14,8 +14,8 @@ capo_label: "DISPOSIZIONI GENERALI"
 sezione: null
 sezione_label: null
 rubrica: "Allontanamento coattivo dell'imputato"
-dataVigenza: "20260914"
-ordine: 580
+dataVigenza: "20260930"
+ordine: 581
 ---
 
 # Art. 475 - ***Allontanamento coattivo dell'imputato***

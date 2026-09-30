@@ -14,8 +14,8 @@ capo_label: "DECISIONE"
 sezione: "I"
 sezione_label: "Sentenza di proscioglimento"
 rubrica: "Dichiarazione di estinzione del reato"
-dataVigenza: "20260914"
-ordine: 640
+dataVigenza: "20260930"
+ordine: 641
 ---
 
 # Art. 531 - ***Dichiarazione di estinzione del reato***

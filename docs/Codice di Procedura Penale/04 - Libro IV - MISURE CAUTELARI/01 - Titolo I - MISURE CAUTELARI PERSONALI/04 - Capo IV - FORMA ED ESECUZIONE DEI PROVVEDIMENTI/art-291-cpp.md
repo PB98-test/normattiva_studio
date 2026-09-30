@@ -14,7 +14,7 @@ capo_label: "FORMA ED ESECUZIONE DEI PROVVEDIMENTI"
 sezione: null
 sezione_label: null
 rubrica: "Procedimento applicativo"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 349
 ---
 
@@ -33,7 +33,7 @@ ordine: 349
 
 1-quinquies. Nel caso di cui all'[articolo 328](../../../05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-328-cpp.md), comma 1-quinquies, all'interrogatorio procede il presidente del collegio o uno dei componenti da lui delegato. [^agg-318] [^agg-344]
 
-1-sexies. L'invito a presentarsi per rendere l'interrogatorio è comunicato al pubblico ministero e notificato alla persona sottoposta alle indagini preliminari e al suo difensore almeno cinque giorni prima di quello fissato per la comparizione, salvo che, per ragioni d'urgenza, il giudice ritenga di abbreviare il termine, purchè sia lasciato il tempo necessario per comparire. Il giudice provvede comunque sulla richiesta del pubblico ministero quando la persona sottoposta alle indagini preliminari non compare senza addurre un legittimo impedimento, oppure quando la persona sottoposta alle indagini preliminari non è stata rintracciata e il giudice ritiene le ricerche esaurienti, anche con riferimento ai luoghi di cui all'[articolo 159](../../../02%20-%20Libro%20II%20-%20ATTI/05%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-159-cpp.md), comma 1.
+1-sexies. L'invito a presentarsi per rendere l'interrogatorio è comunicato al pubblico ministero e notificato alla persona sottoposta alle indagini preliminari e al suo difensore almeno cinque giorni prima di quello fissato per la comparizione, salvo che, per ragioni d'urgenza, il giudice ritenga di abbreviare il termine, purchè sia lasciato il tempo necessario per comparire. Il giudice provvede comunque sulla richiesta del pubblico ministero quando la persona sottoposta alle indagini preliminari non compare senza addurre un legittimo impedimento, oppure quando la persona sottoposta alle indagini preliminari non è stata rintracciata e il giudice ritiene le ricerche esaurienti, anche con riferimento ai luoghi di cui all'[articolo 159](../../../02%20-%20Libro%20II%20-%20ATTI/06%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-159-cpp.md), comma 1.
 
 1-septies. L'invito contiene:
 
@@ -44,7 +44,7 @@ ordine: 349
 
 1-octies. L'invito di cui al comma 1-sexies contiene altresì l'avviso di deposito nella cancelleria del giudice della richiesta di applicazione della misura cautelare e degli atti presentati ai sensi del comma 1, nonchè della facoltà di prendere visione ed estrarre copia di tutti gli atti depositati, ivi compresi i verbali delle comunicazioni e delle conversazioni intercettate, con diritto alla trasposizione delle relative registrazioni su supporto idoneo alla riproduzione dei dati.
 
-1-novies. L'interrogatorio di cui al comma 1-quater deve essere documentato integralmente, a pena di inutilizzabilità, secondo le modalità di cui all'[articolo 141-bis](../../../02%20-%20Libro%20II%20-%20ATTI/03%20-%20Titolo%20III%20-%20DOCUMENTAZIONE%20DEGLI%20ATTI/art-141-bis-cpp.md).
+1-novies. L'interrogatorio di cui al comma 1-quater deve essere documentato integralmente, a pena di inutilizzabilità, secondo le modalità di cui all'[articolo 141-bis](../../../02%20-%20Libro%20II%20-%20ATTI/04%20-%20Titolo%20III%20-%20DOCUMENTAZIONE%20DEGLI%20ATTI/art-141-bis-cpp.md).
 
 2\. Se riconosce la propria incompetenza per qualsiasi causa, il giudice, quando ne ricorrono le condizioni e sussiste l'urgenza di soddisfare taluna delle esigenze cautelari previste dall'[articolo 274](../01%20-%20Capo%20I%20-%20DISPOSIZIONI%20GENERALI/art-274-cpp.md), dispone la misura richiesta con lo stesso provvedimento con il quale dichiara la propria incompetenza. Si applicano in tal caso le disposizioni dell'[articolo 27](../../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/04%20-%20Capo%20IV%20-%20PROVVEDIMENTI%20SULLA%20GIURISDIZIONE%20E%20SULLA%20COMPETENZA/art-27-cpp.md).
 

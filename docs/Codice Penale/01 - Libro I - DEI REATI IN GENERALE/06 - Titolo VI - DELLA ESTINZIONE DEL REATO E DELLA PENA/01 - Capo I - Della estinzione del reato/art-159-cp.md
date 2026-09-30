@@ -14,7 +14,7 @@ capo_label: "Della estinzione del reato"
 sezione: null
 sezione_label: null
 rubrica: "Sospensione del corso della prescrizione"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 174
 ---
 
@@ -29,17 +29,17 @@ Il corso della prescrizione rimane sospeso in ogni caso in cui la sospensione de
 
 [^agg-258]
 
-COMMA ABROGATO DALLA L. 27 SETTEMBRE 2021, N. 134.
+COMMA ABROGATO DALLA [L. 27 SETTEMBRE 2021, N. 134](../../../../L%20134-2021%20-%2027.09.2021/00%20-%20Indice%20%28l134-21%29.md).
 
-COMMA ABROGATO DALLA L. 9 GENNAIO 2019, N. 3.
+COMMA ABROGATO DALLA [L. 9 GENNAIO 2019, N. 3](../../../../L%203-2019%20-%2009.01.2019/00%20-%20Indice%20%28l3-19%29.md).
 
-COMMA ABROGATO DALLA L. 9 GENNAIO 2019, N. 3.
+COMMA ABROGATO DALLA [L. 9 GENNAIO 2019, N. 3](../../../../L%203-2019%20-%2009.01.2019/00%20-%20Indice%20%28l3-19%29.md).
 
-COMMA ABROGATO DALLA L. 23 GIUGNO 2017, N. 103. [^agg-277]
+COMMA ABROGATO DALLA [L. 23 GIUGNO 2017, N. 103](../../../../Rif.%20Orlando%20%28L%20103-2017%20-%2023.06.2017%29/00%20-%20Indice%20%28l103-17%29.md). [^agg-277]
 
 La prescrizione riprende il suo corso dal giorno in cui è cessata la causa della sospensione.
 
-COMMA ABROGATO DALLA L. 27 SETTEMBRE 2021, N. 134.
+COMMA ABROGATO DALLA [L. 27 SETTEMBRE 2021, N. 134](../../../../L%20134-2021%20-%2027.09.2021/00%20-%20Indice%20%28l134-21%29.md).
 
 Quando è pronunciata la sentenza di cui all'[articolo 420-quater](../../../../Codice%20di%20Procedura%20Penale/05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/09%20-%20Titolo%20IX%20-%20UDIENZA%20PRELIMINARE/art-420-quater-cpp.md) del codice di procedura penale il corso della prescrizione rimane sospeso sino al momento in cui è rintracciata la persona nei cui confronti è stata pronunciata, ma in ogni caso non può essere superato il doppio dei termini di prescrizione di cui all'[articolo 157](art-157-cp.md).   [^agg-199][^agg-208a]
 
@@ -51,4 +51,4 @@ Quando è pronunciata la sentenza di cui all'[articolo 420-quater](../../../../C
 
 [^agg-258]: *AGGIORNAMENTO (258)* La Corte Costituzionale con sentenza 14 gennaio - 25 marzo 2015, n. 45 (in G.U. 1ª s.s. 1/4/2015, n. 13) ha dichiarato l'illegittimità costituzionale del primo comma del presente articolo nella parte in cui, ove lo stato mentale dell'imputato sia tale da impedirne la cosciente partecipazione al procedimento e questo venga sospeso, non esclude la sospensione della prescrizione quando è accertato che tale stato è irreversibile.
 
-[^agg-277]: *AGGIORNAMENTO (277)* La L. 23 giugno 2017, n. 103, ha disposto (con l'[art. 1](../../01%20-%20Titolo%20I%20-%20DELLA%20LEGGE%20PENALE/art-1-cp.md), comma 15) che "Le disposizioni di cui ai commi da 10 a 14 si applicano ai fatti commessi dopo la data di entrata in vigore della presente legge".
+[^agg-277]: *AGGIORNAMENTO (277)* La [L. 23 giugno 2017, n. 103](../../../../Rif.%20Orlando%20%28L%20103-2017%20-%2023.06.2017%29/00%20-%20Indice%20%28l103-17%29.md), ha disposto (con l'[art. 1](../../01%20-%20Titolo%20I%20-%20DELLA%20LEGGE%20PENALE/art-1-cp.md), comma 15) che "Le disposizioni di cui ai commi da 10 a 14 si applicano ai fatti commessi dopo la data di entrata in vigore della presente legge".

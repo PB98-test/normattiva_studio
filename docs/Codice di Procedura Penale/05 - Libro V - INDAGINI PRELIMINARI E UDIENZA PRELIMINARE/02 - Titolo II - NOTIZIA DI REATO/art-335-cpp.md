@@ -14,7 +14,7 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Registro delle notizie di reato"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 397
 ---
 
@@ -22,7 +22,9 @@ ordine: 397
 
 1\. Il pubblico ministero iscrive immediatamente, nell'apposito registro custodito presso l'ufficio, ogni notizia di reato che gli perviene o che ha acquisito di propria iniziativa, contenente la rappresentazione di un fatto, determinato e non inverosimile, riconducibile in ipotesi a una fattispecie incriminatrice. Nell'iscrizione sono indicate, ove risultino, le circostanze di tempo e di luogo del fatto.
 
-1-bis. Il pubblico ministero provvede all'iscrizione del nome della persona alla quale il reato è attribuito non appena risultino, contestualmente all'iscrizione della notizia di reato o successivamente, indizi a suo carico. 1-bis.1. Tuttavia, quando appare evidente che il fatto è stato compiuto in presenza di una causa di giustificazione, il pubblico ministero procede all'annotazione preliminare, in separato modello, del nome della persona cui è attribuito il fatto medesimo. In tal caso, non si applica la disposizione di cui al comma 1-bis.
+1-bis. Il pubblico ministero provvede all'iscrizione del nome della persona alla quale il reato è attribuito non appena risultino, contestualmente all'iscrizione della notizia di reato o successivamente, indizi a suo carico.
+
+1-bis.1. Tuttavia, quando appare evidente che il fatto è stato compiuto in presenza di una causa di giustificazione, il pubblico ministero procede all'annotazione preliminare, in separato modello, del nome della persona cui è attribuito il fatto medesimo. In tal caso, non si applica la disposizione di cui al comma 1-bis.
 
 1-ter. Quando non ha provveduto tempestivamente ai sensi dei commi 1 e 1-bis, all'atto di disporre l'iscrizione il pubblico ministero può altresì indicare la data anteriore a partire dalla quale essa deve intendersi effettuata.
 

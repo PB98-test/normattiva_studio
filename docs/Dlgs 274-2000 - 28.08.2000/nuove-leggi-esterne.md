@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da Dlgs 274-2000 - 28.08.2000 ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Dlgs 274-2000 - 28.08.2000 — 42 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Dlgs 274-2000 - 28.08.2000 — 41 leggi trovate)*
 
 - [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const)
 - [articolo 14 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400)
@@ -38,7 +38,6 @@ search:
 - [legge 12 luglio 1991, n. 203](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-12;203)
 - [decreto-legge 26 aprile 1993, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:1993-04-26;122)
 - [legge 25 giugno 1993, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-06-25;205)
-- [art. 4, comma 1, lettera a), del decreto legislativo 28 agosto 2000, n. 274](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2000-08-28;274)
 - [art. 2, comma 4-bis, del decreto-legge 14 agosto 2013, n. 93](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2013-08-14;93)
 - [legge 15 ottobre 2013, n. 119](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-10-15;119)
 - [art. 27 della legge 11 marzo 1953, n. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-03-11;87)

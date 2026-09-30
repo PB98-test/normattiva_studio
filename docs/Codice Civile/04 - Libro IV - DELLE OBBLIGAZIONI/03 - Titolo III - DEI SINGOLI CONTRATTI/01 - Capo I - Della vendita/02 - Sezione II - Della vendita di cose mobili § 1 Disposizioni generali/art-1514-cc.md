@@ -14,13 +14,13 @@ capo_label: "Della vendita"
 sezione: "II"
 sezione_label: "Della vendita di cose mobili § 1 Disposizioni generali"
 rubrica: "Deposito della cosa venduta"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 1621
 ---
 
 # Art. 1514 - ***Deposito della cosa venduta***
 
-Se il compratore non si presenta per ricevere la cosa acquistata, il venditore può depositarla, per conto e a spese del compratore medesimo, in un locale di pubblico deposito, oppure in altro locale idoneo determinato dal giudice di pace del luogo in cui la consegna doveva essere fatta. [^agg-111] [^agg-112a] [^agg-273] [^agg-300] [^agg-341] [^agg-351]
+Se il compratore non si presenta per ricevere la cosa acquistata, il venditore può depositarla, per conto e a spese del compratore medesimo, in un locale di pubblico deposito, oppure in altro locale idoneo determinato dal giudice di pace del luogo in cui la consegna doveva essere fatta. [^agg-111] [^agg-112a] [^agg-273]  [^agg-300]  [^agg-341]  [^agg-351]
 
 Il venditore deve dare al compratore pronta notizia del deposito eseguito.
 
@@ -34,4 +34,4 @@ Il venditore deve dare al compratore pronta notizia del deposito eseguito.
 
 [^agg-341]: *AGGIORNAMENTO (341)* Il D.Lgs. 13 luglio 2017, n. 116, come modificato dal D.L. 8 agosto 2025, n. 117, convertito con modificazioni dalla L. 3 ottobre 2025, n. 148, ha disposto (con l'[art. 32](../../../../01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/02%20-%20Titolo%20II%20-%20DELLE%20PERSONE%20GIURIDICHE/02%20-%20Capo%20II%20-%20Delle%20associazioni%20e%20delle%20fondazioni/art-32-cc.md), comma 3) che la modifica di cui al primo comma del presente articolo entra in vigore il 31 ottobre 2026.
 
-[^agg-351]: *AGGIORNAMENTO (351)* Il D.Lgs. 13 luglio 2017, n. 116, come modificato dal D.L. 8 agosto 2025, n. 117, ha disposto (con l'[art. 32](../../../../01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/02%20-%20Titolo%20II%20-%20DELLE%20PERSONE%20GIURIDICHE/02%20-%20Capo%20II%20-%20Delle%20associazioni%20e%20delle%20fondazioni/art-32-cc.md), comma 3) che "Le disposizioni dell'[articolo 27](../../../../01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/02%20-%20Titolo%20II%20-%20DELLE%20PERSONE%20GIURIDICHE/02%20-%20Capo%20II%20-%20Delle%20associazioni%20e%20delle%20fondazioni/art-27-cc.md) entrano in vigore il 31 ottobre 2027"
+[^agg-351]: *AGGIORNAMENTO (351)* Il D.Lgs. 13 luglio 2017, n. 116, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'[art. 32](../../../../01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/02%20-%20Titolo%20II%20-%20DELLE%20PERSONE%20GIURIDICHE/02%20-%20Capo%20II%20-%20Delle%20associazioni%20e%20delle%20fondazioni/art-32-cc.md), comma 3) che "Le disposizioni dell'[articolo 27](../../../../01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/02%20-%20Titolo%20II%20-%20DELLE%20PERSONE%20GIURIDICHE/02%20-%20Capo%20II%20-%20Delle%20associazioni%20e%20delle%20fondazioni/art-27-cc.md) entrano in vigore il 31 ottobre 2027".

@@ -15,8 +15,8 @@ sezione: null
 sezione_label: null
 rubrica: null
 abrogato: true
-dataVigenza: "20260914"
-ordine: 994
+dataVigenza: "20260930"
+ordine: 995
 ---
 
 # Art. 733-bis - *(Omissis)*

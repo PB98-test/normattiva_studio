@@ -14,8 +14,8 @@ capo_label: "NUOVE CONTESTAZIONI"
 sezione: null
 sezione_label: null
 rubrica: "Nullità della sentenza per difetto di contestazione"
-dataVigenza: "20260914"
-ordine: 631
+dataVigenza: "20260930"
+ordine: 632
 ---
 
 # Art. 522 - ***Nullità della sentenza per difetto di contestazione***

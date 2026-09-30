@@ -14,7 +14,7 @@ capo_label: "Della recidiva, dell'abitualità e professionalità nel reato e del
 sezione: null
 sezione_label: null
 rubrica: "Recidiva"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 111
 ---
 
@@ -38,4 +38,4 @@ In nessun caso l'aumento di pena per effetto della recidiva può superare il cum
 
 [^agg-15]: *AGGIORNAMENTO (15)* Il D.P.R. 27 dicembre 1948, n. 1464 ha disposto (con l'[art. 3](../../01%20-%20Titolo%20I%20-%20DELLA%20LEGGE%20PENALE/art-3-cp.md), comma 1) che "L'amnistia si applica anche ai recidivi nei casi preveduti dai capoversi dell'[art. 99 del Codice penale](art-99-cp.md) e ai delinquenti abituali o professionali o per tendenza".
 
-[^agg-261]: *AGGIORNAMENTO (261)* La Corte Costituzionale, con sentenza 8 - 23 luglio 2015, n. 185 (in G.U. 1ª s.s. 29/7/2015, n. 30), ha dichiarato "l'illegittimità costituzionale dell'[art. 99, quinto comma, del codice penale](art-99-cp.md), come sostituito dall'art. 4 della legge 5 dicembre 2005, n. 251 (Modifiche al [codice penale](../../../00%20-%20Indice%20%28cp%29.md) e alla legge 26 luglio 1975, n. 354, in materia di attenuanti generiche, di recidiva, di giudizio di comparazione delle circostanze di reato per i recidivi, di usura e di prescrizione), limitatamente alle parole «è obbligatorio e,»".
+[^agg-261]: *AGGIORNAMENTO (261)* La Corte Costituzionale, con sentenza 8 - 23 luglio 2015, n. 185 (in G.U. 1ª s.s. 29/7/2015, n. 30), ha dichiarato "l'illegittimità costituzionale dell'[art. 99, quinto comma, del codice penale](art-99-cp.md), come sostituito dall'art. 4 della legge 5 dicembre 2005, n. 251 (Modifiche al [codice penale](../../../00%20-%20Indice%20%28cp%29.md) e alla [legge 26 luglio 1975, n. 354](../../../../Ord.%20Pen.%20%28L.%20354-1975%20-%2026.07.1975%29/00%20-%20Indice%20%28l354-75%29.md), in materia di attenuanti generiche, di recidiva, di giudizio di comparazione delle circostanze di reato per i recidivi, di usura e di prescrizione), limitatamente alle parole «è obbligatorio e,»".

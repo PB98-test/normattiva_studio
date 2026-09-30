@@ -14,8 +14,8 @@ capo_label: "ISTRUZIONE DIBATTIMENTALE"
 sezione: null
 sezione_label: null
 rubrica: "Esame diretto e controesame dei testimoni"
-dataVigenza: "20260914"
-ordine: 604
+dataVigenza: "20260930"
+ordine: 605
 ---
 
 # Art. 498 - ***Esame diretto e controesame dei testimoni***

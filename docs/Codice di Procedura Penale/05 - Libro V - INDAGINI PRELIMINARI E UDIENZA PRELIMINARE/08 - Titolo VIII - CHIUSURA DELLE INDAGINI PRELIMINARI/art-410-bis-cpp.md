@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 410-bis - (Nullità del provvedimento di archiviazione)."
+title: "Art. 410-bis - Nullità del provvedimento di archiviazione"
 articolo: "Art. 410-bis"
 codice: cpp
 aliases:
@@ -13,12 +13,12 @@ capo: null
 capo_label: null
 sezione: null
 sezione_label: null
-rubrica: "(Nullità del provvedimento di archiviazione)."
-dataVigenza: "20260914"
-ordine: 495
+rubrica: "Nullità del provvedimento di archiviazione"
+dataVigenza: "20260930"
+ordine: 496
 ---
 
-# Art. 410-bis - ***(Nullità del provvedimento di archiviazione).***
+# Art. 410-bis - ***Nullità del provvedimento di archiviazione***
 
 1\. Il decreto di archiviazione è nullo se è emesso in mancanza dell'avviso di cui ai commi 2 e 3-bis dell'[articolo 408](art-408-cpp.md) e al comma 1-bis dell'[articolo 411](art-411-cpp.md) ovvero prima che il termine di cui ai commi 3 e 3-bis del medesimo [articolo 408](art-408-cpp.md) sia scaduto senza che sia stato presentato l'atto di opposizione. Il decreto di archiviazione è altresì nullo se, essendo stata presentata opposizione, il giudice omette di pronunciarsi sulla sua ammissibilità o dichiara l'opposizione inammissibile, salvi i casi di inosservanza dell'[articolo 410](art-410-cpp.md), comma 1.
 

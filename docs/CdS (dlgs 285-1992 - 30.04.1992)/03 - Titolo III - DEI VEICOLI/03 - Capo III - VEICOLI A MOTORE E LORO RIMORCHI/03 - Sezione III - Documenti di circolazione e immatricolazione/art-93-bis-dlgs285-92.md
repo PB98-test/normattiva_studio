@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 93-bis - (Formalità necessarie per la circolazione degli autoveicoli, motoveicoli e rimorchi immatricolati in uno Stato estero e condotti da residenti in Italia)."
+title: "Art. 93-bis - Formalità necessarie per la circolazione degli autoveicoli, motoveicoli e rimorchi immatricolati in uno Stato estero e condotti da residenti in Italia"
 articolo: "Art. 93-bis"
 codice: dlgs285-92
 aliases:
@@ -13,12 +13,12 @@ capo: "III"
 capo_label: "VEICOLI A MOTORE E LORO RIMORCHI"
 sezione: "III"
 sezione_label: "Documenti di circolazione e immatricolazione"
-rubrica: "(Formalità necessarie per la circolazione degli autoveicoli, motoveicoli e rimorchi immatricolati in uno Stato estero e condotti da residenti in Italia)."
-dataVigenza: "20260914"
+rubrica: "Formalità necessarie per la circolazione degli autoveicoli, motoveicoli e rimorchi immatricolati in uno Stato estero e condotti da residenti in Italia"
+dataVigenza: "20260930"
 ordine: 99
 ---
 
-# Art. 93-bis - ***(Formalità necessarie per la circolazione degli autoveicoli, motoveicoli e rimorchi immatricolati in uno Stato estero e condotti da residenti in Italia).***
+# Art. 93-bis - ***Formalità necessarie per la circolazione degli autoveicoli, motoveicoli e rimorchi immatricolati in uno Stato estero e condotti da residenti in Italia***
 
 1\. Fuori dei casi di cui al comma 3, gli autoveicoli, i motoveicoli e i rimorchi immatricolati in uno Stato estero di proprietà di persona che abbia acquisito residenza anagrafica in Italia sono ammessi a circolare sul territorio nazionale a condizione che entro tre mesi dall'acquisizione della residenza siano immatricolati secondo le disposizioni degli [articoli 93](art-93-dlgs285-92.md) e [94](art-94-dlgs285-92.md).
 

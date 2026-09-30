@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Avviso dell'arresto o del fermo ai familiari"
-dataVigenza: "20260914"
-ordine: 460
+dataVigenza: "20260930"
+ordine: 461
 ---
 
 # Art. 387 - ***Avviso dell'arresto o del fermo ai familiari***

@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 120-ter - (Classamento dei soci e dei titolari di strumenti finanziari)."
+title: "Art. 120-ter - Classamento dei soci e dei titolari di strumenti finanziari"
 articolo: "Art. 120-ter"
 codice: dlgs14-19
 aliases:
@@ -13,12 +13,12 @@ capo: "III-bis"
 capo_label: "Strumenti di regolazione della crisi e dell'insolvenza delle società"
 sezione: null
 sezione_label: null
-rubrica: "(Classamento dei soci e dei titolari di strumenti finanziari)."
-dataVigenza: "20260925"
+rubrica: "Classamento dei soci e dei titolari di strumenti finanziari"
+dataVigenza: "20260930"
 ordine: 140
 ---
 
-# Art. 120-ter - ***(Classamento dei soci e dei titolari di strumenti finanziari).***
+# Art. 120-ter - ***Classamento dei soci e dei titolari di strumenti finanziari***
 
 1\. Lo strumento di regolazione della crisi e dell'insolvenza può prevedere la formazione di una classe di soci o di più classi se esistono soci ai quali lo statuto, anche a seguito delle modifiche previste dal piano, riconosce diritti diversi.
 

@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Casi e modi del giudizio direttissimo"
-dataVigenza: "20260914"
-ordine: 544
+dataVigenza: "20260930"
+ordine: 545
 ---
 
 # Art. 449 - ***Casi e modi del giudizio direttissimo***

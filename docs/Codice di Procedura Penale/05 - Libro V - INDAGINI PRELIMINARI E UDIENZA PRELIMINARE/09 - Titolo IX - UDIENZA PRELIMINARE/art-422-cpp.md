@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Attività di integrazione probatoria del giudice"
-dataVigenza: "20260914"
-ordine: 515
+dataVigenza: "20260930"
+ordine: 516
 ---
 
 # Art. 422 - ***Attività di integrazione probatoria del giudice***

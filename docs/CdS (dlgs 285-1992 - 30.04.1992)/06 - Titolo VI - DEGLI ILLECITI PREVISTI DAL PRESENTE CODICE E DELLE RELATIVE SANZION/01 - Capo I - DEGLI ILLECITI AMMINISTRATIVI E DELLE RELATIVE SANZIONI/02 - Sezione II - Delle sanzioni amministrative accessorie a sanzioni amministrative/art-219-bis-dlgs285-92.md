@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 219-bis - (Inapplicabilità delle sanzioni amministrative accessorie del ritiro, della sospensione e della revoca della patente ai conducenti minorenni)."
+title: "Art. 219-bis - Inapplicabilità delle sanzioni amministrative accessorie del ritiro, della sospensione e della revoca della patente ai conducenti minorenni"
 articolo: "Art. 219-bis"
 codice: dlgs285-92
 aliases:
@@ -13,12 +13,12 @@ capo: "I"
 capo_label: "DEGLI ILLECITI AMMINISTRATIVI E DELLE RELATIVE SANZIONI"
 sezione: "II"
 sezione_label: "Delle sanzioni amministrative accessorie a sanzioni amministrative pecuniarie"
-rubrica: "(Inapplicabilità delle sanzioni amministrative accessorie del ritiro, della sospensione e della revoca della patente ai conducenti minorenni)."
-dataVigenza: "20260914"
+rubrica: "Inapplicabilità delle sanzioni amministrative accessorie del ritiro, della sospensione e della revoca della patente ai conducenti minorenni"
+dataVigenza: "20260930"
 ordine: 243
 ---
 
-# Art. 219-bis - ***(Inapplicabilità delle sanzioni amministrative accessorie del ritiro, della sospensione e della revoca della patente ai conducenti minorenni).***
+# Art. 219-bis - ***Inapplicabilità delle sanzioni amministrative accessorie del ritiro, della sospensione e della revoca della patente ai conducenti minorenni***
 
 1\. Nell'ipotesi in cui, ai sensi del presente codice, è disposta la sanzione amministrativa accessoria del ritiro della sospensione o della revoca della patente di guida e la violazione da cui discende è commessa da un conducente minorenne in luogo delle predette sanzioni si applicano le disposizioni dell'[articolo 128](../../../04%20-%20Titolo%20IV%20-%20GUIDA%20DEI%20VEICOLI%20E%20CONDUZIONE%20DEGLI%20ANIMALI/art-128-dlgs285-92.md), commi 1-ter e 2. [^agg-102]
 

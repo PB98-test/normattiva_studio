@@ -14,7 +14,7 @@ capo_label: "Competenza"
 sezione: null
 sezione_label: null
 rubrica: "Incompetenza"
-dataVigenza: "20260925"
+dataVigenza: "20260930"
 ordine: 40
 ---
 
@@ -24,4 +24,4 @@ ordine: 40
 
 2\. Il tribunale dichiarato competente, se non richiede d'ufficio il regolamento di competenza ai sensi dell'[articolo 45 del codice di procedura civile](../../../Codice%20di%20Procedura%20Civile/01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/06%20-%20Sezione%20VI%20-%20Del%20regolamento%20di%20giurisdizione%20e%20di%20competenza/art-45-cpc.md), dispone la prosecuzione del procedimento pendente, dandone comunicazione alle parti.
 
-3\. Quando l'incompetenza è dichiarata all'esito del giudizio di cui all'articolo 51, il reclamo, per le questioni diverse dalla competenza, è riassunto, a norma dell'[articolo 50 del codice di procedura civile](../../../Codice%20di%20Procedura%20Civile/01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/06%20-%20Sezione%20VI%20-%20Del%20regolamento%20di%20giurisdizione%20e%20di%20competenza/art-50-cpc.md), dinanzi alla corte di appello competente.
+3\. Quando l'incompetenza è dichiarata all'esito del giudizio di cui all'[articolo 51](../04%20-%20Capo%20IV%20-%20Accesso%20agli%20strumenti%20di%20regolazione%20della%20crisi%20e%20dell%27insolvenza%20e/02%20-%20Sezione%20II%20-%20Procedimento%20unitario%20per%20l%27accesso%20agli%20strumenti%20di%20regolazione%20d/art-51-dlgs14-19.md), il reclamo, per le questioni diverse dalla competenza, è riassunto, a norma dell'[articolo 50 del codice di procedura civile](../../../Codice%20di%20Procedura%20Civile/01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/06%20-%20Sezione%20VI%20-%20Del%20regolamento%20di%20giurisdizione%20e%20di%20competenza/art-50-cpc.md), dinanzi alla corte di appello competente.

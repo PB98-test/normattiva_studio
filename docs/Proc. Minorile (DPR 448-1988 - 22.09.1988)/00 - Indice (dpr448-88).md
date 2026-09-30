@@ -23,7 +23,7 @@ aliases:
 - [Art. 11](01%20-%20Capo%20I%20-%20DISPOSIZIONI%20GENERALI/art-11-dpr448-88.md)
 - [Art. 12](01%20-%20Capo%20I%20-%20DISPOSIZIONI%20GENERALI/art-12-dpr448-88.md)
 - [Art. 12-bis](01%20-%20Capo%20I%20-%20DISPOSIZIONI%20GENERALI/art-12-bis-dpr448-88.md) — Diritto all'informazione
-- [Art. 12-ter](01%20-%20Capo%20I%20-%20DISPOSIZIONI%20GENERALI/art-12-ter-dpr448-88.md) — (Informazioni all'esercente la responsabilità genitoriale). 1. Le informazioni dirette al minorenne sono al più presto comunicate anche all'esercente la responsabilità genitoriale ovvero alla persona ammessa o designata ai sensi dell'articolo 12 dall'autorità giudiziaria che procede. 2. Alla cessazione delle circostanze indicate nell'articolo 12, comma 1-bis, le informazioni tuttora rilevanti ai fini del procedimento sono comunicate all'esercente la responsabilità genitoriale.
+- [Art. 12-ter](01%20-%20Capo%20I%20-%20DISPOSIZIONI%20GENERALI/art-12-ter-dpr448-88.md) — Informazioni all'esercente la responsabilità genitoriale
 - [Art. 13](01%20-%20Capo%20I%20-%20DISPOSIZIONI%20GENERALI/art-13-dpr448-88.md)
 - [Art. 14](01%20-%20Capo%20I%20-%20DISPOSIZIONI%20GENERALI/art-14-dpr448-88.md) — *(abrogato)*
 - [Art. 15](01%20-%20Capo%20I%20-%20DISPOSIZIONI%20GENERALI/art-15-dpr448-88.md) — *(abrogato)*

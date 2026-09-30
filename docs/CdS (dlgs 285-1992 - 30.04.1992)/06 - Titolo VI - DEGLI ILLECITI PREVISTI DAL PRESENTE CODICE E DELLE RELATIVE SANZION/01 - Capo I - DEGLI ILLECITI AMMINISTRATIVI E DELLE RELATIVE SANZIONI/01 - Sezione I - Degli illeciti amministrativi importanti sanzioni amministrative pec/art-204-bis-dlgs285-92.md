@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 204-bis - (Ricorso in sede giurisdizionale) ."
+title: "Art. 204-bis - Ricorso in sede giurisdizionale"
 articolo: "Art. 204-bis"
 codice: dlgs285-92
 aliases:
@@ -13,12 +13,12 @@ capo: "I"
 capo_label: "DEGLI ILLECITI AMMINISTRATIVI E DELLE RELATIVE SANZIONI"
 sezione: "I"
 sezione_label: "Degli illeciti amministrativi importanti sanzioni amministrative pecuniarie ed applicazione di queste ultime"
-rubrica: "(Ricorso in sede giurisdizionale) ."
-dataVigenza: "20260914"
+rubrica: "Ricorso in sede giurisdizionale"
+dataVigenza: "20260930"
 ordine: 222
 ---
 
-# Art. 204-bis - ***(Ricorso in sede giurisdizionale) .***
+# Art. 204-bis - ***Ricorso in sede giurisdizionale***
 
 1\. Alternativamente alla proposizione del ricorso di cui all'[articolo 203](art-203-dlgs285-92.md), il trasgressore o gli altri soggetti indicati nell'[articolo 196](art-196-dlgs285-92.md), qualora non sia stato effettuato il pagamento in misura ridotta nei casi in cui è consentito, possono proporre opposizione davanti all'autorità giudiziaria ordinaria. L'opposizione è regolata dall'articolo 7 del decreto legislativo 1° settembre 2011, n. 150.)) [^agg-105]
 

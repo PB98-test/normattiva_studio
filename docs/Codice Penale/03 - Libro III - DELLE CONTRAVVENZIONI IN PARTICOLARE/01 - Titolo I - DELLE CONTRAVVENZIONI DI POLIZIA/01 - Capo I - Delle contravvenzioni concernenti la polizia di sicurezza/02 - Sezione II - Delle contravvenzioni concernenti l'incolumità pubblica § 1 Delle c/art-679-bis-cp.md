@@ -15,8 +15,8 @@ sezione: "II"
 sezione_label: "Delle contravvenzioni concernenti l'incolumità pubblica § 1 Delle contravvenzioni concernenti l'incolumità delle persone nei luoghi di pubblico transito o nelle abitazioni"
 rubrica: null
 abrogato: true
-dataVigenza: "20260914"
-ordine: 937
+dataVigenza: "20260930"
+ordine: 938
 ---
 
 # Art. 679-bis - *(Omissis)*

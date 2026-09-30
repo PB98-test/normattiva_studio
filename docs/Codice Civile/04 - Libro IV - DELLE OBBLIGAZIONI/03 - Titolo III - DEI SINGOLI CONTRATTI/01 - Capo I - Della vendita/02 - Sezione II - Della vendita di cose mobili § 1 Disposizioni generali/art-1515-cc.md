@@ -14,7 +14,7 @@ capo_label: "Della vendita"
 sezione: "II"
 sezione_label: "Della vendita di cose mobili § 1 Disposizioni generali"
 rubrica: "Esecuzione coattiva per inadempimento del compratore"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 1622
 ---
 
@@ -24,7 +24,7 @@ Se il compratore non adempie l'obbligazione di pagare il prezzo, il venditore pu
 
 La vendita è fatta all'incanto a mezzo di una persona autorizzata a tali atti o, in mancanza di essa nel luogo in cui la vendita deve essere eseguita, a mezzo di un ufficiale giudiziario. Il venditore deve dare tempestiva notizia al compratore del giorno, del luogo e dell'ora in cui la vendita sarà eseguita.
 
-Se la cosa ha un prezzo corrente, stabilito per atto della pubblica autorità o da norme corporative, ovvero risultante da listini di borsa o da mercuriali, la vendita può essere fatta senza incanto, al prezzo corrente, a mezzo delle persone indicate nel comma precedente o di un commissario nominato dal giudice di pace. In tal caso il venditore deve dare al compratore pronta notizia della vendita. [^agg-111] [^agg-112a] [^agg-273] [^agg-300] [^agg-341] (351)
+Se la cosa ha un prezzo corrente, stabilito per atto della pubblica autorità o da norme corporative, ovvero risultante da listini di borsa o da mercuriali, la vendita può essere fatta senza incanto, al prezzo corrente, a mezzo delle persone indicate nel comma precedente o di un commissario nominato dal giudice di pace. In tal caso il venditore deve dare al compratore pronta notizia della vendita. [^agg-111] [^agg-112a] [^agg-273]  [^agg-300]  [^agg-341]  [^agg-351]
 
 Il venditore ha diritto alla differenza tra il prezzo convenuto e il ricavo netto della vendita, oltre al risarcimento del maggior danno.
 
@@ -37,3 +37,5 @@ Il venditore ha diritto alla differenza tra il prezzo convenuto e il ricavo nett
 [^agg-300]: *AGGIORNAMENTO (300)* Il D.Lgs. 13 luglio 2017, n. 116, come modificato dal D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, ha disposto (con l'[art. 32](../../../../01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/02%20-%20Titolo%20II%20-%20DELLE%20PERSONE%20GIURIDICHE/02%20-%20Capo%20II%20-%20Delle%20associazioni%20e%20delle%20fondazioni/art-32-cc.md), comma 3) che la modifica di cui al terzo comma del presente articolo entra in vigore il 31 ottobre 2025.
 
 [^agg-341]: *AGGIORNAMENTO (341)* Il D.Lgs. 13 luglio 2017, n. 116, come modificato dal D.L. 8 agosto 2025, n. 117, convertito con modificazioni dalla L. 3 ottobre 2025, n. 148, ha disposto (con l'[art. 32](../../../../01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/02%20-%20Titolo%20II%20-%20DELLE%20PERSONE%20GIURIDICHE/02%20-%20Capo%20II%20-%20Delle%20associazioni%20e%20delle%20fondazioni/art-32-cc.md), comma 3) che la modifica di cui al terzo comma del presente articolo entra in vigore il 31 ottobre 2026.
+
+[^agg-351]: *AGGIORNAMENTO (351)* Il D.Lgs. 13 luglio 2017, n. 116, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'[art. 32](../../../../01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/02%20-%20Titolo%20II%20-%20DELLE%20PERSONE%20GIURIDICHE/02%20-%20Capo%20II%20-%20Delle%20associazioni%20e%20delle%20fondazioni/art-32-cc.md), comma 3) che "Le disposizioni dell'[articolo 27](../../../../01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/02%20-%20Titolo%20II%20-%20DELLE%20PERSONE%20GIURIDICHE/02%20-%20Capo%20II%20-%20Delle%20associazioni%20e%20delle%20fondazioni/art-27-cc.md) entrano in vigore il 31 ottobre 2027".

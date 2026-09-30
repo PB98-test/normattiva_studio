@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 87"
+title: "Art. 87 - Parentela, affinità, adozione ..."
 articolo: "Art. 87"
 codice: cc
 aliases:
@@ -13,14 +13,12 @@ capo: "III"
 capo_label: "Del matrimonio celebrato davanti all'ufficiale dello stato civile"
 sezione: "I"
 sezione_label: "Delle condizioni necessarie per contrarre matrimonio"
-rubrica: null
-dataVigenza: "20260914"
+rubrica: "Parentela, affinità, adozione ..."
+dataVigenza: "20260930"
 ordine: 119
 ---
 
-# Art. 87
-
-Parentela, affinità, adozione ....
+# Art. 87 - ***Parentela, affinità, adozione ...***
 
 Non possono contrarre matrimonio fra loro:
 

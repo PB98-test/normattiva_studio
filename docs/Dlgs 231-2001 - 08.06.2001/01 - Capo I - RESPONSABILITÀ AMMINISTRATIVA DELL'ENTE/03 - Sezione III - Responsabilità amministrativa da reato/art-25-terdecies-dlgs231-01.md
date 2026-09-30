@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 25-terdecies - (Razzismo e xenofobia)."
+title: "Art. 25-terdecies - Razzismo e xenofobia"
 articolo: "Art. 25-terdecies"
 codice: dlgs231-01
 aliases:
@@ -13,12 +13,12 @@ capo: "I"
 capo_label: "RESPONSABILITÀ AMMINISTRATIVA DELL'ENTE"
 sezione: "III"
 sezione_label: "Responsabilità amministrativa da reato"
-rubrica: "(Razzismo e xenofobia)."
-dataVigenza: "20260928"
+rubrica: "Razzismo e xenofobia"
+dataVigenza: "20260930"
 ordine: 43
 ---
 
-# Art. 25-terdecies - ***(Razzismo e xenofobia).***
+# Art. 25-terdecies - ***Razzismo e xenofobia***
 
 1\. In relazione alla commissione dei delitti di cui all'articolo 3, comma 3-bis, della legge 13 ottobre 1975, n. 654, si applica all'ente la sanzione pecuniaria da duecento a ottocento quote.
 

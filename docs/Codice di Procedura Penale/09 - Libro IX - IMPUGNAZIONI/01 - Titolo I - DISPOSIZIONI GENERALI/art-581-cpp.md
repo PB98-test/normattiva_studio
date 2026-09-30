@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Forma dell'impugnazione"
-dataVigenza: "20260914"
-ordine: 699
+dataVigenza: "20260930"
+ordine: 700
 ---
 
 # Art. 581 - ***Forma dell'impugnazione***
@@ -33,4 +33,4 @@ ordine: 699
 
 1-quater. Nel caso di imputato rispetto al quale si è proceduto in assenza, con l'atto d'impugnazione del difensore di ufficio è depositato, a pena d'inammissibilità, specifico mandato ad impugnare, rilasciato dopo la pronuncia della sentenza e contenente la dichiarazione o l'elezione di domicilio dell'imputato, ai fini della notificazione del decreto di citazione a giudizio. [^agg-290]
 
-[^agg-290]: *AGGIORNAMENTO (290)* Il D.Lgs. 10 ottobre 2022, n. 150 ha disposto (con l'[art. 89](../../01%20-%20Libro%20I%20-%20SOGGETTI/05%20-%20Titolo%20V%20-%20PARTE%20CIVILE,%20RESPONSABILE%20CIVILE%20E%20CIVILMENTE%20OBBLIGATO%20PER%20LA%20PENA/art-89-cpp.md), comma 3) che "Le disposizioni degli [articoli 157-ter, comma 3](../../02%20-%20Libro%20II%20-%20ATTI/05%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-157-cpp.md), [581](../../02%20-%20Libro%20II%20-%20ATTI/05%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-157-cpp.md), [commi 1-ter](../../02%20-%20Libro%20II%20-%20ATTI/05%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-157-cpp.md) e [1-quater](../../02%20-%20Libro%20II%20-%20ATTI/05%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-157-cpp.md), e [585, comma 1-bis, del codice di procedura penale](art-585-cpp.md) si applicano per le sole impugnazioni proposte avverso sentenze pronunciate in data successiva a quella di entrata in vigore del presente decreto".
+[^agg-290]: *AGGIORNAMENTO (290)* Il [D.Lgs. 10 ottobre 2022, n. 150](../../../Cartabia%20%28Dlgs%20150-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs150-22%29.md) ha disposto (con l'[art. 89](../../01%20-%20Libro%20I%20-%20SOGGETTI/05%20-%20Titolo%20V%20-%20PARTE%20CIVILE,%20RESPONSABILE%20CIVILE%20E%20CIVILMENTE%20OBBLIGATO%20PER%20LA%20PENA/art-89-cpp.md), comma 3) che "Le disposizioni degli [articoli 157-ter, comma 3](../../02%20-%20Libro%20II%20-%20ATTI/06%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-157-ter-cpp.md), [581](../../02%20-%20Libro%20II%20-%20ATTI/06%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-157-ter-cpp.md), [commi 1-ter](../../02%20-%20Libro%20II%20-%20ATTI/06%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-157-ter-cpp.md) e [1-quater](../../02%20-%20Libro%20II%20-%20ATTI/06%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-157-ter-cpp.md), e [585, comma 1-bis, del codice di procedura penale](art-585-cpp.md) si applicano per le sole impugnazioni proposte avverso sentenze pronunciate in data successiva a quella di entrata in vigore del presente decreto".

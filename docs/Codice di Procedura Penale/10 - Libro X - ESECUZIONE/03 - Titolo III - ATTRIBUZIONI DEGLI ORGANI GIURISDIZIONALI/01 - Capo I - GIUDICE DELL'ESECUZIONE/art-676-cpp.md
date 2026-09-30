@@ -14,8 +14,8 @@ capo_label: "GIUDICE DELL'ESECUZIONE"
 sezione: null
 sezione_label: null
 rubrica: "Altre competenze"
-dataVigenza: "20260914"
-ordine: 806
+dataVigenza: "20260930"
+ordine: 807
 ---
 
 # Art. 676 - ***Altre competenze***

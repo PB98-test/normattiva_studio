@@ -14,8 +14,8 @@ capo_label: "NUOVE CONTESTAZIONI"
 sezione: null
 sezione_label: null
 rubrica: "Modifiche alla composizione del giudice a seguito di nuove contestazioni"
-dataVigenza: "20260914"
-ordine: 630
+dataVigenza: "20260930"
+ordine: 631
 ---
 
 # Art. 521-bis - ***Modifiche alla composizione del giudice a seguito di nuove contestazioni***

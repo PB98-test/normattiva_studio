@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 218-ter - (Sospensione della patente in relazione al punteggio)."
+title: "Art. 218-ter - Sospensione della patente in relazione al punteggio"
 articolo: "Art. 218-ter"
 codice: dlgs285-92
 aliases:
@@ -13,12 +13,12 @@ capo: "I"
 capo_label: "DEGLI ILLECITI AMMINISTRATIVI E DELLE RELATIVE SANZIONI"
 sezione: "II"
 sezione_label: "Delle sanzioni amministrative accessorie a sanzioni amministrative pecuniarie"
-rubrica: "(Sospensione della patente in relazione al punteggio)."
-dataVigenza: "20260914"
+rubrica: "Sospensione della patente in relazione al punteggio"
+dataVigenza: "20260930"
 ordine: 241
 ---
 
-# Art. 218-ter - ***(Sospensione della patente in relazione al punteggio).***
+# Art. 218-ter - ***Sospensione della patente in relazione al punteggio***
 
 1\. Nei confronti dei conducenti di veicoli a motore per i quali è richiesta la patente di guida, oltre all'applicazione della sanzione amministrativa pecuniaria, si applica altresì la sanzione accessoria della sospensione della patente di guida, nella misura determinata dai commi 2 e 3, quando, al momento dell'accertamento delle seguenti violazioni, dall'anagrafe nazionale degli abilitati alla guida di cui agli [articoli 225](../../../07%20-%20Titolo%20VII%20-%20DISPOSIZIONI%20FINALI%20E%20TRANSITORIE/01%20-%20Capo%20I%20-%20DISPOSIZIONI%20FINALI/art-225-dlgs285-92.md) e [226](../../../07%20-%20Titolo%20VII%20-%20DISPOSIZIONI%20FINALI%20E%20TRANSITORIE/01%20-%20Capo%20I%20-%20DISPOSIZIONI%20FINALI/art-226-dlgs285-92.md) risulta che il punteggio attribuito alla patente posseduta è inferiore a venti punti per effetto delle decurtazioni subite:
 

@@ -14,8 +14,8 @@ capo_label: "ISTRUZIONE DIBATTIMENTALE"
 sezione: null
 sezione_label: null
 rubrica: "Lettura di verbali di prove di altri procedimenti"
-dataVigenza: "20260914"
-ordine: 618
+dataVigenza: "20260930"
+ordine: 619
 ---
 
 # Art. 511-bis - ***Lettura di verbali di prove di altri procedimenti***

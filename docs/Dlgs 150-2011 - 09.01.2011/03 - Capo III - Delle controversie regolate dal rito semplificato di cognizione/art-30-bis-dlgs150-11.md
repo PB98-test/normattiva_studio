@@ -14,7 +14,7 @@ capo_label: "Delle controversie regolate dal rito semplificato di cognizione"
 sezione: null
 sezione_label: null
 rubrica: "Dei procedimenti in materia di efficacia di decisioni straniere previsti dal diritto dell'Unione europea e dalle convenzioni internazionali"
-dataVigenza: "20260928"
+dataVigenza: "20260930"
 ordine: 33
 ---
 
@@ -45,8 +45,8 @@ ordine: 33
 
 7\. Ai procedimenti disciplinati dal presente articolo ed aventi ad oggetto gli atti pubblici, le transazioni giudiziarie e gli accordi stragiudiziali stranieri si applicano le disposizioni del presente articolo nei limiti e alle condizioni previste dal diritto dell'Unione e dalle convenzioni internazionali. [^agg-12] [^agg-13]
 
-[^agg-12]: *AGGIORNAMENTO (12)* Il [D.Lgs. 10 ottobre 2022, n. 149](../../Cartabia%20%28Dlgs%20149-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs149-22%29.md) ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 30 giugno 2023 si applicano le disposizioni anteriormente vigenti".
+[^agg-12]: *AGGIORNAMENTO (12)* Il [D.Lgs. 10 ottobre 2022, n. 149](../../Cartabia%20%28Dlgs%20149-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs149-22%29.md) ha disposto (con l'[art. 35](../05%20-%20Capo%20V%20-%20Disposizioni%20finali%20ed%20abrogazioni/art-35-dlgs150-11.md), comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 30 giugno 2023 si applicano le disposizioni anteriormente vigenti".
 
-[^agg-13]: *AGGIORNAMENTO (13)* Il [D.Lgs. 10 ottobre 2022, n. 149](../../Cartabia%20%28Dlgs%20149-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs149-22%29.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../../L.%20197-2022%20-%2029.12.2022/00%20-%20Indice%20%28l197-22%29.md), ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
+[^agg-13]: *AGGIORNAMENTO (13)* Il [D.Lgs. 10 ottobre 2022, n. 149](../../Cartabia%20%28Dlgs%20149-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs149-22%29.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../../L.%20197-2022%20-%2029.12.2022/00%20-%20Indice%20%28l197-22%29.md), ha disposto (con l'[art. 35](../05%20-%20Capo%20V%20-%20Disposizioni%20finali%20ed%20abrogazioni/art-35-dlgs150-11.md), comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
 
 #### ((Delle controversie regolate dal rito ordinario di cognizione e dal rito dei procedimenti in materia di persone, minorenni e famiglie))

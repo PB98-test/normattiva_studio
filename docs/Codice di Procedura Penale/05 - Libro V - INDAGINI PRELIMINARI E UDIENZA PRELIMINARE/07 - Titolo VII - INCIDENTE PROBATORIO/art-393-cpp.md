@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Richiesta"
-dataVigenza: "20260914"
-ordine: 476
+dataVigenza: "20260930"
+ordine: 477
 ---
 
 # Art. 393 - ***Richiesta***

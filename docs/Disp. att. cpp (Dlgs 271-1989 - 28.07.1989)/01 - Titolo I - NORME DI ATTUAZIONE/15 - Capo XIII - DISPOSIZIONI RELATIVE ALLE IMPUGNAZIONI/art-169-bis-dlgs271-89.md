@@ -14,10 +14,10 @@ capo_label: "DISPOSIZIONI RELATIVE ALLE IMPUGNAZIONI"
 sezione: null
 sezione_label: null
 rubrica: "Sezione della corte di cassazione per l'esame dell'inammissibilità dei ricorsi"
-dataVigenza: "20260925"
+dataVigenza: "20260930"
 ordine: 224
 ---
 
 # Art. 169-bis - ***Sezione della corte di cassazione per l'esame dell'inammissibilità dei ricorsi***
 
-1\. La sezione di cui al comma 1 dell'articolo 610 del codice è predeterminata con rotazione biennale dal provvedimento tabellare riguardante la corte di cassazione)).
+1\. La sezione di cui al comma 1 dell'articolo 610 del codice è predeterminata con rotazione biennale dal provvedimento tabellare riguardante la corte di cassazione.

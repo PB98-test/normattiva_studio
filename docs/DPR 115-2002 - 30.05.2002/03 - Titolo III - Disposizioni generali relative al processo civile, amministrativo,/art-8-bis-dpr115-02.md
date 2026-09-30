@@ -14,13 +14,13 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Regime delle spese di giustizia nei procedimenti civili di cui è parte il pubblico ministero"
-dataVigenza: "20260928"
+dataVigenza: "20260930"
 ordine: 9
 ---
 
 # Art. 8-bis - ***Regime delle spese di giustizia nei procedimenti civili di cui è parte il pubblico ministero***
 
-1\. Salvo che non sia diversamente disposto, nei procedimenti civili promossi dal pubblico ministero o nei quali il medesimo è parte, le spese di giustizia che non sono poste, dalla legge o dal giudice, a carico di una parte del processo diversa dal medesimo pubblico ministero sono regolate dall'articolo 131.
+1\. Salvo che non sia diversamente disposto, nei procedimenti civili promossi dal pubblico ministero o nei quali il medesimo è parte, le spese di giustizia che non sono poste, dalla legge o dal giudice, a carico di una parte del processo diversa dal medesimo pubblico ministero sono regolate dall'[articolo 131](../04%20-%20Titolo%20IV%20-%20Disposizioni%20particolari%20sul%20patrocinio%20a%20spese%20dello%20Stato%20nel%20proc/06%20-%20Capo%20VI%20-%20Effetti%20dell%27ammissione%20al%20patrocinio/art-131-dpr115-02.md).
 
 2\. Il provvedimento che pone a carico della parte soccombente non ammessa al patrocinio la rifusione delle spese di cui al comma 1 dispone che il pagamento sia eseguito a favore dello Stato.)) [^agg-95]
 

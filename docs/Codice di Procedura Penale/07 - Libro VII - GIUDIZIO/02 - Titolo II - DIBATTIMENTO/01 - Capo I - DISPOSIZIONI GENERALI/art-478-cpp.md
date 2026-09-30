@@ -14,8 +14,8 @@ capo_label: "DISPOSIZIONI GENERALI"
 sezione: null
 sezione_label: null
 rubrica: "Questioni incidentali"
-dataVigenza: "20260914"
-ordine: 583
+dataVigenza: "20260930"
+ordine: 584
 ---
 
 # Art. 478 - ***Questioni incidentali***

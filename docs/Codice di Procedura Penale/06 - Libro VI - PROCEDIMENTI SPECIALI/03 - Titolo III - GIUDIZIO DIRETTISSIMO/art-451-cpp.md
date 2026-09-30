@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Svolgimento del giudizio direttissimo"
-dataVigenza: "20260914"
-ordine: 546
+dataVigenza: "20260930"
+ordine: 547
 ---
 
 # Art. 451 - ***Svolgimento del giudizio direttissimo***

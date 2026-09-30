@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Efficacia della sentenza di proscioglimento per particolare tenuità del fatto nel giudizio civile o amministrativo di danno."
-dataVigenza: "20260914"
-ordine: 779
+dataVigenza: "20260930"
+ordine: 780
 ---
 
 # Art. 651-bis - ***Efficacia della sentenza di proscioglimento per particolare tenuità del fatto nel giudizio civile o amministrativo di danno.***

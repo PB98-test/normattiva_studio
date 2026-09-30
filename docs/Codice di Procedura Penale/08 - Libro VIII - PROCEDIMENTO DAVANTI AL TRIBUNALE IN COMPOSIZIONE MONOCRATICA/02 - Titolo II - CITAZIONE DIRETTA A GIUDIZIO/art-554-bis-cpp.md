@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 554-bis - (Udienza di comparizione predibattimentale a seguito di citazione diretta)."
+title: "Art. 554-bis - Udienza di comparizione predibattimentale a seguito di citazione diretta"
 articolo: "Art. 554-bis"
 codice: cpp
 aliases:
@@ -13,12 +13,12 @@ capo: null
 capo_label: null
 sezione: null
 sezione_label: null
-rubrica: "(Udienza di comparizione predibattimentale a seguito di citazione diretta)."
-dataVigenza: "20260914"
-ordine: 666
+rubrica: "Udienza di comparizione predibattimentale a seguito di citazione diretta"
+dataVigenza: "20260930"
+ordine: 667
 ---
 
-# Art. 554-bis - ***(Udienza di comparizione predibattimentale a seguito di citazione diretta).***
+# Art. 554-bis - ***Udienza di comparizione predibattimentale a seguito di citazione diretta***
 
 1\. L'udienza di comparizione predibattimentale si svolge in camera di consiglio con la partecipazione necessaria del pubblico ministero e del difensore dell'imputato.
 
@@ -34,4 +34,4 @@ ordine: 666
 
 7\. Se, a seguito della modifica dell'imputazione, il reato risulta attribuito alla cognizione del tribunale in composizione collegiale anzichè monocratica, l'inosservanza delle disposizioni sulla composizione del giudice è rilevata o eccepita, a pena di decadenza, immediatamente dopo la nuova contestazione ovvero, nel caso indicato nell'ultimo periodo del comma 6, prima del compimento di ogni altro atto nella nuova udienza fissata a norma del medesimo comma. Se, a seguito della modifica, risulta un reato per il quale è prevista l'udienza preliminare e questa non si è tenuta, la relativa eccezione è proposta, a pena di decadenza, entro gli stessi termini indicati nel periodo che precede.
 
-8\. Il verbale dell'udienza predibattimentale è redatto in forma riassuntiva a norma dell'[articolo 140](../../02%20-%20Libro%20II%20-%20ATTI/03%20-%20Titolo%20III%20-%20DOCUMENTAZIONE%20DEGLI%20ATTI/art-140-cpp.md), comma 2.
+8\. Il verbale dell'udienza predibattimentale è redatto in forma riassuntiva a norma dell'[articolo 140](../../02%20-%20Libro%20II%20-%20ATTI/04%20-%20Titolo%20III%20-%20DOCUMENTAZIONE%20DEGLI%20ATTI/art-140-cpp.md), comma 2.

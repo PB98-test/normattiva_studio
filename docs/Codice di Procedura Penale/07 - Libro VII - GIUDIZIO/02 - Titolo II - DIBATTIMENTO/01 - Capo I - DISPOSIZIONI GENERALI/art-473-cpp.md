@@ -14,8 +14,8 @@ capo_label: "DISPOSIZIONI GENERALI"
 sezione: null
 sezione_label: null
 rubrica: "Ordine di procedere a porte chiuse"
-dataVigenza: "20260914"
-ordine: 578
+dataVigenza: "20260930"
+ordine: 579
 ---
 
 # Art. 473 - ***Ordine di procedere a porte chiuse***

@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Udienza di convalida"
-dataVigenza: "20260914"
-ordine: 465
+dataVigenza: "20260930"
+ordine: 466
 ---
 
 # Art. 391 - ***Udienza di convalida***

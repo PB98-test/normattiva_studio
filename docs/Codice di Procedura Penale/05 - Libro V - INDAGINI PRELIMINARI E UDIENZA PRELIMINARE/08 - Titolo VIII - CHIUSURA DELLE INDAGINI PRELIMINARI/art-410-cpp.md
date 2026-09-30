@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Opposizione alla richiesta di archiviazione"
-dataVigenza: "20260914"
-ordine: 494
+dataVigenza: "20260930"
+ordine: 495
 ---
 
 # Art. 410 - ***Opposizione alla richiesta di archiviazione***

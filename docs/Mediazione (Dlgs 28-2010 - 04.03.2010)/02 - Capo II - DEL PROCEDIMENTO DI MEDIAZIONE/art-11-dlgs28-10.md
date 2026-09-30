@@ -14,13 +14,13 @@ capo_label: "DEL PROCEDIMENTO DI MEDIAZIONE"
 sezione: null
 sezione_label: null
 rubrica: "Conclusione del procedimento"
-dataVigenza: "20260925"
+dataVigenza: "20260930"
 ordine: 18
 ---
 
 # Art. 11 - ***Conclusione del procedimento***
 
-1\. Se è raggiunto un accordo di conciliazione, il mediatore forma processo verbale al quale è allegato il testo dell'accordo medesimo. Quando l'accordo non è raggiunto, il mediatore ne dà atto nel verbale e può formulare una proposta di conciliazione da allegare al verbale. In ogni caso, il mediatore formula una proposta di conciliazione se le parti gliene fanno concorde richiesta in qualunque momento del procedimento. Prima della formulazione della proposta, il mediatore informa le parti delle possibili conseguenze di cui all'articolo 13.
+1\. Se è raggiunto un accordo di conciliazione, il mediatore forma processo verbale al quale è allegato il testo dell'accordo medesimo. Quando l'accordo non è raggiunto, il mediatore ne dà atto nel verbale e può formulare una proposta di conciliazione da allegare al verbale. In ogni caso, il mediatore formula una proposta di conciliazione se le parti gliene fanno concorde richiesta in qualunque momento del procedimento. Prima della formulazione della proposta, il mediatore informa le parti delle possibili conseguenze di cui all'[articolo 13](art-13-dlgs28-10.md).
 
 2\. La proposta di conciliazione è formulata e comunicata alle parti per iscritto. Le parti fanno pervenire al mediatore, per iscritto ed entro sette giorni dalla comunicazione o nel maggior termine indicato dal mediatore, l'accettazione o il rifiuto della proposta. In mancanza di risposta nel termine, la proposta si ha per rifiutata. Salvo diverso accordo delle parti, la proposta non può contenere alcun riferimento alle dichiarazioni rese o alle informazioni acquisite nel corso del procedimento.
 
@@ -36,7 +36,7 @@ ordine: 18
 
 7\. Se con l'accordo le parti concludono uno dei contratti o compiono uno degli atti previsti dall'[articolo 2643 del codice civile](../../Codice%20Civile/06%20-%20Libro%20VI%20-%20DELLA%20TUTELA%20DEI%20DIRITTI/01%20-%20Titolo%20I%20-%20DELLA%20TRASCRIZIONE/01%20-%20Capo%20I%20-%20Della%20trascrizione%20degli%20atti%20relativi%20ai%20beni%20immobili/art-2643-cc.md), per procedere alla trascrizione dello stesso la sottoscrizione dell'accordo di conciliazione deve essere autenticata da un pubblico ufficiale a ciò autorizzato. L'accordo raggiunto, anche a seguito della proposta del mediatore, può prevedere il pagamento di una somma di denaro per ogni violazione o inosservanza degli obblighi stabiliti ovvero per il ritardo nel loro adempimento. [^agg-9] [^agg-10]
 
-[^agg-3]: *AGGIORNAMENTO (3)* La Corte Costituzionale, con sentenza 24 ottobre 2012 - 6 dicembre 2012, n. 272 (in G.U. 1a s.s. 12/12/2012, n. 49), ha dichiarato "in via consequenziale, ai sensi dell'art. 27 della legge 11 marzo 1953, n. 87 (Norme sulla costituzione e sul funzionamento della Corte costituzionale), l'illegittimità costituzionale: [...] i) dell'[art. 11](art-11-dlgs28-10.md), comma 1, del detto decreto legislativo, limitatamente al periodo «Prima della formulazione della proposta, il mediatore informa le parti delle possibili conseguenze di cui all'art. 13»".
+[^agg-3]: *AGGIORNAMENTO (3)* La Corte Costituzionale, con sentenza 24 ottobre 2012 - 6 dicembre 2012, n. 272 (in G.U. 1a s.s. 12/12/2012, n. 49), ha dichiarato "in via consequenziale, ai sensi dell'art. 27 della legge 11 marzo 1953, n. 87 (Norme sulla costituzione e sul funzionamento della Corte costituzionale), l'illegittimità costituzionale: [...] i) dell'[art. 11](art-11-dlgs28-10.md), comma 1, del detto decreto legislativo, limitatamente al periodo «Prima della formulazione della proposta, il mediatore informa le parti delle possibili conseguenze di cui all'[art. 13](art-13-dlgs28-10.md)»".
 
 [^agg-4]: *AGGIORNAMENTO (4)* Il D.L. 21 giugno 2013, n. 69, convertito con modificazioni dalla L. 9 agosto 2013, n. 98 ha disposto (con l'art. 84, comma 2) che "Le disposizioni di cui al comma 1 si applicano decorsi trenta giorni dall'entrata in vigore della legge di conversione del presente decreto."
 

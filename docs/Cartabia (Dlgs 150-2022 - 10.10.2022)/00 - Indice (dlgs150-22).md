@@ -170,25 +170,25 @@ aliases:
 
 ### Titolo VI - Disposizioni transitorie, finali e abrogazioni
 - [Art. 85](06%20-%20Titolo%20VI%20-%20Disposizioni%20transitorie,%20finali%20e%20abrogazioni/art-85-dlgs150-22.md) — Disposizioni transitorie in materia di modifica del regime di procedibilità
-- [Art. 85-bis](06%20-%20Titolo%20VI%20-%20Disposizioni%20transitorie,%20finali%20e%20abrogazioni/art-85-bis-dlgs150-22.md) — (Disposizioni transitorie in materia di termini per la costituzione di parte civile).
+- [Art. 85-bis](06%20-%20Titolo%20VI%20-%20Disposizioni%20transitorie,%20finali%20e%20abrogazioni/art-85-bis-dlgs150-22.md) — Disposizioni transitorie in materia di termini per la costituzione di parte civile
 - [Art. 86](06%20-%20Titolo%20VI%20-%20Disposizioni%20transitorie,%20finali%20e%20abrogazioni/art-86-dlgs150-22.md) — Disposizioni transitorie in materia di notificazioni al querelante
 - [Art. 87](06%20-%20Titolo%20VI%20-%20Disposizioni%20transitorie,%20finali%20e%20abrogazioni/art-87-dlgs150-22.md) — Disposizioni transitorie in materia di processo penale telematico
-- [Art. 87-bis](06%20-%20Titolo%20VI%20-%20Disposizioni%20transitorie,%20finali%20e%20abrogazioni/art-87-bis-dlgs150-22.md) — (Disposizioni transitorie in materia di semplificazione delle attività di deposito di atti, documenti e istanze).
+- [Art. 87-bis](06%20-%20Titolo%20VI%20-%20Disposizioni%20transitorie,%20finali%20e%20abrogazioni/art-87-bis-dlgs150-22.md) — Disposizioni transitorie in materia di semplificazione delle attività di deposito di atti, documenti e istanze
 - [Art. 88](06%20-%20Titolo%20VI%20-%20Disposizioni%20transitorie,%20finali%20e%20abrogazioni/art-88-dlgs150-22.md) — Disposizioni transitorie in materia di restituzione nel termine
-- [Art. 88-bis](06%20-%20Titolo%20VI%20-%20Disposizioni%20transitorie,%20finali%20e%20abrogazioni/art-88-bis-dlgs150-22.md) — (Disposizioni transitorie in materia di indagini preliminari).
-- [Art. 88-ter](06%20-%20Titolo%20VI%20-%20Disposizioni%20transitorie,%20finali%20e%20abrogazioni/art-88-ter-dlgs150-22.md) — (Disposizioni transitorie in materia di inappellabilità delle sentenze di non luogo a procedere).
+- [Art. 88-bis](06%20-%20Titolo%20VI%20-%20Disposizioni%20transitorie,%20finali%20e%20abrogazioni/art-88-bis-dlgs150-22.md) — Disposizioni transitorie in materia di indagini preliminari
+- [Art. 88-ter](06%20-%20Titolo%20VI%20-%20Disposizioni%20transitorie,%20finali%20e%20abrogazioni/art-88-ter-dlgs150-22.md) — Disposizioni transitorie in materia di inappellabilità delle sentenze di non luogo a procedere
 - [Art. 89](06%20-%20Titolo%20VI%20-%20Disposizioni%20transitorie,%20finali%20e%20abrogazioni/art-89-dlgs150-22.md) — Disposizioni transitorie in materia di assenza
-- [Art. 89-bis](06%20-%20Titolo%20VI%20-%20Disposizioni%20transitorie,%20finali%20e%20abrogazioni/art-89-bis-dlgs150-22.md) — (Disposizioni transitorie in materia di udienza predibattimentale).
+- [Art. 89-bis](06%20-%20Titolo%20VI%20-%20Disposizioni%20transitorie,%20finali%20e%20abrogazioni/art-89-bis-dlgs150-22.md) — Disposizioni transitorie in materia di udienza predibattimentale
 - [Art. 90](06%20-%20Titolo%20VI%20-%20Disposizioni%20transitorie,%20finali%20e%20abrogazioni/art-90-dlgs150-22.md) — Disposizioni transitorie in materia di sospensione del procedimento con messa alla prova dell'imputato
 - [Art. 91](06%20-%20Titolo%20VI%20-%20Disposizioni%20transitorie,%20finali%20e%20abrogazioni/art-91-dlgs150-22.md) — Disposizioni transitorie in materia di rimedi per l'esecuzione delle decisioni della Corte europea dei diritti dell'uomo
 - [Art. 92](06%20-%20Titolo%20VI%20-%20Disposizioni%20transitorie,%20finali%20e%20abrogazioni/art-92-dlgs150-22.md) — Disposizioni transitorie in materia di giustizia riparativa. Servizi esistenti
 - [Art. 93](06%20-%20Titolo%20VI%20-%20Disposizioni%20transitorie,%20finali%20e%20abrogazioni/art-93-dlgs150-22.md) — Disposizioni transitorie in materia di giustizia riparativa. Inserimento nell'elenco dei mediatori
-- [Art. 93-bis](06%20-%20Titolo%20VI%20-%20Disposizioni%20transitorie,%20finali%20e%20abrogazioni/art-93-bis-dlgs150-22.md) — (Disposizioni transitorie in materia di mutamento del giudice nel corso del dibattimento).
+- [Art. 93-bis](06%20-%20Titolo%20VI%20-%20Disposizioni%20transitorie,%20finali%20e%20abrogazioni/art-93-bis-dlgs150-22.md) — Disposizioni transitorie in materia di mutamento del giudice nel corso del dibattimento
 - [Art. 94](06%20-%20Titolo%20VI%20-%20Disposizioni%20transitorie,%20finali%20e%20abrogazioni/art-94-dlgs150-22.md) — Disposizioni transitorie in materia di videoregistrazioni e di giudizi di impugnazione
 - [Art. 95](06%20-%20Titolo%20VI%20-%20Disposizioni%20transitorie,%20finali%20e%20abrogazioni/art-95-dlgs150-22.md) — Disposizioni transitorie in materia di pene sostitutive delle pene detentive brevi
 - [Art. 96](06%20-%20Titolo%20VI%20-%20Disposizioni%20transitorie,%20finali%20e%20abrogazioni/art-96-dlgs150-22.md) — Disposizioni transitorie in materia di estinzione delle contravvenzioni in materia di alimenti
 - [Art. 97](06%20-%20Titolo%20VI%20-%20Disposizioni%20transitorie,%20finali%20e%20abrogazioni/art-97-dlgs150-22.md) — Disposizioni transitorie in materia di esecuzione e conversione delle pene pecuniarie
-- [Art. 97-bis](06%20-%20Titolo%20VI%20-%20Disposizioni%20transitorie,%20finali%20e%20abrogazioni/art-97-bis-dlgs150-22.md) — (Disposizioni transitorie in materia di iscrizione nel casellario giudiziale di provvedimenti di condanna alle sanzioni sostitutive).
+- [Art. 97-bis](06%20-%20Titolo%20VI%20-%20Disposizioni%20transitorie,%20finali%20e%20abrogazioni/art-97-bis-dlgs150-22.md) — Disposizioni transitorie in materia di iscrizione nel casellario giudiziale di provvedimenti di condanna alle sanzioni sostitutive
 - [Art. 98](06%20-%20Titolo%20VI%20-%20Disposizioni%20transitorie,%20finali%20e%20abrogazioni/art-98-dlgs150-22.md) — Abrogazioni
 - [Art. 99](06%20-%20Titolo%20VI%20-%20Disposizioni%20transitorie,%20finali%20e%20abrogazioni/art-99-dlgs150-22.md) — Disposizioni finanziarie
-- [Art. 99-bis](06%20-%20Titolo%20VI%20-%20Disposizioni%20transitorie,%20finali%20e%20abrogazioni/art-99-bis-dlgs150-22.md) — (Entrata in vigore)
+- [Art. 99-bis](06%20-%20Titolo%20VI%20-%20Disposizioni%20transitorie,%20finali%20e%20abrogazioni/art-99-bis-dlgs150-22.md) — Entrata in vigore

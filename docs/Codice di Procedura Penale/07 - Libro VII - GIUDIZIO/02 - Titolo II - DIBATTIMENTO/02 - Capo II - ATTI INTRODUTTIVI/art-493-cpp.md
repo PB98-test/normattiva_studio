@@ -14,8 +14,8 @@ capo_label: "ATTI INTRODUTTIVI"
 sezione: null
 sezione_label: null
 rubrica: "Richieste di prova"
-dataVigenza: "20260914"
-ordine: 598
+dataVigenza: "20260930"
+ordine: 599
 ---
 
 # Art. 493 - ***Richieste di prova***

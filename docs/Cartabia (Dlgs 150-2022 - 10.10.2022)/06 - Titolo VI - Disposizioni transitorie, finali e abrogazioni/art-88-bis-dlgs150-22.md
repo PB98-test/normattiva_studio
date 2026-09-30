@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 88-bis - (Disposizioni transitorie in materia di indagini preliminari)."
+title: "Art. 88-bis - Disposizioni transitorie in materia di indagini preliminari"
 articolo: "Art. 88-bis"
 codice: dlgs150-22
 aliases:
@@ -13,12 +13,12 @@ capo: null
 capo_label: null
 sezione: null
 sezione_label: null
-rubrica: "(Disposizioni transitorie in materia di indagini preliminari)."
-dataVigenza: "20260928"
+rubrica: "Disposizioni transitorie in materia di indagini preliminari"
+dataVigenza: "20260930"
 ordine: 91
 ---
 
-# Art. 88-bis - ***(Disposizioni transitorie in materia di indagini preliminari).***
+# Art. 88-bis - ***Disposizioni transitorie in materia di indagini preliminari***
 
 1\. Le disposizioni degli [articoli 335-quater](../../Codice%20di%20Procedura%20Penale/05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/02%20-%20Titolo%20II%20-%20NOTIZIA%20DI%20REATO/art-335-quater-cpp.md), [407-bis](../../Codice%20di%20Procedura%20Penale/05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/08%20-%20Titolo%20VIII%20-%20CHIUSURA%20DELLE%20INDAGINI%20PRELIMINARI/art-407-bis-cpp.md) e [415-ter del codice di procedura penale](../../Codice%20di%20Procedura%20Penale/05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/08%20-%20Titolo%20VIII%20-%20CHIUSURA%20DELLE%20INDAGINI%20PRELIMINARI/art-415-ter-cpp.md), come introdotte dal presente decreto, non si applicano nei procedimenti pendenti alla data di entrata in vigore del presente decreto in relazione alle notizie di reato delle quali il pubblico ministero ha già disposto l'iscrizione nel registro di cui all'[articolo 335 del codice di procedura penale](../../Codice%20di%20Procedura%20Penale/05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/02%20-%20Titolo%20II%20-%20NOTIZIA%20DI%20REATO/art-335-cpp.md), nonchè in relazione alle notizie di reato iscritte successivamente, quando ricorrono le condizioni previste dall'[articolo 12 del codice di procedura penale](../../Codice%20di%20Procedura%20Penale/01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/02%20-%20Capo%20II%20-%20COMPETENZA/04%20-%20Sezione%20IV%20-%20Competenza%20per%20connessione/art-12-cpp.md) e, se si procede per taluno dei delitti indicati nell'[articolo 407, comma 2, del codice di procedura penale](../../Codice%20di%20Procedura%20Penale/05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/08%20-%20Titolo%20VIII%20-%20CHIUSURA%20DELLE%20INDAGINI%20PRELIMINARI/art-407-cpp.md), anche quando ricorrono le condizioni previste dall'articolo 371, comma 2, lettere b) e c), del medesimo codice. Tuttavia, le disposizioni dell'[articolo 335-quater del codice di procedura penale](../../Codice%20di%20Procedura%20Penale/05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/02%20-%20Titolo%20II%20-%20NOTIZIA%20DI%20REATO/art-335-quater-cpp.md), come introdotte dal presente decreto, si applicano in ogni caso in relazione alle iscrizioni che hanno ad oggetto notizie di reati commessi dopo la data di entrata in vigore del presente decreto.
 

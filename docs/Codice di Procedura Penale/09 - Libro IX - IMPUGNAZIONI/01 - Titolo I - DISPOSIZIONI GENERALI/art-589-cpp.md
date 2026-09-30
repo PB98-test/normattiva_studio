@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Rinuncia all'impugnazione"
-dataVigenza: "20260914"
-ordine: 707
+dataVigenza: "20260930"
+ordine: 708
 ---
 
 # Art. 589 - ***Rinuncia all'impugnazione***

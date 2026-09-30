@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da Mediazione (Dlgs 28-2010 - 04.03.2010) ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Mediazione (Dlgs 28-2010 - 04.03.2010) — 38 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Mediazione (Dlgs 28-2010 - 04.03.2010) — 35 leggi trovate)*
 
 - [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const)
 - [articolo 60 della legge 19 giugno 2009, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-06-19;69)
@@ -20,7 +20,6 @@ search:
 - [decreto legislativo 7 settembre 2005, n. 209](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2005-09-07;209)
 - [articolo 2, comma 24, lettera b), della legge 14 novembre 1995, n. 481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-11-14;481)
 - [articoli 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2005-09-06;206)
-- [articolo 5, comma 1, del decreto legislativo 4 marzo 2010, n. 28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2010-03-04;28)
 - [articolo 60 della legge 18 giugno 2009, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-06-18;69)
 - [D.Lgs. 6 agosto 2015, n. 130](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2015-08-06;130)
 - [D.Lgs. 21 maggio 2018, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2018-05-21;68)
@@ -33,7 +32,6 @@ search:
 - [articolo 2 della legge 24 marzo 2001, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-03-24;89)
 - [articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2001-03-30;165)
 - [legge 14 gennaio 1994, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;20)
-- [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-05-30;115)
 - [articoli 78, comma 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002;115)
 - [articolo 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445)
 - [legge 26 novembre 2021, n. 206](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-11-26;206)
@@ -41,7 +39,6 @@ search:
 - [legge 13 novembre 2008, n. 181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-11-13;181)
 - [articolo 2, comma 4, della legge 29 dicembre 1993, n. 580](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-29;580)
 - [legge 7 giugno 2000, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-06-07;150)
-- [articolo 10, comma 2, lettera e), del decreto legislativo 21 novembre 2007, n. 231](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2007-11-21;231)
 - [articoli da 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2003-01-17;5)
 - [D.L. 29 dicembre 2010, n. 225](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2010-12-29;225)
 - [L. 26 febbraio 2011, n. 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011-02-26;10)

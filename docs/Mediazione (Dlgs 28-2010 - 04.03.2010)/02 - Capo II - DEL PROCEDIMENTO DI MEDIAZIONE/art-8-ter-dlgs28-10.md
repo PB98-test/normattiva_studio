@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 8-ter - (Incontri di mediazione con modalità audiovisive da remoto)."
+title: "Art. 8-ter - Incontri di mediazione con modalità audiovisive da remoto"
 articolo: "Art. 8-ter"
 codice: dlgs28-10
 aliases:
@@ -13,12 +13,12 @@ capo: "II"
 capo_label: "DEL PROCEDIMENTO DI MEDIAZIONE"
 sezione: null
 sezione_label: null
-rubrica: "(Incontri di mediazione con modalità audiovisive da remoto)."
-dataVigenza: "20260925"
+rubrica: "Incontri di mediazione con modalità audiovisive da remoto"
+dataVigenza: "20260930"
 ordine: 15
 ---
 
-# Art. 8-ter - ***(Incontri di mediazione con modalità audiovisive da remoto).***
+# Art. 8-ter - ***Incontri di mediazione con modalità audiovisive da remoto***
 
 1\. Ciascuna parte può sempre chiedere al responsabile dell'organismo di mediazione di partecipare agli incontri con collegamento audiovisivo da remoto.
 

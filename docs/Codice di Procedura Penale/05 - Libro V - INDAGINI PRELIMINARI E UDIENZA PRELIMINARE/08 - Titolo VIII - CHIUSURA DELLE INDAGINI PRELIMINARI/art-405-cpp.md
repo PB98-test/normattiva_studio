@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Termini per la conclusione delle indagini preliminari."
-dataVigenza: "20260914"
-ordine: 488
+dataVigenza: "20260930"
+ordine: 489
 ---
 
 # Art. 405 - ***Termini per la conclusione delle indagini preliminari.***

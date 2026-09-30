@@ -14,17 +14,17 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Accesso ai programmi di giustizia riparativa"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 154
 ---
 
 # Art. 129-bis - ***Accesso ai programmi di giustizia riparativa***
 
-1\. In ogni stato e grado del procedimento l'autorità giudiziaria può disporre, anche d'ufficio, l'invio dell'imputato e della vittima del reato di cui all'articolo 42, comma 1, lettera b), del decreto legislativo 10 ottobre 2022, n. 150, al Centro per la giustizia riparativa di riferimento, per l'avvio di un programma di giustizia riparativa.
+1\. In ogni stato e grado del procedimento l'autorità giudiziaria può disporre, anche d'ufficio, l'invio dell'imputato e della vittima del reato di cui all'[articolo 42](../../../Cartabia%20%28Dlgs%20150-2022%20-%2010.10.2022%29/04%20-%20Titolo%20IV%20-%20Disciplina%20organica%20della%20giustizia%20riparativa/01%20-%20Capo%20I%20-%20Principi%20e%20disposizioni%20generali/01%20-%20Sezione%20I%20-%20Definizioni,%20principi%20e%20obiettivi/art-42-dlgs150-22.md), comma 1, lettera b), del decreto legislativo 10 ottobre 2022, n. 150, al Centro per la giustizia riparativa di riferimento, per l'avvio di un programma di giustizia riparativa.
 
-2\. La richiesta dell'imputato o della vittima del reato di cui all'articolo 42, comma 1, lettera b) del decreto legislativo 10 ottobre 2022, n. 150, è proposta personalmente o per mezzo di procuratore speciale.
+2\. La richiesta dell'imputato o della vittima del reato di cui all'[articolo 42](../../../Cartabia%20%28Dlgs%20150-2022%20-%2010.10.2022%29/04%20-%20Titolo%20IV%20-%20Disciplina%20organica%20della%20giustizia%20riparativa/01%20-%20Capo%20I%20-%20Principi%20e%20disposizioni%20generali/01%20-%20Sezione%20I%20-%20Definizioni,%20principi%20e%20obiettivi/art-42-dlgs150-22.md), comma 1, lettera b) del decreto legislativo 10 ottobre 2022, n. 150, è proposta personalmente o per mezzo di procuratore speciale.
 
-3\. L'invio degli interessati è disposto con ordinanza dal giudice che procede, sentite le parti, i difensori nominati e, se lo ritiene necessario, la vittima del reato di cui all'articolo 42, comma 1, lettera b), del decreto legislativo 10 ottobre 2022, n. 150, qualora reputi che lo svolgimento di un programma di giustizia riparativa possa essere utile alla risoluzione delle questioni derivanti dal fatto per cui si procede e non comporti un pericolo concreto per gli interessati e per l'accertamento dei fatti. Nel corso delle indagini preliminari provvede il pubblico ministero con decreto motivato.
+3\. L'invio degli interessati è disposto con ordinanza dal giudice che procede, sentite le parti, i difensori nominati e, se lo ritiene necessario, la vittima del reato di cui all'[articolo 42](../../../Cartabia%20%28Dlgs%20150-2022%20-%2010.10.2022%29/04%20-%20Titolo%20IV%20-%20Disciplina%20organica%20della%20giustizia%20riparativa/01%20-%20Capo%20I%20-%20Principi%20e%20disposizioni%20generali/01%20-%20Sezione%20I%20-%20Definizioni,%20principi%20e%20obiettivi/art-42-dlgs150-22.md), comma 1, lettera b), del decreto legislativo 10 ottobre 2022, n. 150, qualora reputi che lo svolgimento di un programma di giustizia riparativa possa essere utile alla risoluzione delle questioni derivanti dal fatto per cui si procede e non comporti un pericolo concreto per gli interessati e per l'accertamento dei fatti. Nel corso delle indagini preliminari provvede il pubblico ministero con decreto motivato.
 
 4\. Nel caso di reati perseguibili a querela soggetta a remissione, il giudice, a richiesta dell'imputato, può disporre con ordinanza la sospensione del processo per un periodo non superiore a centottanta giorni, al fine di consentire lo svolgimento del programma di giustizia riparativa. Durante la sospensione del processo il giudice, con le modalità stabilite per il dibattimento, acquisisce, a richiesta di parte, le prove non rinviabili.
 

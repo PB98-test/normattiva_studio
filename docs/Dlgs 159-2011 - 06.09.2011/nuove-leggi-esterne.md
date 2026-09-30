@@ -5,11 +5,10 @@ search:
 
 # Leggi citate da Dlgs 159-2011 - 06.09.2011 ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Dlgs 159-2011 - 06.09.2011 — 123 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Dlgs 159-2011 - 06.09.2011 — 121 leggi trovate)*
 
 - [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const)
 - [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-08-13;136)
-- [art. 3, comma 4, del decreto legislativo 6 settembre 2011, n. 159](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2011-09-06;159)
 - [articolo 12-quinquies, comma 1, del decreto-legge 8 giugno 1992, n. 306](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:1992-06-08;306)
 - [legge 7 agosto 1992, n. 356](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-08-07;356)
 - [legge 20 giugno 1952, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-06-20;645)
@@ -70,7 +69,6 @@ search:
 - [D.Lgs. 21 novembre 2014, n. 175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2014-11-21;175)
 - [articolo 8, comma 6-bis, della legge 29 dicembre 1993, n. 580](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-29;580)
 - [legge n. 580 del 1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;580)
-- [articolo 9 del decreto legislativo 21 novembre 2007, n. 231](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2007-11-21;231)
 - [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1993-09-01;385)
 - [regio decreto n. 267 del 1942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regiodecreto:1942;267)
 - [legge 4 aprile 1956, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-04-04;212)

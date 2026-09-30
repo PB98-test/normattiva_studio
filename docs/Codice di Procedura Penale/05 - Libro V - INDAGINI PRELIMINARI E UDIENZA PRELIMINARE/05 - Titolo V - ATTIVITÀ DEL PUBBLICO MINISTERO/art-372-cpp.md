@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Avocazione delle indagini"
-dataVigenza: "20260914"
-ordine: 443
+dataVigenza: "20260930"
+ordine: 444
 ---
 
 # Art. 372 - ***Avocazione delle indagini***

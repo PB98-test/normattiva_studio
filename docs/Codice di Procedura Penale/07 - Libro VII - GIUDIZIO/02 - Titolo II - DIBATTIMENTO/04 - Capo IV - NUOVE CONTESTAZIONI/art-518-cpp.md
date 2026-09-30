@@ -14,8 +14,8 @@ capo_label: "NUOVE CONTESTAZIONI"
 sezione: null
 sezione_label: null
 rubrica: "Fatto nuovo risultante dal dibattimento"
-dataVigenza: "20260914"
-ordine: 626
+dataVigenza: "20260930"
+ordine: 627
 ---
 
 # Art. 518 - ***Fatto nuovo risultante dal dibattimento***

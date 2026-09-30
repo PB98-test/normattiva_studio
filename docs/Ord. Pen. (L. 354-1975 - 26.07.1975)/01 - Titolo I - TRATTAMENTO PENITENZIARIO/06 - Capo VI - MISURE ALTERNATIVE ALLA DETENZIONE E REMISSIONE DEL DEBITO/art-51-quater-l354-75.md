@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 51-quater - (Disciplina delle pene accessorie in caso di concessione di misure alternative)"
+title: "Art. 51-quater - Disciplina delle pene accessorie in caso di concessione di misure alternative"
 articolo: "Art. 51-quater"
 codice: l354-75
 aliases:
@@ -13,12 +13,12 @@ capo: "VI"
 capo_label: "MISURE ALTERNATIVE ALLA DETENZIONE E REMISSIONE DEL DEBITO"
 sezione: null
 sezione_label: null
-rubrica: "(Disciplina delle pene accessorie in caso di concessione di misure alternative)"
-dataVigenza: "20260925"
+rubrica: "Disciplina delle pene accessorie in caso di concessione di misure alternative"
+dataVigenza: "20260930"
 ordine: 82
 ---
 
-# Art. 51-quater - ***(Disciplina delle pene accessorie in caso di concessione di misure alternative)***
+# Art. 51-quater - ***Disciplina delle pene accessorie in caso di concessione di misure alternative***
 
 1\. In caso di applicazione di una misura alternativa alla detenzione, sono eseguite anche le pene accessorie, salvo che il giudice che ha concesso la misura, tenuto conto delle esigenze di reinserimento sociale del condannato, ne disponga la sospensione.
 

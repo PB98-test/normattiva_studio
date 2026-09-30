@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 538"
+title: "Art. 538 - Riserva a favore degli ascendenti ..."
 articolo: "Art. 538"
 codice: cc
 aliases:
@@ -13,14 +13,12 @@ capo: "X"
 capo_label: "Dei legittimari"
 sezione: "I"
 sezione_label: "Dei diritti riservati ai legittimari"
-rubrica: null
-dataVigenza: "20260914"
+rubrica: "Riserva a favore degli ascendenti ..."
+dataVigenza: "20260930"
 ordine: 625
 ---
 
-# Art. 538
-
-Riserva a favore degli ascendenti ....
+# Art. 538 - ***Riserva a favore degli ascendenti ...***
 
 Se chi muore non lascia figli ..., ma ascendenti ..., a favore di questi è riservato un terzo del patrimonio, salvo quanto disposto dall'[articolo 544](art-544-cc.md).[^agg-216]
 

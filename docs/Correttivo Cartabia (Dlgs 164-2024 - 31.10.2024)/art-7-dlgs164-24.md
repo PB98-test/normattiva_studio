@@ -14,7 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Disposizioni transitorie"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
+ordine: 7
 ---
 
 # Art. 7 - ***Disposizioni transitorie***
@@ -31,4 +32,4 @@ dataVigenza: "20260914"
 
 6\. Fermo quanto previsto dall'[articolo 35, comma 1, del decreto legislativo 10 ottobre 2022, n. 149](../Cartabia%20%28Dlgs%20149-2022%20-%2010.10.2022%29/05%20-%20Capo%20V%20-%20Diposizioni%20transitorie,%20finanziarie%20e%20finali/01%20-%20Sezione%20I%20-%20Disposizioni%20in%20materia%20di%20processo%20civile/art-35-dlgs149-22.md), le disposizioni di cui all'[articolo 4](art-4-dlgs164-24.md), commi 4, 5 e 5-quater, e di cui all'articolo 5-bis della legge 4 maggio 1983, n. 184, nel testo modificato dal decreto legislativo n. 149 del 2022 e dal presente decreto, si applicano anche in relazione ai provvedimenti di affidamento del minore adottati successivamente alla data di entrata in vigore del presente decreto. Le disposizioni di cui all'articolo 4, comma 7, della legge n. 184 del 1983, nel testo modificato dal decreto legislativo n. 149 del 2022 e dal presente decreto, si applicano anche in relazione ai provvedimenti di affidamento del minore adottati successivamente alla data 28 febbraio 2023.
 
-7\. Le disposizioni di cui all'articolo 13, comma 1-quater.1, del decreto del Presidente della Repubblica 30 maggio 2002, n. 115, si applicano anche ai procedimenti pendenti davanti alla Corte di cassazione alla data del 1° gennaio 2023.
+7\. Le disposizioni di cui all'articolo 13, comma 1-quater.1, del [decreto del Presidente della Repubblica 30 maggio 2002, n. 115](../DPR%20115-2002%20-%2030.05.2002/00%20-%20Indice%20%28dpr115-02%29.md), si applicano anche ai procedimenti pendenti davanti alla Corte di cassazione alla data del 1° gennaio 2023.

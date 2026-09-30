@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Richiesta della persona offesa"
-dataVigenza: "20260914"
-ordine: 477
+dataVigenza: "20260930"
+ordine: 478
 ---
 
 # Art. 394 - ***Richiesta della persona offesa***

@@ -14,7 +14,7 @@ capo_label: "Della estinzione del reato"
 sezione: null
 sezione_label: null
 rubrica: "Estinzione del reato per condotte riparatorie"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 180
 ---
 
@@ -26,6 +26,6 @@ Quando dimostra di non aver potuto adempiere, per fatto a lui non addebitabile, 
 
 Il giudice dichiara l'estinzione del reato, di cui al primo comma, all'esito positivo delle condotte riparatorie.
 
-Le disposizioni del presente articolo non si applicano nei casi di cui all'[articolo 612-bis](../../../02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/12%20-%20Titolo%20XII%20-%20DEI%20DELITTI%20CONTRO%20LA%20PERSONA/04%20-%20Capo%20III%20-%20Dei%20delitti%20contro%20la%20libertà%20individuale%20Sezione%201a%20Dei%20delitti%20cont/01%20-%20Sezione%20I-bis%20-%20Dei%20delitti%20contro%20l%27eguaglianza/art-612-bis-cp.md).   [^agg-277]
+Le disposizioni del presente articolo non si applicano nei casi di cui all'[articolo 612-bis](../../../02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/15%20-%20Titolo%20XII%20-%20DEI%20DELITTI%20CONTRO%20LA%20PERSONA/04%20-%20Capo%20III%20-%20Dei%20delitti%20contro%20la%20libertà%20individuale%20Sezione%201a%20Dei%20delitti%20cont/01%20-%20Sezione%20I-bis%20-%20Dei%20delitti%20contro%20l%27eguaglianza/art-612-bis-cp.md).   [^agg-277]
 
-[^agg-277]: *AGGIORNAMENTO (277)* La L. 23 giugno 2017, n. 103, ha disposto (con l'[art. 1](../../01%20-%20Titolo%20I%20-%20DELLA%20LEGGE%20PENALE/art-1-cp.md), comma 2) che "Le disposizioni dell'[articolo 162-ter del codice penale](art-162-ter-cp.md), introdotto dal comma 1, si applicano anche ai processi in corso alla data di entrata in vigore della presente legge e il giudice dichiara l'estinzione anche quando le condotte riparatorie siano state compiute oltre il termine della dichiarazione di apertura del dibattimento di primo grado".
+[^agg-277]: *AGGIORNAMENTO (277)* La [L. 23 giugno 2017, n. 103](../../../../Rif.%20Orlando%20%28L%20103-2017%20-%2023.06.2017%29/00%20-%20Indice%20%28l103-17%29.md), ha disposto (con l'[art. 1](../../01%20-%20Titolo%20I%20-%20DELLA%20LEGGE%20PENALE/art-1-cp.md), comma 2) che "Le disposizioni dell'[articolo 162-ter del codice penale](art-162-ter-cp.md), introdotto dal comma 1, si applicano anche ai processi in corso alla data di entrata in vigore della presente legge e il giudice dichiara l'estinzione anche quando le condotte riparatorie siano state compiute oltre il termine della dichiarazione di apertura del dibattimento di primo grado".

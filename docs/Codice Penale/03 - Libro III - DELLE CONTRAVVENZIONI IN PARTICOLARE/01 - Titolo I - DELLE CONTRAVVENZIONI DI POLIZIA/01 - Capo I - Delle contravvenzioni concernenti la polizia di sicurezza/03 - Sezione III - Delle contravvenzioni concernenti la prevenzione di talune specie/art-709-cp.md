@@ -14,8 +14,8 @@ capo_label: "Delle contravvenzioni concernenti la polizia di sicurezza"
 sezione: "III"
 sezione_label: "Delle contravvenzioni concernenti la prevenzione di talune specie di reati § 1 Delle contravvenzioni concernenti la tutela preventiva dei segreti"
 rubrica: "Omessa denuncia di cose provenienti da delitto"
-dataVigenza: "20260914"
-ordine: 968
+dataVigenza: "20260930"
+ordine: 969
 ---
 
 # Art. 709 - ***Omessa denuncia di cose provenienti da delitto***

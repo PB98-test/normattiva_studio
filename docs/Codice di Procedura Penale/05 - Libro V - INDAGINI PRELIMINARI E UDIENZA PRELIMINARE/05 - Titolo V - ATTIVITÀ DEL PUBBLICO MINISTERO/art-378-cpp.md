@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Poteri coercitivi del pubblico ministero"
-dataVigenza: "20260914"
-ordine: 449
+dataVigenza: "20260930"
+ordine: 450
 ---
 
 # Art. 378 - ***Poteri coercitivi del pubblico ministero***

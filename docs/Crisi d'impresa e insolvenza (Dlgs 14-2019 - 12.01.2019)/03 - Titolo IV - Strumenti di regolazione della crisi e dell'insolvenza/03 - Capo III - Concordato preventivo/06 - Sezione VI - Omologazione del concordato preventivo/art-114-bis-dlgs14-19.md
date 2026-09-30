@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 114-bis - (Disposizioni sulla liquidazione nel concordato in continuità)."
+title: "Art. 114-bis - Disposizioni sulla liquidazione nel concordato in continuità"
 articolo: "Art. 114-bis"
 codice: dlgs14-19
 aliases:
@@ -13,12 +13,12 @@ capo: "III"
 capo_label: "Concordato preventivo"
 sezione: "VI"
 sezione_label: "Omologazione del concordato preventivo"
-rubrica: "(Disposizioni sulla liquidazione nel concordato in continuità)."
-dataVigenza: "20260925"
+rubrica: "Disposizioni sulla liquidazione nel concordato in continuità"
+dataVigenza: "20260930"
 ordine: 131
 ---
 
-# Art. 114-bis - ***(Disposizioni sulla liquidazione nel concordato in continuità).***
+# Art. 114-bis - ***Disposizioni sulla liquidazione nel concordato in continuità***
 
 1\. Quando il piano del concordato in continuità prevede la liquidazione di una parte del patrimonio o la cessione dell'azienda e l'offerente non sia già individuato, nella sentenza di omologazione il tribunale può nominare uno o più liquidatori e un comitato di tre o cinque creditori per assistere alla liquidazione. Il liquidatore, anche avvalendosi di soggetti specializzati, compie le operazioni di liquidazione assicurandone l'efficienza e la celerità nel rispetto dei principi di pubblicità e trasparenza.
 

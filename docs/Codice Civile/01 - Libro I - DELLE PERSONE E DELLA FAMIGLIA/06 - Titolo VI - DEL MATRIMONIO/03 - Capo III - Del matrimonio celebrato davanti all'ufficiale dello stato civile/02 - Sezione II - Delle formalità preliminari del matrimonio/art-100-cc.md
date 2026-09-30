@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 100"
+title: "Art. 100 - Riduzione del termine e omissione della pubblicazione"
 articolo: "Art. 100"
 codice: cc
 aliases:
@@ -13,14 +13,12 @@ capo: "III"
 capo_label: "Del matrimonio celebrato davanti all'ufficiale dello stato civile"
 sezione: "II"
 sezione_label: "Delle formalità preliminari del matrimonio"
-rubrica: null
-dataVigenza: "20260914"
+rubrica: "Riduzione del termine e omissione della pubblicazione"
+dataVigenza: "20260930"
 ordine: 132
 ---
 
-# Art. 100
-
-Riduzione del termine e omissione della pubblicazione.
+# Art. 100 - ***Riduzione del termine e omissione della pubblicazione***
 
 Il tribunale, su istanza degli interessati, con decreto non impugnabile emesso in camera di consiglio, sentito il pubblico ministero, può ridurre, per gravi motivi, il termine della pubblicazione. In questo caso la riduzione del termine è dichiarata nella pubblicazione.
 

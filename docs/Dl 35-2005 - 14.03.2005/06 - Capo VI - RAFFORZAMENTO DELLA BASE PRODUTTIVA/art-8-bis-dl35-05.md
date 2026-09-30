@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 8-bis - (Ulteriori interventi per i Giochi olimpici invernali \"Torino 2006\")."
+title: "Art. 8-bis - Ulteriori interventi per i Giochi olimpici invernali \"Torino 2006\""
 articolo: "Art. 8-bis"
 codice: dl35-05
 aliases:
@@ -13,12 +13,12 @@ capo: "VI"
 capo_label: "RAFFORZAMENTO DELLA BASE PRODUTTIVA"
 sezione: null
 sezione_label: null
-rubrica: "(Ulteriori interventi per i Giochi olimpici invernali \"Torino 2006\")."
-dataVigenza: "20260914"
+rubrica: "Ulteriori interventi per i Giochi olimpici invernali \"Torino 2006\""
+dataVigenza: "20260930"
 ordine: 17
 ---
 
-# Art. 8-bis - ***(Ulteriori interventi per i Giochi olimpici invernali "Torino 2006").***
+# Art. 8-bis - ***Ulteriori interventi per i Giochi olimpici invernali "Torino 2006"***
 
 1\. Lo stanziamento di cui all'articolo 7-septies, comma 1, del decreto-legge 31 gennaio 2005, n. 7, convertito, con modificazioni, dalla legge 31 marzo 2005, n. 43, è incrementato per un importo pari a 10 milioni di euro per l'anno 2005, 10 milioni di euro per l'anno 2006 e 30 milioni di euro per l'anno 2007.
 

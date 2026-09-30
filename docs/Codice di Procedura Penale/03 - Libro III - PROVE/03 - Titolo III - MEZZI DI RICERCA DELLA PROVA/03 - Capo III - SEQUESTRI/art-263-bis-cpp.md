@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 263-bis - (Ordine di conservazione di dati)."
+title: "Art. 263-bis - Ordine di conservazione di dati"
 articolo: "Art. 263-bis"
 codice: cpp
 aliases:
@@ -13,12 +13,12 @@ capo: "III"
 capo_label: "SEQUESTRI"
 sezione: null
 sezione_label: null
-rubrica: "(Ordine di conservazione di dati)."
-dataVigenza: "20260914"
+rubrica: "Ordine di conservazione di dati"
+dataVigenza: "20260930"
 ordine: 308
 ---
 
-# Art. 263-bis - ***(Ordine di conservazione di dati).***
+# Art. 263-bis - ***Ordine di conservazione di dati***
 
 1\. Nel corso delle indagini preliminari il pubblico ministero può ordinare, con decreto motivato, ai fornitori e agli operatori di servizi informatici, telematici o di telecomunicazioni, di conservare e proteggere, secondo le modalità indicate e per un periodo non superiore a novanta giorni, i dati da questi detenuti. Il provvedimento, prorogabile, per motivate esigenze, per una durata complessiva non superiore a sei mesi, può prevedere particolari modalità di custodia dei dati e l'eventuale indisponibilità dei dati stessi da parte dei fornitori e degli operatori di servizi informatici, telematici o di telecomunicazioni ovvero di terzi.
 

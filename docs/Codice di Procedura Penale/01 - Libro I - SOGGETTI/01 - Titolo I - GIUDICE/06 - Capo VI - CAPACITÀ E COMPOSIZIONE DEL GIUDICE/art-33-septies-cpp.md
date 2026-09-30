@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 33-septies - (Inosservanza dichiarata nel dibattimento di primo grado)"
+title: "Art. 33-septies - Inosservanza dichiarata nel dibattimento di primo grado"
 articolo: "Art. 33-septies"
 codice: cpp
 aliases:
@@ -13,12 +13,12 @@ capo: "VI"
 capo_label: "CAPACITÀ E COMPOSIZIONE DEL GIUDICE"
 sezione: null
 sezione_label: null
-rubrica: "(Inosservanza dichiarata nel dibattimento di primo grado)"
-dataVigenza: "20260914"
+rubrica: "Inosservanza dichiarata nel dibattimento di primo grado"
+dataVigenza: "20260930"
 ordine: 41
 ---
 
-# Art. 33-septies - ***(Inosservanza dichiarata nel dibattimento di primo grado)***
+# Art. 33-septies - ***Inosservanza dichiarata nel dibattimento di primo grado***
 
 1\. Nel dibattimento di primo grado instaurato a seguito dell'udienza preliminare, il giudice, se ritiene che il reato appartiene alla cognizione del tribunale in composizione diversa, trasmette gli atti, con ordinanza, al giudice competente a decidere sul reato contestato.
 

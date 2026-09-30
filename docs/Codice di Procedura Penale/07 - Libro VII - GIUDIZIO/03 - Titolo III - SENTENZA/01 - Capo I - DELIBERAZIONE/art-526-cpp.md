@@ -14,8 +14,8 @@ capo_label: "DELIBERAZIONE"
 sezione: null
 sezione_label: null
 rubrica: "Prove utilizzabili ai fini della deliberazione"
-dataVigenza: "20260914"
-ordine: 635
+dataVigenza: "20260930"
+ordine: 636
 ---
 
 # Art. 526 - ***Prove utilizzabili ai fini della deliberazione***

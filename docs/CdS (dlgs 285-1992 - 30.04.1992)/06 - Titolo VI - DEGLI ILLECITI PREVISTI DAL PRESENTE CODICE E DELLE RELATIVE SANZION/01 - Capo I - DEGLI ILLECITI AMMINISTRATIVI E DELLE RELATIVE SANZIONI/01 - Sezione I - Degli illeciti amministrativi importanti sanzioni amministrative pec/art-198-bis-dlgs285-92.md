@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 198-bis - (Disposizioni in materia di illeciti reiterati e relative sanzioni)."
+title: "Art. 198-bis - Disposizioni in materia di illeciti reiterati e relative sanzioni"
 articolo: "Art. 198-bis"
 codice: dlgs285-92
 aliases:
@@ -13,12 +13,12 @@ capo: "I"
 capo_label: "DEGLI ILLECITI AMMINISTRATIVI E DELLE RELATIVE SANZIONI"
 sezione: "I"
 sezione_label: "Degli illeciti amministrativi importanti sanzioni amministrative pecuniarie ed applicazione di queste ultime"
-rubrica: "(Disposizioni in materia di illeciti reiterati e relative sanzioni)."
-dataVigenza: "20260914"
+rubrica: "Disposizioni in materia di illeciti reiterati e relative sanzioni"
+dataVigenza: "20260930"
 ordine: 214
 ---
 
-# Art. 198-bis - ***(Disposizioni in materia di illeciti reiterati e relative sanzioni).***
+# Art. 198-bis - ***Disposizioni in materia di illeciti reiterati e relative sanzioni***
 
 1\. La violazione, anche in tempi diversi, della medesima norma relativa alla circolazione di un veicolo non avente i requisiti tecnici o amministrativi richiesti dalla legge è considerata, ove ricorrano le condizioni di cui ai commi 2 e 3 e ai fini dell'applicazione della sanzione prevista dal comma 4, come un'unica infrazione. Resta fermo che le condotte commesse successivamente alla prima notificazione ovvero alla contestazione immediata costituiscono nuove violazioni.
 

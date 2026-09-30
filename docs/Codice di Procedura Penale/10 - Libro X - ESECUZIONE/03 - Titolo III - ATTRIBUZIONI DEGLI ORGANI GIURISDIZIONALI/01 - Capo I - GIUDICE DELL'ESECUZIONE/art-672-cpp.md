@@ -14,8 +14,8 @@ capo_label: "GIUDICE DELL'ESECUZIONE"
 sezione: null
 sezione_label: null
 rubrica: "Applicazione dell'amnistia e dell'indulto"
-dataVigenza: "20260914"
-ordine: 802
+dataVigenza: "20260930"
+ordine: 803
 ---
 
 # Art. 672 - ***Applicazione dell'amnistia e dell'indulto***

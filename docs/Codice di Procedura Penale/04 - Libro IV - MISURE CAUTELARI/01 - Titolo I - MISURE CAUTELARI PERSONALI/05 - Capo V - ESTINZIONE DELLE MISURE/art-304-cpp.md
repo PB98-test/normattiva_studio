@@ -14,7 +14,7 @@ capo_label: "ESTINZIONE DELLE MISURE"
 sezione: null
 sezione_label: null
 rubrica: "Sospensione dei termini di durata massima della custodia cautelare"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 362
 ---
 
@@ -27,7 +27,7 @@ ordine: 362
 - b-bis) nella fase del giudizio, durante il tempo in cui l'udienza di comparizione predibattimentale è sospesa o rinviata per taluno dei casi indicati nelle lettere a) e b);
 - c) nella fase del giudizio, durante la pendenza dei termini previsti dall'[articolo 544](../../../07%20-%20Libro%20VII%20-%20GIUDIZIO/03%20-%20Titolo%20III%20-%20SENTENZA/03%20-%20Capo%20III%20-%20ATTI%20SUCCESSIVI%20ALLA%20DELIBERAZIONE/art-544-cpp.md), commi 2 e 3.
 - c-bis) nel giudizio abbreviato, durante il tempo in cui l'udienza è sospesa o rinviata per taluno dei casi indicati nelle lettere a) e b) e durante la pendenza dei termini previsti dall'[articolo 544](../../../07%20-%20Libro%20VII%20-%20GIUDIZIO/03%20-%20Titolo%20III%20-%20SENTENZA/03%20-%20Capo%20III%20-%20ATTI%20SUCCESSIVI%20ALLA%20DELIBERAZIONE/art-544-cpp.md), commi 2 e 3;
-- c-ter) nei casi previsti dall'[articolo 545](../../../07%20-%20Libro%20VII%20-%20GIUDIZIO/03%20-%20Titolo%20III%20-%20SENTENZA/03%20-%20Capo%20III%20-%20ATTI%20SUCCESSIVI%20ALLA%20DELIBERAZIONE/art-545-cpp.md)- bis, durante il tempo intercorrente tra la lettura del dispositivo indicato al comma 1 dello stesso articolo e l'udienza fissata per la decisione sulla eventuale sostituzione della pena detentiva con una pena sostitutiva ai sensi dell'articolo 53 della legge 24 novembre 1981, n. 689; in tal caso, la sospensione dei termini previsti dall'[articolo 303](art-303-cpp.md) non può comunque avere durata superiore a sessanta giorni.
+- c-ter) nei casi previsti dall'[articolo 545](../../../07%20-%20Libro%20VII%20-%20GIUDIZIO/03%20-%20Titolo%20III%20-%20SENTENZA/03%20-%20Capo%20III%20-%20ATTI%20SUCCESSIVI%20ALLA%20DELIBERAZIONE/art-545-cpp.md)- bis, durante il tempo intercorrente tra la lettura del dispositivo indicato al comma 1 dello stesso articolo e l'udienza fissata per la decisione sulla eventuale sostituzione della pena detentiva con una pena sostitutiva ai sensi dell'[articolo 53 della legge 24 novembre 1981, n. 689](../../../../L%20689-1981%20-%2024.11.1981/03%20-%20Capo%20III%20-%20PENE%20SOSTITUTIVE%20DELLE%20PENE%20DETENTIVE%20BREVI/01%20-%20Sezione%20I%20-%20APPLICAZIONE%20DELLE%20SANZIONI%20SOSTITUTIVE/art-53-l689-81.md); in tal caso, la sospensione dei termini previsti dall'[articolo 303](art-303-cpp.md) non può comunque avere durata superiore a sessanta giorni.
 
 2\. I termini previsti dall'[articolo 303](art-303-cpp.md) possono essere altresì sospesi quando si procede per taluno dei reati indicati nell'[articolo 407](../../../05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/08%20-%20Titolo%20VIII%20-%20CHIUSURA%20DELLE%20INDAGINI%20PRELIMINARI/art-407-cpp.md), comma 2, lettera a), nel caso di dibattimenti o di giudizi abbreviati particolarmente complessi, durante il tempo in cui sono tenute le udienze o si delibera la sentenza nel giudizio di primo grado o nel giudizio sulle impugnazioni.
 

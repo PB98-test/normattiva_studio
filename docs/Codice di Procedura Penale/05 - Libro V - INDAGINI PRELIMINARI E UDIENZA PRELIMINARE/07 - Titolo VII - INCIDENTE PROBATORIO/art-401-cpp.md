@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "U d i e n z a"
-dataVigenza: "20260914"
-ordine: 484
+dataVigenza: "20260930"
+ordine: 485
 ---
 
 # Art. 401 - ***U d i e n z a***

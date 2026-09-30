@@ -14,8 +14,8 @@ capo_label: "ATTI SUCCESSIVI ALLA DELIBERAZIONE"
 sezione: null
 sezione_label: null
 rubrica: "Deposito della sentenza"
-dataVigenza: "20260914"
-ordine: 659
+dataVigenza: "20260930"
+ordine: 660
 ---
 
 # Art. 548 - ***Deposito della sentenza***

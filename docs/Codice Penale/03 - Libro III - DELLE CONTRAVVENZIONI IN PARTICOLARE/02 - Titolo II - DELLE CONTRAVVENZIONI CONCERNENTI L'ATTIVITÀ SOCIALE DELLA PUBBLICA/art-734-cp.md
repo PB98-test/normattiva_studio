@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Distruzione o deturpamento di bellezze naturali"
-dataVigenza: "20260914"
-ordine: 995
+dataVigenza: "20260930"
+ordine: 996
 ---
 
 # Art. 734 - ***Distruzione o deturpamento di bellezze naturali***

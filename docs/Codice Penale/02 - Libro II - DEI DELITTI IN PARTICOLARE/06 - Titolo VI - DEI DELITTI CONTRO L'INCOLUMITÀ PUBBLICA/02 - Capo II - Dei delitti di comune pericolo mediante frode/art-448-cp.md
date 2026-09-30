@@ -14,8 +14,8 @@ capo_label: "Dei delitti di comune pericolo mediante frode"
 sezione: null
 sezione_label: null
 rubrica: "Pene accessorie"
-dataVigenza: "20260914"
-ordine: 542
+dataVigenza: "20260930"
+ordine: 543
 ---
 
 # Art. 448 - ***Pene accessorie***

@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Costituzione delle parti"
-dataVigenza: "20260914"
-ordine: 507
+dataVigenza: "20260930"
+ordine: 508
 ---
 
 # Art. 420 - ***Costituzione delle parti***
@@ -30,6 +30,6 @@ ordine: 507
 
 3\. Se il difensore dell'imputato non è presente il giudice provvede a norma dell'[articolo 97](../../01%20-%20Libro%20I%20-%20SOGGETTI/07%20-%20Titolo%20VII%20-%20DIFENSORE/art-97-cpp.md), comma 4.
 
-4\. Il verbale dell'udienza preliminare è redatto di regola in forma riassuntiva a norma dell'[articolo 140](../../02%20-%20Libro%20II%20-%20ATTI/03%20-%20Titolo%20III%20-%20DOCUMENTAZIONE%20DEGLI%20ATTI/art-140-cpp.md), comma 2; il giudice, su richiesta di parte, dispone la riproduzione fonografica o audiovisiva ovvero la redazione del verbale con la stenotipia.
+4\. Il verbale dell'udienza preliminare è redatto di regola in forma riassuntiva a norma dell'[articolo 140](../../02%20-%20Libro%20II%20-%20ATTI/04%20-%20Titolo%20III%20-%20DOCUMENTAZIONE%20DEGLI%20ATTI/art-140-cpp.md), comma 2; il giudice, su richiesta di parte, dispone la riproduzione fonografica o audiovisiva ovvero la redazione del verbale con la stenotipia.
 
 [^agg-15]: *AGGIORNAMENTO (15)* La Corte costituzionale, con sentenza 28 novembre - 3 dicembre 1990, n. 529 (in G.U. 1a s.s. 05/12/1990, n. 48), ha dichiarato "l'illegittimità costituzionale dell'[art. 420, comma 5, del codice di procedura penale](art-420-cpp.md) (approvato con d.P.R. 22 ottobre 1988, n. 247), nella parte in cui dopo la parola "redatto" prevede "soltanto" anzichè "di regola";".

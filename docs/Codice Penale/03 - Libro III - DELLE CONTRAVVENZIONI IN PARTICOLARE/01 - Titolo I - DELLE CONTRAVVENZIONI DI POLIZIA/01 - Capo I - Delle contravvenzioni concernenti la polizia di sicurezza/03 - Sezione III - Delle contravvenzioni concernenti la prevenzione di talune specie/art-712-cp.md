@@ -14,8 +14,8 @@ capo_label: "Delle contravvenzioni concernenti la polizia di sicurezza"
 sezione: "III"
 sezione_label: "Delle contravvenzioni concernenti la prevenzione di talune specie di reati § 1 Delle contravvenzioni concernenti la tutela preventiva dei segreti"
 rubrica: "Acquisto di cose di sospetta provenienza"
-dataVigenza: "20260914"
-ordine: 971
+dataVigenza: "20260930"
+ordine: 972
 ---
 
 # Art. 712 - ***Acquisto di cose di sospetta provenienza***

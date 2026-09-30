@@ -14,18 +14,18 @@ capo_label: "Accesso agli strumenti di regolazione della crisi e dell'insolvenza
 sezione: "II"
 sezione_label: "Procedimento unitario per l'accesso agli strumenti di regolazione della crisi e dell'insolvenza e alla liquidazione giudiziale"
 rubrica: "Dichiarazione di apertura della liquidazione giudiziale"
-dataVigenza: "20260925"
+dataVigenza: "20260930"
 ordine: 60
 ---
 
 # Art. 49 - ***Dichiarazione di apertura della liquidazione giudiziale***
 
-1\. Il tribunale, definite le domande di accesso a uno strumento di regolazione della crisi e dell'insolvenza eventualmente proposte, su ricorso di uno dei soggetti legittimati e accertati i presupposti dell'articolo 121, dichiara con sentenza l'apertura della liquidazione giudiziale.
+1\. Il tribunale, definite le domande di accesso a uno strumento di regolazione della crisi e dell'insolvenza eventualmente proposte, su ricorso di uno dei soggetti legittimati e accertati i presupposti dell'[articolo 121](../../../04%20-%20Titolo%20V%20-%20Liquidazione%20giudiziale%20e%20liquidazione%20controllata/01%20-%20Capo%20I%20-%20Imprenditori%20individuali%20e%20società/01%20-%20Sezione%20I%20-%20Presupposti%20della%20liquidazione%20giudiziale%20e%20organi%20preposti/art-121-dlgs14-19.md), dichiara con sentenza l'apertura della liquidazione giudiziale.
 
 2\. Allo stesso modo, su ricorso di uno dei soggetti legittimati, il tribunale provvede, osservate le disposizioni di cui all'[articolo 44](art-44-dlgs14-19.md), comma 2, quando è decorso inutilmente o è stato revocato il termine di cui all'[articolo 44](art-44-dlgs14-19.md), comma 1, lettera
 
 - a), quando il debitore non ha depositato le spese di procedura di cui all'[articolo 44](art-44-dlgs14-19.md), comma 1, lettera
-- d), ovvero nei casi previsti dall'[articolo 47](art-47-dlgs14-19.md), comma 4 e dall'articolo 106 o in caso di mancata approvazione del concordato preventivo o quando il concordato preventivo o gli accordi di ristrutturazione non sono stati omologati.
+- d), ovvero nei casi previsti dall'[articolo 47](art-47-dlgs14-19.md), comma 4 e dall'[articolo 106](../../../03%20-%20Titolo%20IV%20-%20Strumenti%20di%20regolazione%20della%20crisi%20e%20dell%27insolvenza/03%20-%20Capo%20III%20-%20Concordato%20preventivo/04%20-%20Sezione%20IV%20-%20Provvedimenti%20immediati/art-106-dlgs14-19.md) o in caso di mancata approvazione del concordato preventivo o quando il concordato preventivo o gli accordi di ristrutturazione non sono stati omologati.
 
 3\. Con la sentenza di cui ai commi 1 e 2, il tribunale:
 

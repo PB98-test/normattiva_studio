@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Accesso ai luoghi e documentazione"
-dataVigenza: "20260914"
-ordine: 470
+dataVigenza: "20260930"
+ordine: 471
 ---
 
 # Art. 391-sexies - ***Accesso ai luoghi e documentazione***

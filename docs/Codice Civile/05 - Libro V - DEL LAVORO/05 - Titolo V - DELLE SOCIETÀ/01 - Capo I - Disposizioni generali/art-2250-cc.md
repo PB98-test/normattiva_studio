@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 2250"
+title: "Art. 2250 - Indicazione negli atti e nella corrispondenza"
 articolo: "Art. 2250"
 codice: cc
 aliases:
@@ -13,14 +13,12 @@ capo: "I"
 capo_label: "Disposizioni generali"
 sezione: null
 sezione_label: null
-rubrica: null
-dataVigenza: "20260914"
+rubrica: "Indicazione negli atti e nella corrispondenza"
+dataVigenza: "20260930"
 ordine: 2372
 ---
 
-# Art. 2250
-
-Indicazione negli atti e nella corrispondenza
+# Art. 2250 - ***Indicazione negli atti e nella corrispondenza***
 
 Negli atti e nella corrispondenza delle società soggette all'obbligo dell'iscrizione nel registro delle imprese devono essere indicati la sede della società e lo ufficio del registro delle imprese presso il quale questa è iscritta e il numero d'iscrizione.
 

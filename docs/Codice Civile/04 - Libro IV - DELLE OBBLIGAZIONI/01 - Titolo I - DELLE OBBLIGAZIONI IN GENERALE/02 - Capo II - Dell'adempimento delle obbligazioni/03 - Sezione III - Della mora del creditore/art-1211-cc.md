@@ -14,13 +14,13 @@ capo_label: "Dell'adempimento delle obbligazioni"
 sezione: "III"
 sezione_label: "Della mora del creditore"
 rubrica: "Cose deperibili o di dispendiosa custodia"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 1313
 ---
 
 # Art. 1211 - ***Cose deperibili o di dispendiosa custodia***
 
-Se le cose non possono essere conservate o sono deteriorabili, oppure se le spese della loro custodia sono eccessive, il debitore, dopo l'offerta reale o l'intimazione di ritirarle, può farsi autorizzare dal giudice di pace a venderle nei modi stabiliti per le cose pignorate e a depositarne il prezzo. [^agg-111] [^agg-112a] [^agg-273] [^agg-300] [^agg-341] [^agg-351]
+Se le cose non possono essere conservate o sono deteriorabili, oppure se le spese della loro custodia sono eccessive, il debitore, dopo l'offerta reale o l'intimazione di ritirarle, può farsi autorizzare dal giudice di pace a venderle nei modi stabiliti per le cose pignorate e a depositarne il prezzo. [^agg-111] [^agg-112a] [^agg-273]  [^agg-300]  [^agg-341]  [^agg-351]
 
 [^agg-111]: *AGGIORNAMENTO (111)* Il [D.Lgs. 19 febbraio 1998, n. 51](../../../../../Dlgs%2051-1998%20-%2019.02.1998/00%20-%20Indice%20%28dlgs51-98%29.md), ha disposto (con l'[art. 247](../../../../01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/07%20-%20Titolo%20VII%20-%20DELLO%20STATO%20DI%20FIGLIO/03%20-%20Capo%20III%20-%20Dell%27azione%20di%20disconoscimento%20e%20delle%20azioni%20di%20contestazione%20e%20di%20r/art-247-cc.md), comma 1) che "Il presente decreto legislativo entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace decorso il termine stabilito dall'articolo 1, comma 1, lettera r), della legge 16 luglio 1997, n. 254, fatta eccezione per le disposizioni previste dagli [articoli 17](../../../../01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/02%20-%20Titolo%20II%20-%20DELLE%20PERSONE%20GIURIDICHE/02%20-%20Capo%20II%20-%20Delle%20associazioni%20e%20delle%20fondazioni/art-17-cc.md), [33](../../../../01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/02%20-%20Titolo%20II%20-%20DELLE%20PERSONE%20GIURIDICHE/02%20-%20Capo%20II%20-%20Delle%20associazioni%20e%20delle%20fondazioni/art-33-cc.md), comma 1, 38, comma 1 e 40, commi 1 e 3."
 
@@ -32,4 +32,4 @@ Se le cose non possono essere conservate o sono deteriorabili, oppure se le spes
 
 [^agg-341]: *AGGIORNAMENTO (341)* Il D.Lgs. 13 luglio 2017, n. 116, come modificato dal D.L. 8 agosto 2025, n. 117, convertito con modificazioni dalla L. 3 ottobre 2025, n. 148, ha disposto (con l'[art. 32](../../../../01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/02%20-%20Titolo%20II%20-%20DELLE%20PERSONE%20GIURIDICHE/02%20-%20Capo%20II%20-%20Delle%20associazioni%20e%20delle%20fondazioni/art-32-cc.md), comma 3) che la modifica di cui al primo comma del presente articolo entra in vigore il 31 ottobre 2026.
 
-[^agg-351]: *AGGIORNAMENTO (351)* Il D.Lgs. 13 luglio 2017, n. 116, come modificato dal D.L. 8 agosto 2025, n. 117, ha disposto (con l'[art. 32](../../../../01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/02%20-%20Titolo%20II%20-%20DELLE%20PERSONE%20GIURIDICHE/02%20-%20Capo%20II%20-%20Delle%20associazioni%20e%20delle%20fondazioni/art-32-cc.md), comma 3) che "Le disposizioni dell'[articolo 27](../../../../01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/02%20-%20Titolo%20II%20-%20DELLE%20PERSONE%20GIURIDICHE/02%20-%20Capo%20II%20-%20Delle%20associazioni%20e%20delle%20fondazioni/art-27-cc.md) entrano in vigore il 31 ottobre 2027"
+[^agg-351]: *AGGIORNAMENTO (351)* Il D.Lgs. 13 luglio 2017, n. 116, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'[art. 32](../../../../01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/02%20-%20Titolo%20II%20-%20DELLE%20PERSONE%20GIURIDICHE/02%20-%20Capo%20II%20-%20Delle%20associazioni%20e%20delle%20fondazioni/art-32-cc.md), comma 3) che "Le disposizioni dell'[articolo 27](../../../../01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/02%20-%20Titolo%20II%20-%20DELLE%20PERSONE%20GIURIDICHE/02%20-%20Capo%20II%20-%20Delle%20associazioni%20e%20delle%20fondazioni/art-27-cc.md) entrano in vigore il 31 ottobre 2027".

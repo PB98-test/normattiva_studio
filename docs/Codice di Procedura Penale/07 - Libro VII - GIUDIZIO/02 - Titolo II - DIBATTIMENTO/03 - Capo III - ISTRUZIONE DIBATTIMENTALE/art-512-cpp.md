@@ -14,8 +14,8 @@ capo_label: "ISTRUZIONE DIBATTIMENTALE"
 sezione: null
 sezione_label: null
 rubrica: "Lettura di atti per sopravvenuta impossibilità di ripetizione"
-dataVigenza: "20260914"
-ordine: 619
+dataVigenza: "20260930"
+ordine: 620
 ---
 
 # Art. 512 - ***Lettura di atti per sopravvenuta impossibilità di ripetizione***

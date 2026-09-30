@@ -14,7 +14,7 @@ capo_label: "Dell'inventario"
 sezione: null
 sezione_label: null
 rubrica: "Istanza"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 945
 ---
 
@@ -22,7 +22,7 @@ ordine: 945
 
 L'inventario può essere chiesto al giudice di pace dalle persone che hanno diritto di ottenere la rimozione dei sigilli ed è eseguito dal cancelliere del giudice di pace o da un notaio designato dal defunto con testamento o nominato dal giudice di pace. [^agg-88] [^agg-90] [^agg-155] [^agg-160] [^agg-179] [^agg-183]
 
-L'istanza si propone con ricorso, nel quale il richiedente deve dichiarare la residenza o eleggere domicilio nel comune in cui ha sede il giudice di pace. [^agg-88] [^agg-90] [^agg-155] [^agg-160] [^agg-179] [^agg-178] [^agg-183]
+L'istanza si propone con ricorso, nel quale il richiedente deve dichiarare la residenza o eleggere domicilio nel comune in cui ha sede il giudice di pace. [^agg-88] [^agg-90] [^agg-155] [^agg-160] [^agg-179] [^agg-183] [^agg-178]
 
 Il giudice di pace provvede con decreto. [^agg-88] [^agg-90] [^agg-155] [^agg-160] [^agg-179] [^agg-183]
 
@@ -40,4 +40,4 @@ Quando non sono stati apposti i sigilli, l'inventario può essere chiesto dalla 
 
 [^agg-178]: *AGGIORNAMENTO (178)* Il [D.Lgs. 31 ottobre 2024, n. 164](../../../../Correttivo%20Cartabia%20%28Dlgs%20164-2024%20-%2031.10.2024%29/00%20-%20Indice%20%28dlgs164-24%29.md) ha disposto (con l'[art. 3](../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/01%20-%20Sezione%20I%20-%20Della%20giurisdizione%20e%20della%20competenza%20in%20generale/art-3-cpc.md), comma 8, lettera p)) che "all'[articolo 769](art-769-cpc.md), secondo comma, dopo le parole «in cui ha sede il tribunale» sono aggiunte le seguenti: «o indicare il proprio indirizzo di posta elettronica certificata risultante da pubblici elenchi o eleggere un domicilio digitale speciale»". Ha inoltre disposto (con l'[art. 7](../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/02%20-%20Sezione%20II%20-%20Della%20competenza%20per%20materia%20e%20valore/art-7-cpc.md), comma 1) che "Ove non diversamente previsto, le disposizioni del presente decreto si applicano ai procedimenti introdotti successivamente al 28 febbraio 2023".
 
-[^agg-183]: *AGGIORNAMENTO (183)* Il D.Lgs. 13 luglio 2017, n. 116, come modificato dal D.L. 8 agosto 2025, n. 117, ha disposto (con l'[art. 32](../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/04%20-%20Sezione%20IV%20-%20Delle%20modificazioni%20della%20competenza%20per%20ragione%20di%20connessione/art-32-cpc.md), comma 3) che "Le disposizioni dell'[articolo 27](../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/03%20-%20Sezione%20III%20-%20Della%20competenza%20per%20territorio/art-27-cpc.md) entrano in vigore il 31 ottobre 2027".
+[^agg-183]: *AGGIORNAMENTO (183)* Il D.Lgs. 13 luglio 2017, n. 116, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'[art. 32](../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/04%20-%20Sezione%20IV%20-%20Delle%20modificazioni%20della%20competenza%20per%20ragione%20di%20connessione/art-32-cpc.md), comma 3) che "Le disposizioni dell'[articolo 27](../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/03%20-%20Sezione%20III%20-%20Della%20competenza%20per%20territorio/art-27-cpc.md) entrano in vigore il 31 ottobre 2027".

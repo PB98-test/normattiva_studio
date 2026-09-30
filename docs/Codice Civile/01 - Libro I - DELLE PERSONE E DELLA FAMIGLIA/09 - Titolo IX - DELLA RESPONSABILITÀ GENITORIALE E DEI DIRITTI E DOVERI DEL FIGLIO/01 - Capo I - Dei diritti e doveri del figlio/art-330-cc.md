@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 330"
+title: "Art. 330 - Decadenza dalla responsabilità genitoriale sui figli"
 articolo: "Art. 330"
 codice: cc
 aliases:
@@ -13,14 +13,12 @@ capo: "I"
 capo_label: "Dei diritti e doveri del figlio"
 sezione: null
 sezione_label: null
-rubrica: null
-dataVigenza: "20260914"
+rubrica: "Decadenza dalla responsabilità genitoriale sui figli"
+dataVigenza: "20260930"
 ordine: 405
 ---
 
-# Art. 330
-
-Decadenza dalla responsabilità genitoriale sui figli.
+# Art. 330 - ***Decadenza dalla responsabilità genitoriale sui figli***
 
 Il giudice può pronunziare la decadenza dalla responsabilità genitoriale quando il genitore viola o trascura i doveri ad essa inerenti o abusa dei relativi poteri con grave pregiudizio del figlio.
 

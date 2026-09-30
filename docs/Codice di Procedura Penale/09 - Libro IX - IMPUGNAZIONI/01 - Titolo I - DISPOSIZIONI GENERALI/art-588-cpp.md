@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Sospensione della esecuzione"
-dataVigenza: "20260914"
-ordine: 706
+dataVigenza: "20260930"
+ordine: 707
 ---
 
 # Art. 588 - ***Sospensione della esecuzione***

@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Requisiti del decreto di condanna"
-dataVigenza: "20260914"
-ordine: 556
+dataVigenza: "20260930"
+ordine: 557
 ---
 
 # Art. 460 - ***Requisiti del decreto di condanna***
@@ -41,6 +41,6 @@ ordine: 556
 
 5\. Il decreto penale di condanna non comporta la condanna al pagamento delle spese del procedimento, nè l'applicazione di pene accessorie. Nel termine di quindici giorni dalla notifica del decreto il condannato può effettuare il pagamento della sanzione nella misura ridotta di un quinto, con rinuncia all'opposizione. Il decreto, anche se divenuto esecutivo non ha efficacia di giudicato nel giudizio civile o amministrativo. Il reato è estinto se il condannato ha pagato la pena pecuniaria e, nel termine di cinque anni, quando il decreto concerne un delitto, ovvero di due anni, quando il decreto concerne una contravvenzione, ... non commette un delitto ovvero una contravvenzione della stessa indole. In questo caso si estingue ogni effetto penale e la condanna non è comunque di ostacolo alla concessione di una successiva sospensione condizionale della pena.
 
-[^agg-115]: *AGGIORNAMENTO (115)* La Corte costituzionale, con sentenza 13-18 novembre 2000, n. 504 (in G.U. 1ª s.s. 22/11/2000, n. 48) ha dichiarato "l'illegittimità costituzionale dell'[art. 460, comma 4, del codice di procedura penale](art-460-cpp.md), nella parte in cui non prevede la revoca del decreto penale di condanna e la restituzione degli atti al pubblico ministero anche nel caso in cui non sia possibile la notificazione nel domicilio dichiarato a norma dell'[art. 161 del codice di procedura penale](../../02%20-%20Libro%20II%20-%20ATTI/05%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-161-cpp.md)".
+[^agg-115]: *AGGIORNAMENTO (115)* La Corte costituzionale, con sentenza 13-18 novembre 2000, n. 504 (in G.U. 1ª s.s. 22/11/2000, n. 48) ha dichiarato "l'illegittimità costituzionale dell'[art. 460, comma 4, del codice di procedura penale](art-460-cpp.md), nella parte in cui non prevede la revoca del decreto penale di condanna e la restituzione degli atti al pubblico ministero anche nel caso in cui non sia possibile la notificazione nel domicilio dichiarato a norma dell'[art. 161 del codice di procedura penale](../../02%20-%20Libro%20II%20-%20ATTI/06%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-161-cpp.md)".
 
 [^agg-239]: *AGGIORNAMENTO (239)* La Corte costituzionale, con sentenza 6 - 21 luglio 2016, n. 201 (in G.U. 1ª s.s. 27/07/2016, n. 30) ha dichiarato "l'illegittimità costituzionale dell'[art. 460, comma 1, lettera e), del codice di procedura penale](art-460-cpp.md), nella parte in cui non prevede che il decreto penale di condanna contenga l'avviso della facoltà dell'imputato di chiedere mediante l'opposizione la sospensione del procedimento con messa alla prova".

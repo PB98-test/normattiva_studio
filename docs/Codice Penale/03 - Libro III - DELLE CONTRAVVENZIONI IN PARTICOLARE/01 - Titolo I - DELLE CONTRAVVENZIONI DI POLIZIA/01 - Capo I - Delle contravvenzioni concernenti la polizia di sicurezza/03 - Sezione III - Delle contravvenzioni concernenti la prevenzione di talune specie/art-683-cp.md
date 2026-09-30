@@ -14,8 +14,8 @@ capo_label: "Delle contravvenzioni concernenti la polizia di sicurezza"
 sezione: "III"
 sezione_label: "Delle contravvenzioni concernenti la prevenzione di talune specie di reati § 1 Delle contravvenzioni concernenti la tutela preventiva dei segreti"
 rubrica: "Pubblicazione delle discussioni o delle deliberazioni segrete di una delle Camere"
-dataVigenza: "20260914"
-ordine: 941
+dataVigenza: "20260930"
+ordine: 942
 ---
 
 # Art. 683 - ***Pubblicazione delle discussioni o delle deliberazioni segrete di una delle Camere***

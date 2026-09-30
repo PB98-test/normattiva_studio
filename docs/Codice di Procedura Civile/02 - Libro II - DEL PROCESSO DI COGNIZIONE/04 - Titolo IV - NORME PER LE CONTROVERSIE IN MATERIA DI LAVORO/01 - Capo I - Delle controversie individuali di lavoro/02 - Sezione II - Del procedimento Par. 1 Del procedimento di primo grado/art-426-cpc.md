@@ -14,13 +14,13 @@ capo_label: "Delle controversie individuali di lavoro"
 sezione: "II"
 sezione_label: "Del procedimento Par. 1 Del procedimento di primo grado"
 rubrica: "Passaggio dal rito ordinario al rito speciale"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 484
 ---
 
 # Art. 426 - ***Passaggio dal rito ordinario al rito speciale***
 
-Il giudice, quando rileva che una causa promossa nelle forme ordinarie riguarda uno dei rapporti previsti dall'[articolo 409](../01%20-%20Sezione%20I%20-%20Disposizioni%20generali%29%29/art-409-cpc.md), fissa con ordinanza l'udienza di cui all'[articolo 420](art-420-cpc.md) e il termine perentorio entro il quale le parti dovranno provvedere all'eventuale integrazione degli atti introduttivi mediante deposito di memorie e documenti di cancelleria. [^agg-88] [^agg-90] [^agg-178]
+Il giudice, quando rileva che una causa promossa nelle forme ordinarie riguarda uno dei rapporti previsti dall'[articolo 409](../01%20-%20Sezione%20I%20-%20Disposizioni%20generali/art-409-cpc.md), fissa con ordinanza l'udienza di cui all'[articolo 420](art-420-cpc.md) e il termine perentorio entro il quale le parti dovranno provvedere all'eventuale integrazione degli atti introduttivi mediante deposito di memorie e documenti di cancelleria. [^agg-88] [^agg-90] [^agg-178]
 
 Nell'udienza come sopra fissata provvede a norma degli articoli che precedono.   [^agg-27]
 

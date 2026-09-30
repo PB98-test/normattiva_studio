@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Decreto di giudizio immediato"
-dataVigenza: "20260914"
-ordine: 551
+dataVigenza: "20260930"
+ordine: 552
 ---
 
 # Art. 456 - ***Decreto di giudizio immediato***

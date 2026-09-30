@@ -14,7 +14,7 @@ capo_label: "Degli effetti del fallimento"
 sezione: "III"
 sezione_label: "Degli effetti del fallimento sugli atti pregiudizievoli ai creditori"
 rubrica: null
-dataVigenza: "20260925"
+dataVigenza: "20260930"
 ordine: 76
 ---
 
@@ -26,4 +26,4 @@ Le azioni revocatorie disciplinate nella presente sezione non possono essere pro
 
 [^agg-64]
 
-[^agg-64]: *AGGIORNAMENTO (64)* Il D.Lgs. 16 novembre 2015, n. 180 ha disposto (con l'[art. 36](../../02%20-%20Capo%20II%20-%20Degli%20organi%20preposti%20al%20fallimento/03%20-%20Sezione%20III%20-%20Del%20curatore/art-36-rd267-42.md), comma 3) che "Accertato giudizialmente lo stato di insolvenza a norma del comma 1, l'esercizio delle azioni di revoca degli atti compiuti in frode dei creditori compete ai commissari speciali, ove nominati, o a un soggetto appositamente designato dalla Banca d'Italia. I termini di cui agli articoli 64, 65, 67, primo comma, 69 e 69-bis della legge fallimentare decorrono dalla data di avvio della risoluzione. Non sono esperibili le azioni previste dall'articolo 67, secondo comma, della legge fallimentare".
+[^agg-64]: *AGGIORNAMENTO (64)* Il D.Lgs. 16 novembre 2015, n. 180 ha disposto (con l'[art. 36](../../02%20-%20Capo%20II%20-%20Degli%20organi%20preposti%20al%20fallimento/03%20-%20Sezione%20III%20-%20Del%20curatore/art-36-rd267-42.md), comma 3) che "Accertato giudizialmente lo stato di insolvenza a norma del comma 1, l'esercizio delle azioni di revoca degli atti compiuti in frode dei creditori compete ai commissari speciali, ove nominati, o a un soggetto appositamente designato dalla Banca d'Italia. I termini di cui agli [articoli 64](art-64-rd267-42.md), [65](art-65-rd267-42.md), [67](art-67-rd267-42.md), primo comma, 69 e 69-bis della [legge fallimentare](../../../00%20-%20Indice%20%28rd267-42%29.md) decorrono dalla data di avvio della risoluzione. Non sono esperibili le azioni previste dall'[articolo 67, secondo comma, della legge fallimentare](art-67-rd267-42.md)".

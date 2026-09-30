@@ -14,14 +14,12 @@ capo_label: "Dei delitti dei pubblici ufficiali contro la pubblica Amministrazio
 sezione: null
 sezione_label: null
 rubrica: "Malversazione di erogazioni pubbliche"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 367
 ---
 
 # Art. 316-bis - ***Malversazione di erogazioni pubbliche***
 
-) ).
+Chiunque, estraneo alla pubblica amministrazione, avendo ottenuto dallo Stato o da altro ente pubblico o dalle Comunità europee contributi, sovvenzioni , finanziamenti, mutui agevolati o altre erogazioni dello stesso tipo, comunque denominate, destinati alla realizzazione di una o più finalità, non li destina alle finalità previste, è punito con la reclusione da sei mesi a quattro anni. [^agg-281]
 
-Chiunque, estraneo alla pubblica amministrazione, avendo ottenuto dallo Stato o da altro ente pubblico o dalle Comunità europee contributi, sovvenzioni ((, finanziamenti, mutui agevolati o altre erogazioni dello stesso tipo, comunque denominate, destinati alla realizzazione di una o più finalità, non li destina alle finalità previste, è punito con la reclusione da sei mesi a quattro anni. [^agg-281]
-
-[^agg-281]: *AGGIORNAMENTO (281)* Il D.Lgs. 6 settembre 2011, n. 159, come modificato dalla L. 17 ottobre 2017, n. 161, ha disposto (con l'[art. 71](../../../01%20-%20Libro%20I%20-%20DEI%20REATI%20IN%20GENERALE/03%20-%20Titolo%20III%20-%20DEL%20REATO/03%20-%20Capo%20III%20-%20Del%20concorso%20di%20reati/art-71-cp.md), commi 1 e 3) che le pene stabilite per il delitto previsto dal presente articolo sono aumentate da un terzo alla metà se il fatto è commesso da persona sottoposta con provvedimento definitivo ad una misura di prevenzione personale durante il periodo previsto di applicazione e sino a tre anni dal momento in cui ne è cessata l'esecuzione. Alla pena è aggiunta una misura di sicurezza detentiva.
+[^agg-281]: *AGGIORNAMENTO (281)* Il [D.Lgs. 6 settembre 2011, n. 159](../../../../Dlgs%20159-2011%20-%2006.09.2011/00%20-%20Indice%20%28dlgs159-11%29.md), come modificato dalla L. 17 ottobre 2017, n. 161, ha disposto (con l'[art. 71](../../../01%20-%20Libro%20I%20-%20DEI%20REATI%20IN%20GENERALE/03%20-%20Titolo%20III%20-%20DEL%20REATO/03%20-%20Capo%20III%20-%20Del%20concorso%20di%20reati/art-71-cp.md), commi 1 e 3) che le pene stabilite per il delitto previsto dal presente articolo sono aumentate da un terzo alla metà se il fatto è commesso da persona sottoposta con provvedimento definitivo ad una misura di prevenzione personale durante il periodo previsto di applicazione e sino a tre anni dal momento in cui ne è cessata l'esecuzione. Alla pena è aggiunta una misura di sicurezza detentiva.

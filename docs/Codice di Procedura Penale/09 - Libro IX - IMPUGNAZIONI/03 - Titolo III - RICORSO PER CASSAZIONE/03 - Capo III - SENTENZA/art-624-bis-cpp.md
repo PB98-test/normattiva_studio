@@ -14,8 +14,8 @@ capo_label: "SENTENZA"
 sezione: null
 sezione_label: null
 rubrica: "Cessazione delle misure cautelari"
-dataVigenza: "20260914"
-ordine: 747
+dataVigenza: "20260930"
+ordine: 748
 ---
 
 # Art. 624-bis - ***Cessazione delle misure cautelari***

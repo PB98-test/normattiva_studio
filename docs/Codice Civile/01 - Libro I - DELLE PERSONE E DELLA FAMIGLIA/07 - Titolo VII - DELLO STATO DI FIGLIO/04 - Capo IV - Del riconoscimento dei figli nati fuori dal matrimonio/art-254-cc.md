@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 254"
+title: "Art. 254 - Forma del riconoscimento"
 articolo: "Art. 254"
 codice: cc
 aliases:
@@ -13,14 +13,12 @@ capo: "IV"
 capo_label: "Del riconoscimento dei figli nati fuori dal matrimonio"
 sezione: null
 sezione_label: null
-rubrica: null
-dataVigenza: "20260914"
+rubrica: "Forma del riconoscimento"
+dataVigenza: "20260930"
 ordine: 299
 ---
 
-# Art. 254
-
-Forma del riconoscimento.
+# Art. 254 - ***Forma del riconoscimento***
 
 Il riconoscimento del figlio nato fuori del matrimonio è fatto nell'atto di nascita, oppure con una apposita dichiarazione, posteriore alla nascita o al concepimento, davanti ad un ufficiale dello stato civile o in un atto pubblico o in un testamento, qualunque sia la forma di questo. [^agg-111] [^agg-112a]
 

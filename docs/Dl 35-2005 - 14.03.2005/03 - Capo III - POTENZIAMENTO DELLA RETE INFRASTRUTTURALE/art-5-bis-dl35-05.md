@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 5-bis - (Incentivazione della logistica)"
+title: "Art. 5-bis - Incentivazione della logistica"
 articolo: "Art. 5-bis"
 codice: dl35-05
 aliases:
@@ -13,12 +13,12 @@ capo: "III"
 capo_label: "POTENZIAMENTO DELLA RETE INFRASTRUTTURALE"
 sezione: null
 sezione_label: null
-rubrica: "(Incentivazione della logistica)"
-dataVigenza: "20260914"
+rubrica: "Incentivazione della logistica"
+dataVigenza: "20260930"
 ordine: 12
 ---
 
-# Art. 5-bis - ***(Incentivazione della logistica)***
+# Art. 5-bis - ***Incentivazione della logistica***
 
 1\. Nell'ambito degli strumenti finanziari a disposizione, il CIPE finanzia prioritariamente le misure necessarie per garantire la realizzazione di un adeguato sistema di servizi intersettoriali ed intermodali per l'integrazione delle infrastrutture materiali del Paese con sistemi tecnologici e di conoscenze, in funzione dello sviluppo del sistema logistico nazionale.
 

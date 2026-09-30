@@ -14,7 +14,7 @@ capo_label: "FORMA ED ESECUZIONE DEI PROVVEDIMENTI"
 sezione: null
 sezione_label: null
 rubrica: "Interrogatorio della persona sottoposta a misura cautelare personale"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 352
 ---
 
@@ -38,7 +38,7 @@ ordine: 352
 
 6\. L'interrogatorio della persona in stato di custodia cautelare da parte del pubblico ministero non può precedere l'interrogatorio del giudice.
 
-6-bis. Alla documentazione dell'interrogatorio si procede anche con mezzi di riproduzione audiovisiva o, se ciò non è possibile a causa della contingente indisponibilità di mezzi di riproduzione audiovisiva o di personale tecnico, con mezzi di riproduzione fonografica. È fatta salva l'applicazione dell'[articolo 133-ter](../../../02%20-%20Libro%20II%20-%20ATTI/02%20-%20Titolo%20II%20-%20ATTI%20E%20PROVVEDIMENTI%20DEL%20GIUDICE/art-133-ter-cpp.md), comma 3, terzo periodo, nei casi in cui è autorizzata la partecipazione a distanza all'interrogatorio.
+6-bis. Alla documentazione dell'interrogatorio si procede anche con mezzi di riproduzione audiovisiva o, se ciò non è possibile a causa della contingente indisponibilità di mezzi di riproduzione audiovisiva o di personale tecnico, con mezzi di riproduzione fonografica. È fatta salva l'applicazione dell'[articolo 133-ter](../../../02%20-%20Libro%20II%20-%20ATTI/03%20-%20Titolo%20II-bis%20-%20Partecipazione%20a%20distanza/art-133-ter-cpp.md), comma 3, terzo periodo, nei casi in cui è autorizzata la partecipazione a distanza all'interrogatorio.
 
 [^agg-82]: *AGGIORNAMENTO (82)* La Corte costituzionale, con sentenza 24 marzo-3 aprile 1997, n. 77 (in G.U. 1a s.s. 09/04/1997, n. 15) ha dichiarato l'illegittimità costituzionale del comma 1 del presente articolo "nella parte in cui non prevede che, fino alla trasmissione degli atti al giudice del dibattimento, il giudice proceda all'interrogatorio della persona in stato di custodia cautelare in carcere immediatamente e comunque non oltre cinque giorni dall'inizio di esecuzione della custodia". AGGIORNAMENTO (101) La Corte costituzionale, con sentenza 10-17 febbraio 1999, n. 32 (in G.U. 1a s.s. 24/02/1999, n. 8) ha dichiarato l'illegittimità costituzionale del comma 1 del presente articolo "nella parte in cui non prevede che fino all'apertura del dibattimento il giudice proceda all'interrogatorio della persona in stato di custodia cautelare in carcere."
 

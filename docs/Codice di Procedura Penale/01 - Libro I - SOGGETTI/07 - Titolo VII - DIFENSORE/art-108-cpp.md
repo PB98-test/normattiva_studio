@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 108 - (Termine per la difesa)"
+title: "Art. 108 - Termine per la difesa"
 articolo: "Art. 108"
 codice: cpp
 aliases:
@@ -13,12 +13,12 @@ capo: null
 capo_label: null
 sezione: null
 sezione_label: null
-rubrica: "(Termine per la difesa)"
-dataVigenza: "20260914"
+rubrica: "Termine per la difesa"
+dataVigenza: "20260930"
 ordine: 128
 ---
 
-# Art. 108 - ***(Termine per la difesa)***
+# Art. 108 - ***Termine per la difesa***
 
 1\. Nei casi di rinuncia, di revoca, di incompatibilità, e nel caso di abbandono, il nuovo difensore dell'imputato o quello designato d'ufficio che ne fa richiesta ha diritto a un termine congruo, non inferiore a sette giorni, per prendere cognizione degli atti e per informarsi sui fatti oggetto del procedimento.
 

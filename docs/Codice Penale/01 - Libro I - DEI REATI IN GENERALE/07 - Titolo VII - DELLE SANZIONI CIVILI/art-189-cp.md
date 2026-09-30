@@ -14,7 +14,7 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Ipoteca legale; sequestro"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 210
 ---
 
@@ -44,4 +44,4 @@ Se l'imputato offre cauzione, può non farsi luogo alla iscrizione dell'ipoteca 
 
 Per effetto del sequestro i crediti indicati in questo articolo si considerano privilegiati rispetto ad ogni altro credito non privilegiato di data anteriore e ai crediti sorti posteriormente, salvi, in ogni caso, i privilegi stabiliti a garanzia del pagamento di tributi.   [^agg-116]
 
-[^agg-116]: *AGGIORNAMENTO (116)* Il D.Lgs. 28 luglio 1989, n. 271, ha disposto (con l'[art. 218](../08%20-%20Titolo%20VIII%20-%20DELLE%20MISURE%20AMMINISTRATIVE%20DI%20SICUREZZA/01%20-%20Capo%20I%20-%20Delle%20misure%20di%20sicurezza%20personali/02%20-%20Sezione%20II%20-%20Disposizioni%20speciali/art-218-cp.md), comma 1) che "Sono abrogate le disposizioni del [codice penale](../../00%20-%20Indice%20%28cp%29.md) che prevedono l'ipoteca legale".
+[^agg-116]: *AGGIORNAMENTO (116)* Il [D.Lgs. 28 luglio 1989, n. 271](../../../Disp.%20att.%20cpp%20%28Dlgs%20271-1989%20-%2028.07.1989%29/00%20-%20Indice%20%28dlgs271-89%29.md), ha disposto (con l'[art. 218](../08%20-%20Titolo%20VIII%20-%20DELLE%20MISURE%20AMMINISTRATIVE%20DI%20SICUREZZA/01%20-%20Capo%20I%20-%20Delle%20misure%20di%20sicurezza%20personali/02%20-%20Sezione%20II%20-%20Disposizioni%20speciali/art-218-cp.md), comma 1) che "Sono abrogate le disposizioni del [codice penale](../../00%20-%20Indice%20%28cp%29.md) che prevedono l'ipoteca legale".

@@ -14,7 +14,7 @@ capo_label: "Disposizioni generali"
 sezione: null
 sezione_label: null
 rubrica: null
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 57
 ---
 
@@ -23,7 +23,7 @@ ordine: 57
 1\. Dopo la sezione VI del capo I del titolo I del libro I del [codice di procedura civile](../../../Codice%20di%20Procedura%20Civile/00%20-%20Indice%20%28cpc%29.md) è inserita la seguente: "Sezione VI-bis Della composizione del tribunale Art. 50-bis. (Cause nelle quali il tribunale giudica in composizione collegiale). - Il tribunale giudica in composizione collegiale:
 
 - 1) nelle cause nelle quali è obbligatorio l'intervento del pubblico ministero, salvo che sia altrimenti disposto;
-- 2) nelle cause di opposizione, impugnazione, revocazione e in quelle conseguenti a dichiarazioni tardive di crediti di cui al regio decreto 16 marzo 1942, n. 267, al decreto-legge 30 gennaio 1979, n. 26, convertito con modificazioni dalla legge 3 aprile 1979, n. 95, e alle altre leggi speciali disciplinanti la liquidazione coatta amministrativa;
+- 2) nelle cause di opposizione, impugnazione, revocazione e in quelle conseguenti a dichiarazioni tardive di crediti di cui al [regio decreto 16 marzo 1942, n. 267](../../../Legge%20fallimentare%20%28RD%20267-1942%20-%2016.03.1942%29/00%20-%20Indice%20%28rd267-42%29.md), al decreto-legge 30 gennaio 1979, n. 26, convertito con modificazioni dalla legge 3 aprile 1979, n. 95, e alle altre leggi speciali disciplinanti la liquidazione coatta amministrativa;
 - 3) nelle cause devolute alle sezioni specializzate;
 - 4) nelle cause di omologazione del concordato fallimentare e del concordato preventivo;
 - 5) nelle cause di impugnazione delle deliberazioni dell'assemblea e del consiglio di amministrazione, nonchè nelle cause di responsabilità da chiunque promosse contro gli organi ammmistrativi e di controllo, i direttori generali e i liquidatori delle società, delle mutue assicuratrici e società cooperative, delle associazioni in partecipazione e dei consorzi;

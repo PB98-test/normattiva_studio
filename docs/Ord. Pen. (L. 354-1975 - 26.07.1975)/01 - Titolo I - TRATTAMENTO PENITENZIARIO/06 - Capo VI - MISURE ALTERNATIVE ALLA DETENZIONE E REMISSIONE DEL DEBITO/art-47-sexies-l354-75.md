@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 47-sexies - (Allontanamento dal domicilio senza giustificato motivo)."
+title: "Art. 47-sexies - Allontanamento dal domicilio senza giustificato motivo"
 articolo: "Art. 47-sexies"
 codice: l354-75
 aliases:
@@ -13,12 +13,12 @@ capo: "VI"
 capo_label: "MISURE ALTERNATIVE ALLA DETENZIONE E REMISSIONE DEL DEBITO"
 sezione: null
 sezione_label: null
-rubrica: "(Allontanamento dal domicilio senza giustificato motivo)."
-dataVigenza: "20260925"
+rubrica: "Allontanamento dal domicilio senza giustificato motivo"
+dataVigenza: "20260930"
 ordine: 74
 ---
 
-# Art. 47-sexies - ***(Allontanamento dal domicilio senza giustificato motivo).***
+# Art. 47-sexies - ***Allontanamento dal domicilio senza giustificato motivo***
 
 1\. La condannata ammessa al regime della detenzione domiciliare speciale che rimane assente dal proprio domicilio, senza giustificato motivo, per non più di dodici ore, può essere proposta per la revoca della misura.
 

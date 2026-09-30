@@ -14,8 +14,8 @@ capo_label: "DISPOSIZIONI GENERALI"
 sezione: null
 sezione_label: null
 rubrica: "Pubblicità dell'udienza"
-dataVigenza: "20260914"
-ordine: 576
+dataVigenza: "20260930"
+ordine: 577
 ---
 
 # Art. 471 - ***Pubblicità dell'udienza***

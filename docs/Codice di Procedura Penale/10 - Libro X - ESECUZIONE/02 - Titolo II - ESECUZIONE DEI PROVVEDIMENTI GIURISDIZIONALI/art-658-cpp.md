@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Esecuzione delle misure di sicurezza ordinate con sentenza"
-dataVigenza: "20260914"
-ordine: 787
+dataVigenza: "20260930"
+ordine: 788
 ---
 
 # Art. 658 - ***Esecuzione delle misure di sicurezza ordinate con sentenza***

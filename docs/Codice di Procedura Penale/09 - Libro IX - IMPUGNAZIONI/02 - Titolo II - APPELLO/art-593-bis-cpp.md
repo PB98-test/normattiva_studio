@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 593-bis - (Appello del pubblico ministero)."
+title: "Art. 593-bis - Appello del pubblico ministero"
 articolo: "Art. 593-bis"
 codice: cpp
 aliases:
@@ -13,12 +13,12 @@ capo: null
 capo_label: null
 sezione: null
 sezione_label: null
-rubrica: "(Appello del pubblico ministero)."
-dataVigenza: "20260914"
-ordine: 712
+rubrica: "Appello del pubblico ministero"
+dataVigenza: "20260930"
+ordine: 713
 ---
 
-# Art. 593-bis - ***(Appello del pubblico ministero).***
+# Art. 593-bis - ***Appello del pubblico ministero***
 
 1\. Nei casi consentiti, contro le sentenze del giudice per le indagini preliminari, della corte d'assise e del tribunale può appellare il procuratore della Repubblica presso il tribunale.
 

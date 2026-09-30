@@ -14,8 +14,8 @@ capo_label: "ISTRUZIONE DIBATTIMENTALE"
 sezione: null
 sezione_label: null
 rubrica: "Provvedimenti conseguenti all'ammissione della perizia nel dibattimento"
-dataVigenza: "20260914"
-ordine: 614
+dataVigenza: "20260930"
+ordine: 615
 ---
 
 # Art. 508 - ***Provvedimenti conseguenti all'ammissione della perizia nel dibattimento***

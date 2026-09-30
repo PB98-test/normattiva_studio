@@ -14,8 +14,8 @@ capo_label: "ATTI INTRODUTTIVI"
 sezione: null
 sezione_label: null
 rubrica: "Accompagnamento coattivo dell'imputato assente"
-dataVigenza: "20260914"
-ordine: 595
+dataVigenza: "20260930"
+ordine: 596
 ---
 
 # Art. 490 - ***Accompagnamento coattivo dell'imputato assente***

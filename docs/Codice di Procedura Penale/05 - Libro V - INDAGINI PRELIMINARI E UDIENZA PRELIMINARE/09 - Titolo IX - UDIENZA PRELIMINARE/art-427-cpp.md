@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Condanna del querelante alle spese e ai danni"
-dataVigenza: "20260914"
-ordine: 520
+dataVigenza: "20260930"
+ordine: 521
 ---
 
 # Art. 427 - ***Condanna del querelante alle spese e ai danni***

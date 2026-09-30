@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Presentazione e notificazione della richiesta"
-dataVigenza: "20260914"
-ordine: 478
+dataVigenza: "20260930"
+ordine: 479
 ---
 
 # Art. 395 - ***Presentazione e notificazione della richiesta***

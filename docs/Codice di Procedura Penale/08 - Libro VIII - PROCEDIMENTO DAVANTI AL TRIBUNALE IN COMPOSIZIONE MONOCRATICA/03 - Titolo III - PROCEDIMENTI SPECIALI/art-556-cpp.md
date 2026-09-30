@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Giudizio abbreviato e applicazione della pena su richiesta"
-dataVigenza: "20260914"
-ordine: 671
+dataVigenza: "20260930"
+ordine: 672
 ---
 
 # Art. 556 - ***Giudizio abbreviato e applicazione della pena su richiesta***

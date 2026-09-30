@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Determinazione della pena"
-dataVigenza: "20260914"
-ordine: 450
+dataVigenza: "20260930"
+ordine: 451
 ---
 
 # Art. 379 - ***Determinazione della pena***

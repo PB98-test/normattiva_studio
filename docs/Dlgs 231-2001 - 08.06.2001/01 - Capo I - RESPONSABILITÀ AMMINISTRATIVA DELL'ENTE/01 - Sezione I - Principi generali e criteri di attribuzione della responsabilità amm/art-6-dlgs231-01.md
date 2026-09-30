@@ -14,7 +14,7 @@ capo_label: "RESPONSABILITÀ AMMINISTRATIVA DELL'ENTE"
 sezione: "I"
 sezione_label: "Principi generali e criteri di attribuzione della responsabilità amministrativa"
 rubrica: "Soggetti in posizione apicale e modelli di organizzazione dell'ente"
-dataVigenza: "20260928"
+dataVigenza: "20260930"
 ordine: 6
 ---
 
@@ -49,6 +49,6 @@ ordine: 6
 
 5\. È comunque disposta la confisca del profitto che l'ente ha tratto dal reato, anche nella forma per equivalente.
 
-[^agg-6]: *AGGIORNAMENTO (6)* Il Decreto 26 giugno 2003, n. 201 ha disposto (con l'art. 8, comma 1) che "Per i codici di comportamento inviati al Ministero della giustizia fino alla data di entrata in vigore del presente regolamento, il termine di trenta giorni di cui all'articolo 6, comma 3, del decreto legislativo n. 231 del 2001, decorre da tale data".
+[^agg-6]: *AGGIORNAMENTO (6)* Il Decreto 26 giugno 2003, n. 201 ha disposto (con l'[art. 8](art-8-dlgs231-01.md), comma 1) che "Per i codici di comportamento inviati al Ministero della giustizia fino alla data di entrata in vigore del presente regolamento, il termine di trenta giorni di cui all'articolo 6, comma 3, del decreto legislativo n. 231 del 2001, decorre da tale data".
 
-[^agg-48]: *AGGIORNAMENTO (48)* Il D.Lgs. 10 marzo 2023, n. 24, ha disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al presente decreto hanno effetto a decorrere dal 15 luglio 2023".
+[^agg-48]: *AGGIORNAMENTO (48)* Il D.Lgs. 10 marzo 2023, n. 24, ha disposto (con l'[art. 24](../03%20-%20Sezione%20III%20-%20Responsabilità%20amministrativa%20da%20reato/art-24-dlgs231-01.md), comma 1) che "Le disposizioni di cui al presente decreto hanno effetto a decorrere dal 15 luglio 2023".

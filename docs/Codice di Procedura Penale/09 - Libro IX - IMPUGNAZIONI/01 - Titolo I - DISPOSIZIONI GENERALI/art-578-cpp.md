@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Decisione sugli effetti civili nel caso di estinzione del reato per amnistia o per prescrizione e nel caso di improcedibilità per superamento dei termini di durata massima del giudizio di impugnazione"
-dataVigenza: "20260914"
-ordine: 694
+dataVigenza: "20260930"
+ordine: 695
 ---
 
 # Art. 578 - ***Decisione sugli effetti civili nel caso di estinzione del reato per amnistia o per prescrizione e nel caso di improcedibilità per superamento dei termini di durata massima del giudizio di impugnazione***
@@ -26,4 +26,4 @@ ordine: 694
 
 1-ter. Nei casi di cui al comma 1-bis, gli effetti del sequestro conservativo disposto a garanzia delle obbligazioni civili derivanti dal reato permangono fino a che la sentenza che decide sulle questioni civili non è più soggetta a impugnazione.
 
-[^agg-279]: *AGGIORNAMENTO (279)* La L. 27 settembre 2021, n. 134 ha disposto (con l'[art. 2](../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/01%20-%20Capo%20I%20-%20GIURISDIZIONE/art-2-cpp.md), comma 3) che le presenti modifiche si applicano ai soli procedimenti di impugnazione che hanno a oggetto reati commessi a far data dal 1° gennaio 2020.
+[^agg-279]: *AGGIORNAMENTO (279)* La [L. 27 settembre 2021, n. 134](../../../L%20134-2021%20-%2027.09.2021/00%20-%20Indice%20%28l134-21%29.md) ha disposto (con l'[art. 2](../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/01%20-%20Capo%20I%20-%20GIURISDIZIONE/art-2-cpp.md), comma 3) che le presenti modifiche si applicano ai soli procedimenti di impugnazione che hanno a oggetto reati commessi a far data dal 1° gennaio 2020.

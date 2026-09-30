@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Instaurazione del giudizio direttissimo"
-dataVigenza: "20260914"
-ordine: 545
+dataVigenza: "20260930"
+ordine: 546
 ---
 
 # Art. 450 - ***Instaurazione del giudizio direttissimo***

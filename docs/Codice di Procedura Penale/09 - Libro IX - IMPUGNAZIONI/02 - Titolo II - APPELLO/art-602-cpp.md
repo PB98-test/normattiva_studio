@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Dibattimento di appello"
-dataVigenza: "20260914"
-ordine: 724
+dataVigenza: "20260930"
+ordine: 725
 ---
 
 # Art. 602 - ***Dibattimento di appello***
@@ -32,4 +32,4 @@ ordine: 724
 
 [^agg-10]: *AGGIORNAMENTO (10)* La Corte costituzionale, con sentenza 26 settembre - 10 ottobre 1990, n. 435 (in G.U. 1a s.s. 17/10/1990, n. 41), ha dichiarato "l'illegittimità costituzionale degli [artt. 599, quarto](art-599-cpp.md) e [quinto comma](art-599-cpp.md), e [602, secondo comma, del codice di procedura penale](art-602-cpp.md), nella parte in cui consentono la definizione del procedimento nei modi ivi previsti anche al di fuori dei casi elencati nel primo comma dello stesso [art. 599](art-599-cpp.md)."
 
-[^agg-290]: *AGGIORNAMENTO (290)* Il D.Lgs. 10 ottobre 2022, n. 150 ha disposto (con l'[art. 94](../../01%20-%20Libro%20I%20-%20SOGGETTI/06%20-%20Titolo%20VI%20-%20PERSONA%20OFFESA%20DAL%20REATO/art-94-cpp.md), comma 2) che "Le disposizioni degli [articoli 34](../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/07%20-%20Capo%20VII%20-%20INCOMPATIBILITÀ,%20ASTENSIONE%20E%20RICUSAZIONE%20DEL%20GIUDICE/art-34-cpp.md), comma 1, lettere c), e), f), g), numeri 2), 3), 4), e h), 35, comma 1, lettera a), e 41, comma 1, lettera ee), si applicano a decorrere dalla scadenza del termine fissato dall'articolo 16, comma 1, del decreto-legge 30 dicembre 2021, n. 228, convertito, con modificazioni, dalla legge 25 febbraio 2022, n. 15".
+[^agg-290]: *AGGIORNAMENTO (290)* Il [D.Lgs. 10 ottobre 2022, n. 150](../../../Cartabia%20%28Dlgs%20150-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs150-22%29.md) ha disposto (con l'[art. 94](../../01%20-%20Libro%20I%20-%20SOGGETTI/06%20-%20Titolo%20VI%20-%20PERSONA%20OFFESA%20DAL%20REATO/art-94-cpp.md), comma 2) che "Le disposizioni degli [articoli 34](../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/07%20-%20Capo%20VII%20-%20INCOMPATIBILITÀ,%20ASTENSIONE%20E%20RICUSAZIONE%20DEL%20GIUDICE/art-34-cpp.md), comma 1, lettere c), e), f), g), numeri 2), 3), 4), e h), 35, comma 1, lettera a), e 41, comma 1, lettera ee), si applicano a decorrere dalla scadenza del termine fissato dall'articolo 16, comma 1, del decreto-legge 30 dicembre 2021, n. 228, convertito, con modificazioni, dalla legge 25 febbraio 2022, n. 15".

@@ -5,10 +5,9 @@ search:
 
 # Leggi citate da Dlgs 51-1998 - 19.02.1998 ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Dlgs 51-1998 - 19.02.1998 — 61 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Dlgs 51-1998 - 19.02.1998 — 58 leggi trovate)*
 
 - [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const)
-- [primo comma dell'articolo 1 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regiodecreto:1941-01-30;12)
 - [articolo 4, comma 1, della legge 21 novembre 1991, n. 374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374)
 - [articolo 3, quarto comma, lettera b), del regio decreto 27 novembre 1933, n. 1578](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regiodecreto:1933-11-27;1578)
 - [articolo 16 del decreto legislativo 17 novembre 1997, n. 398](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1997-11-17;398)
@@ -28,7 +27,6 @@ search:
 - [L. 19 gennaio 2001, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-01-19;4)
 - [articolo 2, primo comma, della legge 24 aprile 1941, n. 392](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-24;392)
 - [articolo 19 della legge 30 marzo 1981, n. 119](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-03-30;119)
-- [regio decreto 16 marzo 1942, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regiodecreto:1942-03-16;267)
 - [decreto-legge 30 gennaio 1979, n. 26](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:1979-01-30;26)
 - [legge 3 aprile 1979, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-04-03;95)
 - [legge 13 aprile 1988, n. 117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-04-13;117)
@@ -45,7 +43,6 @@ search:
 - [articolo 25 comma 1 della legge 9 luglio 1990, n. 185](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-07-09;185)
 - [articolo 10 della legge 18 novembre 1995, n. 496](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-11-18;496)
 - [legge costituzionale 16 gennaio 1989, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-01-16;1)
-- [decreto legislativo 28 luglio 1989, n. 271](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1989-07-28;271)
 - [D. Lgs. 4 maggio 1999, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1999-05-04;138)
 - [legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89)
 - [primo comma dell'articolo 25 del regio decretolegge 23 ottobre 1924, n. 1737](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regiodecretolegge:1924-10-23;1737)

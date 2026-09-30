@@ -15,8 +15,8 @@ sezione: "I"
 sezione_label: "Delle contravvenzioni concernenti l'ordine pubblico e la tranquillità pubblica § 1 Delle contravvenzioni concernenti l'inosservanza dei provvedimenti di polizia e le manifestazioni sediziose e pericolose"
 rubrica: null
 abrogato: true
-dataVigenza: "20260914"
-ordine: 911
+dataVigenza: "20260930"
+ordine: 912
 ---
 
 # Art. 657 - *(Omissis)*

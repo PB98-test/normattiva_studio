@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 94-ter - (Detenzione domiciliare in casi particolari)."
+title: "Art. 94-ter - Detenzione domiciliare in casi particolari"
 articolo: "Art. 94-ter"
 codice: dpr309-90
 aliases:
@@ -13,14 +13,14 @@ capo: null
 capo_label: null
 sezione: null
 sezione_label: null
-rubrica: "(Detenzione domiciliare in casi particolari)."
-dataVigenza: "20260914"
+rubrica: "Detenzione domiciliare in casi particolari"
+dataVigenza: "20260930"
 ordine: 100
 ---
 
-# Art. 94-ter - ***(Detenzione domiciliare in casi particolari).***
+# Art. 94-ter - ***Detenzione domiciliare in casi particolari***
 
-1\. Quando non ricorrono i presupposti per l'affidamento in prova di cui all'[articolo 94](art-94-dpr309-90.md), se deve essere eseguita nei confronti di persona tossicodipendente o alcoldipendente una condanna a pena detentiva, anche residua e congiunta a pena pecuniaria, non superiore a otto anni o a quattro anni se relativa a titolo esecutivo comprendente un reato di cui all'articolo 4-bis della legge 26 luglio 1975, n. 354, ad eccezione delle ipotesi di cui agli articoli 628, terzo comma, e 629, secondo comma, del codice penale per le quali resta fermo il limite di otto anni, l'interessato può chiedere in ogni momento di essere ammesso alla detenzione domiciliare presso le strutture di cui al comma 2 del presente articolo, sulla base di un programma terapeutico socio-riabilitativo residenziale. L'interessato può altresì chiedere in ogni momento, sulla base di un programma terapeutico socio-riabilitativo semiresidenziale, di essere ammesso alla detenzione domiciliare presso luogo idoneo diverso dalle strutture di cui al comma 2, quando deve essere eseguita una condanna a pena detentiva, anche residua e congiunta a pena pecuniaria, non superiore a otto anni, per reati diversi da quelli di cui all'articolo 4-bis della legge 26 luglio 1975, n. 354, ad eccezione delle ipotesi di cui agli articoli 628, terzo comma, e 629, secondo comma, del codice penale.
+1\. Quando non ricorrono i presupposti per l'affidamento in prova di cui all'[articolo 94](art-94-dpr309-90.md), se deve essere eseguita nei confronti di persona tossicodipendente o alcoldipendente una condanna a pena detentiva, anche residua e congiunta a pena pecuniaria, non superiore a otto anni o a quattro anni se relativa a titolo esecutivo comprendente un reato di cui all'[articolo 4-bis](../../Ord.%20Pen.%20%28L.%20354-1975%20-%2026.07.1975%29/01%20-%20Titolo%20I%20-%20TRATTAMENTO%20PENITENZIARIO/01%20-%20Capo%20I%20-%20PRINCIPI%20DIRETTIVI/art-4-bis-l354-75.md) della legge 26 luglio 1975, n. 354, ad eccezione delle ipotesi di cui agli articoli 628, terzo comma, e 629, secondo comma, del codice penale per le quali resta fermo il limite di otto anni, l'interessato può chiedere in ogni momento di essere ammesso alla detenzione domiciliare presso le strutture di cui al comma 2 del presente articolo, sulla base di un programma terapeutico socio-riabilitativo residenziale. L'interessato può altresì chiedere in ogni momento, sulla base di un programma terapeutico socio-riabilitativo semiresidenziale, di essere ammesso alla detenzione domiciliare presso luogo idoneo diverso dalle strutture di cui al comma 2, quando deve essere eseguita una condanna a pena detentiva, anche residua e congiunta a pena pecuniaria, non superiore a otto anni, per reati diversi da quelli di cui all'[articolo 4-bis](../../Ord.%20Pen.%20%28L.%20354-1975%20-%2026.07.1975%29/01%20-%20Titolo%20I%20-%20TRATTAMENTO%20PENITENZIARIO/01%20-%20Capo%20I%20-%20PRINCIPI%20DIRETTIVI/art-4-bis-l354-75.md) della legge 26 luglio 1975, n. 354, ad eccezione delle ipotesi di cui agli articoli 628, terzo comma, e 629, secondo comma, del codice penale.
 
 2\. La domanda deve indicare la volontà del richiedente di proseguire o intraprendere un programma terapeutico socio-riabilitativo residenziale o semiresidenziale presso una struttura privata accreditata ai sensi dell'[articolo 117](../10%20-%20Titolo%20X%20-%20ATTRIBUZIONI%20REGIONALI,%20PROVINCIALI%20E%20LOCALI.%20SERVIZI%20PER%20LE%20TOSSICOD/art-117-dpr309-90.md) o in una struttura pubblica residenziale del Servizio sanitario nazionale specializzata per la cura e per la riabilitazione dalle tossicodipendenze o alcoldipendenze. Alla domanda sono allegati, a pena di inammissibilità, l'indicazione della correlazione tra la tossicodipendenza o l'alcoldipendenza e il reato, il programma terapeutico finalizzato al recupero del condannato e la valutazione di cui al comma 4, relativa all'accertamento della effettiva e attuale condizione di tossicodipendenza o alcoldipendenza, nonchè all'idoneità del programma terapeutico al recupero del condannato, con l'indicazione della relativa procedura di accertamento. In caso di richiesta di prosecuzione di programma terapeutico già in corso, alla domanda è allegata altresì la valutazione sull'andamento del programma e sulla sua idoneità ai fini del recupero e della risocializzazione del condannato, avuto anche riguardo a condizioni di comorbilità psichiatrica e tossicologica.
 

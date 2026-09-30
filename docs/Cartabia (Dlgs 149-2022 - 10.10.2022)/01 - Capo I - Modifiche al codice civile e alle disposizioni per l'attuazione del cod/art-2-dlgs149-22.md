@@ -14,7 +14,7 @@ capo_label: "Modifiche al codice civile e alle disposizioni per l'attuazione del
 sezione: null
 sezione_label: null
 rubrica: "Modifiche alle disposizioni per l'attuazione del codice civile e disposizioni transitorie"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 2
 ---
 
@@ -34,7 +34,7 @@ ordine: 2
 2\. Al Capo I, Sezione III, articolo 71-quater, delle disposizioni per l'attuazione del codice civile e disposizioni transitorie sono apportate le seguenti modificazioni:
 
 - a) il comma 2 è abrogato;
-- b) al comma 3, le parole «, previa delibera assembleare da assumere con la maggioranza di cui all'articolo 1136, secondo comma, del codice» sono sostituite dalle seguenti: «secondo quanto previsto dall'articolo 5-ter del decreto legislativo 4 marzo 2010, n. 28»;
+- b) al comma 3, le parole «, previa delibera assembleare da assumere con la maggioranza di cui all'articolo 1136, secondo comma, del codice» sono sostituite dalle seguenti: «secondo quanto previsto dall'[articolo 5-ter del decreto legislativo 4 marzo 2010, n. 28](../../Mediazione%20%28Dlgs%2028-2010%20-%2004.03.2010%29/02%20-%20Capo%20II%20-%20DEL%20PROCEDIMENTO%20DI%20MEDIAZIONE/art-5-ter-dlgs28-10.md)»;
 - c) il quarto, quinto e sesto comma sono abrogati.
 
 #### Modifiche al codice di procedura civile e alle disposizioni per l'attuazione del codice di procedura civile e disposizioni transitorie

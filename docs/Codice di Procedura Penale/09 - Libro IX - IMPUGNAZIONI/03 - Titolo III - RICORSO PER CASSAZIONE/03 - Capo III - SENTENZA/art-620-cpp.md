@@ -14,8 +14,8 @@ capo_label: "SENTENZA"
 sezione: null
 sezione_label: null
 rubrica: "Annullamento senza rinvio"
-dataVigenza: "20260914"
-ordine: 742
+dataVigenza: "20260930"
+ordine: 743
 ---
 
 # Art. 620 - ***Annullamento senza rinvio***

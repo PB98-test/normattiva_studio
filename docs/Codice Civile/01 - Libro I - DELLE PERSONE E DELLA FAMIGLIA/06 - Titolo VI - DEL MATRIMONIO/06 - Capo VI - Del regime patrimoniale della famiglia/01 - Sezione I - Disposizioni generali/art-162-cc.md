@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 162"
+title: "Art. 162 - Forma delle convenzioni matrimoniali"
 articolo: "Art. 162"
 codice: cc
 aliases:
@@ -13,14 +13,12 @@ capo: "VI"
 capo_label: "Del regime patrimoniale della famiglia"
 sezione: "I"
 sezione_label: "Disposizioni generali"
-rubrica: null
-dataVigenza: "20260914"
+rubrica: "Forma delle convenzioni matrimoniali"
+dataVigenza: "20260930"
 ordine: 203
 ---
 
-# Art. 162
-
-Forma delle convenzioni matrimoniali.
+# Art. 162 - ***Forma delle convenzioni matrimoniali***
 
 Le convenzioni matrimoniali debbono essere stipulate per atto pubblico sotto pena di nullità.
 

@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Fascicolo per il dibattimento"
-dataVigenza: "20260914"
-ordine: 525
+dataVigenza: "20260930"
+ordine: 526
 ---
 
 # Art. 431 - ***Fascicolo per il dibattimento***

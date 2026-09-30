@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Richiesta della persona sottoposta alle indagini o della persona offesa dal reato"
-dataVigenza: "20260914"
-ordine: 498
+dataVigenza: "20260930"
+ordine: 499
 ---
 
 # Art. 413 - ***Richiesta della persona sottoposta alle indagini o della persona offesa dal reato***

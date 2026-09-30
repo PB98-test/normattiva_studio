@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Decisione sulla richiesta di giudizio immediato"
-dataVigenza: "20260914"
-ordine: 550
+dataVigenza: "20260930"
+ordine: 551
 ---
 
 # Art. 455 - ***Decisione sulla richiesta di giudizio immediato***

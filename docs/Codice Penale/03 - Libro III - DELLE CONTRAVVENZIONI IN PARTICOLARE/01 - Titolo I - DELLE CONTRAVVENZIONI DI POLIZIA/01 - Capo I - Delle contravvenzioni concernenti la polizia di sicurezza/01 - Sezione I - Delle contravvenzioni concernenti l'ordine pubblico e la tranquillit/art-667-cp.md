@@ -15,8 +15,8 @@ sezione: "I"
 sezione_label: "Delle contravvenzioni concernenti l'ordine pubblico e la tranquillità pubblica § 1 Delle contravvenzioni concernenti l'inosservanza dei provvedimenti di polizia e le manifestazioni sediziose e pericolose"
 rubrica: null
 abrogato: true
-dataVigenza: "20260914"
-ordine: 922
+dataVigenza: "20260930"
+ordine: 923
 ---
 
 # Art. 667 - *(Omissis)*

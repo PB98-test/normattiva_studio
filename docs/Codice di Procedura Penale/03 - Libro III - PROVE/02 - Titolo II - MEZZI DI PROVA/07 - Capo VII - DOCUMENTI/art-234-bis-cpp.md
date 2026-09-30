@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 234-bis - (Acquisizione di documenti e dati informatici)."
+title: "Art. 234-bis - Acquisizione di documenti e dati informatici"
 articolo: "Art. 234-bis"
 codice: cpp
 aliases:
@@ -13,11 +13,11 @@ capo: "VII"
 capo_label: "DOCUMENTI"
 sezione: null
 sezione_label: null
-rubrica: "(Acquisizione di documenti e dati informatici)."
-dataVigenza: "20260914"
+rubrica: "Acquisizione di documenti e dati informatici"
+dataVigenza: "20260930"
 ordine: 272
 ---
 
-# Art. 234-bis - ***(Acquisizione di documenti e dati informatici).***
+# Art. 234-bis - ***Acquisizione di documenti e dati informatici***
 
 1\. È sempre consentita l'acquisizione di documenti e dati informatici conservati all'estero, anche diversi da quelli disponibili al pubblico, previo consenso, in quest'ultimo caso, del legittimo titolare

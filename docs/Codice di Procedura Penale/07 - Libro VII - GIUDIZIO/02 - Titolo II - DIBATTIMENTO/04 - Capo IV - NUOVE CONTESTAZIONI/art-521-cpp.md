@@ -14,8 +14,8 @@ capo_label: "NUOVE CONTESTAZIONI"
 sezione: null
 sezione_label: null
 rubrica: "Correlazione tra l'imputazione contestata e la sentenza"
-dataVigenza: "20260914"
-ordine: 629
+dataVigenza: "20260930"
+ordine: 630
 ---
 
 # Art. 521 - ***Correlazione tra l'imputazione contestata e la sentenza***

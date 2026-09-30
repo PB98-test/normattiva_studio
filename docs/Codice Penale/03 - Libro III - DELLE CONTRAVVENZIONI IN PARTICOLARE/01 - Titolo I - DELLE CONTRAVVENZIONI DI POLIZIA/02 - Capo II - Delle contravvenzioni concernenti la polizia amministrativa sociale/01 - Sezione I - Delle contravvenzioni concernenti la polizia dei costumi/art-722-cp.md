@@ -14,8 +14,8 @@ capo_label: "Delle contravvenzioni concernenti la polizia amministrativa sociale
 sezione: "I"
 sezione_label: "Delle contravvenzioni concernenti la polizia dei costumi"
 rubrica: "Pena accessoria e misura di sicurezza"
-dataVigenza: "20260914"
-ordine: 981
+dataVigenza: "20260930"
+ordine: 982
 ---
 
 # Art. 722 - ***Pena accessoria e misura di sicurezza***

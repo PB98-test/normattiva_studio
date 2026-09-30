@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 404 - (Offese a una confessione religiosa mediante vilipendio o danneggiamento di cose) ."
+title: "Art. 404 - Offese a una confessione religiosa mediante vilipendio o danneggiamento di cose"
 articolo: "Art. 404"
 codice: cp
 aliases:
@@ -13,14 +13,14 @@ capo: "I"
 capo_label: "Dei delitti contro le confessioni religiose"
 sezione: null
 sezione_label: null
-rubrica: "(Offese a una confessione religiosa mediante vilipendio o danneggiamento di cose) ."
-dataVigenza: "20260914"
+rubrica: "Offese a una confessione religiosa mediante vilipendio o danneggiamento di cose"
+dataVigenza: "20260930"
 ordine: 487
 ---
 
-# Art. 404 - ***(Offese a una confessione religiosa mediante vilipendio o danneggiamento di cose) .***
+# Art. 404 - ***Offese a una confessione religiosa mediante vilipendio o danneggiamento di cose***
 
-Chiunque, in luogo destinato al culto, o in luogo pubblico o aperto al pubblico, offendendo una confessione religiosa, vilipende con espressioni ingiuriose cose che formino oggetto di culto, o siano consacrate al culto, o siano destinate necessariamente all'esercizio del culto, ovvero commette il fatto in occasione di funzioni religiose, compiute in luogo privato da un ministro del culto, è punito con la multa da euro 1.000 a euro 5.000.
+.  Chiunque, in luogo destinato al culto, o in luogo pubblico o aperto al pubblico, offendendo una confessione religiosa, vilipende con espressioni ingiuriose cose che formino oggetto di culto, o siano consacrate al culto, o siano destinate necessariamente all'esercizio del culto, ovvero commette il fatto in occasione di funzioni religiose, compiute in luogo privato da un ministro del culto, è punito con la multa da euro 1.000 a euro 5.000.
 
 Chiunque pubblicamente e intenzionalmente distrugge, disperde, deteriora, rende inservibili o imbratta cose che formino oggetto di culto o siano consacrate al culto o siano destinate necessariamente all'esercizio del culto è punito con la reclusione fino a due anni.
 

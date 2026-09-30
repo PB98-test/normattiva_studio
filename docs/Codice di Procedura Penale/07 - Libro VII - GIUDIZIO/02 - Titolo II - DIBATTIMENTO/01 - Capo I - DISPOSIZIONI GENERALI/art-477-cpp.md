@@ -14,8 +14,8 @@ capo_label: "DISPOSIZIONI GENERALI"
 sezione: null
 sezione_label: null
 rubrica: "Durata e organizzazione del dibattimento"
-dataVigenza: "20260914"
-ordine: 582
+dataVigenza: "20260930"
+ordine: 583
 ---
 
 # Art. 477 - ***Durata e organizzazione del dibattimento***

@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Regole generali"
-dataVigenza: "20260914"
-ordine: 684
+dataVigenza: "20260930"
+ordine: 685
 ---
 
 # Art. 568 - ***Regole generali***

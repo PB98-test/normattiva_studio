@@ -5,11 +5,9 @@ search:
 
 # Leggi citate da L. 80-2005 - 14.05.2005 ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di L. 80-2005 - 14.05.2005 — 113 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di L. 80-2005 - 14.05.2005 — 109 leggi trovate)*
 
-- [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regiodecreto:1941-01-30;12)
 - [articolo 111, settimo comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const)
-- [regio decreto 16 marzo 1942, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regiodecreto:1942-03-16;267)
 - [decreto legislativo 9 aprile 2003, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2003-04-09;70)
 - [articolo 4, comma 72, della legge 24 dicembre 2003, n. 350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-12-24;350)
 - [decreto del Presidente della Repubblica 12 aprile 1988, n. 177](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988-04-12;177)
@@ -21,7 +19,6 @@ search:
 - [decreto legislativo 25 luglio 1998, n. 286](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1998-07-25;286)
 - [articolo 145 del decreto legislativo 10 febbraio 2005, n. 30](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2005-02-10;30)
 - [regio decreto n. 267 del 1942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regiodecreto:1942;267)
-- [articolo 4 della legge 1° dicembre 1970, n. 898](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-12-01;898)
 - [articolo 4 del decreto legislativo 17 gennaio 2003, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2003-01-17;5)
 - [decreto del Presidente della Repubblica 6 giugno 2001, n. 380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-06-06;380)
 - [articolo 40 della legge 28 febbraio 1985, n. 47](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-02-28;47)
@@ -97,7 +94,6 @@ search:
 - [comma 1 dell'articolo 57 della legge 27 dicembre 1997, n. 449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-27;449)
 - [articolo 1 del decreto legislativo 9 luglio 1998, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1998-07-09;283)
 - [articolo 2, comma 20, lettera c), della legge 14 novembre 1995, n. 481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-11-14;481)
-- [articolo 16 della legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689)
 - [articolo 11 del decreto legislativo 15 dicembre 1997, n. 446](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1997-12-15;446)
 - [delibere CIPE n. 16 del 9 maggio 2003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:delibera:2003-05-09;16)
 - [n. 19 del 29 settembre 2004](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:delibera:2004-09-29;19)

@@ -15,8 +15,8 @@ sezione: null
 sezione_label: null
 rubrica: null
 abrogato: true
-dataVigenza: "20260914"
-ordine: 750
+dataVigenza: "20260930"
+ordine: 751
 ---
 
 # Art. 625-ter - *(Omissis)*

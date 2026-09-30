@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 317"
+title: "Art. 317 - Impedimento di uno dei genitori"
 articolo: "Art. 317"
 codice: cc
 aliases:
@@ -13,14 +13,12 @@ capo: "I"
 capo_label: "Dei diritti e doveri del figlio"
 sezione: null
 sezione_label: null
-rubrica: null
-dataVigenza: "20260914"
+rubrica: "Impedimento di uno dei genitori"
+dataVigenza: "20260930"
 ordine: 391
 ---
 
-# Art. 317
-
-Impedimento di uno dei genitori.
+# Art. 317 - ***Impedimento di uno dei genitori***
 
 Nel caso di lontananza, di incapacità o di altro impedimento che renda impossibile ad uno dei genitori l'esercizio della responsabilità genitoriale, questa è esercitata in modo esclusivo dall'altro.
 

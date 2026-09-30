@@ -14,10 +14,10 @@ capo_label: "Altre disposizioni sull'ordinamento giudiziario abrogazioni"
 sezione: null
 sezione_label: null
 rubrica: null
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 25
 ---
 
 # Art. 25
 
-1\. Nel secondo comma dell'[articolo 90](../../02%20-%20Titolo%20II%20-%20DISPOSIZIONI%20SUL%20PROCESSO%20CIVILE/03%20-%20Capo%20III%20-%20Disposizioni%20sul%20processo%20di%20esecuzione/art-90-dlgs51-98.md) del regio decreto 30 gennaio 1941, n. 12 il secondo periodo è soppresso.
+1\. Nel [secondo comma dell'articolo 90 del regio decreto 30 gennaio 1941, n. 12](../../../R.D.%2012-1941%20-%2030.01.1941/04%20-%20Titolo%20IV%20-%20DELL%27ANNO%20GIUDIZIARIO,%20DELLE%20ASSEMBLEE%20GENERALI,%20DELLE%20SUPPLENZE%20E%20D/01%20-%20Capo%20I%20-%20Dell%27anno%20giudiziario/art-90-rd12-41.md) il secondo periodo è soppresso.

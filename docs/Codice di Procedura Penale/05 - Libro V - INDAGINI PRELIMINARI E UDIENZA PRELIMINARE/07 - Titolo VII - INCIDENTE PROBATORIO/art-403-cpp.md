@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Utilizzabilità nel dibattimento delle prove assunte con incidente probatorio"
-dataVigenza: "20260914"
-ordine: 486
+dataVigenza: "20260930"
+ordine: 487
 ---
 
 # Art. 403 - ***Utilizzabilità nel dibattimento delle prove assunte con incidente probatorio***

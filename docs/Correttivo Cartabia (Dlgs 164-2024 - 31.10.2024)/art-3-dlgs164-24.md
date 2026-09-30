@@ -14,7 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Modifiche al codice di procedura civile"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
+ordine: 3
 ---
 
 # Art. 3 - ***Modifiche al codice di procedura civile***

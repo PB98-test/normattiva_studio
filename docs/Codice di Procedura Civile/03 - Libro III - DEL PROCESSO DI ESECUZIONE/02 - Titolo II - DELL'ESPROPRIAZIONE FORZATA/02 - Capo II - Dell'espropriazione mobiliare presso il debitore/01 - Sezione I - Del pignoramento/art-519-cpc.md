@@ -14,13 +14,13 @@ capo_label: "Dell'espropriazione mobiliare presso il debitore"
 sezione: "I"
 sezione_label: "Del pignoramento"
 rubrica: "Tempo del pignoramento"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 658
 ---
 
 # Art. 519 - ***Tempo del pignoramento***
 
-Il pignoramento non può essere eseguito nei giorni festivi, nè fuori delle ore indicate nell'[articolo 147](../../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/06%20-%20Titolo%20VI%20-%20DEGLI%20ATTI%20PROCESSUALI/01%20-%20Capo%20I%20-%20Delle%20forme%20degli%20atti%20e%20dei%20provvedimenti/04%20-%20Sezione%20IV%20-%20Delle%20comunicazioni%20e%20delle%20notificazioni/art-147-cpc.md), salvo che ne sia data autorizzazione dal giudice di pace.[^agg-88] [^agg-90] [^agg-155]  [^agg-160] [^agg-179] [^agg-183]
+Il pignoramento non può essere eseguito nei giorni festivi, nè fuori delle ore indicate nell'[articolo 147](../../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/06%20-%20Titolo%20VI%20-%20DEGLI%20ATTI%20PROCESSUALI/01%20-%20Capo%20I%20-%20Delle%20forme%20degli%20atti%20e%20dei%20provvedimenti/04%20-%20Sezione%20IV%20-%20Delle%20comunicazioni%20e%20delle%20notificazioni/art-147-cpc.md), salvo che ne sia data autorizzazione dal giudice di pace.[^agg-88] [^agg-90] [^agg-155]  [^agg-160]  [^agg-179]  [^agg-183]
 
 Il pignoramento iniziato nelle ore prescritte può essere proseguito fino al suo compimento.
 
@@ -34,4 +34,4 @@ Il pignoramento iniziato nelle ore prescritte può essere proseguito fino al suo
 
 [^agg-179]: *AGGIORNAMENTO (179)* Il D.Lgs. 13 luglio 2017, n. 116, come modificato dal D.L. 8 agosto 2025, n. 117, convertito con modificazioni dalla L. 3 ottobre 2025, n. 148, ha disposto (con l'[art. 32](../../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/04%20-%20Sezione%20IV%20-%20Delle%20modificazioni%20della%20competenza%20per%20ragione%20di%20connessione/art-32-cpc.md), comma 3) che la modifica di cui al primo comma del presente articolo entra in vigore il 31 ottobre 2026.
 
-[^agg-183]: *AGGIORNAMENTO (183)* Il D.Lgs. 13 luglio 2017, n. 116, come modificato dal D.L. 8 agosto 2025, n. 117, ha disposto (con l'[art. 32](../../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/04%20-%20Sezione%20IV%20-%20Delle%20modificazioni%20della%20competenza%20per%20ragione%20di%20connessione/art-32-cpc.md), comma 3) che "Le disposizioni dell'[articolo 27](../../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/03%20-%20Sezione%20III%20-%20Della%20competenza%20per%20territorio/art-27-cpc.md) entrano in vigore il 31 ottobre 2027".
+[^agg-183]: *AGGIORNAMENTO (183)* Il D.Lgs. 13 luglio 2017, n. 116, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'[art. 32](../../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/04%20-%20Sezione%20IV%20-%20Delle%20modificazioni%20della%20competenza%20per%20ragione%20di%20connessione/art-32-cpc.md), comma 3) che "Le disposizioni dell'[articolo 27](../../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/03%20-%20Sezione%20III%20-%20Della%20competenza%20per%20territorio/art-27-cpc.md) entrano in vigore il 31 ottobre 2027".

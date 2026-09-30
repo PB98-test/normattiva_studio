@@ -15,8 +15,8 @@ sezione: null
 sezione_label: null
 rubrica: null
 abrogato: true
-dataVigenza: "20260914"
-ordine: 599
+dataVigenza: "20260930"
+ordine: 600
 ---
 
 # Art. 493-bis - *(Omissis)*

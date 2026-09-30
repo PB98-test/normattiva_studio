@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 2343-ter"
+title: "Art. 2343-ter - Conferimento di beni in natura o crediti senza relazione di stima"
 articolo: "Art. 2343-ter"
 codice: cc
 aliases:
@@ -13,14 +13,12 @@ capo: "V"
 capo_label: "Società per azioni"
 sezione: "IV"
 sezione_label: "Dei conferimenti"
-rubrica: null
-dataVigenza: "20260914"
+rubrica: "Conferimento di beni in natura o crediti senza relazione di stima"
+dataVigenza: "20260930"
 ordine: 2472
 ---
 
-# Art. 2343-ter
-
-Conferimento di beni in natura o crediti senza relazione di stima
+# Art. 2343-ter - ***Conferimento di beni in natura o crediti senza relazione di stima***
 
 Nel caso di conferimento di valori mobiliari ovvero di strumenti del mercato monetario non è richiesta la relazione di cui all'[articolo 2343](art-2343-cc.md), primo comma, se il valore ad essi attribuito ai fini della determinazione del capitale sociale e dell'eventuale sovrapprezzo è pari o inferiore al prezzo medio ponderato al quale sono stati negoziati su uno o più mercati regolamentati nei sei mesi precedenti il conferimento.
 

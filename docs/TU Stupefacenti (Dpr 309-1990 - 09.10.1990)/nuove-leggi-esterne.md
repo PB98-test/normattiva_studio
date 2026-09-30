@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da TU Stupefacenti (Dpr 309-1990 - 09.10.1990) ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di TU Stupefacenti (Dpr 309-1990 - 09.10.1990) — 67 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di TU Stupefacenti (Dpr 309-1990 - 09.10.1990) — 64 leggi trovate)*
 
 - [art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const)
 - [art. 37 della legge 26 giugno 1990, n. 162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-26;162)
@@ -40,19 +40,17 @@ search:
 - [decreto legislativo 24 aprile 2006, n. 219](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2006-04-24;219)
 - [decreto legislativo 7 dicembre 2023, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2023-12-07;218)
 - [D.LGS. 24 MARZO 2011, N. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2011-03-24;50)
-- [articolo 54 del decreto legislativo 28 agosto 2000, n. 274](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2000-08-28;274)
 - [articolo 54 del decreto legislativo n. 274 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2000;274)
 - [art. 73 del d.P.R. n. 309 del 1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1990;309)
 - [legge 21 febbraio 2006, n. 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-21;49)
-- [articolo 18 della legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689)
 - [articolo 8 del decreto legislativo 1° settembre 2011, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2011-09-01;150)
 - [testo unico o dalle norme sulla circolazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-01-18;54)
 - [legge 22 aprile 1941, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-22;633)
-- [articolo 4-bis della legge 26 luglio 1975, n. 354](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354)
 - [articolo 8-quater del decreto legislativo 30 dicembre 1992, n. 502](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1992-12-30;502)
 - [legge 10 giugno 1986, n. 663](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-06-10;663)
 - [decreto legislativo 28 agosto 1997, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1997-08-28;281)
 - [L. 5 agosto 2026, n. 140](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-08-05;140)
+- [legge 16 marzo 2006, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-03-16;146)
 - [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)
 - [art. 2, comma 1, lettera o), della legge 10 ottobre 1989, n. 349](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-10-10;349)
 - [art. 14, decimo comma, della legge 20 maggio 1982, n. 270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-05-20;270)
@@ -73,4 +71,3 @@ search:
 - [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-03-06;218)
 - [art. 1, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-07-11;390)
 - [legge 22 ottobre 1954, n. 1041](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-10-22;1041)
-- [articoli 227](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1989-07-28;271)

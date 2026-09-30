@@ -14,7 +14,7 @@ capo_label: "Dell'espropriazione mobiliare presso il debitore"
 sezione: "I"
 sezione_label: "Del pignoramento"
 rubrica: "Ricerca delle cose da pignorare"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 652
 ---
 
@@ -24,7 +24,7 @@ L'ufficiale giudiziario, munito del titolo esecutivo e del precetto, può ricerc
 
 Quando è necessario aprire porte, ripostigli o recipienti, vincere la resistenza opposta dal debitore o da terzi, oppure allontanare persone che disturbano l'esecuzione del pignoramento, l'ufficiale giudiziario provvede secondo le circostanze, richiedendo, quando occorre, l'assistenza della forza pubblica.
 
-Il giudice di pace, su ricorso del creditore, può autorizzare con decreto l'ufficiale giudiziario a pignorare cose determinate che non si trovano in luoghi appartenenti al debitore, ma delle quali egli può direttamente disporre.[^agg-88] [^agg-90] [^agg-155] [^agg-160] [^agg-179] [^agg-183]
+Il giudice di pace, su ricorso del creditore, può autorizzare con decreto l'ufficiale giudiziario a pignorare cose determinate che non si trovano in luoghi appartenenti al debitore, ma delle quali egli può direttamente disporre.[^agg-88] [^agg-90] [^agg-155]  [^agg-160]  [^agg-179]  [^agg-183]
 
 In ogni caso l'ufficiale giudiziario può sottoporre a pignoramento, secondo le norme della presente sezione, le cose del debitore che il terzo possessore consente di esibirgli.
 
@@ -38,4 +38,4 @@ In ogni caso l'ufficiale giudiziario può sottoporre a pignoramento, secondo le 
 
 [^agg-179]: *AGGIORNAMENTO (179)* Il D.Lgs. 13 luglio 2017, n. 116, come modificato dal D.L. 8 agosto 2025, n. 117, convertito con modificazioni dalla L. 3 ottobre 2025, n. 148, ha disposto (con l'[art. 32](../../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/04%20-%20Sezione%20IV%20-%20Delle%20modificazioni%20della%20competenza%20per%20ragione%20di%20connessione/art-32-cpc.md), comma 3) che la modifica di cui al terzo comma del presente articolo entra in vigore il 31 ottobre 2026.
 
-[^agg-183]: *AGGIORNAMENTO (183)* Il D.Lgs. 13 luglio 2017, n. 116, come modificato dal D.L. 8 agosto 2025, n. 117, ha disposto (con l'[art. 32](../../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/04%20-%20Sezione%20IV%20-%20Delle%20modificazioni%20della%20competenza%20per%20ragione%20di%20connessione/art-32-cpc.md), comma 3) che "Le disposizioni dell'[articolo 27](../../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/03%20-%20Sezione%20III%20-%20Della%20competenza%20per%20territorio/art-27-cpc.md) entrano in vigore il 31 ottobre 2027".
+[^agg-183]: *AGGIORNAMENTO (183)* Il D.Lgs. 13 luglio 2017, n. 116, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'[art. 32](../../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/04%20-%20Sezione%20IV%20-%20Delle%20modificazioni%20della%20competenza%20per%20ragione%20di%20connessione/art-32-cpc.md), comma 3) che "Le disposizioni dell'[articolo 27](../../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/03%20-%20Sezione%20III%20-%20Della%20competenza%20per%20territorio/art-27-cpc.md) entrano in vigore il 31 ottobre 2027".

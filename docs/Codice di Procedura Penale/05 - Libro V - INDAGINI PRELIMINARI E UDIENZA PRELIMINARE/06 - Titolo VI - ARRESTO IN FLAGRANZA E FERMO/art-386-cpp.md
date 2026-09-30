@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Doveri della polizia giudiziaria in caso di arresto o di fermo"
-dataVigenza: "20260914"
-ordine: 459
+dataVigenza: "20260930"
+ordine: 460
 ---
 
 # Art. 386 - ***Doveri della polizia giudiziaria in caso di arresto o di fermo***
@@ -49,4 +49,4 @@ ordine: 459
 
 7\. L'arresto o il fermo diviene inefficace se non sono osservati i termini previsti dal comma 3.
 
-[^agg-290]: *AGGIORNAMENTO (290)* Il D.Lgs. 10 ottobre 2022, n. 150 ha disposto (con l'[art. 87](../../01%20-%20Libro%20I%20-%20SOGGETTI/05%20-%20Titolo%20V%20-%20PARTE%20CIVILE,%20RESPONSABILE%20CIVILE%20E%20CIVILMENTE%20OBBLIGATO%20PER%20LA%20PENA/art-87-cpp.md), comma 5) che "Le disposizioni di cui agli [articoli 111](../../02%20-%20Libro%20II%20-%20ATTI/01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-111-cpp.md), commi 2-bis, 2-ter e 2-quater, 111-bis, 111-ter, 122, comma 2-bis, 172, commi 6-bis e 6-ter, 175-bis, [386, comma 1-ter](art-386-cpp.md), [483](art-386-cpp.md), [comma 1-bis](art-386-cpp.md), [582](art-386-cpp.md), [comma 1-bis, del codice di procedura penale](art-386-cpp.md), così come introdotte dal presente decreto, si applicano a partire dal quindicesimo giorno successivo alla pubblicazione dei regolamenti di cui ai commi 1 e 3, ovvero a partire dal diverso termine previsto dal regolamento di cui al comma 3 per gli uffici giudiziari e per le tipologie di atti in esso indicati".
+[^agg-290]: *AGGIORNAMENTO (290)* Il [D.Lgs. 10 ottobre 2022, n. 150](../../../Cartabia%20%28Dlgs%20150-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs150-22%29.md) ha disposto (con l'[art. 87](../../01%20-%20Libro%20I%20-%20SOGGETTI/05%20-%20Titolo%20V%20-%20PARTE%20CIVILE,%20RESPONSABILE%20CIVILE%20E%20CIVILMENTE%20OBBLIGATO%20PER%20LA%20PENA/art-87-cpp.md), comma 5) che "Le disposizioni di cui agli [articoli 111](../../02%20-%20Libro%20II%20-%20ATTI/01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-111-cpp.md), commi 2-bis, 2-ter e 2-quater, 111-bis, 111-ter, 122, comma 2-bis, 172, commi 6-bis e 6-ter, 175-bis, [386, comma 1-ter](art-386-cpp.md), [483](art-386-cpp.md), [comma 1-bis](art-386-cpp.md), [582](art-386-cpp.md), [comma 1-bis, del codice di procedura penale](art-386-cpp.md), così come introdotte dal presente decreto, si applicano a partire dal quindicesimo giorno successivo alla pubblicazione dei regolamenti di cui ai commi 1 e 3, ovvero a partire dal diverso termine previsto dal regolamento di cui al comma 3 per gli uffici giudiziari e per le tipologie di atti in esso indicati".

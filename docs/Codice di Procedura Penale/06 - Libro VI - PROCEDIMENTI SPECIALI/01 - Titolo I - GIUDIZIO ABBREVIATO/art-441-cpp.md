@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Svolgimento del giudizio abbreviato"
-dataVigenza: "20260914"
-ordine: 535
+dataVigenza: "20260930"
+ordine: 536
 ---
 
 # Art. 441 - ***Svolgimento del giudizio abbreviato***

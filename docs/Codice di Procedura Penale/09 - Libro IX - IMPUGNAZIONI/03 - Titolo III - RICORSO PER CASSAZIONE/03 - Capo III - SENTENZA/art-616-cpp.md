@@ -14,8 +14,8 @@ capo_label: "SENTENZA"
 sezione: null
 sezione_label: null
 rubrica: "Spese e sanzione pecuniaria in caso di rigetto o di inammissibilità del ricorso"
-dataVigenza: "20260914"
-ordine: 738
+dataVigenza: "20260930"
+ordine: 739
 ---
 
 # Art. 616 - ***Spese e sanzione pecuniaria in caso di rigetto o di inammissibilità del ricorso***

@@ -14,8 +14,8 @@ capo_label: "Dei delitti colposi di comune pericolo"
 sezione: null
 sezione_label: null
 rubrica: "Delitti colposi di pericolo"
-dataVigenza: "20260914"
-ordine: 544
+dataVigenza: "20260930"
+ordine: 545
 ---
 
 # Art. 450 - ***Delitti colposi di pericolo***

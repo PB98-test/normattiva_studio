@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Nomina e assistenza del difensore"
-dataVigenza: "20260914"
-ordine: 433
+dataVigenza: "20260930"
+ordine: 434
 ---
 
 # Art. 364 - ***Nomina e assistenza del difensore***

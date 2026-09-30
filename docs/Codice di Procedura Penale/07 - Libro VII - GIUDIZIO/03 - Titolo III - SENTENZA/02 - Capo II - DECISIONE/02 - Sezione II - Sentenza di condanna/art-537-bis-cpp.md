@@ -14,8 +14,8 @@ capo_label: "DECISIONE"
 sezione: "II"
 sezione_label: "Sentenza di condanna"
 rubrica: "Indegnità a succedere"
-dataVigenza: "20260914"
-ordine: 647
+dataVigenza: "20260930"
+ordine: 648
 ---
 
 # Art. 537-bis - ***Indegnità a succedere***

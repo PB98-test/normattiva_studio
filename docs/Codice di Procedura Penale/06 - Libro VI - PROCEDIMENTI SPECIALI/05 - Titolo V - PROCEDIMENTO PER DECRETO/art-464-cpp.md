@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Giudizio conseguente all'opposizione"
-dataVigenza: "20260914"
-ordine: 560
+dataVigenza: "20260930"
+ordine: 561
 ---
 
 # Art. 464 - ***Giudizio conseguente all'opposizione***

@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Irrevocabilità delle sentenze e dei decreti penali"
-dataVigenza: "20260914"
-ordine: 775
+dataVigenza: "20260930"
+ordine: 776
 ---
 
 # Art. 648 - ***Irrevocabilità delle sentenze e dei decreti penali***

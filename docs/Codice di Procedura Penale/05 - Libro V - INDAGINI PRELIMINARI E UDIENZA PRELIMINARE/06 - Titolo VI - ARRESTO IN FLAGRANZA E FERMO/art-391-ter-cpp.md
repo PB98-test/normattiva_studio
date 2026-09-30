@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Documentazione delle dichiarazioni e delle informazioni"
-dataVigenza: "20260914"
-ordine: 467
+dataVigenza: "20260930"
+ordine: 468
 ---
 
 # Art. 391-ter - ***Documentazione delle dichiarazioni e delle informazioni***

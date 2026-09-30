@@ -14,19 +14,19 @@ capo_label: "Delle controversie individuali di lavoro"
 sezione: "II"
 sezione_label: "Del procedimento Par. 1 Del procedimento di primo grado"
 rubrica: "Giudice competente"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 469
 ---
 
 # Art. 413 - ***Giudice competente***
 
-Le controversie previste dall'[articolo 409](../01%20-%20Sezione%20I%20-%20Disposizioni%20generali%29%29/art-409-cpc.md) sono in primo grado di competenza del tribunale in funzione di giudice del lavoro. [^agg-88] [^agg-90]
+Le controversie previste dall'[articolo 409](../01%20-%20Sezione%20I%20-%20Disposizioni%20generali/art-409-cpc.md) sono in primo grado di competenza del tribunale in funzione di giudice del lavoro. [^agg-88] [^agg-90]
 
 Competente per territorio è il giudice nella cui circoscrizione è sorto il rapporto ovvero si trova l'azienda o una sua dipendenza alla quale è addetto il lavoratore o presso la quale egli prestava la sua opera al momento della fine del rapporto.
 
 Tale competenza permane dopo il trasferimento dell'azienda o la cessazione di essa o della sua dipendenza, purchè la domanda sia proposta entro sei mesi dal trasferimento o dalla cessazione.
 
-Competente per territorio per le controversie previste dal numero 3) dell'[articolo 409](../01%20-%20Sezione%20I%20-%20Disposizioni%20generali%29%29/art-409-cpc.md) è il giudice nella cui circoscrizione si trova il domicilio dell'agente, del rappresentante di commercio ovvero del titolare degli altri rapporti di collaborazione di cui al predetto numero 3) dell'[articolo 409](../01%20-%20Sezione%20I%20-%20Disposizioni%20generali%29%29/art-409-cpc.md).
+Competente per territorio per le controversie previste dal numero 3) dell'[articolo 409](../01%20-%20Sezione%20I%20-%20Disposizioni%20generali/art-409-cpc.md) è il giudice nella cui circoscrizione si trova il domicilio dell'agente, del rappresentante di commercio ovvero del titolare degli altri rapporti di collaborazione di cui al predetto numero 3) dell'[articolo 409](../01%20-%20Sezione%20I%20-%20Disposizioni%20generali/art-409-cpc.md).
 
 Competente per territorio per le controversie relative ai rapporti di lavoro alle dipendenze delle pubbliche amministrazioni è il giudice nella cui circoscrizione ha sede l'ufficio al quale il dipendente è addetto o era addetto al momento della cessazione del rapporto.
 

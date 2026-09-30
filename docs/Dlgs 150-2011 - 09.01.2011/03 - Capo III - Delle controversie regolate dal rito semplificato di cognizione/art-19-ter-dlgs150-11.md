@@ -14,7 +14,7 @@ capo_label: "Delle controversie regolate dal rito semplificato di cognizione"
 sezione: null
 sezione_label: null
 rubrica: "Controversie in materia di diniego o di revoca dei permessi di soggiorno temporanei per esigenze di carattere umanitario"
-dataVigenza: "20260928"
+dataVigenza: "20260930"
 ordine: 21
 ---
 
@@ -34,8 +34,8 @@ ordine: 21
 
 7\. Si applicano le disposizioni di cui ai commi 14 e 15 dell'articolo 35-bis del decreto legislativo 28 gennaio 2008, n. 25.
 
-[^agg-12]: *AGGIORNAMENTO (12)* Il [D.Lgs. 10 ottobre 2022, n. 149](../../Cartabia%20%28Dlgs%20149-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs149-22%29.md) ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 30 giugno 2023 si applicano le disposizioni anteriormente vigenti".
+[^agg-12]: *AGGIORNAMENTO (12)* Il [D.Lgs. 10 ottobre 2022, n. 149](../../Cartabia%20%28Dlgs%20149-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs149-22%29.md) ha disposto (con l'[art. 35](../05%20-%20Capo%20V%20-%20Disposizioni%20finali%20ed%20abrogazioni/art-35-dlgs150-11.md), comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 30 giugno 2023 si applicano le disposizioni anteriormente vigenti".
 
-[^agg-13]: *AGGIORNAMENTO (13)* Il [D.Lgs. 10 ottobre 2022, n. 149](../../Cartabia%20%28Dlgs%20149-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs149-22%29.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../../L.%20197-2022%20-%2029.12.2022/00%20-%20Indice%20%28l197-22%29.md), ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
+[^agg-13]: *AGGIORNAMENTO (13)* Il [D.Lgs. 10 ottobre 2022, n. 149](../../Cartabia%20%28Dlgs%20149-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs149-22%29.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../../L.%20197-2022%20-%2029.12.2022/00%20-%20Indice%20%28l197-22%29.md), ha disposto (con l'[art. 35](../05%20-%20Capo%20V%20-%20Disposizioni%20finali%20ed%20abrogazioni/art-35-dlgs150-11.md), comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
 
 [^agg-17]: *AGGIORNAMENTO (17)* È stato ripristinato il testo già in vigore dal 1-1-2023 a seguito della modifica dell'[art. 18](art-18-dlgs150-11.md), comma 1, lettere a), b) e c) del D.L. 11 ottobre 2024, n. 145, che disponeva la modifica del comma 6 e rubrica e l'abrogazione del comma 3 del presente articolo, ad opera della L. 9 dicembre 2024, n. 187, di conversione del D.L. medesimo.

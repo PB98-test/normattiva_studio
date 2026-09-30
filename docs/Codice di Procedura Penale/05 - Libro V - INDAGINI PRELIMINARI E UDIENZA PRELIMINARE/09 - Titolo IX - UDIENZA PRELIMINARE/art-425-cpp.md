@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Sentenza di non luogo a procedere"
-dataVigenza: "20260914"
-ordine: 518
+dataVigenza: "20260930"
+ordine: 519
 ---
 
 # Art. 425 - ***Sentenza di non luogo a procedere***

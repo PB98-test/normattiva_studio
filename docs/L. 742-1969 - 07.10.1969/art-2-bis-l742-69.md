@@ -14,7 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: null
-dataVigenza: "20260925"
+dataVigenza: "20260930"
+ordine: 3
 ---
 
 # Art. 2-bis

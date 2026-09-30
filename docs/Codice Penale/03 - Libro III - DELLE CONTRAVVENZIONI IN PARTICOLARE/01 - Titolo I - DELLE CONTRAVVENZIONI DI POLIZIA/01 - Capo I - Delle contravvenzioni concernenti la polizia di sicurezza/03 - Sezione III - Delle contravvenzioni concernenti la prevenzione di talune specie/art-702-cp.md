@@ -15,8 +15,8 @@ sezione: "III"
 sezione_label: "Delle contravvenzioni concernenti la prevenzione di talune specie di reati § 1 Delle contravvenzioni concernenti la tutela preventiva dei segreti"
 rubrica: null
 abrogato: true
-dataVigenza: "20260914"
-ordine: 960
+dataVigenza: "20260930"
+ordine: 961
 ---
 
 # Art. 702 - *(Omissis)*

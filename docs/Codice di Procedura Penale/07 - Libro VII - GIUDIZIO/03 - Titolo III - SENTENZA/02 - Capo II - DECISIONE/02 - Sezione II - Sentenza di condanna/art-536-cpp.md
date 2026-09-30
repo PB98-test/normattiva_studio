@@ -14,8 +14,8 @@ capo_label: "DECISIONE"
 sezione: "II"
 sezione_label: "Sentenza di condanna"
 rubrica: "Pubblicazione della sentenza come effetto della condanna"
-dataVigenza: "20260914"
-ordine: 645
+dataVigenza: "20260930"
+ordine: 646
 ---
 
 # Art. 536 - ***Pubblicazione della sentenza come effetto della condanna***

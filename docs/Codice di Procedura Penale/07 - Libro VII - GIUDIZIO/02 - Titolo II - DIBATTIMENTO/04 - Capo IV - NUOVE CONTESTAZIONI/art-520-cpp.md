@@ -14,8 +14,8 @@ capo_label: "NUOVE CONTESTAZIONI"
 sezione: null
 sezione_label: null
 rubrica: "Nuove contestazioni all'imputato non presente [^agg-215]"
-dataVigenza: "20260914"
-ordine: 628
+dataVigenza: "20260930"
+ordine: 629
 ---
 
 # Art. 520 - ***Nuove contestazioni all'imputato non presente [^agg-215]***

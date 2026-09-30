@@ -14,7 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Modifiche alle disposizioni per l'attuazione del codice civile e disposizioni transitorie"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
+ordine: 2
 ---
 
 # Art. 2 - ***Modifiche alle disposizioni per l'attuazione del codice civile e disposizioni transitorie***

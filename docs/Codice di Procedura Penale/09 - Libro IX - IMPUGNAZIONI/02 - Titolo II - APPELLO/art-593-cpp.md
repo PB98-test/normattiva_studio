@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Casi di appello"
-dataVigenza: "20260914"
-ordine: 711
+dataVigenza: "20260930"
+ordine: 712
 ---
 
 # Art. 593 - ***Casi di appello***

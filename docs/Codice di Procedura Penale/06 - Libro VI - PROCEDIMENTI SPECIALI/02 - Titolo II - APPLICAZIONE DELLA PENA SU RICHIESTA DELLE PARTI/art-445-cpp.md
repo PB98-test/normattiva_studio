@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Effetti dell'applicazione della pena su richiesta"
-dataVigenza: "20260914"
-ordine: 540
+dataVigenza: "20260930"
+ordine: 541
 ---
 
 # Art. 445 - ***Effetti dell'applicazione della pena su richiesta***

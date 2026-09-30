@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 322-bis - Peculato, indebita destinazione di denaro o cose mobili, concussione, induzione indebita a dare o promettere utilità, corruzione e istigazione alla corruzione ..."
+title: "Art. 322-bis - Peculato, indebita destinazione di denaro o cose mobili, concussione, induzione indebita a dare o promettere utilità, corruzione e istigazione alla corruzione ... di membri delle Corti internazionali o degli organi delle Comunità europee o di assemblee parlamentari internazionali o di organizzazioni internazionali e di funzionari delle Comunità europee e di Stati esteri"
 articolo: "Art. 322-bis"
 codice: cp
 aliases:
@@ -13,16 +13,14 @@ capo: "I"
 capo_label: "Dei delitti dei pubblici ufficiali contro la pubblica Amministrazione"
 sezione: null
 sezione_label: null
-rubrica: "Peculato, indebita destinazione di denaro o cose mobili, concussione, induzione indebita a dare o promettere utilità, corruzione e istigazione alla corruzione ..."
-dataVigenza: "20260914"
+rubrica: "Peculato, indebita destinazione di denaro o cose mobili, concussione, induzione indebita a dare o promettere utilità, corruzione e istigazione alla corruzione ... di membri delle Corti internazionali o degli organi delle Comunità europee o di assemblee parlamentari internazionali o di organizzazioni internazionali e di funzionari delle Comunità europee e di Stati esteri"
+dataVigenza: "20260930"
 ordine: 379
 ---
 
-# Art. 322-bis - ***Peculato, indebita destinazione di denaro o cose mobili, concussione, induzione indebita a dare o promettere utilità, corruzione e istigazione alla corruzione ...***
+# Art. 322-bis - ***Peculato, indebita destinazione di denaro o cose mobili, concussione, induzione indebita a dare o promettere utilità, corruzione e istigazione alla corruzione ... di membri delle Corti internazionali o degli organi delle Comunità europee o di assemblee parlamentari internazionali o di organizzazioni internazionali e di funzionari delle Comunità europee e di Stati esteri***
 
-) di membri delle Corti internazionali o degli organi delle Comunità europee o di assemblee parlamentari internazionali o di organizzazioni internazionali e di funzionari delle Comunità europee e di Stati esteri).
-
-Le disposizioni degli [articoli 314](art-314-cp.md), [314-bis](art-314-bis-cp.md), [316](art-316-cp.md), da 317 a 320 ((e 322, terzo e quarto comma, ... si applicano anche:
+Le disposizioni degli [articoli 314](art-314-cp.md), [314-bis](art-314-bis-cp.md), [316](art-316-cp.md), da 317 a 320 e 322, terzo e quarto comma, ... si applicano anche:
 
 1) ai membri della Commissione delle Comunità europee, del Parlamento europeo, della Corte di Giustizia e della Corte dei conti delle Comunità europee;
 
@@ -50,4 +48,4 @@ Le disposizioni degli [articoli 319-quater](art-319-quater-cp.md), secondo comma
 
 Le persone indicate nel primo comma sono assimilate ai pubblici ufficiali, qualora esercitino funzioni corrispondenti, e agli incaricati di un pubblico servizio negli altri casi.   [^agg-281]
 
-[^agg-281]: *AGGIORNAMENTO (281)* Il D.Lgs. 6 settembre 2011, n. 159, come modificato dalla L. 17 ottobre 2017, n. 161, ha disposto (con l'[art. 71](../../../01%20-%20Libro%20I%20-%20DEI%20REATI%20IN%20GENERALE/03%20-%20Titolo%20III%20-%20DEL%20REATO/03%20-%20Capo%20III%20-%20Del%20concorso%20di%20reati/art-71-cp.md), commi 1 e 3) che le pene stabilite per i delitti previsti dal presente articolo sono aumentate da un terzo alla metà se il fatto è commesso da persona sottoposta con provvedimento definitivo ad una misura di prevenzione personale durante il periodo previsto di applicazione e sino a tre anni dal momento in cui ne è cessata l'esecuzione. Alla pena è aggiunta una misura di sicurezza detentiva.
+[^agg-281]: *AGGIORNAMENTO (281)* Il [D.Lgs. 6 settembre 2011, n. 159](../../../../Dlgs%20159-2011%20-%2006.09.2011/00%20-%20Indice%20%28dlgs159-11%29.md), come modificato dalla L. 17 ottobre 2017, n. 161, ha disposto (con l'[art. 71](../../../01%20-%20Libro%20I%20-%20DEI%20REATI%20IN%20GENERALE/03%20-%20Titolo%20III%20-%20DEL%20REATO/03%20-%20Capo%20III%20-%20Del%20concorso%20di%20reati/art-71-cp.md), commi 1 e 3) che le pene stabilite per i delitti previsti dal presente articolo sono aumentate da un terzo alla metà se il fatto è commesso da persona sottoposta con provvedimento definitivo ad una misura di prevenzione personale durante il periodo previsto di applicazione e sino a tre anni dal momento in cui ne è cessata l'esecuzione. Alla pena è aggiunta una misura di sicurezza detentiva.

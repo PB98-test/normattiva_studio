@@ -14,10 +14,10 @@ capo_label: "DISPOSIZIONI RELATIVE ALLE INDAGINI PRELIMINARI"
 sezione: null
 sezione_label: null
 rubrica: "Denunce a carico di ignoti"
-dataVigenza: "20260925"
+dataVigenza: "20260930"
 ordine: 131
 ---
 
 # Art. 107-bis - ***Denunce a carico di ignoti***
 
-1\. Le denunce a carico di ignoti sono trasmesse all'ufficio di procura competente da parte degli organi di polizia, unitamente agli eventuali atti di indagine svolti per la identificazione degli autori del reato, con elenchi mensili)).
+1\. Le denunce a carico di ignoti sono trasmesse all'ufficio di procura competente da parte degli organi di polizia, unitamente agli eventuali atti di indagine svolti per la identificazione degli autori del reato, con elenchi mensili.

@@ -14,7 +14,7 @@ capo_label: "MODALITÀ DEL TRATTAMENTO"
 sezione: null
 sezione_label: null
 rubrica: "Concessione dei permessi premio ai recidivi"
-dataVigenza: "20260925"
+dataVigenza: "20260930"
 ordine: 48
 ---
 
@@ -27,4 +27,4 @@ ordine: 48
 - c) alle lettere c) e
 - d) dopo l'espiazione di due terzi della pena e, comunque, di non oltre quindici anni. [^agg-59]
 
-[^agg-59]: *AGGIORNAMENTO (59)* La Corte costituzionale, con sentenza 21 giugno - 4 luglio 2006, n. 257 (in G.U. 1a s.s. 12/07/2006, n. 28) ha dichiarato l'illegittimità costituzionale dell'art. 30-quater della legge 26 luglio 1975, n. 354 (Norme sull'ordinamento penitenziario e sull'esecuzione delle misure privative e limitative della liberta), introdotto dall'art. 7 della legge 5 dicembre 2005, n. 251 (Modifiche al [codice penale](../../../Codice%20Penale/00%20-%20Indice%20%28cp%29.md) e alla legge 26 luglio 1975, n. 354, in materia di attenuanti generiche, di recidiva, di giudizio di comparazione delle circostanze di reato per i recidivi, di usura e di prescrizione), nella parte in cui non prevede che il beneficio del permesso premio possa essere concesso sulla base della normativa previgente nei confronti dei condannati che, prima della entrata in vigore della citata legge n. 251 del 2005, abbiano raggiunto un grado di rieducazione adeguato al beneficio richiesto.
+[^agg-59]: *AGGIORNAMENTO (59)* La Corte costituzionale, con sentenza 21 giugno - 4 luglio 2006, n. 257 (in G.U. 1a s.s. 12/07/2006, n. 28) ha dichiarato l'illegittimità costituzionale dell'[art. 30-quater della legge 26 luglio 1975, n. 354](art-30-quater-l354-75.md) (Norme sull'ordinamento penitenziario e sull'esecuzione delle misure privative e limitative della liberta), introdotto dall'art. 7 della legge 5 dicembre 2005, n. 251 (Modifiche al [codice penale](../../../Codice%20Penale/00%20-%20Indice%20%28cp%29.md) e alla [legge 26 luglio 1975, n. 354](../../00%20-%20Indice%20%28l354-75%29.md), in materia di attenuanti generiche, di recidiva, di giudizio di comparazione delle circostanze di reato per i recidivi, di usura e di prescrizione), nella parte in cui non prevede che il beneficio del permesso premio possa essere concesso sulla base della normativa previgente nei confronti dei condannati che, prima della entrata in vigore della citata legge n. 251 del 2005, abbiano raggiunto un grado di rieducazione adeguato al beneficio richiesto.

@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 263"
+title: "Art. 263 - Impugnazione del riconoscimento per difetto di veridicità"
 articolo: "Art. 263"
 codice: cc
 aliases:
@@ -13,14 +13,12 @@ capo: "IV"
 capo_label: "Del riconoscimento dei figli nati fuori dal matrimonio"
 sezione: null
 sezione_label: null
-rubrica: null
-dataVigenza: "20260914"
+rubrica: "Impugnazione del riconoscimento per difetto di veridicità"
+dataVigenza: "20260930"
 ordine: 308
 ---
 
-# Art. 263
-
-Impugnazione del riconoscimento per difetto di veridicità
+# Art. 263 - ***Impugnazione del riconoscimento per difetto di veridicità***
 
 Il riconoscimento può essere impugnato per difetto di veridicità dall'autore del riconoscimento, da colui che è stato riconosciuto e da chiunque vi abbia interesse.
 

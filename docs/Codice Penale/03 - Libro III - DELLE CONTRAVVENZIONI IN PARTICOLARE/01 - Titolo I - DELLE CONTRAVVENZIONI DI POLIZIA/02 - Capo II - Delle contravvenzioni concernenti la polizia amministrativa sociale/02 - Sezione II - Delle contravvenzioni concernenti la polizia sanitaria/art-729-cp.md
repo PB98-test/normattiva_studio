@@ -14,8 +14,8 @@ capo_label: "Delle contravvenzioni concernenti la polizia amministrativa sociale
 sezione: "II"
 sezione_label: "Delle contravvenzioni concernenti la polizia sanitaria"
 rubrica: "IL D.P.R. 9 OTTOBRE 1990, N. 309 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO"
-dataVigenza: "20260914"
-ordine: 989
+dataVigenza: "20260930"
+ordine: 990
 ---
 
 # Art. 729 - ***IL D.P.R. 9 OTTOBRE 1990, N. 309 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO***

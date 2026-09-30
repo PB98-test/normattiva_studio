@@ -14,7 +14,7 @@ capo_label: "DISPOSIZIONI RELATIVE AGLI ATTI"
 sezione: null
 sezione_label: null
 rubrica: "Notificazione con modalità telematiche eseguita dal difensore"
-dataVigenza: "20260925"
+dataVigenza: "20260930"
 ordine: 64
 ---
 
@@ -27,4 +27,4 @@ ordine: 64
 - c) il nome e cognome del destinatario;
 - d) il domicilio digitale a cui l'atto viene notificato;
 - e) l'indicazione dell'elenco da cui il predetto domicilio digitale è stato estratto;
-- f) l'ufficio giudiziario, l'eventuale sezione e il numero del procedimento. 3. Quando l'atto da notificarsi è redatto in forma di documento analogico, l'avvocato provvede ad estrarne copia informatica, sulla quale appone attestazione di conformità nel rispetto delle modalità previste per i procedimenti civili. 4. Ai fini previsti dall'articolo 152 del codice, il difensore documenta l'avvenuta notificazione dell'atto con modalità telematiche depositando in cancelleria il duplicato informatico o la copia informatica dell'atto inviato, unitamente all'attestazione di conformità all'originale, la relazione redatta con le modalità di cui al comma 2, nonchè le ricevute di accettazione e di avvenuta consegna generate dal sistema.
+- f) l'ufficio giudiziario, l'eventuale sezione e il numero del procedimento. 3. Quando l'atto da notificarsi è redatto in forma di documento analogico, l'avvocato provvede ad estrarne copia informatica, sulla quale appone attestazione di conformità nel rispetto delle modalità previste per i procedimenti civili. 4. Ai fini previsti dall'[articolo 152](../12%20-%20Capo%20XI%20-%20DISPOSIZIONI%20RELATIVE%20AL%20DIBATTIMENTO/art-152-dlgs271-89.md) del codice, il difensore documenta l'avvenuta notificazione dell'atto con modalità telematiche depositando in cancelleria il duplicato informatico o la copia informatica dell'atto inviato, unitamente all'attestazione di conformità all'originale, la relazione redatta con le modalità di cui al comma 2, nonchè le ricevute di accettazione e di avvenuta consegna generate dal sistema.

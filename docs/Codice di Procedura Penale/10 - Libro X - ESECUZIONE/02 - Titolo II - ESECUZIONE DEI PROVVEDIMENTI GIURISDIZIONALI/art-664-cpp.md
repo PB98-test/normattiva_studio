@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Esecuzione di altre sanzioni pecuniarie"
-dataVigenza: "20260914"
-ordine: 794
+dataVigenza: "20260930"
+ordine: 795
 ---
 
 # Art. 664 - ***Esecuzione di altre sanzioni pecuniarie***

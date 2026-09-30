@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 224-bis - (Obblighi del condannato)."
+title: "Art. 224-bis - Obblighi del condannato"
 articolo: "Art. 224-bis"
 codice: dlgs285-92
 aliases:
@@ -13,12 +13,12 @@ capo: "II"
 capo_label: "DEGLI ILLECITI PENALI"
 sezione: "II"
 sezione_label: "Sanzioni amministrative accessorie a sanzioni penali"
-rubrica: "(Obblighi del condannato)."
-dataVigenza: "20260914"
+rubrica: "Obblighi del condannato"
+dataVigenza: "20260930"
 ordine: 249
 ---
 
-# Art. 224-bis - ***(Obblighi del condannato).***
+# Art. 224-bis - ***Obblighi del condannato***
 
 1\. Nel pronunciare sentenza di condanna alla pena della reclusione per un delitto colposo commesso con violazione delle norme del presente codice, il giudice può disporre altresì la sanzione amministrativa accessoria del lavoro di pubblica utilità consistente nella prestazione di attività non retribuita in favore della collettività da svolgere presso lo Stato, le regioni, le province, i comuni o presso enti o organizzazioni di assistenza sociale e di volontariato.
 
@@ -30,4 +30,4 @@ ordine: 249
 
 5\. La durata giornaliera della prestazione non può comunque oltrepassare le otto ore.
 
-6\. In caso di violazione degli obblighi di cui al presente articolo si applicano le disposizioni di cui all'articolo 56 del decreto legislativo 28 agosto 2000, n. 274))
+6\. In caso di violazione degli obblighi di cui al presente articolo si applicano le disposizioni di cui all'[articolo 56 del decreto legislativo 28 agosto 2000, n. 274](../../../../Dlgs%20274-2000%20-%2028.08.2000/02%20-%20Titolo%20II%20-%20SANZIONI%20APPLICABILI%20DAL%20GIUDICE%20DI%20PACE/art-56-dlgs274-00.md)))

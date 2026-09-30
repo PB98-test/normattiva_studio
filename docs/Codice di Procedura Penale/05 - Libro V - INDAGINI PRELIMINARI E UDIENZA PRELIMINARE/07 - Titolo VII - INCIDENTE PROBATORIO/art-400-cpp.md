@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Provvedimenti per i casi di urgenza"
-dataVigenza: "20260914"
-ordine: 483
+dataVigenza: "20260930"
+ordine: 484
 ---
 
 # Art. 400 - ***Provvedimenti per i casi di urgenza***

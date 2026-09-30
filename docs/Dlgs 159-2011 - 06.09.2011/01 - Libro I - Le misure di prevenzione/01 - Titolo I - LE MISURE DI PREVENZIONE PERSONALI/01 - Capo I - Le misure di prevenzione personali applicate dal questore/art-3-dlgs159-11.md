@@ -14,7 +14,7 @@ capo_label: "Le misure di prevenzione personali applicate dal questore"
 sezione: null
 sezione_label: null
 rubrica: "Avviso orale"
-dataVigenza: "20260928"
+dataVigenza: "20260930"
 ordine: 3
 ---
 
@@ -40,4 +40,4 @@ ordine: 3
 
 6-quater. Contro il decreto di cui al comma 6-ter è proponibile ricorso per cassazione. Il ricorso non sospende l'esecuzione del decreto.
 
-[^agg-45]: *AGGIORNAMENTO (45)* La Corte Costituzionale con sentenza 20 dicembre 2022 - 12 gennaio 2023, n. 2 (in G.U. 1ª s.s. 18/01/2023, n. 3) ha dichiarato "l'illegittimità costituzionale dell'art. 3, comma 4, del decreto legislativo 6 settembre 2011, n. 159 (Codice delle leggi antimafia e delle misure di prevenzione, nonchè nuove disposizioni in materia di documentazione antimafia, a norma degli articoli 1 e 2 della legge 13 agosto 2010, n. 136), nella parte in cui include i telefoni cellulari tra gli apparati di comunicazione radiotrasmittente di cui il questore può vietare, in tutto o in parte, il possesso o l'utilizzo".
+[^agg-45]: *AGGIORNAMENTO (45)* La Corte Costituzionale con sentenza 20 dicembre 2022 - 12 gennaio 2023, n. 2 (in G.U. 1ª s.s. 18/01/2023, n. 3) ha dichiarato "l'illegittimità costituzionale dell'[art. 3, comma 4, del decreto legislativo 6 settembre 2011, n. 159](art-3-dlgs159-11.md) (Codice delle leggi antimafia e delle misure di prevenzione, nonchè nuove disposizioni in materia di documentazione antimafia, a norma degli articoli 1 e 2 della legge 13 agosto 2010, n. 136), nella parte in cui include i telefoni cellulari tra gli apparati di comunicazione radiotrasmittente di cui il questore può vietare, in tutto o in parte, il possesso o l'utilizzo".

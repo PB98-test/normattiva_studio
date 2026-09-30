@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 316"
+title: "Art. 316 - Responsabilità genitoriale"
 articolo: "Art. 316"
 codice: cc
 aliases:
@@ -13,14 +13,12 @@ capo: "I"
 capo_label: "Dei diritti e doveri del figlio"
 sezione: null
 sezione_label: null
-rubrica: null
-dataVigenza: "20260914"
+rubrica: "Responsabilità genitoriale"
+dataVigenza: "20260930"
 ordine: 389
 ---
 
-# Art. 316
-
-Responsabilità genitoriale.
+# Art. 316 - ***Responsabilità genitoriale***
 
 Entrambi i genitori hanno la responsabilità genitoriale che è esercitata di comune accordo tenendo conto delle capacità, delle inclinazioni naturali e delle aspirazioni del figlio. I genitori di comune accordo stabiliscono la residenza abituale del minore e adottano le scelte relative alla sua istruzione ed educazione. [^agg-321][^agg-322]
 

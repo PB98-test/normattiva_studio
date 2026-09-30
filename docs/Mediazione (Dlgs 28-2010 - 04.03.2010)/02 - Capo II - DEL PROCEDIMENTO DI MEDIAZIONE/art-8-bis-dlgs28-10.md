@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 8-bis - (Mediazione in modalità telematica)."
+title: "Art. 8-bis - Mediazione in modalità telematica"
 articolo: "Art. 8-bis"
 codice: dlgs28-10
 aliases:
@@ -13,12 +13,12 @@ capo: "II"
 capo_label: "DEL PROCEDIMENTO DI MEDIAZIONE"
 sezione: null
 sezione_label: null
-rubrica: "(Mediazione in modalità telematica)."
-dataVigenza: "20260925"
+rubrica: "Mediazione in modalità telematica"
+dataVigenza: "20260930"
 ordine: 14
 ---
 
-# Art. 8-bis - ***(Mediazione in modalità telematica).***
+# Art. 8-bis - ***Mediazione in modalità telematica***
 
 1\. Quando la mediazione, con il consenso delle parti, si svolge in modalità telematica, gli atti del procedimento sono formati dal mediatore e sottoscritti in conformità al presente decreto nel rispetto delle disposizioni del codice dell'amministrazione digitale, di cui al decreto legislativo 7 marzo 2005, n. 82.
 

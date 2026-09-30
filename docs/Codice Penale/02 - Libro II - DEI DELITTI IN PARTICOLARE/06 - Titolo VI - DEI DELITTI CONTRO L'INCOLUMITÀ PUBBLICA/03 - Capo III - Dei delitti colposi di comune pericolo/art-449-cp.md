@@ -14,8 +14,8 @@ capo_label: "Dei delitti colposi di comune pericolo"
 sezione: null
 sezione_label: null
 rubrica: "Delitti colposi di danno"
-dataVigenza: "20260914"
-ordine: 543
+dataVigenza: "20260930"
+ordine: 544
 ---
 
 # Art. 449 - ***Delitti colposi di danno***

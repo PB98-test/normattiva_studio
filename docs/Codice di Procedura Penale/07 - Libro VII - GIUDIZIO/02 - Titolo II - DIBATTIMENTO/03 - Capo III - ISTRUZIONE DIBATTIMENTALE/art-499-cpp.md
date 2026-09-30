@@ -14,8 +14,8 @@ capo_label: "ISTRUZIONE DIBATTIMENTALE"
 sezione: null
 sezione_label: null
 rubrica: "Regole per l'esame testimoniale"
-dataVigenza: "20260914"
-ordine: 605
+dataVigenza: "20260930"
+ordine: 606
 ---
 
 # Art. 499 - ***Regole per l'esame testimoniale***

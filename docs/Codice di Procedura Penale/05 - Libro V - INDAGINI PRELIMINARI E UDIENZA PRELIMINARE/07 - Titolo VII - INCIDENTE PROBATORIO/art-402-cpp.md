@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Estensione dell'incidente probatorio"
-dataVigenza: "20260914"
-ordine: 485
+dataVigenza: "20260930"
+ordine: 486
 ---
 
 # Art. 402 - ***Estensione dell'incidente probatorio***

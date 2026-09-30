@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Reato commesso da persone ignote"
-dataVigenza: "20260914"
-ordine: 500
+dataVigenza: "20260930"
+ordine: 501
 ---
 
 # Art. 415 - ***Reato commesso da persone ignote***

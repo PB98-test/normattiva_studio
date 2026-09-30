@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 9-bis - (Organizzazione di competizioni non autorizzate in velocità con veicoli a motore e partecipazione alle gare)."
+title: "Art. 9-bis - Organizzazione di competizioni non autorizzate in velocità con veicoli a motore e partecipazione alle gare"
 articolo: "Art. 9-bis"
 codice: dlgs285-92
 aliases:
@@ -13,12 +13,12 @@ capo: null
 capo_label: null
 sezione: null
 sezione_label: null
-rubrica: "(Organizzazione di competizioni non autorizzate in velocità con veicoli a motore e partecipazione alle gare)."
-dataVigenza: "20260914"
+rubrica: "Organizzazione di competizioni non autorizzate in velocità con veicoli a motore e partecipazione alle gare"
+dataVigenza: "20260930"
 ordine: 10
 ---
 
-# Art. 9-bis - ***(Organizzazione di competizioni non autorizzate in velocità con veicoli a motore e partecipazione alle gare).***
+# Art. 9-bis - ***Organizzazione di competizioni non autorizzate in velocità con veicoli a motore e partecipazione alle gare***
 
 1\. Salvo che il fatto costituisca più grave reato, chiunque organizza, promuove, dirige o comunque agevola una competizione sportiva in velocità con veicoli a motore senza esserne autorizzato ai sensi dell'[articolo 9](art-9-dlgs285-92.md) è punito con la reclusione da uno a tre anni e con la multa da euro 25.000 a euro 100.000. La stessa pena si applica a chiunque prende parte alla competizione non autorizzata.
 

@@ -14,7 +14,7 @@ capo_label: "Concordato preventivo"
 sezione: "I"
 sezione_label: "Finalità e contenuti del concordato preventivo"
 rubrica: "Proposte concorrenti"
-dataVigenza: "20260925"
+dataVigenza: "20260930"
 ordine: 104
 ---
 
@@ -28,7 +28,7 @@ ordine: 104
 
 4\. La relazione di cui all'[articolo 87](art-87-dlgs14-19.md), comma 3, può essere limitata alla fattibilità del piano per gli aspetti che non siano già oggetto di verifica da parte del commissario giudiziale, e può essere omessa se non ve ne sono.
 
-5\. Le proposte di concordato concorrenti non sono ammissibili se nella relazione di cui all'[articolo 87](art-87-dlgs14-19.md), comma 3, il professionista indipendente attesta che la proposta di concordato del debitore assicura il pagamento di almeno il trenta per cento dell'ammontare complessivo dei crediti chirografari. Tale percentuale è ridotta al 20 per cento nel caso in cui il debitore abbia utilmente avviato la composizione negoziata ai sensi dell'[articolo 13](../../../01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Capo%20I%20-%20%28Composizione%20negoziata%20della%20crisi%29%20%29%29/art-13-dlgs14-19.md).
+5\. Le proposte di concordato concorrenti non sono ammissibili se nella relazione di cui all'[articolo 87](art-87-dlgs14-19.md), comma 3, il professionista indipendente attesta che la proposta di concordato del debitore assicura il pagamento di almeno il trenta per cento dell'ammontare complessivo dei crediti chirografari. Tale percentuale è ridotta al 20 per cento nel caso in cui il debitore abbia utilmente avviato la composizione negoziata ai sensi dell'[articolo 13](../../../01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Capo%20I%20-%20%28Composizione%20negoziata%20della%20crisi%29/art-13-dlgs14-19.md).
 
 6\. La proposta può prevedere l'intervento di terzi e, se il debitore ha la forma di società per azioni o a responsabilità limitata, un aumento di capitale della società con esclusione o limitazione del diritto d'opzione.
 

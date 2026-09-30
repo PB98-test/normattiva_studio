@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Invito a presentarsi"
-dataVigenza: "20260914"
-ordine: 446
+dataVigenza: "20260930"
+ordine: 447
 ---
 
 # Art. 375 - ***Invito a presentarsi***

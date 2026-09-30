@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da Crisi d'impresa e insolvenza (Dlgs 14-2019 - 12.01.2019) ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Crisi d'impresa e insolvenza (Dlgs 14-2019 - 12.01.2019) — 81 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Crisi d'impresa e insolvenza (Dlgs 14-2019 - 12.01.2019) — 77 leggi trovate)*
 
 - [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const)
 - [legge 19 ottobre 2017, n. 155](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-10-19;155)
@@ -36,14 +36,11 @@ search:
 - [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1986-12-22;917)
 - [D.L. 24 febbraio 2023, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2023-02-24;13)
 - [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-10-26;633)
-- [articolo 25-ter del decreto legislativo 12 gennaio 2019, n. 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2019-01-12;14)
-- [decreto legislativo 6 settembre 2011, n. 159](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2011-09-06;159)
 - [decreto legislativo n. 159 del 2011](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2011;159)
 - [D.Lgs. 13 settembre 2024, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2024-09-13;136)
 - [articolo 15 del decreto legislativo 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2010-01-27;39)
 - [articolo 1 del decreto legislativo 27 giugno 2003, n. 168](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2003-06-27;168)
 - [articolo 107, primo comma, del decreto del Presidente della Repubblica 15 dicembre 1959, n. 1229](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-12-15;1229)
-- [articolo 13, comma 1-quater, del testo unico delle disposizioni legislative e regolamentari in materia di spese di giustizia](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-05-30;115)
 - [articolo 136, comma 2, del decreto del Presidente della Repubblica n. 115 del 2002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002;115)
 - [articolo 17 del decreto legislativo 13 aprile 1999, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1999-04-13;112)
 - [D.LGS. 26 OTTOBRE 2020, N. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2020-10-26;147)
@@ -72,7 +69,6 @@ search:
 - [articolo 110, comma 3, del decreto legislativo 18 aprile 2016, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2016-04-18;50)
 - [legge 24 marzo 2001, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-03-24;89)
 - [articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400)
-- [regio decreto 16 marzo 1942, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regiodecreto:1942-03-16;267)
 - [direttiva 2014/59/UE o del regolamento](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:direttivaue:2014;59)
 - [(UE) 2021/23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:direttivaue:2021;23)
 - [decreto legislativo 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1998-02-24;58)

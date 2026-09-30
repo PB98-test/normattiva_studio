@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Deduzioni"
-dataVigenza: "20260914"
-ordine: 479
+dataVigenza: "20260930"
+ordine: 480
 ---
 
 # Art. 396 - ***Deduzioni***

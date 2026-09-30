@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Presentazione della richiesta del pubblico ministero"
-dataVigenza: "20260914"
-ordine: 503
+dataVigenza: "20260930"
+ordine: 504
 ---
 
 # Art. 416 - ***Presentazione della richiesta del pubblico ministero***

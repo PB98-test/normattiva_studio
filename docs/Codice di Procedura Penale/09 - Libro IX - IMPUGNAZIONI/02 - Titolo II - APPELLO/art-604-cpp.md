@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Questioni di nullità"
-dataVigenza: "20260914"
-ordine: 726
+dataVigenza: "20260930"
+ordine: 727
 ---
 
 # Art. 604 - ***Questioni di nullità***
@@ -26,7 +26,7 @@ ordine: 726
 
 3\. Quando vi è stata condanna per un reato concorrente o per un fatto nuovo, il giudice di appello dichiara nullo il relativo capo della sentenza ed elimina la pena corrispondente, disponendo che del provvedimento sia data notizia al pubblico ministero per le sue determinazioni.
 
-4\. Il giudice di appello, se accerta una delle nullità indicate nell'[articolo 179](../../02%20-%20Libro%20II%20-%20ATTI/07%20-%20Titolo%20VII%20-%20NULLITÀ/art-179-cpp.md), da cui sia derivata la nullità del provvedimento che dispone il giudizio o della sentenza di primo grado, la dichiara con sentenza e rinvia gli atti al giudice che procedeva quando si è verificata la nullità. Nello stesso modo il giudice provvede se accerta una delle nullità indicate nell'[articolo 180](../../02%20-%20Libro%20II%20-%20ATTI/07%20-%20Titolo%20VII%20-%20NULLITÀ/art-180-cpp.md) che non sia stata sanata e da cui sia derivata la nullità del provvedimento che dispone il giudizio o della sentenza di primo grado.
+4\. Il giudice di appello, se accerta una delle nullità indicate nell'[articolo 179](../../02%20-%20Libro%20II%20-%20ATTI/08%20-%20Titolo%20VII%20-%20NULLITÀ/art-179-cpp.md), da cui sia derivata la nullità del provvedimento che dispone il giudizio o della sentenza di primo grado, la dichiara con sentenza e rinvia gli atti al giudice che procedeva quando si è verificata la nullità. Nello stesso modo il giudice provvede se accerta una delle nullità indicate nell'[articolo 180](../../02%20-%20Libro%20II%20-%20ATTI/08%20-%20Titolo%20VII%20-%20NULLITÀ/art-180-cpp.md) che non sia stata sanata e da cui sia derivata la nullità del provvedimento che dispone il giudizio o della sentenza di primo grado.
 
 5\. Se si tratta di altre nullità che non sono state sanate, il giudice di appello può ordinare la rinnovazione degli atti nulli o anche, dichiarata la nullità, decidere nel merito, qualora riconosca che l'atto non fornisce elementi necessari al giudizio.
 

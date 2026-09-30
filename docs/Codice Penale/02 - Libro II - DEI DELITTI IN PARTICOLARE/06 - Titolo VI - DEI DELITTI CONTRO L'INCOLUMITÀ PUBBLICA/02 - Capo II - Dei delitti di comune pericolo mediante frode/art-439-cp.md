@@ -14,8 +14,8 @@ capo_label: "Dei delitti di comune pericolo mediante frode"
 sezione: null
 sezione_label: null
 rubrica: "Avvelenamento di acque o di sostanze alimentari"
-dataVigenza: "20260914"
-ordine: 533
+dataVigenza: "20260930"
+ordine: 534
 ---
 
 # Art. 439 - ***Avvelenamento di acque o di sostanze alimentari***

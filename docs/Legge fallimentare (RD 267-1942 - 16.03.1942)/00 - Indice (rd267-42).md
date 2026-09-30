@@ -163,7 +163,7 @@ aliases:
 
 ##### Sezione II - Della vendita dei beni
 - [Art. 105](02%20-%20Titolo%20II%20-%20DEL%20FALLIMENTO/06%20-%20Capo%20VI%20-%20Dell%27esercizio%20provvisorio%20e%20della%20liquidazione%20dell%27attivo/02%20-%20Sezione%20II%20-%20Della%20vendita%20dei%20beni/art-105-rd267-42.md) — Vendita dell'azienda, di rami, di beni e rapporti in blocco
-- [Art. 106](02%20-%20Titolo%20II%20-%20DEL%20FALLIMENTO/06%20-%20Capo%20VI%20-%20Dell%27esercizio%20provvisorio%20e%20della%20liquidazione%20dell%27attivo/02%20-%20Sezione%20II%20-%20Della%20vendita%20dei%20beni/art-106-rd267-42.md) — ((Cessione
+- [Art. 106](02%20-%20Titolo%20II%20-%20DEL%20FALLIMENTO/06%20-%20Capo%20VI%20-%20Dell%27esercizio%20provvisorio%20e%20della%20liquidazione%20dell%27attivo/02%20-%20Sezione%20II%20-%20Della%20vendita%20dei%20beni/art-106-rd267-42.md) — Cessione dei crediti, dei diritti e delle quote, delle azioni, mandato a riscuotere
 - [Art. 107](02%20-%20Titolo%20II%20-%20DEL%20FALLIMENTO/06%20-%20Capo%20VI%20-%20Dell%27esercizio%20provvisorio%20e%20della%20liquidazione%20dell%27attivo/02%20-%20Sezione%20II%20-%20Della%20vendita%20dei%20beni/art-107-rd267-42.md) — Modalità delle vendite
 - [Art. 108](02%20-%20Titolo%20II%20-%20DEL%20FALLIMENTO/06%20-%20Capo%20VI%20-%20Dell%27esercizio%20provvisorio%20e%20della%20liquidazione%20dell%27attivo/02%20-%20Sezione%20II%20-%20Della%20vendita%20dei%20beni/art-108-rd267-42.md) — Poteri del giudice delegato
 - [Art. 108-bis](02%20-%20Titolo%20II%20-%20DEL%20FALLIMENTO/06%20-%20Capo%20VI%20-%20Dell%27esercizio%20provvisorio%20e%20della%20liquidazione%20dell%27attivo/02%20-%20Sezione%20II%20-%20Della%20vendita%20dei%20beni/art-108-bis-rd267-42.md) — *(abrogato)*
@@ -349,7 +349,7 @@ aliases:
 - [Art. 234](06%20-%20Titolo%20VI%20-%20DISPOSIZIONI%20PENALI/02%20-%20Capo%20II%20-%20Reati%20commessi%20da%20persone%20diverse%20dal%20fallito/art-234-rd267-42.md) — Esercizio abusivo di attività commerciale
 - [Art. 235](06%20-%20Titolo%20VI%20-%20DISPOSIZIONI%20PENALI/02%20-%20Capo%20II%20-%20Reati%20commessi%20da%20persone%20diverse%20dal%20fallito/art-235-rd267-42.md) — Omessa trasmissione dell'elenco dei protesti cambiari
 
-#### Capo III - Disposizioni applicabili nel caso di concordato preventivo, accordi di ristrutturazione dei debiti, piani attestati e liquidazione coatta amministrativa .
+#### Capo III - Disposizioni applicabili nel caso di concordato preventivo, accordi di ristrutturazione dei debiti, piani attestati e liquidazione coatta amministrativa
 - [Art. 236](06%20-%20Titolo%20VI%20-%20DISPOSIZIONI%20PENALI/03%20-%20Capo%20III%20-%20Disposizioni%20applicabili%20nel%20caso%20di%20concordato%20preventivo,%20accordi%20d/art-236-rd267-42.md) — Concordato preventivo e, accordo di ristrutturazione con intermediari finanziari, e convenzione di moratoria e amministrazione controllata
 - [Art. 236-bis](06%20-%20Titolo%20VI%20-%20DISPOSIZIONI%20PENALI/03%20-%20Capo%20III%20-%20Disposizioni%20applicabili%20nel%20caso%20di%20concordato%20preventivo,%20accordi%20d/art-236-bis-rd267-42.md) — Falso in attestazioni e relazioni
 - [Art. 237](06%20-%20Titolo%20VI%20-%20DISPOSIZIONI%20PENALI/03%20-%20Capo%20III%20-%20Disposizioni%20applicabili%20nel%20caso%20di%20concordato%20preventivo,%20accordi%20d/art-237-rd267-42.md) — Liquidazione coatta amministrativa

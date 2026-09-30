@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Divieto di assumere informazioni"
-dataVigenza: "20260914"
-ordine: 524
+dataVigenza: "20260930"
+ordine: 525
 ---
 
 # Art. 430-bis - ***Divieto di assumere informazioni***

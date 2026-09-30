@@ -15,7 +15,7 @@ aliases:
 
 ##### Sezione I - Della procedura di negoziazione assistita
 - [Art. 2](02%20-%20Capo%20II%20-%20Procedura%20di%20negoziazione%20assistita%20da%20...%20avvocati/01%20-%20Sezione%20I%20-%20Della%20procedura%20di%20negoziazione%20assistita/art-2-dl132-14.md) — Convenzione di negoziazione assistita da avvocati [^agg-7] [^agg-8]
-- [Art. 2-bis](02%20-%20Capo%20II%20-%20Procedura%20di%20negoziazione%20assistita%20da%20...%20avvocati/01%20-%20Sezione%20I%20-%20Della%20procedura%20di%20negoziazione%20assistita/art-2-bis-dl132-14.md) — (Negoziazione assistita in modalità telematica e incontri con collegamento audiovisivo da remoto).
+- [Art. 2-bis](02%20-%20Capo%20II%20-%20Procedura%20di%20negoziazione%20assistita%20da%20...%20avvocati/01%20-%20Sezione%20I%20-%20Della%20procedura%20di%20negoziazione%20assistita/art-2-bis-dl132-14.md) — Negoziazione assistita in modalità telematica e incontri con collegamento audiovisivo da remoto
 - [Art. 2-ter](02%20-%20Capo%20II%20-%20Procedura%20di%20negoziazione%20assistita%20da%20...%20avvocati/01%20-%20Sezione%20I%20-%20Della%20procedura%20di%20negoziazione%20assistita/art-2-ter-dl132-14.md) — Negoziazione assistita nelle controversie di lavoro
 - [Art. 3](02%20-%20Capo%20II%20-%20Procedura%20di%20negoziazione%20assistita%20da%20...%20avvocati/01%20-%20Sezione%20I%20-%20Della%20procedura%20di%20negoziazione%20assistita/art-3-dl132-14.md) — Improcedibilità
 - [Art. 4](02%20-%20Capo%20II%20-%20Procedura%20di%20negoziazione%20assistita%20da%20...%20avvocati/01%20-%20Sezione%20I%20-%20Della%20procedura%20di%20negoziazione%20assistita/art-4-dl132-14.md) — Non accettazione dell'invito e mancato accordo
@@ -54,13 +54,13 @@ aliases:
 - [Art. 17](05%20-%20Capo%20V%20-%20Altre%20disposizioni%20per%20la%20tutela%20del%20credito%20nonchè%20per%20la%20semplificazi/art-17-dl132-14.md) — Misure per il contrasto del ritardo nei pagamenti
 - [Art. 18](05%20-%20Capo%20V%20-%20Altre%20disposizioni%20per%20la%20tutela%20del%20credito%20nonchè%20per%20la%20semplificazi/art-18-dl132-14.md) — Iscrizione a ruolo del processo esecutivo per espropriazione
 - [Art. 19](05%20-%20Capo%20V%20-%20Altre%20disposizioni%20per%20la%20tutela%20del%20credito%20nonchè%20per%20la%20semplificazi/art-19-dl132-14.md) — Misure per l'efficienza e la semplificazione del processo esecutivo
-- [Art. 19-bis](05%20-%20Capo%20V%20-%20Altre%20disposizioni%20per%20la%20tutela%20del%20credito%20nonchè%20per%20la%20semplificazi/art-19-bis-dl132-14.md) — (Crediti delle rappresentanze diplomatiche e consolari straniere).
+- [Art. 19-bis](05%20-%20Capo%20V%20-%20Altre%20disposizioni%20per%20la%20tutela%20del%20credito%20nonchè%20per%20la%20semplificazi/art-19-bis-dl132-14.md) — Crediti delle rappresentanze diplomatiche e consolari straniere
 - [Art. 20](05%20-%20Capo%20V%20-%20Altre%20disposizioni%20per%20la%20tutela%20del%20credito%20nonchè%20per%20la%20semplificazi/art-20-dl132-14.md) — Monitoraggio delle procedure esecutive individuali e concorsuali e deposito della nota di iscrizione a ruolo con modalità telematiche.
 
 #### Capo VI - Misure per il miglioramento dell'organizzazione giudiziaria
 - [Art. 21](06%20-%20Capo%20VI%20-%20Misure%20per%20il%20miglioramento%20dell%27organizzazione%20giudiziaria/art-21-dl132-14.md) — Disposizioni in tema di tramutamenti successivi dei magistrati
-- [Art. 21-bis](06%20-%20Capo%20VI%20-%20Misure%20per%20il%20miglioramento%20dell%27organizzazione%20giudiziaria/art-21-bis-dl132-14.md) — (Istituzione dell'ufficio del giudice di pace di Ostia e ripristino dell'ufficio del giudice di pace di Barra).
+- [Art. 21-bis](06%20-%20Capo%20VI%20-%20Misure%20per%20il%20miglioramento%20dell%27organizzazione%20giudiziaria/art-21-bis-dl132-14.md) — Istituzione dell'ufficio del giudice di pace di Ostia e ripristino dell'ufficio del giudice di pace di Barra
 
 #### Capo VII - Disposizioni finali
-- [Art. 22](07%20-%20Capo%20VII%20-%20Disposizioni%20finali/art-22-dl132-14.md) — (Disposizioni finanziarie).
+- [Art. 22](07%20-%20Capo%20VII%20-%20Disposizioni%20finali/art-22-dl132-14.md) — Disposizioni finanziarie
 - [Art. 23](07%20-%20Capo%20VII%20-%20Disposizioni%20finali/art-23-dl132-14.md) — Entrata in vigore

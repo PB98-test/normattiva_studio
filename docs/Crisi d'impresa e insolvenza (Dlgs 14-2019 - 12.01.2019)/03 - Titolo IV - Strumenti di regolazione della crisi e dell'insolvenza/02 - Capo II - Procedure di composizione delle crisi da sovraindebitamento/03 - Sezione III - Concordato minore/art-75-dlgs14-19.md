@@ -14,7 +14,7 @@ capo_label: "Procedure di composizione delle crisi da sovraindebitamento"
 sezione: "III"
 sezione_label: "Concordato minore"
 rubrica: "Documentazione e trattamento dei crediti privilegiati"
-dataVigenza: "20260925"
+dataVigenza: "20260930"
 ordine: 89
 ---
 
@@ -25,7 +25,7 @@ ordine: 89
 - a) il piano con i bilanci, le scritture contabili e fiscali obbligatorie, le dichiarazioni dei redditi, le dichiarazioni IRAP e le dichiarazioni annuali IVA concernenti i tre anni anteriori o gli ultimi esercizi precedenti se l'attività ha avuto minor durata;
 - b) una relazione aggiornata sulla situazione economico-patrimoniale e finanziaria;
 - c) l'elenco di tutti i creditori, con le rispettive cause di prelazione e l'indicazione delle somme dovute. L'elenco deve contenere l'indicazione del domicilio digitale dei creditori che ne sono muniti;
-- d) gli atti eccedenti l'ordinaria amministrazione di cui all'articolo 94, comma 2, compiuti negli ultimi cinque anni;
+- d) gli atti eccedenti l'ordinaria amministrazione di cui all'[articolo 94](../../03%20-%20Capo%20III%20-%20Concordato%20preventivo/03%20-%20Sezione%20III%20-%20Effetti%20del%20concordato%20preventivo/art-94-dlgs14-19.md), comma 2, compiuti negli ultimi cinque anni;
 - e) la documentazione relativa a stipendi, pensioni, salari e altre entrate proprie e della famiglia, con l'indicazione di quanto occorra al mantenimento della stessa.
 
 2\. È possibile prevedere che i crediti muniti di privilegio, pegno o ipoteca possano essere soddisfatti non integralmente, allorchè ne sia assicurato il pagamento in misura non inferiore a quella realizzabile, in ragione della collocazione preferenziale sul ricavato in caso di liquidazione, avuto riguardo al valore di mercato attribuibile ai beni o ai diritti sui quali insiste la causa di prelazione, come attestato dagli organismi di composizione della crisi.

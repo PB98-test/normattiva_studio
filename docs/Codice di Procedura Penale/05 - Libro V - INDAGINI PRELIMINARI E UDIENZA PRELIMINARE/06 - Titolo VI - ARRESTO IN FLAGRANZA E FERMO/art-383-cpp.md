@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Facoltà di arresto da parte dei privati"
-dataVigenza: "20260914"
-ordine: 455
+dataVigenza: "20260930"
+ordine: 456
 ---
 
 # Art. 383 - ***Facoltà di arresto da parte dei privati***

@@ -15,8 +15,8 @@ sezione: null
 sezione_label: null
 rubrica: null
 abrogato: true
-dataVigenza: "20260914"
-ordine: 590
+dataVigenza: "20260930"
+ordine: 591
 ---
 
 # Art. 485 - *(Omissis)*

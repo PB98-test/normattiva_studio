@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 580"
+title: "Art. 580 - Diritti dei figli non riconoscibili"
 articolo: "Art. 580"
 codice: cc
 aliases:
@@ -13,14 +13,12 @@ capo: "I"
 capo_label: "Della successione dei parenti"
 sezione: null
 sezione_label: null
-rubrica: null
-dataVigenza: "20260914"
+rubrica: "Diritti dei figli non riconoscibili"
+dataVigenza: "20260930"
 ordine: 667
 ---
 
-# Art. 580
-
-Diritti dei figli non riconoscibili.
+# Art. 580 - ***Diritti dei figli non riconoscibili***
 
 Ai figli aventi diritto al mantenimento, all'istruzione e alla educazione, a norma dell'[articolo 279](../../../01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/07%20-%20Titolo%20VII%20-%20DELLO%20STATO%20DI%20FIGLIO/05%20-%20Capo%20V%20-%20Della%20dichiarazione%20giudiziale%20della%20paternità%20e%20della%20maternità/art-279-cc.md), spetta un assegno vitalizio pari all'ammontare della rendita della quota di eredità alla quale avrebbero diritto, se la filiazione fosse stata dichiarata o riconosciuta.
 

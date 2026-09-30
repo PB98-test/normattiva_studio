@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 122-bis - (Verifiche e controlli). 1. Il Presidente del Consiglio dei Ministri o il Ministro da lui delegato in materia di politiche antidroga anche sulla base dei dati trasmessi dalle regioni ai sensi dell'articolo 117, comma 4, presenta annualmente al Parlamento una relazione sull'attività svolta dal servizio pubblico per le tossicodipendenze e dalle comunità terapeutiche, con particolare riferimento ai programmi terapeutici definiti ed effettivamente eseguiti dai tossicodipendenti e all' efficacia dei programmi medesimi"
+title: "Art. 122-bis - Verifiche e controlli"
 articolo: "Art. 122-bis"
 codice: dpr309-90
 aliases:
@@ -13,9 +13,11 @@ capo: null
 capo_label: null
 sezione: null
 sezione_label: null
-rubrica: "(Verifiche e controlli). 1. Il Presidente del Consiglio dei Ministri o il Ministro da lui delegato in materia di politiche antidroga anche sulla base dei dati trasmessi dalle regioni ai sensi dell'articolo 117, comma 4, presenta annualmente al Parlamento una relazione sull'attività svolta dal servizio pubblico per le tossicodipendenze e dalle comunità terapeutiche, con particolare riferimento ai programmi terapeutici definiti ed effettivamente eseguiti dai tossicodipendenti e all' efficacia dei programmi medesimi"
-dataVigenza: "20260914"
+rubrica: "Verifiche e controlli"
+dataVigenza: "20260930"
 ordine: 130
 ---
 
-# Art. 122-bis - ***(Verifiche e controlli). 1. Il Presidente del Consiglio dei Ministri o il Ministro da lui delegato in materia di politiche antidroga anche sulla base dei dati trasmessi dalle regioni ai sensi dell'articolo 117, comma 4, presenta annualmente al Parlamento una relazione sull'attività svolta dal servizio pubblico per le tossicodipendenze e dalle comunità terapeutiche, con particolare riferimento ai programmi terapeutici definiti ed effettivamente eseguiti dai tossicodipendenti e all' efficacia dei programmi medesimi***
+# Art. 122-bis - ***Verifiche e controlli***
+
+1\. Il Presidente del Consiglio dei Ministri o il Ministro da lui delegato in materia di politiche antidroga anche sulla base dei dati trasmessi dalle regioni ai sensi dell'[articolo 117](../10%20-%20Titolo%20X%20-%20ATTRIBUZIONI%20REGIONALI,%20PROVINCIALI%20E%20LOCALI.%20SERVIZI%20PER%20LE%20TOSSICOD/art-117-dpr309-90.md), comma 4, presenta annualmente al Parlamento una relazione sull'attività svolta dal servizio pubblico per le tossicodipendenze e dalle comunità terapeutiche, con particolare riferimento ai programmi terapeutici definiti ed effettivamente eseguiti dai tossicodipendenti e all' efficacia dei programmi medesimi

@@ -14,13 +14,13 @@ capo_label: "Accesso agli strumenti di regolazione della crisi e dell'insolvenza
 sezione: "II"
 sezione_label: "Procedimento unitario per l'accesso agli strumenti di regolazione della crisi e dell'insolvenza e alla liquidazione giudiziale"
 rubrica: "Effetti della domanda di accesso al concordato preventivo"
-dataVigenza: "20260925"
+dataVigenza: "20260930"
 ordine: 57
 ---
 
 # Art. 46 - ***Effetti della domanda di accesso al concordato preventivo***
 
-1\. Dopo il deposito della domanda di accesso al concordato preventivo ... e fino al decreto di apertura di cui all'articolo 47, il debitore può compiere gli atti urgenti di straordinaria amministrazione previa autorizzazione del tribunale. In difetto di autorizzazione gli atti sono inefficaci ....
+1\. Dopo il deposito della domanda di accesso al concordato preventivo ... e fino al decreto di apertura di cui all'[articolo 47](art-47-dlgs14-19.md), il debitore può compiere gli atti urgenti di straordinaria amministrazione previa autorizzazione del tribunale. In difetto di autorizzazione gli atti sono inefficaci ....
 
 2\. La domanda di autorizzazione contiene idonee informazioni sul contenuto del piano. Il tribunale può assumere ulteriori informazioni, anche da terzi, e acquisisce il parere del commissario giudiziale, se nominato.
 

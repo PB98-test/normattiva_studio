@@ -14,8 +14,8 @@ capo_label: "ATTI INTRODUTTIVI"
 sezione: null
 sezione_label: null
 rubrica: "Rimedi per l'imputato contro il quale si è proceduto in assenza nell'udienza preliminare"
-dataVigenza: "20260914"
-ordine: 594
+dataVigenza: "20260930"
+ordine: 595
 ---
 
 # Art. 489 - ***Rimedi per l'imputato contro il quale si è proceduto in assenza nell'udienza preliminare***

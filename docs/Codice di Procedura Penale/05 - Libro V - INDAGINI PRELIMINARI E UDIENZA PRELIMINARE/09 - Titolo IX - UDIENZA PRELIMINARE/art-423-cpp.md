@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Modificazione dell'imputazione"
-dataVigenza: "20260914"
-ordine: 516
+dataVigenza: "20260930"
+ordine: 517
 ---
 
 # Art. 423 - ***Modificazione dell'imputazione***

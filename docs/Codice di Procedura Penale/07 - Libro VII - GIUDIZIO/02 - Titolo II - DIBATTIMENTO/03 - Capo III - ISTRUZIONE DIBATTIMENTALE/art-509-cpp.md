@@ -14,8 +14,8 @@ capo_label: "ISTRUZIONE DIBATTIMENTALE"
 sezione: null
 sezione_label: null
 rubrica: "Sospensione del dibattimento per esigenze istruttorie"
-dataVigenza: "20260914"
-ordine: 615
+dataVigenza: "20260930"
+ordine: 616
 ---
 
 # Art. 509 - ***Sospensione del dibattimento per esigenze istruttorie***

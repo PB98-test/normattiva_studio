@@ -14,8 +14,8 @@ capo_label: "ISTRUZIONE DIBATTIMENTALE"
 sezione: null
 sezione_label: null
 rubrica: "Esame dei periti e dei consulenti tecnici"
-dataVigenza: "20260914"
-ordine: 607
+dataVigenza: "20260930"
+ordine: 608
 ---
 
 # Art. 501 - ***Esame dei periti e dei consulenti tecnici***

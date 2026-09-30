@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 9-ter - (Divieto di gareggiare in velocità con veicoli a motore)."
+title: "Art. 9-ter - Divieto di gareggiare in velocità con veicoli a motore"
 articolo: "Art. 9-ter"
 codice: dlgs285-92
 aliases:
@@ -13,12 +13,12 @@ capo: null
 capo_label: null
 sezione: null
 sezione_label: null
-rubrica: "(Divieto di gareggiare in velocità con veicoli a motore)."
-dataVigenza: "20260914"
+rubrica: "Divieto di gareggiare in velocità con veicoli a motore"
+dataVigenza: "20260930"
 ordine: 11
 ---
 
-# Art. 9-ter - ***(Divieto di gareggiare in velocità con veicoli a motore).***
+# Art. 9-ter - ***Divieto di gareggiare in velocità con veicoli a motore***
 
 1\. Fuori dei casi previsti dall'[articolo 9-bis](art-9-bis-dlgs285-92.md), chiunque gareggia in velocità con veicoli a motore è punito con la reclusione da sei mesi ad un anno e con la multa da euro 5.000 a euro 20.000.
 

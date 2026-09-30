@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 559 - (Dibattimento)"
+title: "Art. 559 - Dibattimento"
 articolo: "Art. 559"
 codice: cpp
 aliases:
@@ -13,16 +13,16 @@ capo: null
 capo_label: null
 sezione: null
 sezione_label: null
-rubrica: "(Dibattimento)"
-dataVigenza: "20260914"
-ordine: 675
+rubrica: "Dibattimento"
+dataVigenza: "20260930"
+ordine: 676
 ---
 
-# Art. 559 - ***(Dibattimento)***
+# Art. 559 - ***Dibattimento***
 
 1\. Il dibattimento si svolge secondo le norme stabilite per il procedimento davanti al tribunale in composizione collegiale, quanto applicabili.
 
-2\. Anche fuori dei casi previsti dall'[articolo 140](../../02%20-%20Libro%20II%20-%20ATTI/03%20-%20Titolo%20III%20-%20DOCUMENTAZIONE%20DEGLI%20ATTI/art-140-cpp.md), il verbale di udienza è redatto soltanto in forma riassuntiva se le parti vi consentono e il giudice non ritiene necessaria la redazione in forma integrale.
+2\. Anche fuori dei casi previsti dall'[articolo 140](../../02%20-%20Libro%20II%20-%20ATTI/04%20-%20Titolo%20III%20-%20DOCUMENTAZIONE%20DEGLI%20ATTI/art-140-cpp.md), il verbale di udienza è redatto soltanto in forma riassuntiva se le parti vi consentono e il giudice non ritiene necessaria la redazione in forma integrale.
 
 3\. L'esame diretto e il controesame dei testimoni, dei periti, dei consulenti tecnici, delle persone indicate nell'[articolo 210](../../03%20-%20Libro%20III%20-%20PROVE/02%20-%20Titolo%20II%20-%20MEZZI%20DI%20PROVA/02%20-%20Capo%20II%20-%20ESAME%20DELLE%20PARTI/art-210-cpp.md) e delle parti private sono svolti dal pubblico ministero e dai difensori. Su concorde richiesta delle parti, l'esame può essere condotto direttamente, dal giudice sulla base delle domande e contestazioni proposte dal pubblico ministero e dai difensori.
 

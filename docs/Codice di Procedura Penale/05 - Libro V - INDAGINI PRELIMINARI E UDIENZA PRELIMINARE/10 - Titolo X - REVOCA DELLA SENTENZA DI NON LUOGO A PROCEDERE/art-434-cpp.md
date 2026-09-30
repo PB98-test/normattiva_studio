@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Casi di revoca"
-dataVigenza: "20260914"
-ordine: 528
+dataVigenza: "20260930"
+ordine: 529
 ---
 
 # Art. 434 - ***Casi di revoca***

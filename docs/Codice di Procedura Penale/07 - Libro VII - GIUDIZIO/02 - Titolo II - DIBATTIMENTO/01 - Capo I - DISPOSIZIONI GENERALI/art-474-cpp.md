@@ -14,8 +14,8 @@ capo_label: "DISPOSIZIONI GENERALI"
 sezione: null
 sezione_label: null
 rubrica: "Assistenza dell'imputato all'udienza"
-dataVigenza: "20260914"
-ordine: 579
+dataVigenza: "20260930"
+ordine: 580
 ---
 
 # Art. 474 - ***Assistenza dell'imputato all'udienza***

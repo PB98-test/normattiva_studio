@@ -15,8 +15,8 @@ sezione: null
 sezione_label: null
 rubrica: null
 abrogato: true
-dataVigenza: "20260914"
-ordine: 991
+dataVigenza: "20260930"
+ordine: 992
 ---
 
 # Art. 731 - *(Omissis)*

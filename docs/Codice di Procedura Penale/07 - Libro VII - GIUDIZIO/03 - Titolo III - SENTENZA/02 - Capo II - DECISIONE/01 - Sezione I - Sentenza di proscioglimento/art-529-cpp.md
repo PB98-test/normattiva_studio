@@ -14,8 +14,8 @@ capo_label: "DECISIONE"
 sezione: "I"
 sezione_label: "Sentenza di proscioglimento"
 rubrica: "Sentenza di non doversi procedere"
-dataVigenza: "20260914"
-ordine: 638
+dataVigenza: "20260930"
+ordine: 639
 ---
 
 # Art. 529 - ***Sentenza di non doversi procedere***

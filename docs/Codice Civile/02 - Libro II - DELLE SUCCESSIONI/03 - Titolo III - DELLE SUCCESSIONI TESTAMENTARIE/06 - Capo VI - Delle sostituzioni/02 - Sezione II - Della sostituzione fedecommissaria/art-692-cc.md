@@ -14,7 +14,7 @@ capo_label: "Delle sostituzioni"
 sezione: "II"
 sezione_label: "Della sostituzione fedecommissaria"
 rubrica: "Sostituzione fedecommissaria."
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 779
 ---
 
@@ -22,7 +22,7 @@ ordine: 779
 
 Ciascuno dei genitori o degli altri ascendenti in linea retta o il coniuge dell'interdetto possono istituire rispettivamente il figlio, il discendente, o il coniuge con l'obbligo di conservare e restituire alla sua morte i beni anche costituenti la legittima, a favore della persona o degli enti che, sotto la vigilanza del tutore, hanno avuto cura dell'interdetto medesimo.
 
-La stessa disposizione si applica nel caso del minore di età, se trovasi nelle condizioni di abituale infermità di mente tali da far presumere che nel termine indicato dall'[articolo 416](../../../../01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/12%20-%20Titolo%20XII%20-%20Delle%20misure%20di%20protezione%20delle%20persone%20prive%20in%20tutto%20od%20in%20parte/02%20-%20Capo%20II%20-%20Della%20interdizione,%20della%20inabilitazione%20e%20della%20incapacità%20naturale/art-416-cc.md) interverrà la pronuncia di interdizione.
+La stessa disposizione si applica nel caso del minore di età, se trovasi nelle condizioni di abituale infermità di mente tali da far presumere che nel termine indicato dall'[articolo 416](../../../../01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/13%20-%20Titolo%20XII%20-%20Delle%20misure%20di%20protezione%20delle%20persone%20prive%20in%20tutto%20od%20in%20parte/02%20-%20Capo%20II%20-%20Della%20interdizione,%20della%20inabilitazione%20e%20della%20incapacità%20naturale/art-416-cc.md) interverrà la pronuncia di interdizione.
 
 Nel caso di pluralità di persone o enti di cui al primo comma i beni sono attribuiti proporzionalmente al tempo durante il quale gli stessi hanno avuto cura dell'interdetto.
 

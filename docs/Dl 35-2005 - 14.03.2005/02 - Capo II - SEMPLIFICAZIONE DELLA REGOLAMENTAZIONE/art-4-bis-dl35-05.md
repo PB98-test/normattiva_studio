@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 4-bis - (Trasferimenti erariali alle regioni)"
+title: "Art. 4-bis - Trasferimenti erariali alle regioni"
 articolo: "Art. 4-bis"
 codice: dl35-05
 aliases:
@@ -13,12 +13,12 @@ capo: "II"
 capo_label: "SEMPLIFICAZIONE DELLA REGOLAMENTAZIONE"
 sezione: null
 sezione_label: null
-rubrica: "(Trasferimenti erariali alle regioni)"
-dataVigenza: "20260914"
+rubrica: "Trasferimenti erariali alle regioni"
+dataVigenza: "20260930"
 ordine: 9
 ---
 
-# Art. 4-bis - ***(Trasferimenti erariali alle regioni)***
+# Art. 4-bis - ***Trasferimenti erariali alle regioni***
 
 1\. All'articolo 6, comma 1, del decreto legislativo 18 febbraio 2000, n. 56, le parole: "a decorrere dal 1° gennaio 2005" sono sostituite dalle seguenti: "a decorrere dal 1° gennaio 2006".
 

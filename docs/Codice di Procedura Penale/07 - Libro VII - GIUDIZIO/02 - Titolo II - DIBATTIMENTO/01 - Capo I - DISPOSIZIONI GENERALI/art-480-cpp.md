@@ -14,8 +14,8 @@ capo_label: "DISPOSIZIONI GENERALI"
 sezione: null
 sezione_label: null
 rubrica: "Verbale di udienza"
-dataVigenza: "20260914"
-ordine: 585
+dataVigenza: "20260930"
+ordine: 586
 ---
 
 # Art. 480 - ***Verbale di udienza***

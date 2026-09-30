@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da L. 197-2022 - 29.12.2022 ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di L. 197-2022 - 29.12.2022 — 498 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di L. 197-2022 - 29.12.2022 — 490 leggi trovate)*
 
 - [articolo 21, comma 1-ter, lettera a), della legge 31 dicembre 2009, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196)
 - [articolo 17 del decreto legislativo 9 luglio 1997, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1997-07-09;241)
@@ -47,7 +47,7 @@ search:
 - [articolo 1, comma 702, della legge 30 dicembre 2021, n. 234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-12-30;234)
 - [articolo 1 della legge 23 dicembre 2014, n. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190)
 - [articolo 5 della legge 25 agosto 1991, n. 287](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-08-25;287)
-- [direttiva (UE) 2024/2831](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:direttivaue:2024;2831)
+- [direttiva (UE) 2024/2831 del Parlamento europeo e del Consiglio, del 23 ottobre 2024](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:direttivaue:2024;2831)
 - [articolo 1, comma 182, della legge 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208)
 - [articolo 1 della legge 27 dicembre 2019, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160)
 - [legge 27 dicembre 2013, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-12-27;147)
@@ -84,7 +84,6 @@ search:
 - [decreto legislativo 6 settembre 2005, n. 206](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2005-09-06;206)
 - [articolo 24, comma 13, lettera a), della legge 7 luglio 2009, n. 88](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-07;88)
 - [articolo 110, comma 6, del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regiodecreto:1931-06-18;773)
-- [lettere i)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2007-11-21;231)
 - [decreto legislativo 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1998-02-24;58)
 - [decreto-legge 28 giugno 1990, n. 167](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:1990-06-28;167)
 - [legge 4 agosto 1990, n. 227](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-04;227)
@@ -119,13 +118,10 @@ search:
 - [decreto-legge 22 marzo 2021, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2021-03-22;41)
 - [legge 21 maggio 2021, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-05-21;69)
 - [articolo 4 del decreto-legge 23 ottobre 2018, n. 119](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2018-10-23;119)
-- [articolo 27, sesto comma, della legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689)
 - [articolo 27, comma 1, del decreto legislativo 26 febbraio 1999, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1999-02-26;46)
 - [articolo 54 del decreto-legge 24 aprile 2017, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2017-04-24;50)
 - [legge 21 giugno 2017, n. 96](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-06-21;96)
 - [legge 27 gennaio 2012, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-01-27;3)
-- [decreto legislativo 12 gennaio 2019, n. 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2019-01-12;14)
-- [regio decreto 16 marzo 1942, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regiodecreto:1942-03-16;267)
 - [articolo 6, comma 2, del decreto-legge 22 ottobre 2016, n. 193](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2016-10-22;193)
 - [legge 1° dicembre 2016, n. 225](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-01;225)
 - [articolo 1, comma 5, del decreto-legge 16 ottobre 2017, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2017-10-16;148)
@@ -190,7 +186,6 @@ search:
 - [decreto-legge n. 93 del 2013](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2013;93)
 - [articolo 19 del decreto legislativo 14 settembre 2015, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2015-09-14;150)
 - [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2015-03-04;22)
-- [articolo 21 della legge 26 luglio 1975, n. 354](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354)
 - [articolo 9-bis del decreto-legge 1° ottobre 1996, n. 510](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:1996-10-01;510)
 - [legge 28 novembre 1996, n. 608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-11-28;608)
 - [articolo 39 del decreto-legge 25 giugno 2008, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2008-06-25;112)
@@ -271,7 +266,6 @@ search:
 - [articolo 30, comma 5, del decreto legislativo 9 aprile 2008, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2008-04-09;81)
 - [comma 1 dell'articolo 43 del decreto-legge 31 maggio 2021, n. 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2021-05-31;77)
 - [legge 29 luglio 2021, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-07-29;108)
-- [decreto legislativo 6 settembre 2011, n. 159](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2011-09-06;159)
 - [articolo 3 della legge 11 gennaio 2018, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-01-11;2)
 - [comma 14-quater dell'articolo 14 del decreto-legge 31 maggio 2010, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2010-05-31;78)
 - [legge 30 luglio 2010, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-07-30;122)
@@ -419,8 +413,6 @@ search:
 - [decreto del Presidente della Repubblica 10 settembre 1990, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1990-09-10;285)
 - [articolo 14 del decreto-legge 20 novembre 1991, n. 367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:1991-11-20;367)
 - [legge 20 gennaio 1992, n. 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-01-20;8)
-- [articolo 67, comma 1, del decreto legislativo 10 ottobre 2022, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2022-10-10;150)
-- [decreto del Presidente della Repubblica 30 maggio 2002, n. 115](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-05-30;115)
 - [decreto legislativo 30 ottobre 1992, n. 443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1992-10-30;443)
 - [articolo 23, comma 2, del decreto legislativo 25 maggio 2017, n. 75](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2017-05-25;75)
 - [articolo 2 del decreto-legge 29 ottobre 2019, n. 126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2019-10-29;126)

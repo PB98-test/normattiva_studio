@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 544"
+title: "Art. 544 - Concorso di ascendenti ... e coniuge"
 articolo: "Art. 544"
 codice: cc
 aliases:
@@ -13,14 +13,12 @@ capo: "X"
 capo_label: "Dei legittimari"
 sezione: "I"
 sezione_label: "Dei diritti riservati ai legittimari"
-rubrica: null
-dataVigenza: "20260914"
+rubrica: "Concorso di ascendenti ... e coniuge"
+dataVigenza: "20260930"
 ordine: 631
 ---
 
-# Art. 544
-
-Concorso di ascendenti ... e coniuge.
+# Art. 544 - ***Concorso di ascendenti ... e coniuge***
 
 Quando chi muore non lascia figli, ma ascendenti ... e il coniuge, a quest'ultimo è riservata la metà del patrimonio, ed agli ascendenti un quarto.(216)
 

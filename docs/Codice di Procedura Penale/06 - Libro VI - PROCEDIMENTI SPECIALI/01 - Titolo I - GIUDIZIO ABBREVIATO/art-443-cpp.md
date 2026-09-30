@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Limiti all'appello"
-dataVigenza: "20260914"
-ordine: 538
+dataVigenza: "20260930"
+ordine: 539
 ---
 
 # Art. 443 - ***Limiti all'appello***

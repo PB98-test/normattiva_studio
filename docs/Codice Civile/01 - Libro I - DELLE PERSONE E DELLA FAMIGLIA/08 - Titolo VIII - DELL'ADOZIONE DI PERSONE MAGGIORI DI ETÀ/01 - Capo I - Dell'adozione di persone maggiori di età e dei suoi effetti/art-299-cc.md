@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 299"
+title: "Art. 299 - Cognome dell'adottato"
 articolo: "Art. 299"
 codice: cc
 aliases:
@@ -13,14 +13,12 @@ capo: "I"
 capo_label: "Dell'adozione di persone maggiori di età e dei suoi effetti"
 sezione: null
 sezione_label: null
-rubrica: null
-dataVigenza: "20260914"
+rubrica: "Cognome dell'adottato"
+dataVigenza: "20260930"
 ordine: 344
 ---
 
-# Art. 299
-
-Cognome dell'adottato.
+# Art. 299 - ***Cognome dell'adottato***
 
 L'adottato assume il cognome dell'adottante e lo antepone al proprio. [^agg-325]
 

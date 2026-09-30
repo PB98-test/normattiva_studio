@@ -14,8 +14,8 @@ capo_label: "DELIBERAZIONE"
 sezione: null
 sezione_label: null
 rubrica: "Immediatezza della deliberazione"
-dataVigenza: "20260914"
-ordine: 634
+dataVigenza: "20260930"
+ordine: 635
 ---
 
 # Art. 525 - ***Immediatezza della deliberazione***

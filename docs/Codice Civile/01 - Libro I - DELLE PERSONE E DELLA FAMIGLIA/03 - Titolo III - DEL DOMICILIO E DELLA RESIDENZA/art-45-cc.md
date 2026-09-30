@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 45"
+title: "Art. 45 - Domicilio dei coniugi, del minore e dell'interdetto"
 articolo: "Art. 45"
 codice: cc
 aliases:
@@ -13,14 +13,12 @@ capo: null
 capo_label: null
 sezione: null
 sezione_label: null
-rubrica: null
-dataVigenza: "20260914"
+rubrica: "Domicilio dei coniugi, del minore e dell'interdetto"
+dataVigenza: "20260930"
 ordine: 77
 ---
 
-# Art. 45
-
-Domicilio dei coniugi, del minore e dell'interdetto.
+# Art. 45 - ***Domicilio dei coniugi, del minore e dell'interdetto***
 
 Ciascuno dei coniugi ha il proprio domicilio nel luogo in cui ha stabilito la sede principale dei propri affari o interessi. [^agg-45]
 

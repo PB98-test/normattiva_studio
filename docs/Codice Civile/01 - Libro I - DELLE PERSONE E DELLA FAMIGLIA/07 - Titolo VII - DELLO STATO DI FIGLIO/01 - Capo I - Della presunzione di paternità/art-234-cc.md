@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 234"
+title: "Art. 234 - Nascita del figlio dopo i trecento giorni"
 articolo: "Art. 234"
 codice: cc
 aliases:
@@ -13,14 +13,12 @@ capo: "I"
 capo_label: "Della presunzione di paternità ..."
 sezione: null
 sezione_label: null
-rubrica: null
-dataVigenza: "20260914"
+rubrica: "Nascita del figlio dopo i trecento giorni"
+dataVigenza: "20260930"
 ordine: 278
 ---
 
-# Art. 234
-
-Nascita del figlio dopo i trecento giorni.
+# Art. 234 - ***Nascita del figlio dopo i trecento giorni***
 
 Ciascuno dei coniugi e i loro eredi possono provare che il figlio, nato dopo i trecento giorni dall'annullamento, dallo scioglimento o dalla cessazione degli effetti civili del matrimonio, è stato concepito durante il matrimonio.
 

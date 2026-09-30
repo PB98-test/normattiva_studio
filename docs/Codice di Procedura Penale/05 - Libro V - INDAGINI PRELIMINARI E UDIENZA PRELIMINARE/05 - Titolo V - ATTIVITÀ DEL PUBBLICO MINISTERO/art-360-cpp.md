@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Accertamenti tecnici non ripetibili"
-dataVigenza: "20260914"
-ordine: 428
+dataVigenza: "20260930"
+ordine: 429
 ---
 
 # Art. 360 - ***Accertamenti tecnici non ripetibili***

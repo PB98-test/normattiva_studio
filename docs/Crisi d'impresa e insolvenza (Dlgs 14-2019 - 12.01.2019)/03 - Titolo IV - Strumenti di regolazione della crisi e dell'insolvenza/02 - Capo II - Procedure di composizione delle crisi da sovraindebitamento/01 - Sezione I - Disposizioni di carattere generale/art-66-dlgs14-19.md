@@ -14,13 +14,13 @@ capo_label: "Procedure di composizione delle crisi da sovraindebitamento"
 sezione: "I"
 sezione_label: "Disposizioni di carattere generale"
 rubrica: "Procedure familiari"
-dataVigenza: "20260925"
+dataVigenza: "20260930"
 ordine: 80
 ---
 
 # Art. 66 - ***Procedure familiari***
 
-1\. I membri della stessa famiglia possono presentare un'unica domanda di accesso ad una delle procedure di cui all'[articolo 65](art-65-dlgs14-19.md), comma 1, quando sono conviventi o quando il sovraindebitamento ha un'origine comune. Quando uno dei debitori non è un consumatore, non si applicano le disposizioni della sezione II del presente capo, ad eccezione dell'articolo 67, comma 5. La domanda di apertura della liquidazione controllata può essere proposta anche se uno o più debitori si trovano nelle condizioni previste dall'articolo 283, se per almeno uno di essi sussistono i presupposti di cui all'articolo 268, comma 3, quarto periodo.
+1\. I membri della stessa famiglia possono presentare un'unica domanda di accesso ad una delle procedure di cui all'[articolo 65](art-65-dlgs14-19.md), comma 1, quando sono conviventi o quando il sovraindebitamento ha un'origine comune. Quando uno dei debitori non è un consumatore, non si applicano le disposizioni della sezione II del presente capo, ad eccezione dell'[articolo 67](../02%20-%20Sezione%20II%20-%20Ristrutturazione%20dei%20debiti%20del%20consumatore/art-67-dlgs14-19.md), comma 5. La domanda di apertura della liquidazione controllata può essere proposta anche se uno o più debitori si trovano nelle condizioni previste dall'[articolo 283](../../../04%20-%20Titolo%20V%20-%20Liquidazione%20giudiziale%20e%20liquidazione%20controllata/10%20-%20Capo%20X%20-%20Esdebitazione/03%20-%20Sezione%20II%20-%20Disposizioni%20in%20materia%20di%20esdebitazione%20nella%20liquidazione%20control/art-283-dlgs14-19.md), se per almeno uno di essi sussistono i presupposti di cui all'[articolo 268](../../../04%20-%20Titolo%20V%20-%20Liquidazione%20giudiziale%20e%20liquidazione%20controllata/09%20-%20Capo%20IX%20-%20Liquidazione%20controllata%20del%20sovraindebitato/art-268-dlgs14-19.md), comma 3, quarto periodo.
 
 2\. Ai fini del comma 1, oltre al coniuge, si considerano membri della stessa famiglia i parenti entro il quarto grado e gli affini entro il secondo, nonchè le parti dell'unione civile e i conviventi di fatto di cui alla legge 20 maggio 2016, n.76.
 

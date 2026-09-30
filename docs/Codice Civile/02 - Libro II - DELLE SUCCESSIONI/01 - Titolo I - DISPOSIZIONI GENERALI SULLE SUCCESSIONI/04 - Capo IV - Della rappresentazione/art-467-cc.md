@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 467"
+title: "Art. 467 - Nozione"
 articolo: "Art. 467"
 codice: cc
 aliases:
@@ -13,14 +13,12 @@ capo: "IV"
 capo_label: "Della rappresentazione"
 sezione: null
 sezione_label: null
-rubrica: null
-dataVigenza: "20260914"
+rubrica: "Nozione"
+dataVigenza: "20260930"
 ordine: 554
 ---
 
-# Art. 467
-
-Nozione.
+# Art. 467 - ***Nozione***
 
 La rappresentazione fa subentrare i discendenti ... nel luogo e nel grado del loro ascendente, in tutti i casi in cui questi non può o non vuole accettare l'eredità o il legato.
 

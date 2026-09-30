@@ -14,8 +14,8 @@ capo_label: "Delle contravvenzioni concernenti la polizia di sicurezza"
 sezione: "III"
 sezione_label: "Delle contravvenzioni concernenti la prevenzione di talune specie di reati § 1 Delle contravvenzioni concernenti la tutela preventiva dei segreti"
 rubrica: "Possesso ingiustificato di chiavi alterate o di grimaldelli"
-dataVigenza: "20260914"
-ordine: 965
+dataVigenza: "20260930"
+ordine: 966
 ---
 
 # Art. 707 - ***Possesso ingiustificato di chiavi alterate o di grimaldelli***

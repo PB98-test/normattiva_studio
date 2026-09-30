@@ -14,8 +14,8 @@ capo_label: "DISCUSSIONE FINALE"
 sezione: null
 sezione_label: null
 rubrica: "Chiusura del dibattimento"
-dataVigenza: "20260914"
-ordine: 633
+dataVigenza: "20260930"
+ordine: 634
 ---
 
 # Art. 524 - ***Chiusura del dibattimento***

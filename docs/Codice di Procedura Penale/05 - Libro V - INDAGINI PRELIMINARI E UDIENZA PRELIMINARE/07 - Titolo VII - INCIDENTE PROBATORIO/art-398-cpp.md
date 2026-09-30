@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Provvedimenti sulla richiesta di incidente probatorio"
-dataVigenza: "20260914"
-ordine: 481
+dataVigenza: "20260930"
+ordine: 482
 ---
 
 # Art. 398 - ***Provvedimenti sulla richiesta di incidente probatorio***

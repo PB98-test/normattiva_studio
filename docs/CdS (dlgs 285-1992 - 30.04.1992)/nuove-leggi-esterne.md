@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da CdS (dlgs 285-1992 - 30.04.1992) ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di CdS (dlgs 285-1992 - 30.04.1992) — 258 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di CdS (dlgs 285-1992 - 30.04.1992) — 255 leggi trovate)*
 
 - [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const)
 - [art. 4, comma 2, della legge 13 giugno 1991, n. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-13;190)
@@ -150,7 +150,6 @@ search:
 - [legge n. 94 del 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009;94)
 - [direttive 2006/126/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:direttivaue:2006;126)
 - [2009/113/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:direttivaue:2009;113)
-- [decreto legislativo 6 settembre 2011, n. 159](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2011-09-06;159)
 - [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-08-13;136)
 - [D.L. 31 GENNAIO 2007, N. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2007-01-31;7)
 - [L. 2 APRILE 2007, N. 40](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-04-02;40)
@@ -174,12 +173,10 @@ search:
 - [legge 6 marzo 1976, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-03-06;112)
 - [articoli 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-11-13;727)
 - [art. 1 della legge n. 146 del 1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;146)
-- [articolo 54 del decreto legislativo 28 agosto 2000, n. 274](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2000-08-28;274)
 - [articolo 59 del decreto legislativo n. 274 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2000;274)
 - [art. 4, comma 1, lettera b), del decreto-legge 23 maggio 2008, n. 92](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2008-05-23;92)
 - [art. 1, comma 1, della legge 24 luglio 2008, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-07-24;125)
 - [articolo 32 della legge 17 maggio 1999, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-05-17;144)
-- [articolo 13, terzo comma, della legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689)
 - [articolo 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445)
 - [D.L. 31 dicembre 2025, n. 200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2025-12-31;200)
 - [D.L. 14 febbraio 2016, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2016-02-14;18)

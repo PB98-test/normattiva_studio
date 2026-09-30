@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Interrogatorio dell'arrestato o del fermato"
-dataVigenza: "20260914"
-ordine: 462
+dataVigenza: "20260930"
+ordine: 463
 ---
 
 # Art. 388 - ***Interrogatorio dell'arrestato o del fermato***

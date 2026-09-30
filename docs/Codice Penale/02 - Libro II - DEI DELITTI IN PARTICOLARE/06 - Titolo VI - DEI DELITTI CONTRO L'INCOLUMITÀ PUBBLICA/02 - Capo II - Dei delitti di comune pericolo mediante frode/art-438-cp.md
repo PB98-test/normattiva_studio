@@ -14,8 +14,8 @@ capo_label: "Dei delitti di comune pericolo mediante frode"
 sezione: null
 sezione_label: null
 rubrica: "Epidemia"
-dataVigenza: "20260914"
-ordine: 532
+dataVigenza: "20260930"
+ordine: 533
 ---
 
 # Art. 438 - ***Epidemia***

@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Interrogatorio di persona imputata in un procedimento connesso"
-dataVigenza: "20260914"
-ordine: 432
+dataVigenza: "20260930"
+ordine: 433
 ---
 
 # Art. 363 - ***Interrogatorio di persona imputata in un procedimento connesso***

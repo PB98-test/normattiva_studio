@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 145"
+title: "Art. 145 - Intervento del giudice"
 articolo: "Art. 145"
 codice: cc
 aliases:
@@ -13,14 +13,12 @@ capo: "IV"
 capo_label: "Dei diritti e dei doveri che nascono dal matrimonio"
 sezione: null
 sezione_label: null
-rubrica: null
-dataVigenza: "20260914"
+rubrica: "Intervento del giudice"
+dataVigenza: "20260930"
 ordine: 180
 ---
 
-# Art. 145
-
-Intervento del giudice.
+# Art. 145 - ***Intervento del giudice***
 
 In caso di disaccordo ciascuno dei coniugi può chiedere, senza formalità, l'intervento del giudice il quale, sentite le opinioni espresse dai coniugi e, dai figli conviventi che abbiano compiuto gli anni dodici o anche di età inferiore ove capaci di discernimento, tenta di raggiungere una soluzione concordata. [^agg-321][^agg-322]
 

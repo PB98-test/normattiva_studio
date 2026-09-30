@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Richiesta di applicazione della pena nel corso delle indagini preliminari"
-dataVigenza: "20260914"
-ordine: 542
+dataVigenza: "20260930"
+ordine: 543
 ---
 
 # Art. 447 - ***Richiesta di applicazione della pena nel corso delle indagini preliminari***

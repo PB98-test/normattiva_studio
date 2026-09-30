@@ -14,8 +14,8 @@ capo_label: "Delle contravvenzioni concernenti la polizia di sicurezza"
 sezione: "I"
 sezione_label: "Delle contravvenzioni concernenti l'ordine pubblico e la tranquillità pubblica § 1 Delle contravvenzioni concernenti l'inosservanza dei provvedimenti di polizia e le manifestazioni sediziose e pericolose"
 rubrica: "Rifiuto di prestare la propria opera in occasione di un tumulto"
-dataVigenza: "20260914"
-ordine: 906
+dataVigenza: "20260930"
+ordine: 907
 ---
 
 # Art. 652 - ***Rifiuto di prestare la propria opera in occasione di un tumulto***

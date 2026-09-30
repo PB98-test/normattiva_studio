@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Opposizione proposta soltanto da alcuni interessati"
-dataVigenza: "20260914"
-ordine: 559
+dataVigenza: "20260930"
+ordine: 560
 ---
 
 # Art. 463 - ***Opposizione proposta soltanto da alcuni interessati***

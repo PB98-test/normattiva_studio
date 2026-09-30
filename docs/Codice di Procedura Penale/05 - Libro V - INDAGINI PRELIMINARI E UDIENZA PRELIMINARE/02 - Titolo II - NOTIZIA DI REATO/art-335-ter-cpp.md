@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 335-ter - (Ordine di iscrizione del nome della persona sottoposta ad indagini)."
+title: "Art. 335-ter - Ordine di iscrizione del nome della persona sottoposta ad indagini"
 articolo: "Art. 335-ter"
 codice: cpp
 aliases:
@@ -13,12 +13,12 @@ capo: null
 capo_label: null
 sezione: null
 sezione_label: null
-rubrica: "(Ordine di iscrizione del nome della persona sottoposta ad indagini)."
-dataVigenza: "20260914"
+rubrica: "Ordine di iscrizione del nome della persona sottoposta ad indagini"
+dataVigenza: "20260930"
 ordine: 399
 ---
 
-# Art. 335-ter - ***(Ordine di iscrizione del nome della persona sottoposta ad indagini).***
+# Art. 335-ter - ***Ordine di iscrizione del nome della persona sottoposta ad indagini***
 
 1\. Quando deve compiere un atto del procedimento, il giudice per le indagini preliminari, se ritiene che il reato per cui si procede debba essere attribuito a una persona che non è stata ancora iscritta nel registro delle notizie di reato, sentito il pubblico ministero, gli ordina con decreto motivato di provvedere all'iscrizione.
 

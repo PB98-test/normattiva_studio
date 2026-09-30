@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 158"
+title: "Art. 158 - Separazione consensuale"
 articolo: "Art. 158"
 codice: cc
 aliases:
@@ -13,14 +13,12 @@ capo: "V"
 capo_label: "Dello scioglimento del matrimonio e della separazione dei coniugi"
 sezione: null
 sezione_label: null
-rubrica: null
-dataVigenza: "20260914"
+rubrica: "Separazione consensuale"
+dataVigenza: "20260930"
 ordine: 199
 ---
 
-# Art. 158
-
-Separazione consensuale.
+# Art. 158 - ***Separazione consensuale***
 
 La separazione per il solo consenso dei coniugi non ha effetto senza l'omologazione del giudice.
 

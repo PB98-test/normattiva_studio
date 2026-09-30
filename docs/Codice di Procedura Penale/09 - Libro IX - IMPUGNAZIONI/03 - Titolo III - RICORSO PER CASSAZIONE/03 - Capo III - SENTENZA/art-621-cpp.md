@@ -14,8 +14,8 @@ capo_label: "SENTENZA"
 sezione: null
 sezione_label: null
 rubrica: "Effetti dell'annullamento senza rinvio"
-dataVigenza: "20260914"
-ordine: 743
+dataVigenza: "20260930"
+ordine: 744
 ---
 
 # Art. 621 - ***Effetti dell'annullamento senza rinvio***

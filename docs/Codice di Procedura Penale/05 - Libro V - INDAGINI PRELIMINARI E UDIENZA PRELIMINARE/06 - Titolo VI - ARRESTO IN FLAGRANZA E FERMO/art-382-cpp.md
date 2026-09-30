@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Stato di flagranza"
-dataVigenza: "20260914"
-ordine: 453
+dataVigenza: "20260930"
+ordine: 454
 ---
 
 # Art. 382 - ***Stato di flagranza***

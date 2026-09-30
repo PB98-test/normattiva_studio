@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 25-quater - (Delitti con finalità di terrorismo o di eversione dell'ordine democratico)."
+title: "Art. 25-quater - Delitti con finalità di terrorismo o di eversione dell'ordine democratico"
 articolo: "Art. 25-quater"
 codice: dlgs231-01
 aliases:
@@ -13,12 +13,12 @@ capo: "I"
 capo_label: "RESPONSABILITÀ AMMINISTRATIVA DELL'ENTE"
 sezione: "III"
 sezione_label: "Responsabilità amministrativa da reato"
-rubrica: "(Delitti con finalità di terrorismo o di eversione dell'ordine democratico)."
-dataVigenza: "20260928"
+rubrica: "Delitti con finalità di terrorismo o di eversione dell'ordine democratico"
+dataVigenza: "20260930"
 ordine: 31
 ---
 
-# Art. 25-quater - ***(Delitti con finalità di terrorismo o di eversione dell'ordine democratico).***
+# Art. 25-quater - ***Delitti con finalità di terrorismo o di eversione dell'ordine democratico***
 
 1\. In relazione alla commissione dei delitti aventi finalità di terrorismo o di eversione dell'ordine democratico, previsti dal [codice penale](../../../Codice%20Penale/00%20-%20Indice%20%28cp%29.md) e dalle leggi speciali, si applicano all'ente le seguenti sanzioni pecuniarie:
 

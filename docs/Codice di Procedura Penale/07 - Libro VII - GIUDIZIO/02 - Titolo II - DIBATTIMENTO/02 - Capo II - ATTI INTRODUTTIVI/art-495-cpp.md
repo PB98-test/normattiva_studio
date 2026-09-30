@@ -14,8 +14,8 @@ capo_label: "ATTI INTRODUTTIVI"
 sezione: null
 sezione_label: null
 rubrica: "Provvedimenti del giudice in ordine alla prova"
-dataVigenza: "20260914"
-ordine: 601
+dataVigenza: "20260930"
+ordine: 602
 ---
 
 # Art. 495 - ***Provvedimenti del giudice in ordine alla prova***
@@ -32,4 +32,4 @@ ordine: 601
 
 4-ter. Se il giudice muta nel corso del dibattimento, la parte che vi ha interesse ha diritto di ottenere l'esame delle persone che hanno già reso dichiarazioni nel medesimo dibattimento nel contraddittorio con la persona nei cui confronti le dichiarazioni medesime saranno utilizzate, salvo che il precedente esame sia stato documentato integralmente mediante mezzi di riproduzione audiovisiva. In ogni caso, la rinnovazione dell'esame può essere disposta quando il giudice la ritenga necessaria sulla base di specifiche esigenze. [^agg-293]
 
-[^agg-293]: *AGGIORNAMENTO (293)* Il D.Lgs. 10 ottobre 2022, n. 150, come modificato dal D.L. 31 ottobre 2022, n. 162, convertito con modificazioni dalla L. 30 dicembre 2022, n. 199, ha disposto (con l'art. 93-bis, comma 1) che "La disposizione di cui all'[articolo 495, comma 4-ter, del codice di procedura penale](art-495-cpp.md), come introdotta dal presente decreto, non si applica quando è chiesta la rinnovazione dell'esame di una persona che ha reso le precedenti dichiarazioni in data anteriore al 1° gennaio 2023".
+[^agg-293]: *AGGIORNAMENTO (293)* Il [D.Lgs. 10 ottobre 2022, n. 150](../../../../Cartabia%20%28Dlgs%20150-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs150-22%29.md), come modificato dal D.L. 31 ottobre 2022, n. 162, convertito con modificazioni dalla L. 30 dicembre 2022, n. 199, ha disposto (con l'art. 93-bis, comma 1) che "La disposizione di cui all'[articolo 495, comma 4-ter, del codice di procedura penale](art-495-cpp.md), come introdotta dal presente decreto, non si applica quando è chiesta la rinnovazione dell'esame di una persona che ha reso le precedenti dichiarazioni in data anteriore al 1° gennaio 2023".

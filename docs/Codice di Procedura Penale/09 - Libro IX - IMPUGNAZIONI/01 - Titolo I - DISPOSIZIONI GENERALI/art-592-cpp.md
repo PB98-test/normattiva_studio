@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Condanna alle spese nei giudizi di impugnazione"
-dataVigenza: "20260914"
-ordine: 710
+dataVigenza: "20260930"
+ordine: 711
 ---
 
 # Art. 592 - ***Condanna alle spese nei giudizi di impugnazione***

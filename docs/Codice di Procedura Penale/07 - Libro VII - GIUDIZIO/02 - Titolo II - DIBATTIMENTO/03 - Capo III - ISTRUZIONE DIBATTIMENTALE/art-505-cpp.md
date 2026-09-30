@@ -14,8 +14,8 @@ capo_label: "ISTRUZIONE DIBATTIMENTALE"
 sezione: null
 sezione_label: null
 rubrica: "Facoltà degli enti e delle associazioni rappresentativi di interessi lesi dal reato"
-dataVigenza: "20260914"
-ordine: 611
+dataVigenza: "20260930"
+ordine: 612
 ---
 
 # Art. 505 - ***Facoltà degli enti e delle associazioni rappresentativi di interessi lesi dal reato***

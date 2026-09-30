@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Informazione di garanzia"
-dataVigenza: "20260914"
-ordine: 438
+dataVigenza: "20260930"
+ordine: 439
 ---
 
 # Art. 369 - ***Informazione di garanzia***
@@ -26,8 +26,8 @@ ordine: 438
 
 1-ter. Il pubblico ministero avvisa inoltre la persona sottoposta alle indagini e la persona offesa che hanno facoltà di accedere ai programmi di giustizia riparativa.
 
-1-quater. La notificazione, in deroga al disposto dell'[articolo 148](../../02%20-%20Libro%20II%20-%20ATTI/05%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-148-cpp.md), comma 6, secondo periodo, può essere eseguita dalla polizia giudiziaria in presenza di situazioni di urgenza che non consentono il ricorso alle modalità ordinarie. In questi casi, fermo il rispetto dell'[articolo 148](../../02%20-%20Libro%20II%20-%20ATTI/05%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-148-cpp.md), comma 8, secondo periodo, la consegna deve essere effettuata in modo tale da garantire la riservatezza del destinatario.
+1-quater. La notificazione, in deroga al disposto dell'[articolo 148](../../02%20-%20Libro%20II%20-%20ATTI/06%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-148-cpp.md), comma 6, secondo periodo, può essere eseguita dalla polizia giudiziaria in presenza di situazioni di urgenza che non consentono il ricorso alle modalità ordinarie. In questi casi, fermo il rispetto dell'[articolo 148](../../02%20-%20Libro%20II%20-%20ATTI/06%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-148-cpp.md), comma 8, secondo periodo, la consegna deve essere effettuata in modo tale da garantire la riservatezza del destinatario.
 
 1-quinquies. All'informazione di garanzia si applica l'[articolo 114](../../02%20-%20Libro%20II%20-%20ATTI/01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-114-cpp.md), comma 2))
 
-2\. COMMA ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 150.
+2\. COMMA ABROGATO DAL [D.LGS. 10 OTTOBRE 2022, N. 150](../../../Cartabia%20%28Dlgs%20150-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs150-22%29.md).

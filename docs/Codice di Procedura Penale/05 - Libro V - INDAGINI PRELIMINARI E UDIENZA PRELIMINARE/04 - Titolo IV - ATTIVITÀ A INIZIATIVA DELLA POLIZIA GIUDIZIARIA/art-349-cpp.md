@@ -14,7 +14,7 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Identificazione della persona nei cui confronti vengono svolte le indagini e di altre persone"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 416
 ---
 
@@ -26,7 +26,7 @@ ordine: 416
 
 2-bis. Se gli accertamenti indicati dal comma 2 comportano il prelievo di capelli o saliva e manca il consenso dell'interessato, la polizia giudiziaria procede al prelievo coattivo nel rispetto della dignità personale del soggetto, previa autorizzazione scritta, oppure resa oralmente e confermata per iscritto, del pubblico ministero.
 
-3\. Quando procede alla identificazione, la polizia giudiziaria invita la persona nei cui confronti vengono svolte le indagini a dichiarare o a eleggere il domicilio per le notificazioni a norma dell'[articolo 161](../../02%20-%20Libro%20II%20-%20ATTI/05%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-161-cpp.md) , nonchè ad indicare il recapito della casa di abitazione, del luogo in cui esercita abitualmente l'attività lavorativa e dei luoghi in cui ha temporanea dimora o domicilio, oltre che ad indicare i recapiti telefonici o gli indirizzi di posta elettronica nella sua disponibilità. Osserva inoltre le disposizioni dell'[articolo 66](../../01%20-%20Libro%20I%20-%20SOGGETTI/04%20-%20Titolo%20IV%20-%20IMPUTATO/art-66-cpp.md).
+3\. Quando procede alla identificazione, la polizia giudiziaria invita la persona nei cui confronti vengono svolte le indagini a dichiarare o a eleggere il domicilio per le notificazioni a norma dell'[articolo 161](../../02%20-%20Libro%20II%20-%20ATTI/06%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-161-cpp.md) , nonchè ad indicare il recapito della casa di abitazione, del luogo in cui esercita abitualmente l'attività lavorativa e dei luoghi in cui ha temporanea dimora o domicilio, oltre che ad indicare i recapiti telefonici o gli indirizzi di posta elettronica nella sua disponibilità. Osserva inoltre le disposizioni dell'[articolo 66](../../01%20-%20Libro%20I%20-%20SOGGETTI/04%20-%20Titolo%20IV%20-%20IMPUTATO/art-66-cpp.md).
 
 4\. Se taluna delle persone indicate nel comma 1 rifiuta di farsi identificare ovvero fornisce generalità o documenti di identificazione in relazione ai quali sussistono sufficienti elementi per ritenerne la falsità, la polizia giudiziaria la accompagna nei propri uffici e ivi la trattiene per il tempo strettamente necessario per la identificazione e comunque non oltre le dodici ore ovvero, previo avviso anche orale al pubblico ministero, non oltre le ventiquattro ore, nel caso che l'identificazione risulti particolarmente complessa oppure occorra l'assistenza dell'autorità consolare o di un interprete ed in tal caso con facoltà per il soggetto di chiedere di avvisare un familiare o un convivente.
 

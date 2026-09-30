@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Atti urgenti"
-dataVigenza: "20260914"
-ordine: 572
+dataVigenza: "20260930"
+ordine: 573
 ---
 
 # Art. 467 - ***Atti urgenti***

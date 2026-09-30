@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Spese per la pubblicazione di sentenze e obbligo di inserzione"
-dataVigenza: "20260914"
-ordine: 824
+dataVigenza: "20260930"
+ordine: 825
 ---
 
 # Art. 694 - ***Spese per la pubblicazione di sentenze e obbligo di inserzione***

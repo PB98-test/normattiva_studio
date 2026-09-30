@@ -14,13 +14,13 @@ capo_label: "Dell'espropriazione forzata in generale"
 sezione: "V"
 sezione_label: "Della distribuzione della somma ricavata"
 rubrica: "Risoluzione delle controversie"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 651
 ---
 
 # Art. 512 - ***Risoluzione delle controversie***
 
-Se, in sede di distribuzione, sorge controversia tra i creditori concorrenti o tra creditore e debitore o terzo assoggettato all'espropriazione, circa la sussistenza o l'ammontare di uno o più crediti o circa la sussistenza di diritti di prelazione, il giudice dell'esecuzione, sentite le parti e compiuti i necessari accertamenti, provvede con ordinanza, impugnabile nelle forme e nei termini di cui all'[articolo 617](../../../05%20-%20Titolo%20V%20-%20DELLE%20OPPOSIZIONI/01%20-%20Capo%20I%20-%20Delle%20opposizioni%20del%20debitore%20e%20del%20terzo%20assoggettato%20all%27esecuzione/02%20-%20Sezione%20II%20-%20Delle%20opposizioni%20agli%20atti%20esecutivi/art-617-cpc.md), secondo comma.
+Se, in sede di distribuzione, sorge controversia tra i creditori concorrenti o tra creditore e debitore o terzo assoggettato all'espropriazione, circa la sussistenza o l'ammontare di uno o più crediti o circa la sussistenza di diritti di prelazione, il giudice dell'esecuzione, sentite le parti e compiuti i necessari accertamenti, provvede con ordinanza, impugnabile nelle forme e nei termini di cui all'[articolo 617](../../../06%20-%20Titolo%20V%20-%20DELLE%20OPPOSIZIONI/01%20-%20Capo%20I%20-%20Delle%20opposizioni%20del%20debitore%20e%20del%20terzo%20assoggettato%20all%27esecuzione/02%20-%20Sezione%20II%20-%20Delle%20opposizioni%20agli%20atti%20esecutivi/art-617-cpc.md), secondo comma.
 
 Il giudice può, anche con l'ordinanza di cui al primo comma, sospendere, in tutto o in parte, la distribuzione della somma ricavata.[^agg-113a]([^agg-115])[^agg-116]
 

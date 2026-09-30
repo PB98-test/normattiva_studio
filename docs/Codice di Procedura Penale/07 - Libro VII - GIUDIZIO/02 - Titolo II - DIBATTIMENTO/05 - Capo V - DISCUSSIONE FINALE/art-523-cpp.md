@@ -14,8 +14,8 @@ capo_label: "DISCUSSIONE FINALE"
 sezione: null
 sezione_label: null
 rubrica: "Svolgimento della discussione"
-dataVigenza: "20260914"
-ordine: 632
+dataVigenza: "20260930"
+ordine: 633
 ---
 
 # Art. 523 - ***Svolgimento della discussione***

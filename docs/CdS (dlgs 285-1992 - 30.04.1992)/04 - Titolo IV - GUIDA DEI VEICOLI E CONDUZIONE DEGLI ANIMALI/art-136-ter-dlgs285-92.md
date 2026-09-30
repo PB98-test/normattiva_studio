@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 136-ter - (Provvedimenti inerenti il diritto a guidare adottati nei confronti di titolari di patente di guida rilasciata da Stati dell'Unione europea o dello Spazio economico europeo)."
+title: "Art. 136-ter - Provvedimenti inerenti il diritto a guidare adottati nei confronti di titolari di patente di guida rilasciata da Stati dell'Unione europea o dello Spazio economico europeo"
 articolo: "Art. 136-ter"
 codice: dlgs285-92
 aliases:
@@ -13,12 +13,12 @@ capo: null
 capo_label: null
 sezione: null
 sezione_label: null
-rubrica: "(Provvedimenti inerenti il diritto a guidare adottati nei confronti di titolari di patente di guida rilasciata da Stati dell'Unione europea o dello Spazio economico europeo)."
-dataVigenza: "20260914"
+rubrica: "Provvedimenti inerenti il diritto a guidare adottati nei confronti di titolari di patente di guida rilasciata da Stati dell'Unione europea o dello Spazio economico europeo"
+dataVigenza: "20260930"
 ordine: 149
 ---
 
-# Art. 136-ter - ***(Provvedimenti inerenti il diritto a guidare adottati nei confronti di titolari di patente di guida rilasciata da Stati dell'Unione europea o dello Spazio economico europeo).***
+# Art. 136-ter - ***Provvedimenti inerenti il diritto a guidare adottati nei confronti di titolari di patente di guida rilasciata da Stati dell'Unione europea o dello Spazio economico europeo***
 
 1\. Qualora il titolare di patente di guida, rilasciata da uno Stato dell'Unione europea o dello Spazio economico europeo, commetta una violazione dalla quale, ai sensi del presente codice, derivi la sanzione amministrativa accessoria della sospensione della patente di guida, si applicano le disposizioni dell'[articolo 135](art-135-dlgs285-92.md), comma 5.
 

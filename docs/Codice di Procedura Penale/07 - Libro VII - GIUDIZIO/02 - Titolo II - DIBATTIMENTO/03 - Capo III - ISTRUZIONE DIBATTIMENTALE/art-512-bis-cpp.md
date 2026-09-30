@@ -14,8 +14,8 @@ capo_label: "ISTRUZIONE DIBATTIMENTALE"
 sezione: null
 sezione_label: null
 rubrica: "Lettura di dichiarazioni rese da persona residente all'estero"
-dataVigenza: "20260914"
-ordine: 620
+dataVigenza: "20260930"
+ordine: 621
 ---
 
 # Art. 512-bis - ***Lettura di dichiarazioni rese da persona residente all'estero***

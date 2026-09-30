@@ -14,8 +14,8 @@ capo_label: "Delle contravvenzioni concernenti la polizia di sicurezza"
 sezione: "III"
 sezione_label: "Delle contravvenzioni concernenti la prevenzione di talune specie di reati § 1 Delle contravvenzioni concernenti la tutela preventiva dei segreti"
 rubrica: "Commercio non autorizzato di cose preziose"
-dataVigenza: "20260914"
-ordine: 963
+dataVigenza: "20260930"
+ordine: 964
 ---
 
 # Art. 705 - ***Commercio non autorizzato di cose preziose***

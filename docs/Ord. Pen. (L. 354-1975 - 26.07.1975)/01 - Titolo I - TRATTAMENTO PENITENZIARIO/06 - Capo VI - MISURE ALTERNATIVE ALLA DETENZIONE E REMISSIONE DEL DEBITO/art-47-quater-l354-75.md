@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 47-quater - (Misure alternative alla detenzione nei confronti dei soggetti affetti da AIDS conclamata o da grave deficienza immunitaria)."
+title: "Art. 47-quater - Misure alternative alla detenzione nei confronti dei soggetti affetti da AIDS conclamata o da grave deficienza immunitaria"
 articolo: "Art. 47-quater"
 codice: l354-75
 aliases:
@@ -13,14 +13,14 @@ capo: "VI"
 capo_label: "MISURE ALTERNATIVE ALLA DETENZIONE E REMISSIONE DEL DEBITO"
 sezione: null
 sezione_label: null
-rubrica: "(Misure alternative alla detenzione nei confronti dei soggetti affetti da AIDS conclamata o da grave deficienza immunitaria)."
-dataVigenza: "20260925"
+rubrica: "Misure alternative alla detenzione nei confronti dei soggetti affetti da AIDS conclamata o da grave deficienza immunitaria"
+dataVigenza: "20260930"
 ordine: 72
 ---
 
-# Art. 47-quater - ***(Misure alternative alla detenzione nei confronti dei soggetti affetti da AIDS conclamata o da grave deficienza immunitaria).***
+# Art. 47-quater - ***Misure alternative alla detenzione nei confronti dei soggetti affetti da AIDS conclamata o da grave deficienza immunitaria***
 
-1\. Le misure previste dagli [articoli 47](art-47-l354-75.md) e [47-ter](art-47-ter-l354-75.md) possono essere applicate, anche oltre i limiti di pena ivi previsti, su istanza dell'interessato o del suo difensore, nei confronti di coloro che sono affetti da AIDS conclamata o da grave deficienza immunitaria accertate ai sensi dell'[articolo 286-bis, comma 2, del codice di procedura penale](../../../Codice%20di%20Procedura%20Penale/04%20-%20Libro%20IV%20-%20MISURE%20CAUTELARI/01%20-%20Titolo%20I%20-%20MISURE%20CAUTELARI%20PERSONALI/02%20-%20Capo%20II%20-%20MISURE%20COERCITIVE/art-286-cpp.md) e che hanno in corso o intendono intraprendere un programma di cura e assistenza presso le unità operative di malattie infettive ospedaliere ed universitarie o altre unità operative prevalentemente impegnate secondo i piani regionali nell'assistenza ai casi di AIDS.
+1\. Le misure previste dagli [articoli 47](art-47-l354-75.md) e [47-ter](art-47-ter-l354-75.md) possono essere applicate, anche oltre i limiti di pena ivi previsti, su istanza dell'interessato o del suo difensore, nei confronti di coloro che sono affetti da AIDS conclamata o da grave deficienza immunitaria accertate ai sensi dell'[articolo 286-bis, comma 2, del codice di procedura penale](../../../Codice%20di%20Procedura%20Penale/04%20-%20Libro%20IV%20-%20MISURE%20CAUTELARI/01%20-%20Titolo%20I%20-%20MISURE%20CAUTELARI%20PERSONALI/02%20-%20Capo%20II%20-%20MISURE%20COERCITIVE/art-286-bis-cpp.md) e che hanno in corso o intendono intraprendere un programma di cura e assistenza presso le unità operative di malattie infettive ospedaliere ed universitarie o altre unità operative prevalentemente impegnate secondo i piani regionali nell'assistenza ai casi di AIDS.
 
 2\. L'istanza di cui al comma 1 deve essere corredata da certificazione del servizio sanitario pubblico competente o del servizio sanitario penitenziario, che attesti la sussistenza delle condizioni di salute ivi indicate e la concreta attuabilità del programma di cura e assistenza, in corso o da effettuare, presso le unità operative di malattie infettive ospedaliere ed universitarie o altre unità operative prevalentemente impegnate secondo i piani regionali nell'assistenza ai casi di AIDS.
 

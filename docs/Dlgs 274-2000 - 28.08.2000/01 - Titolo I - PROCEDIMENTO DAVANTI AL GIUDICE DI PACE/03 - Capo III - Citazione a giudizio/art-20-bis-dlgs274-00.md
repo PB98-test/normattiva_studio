@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 20-bis - (Presentazione immediata a giudizio dell'imputato in casi particolari)."
+title: "Art. 20-bis - Presentazione immediata a giudizio dell'imputato in casi particolari"
 articolo: "Art. 20-bis"
 codice: dlgs274-00
 aliases:
@@ -13,12 +13,12 @@ capo: "III"
 capo_label: "Citazione a giudizio"
 sezione: null
 sezione_label: null
-rubrica: "(Presentazione immediata a giudizio dell'imputato in casi particolari)."
-dataVigenza: "20260928"
+rubrica: "Presentazione immediata a giudizio dell'imputato in casi particolari"
+dataVigenza: "20260930"
 ordine: 21
 ---
 
-# Art. 20-bis - ***(Presentazione immediata a giudizio dell'imputato in casi particolari).***
+# Art. 20-bis - ***Presentazione immediata a giudizio dell'imputato in casi particolari***
 
 1\. Per i reati procedibili d'ufficio, in caso di flagranza di reato ovvero quando la prova è evidente, la polizia giudiziaria chiede al pubblico ministero l'autorizzazione a presentare immediatamente l'imputato a giudizio dinanzi al giudice di pace.
 
@@ -30,7 +30,7 @@ ordine: 21
 - d) l'indicazione delle fonti di prova a sostegno della richiesta, nonchè le generalità dei testimoni e dei consulenti tecnici, con espressa indicazione delle circostanze su cui deve vertere l'esame;
 - e) la richiesta di fissazione dell'udienza per procedere nei confronti delle persone citate a giudizio.
 
-3\. Salvo che ritenga di richiedere l'archiviazione, il pubblico ministero autorizza la presentazione immediata nei quindici giorni successivi, indicando la data e l'ora del giudizio dinanzi al giudice di pace e nominando un difensore d'ufficio all'imputato che ne è privo. Se non ritiene sussistere i presupposti per la presentazione immediata o se ritiene la richiesta manifestamente infondata ovvero presentata dinanzi ad un giudice di pace incompetente per territorio, il pubblico ministero provvede ai sensi dell'articolo 25, comma 2.
+3\. Salvo che ritenga di richiedere l'archiviazione, il pubblico ministero autorizza la presentazione immediata nei quindici giorni successivi, indicando la data e l'ora del giudizio dinanzi al giudice di pace e nominando un difensore d'ufficio all'imputato che ne è privo. Se non ritiene sussistere i presupposti per la presentazione immediata o se ritiene la richiesta manifestamente infondata ovvero presentata dinanzi ad un giudice di pace incompetente per territorio, il pubblico ministero provvede ai sensi dell'[articolo 25](art-25-dlgs274-00.md), comma 2.
 
 4\. L'ufficiale giudiziario notifica senza ritardo all'imputato e al suo difensore copia della richiesta di cui al comma 2 e dell'autorizzazione del pubblico ministero contenente:
 

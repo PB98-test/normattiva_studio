@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Impugnazione della sentenza di non luogo a procedere"
-dataVigenza: "20260914"
-ordine: 521
+dataVigenza: "20260930"
+ordine: 522
 ---
 
 # Art. 428 - ***Impugnazione della sentenza di non luogo a procedere***
@@ -25,7 +25,7 @@ ordine: 521
 - a) il procuratore della Repubblica e il procuratore generale nei casi di cui all'[articolo 593-bis](../../09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/02%20-%20Titolo%20II%20-%20APPELLO/art-593-bis-cpp.md), comma 2;
 - b) l'imputato, salvo che con la sentenza sia stato dichiarato che il fatto non sussiste o che l'imputato non lo ha commesso.
 
-2\. La persona offesa può proporre appello nei soli casi di nullità previsti dall'[articolo 419](art-419-cpp.md), comma 7. PERIODO SOPPRESSO DALLA L. 23 GIUGNO 2017, N. 103.
+2\. La persona offesa può proporre appello nei soli casi di nullità previsti dall'[articolo 419](art-419-cpp.md), comma 7. PERIODO SOPPRESSO DALLA [L. 23 GIUGNO 2017, N. 103](../../../Rif.%20Orlando%20%28L%20103-2017%20-%2023.06.2017%29/00%20-%20Indice%20%28l103-17%29.md).
 
 3\. Sull'impugnazione la corte di appello decide in camera di consiglio con le forme previste dall'[articolo 127](../../02%20-%20Libro%20II%20-%20ATTI/02%20-%20Titolo%20II%20-%20ATTI%20E%20PROVVEDIMENTI%20DEL%20GIUDICE/art-127-cpp.md). In caso di appello del pubblico ministero, la corte, se non conferma la sentenza, pronuncia decreto che dispone il giudizio, formando il fascicolo per il dibattimento secondo le disposizioni degli [articoli 429](art-429-cpp.md) e [431](art-431-cpp.md), o sentenza di non luogo a procedere con formula meno favorevole all'imputato. In caso di appello dell'imputato, la corte, se non conferma la sentenza, pronuncia sentenza di non luogo a procedere con formula più favorevole all'imputato.
 

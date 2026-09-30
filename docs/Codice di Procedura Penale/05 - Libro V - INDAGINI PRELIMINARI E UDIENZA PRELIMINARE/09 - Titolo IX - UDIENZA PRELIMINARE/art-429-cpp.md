@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Decreto che dispone il giudizio"
-dataVigenza: "20260914"
-ordine: 522
+dataVigenza: "20260930"
+ordine: 523
 ---
 
 # Art. 429 - ***Decreto che dispone il giudizio***
@@ -33,12 +33,12 @@ ordine: 522
 
 2\. Il decreto è nullo se l'imputato non è identificato in modo certo ovvero se manca o è insufficiente l'indicazione di uno dei requisiti previsti dal comma 1 lettere c) e f).
 
-2-bis. COMMA ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 150.
+2-bis. COMMA ABROGATO DAL [D.LGS. 10 OTTOBRE 2022, N. 150](../../../Cartabia%20%28Dlgs%20150-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs150-22%29.md).
 
 3\. Tra la data del decreto e la data fissata per il giudizio deve intercorrere un termine non inferiore a venti giorni.
 
 3-bis. Qualora si proceda per i reati di cui agli [articoli 589](../../09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-589-cpp.md), secondo comma, e 589-bis del [codice penale](../../../Codice%20Penale/00%20-%20Indice%20%28cp%29.md), il termine di cui al comma 3 non può essere superiore a sessanta giorni.
 
-4\. COMMA ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 150.
+4\. COMMA ABROGATO DAL [D.LGS. 10 OTTOBRE 2022, N. 150](../../../Cartabia%20%28Dlgs%20150-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs150-22%29.md).
 
 [^agg-310]: *AGGIORNAMENTO (310)* Il D.Lgs. 7 dicembre 2023, n. 203 ha disposto (con l'[art. 7](../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/02%20-%20Capo%20II%20-%20COMPETENZA/02%20-%20Sezione%20II%20-%20Competenza%20per%20materia/art-7-cpp.md), comma 2) che "Le disposizioni di cui all'[articolo 4](../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/02%20-%20Capo%20II%20-%20COMPETENZA/01%20-%20Sezione%20I%20-%20Disposizione%20generale/art-4-cpp.md) non si applicano nei procedimenti in cui, alla data di entrata in vigore del presente decreto, gli avvisi di fissazione di udienza preliminare e i decreti che dispongono il giudizio o che citano l'imputato a giudizio sono stati già emessi".

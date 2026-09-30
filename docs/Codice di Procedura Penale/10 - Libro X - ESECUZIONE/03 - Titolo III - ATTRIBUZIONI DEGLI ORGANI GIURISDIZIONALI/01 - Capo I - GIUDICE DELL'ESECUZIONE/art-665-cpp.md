@@ -14,8 +14,8 @@ capo_label: "GIUDICE DELL'ESECUZIONE"
 sezione: null
 sezione_label: null
 rubrica: "Giudice competente"
-dataVigenza: "20260914"
-ordine: 795
+dataVigenza: "20260930"
+ordine: 796
 ---
 
 # Art. 665 - ***Giudice competente***

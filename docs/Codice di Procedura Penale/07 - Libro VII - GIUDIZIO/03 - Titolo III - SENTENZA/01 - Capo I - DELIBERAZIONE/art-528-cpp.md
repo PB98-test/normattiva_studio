@@ -14,8 +14,8 @@ capo_label: "DELIBERAZIONE"
 sezione: null
 sezione_label: null
 rubrica: "Lettura del verbale in camera di consiglio"
-dataVigenza: "20260914"
-ordine: 637
+dataVigenza: "20260930"
+ordine: 638
 ---
 
 # Art. 528 - ***Lettura del verbale in camera di consiglio***

@@ -14,13 +14,13 @@ capo_label: "Della non punibilità per particolare tenuità del fatto. Della mod
 sezione: null
 sezione_label: null
 rubrica: "Conversione delle pene pecuniarie non eseguite"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 151
 ---
 
 # Art. 136 - ***Conversione delle pene pecuniarie non eseguite***
 
-Le pene principali della multa e dell'ammenda, non eseguite entro il termine di cui all'[articolo 660](../../../../Codice%20di%20Procedura%20Penale/10%20-%20Libro%20X%20-%20ESECUZIONE/02%20-%20Titolo%20II%20-%20ESECUZIONE%20DEI%20PROVVEDIMENTI%20GIURISDIZIONALI/art-660-cpp.md) del codice di procedura penale indicato nell'ordine di esecuzione, si convertono a norma degli articoli 102 e 103 della legge 24 novembre 1981, n. 689. La pena pecuniaria sostitutiva della reclusione o dell'arresto, non eseguita entro lo stesso termine, si converte a norma dell'articolo 71 della legge 24 novembre 1981, n. 689..
+Le pene principali della multa e dell'ammenda, non eseguite entro il termine di cui all'[articolo 660](../../../../Codice%20di%20Procedura%20Penale/10%20-%20Libro%20X%20-%20ESECUZIONE/02%20-%20Titolo%20II%20-%20ESECUZIONE%20DEI%20PROVVEDIMENTI%20GIURISDIZIONALI/art-660-cpp.md) del codice di procedura penale indicato nell'ordine di esecuzione, si convertono a norma degli [articoli 102](../../../../L%20689-1981%20-%2024.11.1981/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20IN%20MATERIA%20DI%20PENE%20PECUNIARIE/art-102-l689-81.md) e [103](../../../../L%20689-1981%20-%2024.11.1981/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20IN%20MATERIA%20DI%20PENE%20PECUNIARIE/art-103-l689-81.md) della legge 24 novembre 1981, n. 689. La pena pecuniaria sostitutiva della reclusione o dell'arresto, non eseguita entro lo stesso termine, si converte a norma dell'[articolo 71](../../../../L%20689-1981%20-%2024.11.1981/03%20-%20Capo%20III%20-%20PENE%20SOSTITUTIVE%20DELLE%20PENE%20DETENTIVE%20BREVI/01%20-%20Sezione%20I%20-%20APPLICAZIONE%20DELLE%20SANZIONI%20SOSTITUTIVE/art-71-l689-81.md) della legge 24 novembre 1981, n. 689..
 
 ----------------
 

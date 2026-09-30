@@ -14,8 +14,8 @@ capo_label: "ISTRUZIONE DIBATTIMENTALE"
 sezione: null
 sezione_label: null
 rubrica: "Ammissione di nuove prove"
-dataVigenza: "20260914"
-ordine: 613
+dataVigenza: "20260930"
+ordine: 614
 ---
 
 # Art. 507 - ***Ammissione di nuove prove***

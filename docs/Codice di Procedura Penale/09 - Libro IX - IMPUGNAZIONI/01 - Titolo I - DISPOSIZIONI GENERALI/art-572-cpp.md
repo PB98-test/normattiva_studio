@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Richiesta della parte civile o della persona offesa"
-dataVigenza: "20260914"
-ordine: 688
+dataVigenza: "20260930"
+ordine: 689
 ---
 
 # Art. 572 - ***Richiesta della parte civile o della persona offesa***

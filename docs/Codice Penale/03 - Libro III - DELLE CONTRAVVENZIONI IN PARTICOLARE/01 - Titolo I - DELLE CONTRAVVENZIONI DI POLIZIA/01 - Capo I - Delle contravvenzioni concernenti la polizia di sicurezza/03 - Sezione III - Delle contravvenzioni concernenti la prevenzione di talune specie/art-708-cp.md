@@ -14,8 +14,8 @@ capo_label: "Delle contravvenzioni concernenti la polizia di sicurezza"
 sezione: "III"
 sezione_label: "Delle contravvenzioni concernenti la prevenzione di talune specie di reati § 1 Delle contravvenzioni concernenti la tutela preventiva dei segreti"
 rubrica: "Possesso ingiustificato di valori"
-dataVigenza: "20260914"
-ordine: 967
+dataVigenza: "20260930"
+ordine: 968
 ---
 
 # Art. 708 - ***Possesso ingiustificato di valori***

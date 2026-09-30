@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Attività investigativa preventiva"
-dataVigenza: "20260914"
-ordine: 473
+dataVigenza: "20260930"
+ordine: 474
 ---
 
 # Art. 391-nonies - ***Attività investigativa preventiva***

@@ -14,7 +14,7 @@ capo_label: "Dei procedimenti cautelari"
 sezione: "I"
 sezione_label: "Dei procedimenti cautelari in generale"
 rubrica: "Accertamento tecnico e ispezione giudiziale"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 863
 ---
 
@@ -40,4 +40,4 @@ Il procedimento è definito con il deposito della consulenza tecnica di ufficio 
 
 [^agg-116]: *AGGIORNAMENTO (116)* Il [D.L. 14 marzo 2005, n. 35](../../../../../Dl%2035-2005%20-%2014.03.2005/00%20-%20Indice%20%28dl35-05%29.md) convertito con modificazioni dalla [L. 14 maggio 2005, n. 80](../../../../../L.%2080-2005%20-%2014.05.2005/00%20-%20Indice%20%28l80-05%29.md) come modificato dal D.L. 30 dicembre 2005, n. 273 convertito con modificazioni dalla L. 23 febbraio 2006, n. 51 ha disposto (con l'[art. 2](../../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/01%20-%20Sezione%20I%20-%20Della%20giurisdizione%20e%20della%20competenza%20in%20generale/art-2-cpc.md), comma 3-quinquies) che "Le disposizioni di cui ai commi 3, lettere b-bis), b-ter), c-bis), c-ter), c-quater), c-quinquies), e-bis) ed e-ter), 3-bis, e 3-ter, lettera a), entrano in vigore il 1° marzo 2006 e si applicano ai procedimenti instaurati successivamente a tale data di entrata in vigore."
 
-[^agg-182]: *AGGIORNAMENTO (182)* Il D.L. 19 febbraio 2026, n. 19, ha disposto (con l'[art. 17](../../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/02%20-%20Sezione%20II%20-%20Della%20competenza%20per%20materia%20e%20valore/art-17-cpc.md), comma 4) che "Le disposizioni di cui al comma 3 si applicano anche ai procedimenti pendenti nei quali, alla data di entrata in vigore del presente decreto, non è stata depositata la consulenza tecnica di ufficio o, nel caso previsto dall'[articolo 696-bis, secondo comma, del codice di procedura civile](art-696-cpc.md), non è stato depositato il processo verbale della conciliazione".
+[^agg-182]: *AGGIORNAMENTO (182)* Il D.L. 19 febbraio 2026, n. 19, ha disposto (con l'[art. 17](../../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/02%20-%20Sezione%20II%20-%20Della%20competenza%20per%20materia%20e%20valore/art-17-cpc.md), comma 4) che "Le disposizioni di cui al comma 3 si applicano anche ai procedimenti pendenti nei quali, alla data di entrata in vigore del presente decreto, non è stata depositata la consulenza tecnica di ufficio o, nel caso previsto dall'[articolo 696-bis, secondo comma, del codice di procedura civile](art-696-bis-cpc.md), non è stato depositato il processo verbale della conciliazione".

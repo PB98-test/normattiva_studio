@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Avocazione delle indagini preliminari per mancato esercizio dell'azione penale"
-dataVigenza: "20260914"
-ordine: 497
+dataVigenza: "20260930"
+ordine: 498
 ---
 
 # Art. 412 - ***Avocazione delle indagini preliminari per mancato esercizio dell'azione penale***
@@ -28,4 +28,4 @@ ordine: 497
 
 2-ter. Il procuratore generale, quando dispone l'avocazione delle indagini preliminari per i delitti di cui agli [articoli 51](../../01%20-%20Libro%20I%20-%20SOGGETTI/02%20-%20Titolo%20II%20-%20PUBBLICO%20MINISTERO/art-51-cpp.md), commi 3-bis e 3-quater, e 371-bis, comma 4-bis, informa il procuratore nazionale antimafia e antiterrorismo.
 
-[^agg-247]: *AGGIORNAMENTO (247)* La L. 23 giugno 2017, n. 103, ha disposto (con l'[art. 1](../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/01%20-%20Capo%20I%20-%20GIURISDIZIONE/art-1-cpp.md), comma 36) che "Le disposizioni di cui al comma 30 si applicano ai procedimenti nei quali le notizie di reato sono iscritte nell'apposito registro di cui all'[articolo 335 del codice di procedura penale](../02%20-%20Titolo%20II%20-%20NOTIZIA%20DI%20REATO/art-335-cpp.md) successivamente alla data di entrata in vigore della presente legge".
+[^agg-247]: *AGGIORNAMENTO (247)* La [L. 23 giugno 2017, n. 103](../../../Rif.%20Orlando%20%28L%20103-2017%20-%2023.06.2017%29/00%20-%20Indice%20%28l103-17%29.md), ha disposto (con l'[art. 1](../../01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/01%20-%20Capo%20I%20-%20GIURISDIZIONE/art-1-cpp.md), comma 36) che "Le disposizioni di cui al comma 30 si applicano ai procedimenti nei quali le notizie di reato sono iscritte nell'apposito registro di cui all'[articolo 335 del codice di procedura penale](../02%20-%20Titolo%20II%20-%20NOTIZIA%20DI%20REATO/art-335-cpp.md) successivamente alla data di entrata in vigore della presente legge".

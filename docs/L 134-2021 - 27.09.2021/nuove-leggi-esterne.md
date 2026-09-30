@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da L 134-2021 - 27.09.2021 ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di L 134-2021 - 27.09.2021 — 15 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di L 134-2021 - 27.09.2021 — 13 leggi trovate)*
 
 - [articolo 8 del decreto legislativo 28 agosto 1997, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1997-08-28;281)
 - [decreto legislativo n. 281 del 1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1997;281)
@@ -13,8 +13,6 @@ search:
 - [decreto del Ministro della giustizia 21 febbraio 2011, n. 44](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto:2011-02-21;44)
 - [articolo 9 della direttiva (UE) 2016/343 del Parlamento europeo e del Consiglio, del 9 marzo 2016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:direttivaue:2016;343)
 - [articolo 7, paragrafo 4, della direttiva 2012/13/UE del Parlamento europeo e del Consiglio, del 22 maggio 2012](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:direttivaue:2012;13)
-- [legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689)
-- [decreto legislativo 28 agosto 2000, n. 274](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2000-08-28;274)
 - [direttiva 2012/29/UE del Parlamento europeo e del Consiglio, del 25 ottobre 2012](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:direttivaue:2012;29)
 - [legge 27 giugno 2013, n. 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-06-27;77)
 - [articolo 16-octies del decreto-legge 18 ottobre 2012, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2012-10-18;179)

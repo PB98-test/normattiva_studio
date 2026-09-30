@@ -14,7 +14,7 @@ capo_label: "Le misure di prevenzione personali applicate dal questore"
 sezione: null
 sezione_label: null
 rubrica: "Soggetti destinatari"
-dataVigenza: "20260928"
+dataVigenza: "20260930"
 ordine: 1
 ---
 
@@ -24,4 +24,4 @@ ordine: 1
 
 - a) coloro che debbano ritenersi, sulla base di elementi di fatto, abitualmente dediti a traffici delittuosi;
 - b) coloro che per la condotta ed il tenore di vita debba ritenersi, sulla base di elementi di fatto, che vivono abitualmente, anche in parte, con i proventi di attività delittuose;
-- c) coloro che per il loro comportamento debba ritenersi, sulla base di elementi di fatto , comprese le reiterate violazioni del foglio di via obbligatorio di cui all'articolo 2, nonchè dei divieti di frequentazione di determinati luoghi previsti dalla vigente normativa, che sono dediti alla commissione di reati che offendono o mettono in pericolo l'integrità fisica o morale dei minorenni, la sanità, la sicurezza o la tranquillità pubblica.
+- c) coloro che per il loro comportamento debba ritenersi, sulla base di elementi di fatto , comprese le reiterate violazioni del foglio di via obbligatorio di cui all'[articolo 2](art-2-dlgs159-11.md), nonchè dei divieti di frequentazione di determinati luoghi previsti dalla vigente normativa, che sono dediti alla commissione di reati che offendono o mettono in pericolo l'integrità fisica o morale dei minorenni, la sanità, la sicurezza o la tranquillità pubblica.

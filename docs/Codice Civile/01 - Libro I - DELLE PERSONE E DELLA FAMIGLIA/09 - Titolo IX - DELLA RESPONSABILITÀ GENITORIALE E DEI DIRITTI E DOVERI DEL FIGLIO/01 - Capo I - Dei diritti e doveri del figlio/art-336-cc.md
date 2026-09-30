@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 336"
+title: "Art. 336 - Legittimazione ad agire"
 articolo: "Art. 336"
 codice: cc
 aliases:
@@ -13,16 +13,14 @@ capo: "I"
 capo_label: "Dei diritti e doveri del figlio"
 sezione: null
 sezione_label: null
-rubrica: null
-dataVigenza: "20260914"
+rubrica: "Legittimazione ad agire"
+dataVigenza: "20260930"
 ordine: 411
 ---
 
-# Art. 336
+# Art. 336 - ***Legittimazione ad agire***
 
-Legittimazione ad agire [^agg-321][^agg-322]
-
-I provvedimenti indicati negli articoli precedenti sono adottati su ricorso dell'altro genitore, dei parenti, del curatore speciale se già nominato o del pubblico ministero e, quando si tratta di revocare deliberazioni anteriori, anche del genitore interessato. [^agg-321][^agg-322]
+I provvedimenti indicati negli articoli precedenti sono adottati su ricorso dell'altro genitore, dei parenti, del curatore speciale se già nominato o del pubblico ministero e, quando si tratta di revocare deliberazioni anteriori, anche del genitore interessato. [^agg-321][^agg-322] [^agg-321][^agg-322]
 
 COMMA ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 149, COME MODIFICATO DALLA L. 29 DICEMBRE 2022, N. 197.
 

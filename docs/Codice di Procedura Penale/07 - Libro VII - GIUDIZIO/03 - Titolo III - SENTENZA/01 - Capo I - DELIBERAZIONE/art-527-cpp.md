@@ -14,8 +14,8 @@ capo_label: "DELIBERAZIONE"
 sezione: null
 sezione_label: null
 rubrica: "Deliberazione collegiale"
-dataVigenza: "20260914"
-ordine: 636
+dataVigenza: "20260930"
+ordine: 637
 ---
 
 # Art. 527 - ***Deliberazione collegiale***

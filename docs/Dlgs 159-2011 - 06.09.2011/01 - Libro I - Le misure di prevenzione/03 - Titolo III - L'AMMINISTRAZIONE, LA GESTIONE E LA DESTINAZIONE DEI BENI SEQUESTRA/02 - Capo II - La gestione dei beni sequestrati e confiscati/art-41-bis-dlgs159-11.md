@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 41-bis - (Strumenti finanziari per la gestione e la valorizzazione delle aziende sequestrate e confiscate)."
+title: "Art. 41-bis - Strumenti finanziari per la gestione e la valorizzazione delle aziende sequestrate e confiscate"
 articolo: "Art. 41-bis"
 codice: dlgs159-11
 aliases:
@@ -13,12 +13,12 @@ capo: "II"
 capo_label: "La gestione dei beni sequestrati e confiscati"
 sezione: null
 sezione_label: null
-rubrica: "(Strumenti finanziari per la gestione e la valorizzazione delle aziende sequestrate e confiscate)."
-dataVigenza: "20260928"
+rubrica: "Strumenti finanziari per la gestione e la valorizzazione delle aziende sequestrate e confiscate"
+dataVigenza: "20260930"
 ordine: 45
 ---
 
-# Art. 41-bis - ***(Strumenti finanziari per la gestione e la valorizzazione delle aziende sequestrate e confiscate).***
+# Art. 41-bis - ***Strumenti finanziari per la gestione e la valorizzazione delle aziende sequestrate e confiscate***
 
 1\. L'accesso alle risorse delle sezioni di cui alle lettere a) e b) del comma 196 dell'articolo 1 della legge 28 dicembre 2015, n. 208, è richiesto dall'amministratore giudiziario, previa autorizzazione del giudice delegato, o dall'Agenzia, dopo l'adozione dei provvedimenti di prosecuzione o di ripresa dell'attività dell'impresa previsti dall'[articolo 41](art-41-dlgs159-11.md), comma 1-sexies.
 
@@ -34,4 +34,4 @@ ordine: 45
 
 7\. Qualora il sequestro o la confisca riguardino aziende di straordinario interesse socio-economico, tenuto conto della consistenza patrimoniale e del numero degli occupati, o aziende concessionarie pubbliche o che gestiscono pubblici servizi, l'amministratore giudiziario può essere nominato tra gli iscritti nella sezione di esperti in gestione aziendale dell'Albo nazionale degli amministratori giudiziari, indicati dalla società INVITALIA Spa tra i suoi dipendenti. In tal caso l'amministratore giudiziario, dipendente della società INVITALIA Spa, per lo svolgimento dell'incarico non ha diritto ad emolumenti aggiuntivi rispetto al trattamento economico in godimento, ad eccezione del rimborso delle spese di cui all'[articolo 35](../01%20-%20Capo%20I%20-%20L%27amministrazione%20dei%20beni%20sequestrati%20e%20confiscati/art-35-dlgs159-11.md), comma 9. I dipendenti della società INVITALIA Spa che abbiano svolto, nei tre anni antecedenti alla data di entrata in vigore della presente disposizione, attività di gestione diretta di aziende in crisi possono iscriversi, entro sessanta giorni dalla data di entrata in vigore della presente disposizione, alla sezione dell'Albo di cui all'articolo 3, comma 2, del decreto legislativo 4 febbraio 2010, n. 14. Il dipendente della società INVITALIA Spa, nominato amministratore giudiziario, svolge le proprie funzioni sotto la direzione del giudice delegato, avvalendosi dell'organizzazione della società INVITALIA Spa.
 
-8\. Entro trenta giorni dalla data di entrata in vigore della presente disposizione, l'Agenzia, con delibera del Consiglio direttivo, adotta, ai sensi dell'articolo 112, comma 4, lettera d), i criteri per l'individuazione delle aziende sequestrate e confiscate di straordinario interesse socio-economico e per la definizione dei piani di valorizzazione))
+8\. Entro trenta giorni dalla data di entrata in vigore della presente disposizione, l'Agenzia, con delibera del Consiglio direttivo, adotta, ai sensi dell'[articolo 112](../../../03%20-%20Libro%20III%20-%20Attività%20informative%20ed%20investigative%20nella%20lotta%20contro%20la%20criminal/02%20-%20Titolo%20II%20-%20L%27AGENZIA%20NAZIONALE%20PER%20L%27AMMINISTRAZIONE%20E%20LA%20DESTINAZIONE%20DEI%20BENI/art-112-dlgs159-11.md), comma 4, lettera d), i criteri per l'individuazione delle aziende sequestrate e confiscate di straordinario interesse socio-economico e per la definizione dei piani di valorizzazione))

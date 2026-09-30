@@ -14,13 +14,13 @@ capo_label: "ATTI INTRODUTTIVI"
 sezione: null
 sezione_label: null
 rubrica: "Questioni preliminari"
-dataVigenza: "20260914"
-ordine: 596
+dataVigenza: "20260930"
+ordine: 597
 ---
 
 # Art. 491 - ***Questioni preliminari***
 
-1\. Le questioni concernenti la competenza per territorio o per connessione, le nullità indicate nell'[articolo 181](../../../02%20-%20Libro%20II%20-%20ATTI/07%20-%20Titolo%20VII%20-%20NULLITÀ/art-181-cpp.md) commi 2 e 3, la costituzione di parte civile, la citazione o l'intervento del responsabile civile e della persona civilmente obbligata per la pena pecuniaria e l'intervento degli enti e delle associazioni previsti dall'[articolo 91](../../../01%20-%20Libro%20I%20-%20SOGGETTI/06%20-%20Titolo%20VI%20-%20PERSONA%20OFFESA%20DAL%20REATO/art-91-cpp.md) sono precluse se non sono proposte subito dopo compiuto per la prima volta l'accertamento della costituzione delle parti e sono decise immediatamente.
+1\. Le questioni concernenti la competenza per territorio o per connessione, le nullità indicate nell'[articolo 181](../../../02%20-%20Libro%20II%20-%20ATTI/08%20-%20Titolo%20VII%20-%20NULLITÀ/art-181-cpp.md) commi 2 e 3, la costituzione di parte civile, la citazione o l'intervento del responsabile civile e della persona civilmente obbligata per la pena pecuniaria e l'intervento degli enti e delle associazioni previsti dall'[articolo 91](../../../01%20-%20Libro%20I%20-%20SOGGETTI/06%20-%20Titolo%20VI%20-%20PERSONA%20OFFESA%20DAL%20REATO/art-91-cpp.md) sono precluse se non sono proposte subito dopo compiuto per la prima volta l'accertamento della costituzione delle parti e sono decise immediatamente.
 
 2\. La disposizione del comma 1 si applica anche alle questioni concernenti il contenuto del fascicolo per il dibattimento e la riunione o la separazione dei giudizi, salvo che la possibilità di proporle sorga soltanto nel corso del dibattimento.
 

@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 318"
+title: "Art. 318 - Abbandono della casa del genitore"
 articolo: "Art. 318"
 codice: cc
 aliases:
@@ -13,13 +13,11 @@ capo: "I"
 capo_label: "Dei diritti e doveri del figlio"
 sezione: null
 sezione_label: null
-rubrica: null
-dataVigenza: "20260914"
+rubrica: "Abbandono della casa del genitore"
+dataVigenza: "20260930"
 ordine: 393
 ---
 
-# Art. 318
-
-Abbandono della casa del genitore.
+# Art. 318 - ***Abbandono della casa del genitore***
 
 Il figlio , sino alla maggiore età o all'emancipazione, non può abbandonare la casa dei genitori o del genitore che esercita su di lui la responsabilità genitoriale nè la dimora da essi assegnatagli. Qualora se ne allontani senza permesso, i genitori possono richiamarlo ricorrendo, se necessario, al giudice tutelare.

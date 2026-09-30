@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 118-bis - (Modificazioni del piano)."
+title: "Art. 118-bis - Modificazioni del piano"
 articolo: "Art. 118-bis"
 codice: dlgs14-19
 aliases:
@@ -13,12 +13,12 @@ capo: "III"
 capo_label: "Concordato preventivo"
 sezione: "VI"
 sezione_label: "Omologazione del concordato preventivo"
-rubrica: "(Modificazioni del piano)."
-dataVigenza: "20260925"
+rubrica: "Modificazioni del piano"
+dataVigenza: "20260930"
 ordine: 136
 ---
 
-# Art. 118-bis - ***(Modificazioni del piano).***
+# Art. 118-bis - ***Modificazioni del piano***
 
 1\. Se dopo l'omologazione del concordato in continuità aziendale si rendono necessarie modifiche sostanziali del piano per l'adempimento della proposta, l'imprenditore richiede al professionista indipendente il rinnovo dell'attestazione di cui all'[articolo 87](../01%20-%20Sezione%20I%20-%20Finalità%20e%20contenuti%20del%20concordato%20preventivo/art-87-dlgs14-19.md), comma 3, e comunica il piano modificato al commissario giudiziale il quale riferisce al tribunale ai sensi dell'[articolo 118](art-118-dlgs14-19.md), comma 1.
 

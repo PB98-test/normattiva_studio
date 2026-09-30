@@ -14,7 +14,7 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Informazioni alla persona offesa"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 106
 ---
 
@@ -26,7 +26,7 @@ ordine: 106
 - a-bis) all'obbligo del querelante di dichiarare o eleggere domicilio per la comunicazione e la notificazione degli atti del procedimento, con l'avviso che la dichiarazione di domicilio può essere effettuata anche dichiarando un indirizzo di posta elettronica certificata o altro servizio elettronico di recapito certificato qualificato»;
 - a-ter) alla facoltà del querelante, ove non abbia provveduto all'atto di presentazione della querela, di dichiarare o eleggere domicilio anche successivamente;
 - a-quater) all'obbligo del querelante, in caso di mutamento del domicilio dichiarato o eletto, di comunicare tempestivamente e nelle forme prescritte all'autorità giudiziaria procedente la nuova domiciliazione;
-- a-quinquies) al fatto che, ove abbia nominato un difensore, il querelante sarà domiciliato presso quest'ultimo; che, in mancanza di nomina del difensore, le notificazioni saranno eseguite al querelante presso il domicilio digitale e, nei casi di cui all'[articolo 148](../../02%20-%20Libro%20II%20-%20ATTI/05%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-148-cpp.md), comma 4, presso il domicilio dichiarato o eletto; che, in caso di mancanza, insufficienza o inidoneità della dichiarazione o elezione di domicilio, le notificazioni al querelante saranno effettuate mediante deposito presso la segreteria del pubblico ministero procedente o presso la cancelleria del giudice procedente;
+- a-quinquies) al fatto che, ove abbia nominato un difensore, il querelante sarà domiciliato presso quest'ultimo; che, in mancanza di nomina del difensore, le notificazioni saranno eseguite al querelante presso il domicilio digitale e, nei casi di cui all'[articolo 148](../../02%20-%20Libro%20II%20-%20ATTI/06%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-148-cpp.md), comma 4, presso il domicilio dichiarato o eletto; che, in caso di mancanza, insufficienza o inidoneità della dichiarazione o elezione di domicilio, le notificazioni al querelante saranno effettuate mediante deposito presso la segreteria del pubblico ministero procedente o presso la cancelleria del giudice procedente;
 - b) alla facoltà di ricevere comunicazione del procedimento e delle iscrizioni di cui all'[articolo 335](../../05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/02%20-%20Titolo%20II%20-%20NOTIZIA%20DI%20REATO/art-335-cpp.md), commi 1, 2 e 3-ter;
 - c) alla facoltà di essere avvisata della richiesta di archiviazione;
 - d) alla facoltà di avvalersi della consulenza legale e del patrocinio a spese dello Stato;

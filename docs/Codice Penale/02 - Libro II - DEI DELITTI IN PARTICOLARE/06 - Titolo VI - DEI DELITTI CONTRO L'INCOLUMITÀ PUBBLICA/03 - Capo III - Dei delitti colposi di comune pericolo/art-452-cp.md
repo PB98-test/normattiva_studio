@@ -14,8 +14,8 @@ capo_label: "Dei delitti colposi di comune pericolo"
 sezione: null
 sezione_label: null
 rubrica: "Delitti colposi contro la salute pubblica"
-dataVigenza: "20260914"
-ordine: 546
+dataVigenza: "20260930"
+ordine: 547
 ---
 
 # Art. 452 - ***Delitti colposi contro la salute pubblica***

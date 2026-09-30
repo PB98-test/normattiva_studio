@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Memorie e richieste dei difensori"
-dataVigenza: "20260914"
-ordine: 436
+dataVigenza: "20260930"
+ordine: 437
 ---
 
 # Art. 367 - ***Memorie e richieste dei difensori***

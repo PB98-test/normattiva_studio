@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 1159-bis"
+title: "Art. 1159-bis - Usucapione speciale per la piccola proprietà rurale"
 articolo: "Art. 1159-bis"
 codice: cc
 aliases:
@@ -13,14 +13,12 @@ capo: "II"
 capo_label: "Degli effetti del possesso"
 sezione: "III"
 sezione_label: "Dell'usucapione"
-rubrica: null
-dataVigenza: "20260914"
+rubrica: "Usucapione speciale per la piccola proprietà rurale"
+dataVigenza: "20260930"
 ordine: 1261
 ---
 
-# Art. 1159-bis
-
-Usucapione speciale per la piccola proprietà rurale.
+# Art. 1159-bis - ***Usucapione speciale per la piccola proprietà rurale***
 
 La proprietà dei fondi rustici con annessi fabbricati situati in comuni classificati montani dalla legge si acquista in virtù del possesso continuato per quindici anni.
 

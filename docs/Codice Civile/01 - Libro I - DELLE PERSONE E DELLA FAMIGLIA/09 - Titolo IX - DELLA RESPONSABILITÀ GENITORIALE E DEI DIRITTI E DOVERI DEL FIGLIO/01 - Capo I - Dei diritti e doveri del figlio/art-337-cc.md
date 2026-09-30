@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 337"
+title: "Art. 337 - Vigilanza del giudice tutelare"
 articolo: "Art. 337"
 codice: cc
 aliases:
@@ -13,13 +13,11 @@ capo: "I"
 capo_label: "Dei diritti e doveri del figlio"
 sezione: null
 sezione_label: null
-rubrica: null
-dataVigenza: "20260914"
+rubrica: "Vigilanza del giudice tutelare"
+dataVigenza: "20260930"
 ordine: 413
 ---
 
-# Art. 337
-
-Vigilanza del giudice tutelare.
+# Art. 337 - ***Vigilanza del giudice tutelare***
 
 Il giudice tutelare deve vigilare sull'osservanza delle condizioni che il tribunale abbia stabilito per l'esercizio della responsabilità genitoriale e per l'amministrazione dei beni.

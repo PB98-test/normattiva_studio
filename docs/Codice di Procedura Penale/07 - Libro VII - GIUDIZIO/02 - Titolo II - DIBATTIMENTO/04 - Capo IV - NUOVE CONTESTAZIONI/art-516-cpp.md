@@ -14,8 +14,8 @@ capo_label: "NUOVE CONTESTAZIONI"
 sezione: null
 sezione_label: null
 rubrica: "Modifica della imputazione"
-dataVigenza: "20260914"
-ordine: 624
+dataVigenza: "20260930"
+ordine: 625
 ---
 
 # Art. 516 - ***Modifica della imputazione***

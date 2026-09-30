@@ -14,8 +14,8 @@ capo_label: "DECISIONE"
 sezione: "III"
 sezione_label: "Decisione sulle questioni civili"
 rubrica: "Condanna del querelante alle spese e ai danni"
-dataVigenza: "20260914"
-ordine: 652
+dataVigenza: "20260930"
+ordine: 653
 ---
 
 # Art. 542 - ***Condanna del querelante alle spese e ai danni***

@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Efficacia dell'incidente probatorio nei confronti della parte civile"
-dataVigenza: "20260914"
-ordine: 487
+dataVigenza: "20260930"
+ordine: 488
 ---
 
 # Art. 404 - ***Efficacia dell'incidente probatorio nei confronti della parte civile***

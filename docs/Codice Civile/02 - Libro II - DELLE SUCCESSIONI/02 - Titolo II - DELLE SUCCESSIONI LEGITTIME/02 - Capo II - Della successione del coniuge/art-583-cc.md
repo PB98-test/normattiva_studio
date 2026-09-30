@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 583"
+title: "Art. 583 - Successione del solo coniuge"
 articolo: "Art. 583"
 codice: cc
 aliases:
@@ -13,14 +13,12 @@ capo: "II"
 capo_label: "Della successione del coniuge"
 sezione: null
 sezione_label: null
-rubrica: null
-dataVigenza: "20260914"
+rubrica: "Successione del solo coniuge"
+dataVigenza: "20260930"
 ordine: 670
 ---
 
-# Art. 583
-
-Successione del solo coniuge.
+# Art. 583 - ***Successione del solo coniuge***
 
 In mancanza di figli ..., di ascendenti, di fratelli o sorelle, al coniuge si devolve tutta l'eredità.[^agg-216]
 

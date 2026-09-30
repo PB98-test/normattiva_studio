@@ -14,8 +14,8 @@ capo_label: "Delle contravvenzioni concernenti la polizia amministrativa sociale
 sezione: "I"
 sezione_label: "Delle contravvenzioni concernenti la polizia dei costumi"
 rubrica: "Uccisione, distruzione, cattura, prelievo, detenzione e commercio di esemplari di specie animali o vegetali selvatiche protette"
-dataVigenza: "20260914"
-ordine: 987
+dataVigenza: "20260930"
+ordine: 988
 ---
 
 # Art. 727-bis - ***Uccisione, distruzione, cattura, prelievo, detenzione e commercio di esemplari di specie animali o vegetali selvatiche protette***

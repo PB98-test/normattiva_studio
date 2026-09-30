@@ -14,8 +14,8 @@ capo_label: "Delle contravvenzioni concernenti la polizia di sicurezza"
 sezione: "III"
 sezione_label: "Delle contravvenzioni concernenti la prevenzione di talune specie di reati § 1 Delle contravvenzioni concernenti la tutela preventiva dei segreti"
 rubrica: "Detenzione di misure e pesi illegali"
-dataVigenza: "20260914"
-ordine: 950
+dataVigenza: "20260930"
+ordine: 951
 ---
 
 # Art. 692 - ***Detenzione di misure e pesi illegali***

@@ -14,8 +14,8 @@ capo_label: "Dei delitti di comune pericolo mediante frode"
 sezione: null
 sezione_label: null
 rubrica: "Adulterazione e contraffazione di altre cose in danno della pubblica salute"
-dataVigenza: "20260914"
-ordine: 535
+dataVigenza: "20260930"
+ordine: 536
 ---
 
 # Art. 441 - ***Adulterazione e contraffazione di altre cose in danno della pubblica salute***

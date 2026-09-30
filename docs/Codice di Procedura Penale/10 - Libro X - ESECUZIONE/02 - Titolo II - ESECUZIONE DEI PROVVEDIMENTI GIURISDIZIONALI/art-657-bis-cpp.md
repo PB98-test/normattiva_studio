@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 657-bis - (Computo del periodo di messa alla prova dell'imputato in caso di revoca)."
+title: "Art. 657-bis - Computo del periodo di messa alla prova dell'imputato in caso di revoca"
 articolo: "Art. 657-bis"
 codice: cpp
 aliases:
@@ -13,11 +13,11 @@ capo: null
 capo_label: null
 sezione: null
 sezione_label: null
-rubrica: "(Computo del periodo di messa alla prova dell'imputato in caso di revoca)."
-dataVigenza: "20260914"
-ordine: 786
+rubrica: "Computo del periodo di messa alla prova dell'imputato in caso di revoca"
+dataVigenza: "20260930"
+ordine: 787
 ---
 
-# Art. 657-bis - ***(Computo del periodo di messa alla prova dell'imputato in caso di revoca).***
+# Art. 657-bis - ***Computo del periodo di messa alla prova dell'imputato in caso di revoca***
 
 1\. In caso di revoca o di esito negativo della messa alla prova, il pubblico ministero, nel determinare la pena da eseguire, detrae un periodo corrispondente a quello della prova eseguita. Ai fini della detrazione, tre giorni di prova sono equiparati a un giorno di reclusione o di arresto, ovvero a 250 euro di multa o di ammenda

@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 38 - (Iniziativa del pubblico ministero)."
+title: "Art. 38 - Iniziativa del pubblico ministero"
 articolo: "Art. 38"
 codice: dlgs14-19
 aliases:
@@ -13,12 +13,12 @@ capo: "IV"
 capo_label: "Accesso agli strumenti di regolazione della crisi e dell'insolvenza e alla liquidazione giudiziale"
 sezione: "I"
 sezione_label: "Iniziativa per l'accesso agli strumenti di regolazione della crisi e dell'insolvenza e alla liquidazione giudiziale"
-rubrica: "(Iniziativa del pubblico ministero)."
-dataVigenza: "20260925"
+rubrica: "Iniziativa del pubblico ministero"
+dataVigenza: "20260930"
 ordine: 49
 ---
 
-# Art. 38 - ***(Iniziativa del pubblico ministero).***
+# Art. 38 - ***Iniziativa del pubblico ministero***
 
 1\. Il pubblico ministero presenta il ricorso per l'apertura della liquidazione giudiziale in ogni caso in cui ha notizia dell'esistenza di uno stato di insolvenza.
 

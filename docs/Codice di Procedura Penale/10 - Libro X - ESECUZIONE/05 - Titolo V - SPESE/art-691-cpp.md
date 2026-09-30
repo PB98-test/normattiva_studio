@@ -15,8 +15,8 @@ sezione: null
 sezione_label: null
 rubrica: null
 abrogato: true
-dataVigenza: "20260914"
-ordine: 821
+dataVigenza: "20260930"
+ordine: 822
 ---
 
 # Art. 691 - *(Omissis)*

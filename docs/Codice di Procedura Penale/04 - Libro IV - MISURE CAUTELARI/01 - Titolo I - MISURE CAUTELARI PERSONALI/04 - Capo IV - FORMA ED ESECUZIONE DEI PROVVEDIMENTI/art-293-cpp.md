@@ -14,13 +14,13 @@ capo_label: "FORMA ED ESECUZIONE DEI PROVVEDIMENTI"
 sezione: null
 sezione_label: null
 rubrica: "Adempimenti esecutivi"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 351
 ---
 
 # Art. 293 - ***Adempimenti esecutivi***
 
-1\. Salvo quanto previsto dall'[articolo 156](../../../02%20-%20Libro%20II%20-%20ATTI/05%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-156-cpp.md), l'ufficiale o l'agente incaricato di eseguire l'ordinanza che ha disposto la custodia cautelare consegna all'imputato copia del provvedimento unitamente a una comunicazione scritta, redatta in forma chiara e precisa e, per l'imputato che non conosce la lingua italiana, tradotta in una lingua a lui comprensibile, con cui lo informa:
+1\. Salvo quanto previsto dall'[articolo 156](../../../02%20-%20Libro%20II%20-%20ATTI/06%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-156-cpp.md), l'ufficiale o l'agente incaricato di eseguire l'ordinanza che ha disposto la custodia cautelare consegna all'imputato copia del provvedimento unitamente a una comunicazione scritta, redatta in forma chiara e precisa e, per l'imputato che non conosce la lingua italiana, tradotta in una lingua a lui comprensibile, con cui lo informa:
 
 - a) della facoltà di nominare un difensore di fiducia e di essere ammesso al patrocinio a spese dello Stato nei casi previsti dalla legge;
 - b) del diritto di ottenere informazioni in merito all'accusa;

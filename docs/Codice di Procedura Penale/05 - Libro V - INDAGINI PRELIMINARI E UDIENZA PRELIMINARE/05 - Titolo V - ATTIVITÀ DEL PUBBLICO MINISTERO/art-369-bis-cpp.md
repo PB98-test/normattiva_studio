@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Informazione della persona sottoposta alle indagini sul diritto di difesa"
-dataVigenza: "20260914"
-ordine: 439
+dataVigenza: "20260930"
+ordine: 440
 ---
 
 # Art. 369-bis - ***Informazione della persona sottoposta alle indagini sul diritto di difesa***

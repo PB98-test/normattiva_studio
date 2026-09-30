@@ -14,8 +14,8 @@ capo_label: "GIUDICE DELL'ESECUZIONE"
 sezione: null
 sezione_label: null
 rubrica: "Revoca di altri provvedimenti"
-dataVigenza: "20260914"
-ordine: 804
+dataVigenza: "20260930"
+ordine: 805
 ---
 
 # Art. 674 - ***Revoca di altri provvedimenti***

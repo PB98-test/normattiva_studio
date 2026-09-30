@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Potere di segretazione del pubblico ministero"
-dataVigenza: "20260914"
-ordine: 469
+dataVigenza: "20260930"
+ordine: 470
 ---
 
 # Art. 391-quinquies - ***Potere di segretazione del pubblico ministero***

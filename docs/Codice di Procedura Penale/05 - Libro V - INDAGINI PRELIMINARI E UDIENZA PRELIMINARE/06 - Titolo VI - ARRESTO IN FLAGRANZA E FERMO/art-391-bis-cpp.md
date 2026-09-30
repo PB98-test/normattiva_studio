@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Colloquio, ricezione di dichiarazioni e assunzione di informazioni da parte del difensore"
-dataVigenza: "20260914"
-ordine: 466
+dataVigenza: "20260930"
+ordine: 467
 ---
 
 # Art. 391-bis - ***Colloquio, ricezione di dichiarazioni e assunzione di informazioni da parte del difensore***

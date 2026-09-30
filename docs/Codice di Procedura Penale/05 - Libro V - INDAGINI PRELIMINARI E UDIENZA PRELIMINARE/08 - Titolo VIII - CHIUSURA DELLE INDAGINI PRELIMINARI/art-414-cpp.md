@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Riapertura delle indagini"
-dataVigenza: "20260914"
-ordine: 499
+dataVigenza: "20260930"
+ordine: 500
 ---
 
 # Art. 414 - ***Riapertura delle indagini***

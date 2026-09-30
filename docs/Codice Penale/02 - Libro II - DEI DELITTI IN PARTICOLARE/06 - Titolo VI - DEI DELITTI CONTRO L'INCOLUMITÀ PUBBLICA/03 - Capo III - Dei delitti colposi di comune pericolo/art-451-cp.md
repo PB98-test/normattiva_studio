@@ -14,8 +14,8 @@ capo_label: "Dei delitti colposi di comune pericolo"
 sezione: null
 sezione_label: null
 rubrica: "Omissione colposa di cautele o difese contro disastri o infortuni sul lavoro"
-dataVigenza: "20260914"
-ordine: 545
+dataVigenza: "20260930"
+ordine: 546
 ---
 
 # Art. 451 - ***Omissione colposa di cautele o difese contro disastri o infortuni sul lavoro***

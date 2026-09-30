@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Impugnazione per i soli interessi civili"
-dataVigenza: "20260914"
-ordine: 689
+dataVigenza: "20260930"
+ordine: 690
 ---
 
 # Art. 573 - ***Impugnazione per i soli interessi civili***

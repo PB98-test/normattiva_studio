@@ -14,10 +14,10 @@ capo_label: "Altre disposizioni sull'ordinamento giudiziario abrogazioni"
 sezione: null
 sezione_label: null
 rubrica: null
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 27
 ---
 
 # Art. 27
 
-1\. Nel primo comma dell'[articolo 129](../../02%20-%20Titolo%20II%20-%20DISPOSIZIONI%20SUL%20PROCESSO%20CIVILE/05%20-%20Capo%20V%20-%20Modifiche%20alle%20disposizioni%20per%20l%27attuazione%20del%20codice%20di%20procedura%20ci/art-129-dlgs51-98.md) del regio decreto 30 gennaio 1941, n. 12 le parole "le preture," sono soppresse.
+1\. Nel [primo comma dell'articolo 129 del regio decreto 30 gennaio 1941, n. 12](../../../R.D.%2012-1941%20-%2030.01.1941/05%20-%20Titolo%20V%20-%20DELLO%20STATO%20GIURIDICO%20DEI%20MAGISTRATI/02%20-%20Capo%20II%20-%20Dell%27ammissione%20in%20magistratura%20e%20dell%27uditorato/art-129-rd12-41.md) le parole "le preture," sono soppresse.

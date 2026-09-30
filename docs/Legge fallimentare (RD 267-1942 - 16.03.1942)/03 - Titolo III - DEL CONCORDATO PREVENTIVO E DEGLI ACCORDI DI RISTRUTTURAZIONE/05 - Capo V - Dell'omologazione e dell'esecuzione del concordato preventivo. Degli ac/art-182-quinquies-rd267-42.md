@@ -14,7 +14,7 @@ capo_label: "Dell'omologazione e dell'esecuzione del concordato preventivo. Degl
 sezione: null
 sezione_label: null
 rubrica: "Disposizioni in tema di finanziamento e di continuità aziendale nel concordato preventivo e negli accordi di ristrutturazione dei debiti"
-dataVigenza: "20260925"
+dataVigenza: "20260930"
 ordine: 209
 ---
 
@@ -27,4 +27,4 @@ Il debitore che presenta, anche ai sensi dell'[articolo 161](../01%20-%20Capo%20
 
 [^agg-63]: *AGGIORNAMENTO (63)* Il D.L. 27 giugno 2015, n. 83, convertito con modificazioni dalla L. 6 agosto 2015, n. 132, ha disposto (con l'[art. 23](../../02%20-%20Titolo%20II%20-%20DEL%20FALLIMENTO/02%20-%20Capo%20II%20-%20Degli%20organi%20preposti%20al%20fallimento/01%20-%20Sezione%20I%20-%20Del%20tribunale%20fallimentare/art-23-rd267-42.md), comma 1) che "Le disposizioni di cui all'[articolo 1](../../01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-1-rd267-42.md) si applicano ai procedimenti di concordato preventivo introdotti anche anteriormente alla data di entrata in vigore del presente decreto".
 
-[^agg-76]: *AGGIORNAMENTO (76)* Il D.L. 24 agosto 2021, n. 118, ha disposto (con l'[art. 20](../../02%20-%20Titolo%20II%20-%20DEL%20FALLIMENTO/01%20-%20Capo%20I%20-%20Della%20dichiarazione%20di%20fallimento/art-20-rd267-42.md), comma 2) che le presenti modifiche si applicano ai ricorsi di cui all'[articolo 161](../01%20-%20Capo%20I%20-%20Dell%27amministrazione%20alla%20procedura%20di%20concordato%20preventivo/art-161-rd267-42.md) del regio decreto 16 marzo 1942, n. 267, e ai procedimenti per l'omologazione di accordi di ristrutturazione dei debiti introdotti successivamente alla data di entrata in vigore del medesimo D.L., nonchè alle comunicazioni di convenzione di moratoria successive alla data di entrata in vigore del suindicato D.L.
+[^agg-76]: *AGGIORNAMENTO (76)* Il D.L. 24 agosto 2021, n. 118, ha disposto (con l'[art. 20](../../02%20-%20Titolo%20II%20-%20DEL%20FALLIMENTO/01%20-%20Capo%20I%20-%20Della%20dichiarazione%20di%20fallimento/art-20-rd267-42.md), comma 2) che le presenti modifiche si applicano ai ricorsi di cui all'[articolo 161 del regio decreto 16 marzo 1942, n. 267](../01%20-%20Capo%20I%20-%20Dell%27amministrazione%20alla%20procedura%20di%20concordato%20preventivo/art-161-rd267-42.md), e ai procedimenti per l'omologazione di accordi di ristrutturazione dei debiti introdotti successivamente alla data di entrata in vigore del medesimo D.L., nonchè alle comunicazioni di convenzione di moratoria successive alla data di entrata in vigore del suindicato D.L.

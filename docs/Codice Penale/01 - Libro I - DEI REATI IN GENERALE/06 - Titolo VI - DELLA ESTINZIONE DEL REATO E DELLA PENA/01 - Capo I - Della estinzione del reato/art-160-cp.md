@@ -14,13 +14,13 @@ capo_label: "Della estinzione del reato"
 sezione: null
 sezione_label: null
 rubrica: "Interruzione del corso della prescrizione"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 175
 ---
 
 # Art. 160 - ***Interruzione del corso della prescrizione***
 
-COMMA ABROGATO DALLA L. 9 GENNAIO 2019, N. 3.
+COMMA ABROGATO DALLA [L. 9 GENNAIO 2019, N. 3](../../../../L%203-2019%20-%2009.01.2019/00%20-%20Indice%20%28l3-19%29.md).
 
 Interrompono la prescrizione l'ordinanza che applica le misure cautelari personali e quella di convalida del fermo o dell'arresto, l'interrogatorio reso davanti al pubblico ministero o alla polizia giudiziaria, su delega del pubblico ministero, o al giudice, l'invito a presentarsi al pubblico ministero per rendere l'interrogatorio, il provvedimento del giudice di fissazione dell'udienza in camera di consiglio per la decisione sulla richiesta di archiviazione, la richiesta di rinvio a giudizio, il decreto di fissazione della udienza preliminare, l'ordinanza che dispone il giudizio abbreviato, il decreto di fissazione della udienza per la decisione sulla richiesta di applicazione della pena, la presentazione o la citazione per il giudizio direttissimo, il decreto che dispone il giudizio immediato, il decreto che dispone il giudizio , il decreto di citazione a giudizio e il decreto di condanna. [^agg-277]
 
@@ -30,4 +30,4 @@ La prescrizione interrotta comincia nuovamente a decorrere dal giorno della inte
 
 [^agg-208a]: *AGGIORNAMENTO (208a)* Successivamente la Corte Costituzionale con sentenza 23 ottobre - 23 novembre 2006, n. 393 (in G.U. 1ª s.s. 29/11/2006, n. 47), ha dichiarato l'illegittimità costituzionale dell'[art. 10](../../01%20-%20Titolo%20I%20-%20DELLA%20LEGGE%20PENALE/art-10-cp.md), comma 3 della L. 5 dicembre 2005, n. 251 (che ha modificato l'ultimo comma del presente articolo) "limitatamente alle parole "dei processi già pendenti in primo grado ove vi sia stata la dichiarazione di apertura del dibattimento, nonchè".
 
-[^agg-277]: *AGGIORNAMENTO (277)* La L. 23 giugno 2017, n. 103, ha disposto (con l'[art. 1](../../01%20-%20Titolo%20I%20-%20DELLA%20LEGGE%20PENALE/art-1-cp.md), comma 15) che "Le disposizioni di cui ai commi da 10 a 14 si applicano ai fatti commessi dopo la data di entrata in vigore della presente legge".
+[^agg-277]: *AGGIORNAMENTO (277)* La [L. 23 giugno 2017, n. 103](../../../../Rif.%20Orlando%20%28L%20103-2017%20-%2023.06.2017%29/00%20-%20Indice%20%28l103-17%29.md), ha disposto (con l'[art. 1](../../01%20-%20Titolo%20I%20-%20DELLA%20LEGGE%20PENALE/art-1-cp.md), comma 15) che "Le disposizioni di cui ai commi da 10 a 14 si applicano ai fatti commessi dopo la data di entrata in vigore della presente legge".

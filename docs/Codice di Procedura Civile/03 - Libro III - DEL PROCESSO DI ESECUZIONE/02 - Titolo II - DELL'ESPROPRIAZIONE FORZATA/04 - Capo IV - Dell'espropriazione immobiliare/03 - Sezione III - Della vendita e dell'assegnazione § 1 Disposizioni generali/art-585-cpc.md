@@ -14,7 +14,7 @@ capo_label: "Dell'espropriazione immobiliare"
 sezione: "III"
 sezione_label: "Della vendita e dell'assegnazione § 1 Disposizioni generali"
 rubrica: "Versamento del prezzo"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 731
 ---
 
@@ -26,7 +26,7 @@ Se l'immobile è stato aggiudicato a un creditore ipotecario o l'aggiudicatario 
 
 Se il versamento del prezzo avviene con l'erogazione a seguito di contratto di finanziamento che preveda il versamento diretto delle somme erogate in favore della procedura e la garanzia ipotecaria di primo grado sul medesimo immobile oggetto di vendita, nel decreto di trasferimento deve essere indicato tale atto ed il conservatore dei registri immobiliari non può eseguire la trascrizione del decreto se non unitamente all'iscrizione dell'ipoteca concessa dalla parte finanziata.[^agg-113a] [^agg-115] [^agg-116]
 
-Nel termine fissato per il versamento del prezzo, l'aggiudicatario, con dichiarazione scritta resa nella consapevolezza della responsabilità civile e penale prevista per le dichiarazioni false o mendaci, fornisce al giudice dell'esecuzione o al professionista delegato le informazioni prescritte dall'articolo 22 del decreto legislativo 21 novembre 2007, n. 231. [^agg-171] [^agg-173]
+Nel termine fissato per il versamento del prezzo, l'aggiudicatario, con dichiarazione scritta resa nella consapevolezza della responsabilità civile e penale prevista per le dichiarazioni false o mendaci, fornisce al giudice dell'esecuzione o al professionista delegato le informazioni prescritte dall'[articolo 22 del decreto legislativo 21 novembre 2007, n. 231](../../../../../Antiriciclaggio%20%28Dlgs%20231-2007%20-%2021.11.2007%29/03%20-%20Titolo%20II%20-%20%28Obblighi%29/01%20-%20Capo%20I%20-%20%28Obblighi%20di%20adeguata%20verifica%20della%20clientela%29/01%20-%20Sezione%20I/art-22-dlgs231-07.md). [^agg-171] [^agg-173]
 
 [^agg-113a]: *AGGIORNAMENTO (113a)* Il [D.L. 14 marzo 2005, n. 35](../../../../../Dl%2035-2005%20-%2014.03.2005/00%20-%20Indice%20%28dl35-05%29.md), convertito con modificazioni dalla [L. 14 maggio 2005, n. 80](../../../../../L.%2080-2005%20-%2014.05.2005/00%20-%20Indice%20%28l80-05%29.md), come modificato dal D.L. 30 giugno 2005, n. 115, convertito con modificazioni dalla L. 17 agosto 2005, n. 168, ha disposto (con l'[art. 2](../../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/01%20-%20Sezione%20I%20-%20Della%20giurisdizione%20e%20della%20competenza%20in%20generale/art-2-cpc.md), comma 3-quater) che la presente modifica ha effetto a decorrere dal 1 gennaio 2006.
 

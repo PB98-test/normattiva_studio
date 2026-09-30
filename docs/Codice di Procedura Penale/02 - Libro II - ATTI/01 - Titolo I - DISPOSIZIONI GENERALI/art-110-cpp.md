@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 110 - (Forma degli atti)."
+title: "Art. 110 - Forma degli atti"
 articolo: "Art. 110"
 codice: cpp
 aliases:
@@ -13,12 +13,12 @@ capo: null
 capo_label: null
 sezione: null
 sezione_label: null
-rubrica: "(Forma degli atti)."
-dataVigenza: "20260914"
+rubrica: "Forma degli atti"
+dataVigenza: "20260930"
 ordine: 130
 ---
 
-# Art. 110 - ***(Forma degli atti).***
+# Art. 110 - ***Forma degli atti***
 
 1\. Quando è richiesta la forma scritta, gli atti del procedimento penale sono redatti e conservati in forma di documento informatico, tale da assicurarne l'autenticità, l'integrità, la leggibilità, la reperibilità, l'interoperabilità e, ove previsto dalla legge, la segretezza.
 

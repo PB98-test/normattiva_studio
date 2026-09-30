@@ -14,7 +14,7 @@ capo_label: "Dell'espropriazione presso terzi"
 sezione: "I"
 sezione_label: "Del pignoramento e dell'intervento"
 rubrica: "Dichiarazione del terzo"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 690
 ---
 
@@ -26,4 +26,4 @@ Deve altresì specificare i sequestri precedentemente eseguiti presso di lui e l
 
 Il creditore pignorante deve chiamare nel processo il sequestrante nel termine perentorio fissato dal giudice.
 
-[^agg-144]: *AGGIORNAMENTO (144)* Il D.L. 12 settembre 2014, n. 132, convertito con modificazioni dalla L. 10 novembre 2014, n. 162, ha disposto (con l'[art. 19](../../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/03%20-%20Sezione%20III%20-%20Della%20competenza%20per%20territorio/art-19-cpc.md), comma 6-bis) che la presente modifica si applica ai procedimenti iniziati a decorrere dal trentesimo giorno successivo alla data di entrata in vigore della legge di conversione del D.L. medesimo.
+[^agg-144]: *AGGIORNAMENTO (144)* Il [D.L. 12 settembre 2014, n. 132](../../../../../Negoziazione%20assistita%20%28Dl%20132-2014%20-%2012.09.2014%29/00%20-%20Indice%20%28dl132-14%29.md), convertito con modificazioni dalla L. 10 novembre 2014, n. 162, ha disposto (con l'[art. 19](../../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/03%20-%20Sezione%20III%20-%20Della%20competenza%20per%20territorio/art-19-cpc.md), comma 6-bis) che la presente modifica si applica ai procedimenti iniziati a decorrere dal trentesimo giorno successivo alla data di entrata in vigore della legge di conversione del D.L. medesimo.

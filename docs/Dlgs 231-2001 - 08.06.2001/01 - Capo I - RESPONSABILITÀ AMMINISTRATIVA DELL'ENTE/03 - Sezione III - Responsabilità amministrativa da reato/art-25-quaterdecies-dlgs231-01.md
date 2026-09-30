@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 25-quaterdecies - (Frode in competizioni sportive, esercizio abusivo di gioco o di scommessa e giochi d'azzardo esercitati a mezzo di apparecchi vietati)."
+title: "Art. 25-quaterdecies - Frode in competizioni sportive, esercizio abusivo di gioco o di scommessa e giochi d'azzardo esercitati a mezzo di apparecchi vietati"
 articolo: "Art. 25-quaterdecies"
 codice: dlgs231-01
 aliases:
@@ -13,12 +13,12 @@ capo: "I"
 capo_label: "RESPONSABILITÀ AMMINISTRATIVA DELL'ENTE"
 sezione: "III"
 sezione_label: "Responsabilità amministrativa da reato"
-rubrica: "(Frode in competizioni sportive, esercizio abusivo di gioco o di scommessa e giochi d'azzardo esercitati a mezzo di apparecchi vietati)."
-dataVigenza: "20260928"
+rubrica: "Frode in competizioni sportive, esercizio abusivo di gioco o di scommessa e giochi d'azzardo esercitati a mezzo di apparecchi vietati"
+dataVigenza: "20260930"
 ordine: 44
 ---
 
-# Art. 25-quaterdecies - ***(Frode in competizioni sportive, esercizio abusivo di gioco o di scommessa e giochi d'azzardo esercitati a mezzo di apparecchi vietati).***
+# Art. 25-quaterdecies - ***Frode in competizioni sportive, esercizio abusivo di gioco o di scommessa e giochi d'azzardo esercitati a mezzo di apparecchi vietati***
 
 1\. In relazione alla commissione dei reati di cui agli articoli 1 e 4 della legge 13 dicembre 1989, n. 401, si applicano all'ente le seguenti sanzioni pecuniarie:
 

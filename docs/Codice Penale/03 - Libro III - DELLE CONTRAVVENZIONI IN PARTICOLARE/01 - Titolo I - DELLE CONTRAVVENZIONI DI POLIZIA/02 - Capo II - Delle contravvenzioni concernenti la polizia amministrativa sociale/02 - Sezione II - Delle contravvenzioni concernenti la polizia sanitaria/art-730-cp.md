@@ -14,8 +14,8 @@ capo_label: "Delle contravvenzioni concernenti la polizia amministrativa sociale
 sezione: "II"
 sezione_label: "Delle contravvenzioni concernenti la polizia sanitaria"
 rubrica: "Somministrazione a minori di sostanze velenose o nocive"
-dataVigenza: "20260914"
-ordine: 990
+dataVigenza: "20260930"
+ordine: 991
 ---
 
 # Art. 730 - ***Somministrazione a minori di sostanze velenose o nocive***

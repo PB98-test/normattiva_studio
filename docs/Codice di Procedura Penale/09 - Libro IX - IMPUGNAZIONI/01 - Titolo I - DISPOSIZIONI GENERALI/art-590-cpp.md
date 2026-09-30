@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Trasmissione di atti in seguito all'impugnazione"
-dataVigenza: "20260914"
-ordine: 708
+dataVigenza: "20260930"
+ordine: 709
 ---
 
 # Art. 590 - ***Trasmissione di atti in seguito all'impugnazione***

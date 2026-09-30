@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Provvedimenti del giudice"
-dataVigenza: "20260914"
-ordine: 530
+dataVigenza: "20260930"
+ordine: 531
 ---
 
 # Art. 436 - ***Provvedimenti del giudice***

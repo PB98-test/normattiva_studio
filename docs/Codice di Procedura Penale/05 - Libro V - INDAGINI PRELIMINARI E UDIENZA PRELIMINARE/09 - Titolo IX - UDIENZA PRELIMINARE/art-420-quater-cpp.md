@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Sentenza di non doversi procedere per mancata conoscenza della pendenza del processo da parte dell'imputato"
-dataVigenza: "20260914"
-ordine: 510
+dataVigenza: "20260930"
+ordine: 511
 ---
 
 # Art. 420-quater - ***Sentenza di non doversi procedere per mancata conoscenza della pendenza del processo da parte dell'imputato***
@@ -32,7 +32,7 @@ ordine: 510
 - f) il dispositivo, con l'indicazione degli articoli di legge applicati;
 - g) la data e la sottoscrizione del giudice.
 
-3\. Con la sentenza il giudice dispone che, fino a quando per tutti i reati oggetto di imputazione non sia superato il termine previsto dall'[articolo 159](../../02%20-%20Libro%20II%20-%20ATTI/05%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-159-cpp.md), ultimo comma, del [codice penale](../../../Codice%20Penale/00%20-%20Indice%20%28cp%29.md), la persona nei cui confronti è stata emessa la sentenza sia ricercata dalla polizia giudiziaria e, nel caso in cui sia rintracciata, le sia personalmente notificata la sentenza.
+3\. Con la sentenza il giudice dispone che, fino a quando per tutti i reati oggetto di imputazione non sia superato il termine previsto dall'[articolo 159](../../02%20-%20Libro%20II%20-%20ATTI/06%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-159-cpp.md), ultimo comma, del [codice penale](../../../Codice%20Penale/00%20-%20Indice%20%28cp%29.md), la persona nei cui confronti è stata emessa la sentenza sia ricercata dalla polizia giudiziaria e, nel caso in cui sia rintracciata, le sia personalmente notificata la sentenza.
 
 4\. La sentenza contiene altresì:
 

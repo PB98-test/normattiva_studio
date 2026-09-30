@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 737"
+title: "Art. 737 - Soggetti tenuti alla collazione"
 articolo: "Art. 737"
 codice: cc
 aliases:
@@ -13,14 +13,12 @@ capo: "II"
 capo_label: "Della collazione"
 sezione: null
 sezione_label: null
-rubrica: null
-dataVigenza: "20260914"
+rubrica: "Soggetti tenuti alla collazione"
+dataVigenza: "20260930"
 ordine: 824
 ---
 
-# Art. 737
-
-Soggetti tenuti alla collazione.
+# Art. 737 - ***Soggetti tenuti alla collazione***
 
 I figli ... e i loro discendenti ... ed il coniuge che concorrono alla successione devono conferire ai coeredi tutto ciò che hanno ricevuto dal defunto per donazione direttamente o indirettamente salvo che il defunto non li abbia da ciò dispensati.[^agg-216]
 

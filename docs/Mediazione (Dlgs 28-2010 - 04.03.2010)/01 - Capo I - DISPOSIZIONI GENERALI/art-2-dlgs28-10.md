@@ -14,7 +14,7 @@ capo_label: "DISPOSIZIONI GENERALI"
 sezione: null
 sezione_label: null
 rubrica: "Controversie oggetto di mediazione"
-dataVigenza: "20260925"
+dataVigenza: "20260930"
 ordine: 2
 ---
 
@@ -24,7 +24,7 @@ ordine: 2
 
 2\. Il presente decreto non preclude le negoziazioni volontarie e paritetiche relative alle controversie civili e commerciali, nè le procedure di reclamo e di conciliazione previste dalle carte dei servizi. [^agg-9] [^agg-10]
 
-[^agg-9]: *AGGIORNAMENTO (9)* Il [D.Lgs. 10 ottobre 2022, n. 149](../../Cartabia%20%28Dlgs%20149-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs149-22%29.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
+[^agg-9]: *AGGIORNAMENTO (9)* Il [D.Lgs. 10 ottobre 2022, n. 149](../../Cartabia%20%28Dlgs%20149-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs149-22%29.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'[articolo 7](../02%20-%20Capo%20II%20-%20DEL%20PROCEDIMENTO%20DI%20MEDIAZIONE/art-7-dlgs28-10.md) si applicano a decorrere dal 30 giugno 2023".
 
 [^agg-10]: *AGGIORNAMENTO (10)* Il [D.Lgs. 10 ottobre 2022, n. 149](../../Cartabia%20%28Dlgs%20149-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs149-22%29.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../../L.%20197-2022%20-%2029.12.2022/00%20-%20Indice%20%28l197-22%29.md), non prevede più (con l'art. 41, comma 1) che la modifica di cui al comma 2 del presente articolo si applica a decorrere dal 30 giugno 2023.
 

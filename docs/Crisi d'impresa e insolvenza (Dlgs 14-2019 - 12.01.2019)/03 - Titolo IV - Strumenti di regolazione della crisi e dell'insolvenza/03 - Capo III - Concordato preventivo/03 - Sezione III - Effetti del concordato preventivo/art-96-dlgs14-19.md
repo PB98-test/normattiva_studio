@@ -14,10 +14,10 @@ capo_label: "Concordato preventivo"
 sezione: "III"
 sezione_label: "Effetti del concordato preventivo"
 rubrica: "Norme applicabili dalla data di deposito della domanda di accesso al concordato preventivo"
-dataVigenza: "20260925"
+dataVigenza: "20260930"
 ordine: 112
 ---
 
 # Art. 96 - ***Norme applicabili dalla data di deposito della domanda di accesso al concordato preventivo***
 
-1\. Si applicano, con riferimento alla data di presentazione della domanda di accesso al concordato preventivo unitamente alla proposta, al piano e alla documentazione prevista dall'[articolo 39](../../../02%20-%20Titolo%20III%20-%20Procedimento%20per%20la%20regolazione%20giudiziale%20della%20crisi%20e%20dell%27insol/04%20-%20Capo%20IV%20-%20Accesso%20agli%20strumenti%20di%20regolazione%20della%20crisi%20e%20dell%27insolvenza%20e/01%20-%20Sezione%20I%20-%20Iniziativa%20per%20l%27accesso%20agli%20strumenti%20di%20regolazione%20della%20crisi%20e/art-39-dlgs14-19.md), comma 3, le disposizioni degli articoli 145, nonchè da 153 a 162.
+1\. Si applicano, con riferimento alla data di presentazione della domanda di accesso al concordato preventivo unitamente alla proposta, al piano e alla documentazione prevista dall'[articolo 39](../../../02%20-%20Titolo%20III%20-%20Procedimento%20per%20la%20regolazione%20giudiziale%20della%20crisi%20e%20dell%27insol/04%20-%20Capo%20IV%20-%20Accesso%20agli%20strumenti%20di%20regolazione%20della%20crisi%20e%20dell%27insolvenza%20e/01%20-%20Sezione%20I%20-%20Iniziativa%20per%20l%27accesso%20agli%20strumenti%20di%20regolazione%20della%20crisi%20e/art-39-dlgs14-19.md), comma 3, le disposizioni degli [articoli 145](../../../04%20-%20Titolo%20V%20-%20Liquidazione%20giudiziale%20e%20liquidazione%20controllata/01%20-%20Capo%20I%20-%20Imprenditori%20individuali%20e%20società/02%20-%20Sezione%20II%20-%20Effetti%20dell%27apertura%20della%20liquidazione%20giudiziale%20per%20il%20debitore/art-145-dlgs14-19.md), nonchè da 153 a 162.

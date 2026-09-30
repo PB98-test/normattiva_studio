@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Citazione di testimoni, periti e consulenti tecnici"
-dataVigenza: "20260914"
-ordine: 573
+dataVigenza: "20260930"
+ordine: 574
 ---
 
 # Art. 468 - ***Citazione di testimoni, periti e consulenti tecnici***

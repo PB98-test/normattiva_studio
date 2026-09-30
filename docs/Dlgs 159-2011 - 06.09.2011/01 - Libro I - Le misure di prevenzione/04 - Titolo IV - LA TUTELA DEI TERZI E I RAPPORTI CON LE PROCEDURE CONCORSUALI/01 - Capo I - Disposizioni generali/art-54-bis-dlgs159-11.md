@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 54-bis - (Pagamento di debiti anteriori al sequestro)."
+title: "Art. 54-bis - Pagamento di debiti anteriori al sequestro"
 articolo: "Art. 54-bis"
 codice: dlgs159-11
 aliases:
@@ -13,12 +13,12 @@ capo: "I"
 capo_label: "Disposizioni generali"
 sezione: null
 sezione_label: null
-rubrica: "(Pagamento di debiti anteriori al sequestro)."
-dataVigenza: "20260928"
+rubrica: "Pagamento di debiti anteriori al sequestro"
+dataVigenza: "20260930"
 ordine: 63
 ---
 
-# Art. 54-bis - ***(Pagamento di debiti anteriori al sequestro).***
+# Art. 54-bis - ***Pagamento di debiti anteriori al sequestro***
 
 1\. L'amministratore giudiziario può chiedere al giudice delegato di essere autorizzato al pagamento, anche parziale o rateale, dei crediti per prestazioni di beni o servizi, sorti anteriormente al provvedimento di sequestro, nei casi in cui tali prestazioni siano collegate a rapporti commerciali essenziali per la prosecuzione dell'attività.
 

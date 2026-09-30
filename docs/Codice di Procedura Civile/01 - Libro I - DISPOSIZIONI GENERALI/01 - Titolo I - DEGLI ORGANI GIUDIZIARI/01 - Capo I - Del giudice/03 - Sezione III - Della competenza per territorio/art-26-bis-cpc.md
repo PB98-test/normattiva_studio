@@ -14,7 +14,7 @@ capo_label: "Del giudice"
 sezione: "III"
 sezione_label: "Della competenza per territorio"
 rubrica: "Foro relativo all'espropriazione forzata di crediti"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 28
 ---
 
@@ -24,6 +24,6 @@ Quando il debitore è una delle pubbliche amministrazioni indicate dall'[articol
 
 Fuori dei casi di cui al primo comma, per l'espropriazione forzata di crediti è competente il giudice del luogo in cui il debitore ha la residenza, il domicilio, la dimora o la sede.   [^agg-144]
 
-[^agg-144]: *AGGIORNAMENTO (144)* Il D.L. 12 settembre 2014, n. 132, convertito con modificazioni dalla L. 10 novembre 2014, n. 162, ha disposto (con l'[art. 19](art-19-cpc.md), comma 6-bis) che la presente modifica si applica ai procedimenti iniziati a decorrere dal trentesimo giorno successivo alla data di entrata in vigore della legge di conversione del D.L. medesimo.
+[^agg-144]: *AGGIORNAMENTO (144)* Il [D.L. 12 settembre 2014, n. 132](../../../../../Negoziazione%20assistita%20%28Dl%20132-2014%20-%2012.09.2014%29/00%20-%20Indice%20%28dl132-14%29.md), convertito con modificazioni dalla L. 10 novembre 2014, n. 162, ha disposto (con l'[art. 19](art-19-cpc.md), comma 6-bis) che la presente modifica si applica ai procedimenti iniziati a decorrere dal trentesimo giorno successivo alla data di entrata in vigore della legge di conversione del D.L. medesimo.
 
 [^agg-166]: *AGGIORNAMENTO (166)* La L. 26 novembre 2021, n. 206, ha disposto (con l'[art. 1](../01%20-%20Sezione%20I%20-%20Della%20giurisdizione%20e%20della%20competenza%20in%20generale/art-1-cpc.md), comma 37) che "Le disposizioni dei commi da 27 a 36 del presente articolo si applicano ai procedimenti instaurati a decorrere dal centottantesimo giorno successivo alla data di entrata in vigore della presente legge".

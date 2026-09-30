@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Impugnazione del pubblico ministero"
-dataVigenza: "20260914"
-ordine: 686
+dataVigenza: "20260930"
+ordine: 687
 ---
 
 # Art. 570 - ***Impugnazione del pubblico ministero***

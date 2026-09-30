@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Differimento dell'incidente probatorio"
-dataVigenza: "20260914"
-ordine: 480
+dataVigenza: "20260930"
+ordine: 481
 ---
 
 # Art. 397 - ***Differimento dell'incidente probatorio***

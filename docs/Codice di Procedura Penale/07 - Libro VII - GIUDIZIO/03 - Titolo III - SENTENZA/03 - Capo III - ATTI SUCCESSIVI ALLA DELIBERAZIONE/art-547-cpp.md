@@ -14,8 +14,8 @@ capo_label: "ATTI SUCCESSIVI ALLA DELIBERAZIONE"
 sezione: null
 sezione_label: null
 rubrica: "Correzione della sentenza"
-dataVigenza: "20260914"
-ordine: 658
+dataVigenza: "20260930"
+ordine: 659
 ---
 
 # Art. 547 - ***Correzione della sentenza***

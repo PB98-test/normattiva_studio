@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 24-bis - (Rinvio pregiudiziale alla Corte di cassazione per la decisione sulla competenza per territorio)."
+title: "Art. 24-bis - Rinvio pregiudiziale alla Corte di cassazione per la decisione sulla competenza per territorio"
 articolo: "Art. 24-bis"
 codice: cpp
 aliases:
@@ -13,12 +13,12 @@ capo: "IV"
 capo_label: "PROVVEDIMENTI SULLA GIURISDIZIONE E SULLA COMPETENZA"
 sezione: null
 sezione_label: null
-rubrica: "(Rinvio pregiudiziale alla Corte di cassazione per la decisione sulla competenza per territorio)."
-dataVigenza: "20260914"
+rubrica: "Rinvio pregiudiziale alla Corte di cassazione per la decisione sulla competenza per territorio"
+dataVigenza: "20260930"
 ordine: 26
 ---
 
-# Art. 24-bis - ***(Rinvio pregiudiziale alla Corte di cassazione per la decisione sulla competenza per territorio).***
+# Art. 24-bis - ***Rinvio pregiudiziale alla Corte di cassazione per la decisione sulla competenza per territorio***
 
 1\. Prima della conclusione dell'udienza preliminare o, se questa manchi, entro il termine previsto dall'[articolo 491](../../../07%20-%20Libro%20VII%20-%20GIUDIZIO/02%20-%20Titolo%20II%20-%20DIBATTIMENTO/02%20-%20Capo%20II%20-%20ATTI%20INTRODUTTIVI/art-491-cpp.md), comma 1, la questione concernente la competenza per territorio può essere rimessa, anche di ufficio, alla Corte di cassazione. Entro il termine previsto dall'[articolo 491](../../../07%20-%20Libro%20VII%20-%20GIUDIZIO/02%20-%20Titolo%20II%20-%20DIBATTIMENTO/02%20-%20Capo%20II%20-%20ATTI%20INTRODUTTIVI/art-491-cpp.md), comma 1, può essere altresì rimessa alla Corte di cassazione la questione concernente la competenza per territorio riproposta ai sensi dell'[articolo 21](art-21-cpp.md), comma 2.
 

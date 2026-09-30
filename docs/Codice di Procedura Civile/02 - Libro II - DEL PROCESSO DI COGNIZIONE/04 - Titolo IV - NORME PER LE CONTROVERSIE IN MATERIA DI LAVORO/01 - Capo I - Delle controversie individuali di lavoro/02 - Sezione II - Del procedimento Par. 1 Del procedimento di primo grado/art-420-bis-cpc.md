@@ -14,13 +14,13 @@ capo_label: "Delle controversie individuali di lavoro"
 sezione: "II"
 sezione_label: "Del procedimento Par. 1 Del procedimento di primo grado"
 rubrica: "Accertamento pregiudiziale sull'efficacia, validità ed interpretazione dei contratti e accordi collettivi"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 478
 ---
 
 # Art. 420-bis - ***Accertamento pregiudiziale sull'efficacia, validità ed interpretazione dei contratti e accordi collettivi***
 
-Quando per la definizione di una controversia di cui all'[articolo 409](../01%20-%20Sezione%20I%20-%20Disposizioni%20generali%29%29/art-409-cpc.md) è necessario risolvere in via pregiudiziale una questione concernente l'efficacia, la validità o l'interpretazione delle clausole di un contratto o accordo collettivo nazionale, il giudice decide con sentenza tale questione, impartendo distinti provvedimenti per l'ulteriore istruzione o, comunque, per la prosecuzione della causa fissando una successiva udienza in data non anteriore a novanta giorni.
+Quando per la definizione di una controversia di cui all'[articolo 409](../01%20-%20Sezione%20I%20-%20Disposizioni%20generali/art-409-cpc.md) è necessario risolvere in via pregiudiziale una questione concernente l'efficacia, la validità o l'interpretazione delle clausole di un contratto o accordo collettivo nazionale, il giudice decide con sentenza tale questione, impartendo distinti provvedimenti per l'ulteriore istruzione o, comunque, per la prosecuzione della causa fissando una successiva udienza in data non anteriore a novanta giorni.
 
 La sentenza è impugnabile soltanto con ricorso immediato per cassazione da proporsi entro sessanta giorni dalla comunicazione dell'avviso di deposito della sentenza.
 

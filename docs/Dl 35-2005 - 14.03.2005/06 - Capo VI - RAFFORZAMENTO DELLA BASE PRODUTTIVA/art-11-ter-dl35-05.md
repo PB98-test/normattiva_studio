@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 11-ter - (Potenziamento delle aree sottoutilizzate)."
+title: "Art. 11-ter - Potenziamento delle aree sottoutilizzate"
 articolo: "Art. 11-ter"
 codice: dl35-05
 aliases:
@@ -13,12 +13,12 @@ capo: "VI"
 capo_label: "RAFFORZAMENTO DELLA BASE PRODUTTIVA"
 sezione: null
 sezione_label: null
-rubrica: "(Potenziamento delle aree sottoutilizzate)."
-dataVigenza: "20260914"
+rubrica: "Potenziamento delle aree sottoutilizzate"
+dataVigenza: "20260930"
 ordine: 24
 ---
 
-# Art. 11-ter - ***(Potenziamento delle aree sottoutilizzate).***
+# Art. 11-ter - ***Potenziamento delle aree sottoutilizzate***
 
 1\. All'articolo 11 del decreto legislativo 15 dicembre 1997, n. 446, e successive modificazioni, sono apportate le seguenti modificazioni:
 

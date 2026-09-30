@@ -52,7 +52,7 @@ aliases:
 - [Art. 22](01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/04%20-%20Capo%20IV%20-%20PROVVEDIMENTI%20SULLA%20GIURISDIZIONE%20E%20SULLA%20COMPETENZA/art-22-cpp.md) — Incompetenza dichiarata dal giudice per le indagini preliminari
 - [Art. 23](01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/04%20-%20Capo%20IV%20-%20PROVVEDIMENTI%20SULLA%20GIURISDIZIONE%20E%20SULLA%20COMPETENZA/art-23-cpp.md) — Incompetenza dichiarata nel dibattimento di primo grado
 - [Art. 24](01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/04%20-%20Capo%20IV%20-%20PROVVEDIMENTI%20SULLA%20GIURISDIZIONE%20E%20SULLA%20COMPETENZA/art-24-cpp.md) — Decisioni del giudice di appello sulla competenza
-- [Art. 24-bis](01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/04%20-%20Capo%20IV%20-%20PROVVEDIMENTI%20SULLA%20GIURISDIZIONE%20E%20SULLA%20COMPETENZA/art-24-bis-cpp.md) — (Rinvio pregiudiziale alla Corte di cassazione per la decisione sulla competenza per territorio).
+- [Art. 24-bis](01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/04%20-%20Capo%20IV%20-%20PROVVEDIMENTI%20SULLA%20GIURISDIZIONE%20E%20SULLA%20COMPETENZA/art-24-bis-cpp.md) — Rinvio pregiudiziale alla Corte di cassazione per la decisione sulla competenza per territorio
 - [Art. 25](01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/04%20-%20Capo%20IV%20-%20PROVVEDIMENTI%20SULLA%20GIURISDIZIONE%20E%20SULLA%20COMPETENZA/art-25-cpp.md) — Effetti delle decisioni della corte di cassazione sulla giurisdizione e sulla competenza
 - [Art. 26](01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/04%20-%20Capo%20IV%20-%20PROVVEDIMENTI%20SULLA%20GIURISDIZIONE%20E%20SULLA%20COMPETENZA/art-26-cpp.md) — Prove acquisite dal giudice incompetente
 - [Art. 27](01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/04%20-%20Capo%20IV%20-%20PROVVEDIMENTI%20SULLA%20GIURISDIZIONE%20E%20SULLA%20COMPETENZA/art-27-cpp.md) — Misure cautelari disposte dal giudice incompetente
@@ -70,8 +70,8 @@ aliases:
 - [Art. 33-ter](01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/06%20-%20Capo%20VI%20-%20CAPACITÀ%20E%20COMPOSIZIONE%20DEL%20GIUDICE/art-33-ter-cpp.md) — Attribuzioni del tribunale in composizione monocratica
 - [Art. 33-quater](01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/06%20-%20Capo%20VI%20-%20CAPACITÀ%20E%20COMPOSIZIONE%20DEL%20GIUDICE/art-33-quater-cpp.md) — Effetti della connessione sulla composizione del giudice
 - [Art. 33-quinquies](01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/06%20-%20Capo%20VI%20-%20CAPACITÀ%20E%20COMPOSIZIONE%20DEL%20GIUDICE/art-33-quinquies-cpp.md) — Inosservanza delle disposizioni sulla composizione collegiale o monocratica del tribunale
-- [Art. 33-sexies](01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/06%20-%20Capo%20VI%20-%20CAPACITÀ%20E%20COMPOSIZIONE%20DEL%20GIUDICE/art-33-sexies-cpp.md) — (Inosservanza dichiarata nell'udienza preliminare)
-- [Art. 33-septies](01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/06%20-%20Capo%20VI%20-%20CAPACITÀ%20E%20COMPOSIZIONE%20DEL%20GIUDICE/art-33-septies-cpp.md) — (Inosservanza dichiarata nel dibattimento di primo grado)
+- [Art. 33-sexies](01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/06%20-%20Capo%20VI%20-%20CAPACITÀ%20E%20COMPOSIZIONE%20DEL%20GIUDICE/art-33-sexies-cpp.md) — Inosservanza dichiarata nell'udienza preliminare
+- [Art. 33-septies](01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/06%20-%20Capo%20VI%20-%20CAPACITÀ%20E%20COMPOSIZIONE%20DEL%20GIUDICE/art-33-septies-cpp.md) — Inosservanza dichiarata nel dibattimento di primo grado
 - [Art. 33-octies](01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/06%20-%20Capo%20VI%20-%20CAPACITÀ%20E%20COMPOSIZIONE%20DEL%20GIUDICE/art-33-octies-cpp.md) — Inosservanza dichiarata dal giudice di appello o dalla corte di cassazione
 - [Art. 33-nonies](01%20-%20Libro%20I%20-%20SOGGETTI/01%20-%20Titolo%20I%20-%20GIUDICE/06%20-%20Capo%20VI%20-%20CAPACITÀ%20E%20COMPOSIZIONE%20DEL%20GIUDICE/art-33-nonies-cpp.md) — Validità delle prove acquisite
 
@@ -151,10 +151,10 @@ aliases:
 ### Titolo VI - PERSONA OFFESA DAL REATO
 - [Art. 90](01%20-%20Libro%20I%20-%20SOGGETTI/06%20-%20Titolo%20VI%20-%20PERSONA%20OFFESA%20DAL%20REATO/art-90-cpp.md) — Diritti e facoltà della persona offesa dal reato
 - [Art. 90-bis](01%20-%20Libro%20I%20-%20SOGGETTI/06%20-%20Titolo%20VI%20-%20PERSONA%20OFFESA%20DAL%20REATO/art-90-bis-cpp.md) — Informazioni alla persona offesa
-- [Art. 90-bis.1](01%20-%20Libro%20I%20-%20SOGGETTI/06%20-%20Titolo%20VI%20-%20PERSONA%20OFFESA%20DAL%20REATO/art-90-bis.1-cpp.md) — (Informazioni alla vittima di cui all'articolo 42, comma 1, lettera b), del decreto legislativo attuativo della legge 27 settembre 2021, n. 134).
-- [Art. 90-bis.2](01%20-%20Libro%20I%20-%20SOGGETTI/06%20-%20Titolo%20VI%20-%20PERSONA%20OFFESA%20DAL%20REATO/art-90-bis.2-cpp.md) — (Ulteriori informazioni alla persona offesa).
+- [Art. 90-bis.1](01%20-%20Libro%20I%20-%20SOGGETTI/06%20-%20Titolo%20VI%20-%20PERSONA%20OFFESA%20DAL%20REATO/art-90-bis.1-cpp.md) — Informazioni alla vittima di cui all'articolo 42, comma 1, lettera b
+- [Art. 90-bis.2](01%20-%20Libro%20I%20-%20SOGGETTI/06%20-%20Titolo%20VI%20-%20PERSONA%20OFFESA%20DAL%20REATO/art-90-bis.2-cpp.md) — Ulteriori informazioni alla persona offesa
 - [Art. 90-ter](01%20-%20Libro%20I%20-%20SOGGETTI/06%20-%20Titolo%20VI%20-%20PERSONA%20OFFESA%20DAL%20REATO/art-90-ter-cpp.md) — Comunicazioni dell'evasione e della scarcerazione
-- [Art. 90-quater](01%20-%20Libro%20I%20-%20SOGGETTI/06%20-%20Titolo%20VI%20-%20PERSONA%20OFFESA%20DAL%20REATO/art-90-quater-cpp.md) — (Condizione di particolare vulnerabilità).
+- [Art. 90-quater](01%20-%20Libro%20I%20-%20SOGGETTI/06%20-%20Titolo%20VI%20-%20PERSONA%20OFFESA%20DAL%20REATO/art-90-quater-cpp.md) — Condizione di particolare vulnerabilità
 - [Art. 91](01%20-%20Libro%20I%20-%20SOGGETTI/06%20-%20Titolo%20VI%20-%20PERSONA%20OFFESA%20DAL%20REATO/art-91-cpp.md) — Diritti e facoltà degli enti e delle associazioni rappresentativi di interessi lesi dal reato
 - [Art. 92](01%20-%20Libro%20I%20-%20SOGGETTI/06%20-%20Titolo%20VI%20-%20PERSONA%20OFFESA%20DAL%20REATO/art-92-cpp.md) — Consenso della persona offesa
 - [Art. 93](01%20-%20Libro%20I%20-%20SOGGETTI/06%20-%20Titolo%20VI%20-%20PERSONA%20OFFESA%20DAL%20REATO/art-93-cpp.md) — Intervento degli enti o delle associazioni
@@ -174,21 +174,21 @@ aliases:
 - [Art. 105](01%20-%20Libro%20I%20-%20SOGGETTI/07%20-%20Titolo%20VII%20-%20DIFENSORE/art-105-cpp.md) — Abbandono e rifiuto della difesa
 - [Art. 106](01%20-%20Libro%20I%20-%20SOGGETTI/07%20-%20Titolo%20VII%20-%20DIFENSORE/art-106-cpp.md) — Incompatibilità della difesa di più imputati nello stesso procedimento
 - [Art. 107](01%20-%20Libro%20I%20-%20SOGGETTI/07%20-%20Titolo%20VII%20-%20DIFENSORE/art-107-cpp.md) — Non accettazione, rinuncia o revoca del difensore
-- [Art. 108](01%20-%20Libro%20I%20-%20SOGGETTI/07%20-%20Titolo%20VII%20-%20DIFENSORE/art-108-cpp.md) — (Termine per la difesa)
+- [Art. 108](01%20-%20Libro%20I%20-%20SOGGETTI/07%20-%20Titolo%20VII%20-%20DIFENSORE/art-108-cpp.md) — Termine per la difesa
 
 ## Libro II - ATTI
 
 ### Titolo I - DISPOSIZIONI GENERALI
 - [Art. 109](02%20-%20Libro%20II%20-%20ATTI/01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-109-cpp.md) — Lingua degli atti
-- [Art. 110](02%20-%20Libro%20II%20-%20ATTI/01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-110-cpp.md) — (Forma degli atti).
+- [Art. 110](02%20-%20Libro%20II%20-%20ATTI/01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-110-cpp.md) — Forma degli atti
 - [Art. 111](02%20-%20Libro%20II%20-%20ATTI/01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-111-cpp.md) — Data e sottoscrizione degli atti
 - [Art. 111-bis](02%20-%20Libro%20II%20-%20ATTI/01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-111-bis-cpp.md) — Deposito telematico
-- [Art. 111-ter](02%20-%20Libro%20II%20-%20ATTI/01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-111-ter-cpp.md) — (Fascicolo informatico e accesso agli atti).
+- [Art. 111-ter](02%20-%20Libro%20II%20-%20ATTI/01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-111-ter-cpp.md) — Fascicolo informatico e accesso agli atti
 - [Art. 112](02%20-%20Libro%20II%20-%20ATTI/01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-112-cpp.md) — Surrogazione di copie agli originali mancanti
 - [Art. 113](02%20-%20Libro%20II%20-%20ATTI/01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-113-cpp.md) — Ricostituzione di atti
 - [Art. 114](02%20-%20Libro%20II%20-%20ATTI/01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-114-cpp.md) — Divieto di pubblicazione di atti e di immagini
 - [Art. 115](02%20-%20Libro%20II%20-%20ATTI/01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-115-cpp.md) — Violazione del divieto di pubblicazione
-- [Art. 115-bis](02%20-%20Libro%20II%20-%20ATTI/01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-115-bis-cpp.md) — (Garanzia della presunzione di innocenza).
+- [Art. 115-bis](02%20-%20Libro%20II%20-%20ATTI/01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-115-bis-cpp.md) — Garanzia della presunzione di innocenza
 - [Art. 116](02%20-%20Libro%20II%20-%20ATTI/01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-116-cpp.md) — Copie, estratti e certificati
 - [Art. 117](02%20-%20Libro%20II%20-%20ATTI/01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-117-cpp.md) — Richiesta di copie di atti e di informazioni da parte del pubblico ministero
 - [Art. 118](02%20-%20Libro%20II%20-%20ATTI/01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-118-cpp.md) — Richiesta di copie di atti e di informazioni da parte del ministro dell'interno
@@ -211,77 +211,79 @@ aliases:
 - [Art. 131](02%20-%20Libro%20II%20-%20ATTI/02%20-%20Titolo%20II%20-%20ATTI%20E%20PROVVEDIMENTI%20DEL%20GIUDICE/art-131-cpp.md) — Poteri coercitivi del giudice
 - [Art. 132](02%20-%20Libro%20II%20-%20ATTI/02%20-%20Titolo%20II%20-%20ATTI%20E%20PROVVEDIMENTI%20DEL%20GIUDICE/art-132-cpp.md) — Accompagnamento coattivo dell'imputato
 - [Art. 133](02%20-%20Libro%20II%20-%20ATTI/02%20-%20Titolo%20II%20-%20ATTI%20E%20PROVVEDIMENTI%20DEL%20GIUDICE/art-133-cpp.md) — Accompagnamento coattivo di altre persone
-- [Art. 133-bis](02%20-%20Libro%20II%20-%20ATTI/02%20-%20Titolo%20II%20-%20ATTI%20E%20PROVVEDIMENTI%20DEL%20GIUDICE/art-133-bis-cpp.md) — (Disposizione generale
-- [Art. 133-ter](02%20-%20Libro%20II%20-%20ATTI/02%20-%20Titolo%20II%20-%20ATTI%20E%20PROVVEDIMENTI%20DEL%20GIUDICE/art-133-ter-cpp.md) — Modalità e garanzie della partecipazione a distanza
+
+### Titolo II-bis - Partecipazione a distanza
+- [Art. 133-bis](02%20-%20Libro%20II%20-%20ATTI/03%20-%20Titolo%20II-bis%20-%20Partecipazione%20a%20distanza/art-133-bis-cpp.md) — Disposizione generale
+- [Art. 133-ter](02%20-%20Libro%20II%20-%20ATTI/03%20-%20Titolo%20II-bis%20-%20Partecipazione%20a%20distanza/art-133-ter-cpp.md) — Modalità e garanzie della partecipazione a distanza
 
 ### Titolo III - DOCUMENTAZIONE DEGLI ATTI
-- [Art. 134](02%20-%20Libro%20II%20-%20ATTI/03%20-%20Titolo%20III%20-%20DOCUMENTAZIONE%20DEGLI%20ATTI/art-134-cpp.md) — Modalità di documentazione
-- [Art. 135](02%20-%20Libro%20II%20-%20ATTI/03%20-%20Titolo%20III%20-%20DOCUMENTAZIONE%20DEGLI%20ATTI/art-135-cpp.md) — Redazione del verbale
-- [Art. 136](02%20-%20Libro%20II%20-%20ATTI/03%20-%20Titolo%20III%20-%20DOCUMENTAZIONE%20DEGLI%20ATTI/art-136-cpp.md) — Contenuto del verbale
-- [Art. 137](02%20-%20Libro%20II%20-%20ATTI/03%20-%20Titolo%20III%20-%20DOCUMENTAZIONE%20DEGLI%20ATTI/art-137-cpp.md) — Sottoscrizione del verbale
-- [Art. 138](02%20-%20Libro%20II%20-%20ATTI/03%20-%20Titolo%20III%20-%20DOCUMENTAZIONE%20DEGLI%20ATTI/art-138-cpp.md) — Trascrizione del verbale redatto con il mezzo della stenotipia
-- [Art. 139](02%20-%20Libro%20II%20-%20ATTI/03%20-%20Titolo%20III%20-%20DOCUMENTAZIONE%20DEGLI%20ATTI/art-139-cpp.md) — Riproduzione fonografica o audiovisiva
-- [Art. 140](02%20-%20Libro%20II%20-%20ATTI/03%20-%20Titolo%20III%20-%20DOCUMENTAZIONE%20DEGLI%20ATTI/art-140-cpp.md) — Modalità di documentazione in casi particolari
-- [Art. 141](02%20-%20Libro%20II%20-%20ATTI/03%20-%20Titolo%20III%20-%20DOCUMENTAZIONE%20DEGLI%20ATTI/art-141-cpp.md) — Dichiarazioni orali delle parti
-- [Art. 141-bis](02%20-%20Libro%20II%20-%20ATTI/03%20-%20Titolo%20III%20-%20DOCUMENTAZIONE%20DEGLI%20ATTI/art-141-bis-cpp.md) — Modalità di documentazione dell'interrogatorio di persona in stato di detenzione
-- [Art. 142](02%20-%20Libro%20II%20-%20ATTI/03%20-%20Titolo%20III%20-%20DOCUMENTAZIONE%20DEGLI%20ATTI/art-142-cpp.md) — Nullità dei verbali
+- [Art. 134](02%20-%20Libro%20II%20-%20ATTI/04%20-%20Titolo%20III%20-%20DOCUMENTAZIONE%20DEGLI%20ATTI/art-134-cpp.md) — Modalità di documentazione
+- [Art. 135](02%20-%20Libro%20II%20-%20ATTI/04%20-%20Titolo%20III%20-%20DOCUMENTAZIONE%20DEGLI%20ATTI/art-135-cpp.md) — Redazione del verbale
+- [Art. 136](02%20-%20Libro%20II%20-%20ATTI/04%20-%20Titolo%20III%20-%20DOCUMENTAZIONE%20DEGLI%20ATTI/art-136-cpp.md) — Contenuto del verbale
+- [Art. 137](02%20-%20Libro%20II%20-%20ATTI/04%20-%20Titolo%20III%20-%20DOCUMENTAZIONE%20DEGLI%20ATTI/art-137-cpp.md) — Sottoscrizione del verbale
+- [Art. 138](02%20-%20Libro%20II%20-%20ATTI/04%20-%20Titolo%20III%20-%20DOCUMENTAZIONE%20DEGLI%20ATTI/art-138-cpp.md) — Trascrizione del verbale redatto con il mezzo della stenotipia
+- [Art. 139](02%20-%20Libro%20II%20-%20ATTI/04%20-%20Titolo%20III%20-%20DOCUMENTAZIONE%20DEGLI%20ATTI/art-139-cpp.md) — Riproduzione fonografica o audiovisiva
+- [Art. 140](02%20-%20Libro%20II%20-%20ATTI/04%20-%20Titolo%20III%20-%20DOCUMENTAZIONE%20DEGLI%20ATTI/art-140-cpp.md) — Modalità di documentazione in casi particolari
+- [Art. 141](02%20-%20Libro%20II%20-%20ATTI/04%20-%20Titolo%20III%20-%20DOCUMENTAZIONE%20DEGLI%20ATTI/art-141-cpp.md) — Dichiarazioni orali delle parti
+- [Art. 141-bis](02%20-%20Libro%20II%20-%20ATTI/04%20-%20Titolo%20III%20-%20DOCUMENTAZIONE%20DEGLI%20ATTI/art-141-bis-cpp.md) — Modalità di documentazione dell'interrogatorio di persona in stato di detenzione
+- [Art. 142](02%20-%20Libro%20II%20-%20ATTI/04%20-%20Titolo%20III%20-%20DOCUMENTAZIONE%20DEGLI%20ATTI/art-142-cpp.md) — Nullità dei verbali
 
 ### Titolo IV - TRADUZIONE DEGLI ATTI
-- [Articolo 143](02%20-%20Libro%20II%20-%20ATTI/04%20-%20Titolo%20IV%20-%20TRADUZIONE%20DEGLI%20ATTI/art-143-cpp.md) — (Diritto all'interprete e alla traduzione di atti fondamentali)
-- [Articolo 143-bis](02%20-%20Libro%20II%20-%20ATTI/04%20-%20Titolo%20IV%20-%20TRADUZIONE%20DEGLI%20ATTI/art-143-bis-cpp.md) — (Altri casi di nomina dell'interprete).
-- [Art. 144](02%20-%20Libro%20II%20-%20ATTI/04%20-%20Titolo%20IV%20-%20TRADUZIONE%20DEGLI%20ATTI/art-144-cpp.md) — Incapacità e incompatibilità dell'interprete
-- [Art. 145](02%20-%20Libro%20II%20-%20ATTI/04%20-%20Titolo%20IV%20-%20TRADUZIONE%20DEGLI%20ATTI/art-145-cpp.md) — Ricusazione e astensione dell'interprete
-- [Art. 146](02%20-%20Libro%20II%20-%20ATTI/04%20-%20Titolo%20IV%20-%20TRADUZIONE%20DEGLI%20ATTI/art-146-cpp.md) — Conferimento dell'incarico
-- [Art. 147](02%20-%20Libro%20II%20-%20ATTI/04%20-%20Titolo%20IV%20-%20TRADUZIONE%20DEGLI%20ATTI/art-147-cpp.md) — Termine per le traduzioni scritte Sostituzione dell'interprete
+- [Articolo 143](02%20-%20Libro%20II%20-%20ATTI/05%20-%20Titolo%20IV%20-%20TRADUZIONE%20DEGLI%20ATTI/art-143-cpp.md) — Diritto all'interprete e alla traduzione di atti fondamentali
+- [Articolo 143-bis](02%20-%20Libro%20II%20-%20ATTI/05%20-%20Titolo%20IV%20-%20TRADUZIONE%20DEGLI%20ATTI/art-143-bis-cpp.md) — Altri casi di nomina dell'interprete
+- [Art. 144](02%20-%20Libro%20II%20-%20ATTI/05%20-%20Titolo%20IV%20-%20TRADUZIONE%20DEGLI%20ATTI/art-144-cpp.md) — Incapacità e incompatibilità dell'interprete
+- [Art. 145](02%20-%20Libro%20II%20-%20ATTI/05%20-%20Titolo%20IV%20-%20TRADUZIONE%20DEGLI%20ATTI/art-145-cpp.md) — Ricusazione e astensione dell'interprete
+- [Art. 146](02%20-%20Libro%20II%20-%20ATTI/05%20-%20Titolo%20IV%20-%20TRADUZIONE%20DEGLI%20ATTI/art-146-cpp.md) — Conferimento dell'incarico
+- [Art. 147](02%20-%20Libro%20II%20-%20ATTI/05%20-%20Titolo%20IV%20-%20TRADUZIONE%20DEGLI%20ATTI/art-147-cpp.md) — Termine per le traduzioni scritte Sostituzione dell'interprete
 
 ### Titolo V - NOTIFICAZIONI
-- [Art. 148](02%20-%20Libro%20II%20-%20ATTI/05%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-148-cpp.md) — (Organi e forme delle notificazioni).
-- [Art. 149](02%20-%20Libro%20II%20-%20ATTI/05%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-149-cpp.md) — (Notificazioni urgenti a mezzo del telefono e del telegrafo).
-- [Art. 150](02%20-%20Libro%20II%20-%20ATTI/05%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-150-cpp.md) — *(abrogato)*
-- [Art. 151](02%20-%20Libro%20II%20-%20ATTI/05%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-151-cpp.md) — *(abrogato)*
-- [Art. 152](02%20-%20Libro%20II%20-%20ATTI/05%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-152-cpp.md) — Notificazioni richieste dalle parti private
-- [Art. 153](02%20-%20Libro%20II%20-%20ATTI/05%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-153-cpp.md) — Notificazioni e comunicazioni al pubblico ministero
-- [Art. 153-bis](02%20-%20Libro%20II%20-%20ATTI/05%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-153-bis-cpp.md) — (Domicilio del querelante. Notificazioni al querelante.).
-- [Art. 154](02%20-%20Libro%20II%20-%20ATTI/05%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-154-cpp.md) — Notificazioni alla persona offesa, alla parte civile, al responsabile civile e al civilmente obbligato per la pena pecuniaria.
-- [Art. 155](02%20-%20Libro%20II%20-%20ATTI/05%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-155-cpp.md) — Notificazioni per pubblici annunzi alle persone offese
-- [Art. 156](02%20-%20Libro%20II%20-%20ATTI/05%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-156-cpp.md) — Notificazioni all'imputato detenuto
-- [Art. 157](02%20-%20Libro%20II%20-%20ATTI/05%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-157-cpp.md) — Prima notificazione all'imputato non detenuto
-- [Art. 157-bis](02%20-%20Libro%20II%20-%20ATTI/05%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-157-bis-cpp.md) — (Notifiche all'imputato non detenuto successive alla prima).
-- [Art. 157-ter](02%20-%20Libro%20II%20-%20ATTI/05%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-157-ter-cpp.md) — Notifiche degli atti introduttivi del giudizio all'imputato non detenuto
-- [Art. 158](02%20-%20Libro%20II%20-%20ATTI/05%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-158-cpp.md) — *(abrogato)*
-- [Art. 159](02%20-%20Libro%20II%20-%20ATTI/05%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-159-cpp.md) — Notificazioni all'imputato in caso di irreperibilità
-- [Art. 160](02%20-%20Libro%20II%20-%20ATTI/05%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-160-cpp.md) — Efficacia del decreto di irreperibilità
-- [Art. 161](02%20-%20Libro%20II%20-%20ATTI/05%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-161-cpp.md) — Domicilio dichiarato, eletto o determinato per le notificazioni
-- [Art. 162](02%20-%20Libro%20II%20-%20ATTI/05%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-162-cpp.md) — Comunicazione del domicilio dichiarato o del domicilio eletto
-- [Art. 163](02%20-%20Libro%20II%20-%20ATTI/05%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-163-cpp.md) — Formalità per le notificazioni nel domicilio dichiarato o eletto
-- [Art. 164](02%20-%20Libro%20II%20-%20ATTI/05%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-164-cpp.md) — Efficacia della dichiarazione e dell'elezione di domicilio
-- [Art. 165](02%20-%20Libro%20II%20-%20ATTI/05%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-165-cpp.md) — Notificazioni all'imputato latitante o evaso
-- [Art. 166](02%20-%20Libro%20II%20-%20ATTI/05%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-166-cpp.md) — Notificazioni all'imputato interdetto o infermo di mente
-- [Art. 167](02%20-%20Libro%20II%20-%20ATTI/05%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-167-cpp.md) — Notificazioni ad altri soggetti
-- [Art. 168](02%20-%20Libro%20II%20-%20ATTI/05%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-168-cpp.md) — Relazione di notificazione
-- [Art. 169](02%20-%20Libro%20II%20-%20ATTI/05%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-169-cpp.md) — Notificazioni all'imputato all'estero
-- [Art. 170](02%20-%20Libro%20II%20-%20ATTI/05%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-170-cpp.md) — Notificazioni col mezzo della posta
-- [Art. 171](02%20-%20Libro%20II%20-%20ATTI/05%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-171-cpp.md) — Nullità delle notificazioni
+- [Art. 148](02%20-%20Libro%20II%20-%20ATTI/06%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-148-cpp.md) — Organi e forme delle notificazioni
+- [Art. 149](02%20-%20Libro%20II%20-%20ATTI/06%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-149-cpp.md) — Notificazioni urgenti a mezzo del telefono e del telegrafo
+- [Art. 150](02%20-%20Libro%20II%20-%20ATTI/06%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-150-cpp.md) — *(abrogato)*
+- [Art. 151](02%20-%20Libro%20II%20-%20ATTI/06%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-151-cpp.md) — *(abrogato)*
+- [Art. 152](02%20-%20Libro%20II%20-%20ATTI/06%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-152-cpp.md) — Notificazioni richieste dalle parti private
+- [Art. 153](02%20-%20Libro%20II%20-%20ATTI/06%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-153-cpp.md) — Notificazioni e comunicazioni al pubblico ministero
+- [Art. 153-bis](02%20-%20Libro%20II%20-%20ATTI/06%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-153-bis-cpp.md) — Domicilio del querelante. Notificazioni al querelante
+- [Art. 154](02%20-%20Libro%20II%20-%20ATTI/06%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-154-cpp.md) — Notificazioni alla persona offesa, alla parte civile, al responsabile civile e al civilmente obbligato per la pena pecuniaria.
+- [Art. 155](02%20-%20Libro%20II%20-%20ATTI/06%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-155-cpp.md) — Notificazioni per pubblici annunzi alle persone offese
+- [Art. 156](02%20-%20Libro%20II%20-%20ATTI/06%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-156-cpp.md) — Notificazioni all'imputato detenuto
+- [Art. 157](02%20-%20Libro%20II%20-%20ATTI/06%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-157-cpp.md) — Prima notificazione all'imputato non detenuto
+- [Art. 157-bis](02%20-%20Libro%20II%20-%20ATTI/06%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-157-bis-cpp.md) — Notifiche all'imputato non detenuto successive alla prima
+- [Art. 157-ter](02%20-%20Libro%20II%20-%20ATTI/06%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-157-ter-cpp.md) — Notifiche degli atti introduttivi del giudizio all'imputato non detenuto
+- [Art. 158](02%20-%20Libro%20II%20-%20ATTI/06%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-158-cpp.md) — *(abrogato)*
+- [Art. 159](02%20-%20Libro%20II%20-%20ATTI/06%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-159-cpp.md) — Notificazioni all'imputato in caso di irreperibilità
+- [Art. 160](02%20-%20Libro%20II%20-%20ATTI/06%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-160-cpp.md) — Efficacia del decreto di irreperibilità
+- [Art. 161](02%20-%20Libro%20II%20-%20ATTI/06%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-161-cpp.md) — Domicilio dichiarato, eletto o determinato per le notificazioni
+- [Art. 162](02%20-%20Libro%20II%20-%20ATTI/06%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-162-cpp.md) — Comunicazione del domicilio dichiarato o del domicilio eletto
+- [Art. 163](02%20-%20Libro%20II%20-%20ATTI/06%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-163-cpp.md) — Formalità per le notificazioni nel domicilio dichiarato o eletto
+- [Art. 164](02%20-%20Libro%20II%20-%20ATTI/06%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-164-cpp.md) — Efficacia della dichiarazione e dell'elezione di domicilio
+- [Art. 165](02%20-%20Libro%20II%20-%20ATTI/06%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-165-cpp.md) — Notificazioni all'imputato latitante o evaso
+- [Art. 166](02%20-%20Libro%20II%20-%20ATTI/06%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-166-cpp.md) — Notificazioni all'imputato interdetto o infermo di mente
+- [Art. 167](02%20-%20Libro%20II%20-%20ATTI/06%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-167-cpp.md) — Notificazioni ad altri soggetti
+- [Art. 168](02%20-%20Libro%20II%20-%20ATTI/06%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-168-cpp.md) — Relazione di notificazione
+- [Art. 169](02%20-%20Libro%20II%20-%20ATTI/06%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-169-cpp.md) — Notificazioni all'imputato all'estero
+- [Art. 170](02%20-%20Libro%20II%20-%20ATTI/06%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-170-cpp.md) — Notificazioni col mezzo della posta
+- [Art. 171](02%20-%20Libro%20II%20-%20ATTI/06%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-171-cpp.md) — Nullità delle notificazioni
 
 ### Titolo VI - TERMINI
-- [Art. 172](02%20-%20Libro%20II%20-%20ATTI/06%20-%20Titolo%20VI%20-%20TERMINI/art-172-cpp.md) — Regole generali
-- [Art. 173](02%20-%20Libro%20II%20-%20ATTI/06%20-%20Titolo%20VI%20-%20TERMINI/art-173-cpp.md) — Termini a pena di decadenza. Abbreviazione
-- [Art. 174](02%20-%20Libro%20II%20-%20ATTI/06%20-%20Titolo%20VI%20-%20TERMINI/art-174-cpp.md) — Prolungamento dei termini di comparizione
-- [Art. 175](02%20-%20Libro%20II%20-%20ATTI/06%20-%20Titolo%20VI%20-%20TERMINI/art-175-cpp.md) — Restituzione nel termine
-- [Art. 175-bis](02%20-%20Libro%20II%20-%20ATTI/06%20-%20Titolo%20VI%20-%20TERMINI/art-175-bis-cpp.md) — (Malfunzionamento dei sistemi informatici).
-- [Art. 176](02%20-%20Libro%20II%20-%20ATTI/06%20-%20Titolo%20VI%20-%20TERMINI/art-176-cpp.md) — Effetti della restituzione nel termine
+- [Art. 172](02%20-%20Libro%20II%20-%20ATTI/07%20-%20Titolo%20VI%20-%20TERMINI/art-172-cpp.md) — Regole generali
+- [Art. 173](02%20-%20Libro%20II%20-%20ATTI/07%20-%20Titolo%20VI%20-%20TERMINI/art-173-cpp.md) — Termini a pena di decadenza. Abbreviazione
+- [Art. 174](02%20-%20Libro%20II%20-%20ATTI/07%20-%20Titolo%20VI%20-%20TERMINI/art-174-cpp.md) — Prolungamento dei termini di comparizione
+- [Art. 175](02%20-%20Libro%20II%20-%20ATTI/07%20-%20Titolo%20VI%20-%20TERMINI/art-175-cpp.md) — Restituzione nel termine
+- [Art. 175-bis](02%20-%20Libro%20II%20-%20ATTI/07%20-%20Titolo%20VI%20-%20TERMINI/art-175-bis-cpp.md) — Malfunzionamento dei sistemi informatici
+- [Art. 176](02%20-%20Libro%20II%20-%20ATTI/07%20-%20Titolo%20VI%20-%20TERMINI/art-176-cpp.md) — Effetti della restituzione nel termine
 
 ### Titolo VII - NULLITÀ
-- [Art. 177](02%20-%20Libro%20II%20-%20ATTI/07%20-%20Titolo%20VII%20-%20NULLITÀ/art-177-cpp.md) — Tassativà
-- [Art. 178](02%20-%20Libro%20II%20-%20ATTI/07%20-%20Titolo%20VII%20-%20NULLITÀ/art-178-cpp.md) — Nullità di ordine generale
-- [Art. 179](02%20-%20Libro%20II%20-%20ATTI/07%20-%20Titolo%20VII%20-%20NULLITÀ/art-179-cpp.md) — Nullità assolute
-- [Art. 180](02%20-%20Libro%20II%20-%20ATTI/07%20-%20Titolo%20VII%20-%20NULLITÀ/art-180-cpp.md) — Regime delle altre nullità di ordine generale
-- [Art. 181](02%20-%20Libro%20II%20-%20ATTI/07%20-%20Titolo%20VII%20-%20NULLITÀ/art-181-cpp.md) — Nullità relative
-- [Art. 182](02%20-%20Libro%20II%20-%20ATTI/07%20-%20Titolo%20VII%20-%20NULLITÀ/art-182-cpp.md) — Deducibilità delle nullità
-- [Art. 183](02%20-%20Libro%20II%20-%20ATTI/07%20-%20Titolo%20VII%20-%20NULLITÀ/art-183-cpp.md) — Sanatorie generali delle nullità
-- [Art. 184](02%20-%20Libro%20II%20-%20ATTI/07%20-%20Titolo%20VII%20-%20NULLITÀ/art-184-cpp.md) — Sanatoria delle nullità delle citazioni, degli avvisi e delle notificazioni
-- [Art. 185](02%20-%20Libro%20II%20-%20ATTI/07%20-%20Titolo%20VII%20-%20NULLITÀ/art-185-cpp.md) — Effetti della dichiarazione di nullità
-- [Art. 186](02%20-%20Libro%20II%20-%20ATTI/07%20-%20Titolo%20VII%20-%20NULLITÀ/art-186-cpp.md) — Inosservanza di norme tributarie
+- [Art. 177](02%20-%20Libro%20II%20-%20ATTI/08%20-%20Titolo%20VII%20-%20NULLITÀ/art-177-cpp.md) — Tassativà
+- [Art. 178](02%20-%20Libro%20II%20-%20ATTI/08%20-%20Titolo%20VII%20-%20NULLITÀ/art-178-cpp.md) — Nullità di ordine generale
+- [Art. 179](02%20-%20Libro%20II%20-%20ATTI/08%20-%20Titolo%20VII%20-%20NULLITÀ/art-179-cpp.md) — Nullità assolute
+- [Art. 180](02%20-%20Libro%20II%20-%20ATTI/08%20-%20Titolo%20VII%20-%20NULLITÀ/art-180-cpp.md) — Regime delle altre nullità di ordine generale
+- [Art. 181](02%20-%20Libro%20II%20-%20ATTI/08%20-%20Titolo%20VII%20-%20NULLITÀ/art-181-cpp.md) — Nullità relative
+- [Art. 182](02%20-%20Libro%20II%20-%20ATTI/08%20-%20Titolo%20VII%20-%20NULLITÀ/art-182-cpp.md) — Deducibilità delle nullità
+- [Art. 183](02%20-%20Libro%20II%20-%20ATTI/08%20-%20Titolo%20VII%20-%20NULLITÀ/art-183-cpp.md) — Sanatorie generali delle nullità
+- [Art. 184](02%20-%20Libro%20II%20-%20ATTI/08%20-%20Titolo%20VII%20-%20NULLITÀ/art-184-cpp.md) — Sanatoria delle nullità delle citazioni, degli avvisi e delle notificazioni
+- [Art. 185](02%20-%20Libro%20II%20-%20ATTI/08%20-%20Titolo%20VII%20-%20NULLITÀ/art-185-cpp.md) — Effetti della dichiarazione di nullità
+- [Art. 186](02%20-%20Libro%20II%20-%20ATTI/08%20-%20Titolo%20VII%20-%20NULLITÀ/art-186-cpp.md) — Inosservanza di norme tributarie
 
 ## Libro III - PROVE
 
@@ -312,7 +314,7 @@ aliases:
 - [Art. 204](03%20-%20Libro%20III%20-%20PROVE/02%20-%20Titolo%20II%20-%20MEZZI%20DI%20PROVA/01%20-%20Capo%20I%20-%20TESTIMONIANZA/art-204-cpp.md) — Esclusione del segreto
 - [Art. 205](03%20-%20Libro%20III%20-%20PROVE/02%20-%20Titolo%20II%20-%20MEZZI%20DI%20PROVA/01%20-%20Capo%20I%20-%20TESTIMONIANZA/art-205-cpp.md) — Assunzione della testimonianza del Presidente della Repubblica e di grandi ufficiali dello Stato
 - [Art. 206](03%20-%20Libro%20III%20-%20PROVE/02%20-%20Titolo%20II%20-%20MEZZI%20DI%20PROVA/01%20-%20Capo%20I%20-%20TESTIMONIANZA/art-206-cpp.md) — Assunzione della testimonianza di agenti diplomatici
-- [Art. 206-bis](03%20-%20Libro%20III%20-%20PROVE/02%20-%20Titolo%20II%20-%20MEZZI%20DI%20PROVA/01%20-%20Capo%20I%20-%20TESTIMONIANZA/art-206-bis-cpp.md) — (Assunzione della testimonianza di cardinali).
+- [Art. 206-bis](03%20-%20Libro%20III%20-%20PROVE/02%20-%20Titolo%20II%20-%20MEZZI%20DI%20PROVA/01%20-%20Capo%20I%20-%20TESTIMONIANZA/art-206-bis-cpp.md) — Assunzione della testimonianza di cardinali
 - [Art. 207](03%20-%20Libro%20III%20-%20PROVE/02%20-%20Titolo%20II%20-%20MEZZI%20DI%20PROVA/01%20-%20Capo%20I%20-%20TESTIMONIANZA/art-207-cpp.md) — Testimoni sospettati di falsità o reticenza Testimoni renitenti
 
 #### Capo II - ESAME DELLE PARTI
@@ -354,7 +356,7 @@ aliases:
 
 #### Capo VII - DOCUMENTI
 - [Art. 234](03%20-%20Libro%20III%20-%20PROVE/02%20-%20Titolo%20II%20-%20MEZZI%20DI%20PROVA/07%20-%20Capo%20VII%20-%20DOCUMENTI/art-234-cpp.md) — Prova documentale
-- [Art. 234-bis](03%20-%20Libro%20III%20-%20PROVE/02%20-%20Titolo%20II%20-%20MEZZI%20DI%20PROVA/07%20-%20Capo%20VII%20-%20DOCUMENTI/art-234-bis-cpp.md) — (Acquisizione di documenti e dati informatici).
+- [Art. 234-bis](03%20-%20Libro%20III%20-%20PROVE/02%20-%20Titolo%20II%20-%20MEZZI%20DI%20PROVA/07%20-%20Capo%20VII%20-%20DOCUMENTI/art-234-bis-cpp.md) — Acquisizione di documenti e dati informatici
 - [Art. 235](03%20-%20Libro%20III%20-%20PROVE/02%20-%20Titolo%20II%20-%20MEZZI%20DI%20PROVA/07%20-%20Capo%20VII%20-%20DOCUMENTI/art-235-cpp.md) — Documenti costituenti corpo del reato
 - [Art. 236](03%20-%20Libro%20III%20-%20PROVE/02%20-%20Titolo%20II%20-%20MEZZI%20DI%20PROVA/07%20-%20Capo%20VII%20-%20DOCUMENTI/art-236-cpp.md) — Documenti relativi al giudizio sulla personalità
 - [Art. 237](03%20-%20Libro%20III%20-%20PROVE/02%20-%20Titolo%20II%20-%20MEZZI%20DI%20PROVA/07%20-%20Capo%20VII%20-%20DOCUMENTI/art-237-cpp.md) — Acquisizione di documenti provenienti dall'imputato
@@ -380,7 +382,7 @@ aliases:
 - [Art. 250](03%20-%20Libro%20III%20-%20PROVE/03%20-%20Titolo%20III%20-%20MEZZI%20DI%20RICERCA%20DELLA%20PROVA/02%20-%20Capo%20II%20-%20PERQUISIZIONI/art-250-cpp.md) — Perquisizioni locali
 - [Art. 251](03%20-%20Libro%20III%20-%20PROVE/03%20-%20Titolo%20III%20-%20MEZZI%20DI%20RICERCA%20DELLA%20PROVA/02%20-%20Capo%20II%20-%20PERQUISIZIONI/art-251-cpp.md) — Perquisizioni nel domicilio. Limiti temporali
 - [Art. 252](03%20-%20Libro%20III%20-%20PROVE/03%20-%20Titolo%20III%20-%20MEZZI%20DI%20RICERCA%20DELLA%20PROVA/02%20-%20Capo%20II%20-%20PERQUISIZIONI/art-252-cpp.md) — Sequestro conseguente a perquisizione
-- [Art. 252-bis](03%20-%20Libro%20III%20-%20PROVE/03%20-%20Titolo%20III%20-%20MEZZI%20DI%20RICERCA%20DELLA%20PROVA/02%20-%20Capo%20II%20-%20PERQUISIZIONI/art-252-bis-cpp.md) — (Opposizione al decreto di perquisizione emesso dal pubblico ministero).
+- [Art. 252-bis](03%20-%20Libro%20III%20-%20PROVE/03%20-%20Titolo%20III%20-%20MEZZI%20DI%20RICERCA%20DELLA%20PROVA/02%20-%20Capo%20II%20-%20PERQUISIZIONI/art-252-bis-cpp.md) — Opposizione al decreto di perquisizione emesso dal pubblico ministero
 
 #### Capo III - SEQUESTRI
 - [Art. 253](03%20-%20Libro%20III%20-%20PROVE/03%20-%20Titolo%20III%20-%20MEZZI%20DI%20RICERCA%20DELLA%20PROVA/03%20-%20Capo%20III%20-%20SEQUESTRI/art-253-cpp.md) — Oggetto e formalità del sequestro
@@ -394,11 +396,11 @@ aliases:
 - [Art. 258](03%20-%20Libro%20III%20-%20PROVE/03%20-%20Titolo%20III%20-%20MEZZI%20DI%20RICERCA%20DELLA%20PROVA/03%20-%20Capo%20III%20-%20SEQUESTRI/art-258-cpp.md) — Copie dei documenti sequestrati
 - [Art. 259](03%20-%20Libro%20III%20-%20PROVE/03%20-%20Titolo%20III%20-%20MEZZI%20DI%20RICERCA%20DELLA%20PROVA/03%20-%20Capo%20III%20-%20SEQUESTRI/art-259-cpp.md) — Custodia delle cose sequestrate
 - [Art. 260](03%20-%20Libro%20III%20-%20PROVE/03%20-%20Titolo%20III%20-%20MEZZI%20DI%20RICERCA%20DELLA%20PROVA/03%20-%20Capo%20III%20-%20SEQUESTRI/art-260-cpp.md) — Apposizione dei sigilli alle cose sequestrate Cose deperibili. Distruzione di cose sequestrate
-- [Art. 260-bis](03%20-%20Libro%20III%20-%20PROVE/03%20-%20Titolo%20III%20-%20MEZZI%20DI%20RICERCA%20DELLA%20PROVA/03%20-%20Capo%20III%20-%20SEQUESTRI/art-260-bis-cpp.md) — (Affido definitivo dell'animale oggetto di sequestro o confisca).
+- [Art. 260-bis](03%20-%20Libro%20III%20-%20PROVE/03%20-%20Titolo%20III%20-%20MEZZI%20DI%20RICERCA%20DELLA%20PROVA/03%20-%20Capo%20III%20-%20SEQUESTRI/art-260-bis-cpp.md) — Affido definitivo dell'animale oggetto di sequestro o confisca
 - [Art. 261](03%20-%20Libro%20III%20-%20PROVE/03%20-%20Titolo%20III%20-%20MEZZI%20DI%20RICERCA%20DELLA%20PROVA/03%20-%20Capo%20III%20-%20SEQUESTRI/art-261-cpp.md) — Rimozione e riapposizione dei sigilli
 - [Art. 262](03%20-%20Libro%20III%20-%20PROVE/03%20-%20Titolo%20III%20-%20MEZZI%20DI%20RICERCA%20DELLA%20PROVA/03%20-%20Capo%20III%20-%20SEQUESTRI/art-262-cpp.md) — Durata del sequestro e restituzione delle cose sequestrate
 - [Art. 263](03%20-%20Libro%20III%20-%20PROVE/03%20-%20Titolo%20III%20-%20MEZZI%20DI%20RICERCA%20DELLA%20PROVA/03%20-%20Capo%20III%20-%20SEQUESTRI/art-263-cpp.md) — Procedimento per la restituzione delle cose sequestrate
-- [Art. 263-bis](03%20-%20Libro%20III%20-%20PROVE/03%20-%20Titolo%20III%20-%20MEZZI%20DI%20RICERCA%20DELLA%20PROVA/03%20-%20Capo%20III%20-%20SEQUESTRI/art-263-bis-cpp.md) — (Ordine di conservazione di dati).
+- [Art. 263-bis](03%20-%20Libro%20III%20-%20PROVE/03%20-%20Titolo%20III%20-%20MEZZI%20DI%20RICERCA%20DELLA%20PROVA/03%20-%20Capo%20III%20-%20SEQUESTRI/art-263-bis-cpp.md) — Ordine di conservazione di dati
 - [Art. 264](03%20-%20Libro%20III%20-%20PROVE/03%20-%20Titolo%20III%20-%20MEZZI%20DI%20RICERCA%20DELLA%20PROVA/03%20-%20Capo%20III%20-%20SEQUESTRI/art-264-cpp.md) — *(abrogato)*
 - [Art. 265](03%20-%20Libro%20III%20-%20PROVE/03%20-%20Titolo%20III%20-%20MEZZI%20DI%20RICERCA%20DELLA%20PROVA/03%20-%20Capo%20III%20-%20SEQUESTRI/art-265-cpp.md) — *(abrogato)*
 
@@ -426,7 +428,7 @@ aliases:
 - [Art. 275](04%20-%20Libro%20IV%20-%20MISURE%20CAUTELARI/01%20-%20Titolo%20I%20-%20MISURE%20CAUTELARI%20PERSONALI/01%20-%20Capo%20I%20-%20DISPOSIZIONI%20GENERALI/art-275-cpp.md) — Criteri di scelta delle misure
 - [Art. 275-bis](04%20-%20Libro%20IV%20-%20MISURE%20CAUTELARI/01%20-%20Titolo%20I%20-%20MISURE%20CAUTELARI%20PERSONALI/01%20-%20Capo%20I%20-%20DISPOSIZIONI%20GENERALI/art-275-bis-cpp.md) — Particolari modalità di controllo
 - [Art. 276](04%20-%20Libro%20IV%20-%20MISURE%20CAUTELARI/01%20-%20Titolo%20I%20-%20MISURE%20CAUTELARI%20PERSONALI/01%20-%20Capo%20I%20-%20DISPOSIZIONI%20GENERALI/art-276-cpp.md) — Provvedimenti in caso di trasgressione alle prescrizioni imposte
-- [Art. 276-bis](04%20-%20Libro%20IV%20-%20MISURE%20CAUTELARI/01%20-%20Titolo%20I%20-%20MISURE%20CAUTELARI%20PERSONALI/01%20-%20Capo%20I%20-%20DISPOSIZIONI%20GENERALI/art-276-bis-cpp.md) — (Provvedimenti in caso di evasione o di condotte pericolose realizzate da detenuti in istituti a custodia attenuata per detenute madri).
+- [Art. 276-bis](04%20-%20Libro%20IV%20-%20MISURE%20CAUTELARI/01%20-%20Titolo%20I%20-%20MISURE%20CAUTELARI%20PERSONALI/01%20-%20Capo%20I%20-%20DISPOSIZIONI%20GENERALI/art-276-bis-cpp.md) — Provvedimenti in caso di evasione o di condotte pericolose realizzate da detenuti in istituti a custodia attenuata per detenute madri
 - [Art. 277](04%20-%20Libro%20IV%20-%20MISURE%20CAUTELARI/01%20-%20Titolo%20I%20-%20MISURE%20CAUTELARI%20PERSONALI/01%20-%20Capo%20I%20-%20DISPOSIZIONI%20GENERALI/art-277-cpp.md) — Salvaguardia dei diritti della persona sottoposta a misure cautelari
 - [Art. 278](04%20-%20Libro%20IV%20-%20MISURE%20CAUTELARI/01%20-%20Titolo%20I%20-%20MISURE%20CAUTELARI%20PERSONALI/01%20-%20Capo%20I%20-%20DISPOSIZIONI%20GENERALI/art-278-cpp.md) — Determinazione della pena agli effetti dell'applicazione delle misure
 - [Art. 279](04%20-%20Libro%20IV%20-%20MISURE%20CAUTELARI/01%20-%20Titolo%20I%20-%20MISURE%20CAUTELARI%20PERSONALI/01%20-%20Capo%20I%20-%20DISPOSIZIONI%20GENERALI/art-279-cpp.md) — Giudice competente
@@ -449,7 +451,7 @@ aliases:
 - [Art. 287](04%20-%20Libro%20IV%20-%20MISURE%20CAUTELARI/01%20-%20Titolo%20I%20-%20MISURE%20CAUTELARI%20PERSONALI/03%20-%20Capo%20III%20-%20MISURE%20INTERDITTIVE/art-287-cpp.md) — Condizioni di applicabilità delle misure interdittive
 - [Art. 288](04%20-%20Libro%20IV%20-%20MISURE%20CAUTELARI/01%20-%20Titolo%20I%20-%20MISURE%20CAUTELARI%20PERSONALI/03%20-%20Capo%20III%20-%20MISURE%20INTERDITTIVE/art-288-cpp.md) — Sospensione dall'esercizio della responsabilità genitoriale
 - [Art. 289](04%20-%20Libro%20IV%20-%20MISURE%20CAUTELARI/01%20-%20Titolo%20I%20-%20MISURE%20CAUTELARI%20PERSONALI/03%20-%20Capo%20III%20-%20MISURE%20INTERDITTIVE/art-289-cpp.md) — Sospensione dall'esercizio di un pubblico ufficio o servizio
-- [Art. 289-bis](04%20-%20Libro%20IV%20-%20MISURE%20CAUTELARI/01%20-%20Titolo%20I%20-%20MISURE%20CAUTELARI%20PERSONALI/03%20-%20Capo%20III%20-%20MISURE%20INTERDITTIVE/art-289-bis-cpp.md) — (Divieto temporaneo di contrattare con la pubblica amministrazione).
+- [Art. 289-bis](04%20-%20Libro%20IV%20-%20MISURE%20CAUTELARI/01%20-%20Titolo%20I%20-%20MISURE%20CAUTELARI%20PERSONALI/03%20-%20Capo%20III%20-%20MISURE%20INTERDITTIVE/art-289-bis-cpp.md) — Divieto temporaneo di contrattare con la pubblica amministrazione
 - [Art. 290](04%20-%20Libro%20IV%20-%20MISURE%20CAUTELARI/01%20-%20Titolo%20I%20-%20MISURE%20CAUTELARI%20PERSONALI/03%20-%20Capo%20III%20-%20MISURE%20INTERDITTIVE/art-290-cpp.md) — Divieto temporaneo di esercitare determinate attività professionali o imprenditoriali
 
 #### Capo IV - FORMA ED ESECUZIONE DEI PROVVEDIMENTI
@@ -498,7 +500,7 @@ aliases:
 
 #### Capo II - SEQUESTRO PREVENTIVO
 - [Art. 321](04%20-%20Libro%20IV%20-%20MISURE%20CAUTELARI/02%20-%20Titolo%20II%20-%20MISURE%20CAUTELARI%20REALI/02%20-%20Capo%20II%20-%20SEQUESTRO%20PREVENTIVO/art-321-cpp.md) — Oggetto del sequestro preventivo
-- [Art. 321-bis](04%20-%20Libro%20IV%20-%20MISURE%20CAUTELARI/02%20-%20Titolo%20II%20-%20MISURE%20CAUTELARI%20REALI/02%20-%20Capo%20II%20-%20SEQUESTRO%20PREVENTIVO/art-321-bis-cpp.md) — (Reintegrazione nel possesso dell'immobile).
+- [Art. 321-bis](04%20-%20Libro%20IV%20-%20MISURE%20CAUTELARI/02%20-%20Titolo%20II%20-%20MISURE%20CAUTELARI%20REALI/02%20-%20Capo%20II%20-%20SEQUESTRO%20PREVENTIVO/art-321-bis-cpp.md) — Reintegrazione nel possesso dell'immobile
 - [Art. 322](04%20-%20Libro%20IV%20-%20MISURE%20CAUTELARI/02%20-%20Titolo%20II%20-%20MISURE%20CAUTELARI%20REALI/02%20-%20Capo%20II%20-%20SEQUESTRO%20PREVENTIVO/art-322-cpp.md) — Riesame del decreto di sequestro preventivo
 - [Art. 322-bis](04%20-%20Libro%20IV%20-%20MISURE%20CAUTELARI/02%20-%20Titolo%20II%20-%20MISURE%20CAUTELARI%20REALI/02%20-%20Capo%20II%20-%20SEQUESTRO%20PREVENTIVO/art-322-bis-cpp.md) — Appello
 - [Art. 323](04%20-%20Libro%20IV%20-%20MISURE%20CAUTELARI/02%20-%20Titolo%20II%20-%20MISURE%20CAUTELARI%20REALI/02%20-%20Capo%20II%20-%20SEQUESTRO%20PREVENTIVO/art-323-cpp.md) — Perdita di efficacia del sequestro preventivo
@@ -522,10 +524,10 @@ aliases:
 - [Art. 332](05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/02%20-%20Titolo%20II%20-%20NOTIZIA%20DI%20REATO/art-332-cpp.md) — Contenuto della denuncia
 - [Art. 333](05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/02%20-%20Titolo%20II%20-%20NOTIZIA%20DI%20REATO/art-333-cpp.md) — Denuncia da parte di privati
 - [Art. 334](05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/02%20-%20Titolo%20II%20-%20NOTIZIA%20DI%20REATO/art-334-cpp.md) — R e f e r t o
-- [Art. 334-bis](05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/02%20-%20Titolo%20II%20-%20NOTIZIA%20DI%20REATO/art-334-bis-cpp.md) — (Esclusione dell'obbligo di denuncia nell'ambito dell'attività di investigazione difensiva) 1. Il difensore e gli altri soggetti di cui all'articolo 391-bis non hanno obbligo di denuncia neppure relativamente ai reati dei quali abbiano avuto notizia nel corso delle attività investigative da essi svolte
+- [Art. 334-bis](05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/02%20-%20Titolo%20II%20-%20NOTIZIA%20DI%20REATO/art-334-bis-cpp.md) — Esclusione dell'obbligo di denuncia nell'ambito dell'attività di investigazione difensiva
 - [Art. 335](05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/02%20-%20Titolo%20II%20-%20NOTIZIA%20DI%20REATO/art-335-cpp.md) — Registro delle notizie di reato
-- [Art. 335-bis](05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/02%20-%20Titolo%20II%20-%20NOTIZIA%20DI%20REATO/art-335-bis-cpp.md) — (Limiti all'efficacia dell'iscrizione ai fini civili e amministrativi).
-- [Art. 335-ter](05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/02%20-%20Titolo%20II%20-%20NOTIZIA%20DI%20REATO/art-335-ter-cpp.md) — (Ordine di iscrizione del nome della persona sottoposta ad indagini).
+- [Art. 335-bis](05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/02%20-%20Titolo%20II%20-%20NOTIZIA%20DI%20REATO/art-335-bis-cpp.md) — Limiti all'efficacia dell'iscrizione ai fini civili e amministrativi
+- [Art. 335-ter](05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/02%20-%20Titolo%20II%20-%20NOTIZIA%20DI%20REATO/art-335-ter-cpp.md) — Ordine di iscrizione del nome della persona sottoposta ad indagini
 - [Art. 335-quater](05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/02%20-%20Titolo%20II%20-%20NOTIZIA%20DI%20REATO/art-335-quater-cpp.md) — Accertamento della tempestività dell'iscrizione nel registro delle notizie di reato
 - [Art. 335-quinquies](05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/02%20-%20Titolo%20II%20-%20NOTIZIA%20DI%20REATO/art-335-quinquies-cpp.md) — Attività di indagine in presenza di cause di giustificazione
 
@@ -560,6 +562,7 @@ aliases:
 - [Art. 358](05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/05%20-%20Titolo%20V%20-%20ATTIVITÀ%20DEL%20PUBBLICO%20MINISTERO/art-358-cpp.md) — Attività di indagine del pubblico ministero
 - [Art. 359](05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/05%20-%20Titolo%20V%20-%20ATTIVITÀ%20DEL%20PUBBLICO%20MINISTERO/art-359-cpp.md) — Consulenti tecnici del pubblico ministero
 - [Art. 359-bis](05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/05%20-%20Titolo%20V%20-%20ATTIVITÀ%20DEL%20PUBBLICO%20MINISTERO/art-359-bis-cpp.md) — Prelievo coattivo di campioni biologici su persone viventi
+- [Art. 359-ter](05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/05%20-%20Titolo%20V%20-%20ATTIVITÀ%20DEL%20PUBBLICO%20MINISTERO/art-359-ter-cpp.md) — Identificazione e localizzazione mediante sistemi di intelligenza artificiale per l'identificazione biometrica remota in tempo reale
 - [Art. 360](05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/05%20-%20Titolo%20V%20-%20ATTIVITÀ%20DEL%20PUBBLICO%20MINISTERO/art-360-cpp.md) — Accertamenti tecnici non ripetibili
 - [Art. 361](05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/05%20-%20Titolo%20V%20-%20ATTIVITÀ%20DEL%20PUBBLICO%20MINISTERO/art-361-cpp.md) — Individuazione di persone e di cose
 - [Art. 362](05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/05%20-%20Titolo%20V%20-%20ATTIVITÀ%20DEL%20PUBBLICO%20MINISTERO/art-362-cpp.md) — Assunzione di informazioni
@@ -595,7 +598,7 @@ aliases:
 - [Art. 385](05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/06%20-%20Titolo%20VI%20-%20ARRESTO%20IN%20FLAGRANZA%20E%20FERMO/art-385-cpp.md) — Divieto di arresto o di fermo in determinate circostanze
 - [Art. 386](05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/06%20-%20Titolo%20VI%20-%20ARRESTO%20IN%20FLAGRANZA%20E%20FERMO/art-386-cpp.md) — Doveri della polizia giudiziaria in caso di arresto o di fermo
 - [Art. 387](05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/06%20-%20Titolo%20VI%20-%20ARRESTO%20IN%20FLAGRANZA%20E%20FERMO/art-387-cpp.md) — Avviso dell'arresto o del fermo ai familiari
-- [Art. 387-bis](05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/06%20-%20Titolo%20VI%20-%20ARRESTO%20IN%20FLAGRANZA%20E%20FERMO/art-387-bis-cpp.md) — (Adempimenti della polizia giudiziaria nel caso di arresto o di fermo di madre di prole di minore età).
+- [Art. 387-bis](05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/06%20-%20Titolo%20VI%20-%20ARRESTO%20IN%20FLAGRANZA%20E%20FERMO/art-387-bis-cpp.md) — Adempimenti della polizia giudiziaria nel caso di arresto o di fermo di madre di prole di minore età
 - [Art. 388](05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/06%20-%20Titolo%20VI%20-%20ARRESTO%20IN%20FLAGRANZA%20E%20FERMO/art-388-cpp.md) — Interrogatorio dell'arrestato o del fermato
 - [Art. 389](05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/06%20-%20Titolo%20VI%20-%20ARRESTO%20IN%20FLAGRANZA%20E%20FERMO/art-389-cpp.md) — Casi di immediata liberazione dell'arrestato o del fermato
 - [Art. 390](05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/06%20-%20Titolo%20VI%20-%20ARRESTO%20IN%20FLAGRANZA%20E%20FERMO/art-390-cpp.md) — Richiesta di convalida dell'arresto o del fermo
@@ -633,7 +636,7 @@ aliases:
 - [Art. 408](05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/08%20-%20Titolo%20VIII%20-%20CHIUSURA%20DELLE%20INDAGINI%20PRELIMINARI/art-408-cpp.md) — Richiesta di archiviazione per infondatezza della notizia di reato
 - [Art. 409](05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/08%20-%20Titolo%20VIII%20-%20CHIUSURA%20DELLE%20INDAGINI%20PRELIMINARI/art-409-cpp.md) — Provvedimenti del giudice sulla richiesta di archiviazione
 - [Art. 410](05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/08%20-%20Titolo%20VIII%20-%20CHIUSURA%20DELLE%20INDAGINI%20PRELIMINARI/art-410-cpp.md) — Opposizione alla richiesta di archiviazione
-- [Art. 410-bis](05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/08%20-%20Titolo%20VIII%20-%20CHIUSURA%20DELLE%20INDAGINI%20PRELIMINARI/art-410-bis-cpp.md) — (Nullità del provvedimento di archiviazione).
+- [Art. 410-bis](05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/08%20-%20Titolo%20VIII%20-%20CHIUSURA%20DELLE%20INDAGINI%20PRELIMINARI/art-410-bis-cpp.md) — Nullità del provvedimento di archiviazione
 - [Art. 411](05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/08%20-%20Titolo%20VIII%20-%20CHIUSURA%20DELLE%20INDAGINI%20PRELIMINARI/art-411-cpp.md) — Altri casi di archiviazione
 - [Art. 412](05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/08%20-%20Titolo%20VIII%20-%20CHIUSURA%20DELLE%20INDAGINI%20PRELIMINARI/art-412-cpp.md) — Avocazione delle indagini preliminari per mancato esercizio dell'azione penale
 - [Art. 413](05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/08%20-%20Titolo%20VIII%20-%20CHIUSURA%20DELLE%20INDAGINI%20PRELIMINARI/art-413-cpp.md) — Richiesta della persona sottoposta alle indagini o della persona offesa dal reato
@@ -651,8 +654,8 @@ aliases:
 - [Art. 420-bis](05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/09%20-%20Titolo%20IX%20-%20UDIENZA%20PRELIMINARE/art-420-bis-cpp.md) — Assenza dell'imputato
 - [Art. 420-ter](05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/09%20-%20Titolo%20IX%20-%20UDIENZA%20PRELIMINARE/art-420-ter-cpp.md) — Impedimento a comparire dell'imputato o del difensore
 - [Art. 420-quater](05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/09%20-%20Titolo%20IX%20-%20UDIENZA%20PRELIMINARE/art-420-quater-cpp.md) — Sentenza di non doversi procedere per mancata conoscenza della pendenza del processo da parte dell'imputato
-- [Art. 420-quinquies](05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/09%20-%20Titolo%20IX%20-%20UDIENZA%20PRELIMINARE/art-420-quinquies-cpp.md) — (Atti urgenti).
-- [Art. 420-sexies](05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/09%20-%20Titolo%20IX%20-%20UDIENZA%20PRELIMINARE/art-420-sexies-cpp.md) — (Revoca della sentenza di non doversi procedere per mancata conoscenza della pendenza del processo).
+- [Art. 420-quinquies](05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/09%20-%20Titolo%20IX%20-%20UDIENZA%20PRELIMINARE/art-420-quinquies-cpp.md) — Atti urgenti
+- [Art. 420-sexies](05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/09%20-%20Titolo%20IX%20-%20UDIENZA%20PRELIMINARE/art-420-sexies-cpp.md) — Revoca della sentenza di non doversi procedere per mancata conoscenza della pendenza del processo
 - [Art. 421](05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/09%20-%20Titolo%20IX%20-%20UDIENZA%20PRELIMINARE/art-421-cpp.md) — Discussione
 - [Art. 421-bis](05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/09%20-%20Titolo%20IX%20-%20UDIENZA%20PRELIMINARE/art-421-bis-cpp.md) — Ordinanza per l'integrazione delle indagini
 - [Art. 422](05%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/09%20-%20Titolo%20IX%20-%20UDIENZA%20PRELIMINARE/art-422-cpp.md) — Attività di integrazione probatoria del giudice
@@ -706,7 +709,7 @@ aliases:
 - [Art. 456](06%20-%20Libro%20VI%20-%20PROCEDIMENTI%20SPECIALI/04%20-%20Titolo%20IV%20-%20GIUDIZIO%20IMMEDIATO/art-456-cpp.md) — Decreto di giudizio immediato
 - [Art. 457](06%20-%20Libro%20VI%20-%20PROCEDIMENTI%20SPECIALI/04%20-%20Titolo%20IV%20-%20GIUDIZIO%20IMMEDIATO/art-457-cpp.md) — Trasmissione degli atti
 - [Art. 458](06%20-%20Libro%20VI%20-%20PROCEDIMENTI%20SPECIALI/04%20-%20Titolo%20IV%20-%20GIUDIZIO%20IMMEDIATO/art-458-cpp.md) — Richiesta di giudizio abbreviato
-- [Art. 458-bis](06%20-%20Libro%20VI%20-%20PROCEDIMENTI%20SPECIALI/04%20-%20Titolo%20IV%20-%20GIUDIZIO%20IMMEDIATO/art-458-bis-cpp.md) — (Richiesta di applicazione della pena).
+- [Art. 458-bis](06%20-%20Libro%20VI%20-%20PROCEDIMENTI%20SPECIALI/04%20-%20Titolo%20IV%20-%20GIUDIZIO%20IMMEDIATO/art-458-bis-cpp.md) — Richiesta di applicazione della pena
 
 ### Titolo V - PROCEDIMENTO PER DECRETO
 - [Art. 459](06%20-%20Libro%20VI%20-%20PROCEDIMENTI%20SPECIALI/05%20-%20Titolo%20V%20-%20PROCEDIMENTO%20PER%20DECRETO/art-459-cpp.md) — Casi di procedimento per decreto
@@ -715,15 +718,17 @@ aliases:
 - [Art. 462](06%20-%20Libro%20VI%20-%20PROCEDIMENTI%20SPECIALI/05%20-%20Titolo%20V%20-%20PROCEDIMENTO%20PER%20DECRETO/art-462-cpp.md) — Restituzione nel termine per proporre opposizione
 - [Art. 463](06%20-%20Libro%20VI%20-%20PROCEDIMENTI%20SPECIALI/05%20-%20Titolo%20V%20-%20PROCEDIMENTO%20PER%20DECRETO/art-463-cpp.md) — Opposizione proposta soltanto da alcuni interessati
 - [Art. 464](06%20-%20Libro%20VI%20-%20PROCEDIMENTI%20SPECIALI/05%20-%20Titolo%20V%20-%20PROCEDIMENTO%20PER%20DECRETO/art-464-cpp.md) — Giudizio conseguente all'opposizione
-- [Art. 464-bis](06%20-%20Libro%20VI%20-%20PROCEDIMENTI%20SPECIALI/05%20-%20Titolo%20V%20-%20PROCEDIMENTO%20PER%20DECRETO/art-464-bis-cpp.md) — Sospensione del procedimento con messa alla prova
-- [Art. 464-ter](06%20-%20Libro%20VI%20-%20PROCEDIMENTI%20SPECIALI/05%20-%20Titolo%20V%20-%20PROCEDIMENTO%20PER%20DECRETO/art-464-ter-cpp.md) — (Richiesta di sospensione del procedimento con messa alla prova nel corso delle indagini preliminari).
-- [Art. 464-ter.1](06%20-%20Libro%20VI%20-%20PROCEDIMENTI%20SPECIALI/05%20-%20Titolo%20V%20-%20PROCEDIMENTO%20PER%20DECRETO/art-464-ter.1-cpp.md) — (Sospensione del procedimento con messa alla prova su proposta del pubblico ministero nel corso delle indagini preliminari).
-- [Art. 464-quater](06%20-%20Libro%20VI%20-%20PROCEDIMENTI%20SPECIALI/05%20-%20Titolo%20V%20-%20PROCEDIMENTO%20PER%20DECRETO/art-464-quater-cpp.md) — (Provvedimento del giudice ed effetti della pronuncia).
-- [Art. 464-quinquies](06%20-%20Libro%20VI%20-%20PROCEDIMENTI%20SPECIALI/05%20-%20Titolo%20V%20-%20PROCEDIMENTO%20PER%20DECRETO/art-464-quinquies-cpp.md) — (Esecuzione dell'ordinanza di sospensione del procedimento con messa alla prova).
-- [Art. 464-sexies](06%20-%20Libro%20VI%20-%20PROCEDIMENTI%20SPECIALI/05%20-%20Titolo%20V%20-%20PROCEDIMENTO%20PER%20DECRETO/art-464-sexies-cpp.md) — (Acquisizione di prove durante la sospensione del procedimento con messa alla prova).
-- [Art. 464-septies](06%20-%20Libro%20VI%20-%20PROCEDIMENTI%20SPECIALI/05%20-%20Titolo%20V%20-%20PROCEDIMENTO%20PER%20DECRETO/art-464-septies-cpp.md) — Esito della messa alla prova
-- [Art. 464-octies](06%20-%20Libro%20VI%20-%20PROCEDIMENTI%20SPECIALI/05%20-%20Titolo%20V%20-%20PROCEDIMENTO%20PER%20DECRETO/art-464-octies-cpp.md) — (Revoca dell'ordinanza).
-- [Art. 464-nonies](06%20-%20Libro%20VI%20-%20PROCEDIMENTI%20SPECIALI/05%20-%20Titolo%20V%20-%20PROCEDIMENTO%20PER%20DECRETO/art-464-nonies-cpp.md) — (Divieto di riproposizione della richiesta di messa alla prova).
+
+### Titolo V-bis - SOSPENSIONE DEL PROCEDIMENTO CON MESSA ALLA PROVA
+- [Art. 464-bis](06%20-%20Libro%20VI%20-%20PROCEDIMENTI%20SPECIALI/06%20-%20Titolo%20V-bis%20-%20SOSPENSIONE%20DEL%20PROCEDIMENTO%20CON%20MESSA%20ALLA%20PROVA/art-464-bis-cpp.md) — Sospensione del procedimento con messa alla prova
+- [Art. 464-ter](06%20-%20Libro%20VI%20-%20PROCEDIMENTI%20SPECIALI/06%20-%20Titolo%20V-bis%20-%20SOSPENSIONE%20DEL%20PROCEDIMENTO%20CON%20MESSA%20ALLA%20PROVA/art-464-ter-cpp.md) — Richiesta di sospensione del procedimento con messa alla prova nel corso delle indagini preliminari
+- [Art. 464-ter.1](06%20-%20Libro%20VI%20-%20PROCEDIMENTI%20SPECIALI/06%20-%20Titolo%20V-bis%20-%20SOSPENSIONE%20DEL%20PROCEDIMENTO%20CON%20MESSA%20ALLA%20PROVA/art-464-ter.1-cpp.md) — Sospensione del procedimento con messa alla prova su proposta del pubblico ministero nel corso delle indagini preliminari
+- [Art. 464-quater](06%20-%20Libro%20VI%20-%20PROCEDIMENTI%20SPECIALI/06%20-%20Titolo%20V-bis%20-%20SOSPENSIONE%20DEL%20PROCEDIMENTO%20CON%20MESSA%20ALLA%20PROVA/art-464-quater-cpp.md) — Provvedimento del giudice ed effetti della pronuncia
+- [Art. 464-quinquies](06%20-%20Libro%20VI%20-%20PROCEDIMENTI%20SPECIALI/06%20-%20Titolo%20V-bis%20-%20SOSPENSIONE%20DEL%20PROCEDIMENTO%20CON%20MESSA%20ALLA%20PROVA/art-464-quinquies-cpp.md) — Esecuzione dell'ordinanza di sospensione del procedimento con messa alla prova
+- [Art. 464-sexies](06%20-%20Libro%20VI%20-%20PROCEDIMENTI%20SPECIALI/06%20-%20Titolo%20V-bis%20-%20SOSPENSIONE%20DEL%20PROCEDIMENTO%20CON%20MESSA%20ALLA%20PROVA/art-464-sexies-cpp.md) — Acquisizione di prove durante la sospensione del procedimento con messa alla prova
+- [Art. 464-septies](06%20-%20Libro%20VI%20-%20PROCEDIMENTI%20SPECIALI/06%20-%20Titolo%20V-bis%20-%20SOSPENSIONE%20DEL%20PROCEDIMENTO%20CON%20MESSA%20ALLA%20PROVA/art-464-septies-cpp.md) — Esito della messa alla prova
+- [Art. 464-octies](06%20-%20Libro%20VI%20-%20PROCEDIMENTI%20SPECIALI/06%20-%20Titolo%20V-bis%20-%20SOSPENSIONE%20DEL%20PROCEDIMENTO%20CON%20MESSA%20ALLA%20PROVA/art-464-octies-cpp.md) — Revoca dell'ordinanza
+- [Art. 464-nonies](06%20-%20Libro%20VI%20-%20PROCEDIMENTI%20SPECIALI/06%20-%20Titolo%20V-bis%20-%20SOSPENSIONE%20DEL%20PROCEDIMENTO%20CON%20MESSA%20ALLA%20PROVA/art-464-nonies-cpp.md) — Divieto di riproposizione della richiesta di messa alla prova
 
 ## Libro VII - GIUDIZIO
 
@@ -788,7 +793,7 @@ aliases:
 - [Art. 512](07%20-%20Libro%20VII%20-%20GIUDIZIO/02%20-%20Titolo%20II%20-%20DIBATTIMENTO/03%20-%20Capo%20III%20-%20ISTRUZIONE%20DIBATTIMENTALE/art-512-cpp.md) — Lettura di atti per sopravvenuta impossibilità di ripetizione
 - [Art. 512-bis](07%20-%20Libro%20VII%20-%20GIUDIZIO/02%20-%20Titolo%20II%20-%20DIBATTIMENTO/03%20-%20Capo%20III%20-%20ISTRUZIONE%20DIBATTIMENTALE/art-512-bis-cpp.md) — Lettura di dichiarazioni rese da persona residente all'estero
 - [Art. 513](07%20-%20Libro%20VII%20-%20GIUDIZIO/02%20-%20Titolo%20II%20-%20DIBATTIMENTO/03%20-%20Capo%20III%20-%20ISTRUZIONE%20DIBATTIMENTALE/art-513-cpp.md) — Lettura delle dichiarazioni rese dall'imputato nel corso delle indagini preliminari o nell'udienza preliminare
-- [Art. 514](07%20-%20Libro%20VII%20-%20GIUDIZIO/02%20-%20Titolo%20II%20-%20DIBATTIMENTO/03%20-%20Capo%20III%20-%20ISTRUZIONE%20DIBATTIMENTALE/art-514-cpp.md) — (Letture vietate ).
+- [Art. 514](07%20-%20Libro%20VII%20-%20GIUDIZIO/02%20-%20Titolo%20II%20-%20DIBATTIMENTO/03%20-%20Capo%20III%20-%20ISTRUZIONE%20DIBATTIMENTALE/art-514-cpp.md) — Letture vietate
 - [Art. 515](07%20-%20Libro%20VII%20-%20GIUDIZIO/02%20-%20Titolo%20II%20-%20DIBATTIMENTO/03%20-%20Capo%20III%20-%20ISTRUZIONE%20DIBATTIMENTALE/art-515-cpp.md) — Allegazione di atti al fascicolo per il dibattimento
 
 #### Capo IV - NUOVE CONTESTAZIONI
@@ -848,36 +853,36 @@ aliases:
 ## Libro VIII - PROCEDIMENTO DAVANTI AL TRIBUNALE IN COMPOSIZIONE MONOCRATICA
 
 ### Titolo I - DISPOSIZIONE GENERALE
-- [Art. 549](08%20-%20Libro%20VIII%20-%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSIZIONE%20MONOCRATICA/01%20-%20Titolo%20I%20-%20DISPOSIZIONE%20GENERALE/art-549-cpp.md) — (Norme applicabili al procedimento davanti al tribunale in composizione monocratica) 1. Nel procedimento davanti al tribunale in composizione monocratica, per tutto ciò che non è previsto nel presente libro o in altre disposizioni, si osservano le norme contenute nei libri che precedono, in quanto applicabili.
+- [Art. 549](08%20-%20Libro%20VIII%20-%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSIZIONE%20MONOCRATICA/01%20-%20Titolo%20I%20-%20DISPOSIZIONE%20GENERALE/art-549-cpp.md) — Norme applicabili al procedimento davanti al tribunale in composizione monocratica
 
 ### Titolo II - CITAZIONE DIRETTA A GIUDIZIO
 - [Art. 550](08%20-%20Libro%20VIII%20-%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSIZIONE%20MONOCRATICA/02%20-%20Titolo%20II%20-%20CITAZIONE%20DIRETTA%20A%20GIUDIZIO/art-550-cpp.md) — Casi di citazione diretta a giudizio
-- [Art. 551](08%20-%20Libro%20VIII%20-%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSIZIONE%20MONOCRATICA/02%20-%20Titolo%20II%20-%20CITAZIONE%20DIRETTA%20A%20GIUDIZIO/art-551-cpp.md) — (Procedimenti connessi)
+- [Art. 551](08%20-%20Libro%20VIII%20-%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSIZIONE%20MONOCRATICA/02%20-%20Titolo%20II%20-%20CITAZIONE%20DIRETTA%20A%20GIUDIZIO/art-551-cpp.md) — Procedimenti connessi
 - [Art. 552](08%20-%20Libro%20VIII%20-%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSIZIONE%20MONOCRATICA/02%20-%20Titolo%20II%20-%20CITAZIONE%20DIRETTA%20A%20GIUDIZIO/art-552-cpp.md) — Decreto di citazione a giudizio
 - [Art. 553](08%20-%20Libro%20VIII%20-%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSIZIONE%20MONOCRATICA/02%20-%20Titolo%20II%20-%20CITAZIONE%20DIRETTA%20A%20GIUDIZIO/art-553-cpp.md) — Trasmissione degli atti al giudice dell'udienza di comparizione predibattimentale
-- [Art. 554](08%20-%20Libro%20VIII%20-%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSIZIONE%20MONOCRATICA/02%20-%20Titolo%20II%20-%20CITAZIONE%20DIRETTA%20A%20GIUDIZIO/art-554-cpp.md) — (Atti urgenti) 1. Il giudice per le indagini preliminari è competente ad assumere gli atti urgenti a norma dell'articolo 467 e provvede sulle misure cautelari fino a quando il decreto, unitamente al fascicolo per il dibattimento, non è trasmesso al giudice a norma dell'articolo 553, comma 1.
-- [Art. 554-bis](08%20-%20Libro%20VIII%20-%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSIZIONE%20MONOCRATICA/02%20-%20Titolo%20II%20-%20CITAZIONE%20DIRETTA%20A%20GIUDIZIO/art-554-bis-cpp.md) — (Udienza di comparizione predibattimentale a seguito di citazione diretta).
+- [Art. 554](08%20-%20Libro%20VIII%20-%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSIZIONE%20MONOCRATICA/02%20-%20Titolo%20II%20-%20CITAZIONE%20DIRETTA%20A%20GIUDIZIO/art-554-cpp.md) — Atti urgenti
+- [Art. 554-bis](08%20-%20Libro%20VIII%20-%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSIZIONE%20MONOCRATICA/02%20-%20Titolo%20II%20-%20CITAZIONE%20DIRETTA%20A%20GIUDIZIO/art-554-bis-cpp.md) — Udienza di comparizione predibattimentale a seguito di citazione diretta
 - [Art. 554-ter](08%20-%20Libro%20VIII%20-%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSIZIONE%20MONOCRATICA/02%20-%20Titolo%20II%20-%20CITAZIONE%20DIRETTA%20A%20GIUDIZIO/art-554-ter-cpp.md) — Provvedimenti del giudice
-- [Art. 554-quater](08%20-%20Libro%20VIII%20-%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSIZIONE%20MONOCRATICA/02%20-%20Titolo%20II%20-%20CITAZIONE%20DIRETTA%20A%20GIUDIZIO/art-554-quater-cpp.md) — (Impugnazione della sentenza di non luogo a procedere).
-- [Art. 554-quinquies](08%20-%20Libro%20VIII%20-%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSIZIONE%20MONOCRATICA/02%20-%20Titolo%20II%20-%20CITAZIONE%20DIRETTA%20A%20GIUDIZIO/art-554-quinquies-cpp.md) — (Revoca della sentenza di non luogo a procedere).
+- [Art. 554-quater](08%20-%20Libro%20VIII%20-%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSIZIONE%20MONOCRATICA/02%20-%20Titolo%20II%20-%20CITAZIONE%20DIRETTA%20A%20GIUDIZIO/art-554-quater-cpp.md) — Impugnazione della sentenza di non luogo a procedere
+- [Art. 554-quinquies](08%20-%20Libro%20VIII%20-%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSIZIONE%20MONOCRATICA/02%20-%20Titolo%20II%20-%20CITAZIONE%20DIRETTA%20A%20GIUDIZIO/art-554-quinquies-cpp.md) — Revoca della sentenza di non luogo a procedere
 - [Art. 555](08%20-%20Libro%20VIII%20-%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSIZIONE%20MONOCRATICA/02%20-%20Titolo%20II%20-%20CITAZIONE%20DIRETTA%20A%20GIUDIZIO/art-555-cpp.md) — Udienza dibattimentale a seguito della citazione diretta
 
 ### Titolo III - PROCEDIMENTI SPECIALI
 - [Art. 556](08%20-%20Libro%20VIII%20-%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSIZIONE%20MONOCRATICA/03%20-%20Titolo%20III%20-%20PROCEDIMENTI%20SPECIALI/art-556-cpp.md) — Giudizio abbreviato e applicazione della pena su richiesta
-- [Art. 557](08%20-%20Libro%20VIII%20-%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSIZIONE%20MONOCRATICA/03%20-%20Titolo%20III%20-%20PROCEDIMENTI%20SPECIALI/art-557-cpp.md) — (Procedimento per decreto)
+- [Art. 557](08%20-%20Libro%20VIII%20-%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSIZIONE%20MONOCRATICA/03%20-%20Titolo%20III%20-%20PROCEDIMENTI%20SPECIALI/art-557-cpp.md) — Procedimento per decreto
 - [Art. 558](08%20-%20Libro%20VIII%20-%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSIZIONE%20MONOCRATICA/03%20-%20Titolo%20III%20-%20PROCEDIMENTI%20SPECIALI/art-558-cpp.md) — Convalida dell'arresto e giudizio direttissimo
-- [Art. 558-bis](08%20-%20Libro%20VIII%20-%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSIZIONE%20MONOCRATICA/03%20-%20Titolo%20III%20-%20PROCEDIMENTI%20SPECIALI/art-558-bis-cpp.md) — (Giudizio immediato).
+- [Art. 558-bis](08%20-%20Libro%20VIII%20-%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSIZIONE%20MONOCRATICA/03%20-%20Titolo%20III%20-%20PROCEDIMENTI%20SPECIALI/art-558-bis-cpp.md) — Giudizio immediato
 
 ### Titolo IV - DIBATTIMENTO
-- [Art. 559](08%20-%20Libro%20VIII%20-%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSIZIONE%20MONOCRATICA/04%20-%20Titolo%20IV%20-%20DIBATTIMENTO/art-559-cpp.md) — (Dibattimento)
-- [Art. 560](08%20-%20Libro%20VIII%20-%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSIZIONE%20MONOCRATICA/04%20-%20Titolo%20IV%20-%20DIBATTIMENTO/art-560-cpp.md) — LA L. 16 DICEMBRE 1999, N. 479 HA DISPOSTO LA SOSTITUZIONE DEL LIBRO VIII COMPRENDENTE GLI ARTICOLI DA 549 A 559
-- [Art. 561](08%20-%20Libro%20VIII%20-%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSIZIONE%20MONOCRATICA/04%20-%20Titolo%20IV%20-%20DIBATTIMENTO/art-561-cpp.md) — LA L. 16 DICEMBRE 1999, N. 479 HA DISPOSTO LA SOSTITUZIONE DEL LIBRO VIII COMPRENDENTE GLI ARTICOLI DA 549 A 559
-- [Art. 562](08%20-%20Libro%20VIII%20-%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSIZIONE%20MONOCRATICA/04%20-%20Titolo%20IV%20-%20DIBATTIMENTO/art-562-cpp.md) — LA L. 16 DICEMBRE 1999, N. 479 HA DISPOSTO LA SOSTITUZIONE DEL LIBRO VIII COMPRENDENTE GLI ARTICOLI DA 549 A 559
-- [Art. 563](08%20-%20Libro%20VIII%20-%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSIZIONE%20MONOCRATICA/04%20-%20Titolo%20IV%20-%20DIBATTIMENTO/art-563-cpp.md) — LA L. 16 DICEMBRE 1999, N. 479 HA DISPOSTO LA SOSTITUZIONE DEL LIBRO VIII COMPRENDENTE GLI ARTICOLI DA 549 A 559
-- [Art. 564](08%20-%20Libro%20VIII%20-%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSIZIONE%20MONOCRATICA/04%20-%20Titolo%20IV%20-%20DIBATTIMENTO/art-564-cpp.md) — LA L. 16 DICEMBRE 1999, N. 479 HA DISPOSTO LA SOSTITUZIONE DEL LIBRO VIII COMPRENDENTE GLI ARTICOLI DA 549 A 559
-- [Art. 565](08%20-%20Libro%20VIII%20-%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSIZIONE%20MONOCRATICA/04%20-%20Titolo%20IV%20-%20DIBATTIMENTO/art-565-cpp.md) — LA L. 16 DICEMBRE 1999, N. 479 HA DISPOSTO LA SOSTITUZIONE DEL LIBRO VIII COMPRENDENTE GLI ARTICOLI DA 549 A 559
-- [Art. 566](08%20-%20Libro%20VIII%20-%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSIZIONE%20MONOCRATICA/04%20-%20Titolo%20IV%20-%20DIBATTIMENTO/art-566-cpp.md) — LA L. 16 DICEMBRE 1999, N. 479 HA DISPOSTO LA SOSTITUZIONE DEL LIBRO VIII COMPRENDENTE GLI ARTICOLI DA 549 A 559
-- [Art. 567](08%20-%20Libro%20VIII%20-%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSIZIONE%20MONOCRATICA/04%20-%20Titolo%20IV%20-%20DIBATTIMENTO/art-567-cpp.md) — LA L. 16 DICEMBRE 1999, N. 479 HA DISPOSTO LA SOSTITUZIONE DEL LIBRO VIII COMPRENDENTE GLI ARTICOLI DA 549 A 559
+- [Art. 559](08%20-%20Libro%20VIII%20-%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSIZIONE%20MONOCRATICA/04%20-%20Titolo%20IV%20-%20DIBATTIMENTO/art-559-cpp.md) — Dibattimento
+- [Art. 560](08%20-%20Libro%20VIII%20-%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSIZIONE%20MONOCRATICA/04%20-%20Titolo%20IV%20-%20DIBATTIMENTO/art-560-cpp.md)
+- [Art. 561](08%20-%20Libro%20VIII%20-%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSIZIONE%20MONOCRATICA/04%20-%20Titolo%20IV%20-%20DIBATTIMENTO/art-561-cpp.md)
+- [Art. 562](08%20-%20Libro%20VIII%20-%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSIZIONE%20MONOCRATICA/04%20-%20Titolo%20IV%20-%20DIBATTIMENTO/art-562-cpp.md)
+- [Art. 563](08%20-%20Libro%20VIII%20-%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSIZIONE%20MONOCRATICA/04%20-%20Titolo%20IV%20-%20DIBATTIMENTO/art-563-cpp.md)
+- [Art. 564](08%20-%20Libro%20VIII%20-%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSIZIONE%20MONOCRATICA/04%20-%20Titolo%20IV%20-%20DIBATTIMENTO/art-564-cpp.md)
+- [Art. 565](08%20-%20Libro%20VIII%20-%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSIZIONE%20MONOCRATICA/04%20-%20Titolo%20IV%20-%20DIBATTIMENTO/art-565-cpp.md)
+- [Art. 566](08%20-%20Libro%20VIII%20-%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSIZIONE%20MONOCRATICA/04%20-%20Titolo%20IV%20-%20DIBATTIMENTO/art-566-cpp.md)
+- [Art. 567](08%20-%20Libro%20VIII%20-%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSIZIONE%20MONOCRATICA/04%20-%20Titolo%20IV%20-%20DIBATTIMENTO/art-567-cpp.md)
 
 ## Libro IX - IMPUGNAZIONI
 
@@ -894,7 +899,7 @@ aliases:
 - [Art. 577](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-577-cpp.md) — *(abrogato)*
 - [Art. 578](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-578-cpp.md) — Decisione sugli effetti civili nel caso di estinzione del reato per amnistia o per prescrizione e nel caso di improcedibilità per superamento dei termini di durata massima del giudizio di impugnazione
 - [Art. 578-bis](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-578-bis-cpp.md) — Decisione sulla confisca in casi particolari nel caso di estinzione del reato per amnistia o per prescrizione
-- [Art. 578-ter](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-578-ter-cpp.md) — (Decisione sulla confisca e provvedimenti sui beni in sequestro nel caso di improcedibilità per superamento dei termini di durata massima del giudizio di impugnazione).
+- [Art. 578-ter](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-578-ter-cpp.md) — Decisione sulla confisca e provvedimenti sui beni in sequestro nel caso di improcedibilità per superamento dei termini di durata massima del giudizio di impugnazione
 - [Art. 579](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-579-cpp.md) — Impugnazione di sentenze che dispongono misure di sicurezza
 - [Art. 580](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-580-cpp.md) — Conversione del ricorso in appello
 - [Art. 581](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-581-cpp.md) — Forma dell'impugnazione
@@ -912,14 +917,14 @@ aliases:
 
 ### Titolo II - APPELLO
 - [Art. 593](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/02%20-%20Titolo%20II%20-%20APPELLO/art-593-cpp.md) — Casi di appello
-- [Art. 593-bis](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/02%20-%20Titolo%20II%20-%20APPELLO/art-593-bis-cpp.md) — (Appello del pubblico ministero).
+- [Art. 593-bis](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/02%20-%20Titolo%20II%20-%20APPELLO/art-593-bis-cpp.md) — Appello del pubblico ministero
 - [Art. 594](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/02%20-%20Titolo%20II%20-%20APPELLO/art-594-cpp.md) — *(abrogato)*
 - [Art. 595](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/02%20-%20Titolo%20II%20-%20APPELLO/art-595-cpp.md) — Appello incidentale
 - [Art. 596](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/02%20-%20Titolo%20II%20-%20APPELLO/art-596-cpp.md) — Giudice competente
 - [Art. 597](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/02%20-%20Titolo%20II%20-%20APPELLO/art-597-cpp.md) — Cognizione del giudice di appello
 - [Art. 598](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/02%20-%20Titolo%20II%20-%20APPELLO/art-598-cpp.md) — Estensione delle norme sul giudizio di primo grado al giudizio di appello
 - [Art. 598-bis](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/02%20-%20Titolo%20II%20-%20APPELLO/art-598-bis-cpp.md) — Decisioni in camera di consiglio senza la partecipazione delle parti
-- [Art. 598-ter](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/02%20-%20Titolo%20II%20-%20APPELLO/art-598-ter-cpp.md) — (Assenza dell'imputato in appello).
+- [Art. 598-ter](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/02%20-%20Titolo%20II%20-%20APPELLO/art-598-ter-cpp.md) — Assenza dell'imputato in appello
 - [Art. 599](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/02%20-%20Titolo%20II%20-%20APPELLO/art-599-cpp.md) — Decisioni in camera di consiglio con la partecipazione delle parti
 - [Art. 599-bis](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/02%20-%20Titolo%20II%20-%20APPELLO/art-599-bis-cpp.md) — Concordato anche con rinuncia ai motivi di appello
 - [Art. 600](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/02%20-%20Titolo%20II%20-%20APPELLO/art-600-cpp.md) — Provvedimenti in ordine all'esecuzione delle condanne civili
@@ -962,29 +967,31 @@ aliases:
 - [Art. 626](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/03%20-%20Titolo%20III%20-%20RICORSO%20PER%20CASSAZIONE/03%20-%20Capo%20III%20-%20SENTENZA/art-626-cpp.md) — Effetti della sentenza sui provvedimenti di natura personale o reale
 - [Art. 627](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/03%20-%20Titolo%20III%20-%20RICORSO%20PER%20CASSAZIONE/03%20-%20Capo%20III%20-%20SENTENZA/art-627-cpp.md) — Giudizio di rinvio dopo annullamento
 - [Art. 628](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/03%20-%20Titolo%20III%20-%20RICORSO%20PER%20CASSAZIONE/03%20-%20Capo%20III%20-%20SENTENZA/art-628-cpp.md) — Impugnabilità della sentenza del giudice di rinvio
-- [Art. 628-bis](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/03%20-%20Titolo%20III%20-%20RICORSO%20PER%20CASSAZIONE/03%20-%20Capo%20III%20-%20SENTENZA/art-628-bis-cpp.md) — (Richiesta per l'eliminazione degli effetti pregiudizievoli delle decisioni adottate in violazione della Convenzione per la salvaguardia dei diritti dell'uomo e delle libertà fondamentali o dei Protocolli addizionali).
+
+### Titolo III-bis - Rimedi per l'esecuzione delle decisioni della Corte europea dei diritti dell'uomo
+- [Art. 628-bis](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/04%20-%20Titolo%20III-bis%20-%20Rimedi%20per%20l%27esecuzione%20delle%20decisioni%20della%20Corte%20europea%20dei/art-628-bis-cpp.md) — Richiesta per l'eliminazione degli effetti pregiudizievoli delle decisioni adottate in violazione della Convenzione per la salvaguardia dei diritti dell'uomo e delle libertà fondamentali o dei Protocolli addizionali
 
 ### Titolo IV - REVISIONE
-- [Art. 629](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/04%20-%20Titolo%20IV%20-%20REVISIONE/art-629-cpp.md) — Condanne soggette a revisione
-- [Art. 629-bis](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/04%20-%20Titolo%20IV%20-%20REVISIONE/art-629-bis-cpp.md) — (Rescissione del giudicato).
-- [Art. 630](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/04%20-%20Titolo%20IV%20-%20REVISIONE/art-630-cpp.md) — Casi di revisione
-- [Art. 631](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/04%20-%20Titolo%20IV%20-%20REVISIONE/art-631-cpp.md) — Limiti della revisione
-- [Art. 632](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/04%20-%20Titolo%20IV%20-%20REVISIONE/art-632-cpp.md) — Soggetti legittimati alla richiesta
-- [Art. 633](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/04%20-%20Titolo%20IV%20-%20REVISIONE/art-633-cpp.md) — Forma della richiesta
-- [Art. 634](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/04%20-%20Titolo%20IV%20-%20REVISIONE/art-634-cpp.md) — Declaratoria d'inammissibilità
-- [Art. 635](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/04%20-%20Titolo%20IV%20-%20REVISIONE/art-635-cpp.md) — Sospensione dell'esecuzione
-- [Art. 636](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/04%20-%20Titolo%20IV%20-%20REVISIONE/art-636-cpp.md) — Giudizio di revisione
-- [Art. 637](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/04%20-%20Titolo%20IV%20-%20REVISIONE/art-637-cpp.md) — Sentenza
-- [Art. 638](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/04%20-%20Titolo%20IV%20-%20REVISIONE/art-638-cpp.md) — Revisione a favore del condannato defunto
-- [Art. 639](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/04%20-%20Titolo%20IV%20-%20REVISIONE/art-639-cpp.md) — Provvedimenti in accoglimento della richiesta
-- [Art. 640](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/04%20-%20Titolo%20IV%20-%20REVISIONE/art-640-cpp.md) — Impugnabilità della sentenza
-- [Art. 641](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/04%20-%20Titolo%20IV%20-%20REVISIONE/art-641-cpp.md) — Effetti dell'inammissibilità o del rigetto
-- [Art. 642](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/04%20-%20Titolo%20IV%20-%20REVISIONE/art-642-cpp.md) — Pubblicazione della sentenza di accoglimento della richiesta
-- [Art. 643](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/04%20-%20Titolo%20IV%20-%20REVISIONE/art-643-cpp.md) — Riparazione dell'errore giudiziario
-- [Art. 644](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/04%20-%20Titolo%20IV%20-%20REVISIONE/art-644-cpp.md) — Riparazione in caso di morte
-- [Art. 645](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/04%20-%20Titolo%20IV%20-%20REVISIONE/art-645-cpp.md) — Domanda di riparazione
-- [Art. 646](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/04%20-%20Titolo%20IV%20-%20REVISIONE/art-646-cpp.md) — Procedimento e decisione
-- [Art. 647](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/04%20-%20Titolo%20IV%20-%20REVISIONE/art-647-cpp.md) — Risarcimento del danno e riparazione
+- [Art. 629](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/05%20-%20Titolo%20IV%20-%20REVISIONE/art-629-cpp.md) — Condanne soggette a revisione
+- [Art. 629-bis](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/05%20-%20Titolo%20IV%20-%20REVISIONE/art-629-bis-cpp.md) — Rescissione del giudicato
+- [Art. 630](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/05%20-%20Titolo%20IV%20-%20REVISIONE/art-630-cpp.md) — Casi di revisione
+- [Art. 631](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/05%20-%20Titolo%20IV%20-%20REVISIONE/art-631-cpp.md) — Limiti della revisione
+- [Art. 632](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/05%20-%20Titolo%20IV%20-%20REVISIONE/art-632-cpp.md) — Soggetti legittimati alla richiesta
+- [Art. 633](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/05%20-%20Titolo%20IV%20-%20REVISIONE/art-633-cpp.md) — Forma della richiesta
+- [Art. 634](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/05%20-%20Titolo%20IV%20-%20REVISIONE/art-634-cpp.md) — Declaratoria d'inammissibilità
+- [Art. 635](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/05%20-%20Titolo%20IV%20-%20REVISIONE/art-635-cpp.md) — Sospensione dell'esecuzione
+- [Art. 636](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/05%20-%20Titolo%20IV%20-%20REVISIONE/art-636-cpp.md) — Giudizio di revisione
+- [Art. 637](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/05%20-%20Titolo%20IV%20-%20REVISIONE/art-637-cpp.md) — Sentenza
+- [Art. 638](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/05%20-%20Titolo%20IV%20-%20REVISIONE/art-638-cpp.md) — Revisione a favore del condannato defunto
+- [Art. 639](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/05%20-%20Titolo%20IV%20-%20REVISIONE/art-639-cpp.md) — Provvedimenti in accoglimento della richiesta
+- [Art. 640](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/05%20-%20Titolo%20IV%20-%20REVISIONE/art-640-cpp.md) — Impugnabilità della sentenza
+- [Art. 641](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/05%20-%20Titolo%20IV%20-%20REVISIONE/art-641-cpp.md) — Effetti dell'inammissibilità o del rigetto
+- [Art. 642](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/05%20-%20Titolo%20IV%20-%20REVISIONE/art-642-cpp.md) — Pubblicazione della sentenza di accoglimento della richiesta
+- [Art. 643](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/05%20-%20Titolo%20IV%20-%20REVISIONE/art-643-cpp.md) — Riparazione dell'errore giudiziario
+- [Art. 644](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/05%20-%20Titolo%20IV%20-%20REVISIONE/art-644-cpp.md) — Riparazione in caso di morte
+- [Art. 645](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/05%20-%20Titolo%20IV%20-%20REVISIONE/art-645-cpp.md) — Domanda di riparazione
+- [Art. 646](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/05%20-%20Titolo%20IV%20-%20REVISIONE/art-646-cpp.md) — Procedimento e decisione
+- [Art. 647](09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/05%20-%20Titolo%20IV%20-%20REVISIONE/art-647-cpp.md) — Risarcimento del danno e riparazione
 
 ## Libro X - ESECUZIONE
 
@@ -1002,9 +1009,9 @@ aliases:
 - [Art. 655](10%20-%20Libro%20X%20-%20ESECUZIONE/02%20-%20Titolo%20II%20-%20ESECUZIONE%20DEI%20PROVVEDIMENTI%20GIURISDIZIONALI/art-655-cpp.md) — Funzioni del pubblico ministero
 - [Art. 656](10%20-%20Libro%20X%20-%20ESECUZIONE/02%20-%20Titolo%20II%20-%20ESECUZIONE%20DEI%20PROVVEDIMENTI%20GIURISDIZIONALI/art-656-cpp.md) — Esecuzione delle pene detentive
 - [Art. 657](10%20-%20Libro%20X%20-%20ESECUZIONE/02%20-%20Titolo%20II%20-%20ESECUZIONE%20DEI%20PROVVEDIMENTI%20GIURISDIZIONALI/art-657-cpp.md) — Computo della custodia cautelare e delle pene espiate senza titolo
-- [Art. 657-bis](10%20-%20Libro%20X%20-%20ESECUZIONE/02%20-%20Titolo%20II%20-%20ESECUZIONE%20DEI%20PROVVEDIMENTI%20GIURISDIZIONALI/art-657-bis-cpp.md) — (Computo del periodo di messa alla prova dell'imputato in caso di revoca).
+- [Art. 657-bis](10%20-%20Libro%20X%20-%20ESECUZIONE/02%20-%20Titolo%20II%20-%20ESECUZIONE%20DEI%20PROVVEDIMENTI%20GIURISDIZIONALI/art-657-bis-cpp.md) — Computo del periodo di messa alla prova dell'imputato in caso di revoca
 - [Art. 658](10%20-%20Libro%20X%20-%20ESECUZIONE/02%20-%20Titolo%20II%20-%20ESECUZIONE%20DEI%20PROVVEDIMENTI%20GIURISDIZIONALI/art-658-cpp.md) — Esecuzione delle misure di sicurezza ordinate con sentenza
-- [Art. 658-bis](10%20-%20Libro%20X%20-%20ESECUZIONE/02%20-%20Titolo%20II%20-%20ESECUZIONE%20DEI%20PROVVEDIMENTI%20GIURISDIZIONALI/art-658-bis-cpp.md) — (Misure di sicurezza da eseguire presso strutture sanitarie).
+- [Art. 658-bis](10%20-%20Libro%20X%20-%20ESECUZIONE/02%20-%20Titolo%20II%20-%20ESECUZIONE%20DEI%20PROVVEDIMENTI%20GIURISDIZIONALI/art-658-bis-cpp.md) — Misure di sicurezza da eseguire presso strutture sanitarie
 - [Art. 659](10%20-%20Libro%20X%20-%20ESECUZIONE/02%20-%20Titolo%20II%20-%20ESECUZIONE%20DEI%20PROVVEDIMENTI%20GIURISDIZIONALI/art-659-cpp.md) — Esecuzione di provvedimenti del giudice di sorveglianza
 - [Art. 660](10%20-%20Libro%20X%20-%20ESECUZIONE/02%20-%20Titolo%20II%20-%20ESECUZIONE%20DEI%20PROVVEDIMENTI%20GIURISDIZIONALI/art-660-cpp.md) — Esecuzione delle pene pecuniarie
 - [Art. 661](10%20-%20Libro%20X%20-%20ESECUZIONE/02%20-%20Titolo%20II%20-%20ESECUZIONE%20DEI%20PROVVEDIMENTI%20GIURISDIZIONALI/art-661-cpp.md) — Esecuzione delle pene sostitutive
@@ -1056,105 +1063,109 @@ aliases:
 ## Libro XI - RAPPORTI GIURISDIZIONALI CON AUTORITÀ STRANIERE
 
 ### Titolo I - DISPOSIZIONI GENERALI
-- [Art. 696](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-696-cpp.md) — (Prevalenza del diritto dell'Unione europea, delle convenzioni e del diritto internazionale generale).
-- [Art. 696-bis](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-696-bis-cpp.md) — (Principio del mutuo riconoscimento).
-- [Art. 696-ter](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-696-ter-cpp.md) — (Tutela dei diritti fondamentali della persona nel mutuo riconoscimento).
-- [Art. 696-quater](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-696-quater-cpp.md) — (Modalità di trasmissione delle decisioni giudiziarie).
-- [Art. 696-quinquies](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-696-quinquies-cpp.md) — (Limiti al sindacato delle decisioni giudiziarie degli altri Stati membri).
-- [Art. 696-sexies](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-696-sexies-cpp.md) — (Poteri del Ministro della giustizia).
-- [Art. 696-septies](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-696-septies-cpp.md) — (Mutuo riconoscimento e responsabilità da reato degli enti).
-- [Art. 696-octies](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-696-octies-cpp.md) — (Modalità di esecuzione).
-- [Art. 696-nonies](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-696-nonies-cpp.md) — (Impugnazioni).
-- [Art. 696-decies](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-696-decies-cpp.md) — (Tutela dei terzi di buona fede).
+- [Art. 696](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-696-cpp.md) — Prevalenza del diritto dell'Unione europea, delle convenzioni e del diritto internazionale generale
+
+### Titolo I-bis - PRINCIPI GENERALI DEL MUTUO RICONOSCIMENTO DELLE DECISIONI E DEI PROVVEDIMENTI GIUDIZIARI TRA STATI MEMBRI DELL'UNIONE EUROPEA
+- [Art. 696-bis](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/02%20-%20Titolo%20I-bis%20-%20PRINCIPI%20GENERALI%20DEL%20MUTUO%20RICONOSCIMENTO%20DELLE%20DECISIONI%20E%20DEI/art-696-bis-cpp.md) — Principio del mutuo riconoscimento
+- [Art. 696-ter](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/02%20-%20Titolo%20I-bis%20-%20PRINCIPI%20GENERALI%20DEL%20MUTUO%20RICONOSCIMENTO%20DELLE%20DECISIONI%20E%20DEI/art-696-ter-cpp.md) — Tutela dei diritti fondamentali della persona nel mutuo riconoscimento
+- [Art. 696-quater](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/02%20-%20Titolo%20I-bis%20-%20PRINCIPI%20GENERALI%20DEL%20MUTUO%20RICONOSCIMENTO%20DELLE%20DECISIONI%20E%20DEI/art-696-quater-cpp.md) — Modalità di trasmissione delle decisioni giudiziarie
+- [Art. 696-quinquies](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/02%20-%20Titolo%20I-bis%20-%20PRINCIPI%20GENERALI%20DEL%20MUTUO%20RICONOSCIMENTO%20DELLE%20DECISIONI%20E%20DEI/art-696-quinquies-cpp.md) — Limiti al sindacato delle decisioni giudiziarie degli altri Stati membri
+- [Art. 696-sexies](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/02%20-%20Titolo%20I-bis%20-%20PRINCIPI%20GENERALI%20DEL%20MUTUO%20RICONOSCIMENTO%20DELLE%20DECISIONI%20E%20DEI/art-696-sexies-cpp.md) — Poteri del Ministro della giustizia
+- [Art. 696-septies](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/02%20-%20Titolo%20I-bis%20-%20PRINCIPI%20GENERALI%20DEL%20MUTUO%20RICONOSCIMENTO%20DELLE%20DECISIONI%20E%20DEI/art-696-septies-cpp.md) — Mutuo riconoscimento e responsabilità da reato degli enti
+- [Art. 696-octies](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/02%20-%20Titolo%20I-bis%20-%20PRINCIPI%20GENERALI%20DEL%20MUTUO%20RICONOSCIMENTO%20DELLE%20DECISIONI%20E%20DEI/art-696-octies-cpp.md) — Modalità di esecuzione
+- [Art. 696-nonies](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/02%20-%20Titolo%20I-bis%20-%20PRINCIPI%20GENERALI%20DEL%20MUTUO%20RICONOSCIMENTO%20DELLE%20DECISIONI%20E%20DEI/art-696-nonies-cpp.md) — Impugnazioni
+- [Art. 696-decies](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/02%20-%20Titolo%20I-bis%20-%20PRINCIPI%20GENERALI%20DEL%20MUTUO%20RICONOSCIMENTO%20DELLE%20DECISIONI%20E%20DEI/art-696-decies-cpp.md) — Tutela dei terzi di buona fede
 
 ### Titolo II - ESTRADIZIONE
 
 #### Capo I - ESTRADIZIONE PER L'ESTERO
 
 ##### Sezione I - Procedimento
-- [Art. 697](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/02%20-%20Titolo%20II%20-%20ESTRADIZIONE/01%20-%20Capo%20I%20-%20ESTRADIZIONE%20PER%20L%27ESTERO/01%20-%20Sezione%20I%20-%20Procedimento/art-697-cpp.md) — Estradizione e poteri del Ministro della giustizia
-- [Art. 698](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/02%20-%20Titolo%20II%20-%20ESTRADIZIONE/01%20-%20Capo%20I%20-%20ESTRADIZIONE%20PER%20L%27ESTERO/01%20-%20Sezione%20I%20-%20Procedimento/art-698-cpp.md) — Reati politici Tutela dei diritti fondamentali della persona
-- [Art. 699](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/02%20-%20Titolo%20II%20-%20ESTRADIZIONE/01%20-%20Capo%20I%20-%20ESTRADIZIONE%20PER%20L%27ESTERO/01%20-%20Sezione%20I%20-%20Procedimento/art-699-cpp.md) — Principio di specialità
-- [Art. 700](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/02%20-%20Titolo%20II%20-%20ESTRADIZIONE/01%20-%20Capo%20I%20-%20ESTRADIZIONE%20PER%20L%27ESTERO/01%20-%20Sezione%20I%20-%20Procedimento/art-700-cpp.md) — Documenti a sostegno della domanda
-- [Art. 701](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/02%20-%20Titolo%20II%20-%20ESTRADIZIONE/01%20-%20Capo%20I%20-%20ESTRADIZIONE%20PER%20L%27ESTERO/01%20-%20Sezione%20I%20-%20Procedimento/art-701-cpp.md) — Garanzia giurisdizionale
-- [Art. 702](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/02%20-%20Titolo%20II%20-%20ESTRADIZIONE/01%20-%20Capo%20I%20-%20ESTRADIZIONE%20PER%20L%27ESTERO/01%20-%20Sezione%20I%20-%20Procedimento/art-702-cpp.md) — Intervento dello stato richiedente
-- [Art. 703](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/02%20-%20Titolo%20II%20-%20ESTRADIZIONE/01%20-%20Capo%20I%20-%20ESTRADIZIONE%20PER%20L%27ESTERO/01%20-%20Sezione%20I%20-%20Procedimento/art-703-cpp.md) — Accertamenti del procuratore generale
-- [Art. 704](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/02%20-%20Titolo%20II%20-%20ESTRADIZIONE/01%20-%20Capo%20I%20-%20ESTRADIZIONE%20PER%20L%27ESTERO/01%20-%20Sezione%20I%20-%20Procedimento/art-704-cpp.md) — Procedimento davanti alla corte di appello
-- [Art. 705](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/02%20-%20Titolo%20II%20-%20ESTRADIZIONE/01%20-%20Capo%20I%20-%20ESTRADIZIONE%20PER%20L%27ESTERO/01%20-%20Sezione%20I%20-%20Procedimento/art-705-cpp.md) — Condizioni per la decisione
-- [Art. 706](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/02%20-%20Titolo%20II%20-%20ESTRADIZIONE/01%20-%20Capo%20I%20-%20ESTRADIZIONE%20PER%20L%27ESTERO/01%20-%20Sezione%20I%20-%20Procedimento/art-706-cpp.md) — Ricorso per cassazione
-- [Art. 707](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/02%20-%20Titolo%20II%20-%20ESTRADIZIONE/01%20-%20Capo%20I%20-%20ESTRADIZIONE%20PER%20L%27ESTERO/01%20-%20Sezione%20I%20-%20Procedimento/art-707-cpp.md) — Rinnovo della domanda di estradizione
-- [Art. 708](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/02%20-%20Titolo%20II%20-%20ESTRADIZIONE/01%20-%20Capo%20I%20-%20ESTRADIZIONE%20PER%20L%27ESTERO/01%20-%20Sezione%20I%20-%20Procedimento/art-708-cpp.md) — Provvedimento di estradizione. Consegna
-- [Art. 709](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/02%20-%20Titolo%20II%20-%20ESTRADIZIONE/01%20-%20Capo%20I%20-%20ESTRADIZIONE%20PER%20L%27ESTERO/01%20-%20Sezione%20I%20-%20Procedimento/art-709-cpp.md) — Sospensione della consegna Consegna temporanea. Esecuzione all'estero
-- [Art. 710](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/02%20-%20Titolo%20II%20-%20ESTRADIZIONE/01%20-%20Capo%20I%20-%20ESTRADIZIONE%20PER%20L%27ESTERO/01%20-%20Sezione%20I%20-%20Procedimento/art-710-cpp.md) — Estensione dell'estradizione concessa
-- [Art. 711](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/02%20-%20Titolo%20II%20-%20ESTRADIZIONE/01%20-%20Capo%20I%20-%20ESTRADIZIONE%20PER%20L%27ESTERO/01%20-%20Sezione%20I%20-%20Procedimento/art-711-cpp.md) — Riestradizione
-- [Art. 712](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/02%20-%20Titolo%20II%20-%20ESTRADIZIONE/01%20-%20Capo%20I%20-%20ESTRADIZIONE%20PER%20L%27ESTERO/01%20-%20Sezione%20I%20-%20Procedimento/art-712-cpp.md) — Transito
-- [Art. 713](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/02%20-%20Titolo%20II%20-%20ESTRADIZIONE/01%20-%20Capo%20I%20-%20ESTRADIZIONE%20PER%20L%27ESTERO/01%20-%20Sezione%20I%20-%20Procedimento/art-713-cpp.md) — Misure di sicurezza applicate all'estradato
+- [Art. 697](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/03%20-%20Titolo%20II%20-%20ESTRADIZIONE/01%20-%20Capo%20I%20-%20ESTRADIZIONE%20PER%20L%27ESTERO/01%20-%20Sezione%20I%20-%20Procedimento/art-697-cpp.md) — Estradizione e poteri del Ministro della giustizia
+- [Art. 698](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/03%20-%20Titolo%20II%20-%20ESTRADIZIONE/01%20-%20Capo%20I%20-%20ESTRADIZIONE%20PER%20L%27ESTERO/01%20-%20Sezione%20I%20-%20Procedimento/art-698-cpp.md) — Reati politici Tutela dei diritti fondamentali della persona
+- [Art. 699](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/03%20-%20Titolo%20II%20-%20ESTRADIZIONE/01%20-%20Capo%20I%20-%20ESTRADIZIONE%20PER%20L%27ESTERO/01%20-%20Sezione%20I%20-%20Procedimento/art-699-cpp.md) — Principio di specialità
+- [Art. 700](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/03%20-%20Titolo%20II%20-%20ESTRADIZIONE/01%20-%20Capo%20I%20-%20ESTRADIZIONE%20PER%20L%27ESTERO/01%20-%20Sezione%20I%20-%20Procedimento/art-700-cpp.md) — Documenti a sostegno della domanda
+- [Art. 701](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/03%20-%20Titolo%20II%20-%20ESTRADIZIONE/01%20-%20Capo%20I%20-%20ESTRADIZIONE%20PER%20L%27ESTERO/01%20-%20Sezione%20I%20-%20Procedimento/art-701-cpp.md) — Garanzia giurisdizionale
+- [Art. 702](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/03%20-%20Titolo%20II%20-%20ESTRADIZIONE/01%20-%20Capo%20I%20-%20ESTRADIZIONE%20PER%20L%27ESTERO/01%20-%20Sezione%20I%20-%20Procedimento/art-702-cpp.md) — Intervento dello stato richiedente
+- [Art. 703](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/03%20-%20Titolo%20II%20-%20ESTRADIZIONE/01%20-%20Capo%20I%20-%20ESTRADIZIONE%20PER%20L%27ESTERO/01%20-%20Sezione%20I%20-%20Procedimento/art-703-cpp.md) — Accertamenti del procuratore generale
+- [Art. 704](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/03%20-%20Titolo%20II%20-%20ESTRADIZIONE/01%20-%20Capo%20I%20-%20ESTRADIZIONE%20PER%20L%27ESTERO/01%20-%20Sezione%20I%20-%20Procedimento/art-704-cpp.md) — Procedimento davanti alla corte di appello
+- [Art. 705](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/03%20-%20Titolo%20II%20-%20ESTRADIZIONE/01%20-%20Capo%20I%20-%20ESTRADIZIONE%20PER%20L%27ESTERO/01%20-%20Sezione%20I%20-%20Procedimento/art-705-cpp.md) — Condizioni per la decisione
+- [Art. 706](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/03%20-%20Titolo%20II%20-%20ESTRADIZIONE/01%20-%20Capo%20I%20-%20ESTRADIZIONE%20PER%20L%27ESTERO/01%20-%20Sezione%20I%20-%20Procedimento/art-706-cpp.md) — Ricorso per cassazione
+- [Art. 707](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/03%20-%20Titolo%20II%20-%20ESTRADIZIONE/01%20-%20Capo%20I%20-%20ESTRADIZIONE%20PER%20L%27ESTERO/01%20-%20Sezione%20I%20-%20Procedimento/art-707-cpp.md) — Rinnovo della domanda di estradizione
+- [Art. 708](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/03%20-%20Titolo%20II%20-%20ESTRADIZIONE/01%20-%20Capo%20I%20-%20ESTRADIZIONE%20PER%20L%27ESTERO/01%20-%20Sezione%20I%20-%20Procedimento/art-708-cpp.md) — Provvedimento di estradizione. Consegna
+- [Art. 709](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/03%20-%20Titolo%20II%20-%20ESTRADIZIONE/01%20-%20Capo%20I%20-%20ESTRADIZIONE%20PER%20L%27ESTERO/01%20-%20Sezione%20I%20-%20Procedimento/art-709-cpp.md) — Sospensione della consegna Consegna temporanea. Esecuzione all'estero
+- [Art. 710](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/03%20-%20Titolo%20II%20-%20ESTRADIZIONE/01%20-%20Capo%20I%20-%20ESTRADIZIONE%20PER%20L%27ESTERO/01%20-%20Sezione%20I%20-%20Procedimento/art-710-cpp.md) — Estensione dell'estradizione concessa
+- [Art. 711](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/03%20-%20Titolo%20II%20-%20ESTRADIZIONE/01%20-%20Capo%20I%20-%20ESTRADIZIONE%20PER%20L%27ESTERO/01%20-%20Sezione%20I%20-%20Procedimento/art-711-cpp.md) — Riestradizione
+- [Art. 712](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/03%20-%20Titolo%20II%20-%20ESTRADIZIONE/01%20-%20Capo%20I%20-%20ESTRADIZIONE%20PER%20L%27ESTERO/01%20-%20Sezione%20I%20-%20Procedimento/art-712-cpp.md) — Transito
+- [Art. 713](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/03%20-%20Titolo%20II%20-%20ESTRADIZIONE/01%20-%20Capo%20I%20-%20ESTRADIZIONE%20PER%20L%27ESTERO/01%20-%20Sezione%20I%20-%20Procedimento/art-713-cpp.md) — Misure di sicurezza applicate all'estradato
 
 ##### Sezione II - Misure cautelari
-- [Art. 714](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/02%20-%20Titolo%20II%20-%20ESTRADIZIONE/01%20-%20Capo%20I%20-%20ESTRADIZIONE%20PER%20L%27ESTERO/02%20-%20Sezione%20II%20-%20Misure%20cautelari/art-714-cpp.md) — Misure coercitive e sequestro
-- [Art. 715](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/02%20-%20Titolo%20II%20-%20ESTRADIZIONE/01%20-%20Capo%20I%20-%20ESTRADIZIONE%20PER%20L%27ESTERO/02%20-%20Sezione%20II%20-%20Misure%20cautelari/art-715-cpp.md) — Applicazione provvisoria di misure cautelari
-- [Art. 716](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/02%20-%20Titolo%20II%20-%20ESTRADIZIONE/01%20-%20Capo%20I%20-%20ESTRADIZIONE%20PER%20L%27ESTERO/02%20-%20Sezione%20II%20-%20Misure%20cautelari/art-716-cpp.md) — Arresto da parte della polizia giudiziaria
-- [Art. 717](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/02%20-%20Titolo%20II%20-%20ESTRADIZIONE/01%20-%20Capo%20I%20-%20ESTRADIZIONE%20PER%20L%27ESTERO/02%20-%20Sezione%20II%20-%20Misure%20cautelari/art-717-cpp.md) — Audizione della persona sottoposta a una misura coercitiva
-- [Art. 718](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/02%20-%20Titolo%20II%20-%20ESTRADIZIONE/01%20-%20Capo%20I%20-%20ESTRADIZIONE%20PER%20L%27ESTERO/02%20-%20Sezione%20II%20-%20Misure%20cautelari/art-718-cpp.md) — Revoca e sostituzione delle misure
-- [Art. 719](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/02%20-%20Titolo%20II%20-%20ESTRADIZIONE/01%20-%20Capo%20I%20-%20ESTRADIZIONE%20PER%20L%27ESTERO/02%20-%20Sezione%20II%20-%20Misure%20cautelari/art-719-cpp.md) — Impugnazione dei provvedimenti relativi alle misure cautelari
+- [Art. 714](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/03%20-%20Titolo%20II%20-%20ESTRADIZIONE/01%20-%20Capo%20I%20-%20ESTRADIZIONE%20PER%20L%27ESTERO/02%20-%20Sezione%20II%20-%20Misure%20cautelari/art-714-cpp.md) — Misure coercitive e sequestro
+- [Art. 715](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/03%20-%20Titolo%20II%20-%20ESTRADIZIONE/01%20-%20Capo%20I%20-%20ESTRADIZIONE%20PER%20L%27ESTERO/02%20-%20Sezione%20II%20-%20Misure%20cautelari/art-715-cpp.md) — Applicazione provvisoria di misure cautelari
+- [Art. 716](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/03%20-%20Titolo%20II%20-%20ESTRADIZIONE/01%20-%20Capo%20I%20-%20ESTRADIZIONE%20PER%20L%27ESTERO/02%20-%20Sezione%20II%20-%20Misure%20cautelari/art-716-cpp.md) — Arresto da parte della polizia giudiziaria
+- [Art. 717](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/03%20-%20Titolo%20II%20-%20ESTRADIZIONE/01%20-%20Capo%20I%20-%20ESTRADIZIONE%20PER%20L%27ESTERO/02%20-%20Sezione%20II%20-%20Misure%20cautelari/art-717-cpp.md) — Audizione della persona sottoposta a una misura coercitiva
+- [Art. 718](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/03%20-%20Titolo%20II%20-%20ESTRADIZIONE/01%20-%20Capo%20I%20-%20ESTRADIZIONE%20PER%20L%27ESTERO/02%20-%20Sezione%20II%20-%20Misure%20cautelari/art-718-cpp.md) — Revoca e sostituzione delle misure
+- [Art. 719](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/03%20-%20Titolo%20II%20-%20ESTRADIZIONE/01%20-%20Capo%20I%20-%20ESTRADIZIONE%20PER%20L%27ESTERO/02%20-%20Sezione%20II%20-%20Misure%20cautelari/art-719-cpp.md) — Impugnazione dei provvedimenti relativi alle misure cautelari
 
 #### Capo II - ESTRADIZIONE DALL'ESTERO
-- [Art. 720](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/02%20-%20Titolo%20II%20-%20ESTRADIZIONE/02%20-%20Capo%20II%20-%20ESTRADIZIONE%20DALL%27ESTERO/art-720-cpp.md) — Domanda di estradizione
-- [Art. 721](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/02%20-%20Titolo%20II%20-%20ESTRADIZIONE/02%20-%20Capo%20II%20-%20ESTRADIZIONE%20DALL%27ESTERO/art-721-cpp.md) — (Principio di specialità).
-- [Art. 721-bis](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/02%20-%20Titolo%20II%20-%20ESTRADIZIONE/02%20-%20Capo%20II%20-%20ESTRADIZIONE%20DALL%27ESTERO/art-721-bis-cpp.md) — (Estensione dell'estradizione).
-- [Art. 722](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/02%20-%20Titolo%20II%20-%20ESTRADIZIONE/02%20-%20Capo%20II%20-%20ESTRADIZIONE%20DALL%27ESTERO/art-722-cpp.md) — (Custodia cautelare all'estero).
-- [Art. 722-bis](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/02%20-%20Titolo%20II%20-%20ESTRADIZIONE/02%20-%20Capo%20II%20-%20ESTRADIZIONE%20DALL%27ESTERO/art-722-bis-cpp.md) — (Riparazione per ingiusta detenzione).
+- [Art. 720](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/03%20-%20Titolo%20II%20-%20ESTRADIZIONE/02%20-%20Capo%20II%20-%20ESTRADIZIONE%20DALL%27ESTERO/art-720-cpp.md) — Domanda di estradizione
+- [Art. 721](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/03%20-%20Titolo%20II%20-%20ESTRADIZIONE/02%20-%20Capo%20II%20-%20ESTRADIZIONE%20DALL%27ESTERO/art-721-cpp.md) — Principio di specialità
+- [Art. 721-bis](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/03%20-%20Titolo%20II%20-%20ESTRADIZIONE/02%20-%20Capo%20II%20-%20ESTRADIZIONE%20DALL%27ESTERO/art-721-bis-cpp.md) — Estensione dell'estradizione
+- [Art. 722](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/03%20-%20Titolo%20II%20-%20ESTRADIZIONE/02%20-%20Capo%20II%20-%20ESTRADIZIONE%20DALL%27ESTERO/art-722-cpp.md) — Custodia cautelare all'estero
+- [Art. 722-bis](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/03%20-%20Titolo%20II%20-%20ESTRADIZIONE/02%20-%20Capo%20II%20-%20ESTRADIZIONE%20DALL%27ESTERO/art-722-bis-cpp.md) — Riparazione per ingiusta detenzione
 
 ### Titolo III - ROGATORIE INTERNAZIONALI
 
 #### Capo I - ROGATORIE DALL'ESTERO
-- [Art. 723](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/03%20-%20Titolo%20III%20-%20ROGATORIE%20INTERNAZIONALI/01%20-%20Capo%20I%20-%20ROGATORIE%20DALL%27ESTERO/art-723-cpp.md) — (Poteri del Ministro della giustizia).
-- [Art. 724](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/03%20-%20Titolo%20III%20-%20ROGATORIE%20INTERNAZIONALI/01%20-%20Capo%20I%20-%20ROGATORIE%20DALL%27ESTERO/art-724-cpp.md) — Procedimento di esecuzione
-- [Art. 725](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/03%20-%20Titolo%20III%20-%20ROGATORIE%20INTERNAZIONALI/01%20-%20Capo%20I%20-%20ROGATORIE%20DALL%27ESTERO/art-725-cpp.md) — (Esecuzione delle rogatorie).
-- [Art. 726](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/03%20-%20Titolo%20III%20-%20ROGATORIE%20INTERNAZIONALI/01%20-%20Capo%20I%20-%20ROGATORIE%20DALL%27ESTERO/art-726-cpp.md) — Citazione di testimoni a richiesta dell'autorità straniera
-- [Art. 726-bis](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/03%20-%20Titolo%20III%20-%20ROGATORIE%20INTERNAZIONALI/01%20-%20Capo%20I%20-%20ROGATORIE%20DALL%27ESTERO/art-726-bis-cpp.md) — Notifica diretta all'interessato
-- [Art. 726-ter](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/03%20-%20Titolo%20III%20-%20ROGATORIE%20INTERNAZIONALI/01%20-%20Capo%20I%20-%20ROGATORIE%20DALL%27ESTERO/art-726-ter-cpp.md) — (Rogatoria proveniente da autorità amministrativa straniera).
-- [Art. 726-quater](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/03%20-%20Titolo%20III%20-%20ROGATORIE%20INTERNAZIONALI/01%20-%20Capo%20I%20-%20ROGATORIE%20DALL%27ESTERO/art-726-quater-cpp.md) — (Trasferimento temporaneo all'estero di persone detenute).
-- [Art. 726-quinquies](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/03%20-%20Titolo%20III%20-%20ROGATORIE%20INTERNAZIONALI/01%20-%20Capo%20I%20-%20ROGATORIE%20DALL%27ESTERO/art-726-quinquies-cpp.md) — (Audizione mediante videoconferenza o altra trasmissione audiovisiva).
-- [Art. 726-sexies](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/03%20-%20Titolo%20III%20-%20ROGATORIE%20INTERNAZIONALI/01%20-%20Capo%20I%20-%20ROGATORIE%20DALL%27ESTERO/art-726-sexies-cpp.md) — (Audizione mediante teleconferenza).
+- [Art. 723](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/04%20-%20Titolo%20III%20-%20ROGATORIE%20INTERNAZIONALI/01%20-%20Capo%20I%20-%20ROGATORIE%20DALL%27ESTERO/art-723-cpp.md) — Poteri del Ministro della giustizia
+- [Art. 724](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/04%20-%20Titolo%20III%20-%20ROGATORIE%20INTERNAZIONALI/01%20-%20Capo%20I%20-%20ROGATORIE%20DALL%27ESTERO/art-724-cpp.md) — Procedimento di esecuzione
+- [Art. 725](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/04%20-%20Titolo%20III%20-%20ROGATORIE%20INTERNAZIONALI/01%20-%20Capo%20I%20-%20ROGATORIE%20DALL%27ESTERO/art-725-cpp.md) — Esecuzione delle rogatorie
+- [Art. 726](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/04%20-%20Titolo%20III%20-%20ROGATORIE%20INTERNAZIONALI/01%20-%20Capo%20I%20-%20ROGATORIE%20DALL%27ESTERO/art-726-cpp.md) — Citazione di testimoni a richiesta dell'autorità straniera
+- [Art. 726-bis](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/04%20-%20Titolo%20III%20-%20ROGATORIE%20INTERNAZIONALI/01%20-%20Capo%20I%20-%20ROGATORIE%20DALL%27ESTERO/art-726-bis-cpp.md) — Notifica diretta all'interessato
+- [Art. 726-ter](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/04%20-%20Titolo%20III%20-%20ROGATORIE%20INTERNAZIONALI/01%20-%20Capo%20I%20-%20ROGATORIE%20DALL%27ESTERO/art-726-ter-cpp.md) — Rogatoria proveniente da autorità amministrativa straniera
+- [Art. 726-quater](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/04%20-%20Titolo%20III%20-%20ROGATORIE%20INTERNAZIONALI/01%20-%20Capo%20I%20-%20ROGATORIE%20DALL%27ESTERO/art-726-quater-cpp.md) — Trasferimento temporaneo all'estero di persone detenute
+- [Art. 726-quinquies](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/04%20-%20Titolo%20III%20-%20ROGATORIE%20INTERNAZIONALI/01%20-%20Capo%20I%20-%20ROGATORIE%20DALL%27ESTERO/art-726-quinquies-cpp.md) — Audizione mediante videoconferenza o altra trasmissione audiovisiva
+- [Art. 726-sexies](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/04%20-%20Titolo%20III%20-%20ROGATORIE%20INTERNAZIONALI/01%20-%20Capo%20I%20-%20ROGATORIE%20DALL%27ESTERO/art-726-sexies-cpp.md) — Audizione mediante teleconferenza
 
 #### Capo II - ROGATORIE ALL'ESTERO
-- [Art. 727](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/03%20-%20Titolo%20III%20-%20ROGATORIE%20INTERNAZIONALI/02%20-%20Capo%20II%20-%20ROGATORIE%20ALL%27ESTERO/art-727-cpp.md) — Trasmissione di rogatorie ad autorità straniere
-- [Art. 728](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/03%20-%20Titolo%20III%20-%20ROGATORIE%20INTERNAZIONALI/02%20-%20Capo%20II%20-%20ROGATORIE%20ALL%27ESTERO/art-728-cpp.md) — (Immunità temporanea della persona citata).
-- [Art. 729](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/03%20-%20Titolo%20III%20-%20ROGATORIE%20INTERNAZIONALI/02%20-%20Capo%20II%20-%20ROGATORIE%20ALL%27ESTERO/art-729-cpp.md) — (Utilizzabilità degli atti assunti per rogatoria).
-- [Art. 729-bis](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/03%20-%20Titolo%20III%20-%20ROGATORIE%20INTERNAZIONALI/02%20-%20Capo%20II%20-%20ROGATORIE%20ALL%27ESTERO/art-729-bis-cpp.md) — (Acquisizione di atti e informazioni da autorità straniere).
-- [Art. 729-ter](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/03%20-%20Titolo%20III%20-%20ROGATORIE%20INTERNAZIONALI/02%20-%20Capo%20II%20-%20ROGATORIE%20ALL%27ESTERO/art-729-ter-cpp.md) — (Trasferimento temporaneo in Italia di persone detenute).
-- [Art. 729-quater](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/03%20-%20Titolo%20III%20-%20ROGATORIE%20INTERNAZIONALI/02%20-%20Capo%20II%20-%20ROGATORIE%20ALL%27ESTERO/art-729-quater-cpp.md) — (Audizione mediante videoconferenza o altra trasmissione audiovisiva).
-- [Art. 729-quinquies](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/03%20-%20Titolo%20III%20-%20ROGATORIE%20INTERNAZIONALI/02%20-%20Capo%20II%20-%20ROGATORIE%20ALL%27ESTERO/art-729-quinquies-cpp.md) — (Squadre investigative comuni).
+- [Art. 727](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/04%20-%20Titolo%20III%20-%20ROGATORIE%20INTERNAZIONALI/02%20-%20Capo%20II%20-%20ROGATORIE%20ALL%27ESTERO/art-727-cpp.md) — Trasmissione di rogatorie ad autorità straniere
+- [Art. 728](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/04%20-%20Titolo%20III%20-%20ROGATORIE%20INTERNAZIONALI/02%20-%20Capo%20II%20-%20ROGATORIE%20ALL%27ESTERO/art-728-cpp.md) — Immunità temporanea della persona citata
+- [Art. 729](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/04%20-%20Titolo%20III%20-%20ROGATORIE%20INTERNAZIONALI/02%20-%20Capo%20II%20-%20ROGATORIE%20ALL%27ESTERO/art-729-cpp.md) — Utilizzabilità degli atti assunti per rogatoria
+- [Art. 729-bis](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/04%20-%20Titolo%20III%20-%20ROGATORIE%20INTERNAZIONALI/02%20-%20Capo%20II%20-%20ROGATORIE%20ALL%27ESTERO/art-729-bis-cpp.md) — Acquisizione di atti e informazioni da autorità straniere
+- [Art. 729-ter](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/04%20-%20Titolo%20III%20-%20ROGATORIE%20INTERNAZIONALI/02%20-%20Capo%20II%20-%20ROGATORIE%20ALL%27ESTERO/art-729-ter-cpp.md) — Trasferimento temporaneo in Italia di persone detenute
+- [Art. 729-quater](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/04%20-%20Titolo%20III%20-%20ROGATORIE%20INTERNAZIONALI/02%20-%20Capo%20II%20-%20ROGATORIE%20ALL%27ESTERO/art-729-quater-cpp.md) — Audizione mediante videoconferenza o altra trasmissione audiovisiva
+- [Art. 729-quinquies](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/04%20-%20Titolo%20III%20-%20ROGATORIE%20INTERNAZIONALI/02%20-%20Capo%20II%20-%20ROGATORIE%20ALL%27ESTERO/art-729-quinquies-cpp.md) — Squadre investigative comuni
 
 ### Titolo IV - EFFETTI DELLE SENTENZE PENALI STRANIERE. ESECUZIONE ALL'ESTERO DI SENTENZE PENALI ITALIANE
 
 #### Capo I - EFFETTI DELLE SENTENZE PENALI STRANIERE
-- [Art. 730](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/04%20-%20Titolo%20IV%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE.%20ESECUZIONE%20ALL%27ESTERO%20DI%20SE/01%20-%20Capo%20I%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE/art-730-cpp.md) — Riconoscimento delle sentenze penali straniere per gli effetti previsti dal codice penale
-- [Art. 731](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/04%20-%20Titolo%20IV%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE.%20ESECUZIONE%20ALL%27ESTERO%20DI%20SE/01%20-%20Capo%20I%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE/art-731-cpp.md) — Riconoscimento delle sentenze penali straniere a norma di accordi internazionali
-- [Art. 732](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/04%20-%20Titolo%20IV%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE.%20ESECUZIONE%20ALL%27ESTERO%20DI%20SE/01%20-%20Capo%20I%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE/art-732-cpp.md) — Riconoscimento delle sentenze penali straniere per gli effetti civili
-- [Art. 733](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/04%20-%20Titolo%20IV%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE.%20ESECUZIONE%20ALL%27ESTERO%20DI%20SE/01%20-%20Capo%20I%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE/art-733-cpp.md) — Presupposti del riconoscimento
-- [Art. 734](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/04%20-%20Titolo%20IV%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE.%20ESECUZIONE%20ALL%27ESTERO%20DI%20SE/01%20-%20Capo%20I%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE/art-734-cpp.md) — (Deliberazione della corte di appello).
-- [Art. 734-bis](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/04%20-%20Titolo%20IV%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE.%20ESECUZIONE%20ALL%27ESTERO%20DI%20SE/01%20-%20Capo%20I%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE/art-734-bis-cpp.md) — (Poteri del Ministro in materia di esecuzione della decisione dello Stato estero).
-- [Art. 735](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/04%20-%20Titolo%20IV%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE.%20ESECUZIONE%20ALL%27ESTERO%20DI%20SE/01%20-%20Capo%20I%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE/art-735-cpp.md) — Determinazione della pena ed ordine di confisca
-- [Art. 735-bis](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/04%20-%20Titolo%20IV%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE.%20ESECUZIONE%20ALL%27ESTERO%20DI%20SE/01%20-%20Capo%20I%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE/art-735-bis-cpp.md) — Confisca consistente nella imposizione del pagamento di una somma di denaro
-- [Art. 736](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/04%20-%20Titolo%20IV%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE.%20ESECUZIONE%20ALL%27ESTERO%20DI%20SE/01%20-%20Capo%20I%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE/art-736-cpp.md) — Misure coercitive
-- [Art. 737](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/04%20-%20Titolo%20IV%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE.%20ESECUZIONE%20ALL%27ESTERO%20DI%20SE/01%20-%20Capo%20I%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE/art-737-cpp.md) — Sequestro
-- [Art. 737-bis](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/04%20-%20Titolo%20IV%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE.%20ESECUZIONE%20ALL%27ESTERO%20DI%20SE/01%20-%20Capo%20I%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE/art-737-bis-cpp.md) — Indagini e sequestro a fini di confisca
-- [Art. 738](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/04%20-%20Titolo%20IV%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE.%20ESECUZIONE%20ALL%27ESTERO%20DI%20SE/01%20-%20Capo%20I%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE/art-738-cpp.md) — Esecuzione conseguente al riconoscimento
-- [Art. 739](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/04%20-%20Titolo%20IV%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE.%20ESECUZIONE%20ALL%27ESTERO%20DI%20SE/01%20-%20Capo%20I%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE/art-739-cpp.md) — Divieto di estradizione e di nuovo procedimento
-- [Art. 740](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/04%20-%20Titolo%20IV%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE.%20ESECUZIONE%20ALL%27ESTERO%20DI%20SE/01%20-%20Capo%20I%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE/art-740-cpp.md) — Esecuzione della pena pecuniaria e devoluzione di cose confiscate
-- [Art. 740-bis](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/04%20-%20Titolo%20IV%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE.%20ESECUZIONE%20ALL%27ESTERO%20DI%20SE/01%20-%20Capo%20I%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE/art-740-bis-cpp.md) — Devoluzione ad uno Stato estero delle cose confiscate
-- [Art. 740-ter](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/04%20-%20Titolo%20IV%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE.%20ESECUZIONE%20ALL%27ESTERO%20DI%20SE/01%20-%20Capo%20I%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE/art-740-ter-cpp.md) — Ordine di devoluzione
-- [Art. 741](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/04%20-%20Titolo%20IV%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE.%20ESECUZIONE%20ALL%27ESTERO%20DI%20SE/01%20-%20Capo%20I%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE/art-741-cpp.md) — Procedimento relativo al riconoscimento delle disposizioni civili di sentenze penali straniere
+- [Art. 730](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/05%20-%20Titolo%20IV%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE.%20ESECUZIONE%20ALL%27ESTERO%20DI%20SE/01%20-%20Capo%20I%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE/art-730-cpp.md) — Riconoscimento delle sentenze penali straniere per gli effetti previsti dal codice penale
+- [Art. 731](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/05%20-%20Titolo%20IV%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE.%20ESECUZIONE%20ALL%27ESTERO%20DI%20SE/01%20-%20Capo%20I%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE/art-731-cpp.md) — Riconoscimento delle sentenze penali straniere a norma di accordi internazionali
+- [Art. 732](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/05%20-%20Titolo%20IV%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE.%20ESECUZIONE%20ALL%27ESTERO%20DI%20SE/01%20-%20Capo%20I%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE/art-732-cpp.md) — Riconoscimento delle sentenze penali straniere per gli effetti civili
+- [Art. 733](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/05%20-%20Titolo%20IV%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE.%20ESECUZIONE%20ALL%27ESTERO%20DI%20SE/01%20-%20Capo%20I%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE/art-733-cpp.md) — Presupposti del riconoscimento
+- [Art. 734](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/05%20-%20Titolo%20IV%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE.%20ESECUZIONE%20ALL%27ESTERO%20DI%20SE/01%20-%20Capo%20I%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE/art-734-cpp.md) — Deliberazione della corte di appello
+- [Art. 734-bis](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/05%20-%20Titolo%20IV%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE.%20ESECUZIONE%20ALL%27ESTERO%20DI%20SE/01%20-%20Capo%20I%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE/art-734-bis-cpp.md) — Poteri del Ministro in materia di esecuzione della decisione dello Stato estero
+- [Art. 735](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/05%20-%20Titolo%20IV%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE.%20ESECUZIONE%20ALL%27ESTERO%20DI%20SE/01%20-%20Capo%20I%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE/art-735-cpp.md) — Determinazione della pena ed ordine di confisca
+- [Art. 735-bis](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/05%20-%20Titolo%20IV%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE.%20ESECUZIONE%20ALL%27ESTERO%20DI%20SE/01%20-%20Capo%20I%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE/art-735-bis-cpp.md) — Confisca consistente nella imposizione del pagamento di una somma di denaro
+- [Art. 736](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/05%20-%20Titolo%20IV%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE.%20ESECUZIONE%20ALL%27ESTERO%20DI%20SE/01%20-%20Capo%20I%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE/art-736-cpp.md) — Misure coercitive
+- [Art. 737](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/05%20-%20Titolo%20IV%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE.%20ESECUZIONE%20ALL%27ESTERO%20DI%20SE/01%20-%20Capo%20I%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE/art-737-cpp.md) — Sequestro
+- [Art. 737-bis](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/05%20-%20Titolo%20IV%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE.%20ESECUZIONE%20ALL%27ESTERO%20DI%20SE/01%20-%20Capo%20I%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE/art-737-bis-cpp.md) — Indagini e sequestro a fini di confisca
+- [Art. 738](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/05%20-%20Titolo%20IV%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE.%20ESECUZIONE%20ALL%27ESTERO%20DI%20SE/01%20-%20Capo%20I%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE/art-738-cpp.md) — Esecuzione conseguente al riconoscimento
+- [Art. 739](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/05%20-%20Titolo%20IV%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE.%20ESECUZIONE%20ALL%27ESTERO%20DI%20SE/01%20-%20Capo%20I%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE/art-739-cpp.md) — Divieto di estradizione e di nuovo procedimento
+- [Art. 740](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/05%20-%20Titolo%20IV%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE.%20ESECUZIONE%20ALL%27ESTERO%20DI%20SE/01%20-%20Capo%20I%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE/art-740-cpp.md) — Esecuzione della pena pecuniaria e devoluzione di cose confiscate
+- [Art. 740-bis](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/05%20-%20Titolo%20IV%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE.%20ESECUZIONE%20ALL%27ESTERO%20DI%20SE/01%20-%20Capo%20I%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE/art-740-bis-cpp.md) — Devoluzione ad uno Stato estero delle cose confiscate
+- [Art. 740-ter](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/05%20-%20Titolo%20IV%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE.%20ESECUZIONE%20ALL%27ESTERO%20DI%20SE/01%20-%20Capo%20I%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE/art-740-ter-cpp.md) — Ordine di devoluzione
+- [Art. 741](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/05%20-%20Titolo%20IV%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE.%20ESECUZIONE%20ALL%27ESTERO%20DI%20SE/01%20-%20Capo%20I%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE/art-741-cpp.md) — Procedimento relativo al riconoscimento delle disposizioni civili di sentenze penali straniere
 
 #### Capo II - ESECUZIONE ALL'ESTERO DI SENTENZE PENALI ITALIANE
-- [Art. 742](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/04%20-%20Titolo%20IV%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE.%20ESECUZIONE%20ALL%27ESTERO%20DI%20SE/02%20-%20Capo%20II%20-%20ESECUZIONE%20ALL%27ESTERO%20DI%20SENTENZE%20PENALI%20ITALIANE/art-742-cpp.md) — Poteri del Ministro della giustizia e presupposti dell'esecuzione all'estero
-- [Art. 742-bis](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/04%20-%20Titolo%20IV%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE.%20ESECUZIONE%20ALL%27ESTERO%20DI%20SE/02%20-%20Capo%20II%20-%20ESECUZIONE%20ALL%27ESTERO%20DI%20SENTENZE%20PENALI%20ITALIANE/art-742-bis-cpp.md) — (Poteri del Ministro della giustizia in materia di esecuzione della decisione nello Stato estero).
-- [Art. 743](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/04%20-%20Titolo%20IV%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE.%20ESECUZIONE%20ALL%27ESTERO%20DI%20SE/02%20-%20Capo%20II%20-%20ESECUZIONE%20ALL%27ESTERO%20DI%20SENTENZE%20PENALI%20ITALIANE/art-743-cpp.md) — Deliberazione della corte di appello
-- [Art. 744](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/04%20-%20Titolo%20IV%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE.%20ESECUZIONE%20ALL%27ESTERO%20DI%20SE/02%20-%20Capo%20II%20-%20ESECUZIONE%20ALL%27ESTERO%20DI%20SENTENZE%20PENALI%20ITALIANE/art-744-cpp.md) — Limiti dell'esecuzione della condanna all'estero
-- [Art. 745](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/04%20-%20Titolo%20IV%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE.%20ESECUZIONE%20ALL%27ESTERO%20DI%20SE/02%20-%20Capo%20II%20-%20ESECUZIONE%20ALL%27ESTERO%20DI%20SENTENZE%20PENALI%20ITALIANE/art-745-cpp.md) — Richiesta di misure cautelari all'estero
-- [Art. 746](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/04%20-%20Titolo%20IV%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE.%20ESECUZIONE%20ALL%27ESTERO%20DI%20SE/02%20-%20Capo%20II%20-%20ESECUZIONE%20ALL%27ESTERO%20DI%20SENTENZE%20PENALI%20ITALIANE/art-746-cpp.md) — Effetti sull'esecuzione nello Stato
-- [Art. 746-bis](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/04%20-%20Titolo%20IV%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE.%20ESECUZIONE%20ALL%27ESTERO%20DI%20SE/02%20-%20Capo%20II%20-%20ESECUZIONE%20ALL%27ESTERO%20DI%20SENTENZE%20PENALI%20ITALIANE/art-746-bis-cpp.md) — (Disposizioni generali).
-- [Art. 746-ter](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/04%20-%20Titolo%20IV%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE.%20ESECUZIONE%20ALL%27ESTERO%20DI%20SE/02%20-%20Capo%20II%20-%20ESECUZIONE%20ALL%27ESTERO%20DI%20SENTENZE%20PENALI%20ITALIANE/art-746-ter-cpp.md) — (Assunzione di procedimenti penali dall'estero).
-- [Art. 746-quater](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/04%20-%20Titolo%20IV%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE.%20ESECUZIONE%20ALL%27ESTERO%20DI%20SE/02%20-%20Capo%20II%20-%20ESECUZIONE%20ALL%27ESTERO%20DI%20SENTENZE%20PENALI%20ITALIANE/art-746-quater-cpp.md) — (Trasferimento di procedimenti penali all'estero).
+- [Art. 742](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/05%20-%20Titolo%20IV%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE.%20ESECUZIONE%20ALL%27ESTERO%20DI%20SE/02%20-%20Capo%20II%20-%20ESECUZIONE%20ALL%27ESTERO%20DI%20SENTENZE%20PENALI%20ITALIANE/art-742-cpp.md) — Poteri del Ministro della giustizia e presupposti dell'esecuzione all'estero
+- [Art. 742-bis](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/05%20-%20Titolo%20IV%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE.%20ESECUZIONE%20ALL%27ESTERO%20DI%20SE/02%20-%20Capo%20II%20-%20ESECUZIONE%20ALL%27ESTERO%20DI%20SENTENZE%20PENALI%20ITALIANE/art-742-bis-cpp.md) — Poteri del Ministro della giustizia in materia di esecuzione della decisione nello Stato estero
+- [Art. 743](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/05%20-%20Titolo%20IV%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE.%20ESECUZIONE%20ALL%27ESTERO%20DI%20SE/02%20-%20Capo%20II%20-%20ESECUZIONE%20ALL%27ESTERO%20DI%20SENTENZE%20PENALI%20ITALIANE/art-743-cpp.md) — Deliberazione della corte di appello
+- [Art. 744](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/05%20-%20Titolo%20IV%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE.%20ESECUZIONE%20ALL%27ESTERO%20DI%20SE/02%20-%20Capo%20II%20-%20ESECUZIONE%20ALL%27ESTERO%20DI%20SENTENZE%20PENALI%20ITALIANE/art-744-cpp.md) — Limiti dell'esecuzione della condanna all'estero
+- [Art. 745](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/05%20-%20Titolo%20IV%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE.%20ESECUZIONE%20ALL%27ESTERO%20DI%20SE/02%20-%20Capo%20II%20-%20ESECUZIONE%20ALL%27ESTERO%20DI%20SENTENZE%20PENALI%20ITALIANE/art-745-cpp.md) — Richiesta di misure cautelari all'estero
+- [Art. 746](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/05%20-%20Titolo%20IV%20-%20EFFETTI%20DELLE%20SENTENZE%20PENALI%20STRANIERE.%20ESECUZIONE%20ALL%27ESTERO%20DI%20SE/02%20-%20Capo%20II%20-%20ESECUZIONE%20ALL%27ESTERO%20DI%20SENTENZE%20PENALI%20ITALIANE/art-746-cpp.md) — Effetti sull'esecuzione nello Stato
+
+### Titolo IV-bis - TRASFERIMENTO DEI PROCEDIMENTI PENALI
+- [Art. 746-bis](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/06%20-%20Titolo%20IV-bis%20-%20TRASFERIMENTO%20DEI%20PROCEDIMENTI%20PENALI/art-746-bis-cpp.md) — Disposizioni generali
+- [Art. 746-ter](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/06%20-%20Titolo%20IV-bis%20-%20TRASFERIMENTO%20DEI%20PROCEDIMENTI%20PENALI/art-746-ter-cpp.md) — Assunzione di procedimenti penali dall'estero
+- [Art. 746-quater](11%20-%20Libro%20XI%20-%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANIERE/06%20-%20Titolo%20IV-bis%20-%20TRASFERIMENTO%20DEI%20PROCEDIMENTI%20PENALI/art-746-quater-cpp.md) — Trasferimento di procedimenti penali all'estero

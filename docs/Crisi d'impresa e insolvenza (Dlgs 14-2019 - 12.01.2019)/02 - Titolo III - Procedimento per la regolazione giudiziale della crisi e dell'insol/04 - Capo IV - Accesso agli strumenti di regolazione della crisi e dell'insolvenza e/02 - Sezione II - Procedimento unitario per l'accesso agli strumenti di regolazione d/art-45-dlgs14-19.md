@@ -14,12 +14,12 @@ capo_label: "Accesso agli strumenti di regolazione della crisi e dell'insolvenza
 sezione: "II"
 sezione_label: "Procedimento unitario per l'accesso agli strumenti di regolazione della crisi e dell'insolvenza e alla liquidazione giudiziale"
 rubrica: "Comunicazione e pubblicazione del decreto di concessione dei termini"
-dataVigenza: "20260925"
+dataVigenza: "20260930"
 ordine: 56
 ---
 
 # Art. 45 - ***Comunicazione e pubblicazione del decreto di concessione dei termini***
 
-1\. Entro il giorno successivo al suo deposito, il decreto di concessione dei termini per l'accesso al concordato preventivo oppure per il deposito della domanda di omologazione del piano di ristrutturazione di cui all'articolo 64-bis o degli accordi di ristrutturazione di cui all'[articolo 44](art-44-dlgs14-19.md), comma 1, lettera a), è comunicato al debitore, al pubblico ministero e ai richiedenti l'apertura della liquidazione giudiziale.
+1\. Entro il giorno successivo al suo deposito, il decreto di concessione dei termini per l'accesso al concordato preventivo oppure per il deposito della domanda di omologazione del piano di ristrutturazione di cui all'[articolo 64-bis](../../../03%20-%20Titolo%20IV%20-%20Strumenti%20di%20regolazione%20della%20crisi%20e%20dell%27insolvenza/01%20-%20Capo%20I%20-%20Accordi/02%20-%20Sezione%20II%20-%20Accordi%20di%20ristrutturazione,%20convenzione%20di%20moratoria%20e%20accordi%20su/art-64-bis-dlgs14-19.md) o degli accordi di ristrutturazione di cui all'[articolo 44](art-44-dlgs14-19.md), comma 1, lettera a), è comunicato al debitore, al pubblico ministero e ai richiedenti l'apertura della liquidazione giudiziale.
 
 2\. Nello stesso termine il decreto è trasmesso per estratto a cura del cancelliere all'ufficio del registro delle imprese ai fini della sua iscrizione, da effettuarsi entro il giorno successivo. L'estratto contiene il nome del debitore, il nome del commissario, il dispositivo e la data del deposito. L'iscrizione è effettuata presso l'ufficio del registro delle imprese ove l'imprenditore ha la sede legale e, se questa differisce dalla sede effettiva, anche presso quello corrispondente al luogo ove la procedura è stata aperta.

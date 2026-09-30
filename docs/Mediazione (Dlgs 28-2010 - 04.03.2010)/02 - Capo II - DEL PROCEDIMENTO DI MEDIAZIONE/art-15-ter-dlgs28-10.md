@@ -14,13 +14,13 @@ capo_label: "DEL PROCEDIMENTO DI MEDIAZIONE"
 sezione: null
 sezione_label: null
 rubrica: "Condizioni reddituali per l'ammissione"
-dataVigenza: "20260925"
+dataVigenza: "20260930"
 ordine: 26
 ---
 
 # Art. 15-ter - ***Condizioni reddituali per l'ammissione***
 
-1\. Può essere ammesso al patrocinio chi è titolare di un reddito imponibile ai fini dell'imposta sul reddito delle persone fisiche, risultante dall'ultima dichiarazione, non superiore all'importo indicato dagli articoli 76 e 77 del testo unico delle disposizioni legislative e regolamentari in materia di spese di giustizia, di cui al decreto del Presidente della Repubblica 30 maggio 2002, n. 115. [^agg-9] [^agg-10]
+1\. Può essere ammesso al patrocinio chi è titolare di un reddito imponibile ai fini dell'imposta sul reddito delle persone fisiche, risultante dall'ultima dichiarazione, non superiore all'importo indicato dagli [articoli 76](../../DPR%20115-2002%20-%2030.05.2002/01%20-%20Titolo%20I%20-%20Disposizioni%20generali%20sul%20patrocinio%20a%20spese%20dello%20Stato%20nel%20processo/02%20-%20Capo%20II%20-%20Condizioni%20per%20l%27ammissione%20al%20patrocinio/art-76-dpr115-02.md) e [77 del testo unico delle disposizioni legislative e regolamentari in materia di spese di giustizia](../../DPR%20115-2002%20-%2030.05.2002/01%20-%20Titolo%20I%20-%20Disposizioni%20generali%20sul%20patrocinio%20a%20spese%20dello%20Stato%20nel%20processo/02%20-%20Capo%20II%20-%20Condizioni%20per%20l%27ammissione%20al%20patrocinio/art-77-dpr115-02.md), di cui al [decreto del Presidente della Repubblica 30 maggio 2002, n. 115](../../DPR%20115-2002%20-%2030.05.2002/00%20-%20Indice%20%28dpr115-02%29.md). [^agg-9] [^agg-10]
 
 [^agg-9]: *AGGIORNAMENTO (9)* Il [D.Lgs. 10 ottobre 2022, n. 149](../../Cartabia%20%28Dlgs%20149-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs149-22%29.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'[articolo 7](art-7-dlgs28-10.md) si applicano a decorrere dal 30 giugno 2023".
 

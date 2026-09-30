@@ -14,13 +14,13 @@ capo_label: "La gestione dei beni sequestrati e confiscati"
 sezione: null
 sezione_label: null
 rubrica: "Istituzione dei tavoli provinciali permanenti sulle aziende sequestrate e confiscate, presso le prefetture-uffici territoriali del Governo"
-dataVigenza: "20260928"
+dataVigenza: "20260930"
 ordine: 46
 ---
 
 # Art. 41-ter - ***Istituzione dei tavoli provinciali permanenti sulle aziende sequestrate e confiscate, presso le prefetture-uffici territoriali del Governo***
 
-1\. Al fine di favorire il coordinamento tra le istituzioni, le associazioni indicate nell'articolo 48, comma 3, lettera c), le organizzazioni sindacali e le associazioni dei datori di lavoro più rappresentative a livello nazionale, il prefetto può istituire, presso la prefettura-ufficio territoriale del Governo, un tavolo provinciale sulle aziende sequestrate e confiscate, avente il compito di:
+1\. Al fine di favorire il coordinamento tra le istituzioni, le associazioni indicate nell'[articolo 48](../03%20-%20Capo%20III%20-%20La%20destinazione%20dei%20beni%20confiscati/art-48-dlgs159-11.md), comma 3, lettera c), le organizzazioni sindacali e le associazioni dei datori di lavoro più rappresentative a livello nazionale, il prefetto può istituire, presso la prefettura-ufficio territoriale del Governo, un tavolo provinciale sulle aziende sequestrate e confiscate, avente il compito di:
 
 - a) favorire la continuazione dell'attività produttiva e salvaguardare i livelli occupazionali;
 - b) dare ausilio all'amministratore giudiziario, sulla base delle direttive impartite dal giudice delegato, e all'Agenzia nella fase dell'amministrazione, della gestione e della destinazione delle aziende;
@@ -30,13 +30,13 @@ ordine: 46
 
 2\. Il tavolo provinciale permanente, coordinato e convocato dal prefetto o da un suo delegato, è composto da:
 
-- a) un rappresentante dell'Agenzia designato dal Consiglio direttivo e individuato, di regola, nel dirigente della prefettura componente del nucleo di supporto di cui all'articolo 112, comma 3;
+- a) un rappresentante dell'Agenzia designato dal Consiglio direttivo e individuato, di regola, nel dirigente della prefettura componente del nucleo di supporto di cui all'[articolo 112](../../../03%20-%20Libro%20III%20-%20Attività%20informative%20ed%20investigative%20nella%20lotta%20contro%20la%20criminal/02%20-%20Titolo%20II%20-%20L%27AGENZIA%20NAZIONALE%20PER%20L%27AMMINISTRAZIONE%20E%20LA%20DESTINAZIONE%20DEI%20BENI/art-112-dlgs159-11.md), comma 3;
 - b) un rappresentante del Ministero dello sviluppo economico;
 - c) un rappresentante della regione, designato dal presidente della Giunta regionale;
 - d) un rappresentante delle associazioni sindacali comparativamente più rappresentative a livello nazionale, designato dalle medesime secondo criteri di rotazione;
 - e) un rappresentante delle organizzazioni dei datori di lavoro più rappresentative a livello nazionale designato, ogni quattro mesi, dalle medesime secondo criteri di rotazione;
 - f) un rappresentante della sede territorialmente competente dell'Ispettorato nazionale del lavoro;
-- g) un rappresentante delle associazioni individuate dall'articolo 48, comma 3, lettera c), designato dalle medesime secondo criteri di rotazione;
+- g) un rappresentante delle associazioni individuate dall'[articolo 48](../03%20-%20Capo%20III%20-%20La%20destinazione%20dei%20beni%20confiscati/art-48-dlgs159-11.md), comma 3, lettera c), designato dalle medesime secondo criteri di rotazione;
 - h) un rappresentante della camera di commercio, industria, artigianato e agricoltura.
 
 3\. Il prefetto, ove ne ravvisi l'opportunità, può estendere ai rappresentanti degli enti locali la partecipazione al tavolo.

@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 269"
+title: "Art. 269 - Dichiarazione giudiziale di paternità e maternità"
 articolo: "Art. 269"
 codice: cc
 aliases:
@@ -13,14 +13,12 @@ capo: "V"
 capo_label: "Della dichiarazione giudiziale della paternità e della maternità"
 sezione: null
 sezione_label: null
-rubrica: null
-dataVigenza: "20260914"
+rubrica: "Dichiarazione giudiziale di paternità e maternità"
+dataVigenza: "20260930"
 ordine: 314
 ---
 
-# Art. 269
-
-Dichiarazione giudiziale di paternità e maternità.
+# Art. 269 - ***Dichiarazione giudiziale di paternità e maternità***
 
 La paternità e la maternità ... possono essere giudizialmente dichiarate nei casi in cui il riconoscimento è ammesso.
 

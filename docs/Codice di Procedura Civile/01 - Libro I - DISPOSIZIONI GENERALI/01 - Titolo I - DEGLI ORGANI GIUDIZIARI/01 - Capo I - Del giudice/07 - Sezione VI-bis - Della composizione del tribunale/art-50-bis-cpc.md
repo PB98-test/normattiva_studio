@@ -14,7 +14,7 @@ capo_label: "Del giudice"
 sezione: "VI-bis"
 sezione_label: "Della composizione del tribunale"
 rubrica: "Cause nelle quali il tribunale giudica in composizione collegiale"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 54
 ---
 
@@ -23,7 +23,7 @@ ordine: 54
 Il tribunale giudica in composizione collegiale:
 
 - 1) nelle cause nelle quali è obbligatorio l'intervento del pubblico ministero, salvo che sia altrimenti disposto;
-- 2) nelle cause di opposizione, impugnazione, revocazione e in quelle conseguenti a dichiarazioni tardive di crediti di cui al regio decreto 16 marzo 1942, n. 267, e alle altre leggi speciali disciplinanti la liquidazione coatta amministrativa;
+- 2) nelle cause di opposizione, impugnazione, revocazione e in quelle conseguenti a dichiarazioni tardive di crediti di cui al [regio decreto 16 marzo 1942, n. 267](../../../../../Legge%20fallimentare%20%28RD%20267-1942%20-%2016.03.1942%29/00%20-%20Indice%20%28rd267-42%29.md), e alle altre leggi speciali disciplinanti la liquidazione coatta amministrativa;
 - 3) nelle cause devolute alle sezioni specializzate;
 - 4) nelle cause di omologazione del concordato fallimentare e del concordato preventivo;
 - 5) NUMERO SOPPRESSO DAL [D.LGS. 10 OTTOBRE 2022, N. 149](../../../../../Cartabia%20%28Dlgs%20149-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs149-22%29.md) COME MODIFICATO DALLA [L. 29 DICEMBRE 2022, N. 197](../../../../../L.%20197-2022%20-%2029.12.2022/00%20-%20Indice%20%28l197-22%29.md);

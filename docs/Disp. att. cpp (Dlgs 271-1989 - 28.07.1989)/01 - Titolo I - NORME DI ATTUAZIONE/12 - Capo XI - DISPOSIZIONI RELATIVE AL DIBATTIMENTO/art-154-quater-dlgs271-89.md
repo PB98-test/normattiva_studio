@@ -14,10 +14,10 @@ capo_label: "DISPOSIZIONI RELATIVE AL DIBATTIMENTO"
 sezione: null
 sezione_label: null
 rubrica: "Sentenza che dispone una misura di sicurezza da eseguire presso una struttura sanitaria"
-dataVigenza: "20260925"
+dataVigenza: "20260930"
 ordine: 202
 ---
 
 # Art. 154-quater - ***Sentenza che dispone una misura di sicurezza da eseguire presso una struttura sanitaria***
 
-1\. Se non è presentata impugnazione nei termini di legge avverso la sentenza che applica una misura di sicurezza di cui all'articolo 215, secondo comma, numeri 2 e 3, del codice penale, la cancelleria ne trasmette senza ritardo, e comunque entro cinque giorni, l'estratto al pubblico ministero presso il giudice indicato nell'articolo 665 del codice. Fermo quanto previsto dall'articolo 626 del codice, la cancelleria della Corte di cassazione provvede allo stesso modo quando l'esecuzione consegue alla decisione della stessa Corte)).
+1\. Se non è presentata impugnazione nei termini di legge avverso la sentenza che applica una misura di sicurezza di cui all'[articolo 215](../../02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-215-dlgs271-89.md), secondo comma, numeri 2 e 3, del codice penale, la cancelleria ne trasmette senza ritardo, e comunque entro cinque giorni, l'estratto al pubblico ministero presso il giudice indicato nell'articolo 665 del codice. Fermo quanto previsto dall'articolo 626 del codice, la cancelleria della Corte di cassazione provvede allo stesso modo quando l'esecuzione consegue alla decisione della stessa Corte.

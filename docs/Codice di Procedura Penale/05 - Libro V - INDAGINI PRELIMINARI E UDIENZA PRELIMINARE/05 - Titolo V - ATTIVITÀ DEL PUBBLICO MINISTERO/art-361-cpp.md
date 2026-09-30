@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Individuazione di persone e di cose"
-dataVigenza: "20260914"
-ordine: 429
+dataVigenza: "20260930"
+ordine: 430
 ---
 
 # Art. 361 - ***Individuazione di persone e di cose***

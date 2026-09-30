@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 279"
+title: "Art. 279 - Responsabilità per il mantenimento e l'educazione"
 articolo: "Art. 279"
 codice: cc
 aliases:
@@ -13,14 +13,12 @@ capo: "V"
 capo_label: "Della dichiarazione giudiziale della paternità e della maternità"
 sezione: null
 sezione_label: null
-rubrica: null
-dataVigenza: "20260914"
+rubrica: "Responsabilità per il mantenimento e l'educazione"
+dataVigenza: "20260930"
 ordine: 324
 ---
 
-# Art. 279
-
-Responsabilità per il mantenimento e l'educazione.
+# Art. 279 - ***Responsabilità per il mantenimento e l'educazione***
 
 In ogni caso in cui non può proporsi l'azione per la dichiarazione giudiziale di paternità o di maternità, il figlio nato fuori del matrimonio può agire per ottenere il mantenimento, l'istruzione e l'educazione. Il figlio nato fuori del matrimonio se maggiorenne e in stato di bisogno può agire per ottenere gli alimenti a condizione che il diritto al mantenimento di cui all'[articolo 315-bis](../../09%20-%20Titolo%20IX%20-%20DELLA%20RESPONSABILITÀ%20GENITORIALE%20E%20DEI%20DIRITTI%20E%20DOVERI%20DEL%20FIGLIO/01%20-%20Capo%20I%20-%20Dei%20diritti%20e%20doveri%20del%20figlio/art-315-bis-cc.md), sia venuto meno..
 

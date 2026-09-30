@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Deposito degli atti cui hanno diritto di assistere i difensori"
-dataVigenza: "20260914"
-ordine: 435
+dataVigenza: "20260930"
+ordine: 436
 ---
 
 # Art. 366 - ***Deposito degli atti cui hanno diritto di assistere i difensori***

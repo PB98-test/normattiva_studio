@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 24-ter - (Delitti di criminalità organizzata)."
+title: "Art. 24-ter - Delitti di criminalità organizzata"
 articolo: "Art. 24-ter"
 codice: dlgs231-01
 aliases:
@@ -13,12 +13,12 @@ capo: "I"
 capo_label: "RESPONSABILITÀ AMMINISTRATIVA DELL'ENTE"
 sezione: "III"
 sezione_label: "Responsabilità amministrativa da reato"
-rubrica: "(Delitti di criminalità organizzata)."
-dataVigenza: "20260928"
+rubrica: "Delitti di criminalità organizzata"
+dataVigenza: "20260930"
 ordine: 26
 ---
 
-# Art. 24-ter - ***(Delitti di criminalità organizzata).***
+# Art. 24-ter - ***Delitti di criminalità organizzata***
 
 1\. In relazione alla commissione di taluno dei delitti di cui agli articoli 416, sesto comma, 416-bis, 416-ter e 630 del [codice penale](../../../Codice%20Penale/00%20-%20Indice%20%28cp%29.md), ai delitti commessi avvalendosi delle condizioni previste dal predetto articolo 416-bis ovvero al fine di agevolare l'attività delle associazioni previste dallo stesso articolo, nonchè ai delitti previsti dall'articolo 74 del testo unico di cui al [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../../../TU%20Stupefacenti%20%28Dpr%20309-1990%20-%2009.10.1990%29/00%20-%20Indice%20%28dpr309-90%29.md), si applica la sanzione pecuniaria da quattrocento a mille quote.
 

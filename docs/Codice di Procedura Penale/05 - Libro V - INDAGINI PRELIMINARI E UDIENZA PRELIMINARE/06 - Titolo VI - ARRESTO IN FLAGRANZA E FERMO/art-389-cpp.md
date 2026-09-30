@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Casi di immediata liberazione dell'arrestato o del fermato"
-dataVigenza: "20260914"
-ordine: 463
+dataVigenza: "20260930"
+ordine: 464
 ---
 
 # Art. 389 - ***Casi di immediata liberazione dell'arrestato o del fermato***

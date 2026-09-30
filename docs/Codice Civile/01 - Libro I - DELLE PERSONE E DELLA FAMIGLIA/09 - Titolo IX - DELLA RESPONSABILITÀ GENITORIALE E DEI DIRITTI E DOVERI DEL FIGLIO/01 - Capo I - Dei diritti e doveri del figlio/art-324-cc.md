@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 324"
+title: "Art. 324 - Usufrutto legale"
 articolo: "Art. 324"
 codice: cc
 aliases:
@@ -13,14 +13,12 @@ capo: "I"
 capo_label: "Dei diritti e doveri del figlio"
 sezione: null
 sezione_label: null
-rubrica: null
-dataVigenza: "20260914"
+rubrica: "Usufrutto legale"
+dataVigenza: "20260930"
 ordine: 399
 ---
 
-# Art. 324
-
-Usufrutto legale.
+# Art. 324 - ***Usufrutto legale***
 
 I genitori esercenti la responsabilità genitoriale hanno in comune l'usufrutto dei beni del figlio , fino alla maggiore età o all'emancipazione.
 

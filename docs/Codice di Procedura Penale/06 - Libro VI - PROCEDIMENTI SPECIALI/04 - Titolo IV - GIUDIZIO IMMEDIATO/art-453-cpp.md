@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Casi e modi di giudizio immediato"
-dataVigenza: "20260914"
-ordine: 548
+dataVigenza: "20260930"
+ordine: 549
 ---
 
 # Art. 453 - ***Casi e modi di giudizio immediato***

@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 2778"
+title: "Art. 2778 - Ordine degli altri privilegi sui mobili"
 articolo: "Art. 2778"
 codice: cc
 aliases:
@@ -13,14 +13,12 @@ capo: "II"
 capo_label: "Dei privilegi"
 sezione: "IV"
 sezione_label: "Dell'ordine dei privilegi"
-rubrica: null
-dataVigenza: "20260914"
+rubrica: "Ordine degli altri privilegi sui mobili"
+dataVigenza: "20260930"
 ordine: 3085
 ---
 
-# Art. 2778
-
-Ordine degli altri privilegi sui mobili
+# Art. 2778 - ***Ordine degli altri privilegi sui mobili***
 
 Salvo quanto è disposto dall'[articolo 2777](art-2777-cc.md), nel concorso di crediti aventi privilegio generale o speciale sulla medesima cosa, la prelazione si esercita nell'ordine che segue:
 

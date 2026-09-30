@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Richiesta di archiviazione per infondatezza della notizia di reato"
-dataVigenza: "20260914"
-ordine: 492
+dataVigenza: "20260930"
+ordine: 493
 ---
 
 # Art. 408 - ***Richiesta di archiviazione per infondatezza della notizia di reato***
@@ -26,4 +26,4 @@ ordine: 492
 
 3\. Nell'avviso è precisato che, nel termine di venti giorni, la persona offesa può prendere visione degli atti e presentare opposizione con richiesta motivata di prosecuzione delle indagini preliminari. La persona offesa è altresì informata della facoltà di accedere ai programmi di giustizia riparativa.
 
-3-bis. Per i delitti commessi con violenza alla persona e per il reato di cui all'[articolo 624-bis del codice penale](../../../Codice%20Penale/02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/13%20-%20Titolo%20XIII%20-%20DEI%20DELITTI%20CONTRO%20IL%20PATRIMONIO/01%20-%20Capo%20I%20-%20Dei%20delitti%20contro%20il%20patrimonio%20mediante%20violenza%20alle%20cose%20o%20alle%20per/art-624-bis-cp.md), l'avviso della richiesta di archiviazione è in ogni caso notificato, a cura del pubblico ministero, alla persona offesa ed il termine di cui al comma 3 è elevato a trenta giorni.
+3-bis. Per i delitti commessi con violenza alla persona e per il reato di cui all'[articolo 624-bis del codice penale](../../../Codice%20Penale/02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/16%20-%20Titolo%20XIII%20-%20DEI%20DELITTI%20CONTRO%20IL%20PATRIMONIO/01%20-%20Capo%20I%20-%20Dei%20delitti%20contro%20il%20patrimonio%20mediante%20violenza%20alle%20cose%20o%20alle%20per/art-624-bis-cp.md), l'avviso della richiesta di archiviazione è in ogni caso notificato, a cura del pubblico ministero, alla persona offesa ed il termine di cui al comma 3 è elevato a trenta giorni.

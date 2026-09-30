@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 297"
+title: "Art. 297 - Assenso del coniuge o dei genitori"
 articolo: "Art. 297"
 codice: cc
 aliases:
@@ -13,14 +13,12 @@ capo: "I"
 capo_label: "Dell'adozione di persone maggiori di età e dei suoi effetti"
 sezione: null
 sezione_label: null
-rubrica: null
-dataVigenza: "20260914"
+rubrica: "Assenso del coniuge o dei genitori"
+dataVigenza: "20260930"
 ordine: 342
 ---
 
-# Art. 297
-
-Assenso del coniuge o dei genitori.
+# Art. 297 - ***Assenso del coniuge o dei genitori***
 
 Per l'adozione è necessario l'assenso dei genitori dello adottando e l'assenso del coniuge dell'adottante e dello adottando, se coniugati e non legalmente separati.
 

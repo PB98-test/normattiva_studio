@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Atti del presidente del tribunale o della corte di assise"
-dataVigenza: "20260914"
-ordine: 570
+dataVigenza: "20260930"
+ordine: 571
 ---
 
 # Art. 465 - ***Atti del presidente del tribunale o della corte di assise***

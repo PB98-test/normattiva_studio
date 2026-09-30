@@ -14,8 +14,8 @@ capo_label: "GIUDICE DELL'ESECUZIONE"
 sezione: null
 sezione_label: null
 rubrica: "Revoca della sentenza per abolizione del reato"
-dataVigenza: "20260914"
-ordine: 803
+dataVigenza: "20260930"
+ordine: 804
 ---
 
 # Art. 673 - ***Revoca della sentenza per abolizione del reato***

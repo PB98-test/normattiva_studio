@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 21-bis - (Istituzione dell'ufficio del giudice di pace di Ostia e ripristino dell'ufficio del giudice di pace di Barra)."
+title: "Art. 21-bis - Istituzione dell'ufficio del giudice di pace di Ostia e ripristino dell'ufficio del giudice di pace di Barra"
 articolo: "Art. 21-bis"
 codice: dl132-14
 aliases:
@@ -13,12 +13,12 @@ capo: "VI"
 capo_label: "Misure per il miglioramento dell'organizzazione giudiziaria"
 sezione: null
 sezione_label: null
-rubrica: "(Istituzione dell'ufficio del giudice di pace di Ostia e ripristino dell'ufficio del giudice di pace di Barra)."
-dataVigenza: "20260925"
+rubrica: "Istituzione dell'ufficio del giudice di pace di Ostia e ripristino dell'ufficio del giudice di pace di Barra"
+dataVigenza: "20260930"
 ordine: 37
 ---
 
-# Art. 21-bis - ***(Istituzione dell'ufficio del giudice di pace di Ostia e ripristino dell'ufficio del giudice di pace di Barra).***
+# Art. 21-bis - ***Istituzione dell'ufficio del giudice di pace di Ostia e ripristino dell'ufficio del giudice di pace di Barra***
 
 1\. Al decreto legislativo 7 settembre 2012, n. 156, sono apportate le seguenti modificazioni:
 

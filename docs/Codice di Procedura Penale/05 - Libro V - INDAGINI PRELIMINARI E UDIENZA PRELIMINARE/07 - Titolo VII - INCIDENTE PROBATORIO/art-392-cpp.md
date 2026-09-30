@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Casi"
-dataVigenza: "20260914"
-ordine: 475
+dataVigenza: "20260930"
+ordine: 476
 ---
 
 # Art. 392 - ***Casi***

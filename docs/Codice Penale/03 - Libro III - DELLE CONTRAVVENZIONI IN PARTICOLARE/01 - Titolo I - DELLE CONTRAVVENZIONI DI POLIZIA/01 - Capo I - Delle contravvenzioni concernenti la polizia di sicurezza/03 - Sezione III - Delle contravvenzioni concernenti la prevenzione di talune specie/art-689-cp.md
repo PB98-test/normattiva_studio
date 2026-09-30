@@ -14,8 +14,8 @@ capo_label: "Delle contravvenzioni concernenti la polizia di sicurezza"
 sezione: "III"
 sezione_label: "Delle contravvenzioni concernenti la prevenzione di talune specie di reati § 1 Delle contravvenzioni concernenti la tutela preventiva dei segreti"
 rubrica: "Somministrazione di bevande alcooliche a minori o a infermi di mente"
-dataVigenza: "20260914"
-ordine: 947
+dataVigenza: "20260930"
+ordine: 948
 ---
 
 # Art. 689 - ***Somministrazione di bevande alcooliche a minori o a infermi di mente***

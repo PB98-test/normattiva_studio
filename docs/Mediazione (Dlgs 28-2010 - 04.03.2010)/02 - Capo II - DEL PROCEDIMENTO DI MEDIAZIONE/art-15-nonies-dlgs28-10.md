@@ -14,13 +14,13 @@ capo_label: "DEL PROCEDIMENTO DI MEDIAZIONE"
 sezione: null
 sezione_label: null
 rubrica: "Revoca del provvedimento di ammissione e ricorso avverso il relativo decreto"
-dataVigenza: "20260925"
+dataVigenza: "20260930"
 ordine: 32
 ---
 
 # Art. 15-nonies - ***Revoca del provvedimento di ammissione e ricorso avverso il relativo decreto***
 
-1\. L'insussistenza dei presupposti per l'ammissione di cui all'[articolo 15-ter](art-15-ter-dlgs28-10.md), da chiunque accertata, anche a seguito dei controlli di cui all'articolo 15-decies, comma 2, è comunicata al consiglio dell'ordine che ha deliberato l'ammissione.
+1\. L'insussistenza dei presupposti per l'ammissione di cui all'[articolo 15-ter](art-15-ter-dlgs28-10.md), da chiunque accertata, anche a seguito dei controlli di cui all'[articolo 15-decies](art-15-decies-dlgs28-10.md), comma 2, è comunicata al consiglio dell'ordine che ha deliberato l'ammissione.
 
 2\. Le sopravvenute modifiche delle condizioni reddituali che escludono l'ammissione al patrocinio sono immediatamente comunicate dalla parte ammessa o dal suo avvocato al consiglio dell'ordine che ha deliberato l'ammissione in via anticipata.
 

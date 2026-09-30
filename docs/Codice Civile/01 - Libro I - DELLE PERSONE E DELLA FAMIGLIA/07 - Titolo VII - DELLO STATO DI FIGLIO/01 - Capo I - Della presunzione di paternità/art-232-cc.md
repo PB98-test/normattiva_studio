@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 232"
+title: "Art. 232 - Presunzione di concepimento durante il matrimonio"
 articolo: "Art. 232"
 codice: cc
 aliases:
@@ -13,14 +13,12 @@ capo: "I"
 capo_label: "Della presunzione di paternità ..."
 sezione: null
 sezione_label: null
-rubrica: null
-dataVigenza: "20260914"
+rubrica: "Presunzione di concepimento durante il matrimonio"
+dataVigenza: "20260930"
 ordine: 276
 ---
 
-# Art. 232
-
-Presunzione di concepimento durante il matrimonio.
+# Art. 232 - ***Presunzione di concepimento durante il matrimonio***
 
 Si presume concepito durante il matrimonio il figlio nato quando non sono ancora trascorsi trecento giorni dalla data dell'annullamento, dello scioglimento o della cessazione degli effetti civili del matrimonio.
 

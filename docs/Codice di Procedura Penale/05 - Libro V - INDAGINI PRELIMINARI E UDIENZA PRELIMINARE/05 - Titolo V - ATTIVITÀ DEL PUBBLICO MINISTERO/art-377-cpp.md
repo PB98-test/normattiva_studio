@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Citazioni di persone informate sui fatti"
-dataVigenza: "20260914"
-ordine: 448
+dataVigenza: "20260930"
+ordine: 449
 ---
 
 # Art. 377 - ***Citazioni di persone informate sui fatti***

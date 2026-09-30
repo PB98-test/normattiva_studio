@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Fascicolo del pubblico ministero"
-dataVigenza: "20260914"
-ordine: 527
+dataVigenza: "20260930"
+ordine: 528
 ---
 
 # Art. 433 - ***Fascicolo del pubblico ministero***

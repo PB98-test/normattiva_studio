@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Efficacia della sentenza penale di condanna o di assoluzione in altri giudizi civili o amministrativi"
-dataVigenza: "20260914"
-ordine: 782
+dataVigenza: "20260930"
+ordine: 783
 ---
 
 # Art. 654 - ***Efficacia della sentenza penale di condanna o di assoluzione in altri giudizi civili o amministrativi***

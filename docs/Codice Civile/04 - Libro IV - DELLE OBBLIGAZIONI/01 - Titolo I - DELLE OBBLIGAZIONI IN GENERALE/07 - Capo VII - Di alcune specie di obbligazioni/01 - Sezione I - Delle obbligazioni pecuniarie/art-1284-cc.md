@@ -14,7 +14,7 @@ capo_label: "Di alcune specie di obbligazioni"
 sezione: "I"
 sezione_label: "Delle obbligazioni pecuniarie"
 rubrica: "Saggio degli interessi"
-dataVigenza: "20260914"
+dataVigenza: "20260930"
 ordine: 1386
 ---
 
@@ -48,7 +48,7 @@ La disposizione del quarto comma si applica anche all'atto con cui si promuove i
 
 [^agg-237a]: *AGGIORNAMENTO (237a)* Il Decreto 12 dicembre 2013 (in G.U. 13/12/2013, n. 292) ha disposto (con l'[art. 1](../../../../01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/01%20-%20Titolo%20I%20-%20DELLE%20PERSONE%20FISICHE/art-1-cc.md), comma 1) che "La misura del saggio degli interessi legali di cui all'[articolo 1284 del codice civile](art-1284-cc.md) è fissata all'1 per cento in ragione d'anno, con decorrenza dal 1° gennaio 2014".
 
-[^agg-242]: *AGGIORNAMENTO (242)* Il D.L. 12 settembre 2014, n. 132 convertito con modificazioni dalla L. 10 novembre 2014, n. 162 ha disposto (con l'[art. 17](../../../../01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/02%20-%20Titolo%20II%20-%20DELLE%20PERSONE%20GIURIDICHE/02%20-%20Capo%20II%20-%20Delle%20associazioni%20e%20delle%20fondazioni/art-17-cc.md), comma 2) che le presenti modifiche producono effetti rispetto ai procedimenti iniziati a decorrere dal trentesimo giorno successivo all'entrata in vigore della legge di conversione del decreto medesimo.
+[^agg-242]: *AGGIORNAMENTO (242)* Il [D.L. 12 settembre 2014, n. 132](../../../../../Negoziazione%20assistita%20%28Dl%20132-2014%20-%2012.09.2014%29/00%20-%20Indice%20%28dl132-14%29.md) convertito con modificazioni dalla L. 10 novembre 2014, n. 162 ha disposto (con l'[art. 17](../../../../01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/02%20-%20Titolo%20II%20-%20DELLE%20PERSONE%20GIURIDICHE/02%20-%20Capo%20II%20-%20Delle%20associazioni%20e%20delle%20fondazioni/art-17-cc.md), comma 2) che le presenti modifiche producono effetti rispetto ai procedimenti iniziati a decorrere dal trentesimo giorno successivo all'entrata in vigore della legge di conversione del decreto medesimo.
 
 [^agg-244a]: *AGGIORNAMENTO (244a)* Il Decreto 11 dicembre 2014 (in G.U. 15/12/2014, n. 290) ha disposto (con l'[art. 1](../../../../01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/01%20-%20Titolo%20I%20-%20DELLE%20PERSONE%20FISICHE/art-1-cc.md), comma 1) che "La misura del saggio degli interessi legali di cui all'[articolo 1284 del codice civile](art-1284-cc.md) è fissata allo 0,5 per cento in ragione d'anno, con decorrenza dal 1° gennaio 2015".
 

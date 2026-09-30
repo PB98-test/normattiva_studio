@@ -14,7 +14,7 @@ capo_label: "Accordi"
 sezione: "II"
 sezione_label: "Accordi di ristrutturazione, convenzione di moratoria e accordi su crediti tributari e contributivi"
 rubrica: "Accordi di ristrutturazione ad efficacia estesa"
-dataVigenza: "20260925"
+dataVigenza: "20260930"
 ordine: 72
 ---
 
@@ -25,7 +25,7 @@ ordine: 72
 2\. Ai fini di cui al comma 1 occorre che:
 
 - a) tutti i creditori appartenenti alla categoria siano stati informati dell'avvio delle trattative, siano stati messi in condizione di parteciparvi in buona fede e abbiano ricevuto complete e aggiornate informazioni sulla situazione economico-patrimoniale e finanziaria del debitore nonchè sull'accordo e sui suoi effetti;
-- b) l'accordo abbia carattere non liquidatorio, prevedendo la prosecuzione dell'attività d'impresa in via diretta o indiretta ai sensi dell'articolo 84;
+- b) l'accordo abbia carattere non liquidatorio, prevedendo la prosecuzione dell'attività d'impresa in via diretta o indiretta ai sensi dell'[articolo 84](../../03%20-%20Capo%20III%20-%20Concordato%20preventivo/01%20-%20Sezione%20I%20-%20Finalità%20e%20contenuti%20del%20concordato%20preventivo/art-84-dlgs14-19.md);
 - c) i crediti dei creditori aderenti appartenenti alla categoria rappresentino il settantacinque per cento di tutti i creditori appartenenti alla categoria, fermo restando che un creditore può essere titolare di crediti inseriti in più di una categoria;
 - d) i creditori della medesima categoria non aderenti cui vengono estesi gli effetti dell'accordo possano risultare soddisfatti in base all'accordo stesso in misura non inferiore rispetto a quanto riceverebbero in caso di apertura della liquidazione giudiziale alla data di deposito della domanda di omologazione;
 - e) il debitore abbia notificato l'accordo, la domanda di omologazione e i documenti allegati ai creditori nei confronti dei quali chiede di estendere gli effetti dell'accordo.

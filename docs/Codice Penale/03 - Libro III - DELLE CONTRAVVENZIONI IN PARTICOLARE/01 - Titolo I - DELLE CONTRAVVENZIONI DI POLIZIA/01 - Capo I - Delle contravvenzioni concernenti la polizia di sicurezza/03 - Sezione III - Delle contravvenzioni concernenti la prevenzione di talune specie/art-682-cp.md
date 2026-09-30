@@ -14,8 +14,8 @@ capo_label: "Delle contravvenzioni concernenti la polizia di sicurezza"
 sezione: "III"
 sezione_label: "Delle contravvenzioni concernenti la prevenzione di talune specie di reati § 1 Delle contravvenzioni concernenti la tutela preventiva dei segreti"
 rubrica: "Ingresso arbitrario in luoghi, ove l'accesso è vietato nell'interesse militare dello Stato"
-dataVigenza: "20260914"
-ordine: 940
+dataVigenza: "20260930"
+ordine: 941
 ---
 
 # Art. 682 - ***Ingresso arbitrario in luoghi, ove l'accesso è vietato nell'interesse militare dello Stato***

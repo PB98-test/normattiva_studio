@@ -14,8 +14,8 @@ capo_label: "ISTRUZIONE DIBATTIMENTALE"
 sezione: null
 sezione_label: null
 rubrica: "Contestazioni nell'esame testimoniale"
-dataVigenza: "20260914"
-ordine: 606
+dataVigenza: "20260930"
+ordine: 607
 ---
 
 # Art. 500 - ***Contestazioni nell'esame testimoniale***

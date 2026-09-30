@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 33-sexies - (Inosservanza dichiarata nell'udienza preliminare)"
+title: "Art. 33-sexies - Inosservanza dichiarata nell'udienza preliminare"
 articolo: "Art. 33-sexies"
 codice: cpp
 aliases:
@@ -13,12 +13,12 @@ capo: "VI"
 capo_label: "CAPACITÀ E COMPOSIZIONE DEL GIUDICE"
 sezione: null
 sezione_label: null
-rubrica: "(Inosservanza dichiarata nell'udienza preliminare)"
-dataVigenza: "20260914"
+rubrica: "Inosservanza dichiarata nell'udienza preliminare"
+dataVigenza: "20260930"
 ordine: 40
 ---
 
-# Art. 33-sexies - ***(Inosservanza dichiarata nell'udienza preliminare)***
+# Art. 33-sexies - ***Inosservanza dichiarata nell'udienza preliminare***
 
 1\. Se nell'udienza preliminare il giudice ritiene che per il reato deve procedersi con citazione diretta a giudizio pronuncia, nei casi previsti dall'[articolo 550](../../../08%20-%20Libro%20VIII%20-%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSIZIONE%20MONOCRATICA/02%20-%20Titolo%20II%20-%20CITAZIONE%20DIRETTA%20A%20GIUDIZIO/art-550-cpp.md), ordinanza dì trasmissione degli atti al pubblico ministero per l'emissione del decreto di citazione a giudizio a norma dell'[articolo 552](../../../08%20-%20Libro%20VIII%20-%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSIZIONE%20MONOCRATICA/02%20-%20Titolo%20II%20-%20CITAZIONE%20DIRETTA%20A%20GIUDIZIO/art-552-cpp.md).
 

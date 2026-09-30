@@ -14,8 +14,8 @@ capo_label: "Delle contravvenzioni concernenti la polizia di sicurezza"
 sezione: "III"
 sezione_label: "Delle contravvenzioni concernenti la prevenzione di talune specie di reati § 1 Delle contravvenzioni concernenti la tutela preventiva dei segreti"
 rubrica: "Accensioni ed esplosioni pericolose"
-dataVigenza: "20260914"
-ordine: 961
+dataVigenza: "20260930"
+ordine: 962
 ---
 
 # Art. 703 - ***Accensioni ed esplosioni pericolose***

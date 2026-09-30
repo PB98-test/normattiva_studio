@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Utilizzazione della documentazione delle investigazioni difensive"
-dataVigenza: "20260914"
-ordine: 474
+dataVigenza: "20260930"
+ordine: 475
 ---
 
 # Art. 391-decies - ***Utilizzazione della documentazione delle investigazioni difensive***

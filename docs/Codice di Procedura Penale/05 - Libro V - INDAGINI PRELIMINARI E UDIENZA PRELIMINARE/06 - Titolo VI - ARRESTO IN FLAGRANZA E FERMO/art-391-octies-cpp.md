@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Fascicolo del difensore"
-dataVigenza: "20260914"
-ordine: 472
+dataVigenza: "20260930"
+ordine: 473
 ---
 
 # Art. 391-octies - ***Fascicolo del difensore***

@@ -14,8 +14,8 @@ capo_label: "ATTI INTRODUTTIVI"
 sezione: null
 sezione_label: null
 rubrica: "Dichiarazioni spontanee dell'imputato"
-dataVigenza: "20260914"
-ordine: 600
+dataVigenza: "20260930"
+ordine: 601
 ---
 
 # Art. 494 - ***Dichiarazioni spontanee dell'imputato***

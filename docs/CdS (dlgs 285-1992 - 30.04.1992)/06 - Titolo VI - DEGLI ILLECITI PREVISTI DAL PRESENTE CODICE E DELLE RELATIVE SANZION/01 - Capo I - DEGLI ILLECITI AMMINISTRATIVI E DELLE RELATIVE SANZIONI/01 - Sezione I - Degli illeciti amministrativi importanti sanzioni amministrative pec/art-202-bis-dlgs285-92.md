@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 202-bis - (Rateazione delle sanzioni pecuniarie)."
+title: "Art. 202-bis - Rateazione delle sanzioni pecuniarie"
 articolo: "Art. 202-bis"
 codice: dlgs285-92
 aliases:
@@ -13,12 +13,12 @@ capo: "I"
 capo_label: "DEGLI ILLECITI AMMINISTRATIVI E DELLE RELATIVE SANZIONI"
 sezione: "I"
 sezione_label: "Degli illeciti amministrativi importanti sanzioni amministrative pecuniarie ed applicazione di queste ultime"
-rubrica: "(Rateazione delle sanzioni pecuniarie)."
-dataVigenza: "20260914"
+rubrica: "Rateazione delle sanzioni pecuniarie"
+dataVigenza: "20260930"
 ordine: 219
 ---
 
-# Art. 202-bis - ***(Rateazione delle sanzioni pecuniarie).***
+# Art. 202-bis - ***Rateazione delle sanzioni pecuniarie***
 
 1\. I soggetti tenuti al pagamento di una sanzione amministrativa pecuniaria per una o più violazioni accertate contestualmente con uno stesso verbale, di importo superiore a 200 euro, che versino in condizioni economiche disagiate, possono richiedere la ripartizione del pagamento in rate mensili.
 

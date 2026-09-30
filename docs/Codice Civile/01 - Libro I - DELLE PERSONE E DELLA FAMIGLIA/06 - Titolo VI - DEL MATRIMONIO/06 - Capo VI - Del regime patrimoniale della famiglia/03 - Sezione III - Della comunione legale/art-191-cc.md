@@ -1,6 +1,6 @@
 ---
 type: "Articolo di legge"
-title: "Art. 191"
+title: "Art. 191 - Scioglimento della comunione"
 articolo: "Art. 191"
 codice: cc
 aliases:
@@ -13,14 +13,12 @@ capo: "VI"
 capo_label: "Del regime patrimoniale della famiglia"
 sezione: "III"
 sezione_label: "Della comunione legale"
-rubrica: null
-dataVigenza: "20260914"
+rubrica: "Scioglimento della comunione"
+dataVigenza: "20260930"
 ordine: 233
 ---
 
-# Art. 191
-
-Scioglimento della comunione.
+# Art. 191 - ***Scioglimento della comunione***
 
 La comunione si scioglie per la dichiarazione di assenza o di morte presunta di uno dei coniugi, per l'annullamento, per lo scioglimento o per la cessazione degli effetti civili del matrimonio, per la separazione personale, per la separazione giudiziale dei beni, per mutamento convenzionale del regime patrimoniale, per il fallimento di uno dei coniugi.
 

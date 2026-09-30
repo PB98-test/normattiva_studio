@@ -14,8 +14,8 @@ capo_label: "DISPOSIZIONI GENERALI"
 sezione: null
 sezione_label: null
 rubrica: "Questioni civili o amministrative"
-dataVigenza: "20260914"
-ordine: 584
+dataVigenza: "20260930"
+ordine: 585
 ---
 
 # Art. 479 - ***Questioni civili o amministrative***
