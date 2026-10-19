@@ -21,7 +21,10 @@ ordine: 2983
 # Art. 2678 - ***Registro generale***
 
 Il conservatore è obbligato a tenere un registro generale d'ordine in cui giornalmente deve annotare, secondo l'ordine di presentazione, ogni titolo che gli è rimesso perchè sia trascritto, iscritto o annotato.
+{: data-comma="1" }
 
 Questo registro deve indicare il numero d'ordine, il giorno della richiesta ed il relativo numero di presentazione, la persona dell'esibitore e le persone per cui la richiesta è fatta, i titoli presentati con la nota, l'oggetto della richiesta, e cioè se questa è fatta per trascrizione, per iscrizione o per annotazione, e le persone riguardo alle quali la trascrizione, la iscrizione o l'annotazione si deve eseguire.
+{: data-comma="2" }
 
 Appena avvenuta l'accettazione del titolo e della nota, il conservatore ne deve dare ricevuta in carta libera all'esibitore, senza spesa; la ricevuta contiene l'indicazione del numero di presentazione.
+{: data-comma="3" }

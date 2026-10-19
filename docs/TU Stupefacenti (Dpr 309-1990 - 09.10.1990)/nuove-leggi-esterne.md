@@ -5,9 +5,8 @@ search:
 
 # Leggi citate da TU Stupefacenti (Dpr 309-1990 - 09.10.1990) ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di TU Stupefacenti (Dpr 309-1990 - 09.10.1990) — 64 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di TU Stupefacenti (Dpr 309-1990 - 09.10.1990) — 63 leggi trovate)*
 
-- [art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const)
 - [art. 37 della legge 26 giugno 1990, n. 162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-26;162)
 - [legge 22 dicembre 1975, n. 685](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-12-22;685)
 - [decreto-legge 22 aprile 1985, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:1985-04-22;144)

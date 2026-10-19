@@ -21,5 +21,7 @@ ordine: 198
 # Art. 157 - ***Cessazione degli effetti della separazione.***
 
 I coniugi possono di comune accordo far cessare gli effetti della sentenza di separazione, senza che sia necessario l'intervento del giudice, con una espressa dichiarazione o con un comportamento non equivoco che sia incompatibile con lo stato di separazione.
+{: data-comma="1" }
 
 La separazione può essere pronunziata nuovamente soltanto in relazione a fatti e comportamenti intervenuti dopo la riconciliazione.
+{: data-comma="2" }

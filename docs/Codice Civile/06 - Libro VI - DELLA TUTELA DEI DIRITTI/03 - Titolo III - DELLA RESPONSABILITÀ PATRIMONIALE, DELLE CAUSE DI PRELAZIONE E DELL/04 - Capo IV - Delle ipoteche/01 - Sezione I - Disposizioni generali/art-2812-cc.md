@@ -21,11 +21,16 @@ ordine: 3121
 # Art. 2812 - ***Diritti costituiti sulla cosa ipotecata***
 
 Le servitù di cui sia stata trascritta la costituzione dopo l'iscrizione dell'ipoteca non sono opponibili al creditore ipotecario, il quale può far subastare la cosa come libera. La stessa disposizione si applica per i diritti di usufrutto, di uso e di abitazione.
+{: data-comma="1" }
 
 Tali diritti si estinguono con l'espropriazione del fondo e i titolari sono ammessi a far valere le loro ragioni sul ricavato, con preferenza rispetto alle ipoteche iscritte posteriormente alla trascrizione dei diritti medesimi.
+{: data-comma="2" }
 
 Per coloro che hanno acquistato il diritto di superficie o il diritto d'enfiteusi sui beni soggetti all'ipoteca e hanno trascritto l'acquisto posteriormente all'iscrizione dell'ipoteca, si osservano le disposizioni relative ai terzi acquirenti.
+{: data-comma="3" }
 
 Le cessioni e le liberazioni di pigioni e di fitti non scaduti, che non siano trascritte o siano inferiori al triennio, sono opponibili ai creditori ipotecari solo se hanno data certa anteriore al pignoramento e per un termine non superiore a un anno dal giorno del pignoramento.
+{: data-comma="4" }
 
 Le cessioni e le liberazioni trascritte non sono opponibili ai creditori ipotecari anteriori alla trascrizione, se non per il termine stabilito dal comma precedente.
+{: data-comma="5" }

@@ -21,5 +21,7 @@ ordine: 139
 # Art. 130 - ***Redazione del processo verbale***
 
 Il cancelliere redige il processo verbale di udienza sotto la direzione del giudice.
+{: data-comma="1" }
 
 Il processo verbale è sottoscritto da chi presiede l'udienza e dal cancelliere: di esso non si dà lettura, salvo espressa istanza di parte.
+{: data-comma="2" }

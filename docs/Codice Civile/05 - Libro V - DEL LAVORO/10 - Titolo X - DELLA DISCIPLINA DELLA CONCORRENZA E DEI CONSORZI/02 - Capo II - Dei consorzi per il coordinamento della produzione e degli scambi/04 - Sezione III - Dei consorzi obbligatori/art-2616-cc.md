@@ -21,5 +21,7 @@ ordine: 2909
 # Art. 2616 - ***Costituzione***
 
 Con provvedimento dell'autorità governativa, sentite le corporazioni interessate, può essere disposta, anche per zone determinate, la costituzione di consorzi obbligatori fra esercenti lo stesso ramo o rami similari di attività economica, qualora la costituzione stessa risponda alle esigenze dell'organizzazione della produzione.
+{: data-comma="1" }
 
 Nello stesso modo, ricorrendo le condizioni di cui al comma precedente, possono essere trasformati in obbligatori i consorzi costituiti volontariamente.
+{: data-comma="2" }

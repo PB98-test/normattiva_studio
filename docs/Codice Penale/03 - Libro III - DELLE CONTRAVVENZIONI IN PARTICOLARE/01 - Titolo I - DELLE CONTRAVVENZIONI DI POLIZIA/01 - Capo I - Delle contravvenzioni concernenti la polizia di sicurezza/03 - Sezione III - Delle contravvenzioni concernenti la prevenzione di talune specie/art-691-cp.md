@@ -21,5 +21,7 @@ ordine: 950
 # Art. 691 - ***Somministrazione di bevande alcooliche a persona in stato di manifesta ubriachezza***
 
 Chiunque somministra bevande alcooliche a una persona in stato di manifesta ubriachezza, è punito con l'arresto da tre mesi a un anno.
+{: data-comma="1" }
 
 Qualora il colpevole sia esercente un'osteria o un altro pubblico spaccio di cibi o bevande, la condanna importa la sospensione dall'esercizio.
+{: data-comma="2" }

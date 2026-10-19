@@ -21,5 +21,7 @@ ordine: 130
 # Art. 98 - ***Rifiuto della pubblicazione***
 
 L'ufficiale dello stato civile che non crede di poter procedere alla pubblicazione rilascia un certificato coi motivi del rifiuto.
+{: data-comma="1" }
 
 Contro il rifiuto è dato ricorso al tribunale, che provvede in camera di consiglio, sentito il pubblico ministero.
+{: data-comma="2" }

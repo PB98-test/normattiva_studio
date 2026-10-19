@@ -21,5 +21,7 @@ ordine: 560
 # Art. 473 - ***Eredità devolute a persone giuridiche o ad associazioni, fondazioni ed enti non riconosciuti***
 
 L'accettazione delle eredità devolute alle persone giuridiche o ad associazioni, fondazioni ed enti non riconosciuti non può farsi che col beneficio d'inventario.
+{: data-comma="1" }
 
 Il presente articolo non si applica alle società.
+{: data-comma="2" }

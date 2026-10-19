@@ -21,5 +21,7 @@ ordine: 138
 # Art. 126 - ***Estinzione del diritto di querela***
 
 Il diritto di querela si estingue con la morte della persona offesa.
+{: data-comma="1" }
 
 Se la querela è stata già proposta, la morte della persona offesa non estingue il reato.
+{: data-comma="2" }

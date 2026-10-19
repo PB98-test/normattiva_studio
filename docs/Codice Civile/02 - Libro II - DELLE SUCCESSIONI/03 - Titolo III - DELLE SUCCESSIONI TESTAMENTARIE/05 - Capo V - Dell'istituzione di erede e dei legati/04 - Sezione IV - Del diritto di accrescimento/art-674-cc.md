@@ -21,9 +21,13 @@ ordine: 761
 # Art. 674 - ***Accrescimento tra coeredi***
 
 Quando più eredi sono stati istituiti con uno stesso testamento nell'universalità dei beni, senza determinazione di parti o in parti uguali, anche se determinate, qualora uno di essi non possa o non voglia accettare, la sua parte si accresce agli altri.
+{: data-comma="1" }
 
 Se più eredi sono stati istituiti in una stessa quota, l'accrescimento ha luogo a favore degli altri istituiti nella quota medesima.
+{: data-comma="2" }
 
 L'accrescimento non ha luogo quando dal testamento risulta una diversa volontà del testatore.
+{: data-comma="3" }
 
 È salvo in ogni caso il diritto di rappresentazione.
+{: data-comma="4" }

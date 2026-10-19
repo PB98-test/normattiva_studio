@@ -21,5 +21,7 @@ ordine: 918
 # Art. 824 - ***Beni delle provincie e dei comuni soggetti al regime dei beni demaniali***
 
 I beni della specie di quelli indicati dal secondo comma dell'[art. 822](art-822-cc.md), se appartengono alle provincie o ai comuni, sono soggetti al regime del demanio pubblico.
+{: data-comma="1" }
 
 Allo stesso regime sono soggetti i cimiteri e i mercati comunali.
+{: data-comma="2" }

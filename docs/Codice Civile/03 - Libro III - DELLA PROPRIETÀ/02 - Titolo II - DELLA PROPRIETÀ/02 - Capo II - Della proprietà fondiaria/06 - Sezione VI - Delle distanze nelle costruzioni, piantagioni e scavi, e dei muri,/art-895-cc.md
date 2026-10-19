@@ -21,5 +21,7 @@ ordine: 989
 # Art. 895 - ***Divieto di ripiantare alberi a distanza non legale***
 
 Se si è acquistato il diritto di tenere alberi a distanza minore di quelle sopra indicate, e l'albero muore o viene reciso o abbattuto, il vicino non può sostituirlo, se non osservando la distanza legale.
+{: data-comma="1" }
 
 La disposizione non si applica quando gli alberi fanno parte di un filare situato lungo il confine.
+{: data-comma="2" }

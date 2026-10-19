@@ -21,5 +21,7 @@ ordine: 2107
 # Art. 1986 - ***Annullamento e risoluzione del contratto***
 
 La cessione può essere annullata se il debitore, avendo dichiarato di cedere tutti i suoi beni, ha dissimulato parte notevole di essi, ovvero se ha occultato passività o ha simulato passività inesistenti.
+{: data-comma="1" }
 
 La cessione può essere risoluta per inadempimento secondo le regole generali.
+{: data-comma="2" }

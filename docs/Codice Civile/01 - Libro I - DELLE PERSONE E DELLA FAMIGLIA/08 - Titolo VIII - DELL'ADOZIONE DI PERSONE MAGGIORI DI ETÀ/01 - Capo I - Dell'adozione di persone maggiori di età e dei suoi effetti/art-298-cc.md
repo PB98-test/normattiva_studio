@@ -21,11 +21,16 @@ ordine: 343
 # Art. 298 - ***Decorrenza degli effetti dell'adozione***
 
 L'adozione produce i suoi effetti dalla data del decreto che la pronunzia.
+{: data-comma="1" }
 
 Finchè il decreto non è emanato, tanto l'adottante quanto l'adottando possono revocare il loro consenso.
+{: data-comma="2" }
 
 Se l'adottante muore dopo la prestazione del consenso e prima dell'emanazione del decreto, si può procedere al compimento degli atti necessari per l'adozione.
+{: data-comma="3" }
 
 Gli eredi dell'adottante possono presentare alla corte memorie e osservazioni per opporsi all'adozione.
+{: data-comma="4" }
 
 Se l'adozione è ammessa, essa produce i suoi effetti dal momento della morte dell'adottante.
+{: data-comma="5" }

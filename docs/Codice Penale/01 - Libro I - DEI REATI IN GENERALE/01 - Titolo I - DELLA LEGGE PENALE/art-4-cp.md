@@ -21,5 +21,7 @@ ordine: 5
 # Art. 4 - ***Cittadino italiano. Territorio dello Stato***
 
 Agli effetti della legge penale, sono considerati cittadini italiani i cittadini delle colonie, i sudditi coloniali, gli appartenenti per origine o per elezione ai luoghi soggetti alla sovranità dello Stato e gli apolidi residenti nel territorio dello Stato.
+{: data-comma="1" }
 
 Agli effetti della legge penale, è territorio dello Stato il territorio del Regno, quello delle colonie e ogni altro luogo soggetto alla sovranità dello Stato. Le navi e gli aeromobili italiani sono considerati come territorio dello Stato, ovunque si trovino, salvo che siano soggetti, secondo il diritto internazionale, a una legge territoriale straniera.
+{: data-comma="2" }

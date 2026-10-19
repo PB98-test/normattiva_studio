@@ -21,5 +21,7 @@ ordine: 590
 # Art. 503 - ***Liquidazione promossa dall'erede***
 
 Anche quando non vi è opposizione di creditori o di legatari, l'erede può valersi della procedura di liquidazione prevista dagli articoli precedenti.
+{: data-comma="1" }
 
 Il pagamento fatto a creditori privilegiati o ipotecari non impedisce all'erede di valersi di questa procedura.
+{: data-comma="2" }

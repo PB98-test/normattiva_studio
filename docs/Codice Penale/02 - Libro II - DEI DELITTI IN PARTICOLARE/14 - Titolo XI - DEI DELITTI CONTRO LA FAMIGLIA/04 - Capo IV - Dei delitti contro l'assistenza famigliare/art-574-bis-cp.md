@@ -21,9 +21,12 @@ ordine: 738
 # Art. 574-bis - ***Sottrazione e trattenimento di minore all'estero***
 
 Salvo che il fatto costituisca più grave reato, chiunque sottrae un minore al genitore esercente la responsabilità genitoriale o al tutore, conducendolo o trattenendolo all'estero contro la volontà del medesimo genitore o tutore, impedendo in tutto o in parte allo stesso l'esercizio della responsabilità genitoriale, è punito con la reclusione da uno a quattro anni.
+{: data-comma="1" }
 
 Se il fatto di cui al primo comma è commesso nei confronti di un minore che abbia compiuto gli anni quattordici e con il suo consenso, si applica la pena della reclusione da sei mesi a tre anni.
+{: data-comma="2" }
 
 Se i fatti di cui al primo e secondo comma sono commessi da un genitore in danno del figlio minore, la condanna comporta la sospensione dall'esercizio della responsabilità genitoriale. [^agg-303]
+{: data-comma="3" }
 
 [^agg-303]: *AGGIORNAMENTO (303)* La Corte Costituzionale, con sentenza 6 - 29 maggio 2020, n. 102 (in G.U. 1ª s.s. 03/06/2020, n. 23), ha dichiarato "l'illegittimità costituzionale dell'[art. 574-bis, terzo comma, del codice penale](art-574-bis-cp.md), nella parte in cui prevede che la condanna pronunciata contro il genitore per il delitto di sottrazione e mantenimento di minore all'estero ai danni del figlio minore comporta la sospensione dell'esercizio della responsabilità genitoriale, anzichè la possibilità per il giudice di disporre la sospensione dall'esercizio della responsabilità genitoriale".

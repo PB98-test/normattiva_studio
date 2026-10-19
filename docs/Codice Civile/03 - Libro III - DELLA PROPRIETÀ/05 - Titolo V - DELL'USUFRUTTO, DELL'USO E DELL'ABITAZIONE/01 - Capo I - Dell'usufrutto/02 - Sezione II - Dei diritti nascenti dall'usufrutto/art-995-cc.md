@@ -21,5 +21,7 @@ ordine: 1090
 # Art. 995 - ***Cose consumabili***
 
 Se l'usufrutto comprende cose consumabili, l'usufruttuario ha diritto di servirsene e ha l'obbligo di pagarne il valore al termine dell'usufrutto secondo la stima convenuta.
+{: data-comma="1" }
 
 Mancando la stima, è in facoltà dell'usufruttuario di pagare le cose secondo il valore che hanno al tempo in cui finisce l'usufrutto o di restituirne altre in eguale qualità e quantità.
+{: data-comma="2" }

@@ -21,9 +21,13 @@ ordine: 887
 # Art. 793 - ***Donazione modale***
 
 La donazione può essere gravata da un onere.
+{: data-comma="1" }
 
 Il donatario è tenuto all'adempimento dell'onere entro i limiti del valore della cosa donata.
+{: data-comma="2" }
 
 Per l'adempimento dell'onere può agire, oltre il donante, qualsiasi interessato, anche durante la vita del donante stesso.
+{: data-comma="3" }
 
 La risoluzione per inadempimento dell'onere, se preveduta nell'atto di donazione, può essere domandata dal donante o dai suoi eredi.
+{: data-comma="4" }

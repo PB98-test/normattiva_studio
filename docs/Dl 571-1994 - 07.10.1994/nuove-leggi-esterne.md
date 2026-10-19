@@ -5,9 +5,8 @@ search:
 
 # Leggi citate da Dl 571-1994 - 07.10.1994 ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Dl 571-1994 - 07.10.1994 — 12 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Dl 571-1994 - 07.10.1994 — 11 leggi trovate)*
 
-- [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const)
 - [leggi 26 novembre 1990, n. 353, e 21 novembre 1991, n. 374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374)
 - [decreto del Presidente della Repubblica 15 dicembre 1959, n. 1229](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-12-15;1229)
 - [articolo 11, comma 16, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537)

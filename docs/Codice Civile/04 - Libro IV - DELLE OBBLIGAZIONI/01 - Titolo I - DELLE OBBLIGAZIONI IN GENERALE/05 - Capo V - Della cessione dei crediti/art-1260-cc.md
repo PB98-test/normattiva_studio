@@ -21,5 +21,7 @@ ordine: 1362
 # Art. 1260 - ***Cedibilità dei crediti***
 
 Il creditore può trasferire a titolo oneroso o gratuito il suo credito, anche senza il consenso del debitore, purchè il credito non abbia carattere strettamente personale o il trasferimento non sia vietato dalla legge.
+{: data-comma="1" }
 
 Le parti possono escludere la cedibilità del credito; ma il patto non è opponibile al cessionario, se non si prova che egli lo conosceva al tempo della cessione.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 1828
 # Art. 1712 - ***Comunicazione dell'eseguito mandato***
 
 Il mandatario deve senza ritardo comunicare al mandante l'esecuzione del mandato.
+{: data-comma="1" }
 
 Il ritardo del mandante a rispondere dopo aver ricevuto tale comunicazione, per un tempo superiore a quello richiesto dalla natura dell'affare o dagli usi, importa approvazione, anche se il mandatario si è discostato dalle istruzioni o ha ecceduto i limiti del mandato.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 969
 # Art. 875 - ***Comunione forzosa del muro che non è sul confine***
 
 Quando il muro si trova a una distanza dal confine minore di un metro e mezzo ovvero a distanza minore della metà di quella stabilita dai regolamenti locali, il vicino può chiedere la comunione del muro soltanto allo scopo di fabbricare contro il muro stesso, pagando, oltre il valore della metà del muro, il valore del suolo da occupare con la nuova fabbrica, salvo che il proprietario preferisca estendere il suo muro sino al confine.
+{: data-comma="1" }
 
 Il vicino che intende domandare la comunione deve interpellare preventivamente il proprietario se preferisca di estendere il muro al confine o di procedere alla sua demolizione. Questi deve manifestare la propria volontà entro un termine di giorni quindici e deve procedere alla costruzione o alla demolizione entro sei mesi dal giorno in cui ha comunicato la risposta.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 1590
 # Art. 1483 - ***Evizione totale della cosa***
 
 Se il compratore subisce l'evizione totale della cosa per effetto di diritti che un terzo ha fatti valere su di essa, il venditore è tenuto a risarcirlo del danno a norma dell'[art. 1479](art-1479-cc.md).
+{: data-comma="1" }
 
 Egli deve inoltre corrispondere al compratore il valore dei frutti che questi sia tenuto a restituire a colui dal quale è evitto, le spese che egli abbia fatte per la denunzia della lite e quelle che abbia dovuto rimborsare all'attore.
+{: data-comma="2" }

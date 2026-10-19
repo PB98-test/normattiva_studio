@@ -21,5 +21,7 @@ ordine: 1938
 # Art. 1817 - ***Termine per la restituzione fissato dal giudice***
 
 Se non è fissato un termine per la restituzione, questo è stabilito dal giudice, avuto riguardo alle circostanze.
+{: data-comma="1" }
 
 Se è stato convenuto che il mutuatario paghi solo quando potrà, il termine per il pagamento è pure fissato dal giudice.
+{: data-comma="2" }

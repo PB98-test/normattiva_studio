@@ -21,7 +21,10 @@ ordine: 1599
 # Art. 1492 - ***Effetti della garanzia***
 
 Nei casi indicati dall'[art. 1490](art-1490-cc.md) il compratore può domandare a sua scelta la risoluzione del contratto ovvero la riduzione del prezzo, salvo che, per determinati vizi, gli usi escludano la risoluzione.
+{: data-comma="1" }
 
 La scelta è irrevocabile quando è fatta con la domanda giudiziale.
+{: data-comma="2" }
 
 Se la cosa consegnata è perita in conseguenza dei vizi, il compratore ha diritto alla risoluzione del contratto; se invece è perita per caso fortuito o per colpa del compratore, o se questi l'ha alienata o trasformata, egli non può domandare che la riduzione del prezzo.
+{: data-comma="3" }

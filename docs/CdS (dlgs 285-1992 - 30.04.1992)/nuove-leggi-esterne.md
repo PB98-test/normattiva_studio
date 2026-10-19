@@ -5,9 +5,8 @@ search:
 
 # Leggi citate da CdS (dlgs 285-1992 - 30.04.1992) ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di CdS (dlgs 285-1992 - 30.04.1992) — 255 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di CdS (dlgs 285-1992 - 30.04.1992) — 253 leggi trovate)*
 
-- [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const)
 - [art. 4, comma 2, della legge 13 giugno 1991, n. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-13;190)
 - [D.LGS. 15 MARZO 2010, N. 66](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2010-03-15;66)
 - [D.LGS. 10 SETTEMBRE 1993, N. 360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1993-09-10;360)
@@ -182,7 +181,6 @@ search:
 - [D.L. 14 febbraio 2016, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2016-02-14;18)
 - [L. 8 aprile 2016, n. 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-04-08;49)
 - [articolo 21, primo comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-09-29;602)
-- [articolo 65 del codice dell'amministrazione digitale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2005-03-07;82)
 - [L. 23 dicembre 1999, n. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-23;488)
 - [L. 24 novembre 2000, n. 340](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-11-24;340)
 - [articolo 7 del decreto legislativo 1° settembre 2011, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2011-09-01;150)

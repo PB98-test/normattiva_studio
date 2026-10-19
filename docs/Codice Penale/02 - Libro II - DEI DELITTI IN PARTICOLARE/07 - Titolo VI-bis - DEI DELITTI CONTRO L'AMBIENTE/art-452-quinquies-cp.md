@@ -21,5 +21,7 @@ ordine: 552
 # Art. 452-quinquies - ***Delitti colposi contro l'ambiente***
 
 Se taluno dei fatti di cui agli [articoli 452-bis](art-452-bis-cp.md) e [452-quater](art-452-quater-cp.md) è commesso per colpa, le pene previste dai medesimi articoli sono diminuite da un terzo a due terzi.
+{: data-comma="1" }
 
 Se dalla commissione dei fatti di cui al comma precedente deriva il pericolo di inquinamento ambientale o di disastro ambientale le pene sono ulteriormente diminuite di un terzo.
+{: data-comma="2" }

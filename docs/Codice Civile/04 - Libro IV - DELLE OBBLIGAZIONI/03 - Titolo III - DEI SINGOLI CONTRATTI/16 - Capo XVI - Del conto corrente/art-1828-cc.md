@@ -21,5 +21,7 @@ ordine: 1949
 # Art. 1828 - ***Efficacia della garanzia dei crediti iscritti***
 
 Se il credito incluso nel conto è assistito da una garanzia reale o personale, il correntista ha diritto di valersi della garanzia per il saldo esistente a suo favore alla chiusura del conto e fino alla concorrenza del credito garantito.
+{: data-comma="1" }
 
 La stessa disposizione si applica se per il credito esiste un coobbligato solidale.
+{: data-comma="2" }

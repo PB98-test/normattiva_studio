@@ -21,7 +21,10 @@ ordine: 290
 # Art. 267 - ***Disfattismo economico***
 
 Chiunque, in tempo di guerra, adopera mezzi diretti a deprimere il corso dei cambi, o ad influire sul mercato dei titoli o dei valori, pubblici o privati, in modo da esporre a pericolo la resistenza della nazione di fronte al nemico, è punito con la reclusione non inferiore a cinque anni e con la multa non inferiore a lire trentamila.
+{: data-comma="1" }
 
 Se il colpevole ha agito in seguito a intelligenze con lo straniero, la reclusione non può essere inferiore a dieci anni.
+{: data-comma="2" }
 
 La reclusione è non inferiore a quindici anni se il colpevole ha agito in seguito a intelligenze col nemico.
+{: data-comma="3" }

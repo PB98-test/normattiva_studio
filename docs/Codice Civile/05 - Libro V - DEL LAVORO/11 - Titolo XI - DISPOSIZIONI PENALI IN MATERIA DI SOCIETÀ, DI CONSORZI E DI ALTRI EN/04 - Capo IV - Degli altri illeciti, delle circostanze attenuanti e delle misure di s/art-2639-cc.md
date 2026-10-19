@@ -21,5 +21,7 @@ ordine: 2938
 # Art. 2639 - ***Estensione delle qualifiche soggettive***
 
 Per i reati previsti dal presente titolo al soggetto formalmente investito della qualifica o titolare della funzione prevista dalla legge civile è equiparato sia chi è tenuto a svolgere la stessa funzione, diversamente qualificata, sia chi esercita in modo continuativo e significativo i poteri tipici inerenti alla qualifica o alla funzione.
+{: data-comma="1" }
 
 Fuori dei casi di applicazione delle norme riguardanti i delitti dei pubblici ufficiali contro la pubblica amministrazione, le disposizioni sanzionatorie relative agli amministratori si applicano anche a coloro che sono legalmente incaricati dall'autorità giudiziaria o dall'autorità pubblica di vigilanza di amministrare la società o i beni dalla stessa posseduti o gestiti per conto di terzi.
+{: data-comma="2" }

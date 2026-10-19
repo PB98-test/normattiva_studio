@@ -21,7 +21,10 @@ ordine: 840
 # Art. 617 - ***Cognizione, interruzione o impedimento illeciti di comunicazioni o conversazioni telegrafiche o telefoniche***
 
 Chiunque, fraudolentamente, prende cognizione di una comunicazione o di una conversazione, telefoniche o telegrafiche, tra altre persone o comunque a lui non dirette, ovvero le interrompe o le impedisce è punito con la reclusione da un anno e sei mesi a cinque anni.
+{: data-comma="1" }
 
 Salvo che il fatto costituisca più grave reato, la stessa pena si applica a chiunque rivela, mediante qualsiasi mezzo di informazione al pubblico, in tutto o in parte, il contenuto delle comunicazioni o delle conversazioni indicate nella prima parte di questo articolo.
+{: data-comma="2" }
 
 I delitti sono punibili a querela della persona offesa; tuttavia si procede d'ufficio e la pena è della reclusione da tre a otto anni se il fatto è commesso in danno di un pubblico ufficiale o di un incaricato di un pubblico servizio nell'esercizio o a causa delle funzioni o del servizio, ovvero da un pubblico ufficiale o da un incaricato di un pubblico servizio con abuso dei poteri o con violazione dei doveri inerenti alla funzione o servizio, o da chi esercita anche abusivamente la professione di investigatore privato.
+{: data-comma="3" }

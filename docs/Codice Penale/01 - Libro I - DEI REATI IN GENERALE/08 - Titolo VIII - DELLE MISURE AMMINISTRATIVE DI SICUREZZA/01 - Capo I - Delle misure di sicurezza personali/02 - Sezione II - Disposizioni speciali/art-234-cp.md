@@ -21,7 +21,10 @@ ordine: 256
 # Art. 234 - ***Divieto di frequentare osterie e pubblici spacci di bevande alcooliche***
 
 Il divieto di frequentare osterie e pubblici spacci di bevande alcooliche ha la durata minima di un anno.
+{: data-comma="1" }
 
 Il divieto è sempre aggiunto alla pena, quando si tratta di condannati per ubriachezza abituale o per reati commessi in stato di ubriachezza, sempre che questa sia abituale.
+{: data-comma="2" }
 
 Nel caso di trasgressione, può essere ordinata inoltre la libertà vigilata o la prestazione di una cauzione di buona condotta.
+{: data-comma="3" }

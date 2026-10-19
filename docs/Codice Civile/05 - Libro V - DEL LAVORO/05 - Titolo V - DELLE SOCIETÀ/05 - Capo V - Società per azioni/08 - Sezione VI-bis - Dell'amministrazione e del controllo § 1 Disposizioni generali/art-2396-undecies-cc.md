@@ -21,11 +21,16 @@ ordine: 2556
 # Art. 2396-undecies - ***Sostituzione degli amministratori***
 
 Se nel corso dell'esercizio vengono a mancare uno o più amministratori, gli altri provvedono a sostituirli con deliberazione approvata dal collegio sindacale, purchè la maggioranza sia sempre costituita da amministratori nominati dall'assemblea. Gli amministratori così nominati restano in carica fino alla prossima assemblea.
+{: data-comma="1" }
 
 Se viene meno la maggioranza degli amministratori nominati dall'assemblea, quelli rimasti in carica devono convocare l'assemblea perchè provveda alla sostituzione dei mancanti.
+{: data-comma="2" }
 
 Salvo diversa disposizione dello statuto o dell'assemblea, gli amministratori nominati ai sensi del secondo comma scadono insieme con quelli in carica all'atto della loro nomina.
+{: data-comma="3" }
 
 Se particolari disposizioni dello statuto prevedono che a seguito della cessazione di taluni amministratori cessi l'intero consiglio, l'assemblea per la nomina del nuovo consiglio è convocata d'urgenza dagli amministratori rimasti in carica; lo statuto può tuttavia prevedere l'applicazione in tal caso di quanto disposto nel successivo comma.
+{: data-comma="4" }
 
 Se vengono a cessare l'amministratore unico o tutti gli amministratori, l'assemblea per la nomina dell'amministratore o dell'intero consiglio deve essere convocata d'urgenza dal collegio sindacale, il quale può compiere nel frattempo gli atti di ordinaria amministrazione.
+{: data-comma="5" }

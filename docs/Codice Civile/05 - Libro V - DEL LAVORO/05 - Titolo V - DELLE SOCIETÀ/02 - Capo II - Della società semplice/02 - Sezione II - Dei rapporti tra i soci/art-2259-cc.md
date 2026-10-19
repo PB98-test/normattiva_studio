@@ -21,7 +21,10 @@ ordine: 2381
 # Art. 2259 - ***Revoca della facoltà di amministrare***
 
 La revoca dell'amministratore nominato con il contratto sociale non ha effetto se non ricorre una giusta causa.
+{: data-comma="1" }
 
 L'amministratore nominato con atto separato è revocabile secondo le norme sul mandato.
+{: data-comma="2" }
 
 La revoca per giusta causa può in ogni caso essere chiesta giudizialmente da ciascun socio.
+{: data-comma="3" }

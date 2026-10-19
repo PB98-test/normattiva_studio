@@ -21,7 +21,10 @@ ordine: 915
 # Art. 821 - ***Acquisto dei frutti***
 
 I frutti naturali appartengono al proprietario della cosa che li produce, salvo che la loro proprietà sia attribuita ad altri. In quest'ultimo caso la proprietà si acquista con la separazione.
+{: data-comma="1" }
 
 Chi fa propri i frutti deve, nei limiti del loro valore, rimborsare colui che abbia fatto spese per la produzione e il raccolto.
+{: data-comma="2" }
 
 I frutti civili si acquistano giorno per giorno, in ragione della durata del diritto.
+{: data-comma="3" }

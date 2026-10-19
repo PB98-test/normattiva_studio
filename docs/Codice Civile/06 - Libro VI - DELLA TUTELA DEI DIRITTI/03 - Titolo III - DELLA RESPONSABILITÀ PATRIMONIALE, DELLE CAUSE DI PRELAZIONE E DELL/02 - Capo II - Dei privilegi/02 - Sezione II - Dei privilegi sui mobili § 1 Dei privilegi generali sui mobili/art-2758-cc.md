@@ -21,7 +21,10 @@ ordine: 3064
 # Art. 2758 - ***Crediti per tributi indiretti.***
 
 I crediti dello Stato per i tributi indiretti hanno privilegio sui mobili ai quali i tributi si riferiscono e sugli altri beni indicati dalle leggi relative, con l'effetto da esse stabilito.
+{: data-comma="1" }
 
 Eguale privilegio hanno i crediti di rivalsa verso il cessionario ed il committente previsti dalle norme relative all'imposta sul valore aggiunto, sui beni che hanno formato oggetto della cessione o ai quali si riferisce il servizio.
+{: data-comma="2" }
 
 Il privilegio, per quanto riguarda l'imposta di successione, non ha effetto in pregiudizio dei creditori che hanno esercitato il diritto di separazione dei beni del defunto da quelli dell'erede.
+{: data-comma="3" }

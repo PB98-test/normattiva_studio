@@ -21,5 +21,7 @@ ordine: 75
 # Art. 64 - ***Aumento di pena nel caso di una sola circostanza aggravante***
 
 Quando ricorre una circostanza aggravante, e l'aumento di pena non è determinato dalla legge, è aumentata fino a un terzo la pena che dovrebbe essere inflitta per il reato commesso.
+{: data-comma="1" }
 
 Nondimeno, la pena della reclusione da applicare per effetto dell'aumento non può superare gli anni trenta.
+{: data-comma="2" }

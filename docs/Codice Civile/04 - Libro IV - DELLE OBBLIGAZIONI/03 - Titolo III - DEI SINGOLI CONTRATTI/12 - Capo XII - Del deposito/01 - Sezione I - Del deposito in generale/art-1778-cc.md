@@ -21,5 +21,7 @@ ordine: 1895
 # Art. 1778 - ***Cosa proveniente da reato***
 
 Il depositario, se scopre che la cosa proviene da un reato e gli è nota la persona alla quale è stata sottratta, deve denunziarle il deposito fatto presso di sè.
+{: data-comma="1" }
 
 Il depositario è liberato se restituisce la cosa al depositante decorsi dieci giorni dalla denunzia senza che gli sia stata notificata opposizione.
+{: data-comma="2" }

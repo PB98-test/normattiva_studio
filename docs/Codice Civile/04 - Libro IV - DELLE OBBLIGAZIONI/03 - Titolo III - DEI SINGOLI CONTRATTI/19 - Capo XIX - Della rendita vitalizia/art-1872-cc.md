@@ -21,5 +21,7 @@ ordine: 1993
 # Art. 1872 - ***Modi di costituzione***
 
 La rendita vitalizia può essere costituita a titolo oneroso, mediante alienazione di un bene mobile o immobile o mediante cessione di capitale.
+{: data-comma="1" }
 
 La rendita vitalizia può essere costituita anche per donazione o per testamento, e in questo caso si osservano le norme stabilite dalla legge per tali atti.
+{: data-comma="2" }

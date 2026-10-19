@@ -21,5 +21,7 @@ ordine: 1336
 # Art. 1234 - ***Inefficacia della novazione***
 
 La novazione è senza effetto, se non esisteva l'obbligazione originaria.
+{: data-comma="1" }
 
 Qualora l'obbligazione originaria derivi da un titolo annullabile, la novazione è valida se il debitore ha assunto validamente il nuovo debito conoscendo il vizio del titolo originario.
+{: data-comma="2" }

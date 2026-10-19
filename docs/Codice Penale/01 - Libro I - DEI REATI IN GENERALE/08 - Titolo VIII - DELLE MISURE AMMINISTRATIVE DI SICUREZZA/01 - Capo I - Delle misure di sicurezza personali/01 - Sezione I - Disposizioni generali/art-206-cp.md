@@ -21,10 +21,13 @@ ordine: 227
 # Art. 206 - ***Applicazione provvisoria delle misure di sicurezza***
 
 Durante l'istruzione o il giudizio, può disporsi che il minore di età, o l'infermo di mente, o l'ubriaco abituale, o la persona dedita all'uso di sostanze stupefacenti, o in stato di cronica intossicazione prodotta da alcool o da sostanze stupefacenti, siano provvisoriamente ricoverati in un riformatorio o in un manicomio giudiziario, o in una casa di cura e di custodia. [^agg-161]
+{: data-comma="1" }
 
 Il giudice revoca l'ordine, quando ritenga che tali persone non siano più socialmente pericolose.
+{: data-comma="2" }
 
 Il tempo dell'esecuzione provvisoria della misura di sicurezza è computato nella durata minima di essa.   [^agg-195]
+{: data-comma="3" }
 
 [^agg-161]: *AGGIORNAMENTO (161)* La Corte Costituzionale con sentenza 14-24 luglio 1998, n. 324, (in G.U. 1ª s.s. 29/07/1998, n. 30) ha dichiarato l'illegittimità costituzionale del primo comma del presente articolo nella parte in cui prevede la possibilità di disporre il ricovero provvisorio anche di minori in un ospedale psichiatrico giudiziario.
 

@@ -21,13 +21,19 @@ ordine: 2047
 # Art. 1926 - ***Cambiamento di professione dell'assicurato***
 
 I cambiamenti di professione o di attività dell'assicurato non fanno cessare gli effetti dell'assicurazione, qualora non aggravino il rischio in modo tale che, se il nuovo stato di cose fosse esistito al tempo del contratto, l'assicuratore non avrebbe consentito l'assicurazione.
+{: data-comma="1" }
 
 Qualora i cambiamenti siano di tale natura che, se il nuovo stato di cose fosse esistito al tempo del contratto, l'assicuratore avrebbe consentito l'assicurazione per un premio più elevato, il pagamento della somma assicurata è ridotto in proporzione del minor premio convenuto in confronto di quello che sarebbe stato stabilito.
+{: data-comma="2" }
 
 Se l'assicurato dà notizia dei suddetti cambiamenti all'assicuratore, questi, entro quindici giorni, deve dichiarare se intende far cessare gli effetti del contratto ovvero ridurre la somma assicurata o elevare il premio.
+{: data-comma="3" }
 
 Se l'assicuratore dichiara di voler modificare il contratto in uno dei due sensi su indicati, l'assicurato, entro quindici giorni successivi, deve dichiarare se intende accettare la proposta.
+{: data-comma="4" }
 
 Se l'assicurato dichiara di non accettare, il contratto è risoluto, salvo il diritto dell'assicuratore al premio relativo al periodo di assicurazione in corso e salvo il diritto dell'assicurato al riscatto. Il silenzio dell'assicurato vale come adesione alla proposta dell'assicuratore.
+{: data-comma="5" }
 
 Le comunicazioni e dichiarazioni previste dai commi precedenti possono farsi anche mediante raccomandata.
+{: data-comma="6" }

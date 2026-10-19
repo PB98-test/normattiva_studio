@@ -21,7 +21,10 @@ ordine: 230
 # Art. 207 - ***Processo verbale dell'assunzione***
 
 Dell'assunzione dei mezzi di prova si redige processo verbale sotto la direzione del giudice.
+{: data-comma="1" }
 
 Le dichiarazioni delle parti e dei testimoni sono riportate in prima persona e sono lette al dichiarante ....
+{: data-comma="2" }
 
 Il giudice, quando lo ritiene opportuno, nel riportare le dichiarazioni descrive il contegno della parte e del testimone.
+{: data-comma="3" }

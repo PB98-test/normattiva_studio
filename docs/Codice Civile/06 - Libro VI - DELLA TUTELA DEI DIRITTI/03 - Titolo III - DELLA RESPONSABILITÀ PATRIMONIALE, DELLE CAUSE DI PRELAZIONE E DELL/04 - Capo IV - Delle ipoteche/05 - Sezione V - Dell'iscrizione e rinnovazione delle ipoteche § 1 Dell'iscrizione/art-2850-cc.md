@@ -21,7 +21,10 @@ ordine: 3160
 # Art. 2850 - ***Formalità per la rinnovazione***
 
 Per ottenere la rinnovazione si presenta al conservatore una nota in doppio originale conforme a quella della precedente iscrizione, in cui si dichiari che s'intende rinnovare l'iscrizione originaria.
+{: data-comma="1" }
 
 In luogo del titolo si può presentare la nota precedente.
+{: data-comma="2" }
 
 Il conservatore deve osservare le disposizioni dell'[art. 2840](art-2840-cc.md).
+{: data-comma="3" }

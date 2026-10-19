@@ -1,0 +1,31 @@
+---
+type: "Articolo di legge"
+title: "Art. 6 - Competenza del tribunale"
+articolo: "Art. 6"
+codice: cpp
+aliases:
+  - "art-6-cpp"
+parte: "I"
+parte_label: null
+libro: "I"
+libro_label: "SOGGETTI"
+titolo: "I"
+titolo_label: "GIUDICE"
+capo: "II"
+capo_label: "COMPETENZA"
+sezione: "II"
+sezione_label: "Competenza per materia"
+rubrica: "Competenza del tribunale"
+dataVigenza: "20261016"
+ordine: 6
+---
+
+# Art. 6 - ***Competenza del tribunale***
+
+1\. Il tribunale è competente per i reati che non appartengono alla competenza della corte di assise o del giudice di pace. [^agg-90] [^agg-90a] [^agg-114]
+
+[^agg-90]: *AGGIORNAMENTO (90)* Il [D. Lgs. 19 febbraio 1998, n. 51](../../../../../../Dlgs%2051-1998%20-%2019.02.1998/00%20-%20Indice%20%28dlgs51-98%29.md) ha disposto (con l'[art. 247](../../../../../../Dlgs%2051-1998%20-%2019.02.1998/07%20-%20Titolo%20VII%20-%20NORME%20DI%20COORDINAMENTO%20E%20FINALI/art-247-dlgs51-98.md), comma 1) che "Il presente decreto legislativo entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace decorso il termine stabilito dall'articolo 1, comma 1, lettera r), della legge 16 luglio 1997, n. 254, fatta eccezione per le disposizioni previste dagli [articoli 17](../../03%20-%20Capo%20III%20-%20RIUNIONE%20E%20SEPARAZIONE%20DI%20PROCESSI/art-17-cpp.md), [33](../../06%20-%20Capo%20VI%20-%20CAPACITÀ%20E%20COMPOSIZIONE%20DEL%20GIUDICE/art-33-cpp.md), comma 1, 38, comma 1 e 40, commi 1 e 3."
+
+[^agg-90a]: *AGGIORNAMENTO (90a)* Il [D. Lgs. 19 febbraio 1998, n. 51](../../../../../../Dlgs%2051-1998%20-%2019.02.1998/00%20-%20Indice%20%28dlgs51-98%29.md) come modificato dalla [L. 16 giugno 1998, n. 188](../../../../../../L.%20188-1998%20-%2016.06.1998/00%20-%20Indice%20%28l188-98%29.md) ha disposto (con l'[art. 247](../../../../../../Dlgs%2051-1998%20-%2019.02.1998/07%20-%20Titolo%20VII%20-%20NORME%20DI%20COORDINAMENTO%20E%20FINALI/art-247-dlgs51-98.md), comma 1) che "Il presente decreto legislativo entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace a decorrere dal 2 giugno 1999 , fatta eccezione per le disposizioni previste dagli [articoli 17](../../03%20-%20Capo%20III%20-%20RIUNIONE%20E%20SEPARAZIONE%20DI%20PROCESSI/art-17-cpp.md), [33](../../06%20-%20Capo%20VI%20-%20CAPACITÀ%20E%20COMPOSIZIONE%20DEL%20GIUDICE/art-33-cpp.md), comma 1, 38, comma 1 e 40, commi 1 e 3."
+
+[^agg-114]: *AGGIORNAMENTO (114)* Il [D.Lgs. 28 agosto 2000, n. 274](../../../../../../Dlgs%20274-2000%20-%2028.08.2000/00%20-%20Indice%20%28dlgs274-00%29.md) come modificato dal D.L. 2 aprile 2001, n. 91, convertito con modificazioni dalla L. 3 maggio 2001, n. 163, ha disposto (con l'[art. 65](../../../../../../Dlgs%20274-2000%20-%2028.08.2000/03%20-%20Titolo%20III%20-%20DISPOSIZIONI%20FINALI%20E%20TRANSITORIE/art-65-dlgs274-00.md), comma 1) che l'entrata in vigore della modifica al presente articolo è prorogata al 2 gennaio 2002.

@@ -21,5 +21,7 @@ ordine: 902
 # Art. 808 - ***Effetti nei riguardi dei terzi***
 
 La revocazione per ingratitudine o per sopravvenienza di figli non pregiudica i terzi che hanno acquistato diritti anteriormente alla domanda, salvi gli effetti della trascrizione di questa.
+{: data-comma="1" }
 
 Il donatario, che prima della trascrizione della domanda di revocazione ha costituito sui beni donati diritti reali che ne diminuiscono il valore, deve indennizzare il donante della diminuzione di valore sofferta dai beni stessi.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 1120
 # Art. 1025 - ***Obblighi inerenti all'uso e all'abitazione***
 
 Chi ha l'uso di un fondo e ne raccoglie tutti i frutti o chi ha il diritto di abitazione e occupa tutta la casa è tenuto alle spese di coltura, alle riparazioni ordinarie e al pagamento dei tributi come l'usufruttuario.
+{: data-comma="1" }
 
 Se non raccoglie che una parte dei frutti o non occupa che una parte della casa, contribuisce in proporzione di ciò che gode.
+{: data-comma="2" }

@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da Codice Penale ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Codice Penale — 146 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Codice Penale — 145 leggi trovate)*
 
 - [legge 24 dicembre 1925, n. 2260](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-12-24;2260)
 - [D.P.R. 19 dicembre 1953, n. 922](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-12-19;922)
@@ -101,7 +101,6 @@ search:
 - [D.P.R. 9 agosto 1982, n. 525](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-08-09;525)
 - [D.P.R. 22 febbraio 1983, n. 43](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1983-02-22;43)
 - [D.P.R. 20 gennaio 1992, n. 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1992-01-20;23)
-- [artt. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const)
 - [D.Lgs. 19 dicembre 1994, n. 758](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1994-12-19;758)
 - [legge 4 novembre 2010, n. 201](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-11-04;201)
 - [decreto legislativo 16 aprile 1994, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1994-04-16;297)

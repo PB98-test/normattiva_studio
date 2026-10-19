@@ -21,7 +21,10 @@ ordine: 2407
 # Art. 2285 - ***Recesso del socio***
 
 Ogni socio può recedere dalla società quando questa è contratta a tempo indeterminato o per tutta la vita di uno dei soci.
+{: data-comma="1" }
 
 Può inoltre recedere nei casi previsti nel contratto sociale ovvero quando sussiste una giusta causa.
+{: data-comma="2" }
 
 Nei casi previsti nel primo comma il recesso deve essere comunicato agli altri soci con un preavviso di almeno tre mesi.
+{: data-comma="3" }

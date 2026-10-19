@@ -21,5 +21,7 @@ ordine: 237
 # Art. 214 - ***Disconoscimento della scrittura privata***
 
 Colui contro il quale è prodotta una scrittura privata, se intende disconoscerla, è tenuto a negare formalmente la propria scrittura o la propria sottoscrizione.
+{: data-comma="1" }
 
 Gli eredi o aventi causa possono limitarsi a dichiarare di non conoscere la scrittura o la sottoscrizione del loro autore.
+{: data-comma="2" }

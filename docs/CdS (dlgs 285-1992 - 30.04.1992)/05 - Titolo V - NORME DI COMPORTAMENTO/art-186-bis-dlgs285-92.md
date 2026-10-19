@@ -14,7 +14,7 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Guida sotto l'influenza dell'alcool per conducenti di età inferiore a ventuno anni, per i neo-patentati e per chi esercita professionalmente l'attività di trasporto di persone o di cose)."
-dataVigenza: "20260914"
+dataVigenza: "20261012"
 ordine: 200
 ---
 
@@ -42,12 +42,12 @@ ordine: 200
 
 7\. Il conducente di età inferiore a diciotto anni, per il quale sia stato accertato un valore corrispondente ad un tasso alcolemico superiore a O (zero) e non superiore a 0,5 grammi per litro (g/1), non può conseguire la patente di guida di categoria B prima del compimento del diciannovesimo anno di età. Il conducente di età inferiore a diciotto anni, per il quale sia stato accertato un valore corrispondente ad un tasso alcolemico superiore a 0,5 grammi per litro (g/l), non può conseguire la patente di guida di categoria B prima del compimento del ventunesimo anno di età". Il conducente di età inferiore a diciotto anni, per il quale sia stato accertatoun valore corrispondente ad un tasso alcolemico superiore a 0,5 grammi per litro (g/l), non può conseguire la patente di guida di categoria B prima del compimento del ventunesimo anno di età.
 
-[^agg-114]: *AGGIORNAMENTO (114)* Il Decreto 19 dicembre 2012 (in G.U. 31/12/2012, n. 303) ha disposto (con l'[art. 1](../01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-1-dlgs285-92.md), comma 2) che la presente modifica avrà effetto a decorrere dal 1 gennaio 2013.
+[^agg-114]: *AGGIORNAMENTO (114)* Il Decreto 19 dicembre 2012 (in G.U. 31/12/2012, n. 303) ha disposto (con l'art. 1, comma 2) che la presente modifica avrà effetto a decorrere dal 1 gennaio 2013.
 
-[^agg-124]: *AGGIORNAMENTO (124)* Il Decreto 16 dicembre 2014 (in G.U. 31/12/2012, n. 302) ha disposto (con l'[art. 1](../01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-1-dlgs285-92.md), comma 2) che la presente modifica avrà effetto a decorrere dal 1 gennaio 2015.
+[^agg-124]: *AGGIORNAMENTO (124)* Il Decreto 16 dicembre 2014 (in G.U. 31/12/2012, n. 302) ha disposto (con l'art. 1, comma 2) che la presente modifica avrà effetto a decorrere dal 1 gennaio 2015.
 
-[^agg-133]: *AGGIORNAMENTO (133)* Il Decreto 20 dicembre 2016 (in G.U. 30/12/2016, n. 304) ha disposto (con l'[art. 1](../01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-1-dlgs285-92.md), comma 1) che la presente modifica avrà effetto a decorrere dal 1 gennaio 2017.
+[^agg-133]: *AGGIORNAMENTO (133)* Il Decreto 20 dicembre 2016 (in G.U. 30/12/2016, n. 304) ha disposto (con l'art. 1, comma 1) che la presente modifica avrà effetto a decorrere dal 1 gennaio 2017.
 
-[^agg-145]: *AGGIORNAMENTO (145)* Il Decreto 27 dicembre 2018 (in G.U. 29/12/2018, n. 301) ha disposto (con l'[art. 3](../01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-3-dlgs285-92.md), comma 1) che la presente modifica avrà effetto a decorrere dal 1° gennaio 2019.
+[^agg-145]: *AGGIORNAMENTO (145)* Il Decreto 27 dicembre 2018 (in G.U. 29/12/2018, n. 301) ha disposto (con l'art. 3, comma 1) che la presente modifica avrà effetto a decorrere dal 1° gennaio 2019.
 
-[^agg-163]: *AGGIORNAMENTO (163)* Il Decreto 31 dicembre 2020 (in G.U. 31/12/2020, n. 323) ha disposto (con l'[art. 3](../01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-3-dlgs285-92.md), comma 1) che la presente modifica avrà effetto a decorrere dal 1° gennaio 2021.
+[^agg-163]: *AGGIORNAMENTO (163)* Il Decreto 31 dicembre 2020 (in G.U. 31/12/2020, n. 323) ha disposto (con l'art. 3, comma 1) che la presente modifica avrà effetto a decorrere dal 1° gennaio 2021.

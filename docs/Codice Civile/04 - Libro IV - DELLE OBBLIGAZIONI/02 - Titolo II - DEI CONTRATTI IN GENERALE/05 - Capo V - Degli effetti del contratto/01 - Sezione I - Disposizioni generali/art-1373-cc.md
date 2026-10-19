@@ -21,9 +21,13 @@ ordine: 1475
 # Art. 1373 - ***Recesso unilaterale***
 
 Se a una delle parti è attribuita la facoltà di recedere dal contratto, tale facoltà può essere esercitata finchè il contratto non abbia avuto un principio di esecuzione.
+{: data-comma="1" }
 
 Nei contratti a esecuzione continuata o periodica, tale facoltà può essere esercitata anche successivamente, ma il recesso non ha effetto per le prestazioni già eseguite o in corso di esecuzione.
+{: data-comma="2" }
 
 Qualora sia stata stipulata la prestazione di un corrispettivo per il recesso, questo ha effetto quando la prestazione è eseguita.
+{: data-comma="3" }
 
 È salvo in ogni caso il patto contrario.
+{: data-comma="4" }

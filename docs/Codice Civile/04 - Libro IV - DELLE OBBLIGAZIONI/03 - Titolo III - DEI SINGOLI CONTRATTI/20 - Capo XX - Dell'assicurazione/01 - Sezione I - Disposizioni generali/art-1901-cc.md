@@ -21,7 +21,10 @@ ordine: 2022
 # Art. 1901 - ***Mancato pagamento del premio***
 
 Se il contraente non paga il premio o la prima rata di premio stabilita dal contratto, l'assicurazione resta sospesa fino alle ore ventiquattro del giorno in cui il contraente paga quanto è da lui dovuto.
+{: data-comma="1" }
 
 Se alle scadenze convenute il contraente non paga i premi successivi, l'assicurazione resta sospesa dalle ore ventiquattro del quindicesimo giorno dopo quello della scadenza.
+{: data-comma="2" }
 
 Nelle ipotesi previste dai due commi precedenti il contratto è risoluto di diritto se l'assicuratore, nel termine di sei mesi dal giorno in cui il premio o la rata sono scaduti, non agisce per la riscossione; l'assicuratore ha diritto soltanto al pagamento del premio relativo al periodo di assicurazione in corso e al rimborso delle spese. La presente norma non si applica alle assicurazioni sulla vita.
+{: data-comma="3" }

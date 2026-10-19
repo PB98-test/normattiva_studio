@@ -1,0 +1,38 @@
+---
+type: "Articolo di legge"
+title: "Art. 581 - Forma dell'impugnazione"
+articolo: "Art. 581"
+codice: cpp
+aliases:
+  - "art-581-cpp"
+parte: "II"
+parte_label: null
+libro: "IX"
+libro_label: "IMPUGNAZIONI"
+titolo: "I"
+titolo_label: "DISPOSIZIONI GENERALI"
+capo: null
+capo_label: null
+sezione: null
+sezione_label: null
+rubrica: "Forma dell'impugnazione"
+dataVigenza: "20261016"
+ordine: 700
+---
+
+# Art. 581 - ***Forma dell'impugnazione***
+
+1\. L'impugnazione si propone con atto scritto nel quale sono indicati il provvedimento impugnato, la data del medesimo e il giudice che lo ha emesso, con l'enunciazione specifica, a pena di inammissibilità:
+
+- a) dei capi o dei punti della decisione ai quali si riferisce l'impugnazione;
+- b) delle prove delle quali si deduce l'inesistenza, l'omessa assunzione o l'omessa o erronea valutazione;
+- c) delle richieste, anche istruttorie;
+- d) dei motivi, con l'indicazione delle ragioni di diritto e degli elementi di fatto che sorreggono ogni richiesta.
+
+1-bis. L'appello è inammissibile per mancanza di specificità dei motivi quando, per ogni richiesta, non sono enunciati in forma puntuale ed esplicita i rilievi critici in relazione alle ragioni di fatto o di diritto espresse nel provvedimento impugnato, con riferimento ai capi e punti della decisione ai quali si riferisce l'impugnazione.
+
+1-ter. COMMA ABROGATO DALLA L. 9 AGOSTO 2024, N. 114.
+
+1-quater. Nel caso di imputato rispetto al quale si è proceduto in assenza, con l'atto d'impugnazione del difensore di ufficio è depositato, a pena d'inammissibilità, specifico mandato ad impugnare, rilasciato dopo la pronuncia della sentenza e contenente la dichiarazione o l'elezione di domicilio dell'imputato, ai fini della notificazione del decreto di citazione a giudizio. [^agg-290]
+
+[^agg-290]: *AGGIORNAMENTO (290)* Il [D.Lgs. 10 ottobre 2022, n. 150](../../../../Cartabia%20%28Dlgs%20150-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs150-22%29.md) ha disposto (con l'[art. 89](../../../../Cartabia%20%28Dlgs%20150-2022%20-%2010.10.2022%29/06%20-%20Titolo%20VI%20-%20Disposizioni%20transitorie,%20finali%20e%20abrogazioni/art-89-dlgs150-22.md), comma 3) che "Le disposizioni degli [articoli 157-ter, comma 3](../../../01%20-%20Parte%20I/02%20-%20Libro%20II%20-%20ATTI/06%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-157-ter-cpp.md), [581](../../../01%20-%20Parte%20I/02%20-%20Libro%20II%20-%20ATTI/06%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-157-ter-cpp.md), [commi 1-ter](../../../01%20-%20Parte%20I/02%20-%20Libro%20II%20-%20ATTI/06%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-157-ter-cpp.md) e [1-quater](../../../01%20-%20Parte%20I/02%20-%20Libro%20II%20-%20ATTI/06%20-%20Titolo%20V%20-%20NOTIFICAZIONI/art-157-ter-cpp.md), e [585, comma 1-bis, del codice di procedura penale](art-585-cpp.md) si applicano per le sole impugnazioni proposte avverso sentenze pronunciate in data successiva a quella di entrata in vigore del presente decreto".

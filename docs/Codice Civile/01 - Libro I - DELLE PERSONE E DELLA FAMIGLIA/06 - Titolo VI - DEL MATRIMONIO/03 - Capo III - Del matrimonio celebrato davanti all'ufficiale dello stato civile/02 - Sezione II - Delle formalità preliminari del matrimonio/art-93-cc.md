@@ -21,5 +21,7 @@ ordine: 125
 # Art. 93 - ***Pubblicazione***
 
 La celebrazione del matrimonio dev'essere preceduta dalla pubblicazione fatta a cura dell'ufficiale dello stato civile.
+{: data-comma="1" }
 
 COMMA ABROGATO DAL D.P.R. 3 NOVEMBRE 2000, N. 396.
+{: data-comma="2" }

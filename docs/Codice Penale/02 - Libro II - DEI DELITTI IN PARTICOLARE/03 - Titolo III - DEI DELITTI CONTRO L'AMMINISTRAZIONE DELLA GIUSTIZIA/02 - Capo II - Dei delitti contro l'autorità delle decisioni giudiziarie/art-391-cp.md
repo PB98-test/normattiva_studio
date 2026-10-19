@@ -21,5 +21,7 @@ ordine: 471
 # Art. 391 - ***Procurata inosservanza di misure di sicurezza detentive***
 
 Chiunque procura o agevola l'evasione di una persona sottoposta a misura di sicurezza detentiva, ovvero nasconde l'evaso o comunque lo favorisce nel sottrarsi alle ricerche dell'Autorità, è punito con la reclusione fino a due anni. Si applicano le disposizioni del terzo capoverso dell'[articolo 386](art-386-cp.md).
+{: data-comma="1" }
 
 Se l'evasione avviene per colpa di chi, per ragione del suo ufficio, ha la custodia, anche temporanea, della persona sottoposta a misura di sicurezza, il colpevole è punito con la multa fino a lire diecimila. Si applica la disposizione del capoverso dell'[articolo 387](art-387-cp.md).
+{: data-comma="2" }

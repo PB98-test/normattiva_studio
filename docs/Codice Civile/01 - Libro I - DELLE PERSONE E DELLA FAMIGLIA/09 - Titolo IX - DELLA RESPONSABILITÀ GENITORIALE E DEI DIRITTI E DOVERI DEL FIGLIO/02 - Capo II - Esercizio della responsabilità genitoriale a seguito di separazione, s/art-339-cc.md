@@ -14,7 +14,7 @@ capo_label: "Esercizio della responsabilità genitoriale a seguito di separazion
 sezione: null
 sezione_label: null
 rubrica: null
-dataVigenza: "20260914"
+dataVigenza: "20261016"
 ordine: 422
 ---
 
@@ -22,4 +22,4 @@ ordine: 422
 
 ARTICOLO ABROGATO DALLA L. 19 MAGGIO 1975, N. 151 [^agg-223]
 
-[^agg-223]: *AGGIORNAMENTO (223)* Il D.Lgs. 28 dicembre 2013, n. 154 ha disposto (con l'[art. 7](../../01%20-%20Titolo%20I%20-%20DELLE%20PERSONE%20FISICHE/art-7-cc.md), comma 12) che "Dopo l'[articolo 337 del codice civile](../01%20-%20Capo%20I%20-%20Dei%20diritti%20e%20doveri%20del%20figlio/art-337-cc.md) è inserito il seguente: " Capo II. "Esercizio della responsabilità genitoriale a seguito di separazione, scioglimento, cessazione degli effetti civili, annullamento, nullità del matrimonio ovvero all'esito di procedimenti relativi ai figli nati fuori del matrimonio"".
+[^agg-223]: *AGGIORNAMENTO (223)* Il D.Lgs. 28 dicembre 2013, n. 154 ha disposto (con l'art. 7, comma 12) che "Dopo l'[articolo 337 del codice civile](../01%20-%20Capo%20I%20-%20Dei%20diritti%20e%20doveri%20del%20figlio/art-337-cc.md) è inserito il seguente: " Capo II. "Esercizio della responsabilità genitoriale a seguito di separazione, scioglimento, cessazione degli effetti civili, annullamento, nullità del matrimonio ovvero all'esito di procedimenti relativi ai figli nati fuori del matrimonio"".

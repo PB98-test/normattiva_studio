@@ -21,7 +21,10 @@ ordine: 2021
 # Art. 1900 - ***Sinistri cagionati con dolo o con colpa grave dell'assicurato o dei dipendenti***
 
 L'assicuratore non è obbligato per i sinistri cagionati da dolo o da colpa grave del contraente, dell'assicurato o del beneficiario, salvo patto contrario per i casi di colpa grave.
+{: data-comma="1" }
 
 L'assicuratore è obbligato per il sinistro cagionato da dolo o da colpa grave delle persone del fatto delle quali l'assicurato deve rispondere.
+{: data-comma="2" }
 
 Egli è obbligato altresì, nonostante patto contrario, per i sinistri conseguenti ad atti del contraente, dell'assicurato o del beneficiario, compiuti per dovere di solidarietà umana o nella tutela degli interessi comuni all'assicuratore.
+{: data-comma="3" }

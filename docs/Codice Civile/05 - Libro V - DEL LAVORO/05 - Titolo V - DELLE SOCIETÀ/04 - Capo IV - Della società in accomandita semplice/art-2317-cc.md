@@ -21,5 +21,7 @@ ordine: 2439
 # Art. 2317 - ***Mancata registrazione***
 
 Fino a quando la società non è iscritta nel registro delle imprese, ai rapporti fra la società e i terzi si applicano le disposizioni dell'[art. 2297](../03%20-%20Capo%20III%20-%20Della%20società%20in%20nome%20collettivo/art-2297-cc.md).
+{: data-comma="1" }
 
 Tuttavia per le obbligazioni sociali i soci accomandanti rispondono limitatamente alla loro quota, salvo che abbiano partecipato alle operazioni sociali.
+{: data-comma="2" }

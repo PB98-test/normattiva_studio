@@ -21,5 +21,7 @@ ordine: 2389
 # Art. 2267 - ***Responsabilità per le obbligazioni sociali***
 
 I creditori della società possono far valere i loro diritti sul patrimonio sociale. Per le obbligazioni sociali rispondono inoltre personalmente e solidalmente i soci che hanno agito in nome e per conto della società e, salvo patto contrario, gli altri soci.
+{: data-comma="1" }
 
 Il patto deve essere portato a conoscenza dei terzi con mezzi idonei; in mancanza, la limitazione della responsabilità o l'esclusione della solidarietà non è opponibile a coloro che non ne hanno avuto conoscenza.
+{: data-comma="2" }

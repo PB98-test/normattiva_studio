@@ -14,10 +14,10 @@ capo_label: "DISPOSIZIONI RELATIVE ALLE INDAGINI PRELIMINARI"
 sezione: null
 sezione_label: null
 rubrica: "Liberazione dell'imputato prosciolto"
-dataVigenza: "20260930"
+dataVigenza: "20261016"
 ordine: 165
 ---
 
 # Art. 131-bis - ***Liberazione dell'imputato prosciolto***
 
-1\. L'imputato detenuto nei cui confronti è pronunciata la sentenza di cui all'articolo 425 del codice è posto in libertà immediatamente dopo la lettura del dispositivo. Si applicano le disposizioni di cui al comma 2 dell'[articolo 154](../12%20-%20Capo%20XI%20-%20DISPOSIZIONI%20RELATIVE%20AL%20DIBATTIMENTO/art-154-dlgs271-89.md)- bis.
+1\. L'imputato detenuto nei cui confronti è pronunciata la sentenza di cui all'articolo 425 del codice è posto in libertà immediatamente dopo la lettura del dispositivo. Si applicano le disposizioni di cui al comma 2 dell'[articolo 154-bis](../12%20-%20Capo%20XI%20-%20DISPOSIZIONI%20RELATIVE%20AL%20DIBATTIMENTO/art-154-bis-dlgs271-89.md).

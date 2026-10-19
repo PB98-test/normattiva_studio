@@ -21,5 +21,7 @@ ordine: 147
 # Art. 115 - ***Matrimonio del cittadino all'estero***
 
 Il cittadino è soggetto alle disposizioni contenute nella sezione prima di questo capo, anche quando contrae matrimonio in paese straniero secondo le forme ivi stabilite.
+{: data-comma="1" }
 
 COMMA ABROGATO DAL D.P.R. 3 NOVEMBRE 2000, N. 396.
+{: data-comma="2" }

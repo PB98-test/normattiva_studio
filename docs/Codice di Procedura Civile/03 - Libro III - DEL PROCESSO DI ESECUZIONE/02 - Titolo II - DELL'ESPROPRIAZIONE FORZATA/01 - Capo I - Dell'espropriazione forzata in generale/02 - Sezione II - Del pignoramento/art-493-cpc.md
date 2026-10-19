@@ -21,7 +21,10 @@ ordine: 632
 # Art. 493 - ***Pignoramenti su istanza di più creditori***
 
 Più creditori possono con unico pignoramento colpire il medesimo bene.
+{: data-comma="1" }
 
 Il bene sul quale è stato compiuto un pignoramento può essere pignorato successivamente su istanza di uno o più creditori.
+{: data-comma="2" }
 
 Ogni pignoramento ha effetto indipendente, anche se è unito ad altri in unico processo.
+{: data-comma="3" }

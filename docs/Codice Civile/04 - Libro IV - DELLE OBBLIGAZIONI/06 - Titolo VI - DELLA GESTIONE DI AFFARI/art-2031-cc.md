@@ -21,5 +21,7 @@ ordine: 2152
 # Art. 2031 - ***Obblighi dell'interessato***
 
 Qualora la gestione sia stata utilmente iniziata, l'interessato deve adempiere le obbligazioni che il gestore ha assunte in nome di lui, deve tenere indenne il gestore di quelle assunte dal medesimo in nome proprio e rimborsargli tutte le spese necessarie o utili con gli interessi dal giorno in cui le spese stesse sono state fatte.
+{: data-comma="1" }
 
 Questa disposizione non si applica agli atti di gestione eseguiti contro il divieto dell'interessato, eccetto che tale divieto sia contrario alla legge, all'ordine pubblico o al buon costume.
+{: data-comma="2" }

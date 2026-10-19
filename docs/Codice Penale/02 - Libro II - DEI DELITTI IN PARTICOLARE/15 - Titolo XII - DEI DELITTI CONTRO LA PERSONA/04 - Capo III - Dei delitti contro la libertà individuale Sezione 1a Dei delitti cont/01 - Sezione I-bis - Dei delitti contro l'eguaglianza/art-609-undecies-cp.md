@@ -21,8 +21,10 @@ ordine: 822
 # Art. 609-undecies - ***Adescamento di minorenni***
 
 Chiunque, allo scopo di commettere i reati di cui agli [articoli 600](../art-600-cp.md), [600-bis](../art-600-bis-cp.md), [600-ter](../art-600-ter-cp.md) e [600-quater](../art-600-quater-cp.md), anche se relativi al materiale pornografico di cui all'[articolo 600-quater.1](../art-600-quater.1-cp.md), [600-quinquies](../art-600-quinquies-cp.md), [609-bis](art-609-bis-cp.md), [609-quater](art-609-quater-cp.md), [609-quinquies](art-609-quinquies-cp.md) e [609-octies](art-609-octies-cp.md), adesca un minore di anni sedici, è punito, se il fatto non costituisce più grave reato, con la reclusione da uno a tre anni. Per adescamento si intende qualsiasi atto volto a carpire la fiducia del minore attraverso artifici, lusinghe o minacce posti in essere anche mediante l'utilizzo della rete internet o di altre reti o mezzi di comunicazione.
+{: data-comma="1" }
 
 La pena è aumentata:
+{: data-comma="2" }
 
 - 1) se il reato è commesso da più persone riunite;
 - 2) se il reato è commesso da persona che fa parte di un'associazione per delinquere e al fine di agevolarne l'attività;

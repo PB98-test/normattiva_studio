@@ -21,5 +21,7 @@ ordine: 2232
 # Art. 2111 - ***Servizio militare***
 
 La chiamata alle armi per adempiere agli obblighi di leva risolve il contratto di lavoro, salvo diverse disposizioni delle norme corporative.
+{: data-comma="1" }
 
 In caso di richiamo alle armi, si applicano le disposizioni del primo e del terzo comma dell'articolo precedente.
+{: data-comma="2" }

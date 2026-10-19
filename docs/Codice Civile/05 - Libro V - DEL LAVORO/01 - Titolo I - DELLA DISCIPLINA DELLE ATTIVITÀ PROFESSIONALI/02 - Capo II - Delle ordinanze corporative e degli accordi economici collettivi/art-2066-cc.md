@@ -21,7 +21,10 @@ ordine: 2187
 # Art. 2066 - ***Inderogabilità***
 
 I contratti individuali non possono derogare alle ordinanze corporative e agli accordi economici collettivi, salvo che questi lo consentano.
+{: data-comma="1" }
 
 Le clausole dei contratti individuali, difformi dalle norme inderogabili contenute nelle ordinanze e negli accordi previsti nel presente capo, sono sostituite di diritto dalle norme suddette.
+{: data-comma="2" }
 
 La disposizione del comma precedente non si applica ai contratti stipulati prima dell'entrata in vigore dell'ordinanza corporativa o dell'accordo economico collettivo. L'ordinanza e l'accordo possono tuttavia stabilire che le norme in essi contenute si applichino anche ai contratti ad esecuzione continuata o periodica in corso, per la parte non ancora eseguita.
+{: data-comma="3" }

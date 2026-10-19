@@ -21,9 +21,13 @@ ordine: 1705
 # Art. 1590 - ***Restituzione della cosa locata***
 
 Il conduttore deve restituire la cosa al locatore nello stato medesimo in cui l'ha ricevuta, in conformità della descrizione che ne sia stata fatta dalle parti, salvo il deterioramento o il consumo risultante dall'uso della cosa in conformità del contratto.
+{: data-comma="1" }
 
 In mancanza di descrizione, si presume che il conduttore abbia ricevuto la cosa in buono stato di manutenzione.
+{: data-comma="2" }
 
 Il conduttore non risponde del perimento o del deterioramento dovuti a vetustà.
+{: data-comma="3" }
 
 Le cose mobili si devono restituire nel luogo dove sono state consegnate.
+{: data-comma="4" }

@@ -21,5 +21,7 @@ ordine: 2266
 # Art. 2145 - ***Diritti ed obblighi del concedente***
 
 Il concedente conferisce il godimento del podere, dotato di quanto occorre per l'esercizio dell'impresa e di un'adeguata casa per la famiglia colonica.
+{: data-comma="1" }
 
 La direzione dell'impresa spetta al concedente, il quale deve osservare le norme della buona tecnica agraria.
+{: data-comma="2" }

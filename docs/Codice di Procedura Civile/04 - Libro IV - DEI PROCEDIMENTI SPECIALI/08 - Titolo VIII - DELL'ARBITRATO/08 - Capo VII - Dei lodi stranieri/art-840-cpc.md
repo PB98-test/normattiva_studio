@@ -14,17 +14,20 @@ capo_label: "Dei lodi stranieri"
 sezione: null
 sezione_label: null
 rubrica: "Opposizione"
-dataVigenza: "20260914"
+dataVigenza: "20261016"
 ordine: 1041
 ---
 
 # Art. 840 - ***Opposizione***
 
 Contro il decreto che accorda o nega l'efficacia del lodo straniero è ammessa opposizione da proporsi con citazione dinanzi alla corte d'appello entro trenta giorni dalla comunicazione, nel caso di decreto che nega l'efficacia, ovvero dalla notificazione nel caso di decreto che l'accorda.
+{: data-comma="1" }
 
 In seguito all'opposizione il giudizio si svolge a norma degli articoli 645 e seguenti in quanto applicabili. Il consigliere istruttore, su istanza dell'opponente, quando ricorrono gravi motivi, può con ordinanza non impugnabile sospendere l'efficacia esecutiva o l'esecuzione del lodo. La corte d'appello pronuncia con sentenza impugnabile per cassazione. [^agg-171] [^agg-173]
+{: data-comma="2" }
 
 Il riconoscimento o l'esecuzione del lodo straniero sono rifiutati dalla corte d'appello se nel giudizio di opposizione la parte contro la quale il lodo è invocato prova l'esistenza di una delle seguenti circostanze:
+{: data-comma="3" }
 
 - 1) le parti della convenzione arbitrale erano incapaci in base alla legge ad esse applicabile oppure la convenzione arbitrale non era valida secondo la legge alla quale le parti l'hanno sottoposta o, in mancanza di indicazione a tale proposito, secondo la legge dello Stato in cui il lodo è stato pronunciato;
 - 2) la parte nei cui confronti il lodo è invocato non è stata informata della designazione dell'arbitro o del procedimento arbitrale o comunque è stata nell'impossibilità di far valere la propria difesa nel procedimento stesso;
@@ -33,14 +36,17 @@ Il riconoscimento o l'esecuzione del lodo straniero sono rifiutati dalla corte d
 - 5) il lodo non è ancora divenuto vincolante per le parti o è stato annullato o sospeso da un'autorità competente dello Stato nel quale, o secondo la legge del quale, è stato reso.
 
 Allorchè l'annullamento o la sospensione dell'efficacia del lodo straniero siano stati richiesti all'autorità competente indicata nel numero 5) del terzo comma, la corte d'appello può sospendere il procedimento per il riconoscimento o l'esecuzione del lodo; su istanza della parte interessata può, in caso di sospensione, ordinare che l'altra parte presti idonea garanzia. [^agg-171] [^agg-173]
+{: data-comma="4" }
 
 Il riconoscimento o l'esecuzione del lodo straniero sono altresì rifiutati allorchè la corte d'appello accerta che:
+{: data-comma="5" }
 
 - 1) la controversia non potesse formare oggetto di compromesso secondo la legge italiana;
 - 2) il lodo contenga disposizioni contrarie all'ordine pubblico.
 
 Sono in ogni caso salve le norme stabilite in convenzioni internazionali.
+{: data-comma="6" }
 
-[^agg-171]: *AGGIORNAMENTO (171)* Il [D.Lgs. 10 ottobre 2022, n. 149](../../../../Cartabia%20%28Dlgs%20149-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs149-22%29.md) ha disposto (con l'[art. 35](../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/04%20-%20Sezione%20IV%20-%20Delle%20modificazioni%20della%20competenza%20per%20ragione%20di%20connessione/art-35-cpc.md), comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 30 giugno 2023 si applicano le disposizioni anteriormente vigenti". Ha inoltre disposto (con l'[art. 35](../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/04%20-%20Sezione%20IV%20-%20Delle%20modificazioni%20della%20competenza%20per%20ragione%20di%20connessione/art-35-cpc.md), comma 9) che "Le disposizioni di cui all'[articolo 3](../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/01%20-%20Sezione%20I%20-%20Della%20giurisdizione%20e%20della%20competenza%20in%20generale/art-3-cpc.md), commi 52, 53, 54, 55, 56 e 57 si applicano ai procedimenti arbitrali instaurati dopo il 30 giugno 2023".
+[^agg-171]: *AGGIORNAMENTO (171)* Il [D.Lgs. 10 ottobre 2022, n. 149](../../../../Cartabia%20%28Dlgs%20149-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs149-22%29.md) ha disposto (con l'[art. 35](../../../../Cartabia%20%28Dlgs%20149-2022%20-%2010.10.2022%29/05%20-%20Capo%20V%20-%20Diposizioni%20transitorie,%20finanziarie%20e%20finali/01%20-%20Sezione%20I%20-%20Disposizioni%20in%20materia%20di%20processo%20civile/art-35-dlgs149-22.md), comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 30 giugno 2023 si applicano le disposizioni anteriormente vigenti". Ha inoltre disposto (con l'[art. 35](../../../../Cartabia%20%28Dlgs%20149-2022%20-%2010.10.2022%29/05%20-%20Capo%20V%20-%20Diposizioni%20transitorie,%20finanziarie%20e%20finali/01%20-%20Sezione%20I%20-%20Disposizioni%20in%20materia%20di%20processo%20civile/art-35-dlgs149-22.md), comma 9) che "Le disposizioni di cui all'[articolo 3](../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/01%20-%20Sezione%20I%20-%20Della%20giurisdizione%20e%20della%20competenza%20in%20generale/art-3-cpc.md), commi 52, 53, 54, 55, 56 e 57 si applicano ai procedimenti arbitrali instaurati dopo il 30 giugno 2023".
 
-[^agg-173]: *AGGIORNAMENTO (173)* Il [D.Lgs. 10 ottobre 2022, n. 149](../../../../Cartabia%20%28Dlgs%20149-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs149-22%29.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../../../../L.%20197-2022%20-%2029.12.2022/00%20-%20Indice%20%28l197-22%29.md), ha disposto (con l'[art. 35](../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/04%20-%20Sezione%20IV%20-%20Delle%20modificazioni%20della%20competenza%20per%20ragione%20di%20connessione/art-35-cpc.md), comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
+[^agg-173]: *AGGIORNAMENTO (173)* Il [D.Lgs. 10 ottobre 2022, n. 149](../../../../Cartabia%20%28Dlgs%20149-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs149-22%29.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../../../../L.%20197-2022%20-%2029.12.2022/00%20-%20Indice%20%28l197-22%29.md), ha disposto (con l'[art. 35](../../../../Cartabia%20%28Dlgs%20149-2022%20-%2010.10.2022%29/05%20-%20Capo%20V%20-%20Diposizioni%20transitorie,%20finanziarie%20e%20finali/01%20-%20Sezione%20I%20-%20Disposizioni%20in%20materia%20di%20processo%20civile/art-35-dlgs149-22.md), comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".

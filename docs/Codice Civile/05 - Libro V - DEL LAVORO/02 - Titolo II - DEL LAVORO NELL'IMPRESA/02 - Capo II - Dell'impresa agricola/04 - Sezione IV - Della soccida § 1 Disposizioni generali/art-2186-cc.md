@@ -21,7 +21,10 @@ ordine: 2307
 # Art. 2186 - ***Nozione e norme applicabili***
 
 Si ha rapporto di soccida anche quando il bestiame è conferito dal soccidario e il soccidante conferisce il terreno per il pascolo.
+{: data-comma="1" }
 
 In tal caso il soccidario ha la direzione dell'impresa e al soccidante spetta il controllo della gestione.
+{: data-comma="2" }
 
 Si osservano inoltre le disposizioni dell'[art. 2184](art-2184-cc.md) e, in quanto applicabili, quelle dettate per la soccida semplice.
+{: data-comma="3" }

@@ -21,5 +21,7 @@ ordine: 783
 # Art. 696 - ***Devoluzione al sostituito.***
 
 L'eredità si devolve al sostituito al momento della morte dell'istituito.
+{: data-comma="1" }
 
 Se le persone o gli enti che hanno avuto cura dell'incapace muoiono o si estinguono prima della morte di lui, i beni o la porzione dei beni che spetterebbe loro è devoluta ai successori legittimi dell'incapace.
+{: data-comma="2" }

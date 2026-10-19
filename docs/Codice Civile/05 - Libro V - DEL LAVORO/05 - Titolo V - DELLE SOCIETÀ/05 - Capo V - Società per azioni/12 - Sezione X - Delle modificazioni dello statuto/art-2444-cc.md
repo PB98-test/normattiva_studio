@@ -21,5 +21,7 @@ ordine: 2649
 # Art. 2444 - ***Iscrizione nel registro delle imprese***
 
 Nei trenta giorni dall'avvenuta sottoscrizione delle azioni di nuova emissione gli amministratori devono depositare per l'iscrizione nel registro delle imprese un'attestazione che l'aumento del capitale è stato eseguito.
+{: data-comma="1" }
 
 Fino a che l'iscrizione nel registro non sia avvenuta, l'aumento del capitale non può essere menzionato negli atti della società.
+{: data-comma="2" }

@@ -21,7 +21,10 @@ ordine: 2728
 # Art. 2495 - ***Cancellazione della società***
 
 Approvato il bilancio finale di liquidazione, i liquidatori devono chiedere la cancellazione della società dal registro delle imprese , salvo quanto disposto dal secondo comma.
+{: data-comma="1" }
 
 Decorsi cinque giorni dalla scadenza del termine previsto dal terzo comma dell'[articolo 2492](art-2492-cc.md), il conservatore del registro delle imprese iscrive la cancellazione della società qualora non riceva notizia della presentazione di reclami da parte del cancelliere.
+{: data-comma="2" }
 
 Ferma restando l'estinzione della società, dopo la cancellazione i creditori sociali non soddisfatti possono far valere i loro crediti nei confronti dei soci, fino alla concorrenza delle somme da questi riscosse in base al bilancio finale di liquidazione, e nei confronti dei liquidatori, se il mancato pagamento è dipeso da colpa di questi. La domanda, se proposta entro un anno dalla cancellazione, può essere notificata presso l'ultima sede della società.
+{: data-comma="3" }

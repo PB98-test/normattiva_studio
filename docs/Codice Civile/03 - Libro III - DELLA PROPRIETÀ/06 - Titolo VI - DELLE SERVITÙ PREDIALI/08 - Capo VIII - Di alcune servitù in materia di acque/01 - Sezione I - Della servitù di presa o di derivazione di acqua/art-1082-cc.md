@@ -21,7 +21,10 @@ ordine: 1177
 # Art. 1082 - ***Forma della bocca e dell'edificio derivatore***
 
 Quando, per la derivazione di una data e costante quantità di acqua corrente, è stata determinata la forma della bocca e dell'edificio derivatore, le parti non possono chiederne la modificazione per eccedenza deficienza d'acqua, salvo che l'eccedenza o la deficienza provenga da variazioni seguite nel canale dispensatore o nel corso delle acque in esso correnti.
+{: data-comma="1" }
 
 Se la forma non è stata determinata, ma la bocca e l'edificio derivatore sono stati costruiti e posseduti per cinque anni, non è neppure ammesso dopo tale tempo alcun reclamo delle parti per eccedenza o deficienza d'acqua, salvo nel caso di variazione seguita nel canale o nel corso delle acque.
+{: data-comma="2" }
 
 In mancanza di titolo o di possesso, la forma è determinata dall'autorità giudiziaria.
+{: data-comma="3" }

@@ -21,5 +21,7 @@ ordine: 466
 # Art. 381 - ***Cauzione***
 
 Il giudice tutelare, tenuto conto della particolare natura ed entità del patrimonio, può imporre al tutore di prestare una cauzione, determinandone l'ammontare e le modalità.
+{: data-comma="1" }
 
 Egli può anche liberare il tutore in tutto o in parte dalla cauzione che avesse prestata.
+{: data-comma="2" }

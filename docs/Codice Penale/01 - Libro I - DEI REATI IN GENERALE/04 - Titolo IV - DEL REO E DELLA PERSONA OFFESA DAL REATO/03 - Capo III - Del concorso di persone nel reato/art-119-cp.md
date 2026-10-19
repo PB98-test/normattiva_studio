@@ -21,5 +21,7 @@ ordine: 131
 # Art. 119 - ***Valutazione delle circostanze di esclusione della pena***
 
 Le circostanze soggettive le quali escludono la pena per taluno di coloro che sono concorsi nel reato hanno effetto soltanto riguardo alla persona a cui si riferiscono.
+{: data-comma="1" }
 
 Le circostanze oggettive che escludono la pena hanno effetto per tutti coloro che sono concorsi nel reato.
+{: data-comma="2" }

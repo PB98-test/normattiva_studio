@@ -21,5 +21,7 @@ ordine: 1311
 # Art. 1209 - ***Offerta reale e offerta per intimazione***
 
 Se l'obbligazione ha per oggetto danaro, titoli di credito, ovvero cose mobili da consegnare al domicilio del creditore, l'offerta deve essere reale.
+{: data-comma="1" }
 
 Se si tratta invece di cose mobili da consegnare in luogo diverso, l'offerta consiste nell'intimazione al creditore di riceverle, fatta mediante atto a lui notificato nelle forme prescritte per gli atti di citazione.
+{: data-comma="2" }

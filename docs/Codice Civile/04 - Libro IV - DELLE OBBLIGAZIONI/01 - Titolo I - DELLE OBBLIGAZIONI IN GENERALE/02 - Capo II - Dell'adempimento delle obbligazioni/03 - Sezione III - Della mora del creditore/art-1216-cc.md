@@ -21,5 +21,7 @@ ordine: 1318
 # Art. 1216 - ***Intimazione di ricevere la consegna di un immobile***
 
 Se deve essere consegnato un immobile, l'offerta consiste nell'intimazione al creditore di prenderne possesso. L'intimazione deve essere fatta nella forma prescritta dal secondo comma dell'[art. 1209](art-1209-cc.md).
+{: data-comma="1" }
 
 Il debitore, dopo l'intimazione al creditore, può ottenere dal giudice la nomina di un sequestratario. In questo caso egli è liberato dal momento in cui ha consegnato al sequestratario la cosa dovuta.
+{: data-comma="2" }

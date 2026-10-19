@@ -14,16 +14,19 @@ capo_label: "Della trascrizione degli atti relativi ai beni immobili"
 sezione: null
 sezione_label: null
 rubrica: "Trascrizione degli acquisti a causa di morte"
-dataVigenza: "20260914"
+dataVigenza: "20261016"
 ordine: 2962
 ---
 
 # Art. 2660 - ***Trascrizione degli acquisti a causa di morte***
 
 Chi domanda la trascrizione di un acquisto a causa di morte deve presentare, oltre l'atto indicato dall'[articolo 2648](art-2648-cc.md), il certificato di morte dell'autore della successione e una copia o un estratto autentico del testamento, se l'acquisto segue in base a esso.
+{: data-comma="1" }
 
-Deve anche presentare una nota in doppio originale con le seguenti indicazioni:   1) il cognome e il nome, il luogo e la data di nascita dell'erede o legatario e del defunto.
+Deve anche presentare una nota in doppio originale con le seguenti indicazioni:
+{: data-comma="2" }
 
+- 1) il cognome e il nome, il luogo e la data di nascita dell'erede o legatario e del defunto.
 - 2) la data di morte;
 - 3) se la successione è devoluta per legge, il vincolo che univa all'autore il chiamato e la quota a questa spettante;
 - 4) se la successione è devoluta per testamento, la forma e la data del medesimo, il nome del pubblico ufficiale che l'ha ricevuto o che l'ha in deposito;

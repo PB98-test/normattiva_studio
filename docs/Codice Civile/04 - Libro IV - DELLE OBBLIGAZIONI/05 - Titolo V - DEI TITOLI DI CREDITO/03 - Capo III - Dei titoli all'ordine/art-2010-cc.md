@@ -21,5 +21,7 @@ ordine: 2131
 # Art. 2010 - ***Girata condizionale o parziale***
 
 Qualsiasi condizione apposta alla girata si ha come non scritta.
+{: data-comma="1" }
 
 È nulla la girata parziale.
+{: data-comma="2" }

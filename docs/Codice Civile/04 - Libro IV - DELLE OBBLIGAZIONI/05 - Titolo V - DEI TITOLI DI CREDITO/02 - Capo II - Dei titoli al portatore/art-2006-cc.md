@@ -21,11 +21,16 @@ ordine: 2127
 # Art. 2006 - ***Smarrimento e sottrazione del titolo***
 
 Salvo disposizioni di leggi speciali, non è ammesso l'ammortamento dei titoli al portatore smarriti o sottratti.
+{: data-comma="1" }
 
 Tuttavia chi denunzia all'emittente lo smarrimento o la sottrazione d'un titolo al portatore e gliene fornisce la prova ha diritto alla prestazione e agli accessori della medesima, decorso il termine di prescrizione del titolo.
+{: data-comma="2" }
 
 Il debitore che esegue la prestazione a favore del possessore del titolo prima del termine suddetto è liberato, salvo che si provi che egli conoscesse il vizio del possesso del presentatore.
+{: data-comma="3" }
 
 Se i titoli smarriti o sottratti sono azioni al portatore, il denunziante può essere autorizzato dal tribunale, previa cauzione, se del caso, a esercitare i diritti inerenti alle azioni anche prima del termine di prescrizione, fino a quando i titoli noli vengano presentati da altri.
+{: data-comma="4" }
 
 È salvo, in ogni caso, l'eventuale diritto del denunziante verso il possessore del titolo.
+{: data-comma="5" }

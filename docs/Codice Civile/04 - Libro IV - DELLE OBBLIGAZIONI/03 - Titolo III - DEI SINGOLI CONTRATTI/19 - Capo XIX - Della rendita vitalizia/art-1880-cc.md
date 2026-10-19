@@ -21,5 +21,7 @@ ordine: 2001
 # Art. 1880 - ***Modalità del pagamento della rendita***
 
 La rendita vitalizia costituita mediante contratto è dovuta al creditore in proporzione del numero dei giorni vissuti da colui sulla vita del quale è costituita.
+{: data-comma="1" }
 
 Se però è stato convenuto di pagarla a rate anticipate, ciascuna rata si acquista dal giorno in cui è scaduta.
+{: data-comma="2" }

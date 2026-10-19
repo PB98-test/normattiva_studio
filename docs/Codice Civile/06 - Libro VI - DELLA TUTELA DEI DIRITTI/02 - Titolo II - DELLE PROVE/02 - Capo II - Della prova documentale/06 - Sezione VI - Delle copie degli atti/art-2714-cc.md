@@ -21,5 +21,7 @@ ordine: 3019
 # Art. 2714 - ***Copie di atti pubblici***
 
 Le copie di atti pubblici spedite nelle forme prescritte da depositari pubblici autorizzati fanno fede come l'originale.
+{: data-comma="1" }
 
 La stessa fede fanno le copie di copie di atti pubblici originali, spedite da depositari pubblici di esse, a ciò autorizzati.
+{: data-comma="2" }

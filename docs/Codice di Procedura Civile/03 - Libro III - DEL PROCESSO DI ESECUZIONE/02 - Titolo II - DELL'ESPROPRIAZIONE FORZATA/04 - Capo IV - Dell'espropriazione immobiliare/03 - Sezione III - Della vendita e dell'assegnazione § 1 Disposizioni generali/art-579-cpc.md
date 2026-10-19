@@ -21,7 +21,10 @@ ordine: 725
 # Art. 579 - ***Persone ammesse agli incanti***
 
 Salvo quanto è disposto nell'articolo seguente, ognuno, eccetto il debitore, è ammesso a fare offerte all'incanto.
+{: data-comma="1" }
 
 Le offerte debbono essere fatte personalmente o a mezzo di mandatario munito di procura speciale.
+{: data-comma="2" }
 
 I procuratori legali possono fare offerte per persone da nominare.
+{: data-comma="3" }

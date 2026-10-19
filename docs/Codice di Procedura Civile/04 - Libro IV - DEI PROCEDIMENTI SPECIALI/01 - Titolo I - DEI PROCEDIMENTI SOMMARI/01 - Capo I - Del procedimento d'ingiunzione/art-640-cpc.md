@@ -21,7 +21,10 @@ ordine: 794
 # Art. 640 - ***Rigetto della domanda***
 
 Il giudice, se ritiene insufficientemente giustificata la domanda, dispone che il cancelliere ne dia notizia al ricorrente, invitandolo a provvedere alla prova.
+{: data-comma="1" }
 
 Se il ricorrente non risponde all'invito o non ritira il ricorso oppure se la domanda non è accoglibile, il giudice la rigetta con decreto motivato.
+{: data-comma="2" }
 
 Tale decreto non pregiudica la riproposizione della domanda, anche in via ordinaria.
+{: data-comma="3" }

@@ -21,7 +21,10 @@ ordine: 1451
 # Art. 1349 - ***Determinazione dell'oggetto***
 
 Se la determinazione della prestazione dedotta in contratto è deferita a un terzo e non risulta che le parti vollero rimettersi al suo mero arbitrio, il terzo deve procedere con equo apprezzamento. Se manca la determinazione del terzo o se questa è manifestamente iniqua o erronea, la determinazione è fatta dal giudice.
+{: data-comma="1" }
 
 La determinazione rimessa al mero arbitrio del terzo non si può impugnare se non provando la sua mala fede. Se manca la determinazione del terzo e le parti non si accordano per sostituirlo, il contratto è nullo.
+{: data-comma="2" }
 
 Nel determinare la prestazione il terzo deve tener conto anche delle condizioni generali della produzione a cui il contratto eventualmente abbia riferimento.
+{: data-comma="3" }

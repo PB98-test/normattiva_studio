@@ -21,7 +21,10 @@ ordine: 276
 # Art. 253 - ***Interrogazioni e risposte***
 
 Il giudice istruttore interroga il testimone sui fatti intorno ai quali è chiamato a deporre. Può altresì rivolgergli, d'ufficio o su istanza di parte, tutte le domande che ritiene utili a chiarire i fatti medesimi.
+{: data-comma="1" }
 
 È vietato alle parti e al pubblico ministero di interrogare direttamente i testimoni.
+{: data-comma="2" }
 
 Alle risposte dei testimoni si applica la disposizione dell'[articolo 231](art-231-cpc.md).
+{: data-comma="3" }

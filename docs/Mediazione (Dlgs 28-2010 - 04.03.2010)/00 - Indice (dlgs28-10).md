@@ -35,29 +35,31 @@ aliases:
 - [Art. 13](02%20-%20Capo%20II%20-%20DEL%20PROCEDIMENTO%20DI%20MEDIAZIONE/art-13-dlgs28-10.md) — Spese processuali in caso di rifiuto della proposta di conciliazione
 - [Art. 14](02%20-%20Capo%20II%20-%20DEL%20PROCEDIMENTO%20DI%20MEDIAZIONE/art-14-dlgs28-10.md) — Obblighi del mediatore
 - [Art. 15](02%20-%20Capo%20II%20-%20DEL%20PROCEDIMENTO%20DI%20MEDIAZIONE/art-15-dlgs28-10.md) — Mediazione nell'azione di classe
-- [Art. 15-bis](02%20-%20Capo%20II%20-%20DEL%20PROCEDIMENTO%20DI%20MEDIAZIONE/art-15-bis-dlgs28-10.md) — Istituzione del patrocinio e ambito di applicabilità
-- [Art. 15-ter](02%20-%20Capo%20II%20-%20DEL%20PROCEDIMENTO%20DI%20MEDIAZIONE/art-15-ter-dlgs28-10.md) — Condizioni reddituali per l'ammissione
-- [Art. 15-quater](02%20-%20Capo%20II%20-%20DEL%20PROCEDIMENTO%20DI%20MEDIAZIONE/art-15-quater-dlgs28-10.md) — Istanza per l'ammissione anticipata
-- [Art. 15-quinquies](02%20-%20Capo%20II%20-%20DEL%20PROCEDIMENTO%20DI%20MEDIAZIONE/art-15-quinquies-dlgs28-10.md) — Organo competente a ricevere l'istanza per l'ammissione anticipata e nomina dell'avvocato
-- [Art. 15-sexies](02%20-%20Capo%20II%20-%20DEL%20PROCEDIMENTO%20DI%20MEDIAZIONE/art-15-sexies-dlgs28-10.md) — Ricorso avverso il rigetto dell'istanza per l'ammissione anticipata
-- [Art. 15-septies](02%20-%20Capo%20II%20-%20DEL%20PROCEDIMENTO%20DI%20MEDIAZIONE/art-15-septies-dlgs28-10.md) — Effetti dell'ammissione anticipata e sua conferma
-- [Art. 15-octies](02%20-%20Capo%20II%20-%20DEL%20PROCEDIMENTO%20DI%20MEDIAZIONE/art-15-octies-dlgs28-10.md) — Determinazione, liquidazione e pagamento dell'onorario e delle spese dell'avvocato
-- [Art. 15-nonies](02%20-%20Capo%20II%20-%20DEL%20PROCEDIMENTO%20DI%20MEDIAZIONE/art-15-nonies-dlgs28-10.md) — Revoca del provvedimento di ammissione e ricorso avverso il relativo decreto
-- [Art. 15-decies](02%20-%20Capo%20II%20-%20DEL%20PROCEDIMENTO%20DI%20MEDIAZIONE/art-15-decies-dlgs28-10.md) — Sanzioni e controlli da parte della Guardia di finanza
-- [Art. 15-undecies](02%20-%20Capo%20II%20-%20DEL%20PROCEDIMENTO%20DI%20MEDIAZIONE/art-15-undecies-dlgs28-10.md) — Disposizioni finanziarie
+
+#### Capo II-bis - (Disposizioni sul patrocinio a spese dello Stato nella mediazione civile e commerciale)
+- [Art. 15-bis](03%20-%20Capo%20II-bis%20-%20%28Disposizioni%20sul%20patrocinio%20a%20spese%20dello%20Stato%20nella%20mediazione/art-15-bis-dlgs28-10.md) — Istituzione del patrocinio e ambito di applicabilità
+- [Art. 15-ter](03%20-%20Capo%20II-bis%20-%20%28Disposizioni%20sul%20patrocinio%20a%20spese%20dello%20Stato%20nella%20mediazione/art-15-ter-dlgs28-10.md) — Condizioni reddituali per l'ammissione
+- [Art. 15-quater](03%20-%20Capo%20II-bis%20-%20%28Disposizioni%20sul%20patrocinio%20a%20spese%20dello%20Stato%20nella%20mediazione/art-15-quater-dlgs28-10.md) — Istanza per l'ammissione anticipata
+- [Art. 15-quinquies](03%20-%20Capo%20II-bis%20-%20%28Disposizioni%20sul%20patrocinio%20a%20spese%20dello%20Stato%20nella%20mediazione/art-15-quinquies-dlgs28-10.md) — Organo competente a ricevere l'istanza per l'ammissione anticipata e nomina dell'avvocato
+- [Art. 15-sexies](03%20-%20Capo%20II-bis%20-%20%28Disposizioni%20sul%20patrocinio%20a%20spese%20dello%20Stato%20nella%20mediazione/art-15-sexies-dlgs28-10.md) — Ricorso avverso il rigetto dell'istanza per l'ammissione anticipata
+- [Art. 15-septies](03%20-%20Capo%20II-bis%20-%20%28Disposizioni%20sul%20patrocinio%20a%20spese%20dello%20Stato%20nella%20mediazione/art-15-septies-dlgs28-10.md) — Effetti dell'ammissione anticipata e sua conferma
+- [Art. 15-octies](03%20-%20Capo%20II-bis%20-%20%28Disposizioni%20sul%20patrocinio%20a%20spese%20dello%20Stato%20nella%20mediazione/art-15-octies-dlgs28-10.md) — Determinazione, liquidazione e pagamento dell'onorario e delle spese dell'avvocato
+- [Art. 15-nonies](03%20-%20Capo%20II-bis%20-%20%28Disposizioni%20sul%20patrocinio%20a%20spese%20dello%20Stato%20nella%20mediazione/art-15-nonies-dlgs28-10.md) — Revoca del provvedimento di ammissione e ricorso avverso il relativo decreto
+- [Art. 15-decies](03%20-%20Capo%20II-bis%20-%20%28Disposizioni%20sul%20patrocinio%20a%20spese%20dello%20Stato%20nella%20mediazione/art-15-decies-dlgs28-10.md) — Sanzioni e controlli da parte della Guardia di finanza
+- [Art. 15-undecies](03%20-%20Capo%20II-bis%20-%20%28Disposizioni%20sul%20patrocinio%20a%20spese%20dello%20Stato%20nella%20mediazione/art-15-undecies-dlgs28-10.md) — Disposizioni finanziarie
 
 #### Capo III - ORGANISMI DI MEDIAZIONE ed enti di formazione
-- [Art. 16](03%20-%20Capo%20III%20-%20ORGANISMI%20DI%20MEDIAZIONE%20ed%20enti%20di%20formazione/art-16-dlgs28-10.md) — Organismi di mediazione e registro. Elenco dei formatori
-- [Art. 16-bis](03%20-%20Capo%20III%20-%20ORGANISMI%20DI%20MEDIAZIONE%20ed%20enti%20di%20formazione/art-16-bis-dlgs28-10.md) — Enti di formazione
-- [Art. 17](03%20-%20Capo%20III%20-%20ORGANISMI%20DI%20MEDIAZIONE%20ed%20enti%20di%20formazione/art-17-dlgs28-10.md) — Risorse, regime tributario e indennità
-- [Art. 18](03%20-%20Capo%20III%20-%20ORGANISMI%20DI%20MEDIAZIONE%20ed%20enti%20di%20formazione/art-18-dlgs28-10.md) — Organismi presso i tribunali
-- [Art. 19](03%20-%20Capo%20III%20-%20ORGANISMI%20DI%20MEDIAZIONE%20ed%20enti%20di%20formazione/art-19-dlgs28-10.md) — Organismi presso i consigli degli ordini professionali e presso le camere di commercio
+- [Art. 16](04%20-%20Capo%20III%20-%20ORGANISMI%20DI%20MEDIAZIONE%20ed%20enti%20di%20formazione/art-16-dlgs28-10.md) — Organismi di mediazione e registro. Elenco dei formatori
+- [Art. 16-bis](04%20-%20Capo%20III%20-%20ORGANISMI%20DI%20MEDIAZIONE%20ed%20enti%20di%20formazione/art-16-bis-dlgs28-10.md) — Enti di formazione
+- [Art. 17](04%20-%20Capo%20III%20-%20ORGANISMI%20DI%20MEDIAZIONE%20ed%20enti%20di%20formazione/art-17-dlgs28-10.md) — Risorse, regime tributario e indennità
+- [Art. 18](04%20-%20Capo%20III%20-%20ORGANISMI%20DI%20MEDIAZIONE%20ed%20enti%20di%20formazione/art-18-dlgs28-10.md) — Organismi presso i tribunali
+- [Art. 19](04%20-%20Capo%20III%20-%20ORGANISMI%20DI%20MEDIAZIONE%20ed%20enti%20di%20formazione/art-19-dlgs28-10.md) — Organismi presso i consigli degli ordini professionali e presso le camere di commercio
 
 #### Capo IV - DISPOSIZIONI IN MATERIA FISCALE E INFORMATIVA
-- [Art. 20](04%20-%20Capo%20IV%20-%20DISPOSIZIONI%20IN%20MATERIA%20FISCALE%20E%20INFORMATIVA/art-20-dlgs28-10.md) — Credito d'imposta in favore delle parti e degli organismi di mediazione
-- [Art. 21](04%20-%20Capo%20IV%20-%20DISPOSIZIONI%20IN%20MATERIA%20FISCALE%20E%20INFORMATIVA/art-21-dlgs28-10.md) — Informazioni al pubblico
+- [Art. 20](05%20-%20Capo%20IV%20-%20DISPOSIZIONI%20IN%20MATERIA%20FISCALE%20E%20INFORMATIVA/art-20-dlgs28-10.md) — Credito d'imposta in favore delle parti e degli organismi di mediazione
+- [Art. 21](05%20-%20Capo%20IV%20-%20DISPOSIZIONI%20IN%20MATERIA%20FISCALE%20E%20INFORMATIVA/art-21-dlgs28-10.md) — Informazioni al pubblico
 
 #### Capo V - ABROGAZIONI, COORDINAMENTI E DISPOSIZIONI TRANSITORIE
-- [Art. 22](05%20-%20Capo%20V%20-%20ABROGAZIONI,%20COORDINAMENTI%20E%20DISPOSIZIONI%20TRANSITORIE/art-22-dlgs28-10.md) — Obblighi di segnalazione per la prevenzione del sistema finanziario a scopo di riciclaggio e di finanziamento del terrorismo
-- [Art. 23](05%20-%20Capo%20V%20-%20ABROGAZIONI,%20COORDINAMENTI%20E%20DISPOSIZIONI%20TRANSITORIE/art-23-dlgs28-10.md) — Abrogazioni
-- [Art. 24](05%20-%20Capo%20V%20-%20ABROGAZIONI,%20COORDINAMENTI%20E%20DISPOSIZIONI%20TRANSITORIE/art-24-dlgs28-10.md) — Disposizioni transitorie e finali
+- [Art. 22](06%20-%20Capo%20V%20-%20ABROGAZIONI,%20COORDINAMENTI%20E%20DISPOSIZIONI%20TRANSITORIE/art-22-dlgs28-10.md) — Obblighi di segnalazione per la prevenzione del sistema finanziario a scopo di riciclaggio e di finanziamento del terrorismo
+- [Art. 23](06%20-%20Capo%20V%20-%20ABROGAZIONI,%20COORDINAMENTI%20E%20DISPOSIZIONI%20TRANSITORIE/art-23-dlgs28-10.md) — Abrogazioni
+- [Art. 24](06%20-%20Capo%20V%20-%20ABROGAZIONI,%20COORDINAMENTI%20E%20DISPOSIZIONI%20TRANSITORIE/art-24-dlgs28-10.md) — Disposizioni transitorie e finali

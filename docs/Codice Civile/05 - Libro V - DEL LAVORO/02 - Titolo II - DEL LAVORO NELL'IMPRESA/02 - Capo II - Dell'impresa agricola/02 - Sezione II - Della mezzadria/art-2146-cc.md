@@ -21,5 +21,7 @@ ordine: 2267
 # Art. 2146 - ***Conferimento delle scorte***
 
 Le scorte vive e morte sono conferite dal concedente e dal mezzadro in parti uguali, salvo diversa disposizione delle norme corporative, della convenzione o degli usi.
+{: data-comma="1" }
 
 Le scorte conferite divengono comuni in proporzione dei rispettivi conferimenti.
+{: data-comma="2" }

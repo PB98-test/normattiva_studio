@@ -21,8 +21,10 @@ ordine: 274
 # Art. 251 - ***Giuramento dei testimoni***
 
 I testimoni sono esaminati separatamente.
+{: data-comma="1" }
 
 Il giudice istruttore ammonisce il testimone sulla importanza religiosa e morale del giuramento e sulle conseguenze penali delle dichiarazioni false o reticenti, e legge la formula: "consapevole della responsabilità che con il giuramento assumete davanti a Dio e agli uomini, giurate di dire la verità, null'altro che la verità". Quindi il testimone, in piedi, presta il giuramento pronunciando le parole: "lo giuro". [^agg-33] [^agg-74]
+{: data-comma="2" }
 
 [^agg-33]: *AGGIORNAMENTO (33)* La Corte Costituzionale, con sentenza 2 - 10 ottobre 1979, n. 117 (in G.U. 1a s.s. 17/10/1979, n. 284), ha dichiarato "la illegittimità costituzionale dell'[art. 251, secondo comma, del codice di procedura civile](art-251-cpc.md), nella parte in cui, dopo le parole "il giudice istruttore ammonisce il testimone sulla importanza religiosa..." e dopo le parole "consapevole della responsabilità che con il giuramento assumete davanti a Dio..." non è contenuto l'inciso "se credente"".251
 

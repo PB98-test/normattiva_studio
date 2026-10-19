@@ -21,5 +21,7 @@ ordine: 760
 # Art. 673 - ***Perimento della cosa legata. Impossibilità della prestazione***
 
 Il legato non ha effetto se la cosa legata è interamente perita durante la vita del testatore.
+{: data-comma="1" }
 
 L'obbligazione dell'onerato si estingue se, dopo la morte del testatore, la prestazione è divenuta impossibile per causa a lui non imputabile.
+{: data-comma="2" }

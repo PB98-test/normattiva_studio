@@ -21,5 +21,7 @@ ordine: 871
 # Art. 777 - ***Donazioni fatte da rappresentanti di persone incapaci***
 
 Il padre e il tutore non possono fare donazioni per la persona incapace da essi rappresentata.
+{: data-comma="1" }
 
 Sono consentite, con le forme abilitative richieste, le liberalità in occasione di nozze a favore dei discendenti dell'interdetto o dell'inabilitato.
+{: data-comma="2" }

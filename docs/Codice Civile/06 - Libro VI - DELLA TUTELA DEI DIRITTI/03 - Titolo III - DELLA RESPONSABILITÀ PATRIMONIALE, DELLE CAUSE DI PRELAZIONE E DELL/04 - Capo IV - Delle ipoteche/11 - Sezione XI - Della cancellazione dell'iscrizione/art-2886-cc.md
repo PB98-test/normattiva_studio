@@ -21,5 +21,7 @@ ordine: 3196
 # Art. 2886 - ***Formalità per la cancellazione***
 
 Chi richiede la cancellazione totale o parziale deve presentare al conservatore l'atto su cui la richiesta è fondata.
+{: data-comma="1" }
 
 La cancellazione di un'iscrizione o la rettifica deve essere eseguita in margine all'iscrizione medesima, con l'indicazione del titolo dal quale è stata consentita od ordinata e della data in cui si esegue, e deve portare la sottoscrizione del conservatore.
+{: data-comma="2" }

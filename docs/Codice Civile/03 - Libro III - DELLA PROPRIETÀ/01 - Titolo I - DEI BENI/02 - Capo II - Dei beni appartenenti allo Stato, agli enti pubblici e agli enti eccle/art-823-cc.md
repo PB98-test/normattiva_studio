@@ -21,5 +21,7 @@ ordine: 917
 # Art. 823 - ***Condizione giuridica del demanio pubblico***
 
 I beni che fanno parte del demanio pubblico sono inalienabili e non possono formare oggetto di diritti a favore di terzi, se non nei modi e nei limiti stabiliti dalle leggi che li riguardano.
+{: data-comma="1" }
 
 Spetta all'autorità amministrativa la tutela dei beni che fanno parte del demanio pubblico. Essa ha facoltà sia di procedere in via amministrativa, sia di valersi dei mezzi ordinari a difesa della proprietà e del possesso regolati dal presente codice.
+{: data-comma="2" }

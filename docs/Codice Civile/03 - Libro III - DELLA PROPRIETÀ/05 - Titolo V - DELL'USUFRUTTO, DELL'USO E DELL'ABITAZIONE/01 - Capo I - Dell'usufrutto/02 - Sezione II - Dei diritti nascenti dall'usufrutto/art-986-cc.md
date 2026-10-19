@@ -21,7 +21,10 @@ ordine: 1081
 # Art. 986 - ***Addizioni***
 
 L'usufruttuario può eseguire addizioni che non alterino la destinazione economica della cosa.
+{: data-comma="1" }
 
 Egli ha diritto di toglierle alla fine dell'usufrutto, qualora ciò possa farsi senza nocumento della cosa, salvo che il proprietario preferisca ritenere le addizioni stesse. In questo caso deve essere corrisposta all'usufruttuario un'indennità pari alla minor somma tra l'importo della spesa e il valore delle addizioni al tempo della riconsegna.
+{: data-comma="2" }
 
 Se le addizioni non possono separarsi senza nocumento della cosa e costituiscono miglioramento di essa, si applicano le disposizioni relative ai miglioramenti.
+{: data-comma="3" }

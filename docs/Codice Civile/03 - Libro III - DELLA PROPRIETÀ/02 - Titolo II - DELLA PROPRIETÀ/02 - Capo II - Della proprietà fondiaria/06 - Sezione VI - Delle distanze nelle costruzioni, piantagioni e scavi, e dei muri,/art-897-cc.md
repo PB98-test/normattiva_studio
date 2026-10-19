@@ -21,7 +21,10 @@ ordine: 992
 # Art. 897 - ***Comunione di fossi***
 
 Ogni fosso interposto tra due fondi si presume comune.
+{: data-comma="1" }
 
 Si presume che il fosso appartenga al proprietario che se ne serve per gli scoli delle sue terre, o al proprietario del fondo dalla cui parte è il getto della terra o lo spurgo ammucchiatovi da almeno tre anni.
+{: data-comma="2" }
 
 Se uno o più di tali segni sono da una parte e uno o più dalla parte opposta, il fosso si presume comune.
+{: data-comma="3" }

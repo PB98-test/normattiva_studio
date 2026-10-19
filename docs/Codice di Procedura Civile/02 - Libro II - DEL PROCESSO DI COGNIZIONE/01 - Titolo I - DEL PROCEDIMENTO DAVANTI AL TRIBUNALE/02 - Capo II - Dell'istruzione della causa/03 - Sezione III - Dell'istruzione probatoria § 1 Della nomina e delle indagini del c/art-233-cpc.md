@@ -21,5 +21,7 @@ ordine: 256
 # Art. 233 - ***Deferimento del giuramento decisorio***
 
 Il giuramento decisorio può essere deferito in qualunque stato della causa davanti al giudice istruttore, con dichiarazione fatta all'udienza dalla parte o dal procuratore munito di mandato speciale o con atto sottoscritto dalla parte.
+{: data-comma="1" }
 
 Esso deve essere formulato in articoli separati, in modo chiaro e specifico.
+{: data-comma="2" }

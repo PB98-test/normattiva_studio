@@ -21,8 +21,10 @@ ordine: 1911
 # Art. 1790 - ***Fede di deposito***
 
 I magazzini generali, a richiesta del depositante, devono rilasciare una fede di deposito delle merci depositate.
+{: data-comma="1" }
 
 La fede di deposito deve indicare:
+{: data-comma="2" }
 
 - 1) il cognome e il nome o la ditta e il domicilio del depositante;
 - 2) il luogo del deposito;

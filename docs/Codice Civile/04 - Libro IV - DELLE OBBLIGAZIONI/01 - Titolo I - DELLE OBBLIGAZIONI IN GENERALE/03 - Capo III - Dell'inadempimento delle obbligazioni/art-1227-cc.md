@@ -21,5 +21,7 @@ ordine: 1329
 # Art. 1227 - ***Concorso del fatto colposo del creditore***
 
 Se il fatto colposo del creditore ha concorso a cagionare il danno, il risarcimento è diminuito secondo la gravità della colpa e l'entità delle conseguenze che ne sono derivate.
+{: data-comma="1" }
 
 Il risarcimento non è dovuto per i danni che il creditore avrebbe potuto evitare usando l'ordinaria diligenza.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 1179
 # Art. 1084 - ***Norme regolatrici della servitù***
 
 Per l'esercizio della servitù di presa d'acqua, quando non dispone il titolo o non è possibile riferirsi al possesso, si osservano gli usi locali.
+{: data-comma="1" }
 
 In mancanza di tali usi si osservano le disposizioni dei tre articoli seguenti.
+{: data-comma="2" }

@@ -21,7 +21,10 @@ ordine: 837
 # Art. 615-quater - ***Detenzione, diffusione e installazione abusiva di apparecchiature, codici e altri mezzi atti all'accesso a sistemi informatici o telematici***
 
 Chiunque, al fine di procurare a sè o ad altri un vantaggio o di arrecare ad altri un danno, abusivamente si procura, detiene, produce, riproduce, diffonde, importa, comunica, consegna, mette in altro modo a disposizione di altri o installa apparati, strumenti, parti di apparati o di strumenti, codici, parole chiave o altri mezzi idonei all'accesso ad un sistema informatico o telematico, protetto da misure di sicurezza, o comunque fornisce indicazioni o istruzioni idonee al predetto scopo, è punito con la reclusione sino a due anni e con la multa sino a lire dieci milioni.
+{: data-comma="1" }
 
 La pena è della reclusione da due anni a sei anni quando ricorre taluna delle circostanze di cui all'[articolo 615-ter](art-615-ter-cp.md), secondo comma, numero 1).
+{: data-comma="2" }
 
 La pena è della reclusione da tre a otto anni quando il fatto riguarda i sistemi informatici o telematici di cui all'[articolo 615-ter](art-615-ter-cp.md), terzo comma.
+{: data-comma="3" }

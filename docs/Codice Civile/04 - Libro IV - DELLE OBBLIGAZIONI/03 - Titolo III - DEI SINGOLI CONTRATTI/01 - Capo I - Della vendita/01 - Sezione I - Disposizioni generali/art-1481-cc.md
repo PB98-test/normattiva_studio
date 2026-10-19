@@ -21,5 +21,7 @@ ordine: 1588
 # Art. 1481 - ***Pericolo di rivendica***
 
 Il compratore può sospendere il pagamento del prezzo, quando ha ragione di temere che la cosa o una parte di essa possa essere rivendicata da terzi, salvo che il venditore presti idonea garanzia.
+{: data-comma="1" }
 
 Il pagamento non può essere sospeso se il pericolo era noto al compratore al tempo della vendita.
+{: data-comma="2" }

@@ -76,6 +76,8 @@ aliases:
 
 #### Capo I - L'amministrazione dei beni sequestrati e confiscati
 - [Art. 35](01%20-%20Libro%20I%20-%20Le%20misure%20di%20prevenzione/03%20-%20Titolo%20III%20-%20L%27AMMINISTRAZIONE,%20LA%20GESTIONE%20E%20LA%20DESTINAZIONE%20DEI%20BENI%20SEQUESTRA/01%20-%20Capo%20I%20-%20L%27amministrazione%20dei%20beni%20sequestrati%20e%20confiscati/art-35-dlgs159-11.md) — Nomina e revoca dell'amministratore giudiziario
+- [Art. 35.1](01%20-%20Libro%20I%20-%20Le%20misure%20di%20prevenzione/03%20-%20Titolo%20III%20-%20L%27AMMINISTRAZIONE,%20LA%20GESTIONE%20E%20LA%20DESTINAZIONE%20DEI%20BENI%20SEQUESTRA/01%20-%20Capo%20I%20-%20L%27amministrazione%20dei%20beni%20sequestrati%20e%20confiscati/art-35.1-dlgs159-11.md) — Dichiarazione di incompatibilità
+- [Art. 35.2](01%20-%20Libro%20I%20-%20Le%20misure%20di%20prevenzione/03%20-%20Titolo%20III%20-%20L%27AMMINISTRAZIONE,%20LA%20GESTIONE%20E%20LA%20DESTINAZIONE%20DEI%20BENI%20SEQUESTRA/01%20-%20Capo%20I%20-%20L%27amministrazione%20dei%20beni%20sequestrati%20e%20confiscati/art-35.2-dlgs159-11.md) — Vigilanza
 - [Art. 35-bis](01%20-%20Libro%20I%20-%20Le%20misure%20di%20prevenzione/03%20-%20Titolo%20III%20-%20L%27AMMINISTRAZIONE,%20LA%20GESTIONE%20E%20LA%20DESTINAZIONE%20DEI%20BENI%20SEQUESTRA/01%20-%20Capo%20I%20-%20L%27amministrazione%20dei%20beni%20sequestrati%20e%20confiscati/art-35-bis-dlgs159-11.md) — Responsabilità nella gestione e controlli della pubblica amministrazione
 - [Art. 36](01%20-%20Libro%20I%20-%20Le%20misure%20di%20prevenzione/03%20-%20Titolo%20III%20-%20L%27AMMINISTRAZIONE,%20LA%20GESTIONE%20E%20LA%20DESTINAZIONE%20DEI%20BENI%20SEQUESTRA/01%20-%20Capo%20I%20-%20L%27amministrazione%20dei%20beni%20sequestrati%20e%20confiscati/art-36-dlgs159-11.md) — Relazione dell'amministratore giudiziario
 - [Art. 37](01%20-%20Libro%20I%20-%20Le%20misure%20di%20prevenzione/03%20-%20Titolo%20III%20-%20L%27AMMINISTRAZIONE,%20LA%20GESTIONE%20E%20LA%20DESTINAZIONE%20DEI%20BENI%20SEQUESTRA/01%20-%20Capo%20I%20-%20L%27amministrazione%20dei%20beni%20sequestrati%20e%20confiscati/art-37-dlgs159-11.md) — Compiti dell'amministratore giudiziario
@@ -179,6 +181,7 @@ aliases:
 - [Art. 92](02%20-%20Libro%20II%20-%20Nuove%20disposizioni%20in%20materia%20di%20documentazione%20antimafia/04%20-%20Capo%20IV%20-%20Informazioni%20antimafia/art-92-dlgs159-11.md) — Procedimento di rilascio delle informazioni antimafia
 - [Art. 93](02%20-%20Libro%20II%20-%20Nuove%20disposizioni%20in%20materia%20di%20documentazione%20antimafia/04%20-%20Capo%20IV%20-%20Informazioni%20antimafia/art-93-dlgs159-11.md) — Poteri di accesso e accertamento del prefetto
 - [Art. 94](02%20-%20Libro%20II%20-%20Nuove%20disposizioni%20in%20materia%20di%20documentazione%20antimafia/04%20-%20Capo%20IV%20-%20Informazioni%20antimafia/art-94-dlgs159-11.md) — Effetti delle informazioni del prefetto
+- [Art. 94.1](02%20-%20Libro%20II%20-%20Nuove%20disposizioni%20in%20materia%20di%20documentazione%20antimafia/04%20-%20Capo%20IV%20-%20Informazioni%20antimafia/art-94.1-dlgs159-11.md) — Limitazione degli effetti delle informazioni del prefetto per le imprese individuali
 - [Art. 94-bis](02%20-%20Libro%20II%20-%20Nuove%20disposizioni%20in%20materia%20di%20documentazione%20antimafia/04%20-%20Capo%20IV%20-%20Informazioni%20antimafia/art-94-bis-dlgs159-11.md) — Misure amministrative di prevenzione collaborativa applicabili in caso di agevolazione occasionale
 - [Art. 95](02%20-%20Libro%20II%20-%20Nuove%20disposizioni%20in%20materia%20di%20documentazione%20antimafia/04%20-%20Capo%20IV%20-%20Informazioni%20antimafia/art-95-dlgs159-11.md) — Disposizioni relative ai contratti pubblici
 
@@ -225,11 +228,3 @@ aliases:
 - [Art. 118](04%20-%20Libro%20IV%20-%20Modifiche%20al%20codice%20penale,%20al%20codice%20di%20procedura%20penale%20e%20alla%20legi/art-118-dlgs159-11.md) — Disposizioni finanziarie
 - [Art. 119](04%20-%20Libro%20IV%20-%20Modifiche%20al%20codice%20penale,%20al%20codice%20di%20procedura%20penale%20e%20alla%20legi/art-119-dlgs159-11.md) — Entrata in vigore
 - [Art. 120](04%20-%20Libro%20IV%20-%20Modifiche%20al%20codice%20penale,%20al%20codice%20di%20procedura%20penale%20e%20alla%20legi/art-120-dlgs159-11.md) — Abrogazioni
-
-## Non classificati
-
-*(trovati nel testo ma assenti dalla mappa struttura — verificare indice_cp.md o rigenerare la struttura)*
-
-- [Art. 35.1](_non_classificati/art-35.1-dlgs159-11.md)
-- [Art. 35.2](_non_classificati/art-35.2-dlgs159-11.md)
-- [Art. 94.1](_non_classificati/art-94.1-dlgs159-11.md)

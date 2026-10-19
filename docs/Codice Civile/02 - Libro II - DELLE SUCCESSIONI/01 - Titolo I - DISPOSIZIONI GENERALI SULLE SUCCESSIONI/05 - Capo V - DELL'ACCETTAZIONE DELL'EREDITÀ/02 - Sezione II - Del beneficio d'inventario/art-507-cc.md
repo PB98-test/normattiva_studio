@@ -21,9 +21,13 @@ ordine: 594
 # Art. 507 - ***Rilascio dei beni ai creditori e ai legatari***
 
 L'erede, non oltre un mese dalla scadenza del termine stabilito per presentare le dichiarazioni di credito, se non ha provveduto ad alcun atto di liquidazione, può rilasciare tutti i beni ereditari a favore dei creditori e dei legatari.
+{: data-comma="1" }
 
 A tal fine l'erede deve, nelle forme indicate dall'[articolo 498](art-498-cc.md), dare avviso ai creditori e ai legatari dei quali è noto il domicilio o la residenza; deve iscrivere la dichiarazione di rilascio nel registro delle successioni, annotarla in margine alla trascrizione prescritta dal secondo comma dell'[art. 484](art-484-cc.md), e trascriverla presso gli uffici dei registri immobiliari dei luoghi in cui si trovano gli immobili ereditari e presso gli uffici dove sono registrati i beni mobili.
+{: data-comma="2" }
 
 Dal momento in cui è trascritta la dichiarazione di rilascio, gli atti di disposizione dei beni ereditari compiuti dall'erede sono senza effetto rispetto ai creditori e ai legatari.
+{: data-comma="3" }
 
 L'erede deve consegnare i beni al curatore nominato secondo le norme dell'articolo seguente. Eseguita la consegna, egli resta liberato da ogni responsabilità per i debiti ereditari.
+{: data-comma="4" }

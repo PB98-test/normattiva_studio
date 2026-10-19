@@ -21,5 +21,7 @@ ordine: 971
 # Art. 877 - ***Costruzioni in aderenza***
 
 Il vicino, senza chiedere la comunione del muro posto sul confine, può costruire sul confine stesso in aderenza, ma senza appoggiare la sua fabbrica a quella preesistente.
+{: data-comma="1" }
 
 Questa norma si applica anche nel caso previsto dall'[art. 875](art-875-cc.md); il vicino in tal caso deve pagare soltanto il valore del suolo.
+{: data-comma="2" }

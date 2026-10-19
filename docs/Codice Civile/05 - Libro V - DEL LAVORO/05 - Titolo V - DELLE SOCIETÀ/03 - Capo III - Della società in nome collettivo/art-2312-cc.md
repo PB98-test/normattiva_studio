@@ -21,9 +21,13 @@ ordine: 2434
 # Art. 2312 - ***Cancellazione della società***
 
 Approvato il bilancio finale di liquidazione, i liquidatori devono chiedere la cancellazione della società dal registro delle imprese.
+{: data-comma="1" }
 
 Dalla cancellazione della società i creditori sociali che non sono stati soddisfatti possono far valere i loro crediti nei confronti dei soci e, se il mancato pagamento è dipeso da colpa dei liquidatori, anche nei confronti di questi.
+{: data-comma="2" }
 
 Le scritture contabili e i documenti che non spettano ai singoli soci sono depositati presso la persona designata dalla maggioranza.
+{: data-comma="3" }
 
 Le scritture contabili e i documenti devono essere conservati per dieci anni a decorrere dalla cancellazione della società dal registro delle imprese.
+{: data-comma="4" }

@@ -21,7 +21,10 @@ ordine: 505
 # Art. 443 - ***Rilevanza del procedimento amministrativo***
 
 La domanda relativa alle controversie in materia di previdenza e assistenza obbligatorie di cui al primo comma dell'[articolo 442](art-442-cpc.md) non è procedibile se non quando siano esauriti i procedimenti prescritti dalle leggi speciali per la composizione in sede amministrativa o siano decorsi i termini ivi fissati per il compimento dei procedimenti stessi o siano, comunque, decorsi 180 giorni dalla data in cui è stato proposto il ricorso amministrativo.
+{: data-comma="1" }
 
 Se il giudice nella prima udienza di discussione rileva l'improcedibilità della domanda a norma del comma precedente, sospende il giudizio e fissa all'attore un termine perentorio di sessanta giorni per la presentazione del ricorso in sede amministrativa.
+{: data-comma="2" }
 
 Il processo deve essere riassunto, a cura dell'attore, nel termine perentorio di 180 giorni che decorre dalla cessazione della causa della sospensione.
+{: data-comma="3" }

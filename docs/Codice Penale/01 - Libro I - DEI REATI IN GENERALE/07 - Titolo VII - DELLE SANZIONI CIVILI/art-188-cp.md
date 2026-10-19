@@ -21,7 +21,9 @@ ordine: 209
 # Art. 188 - ***Spese per il mantenimento del condannato. Obbligo di rimborso***
 
 Il condannato è obbligato a rimborsare all'erario dello Stato le spese per il suo mantenimento negli stabilimenti di pena, e risponde di tale obbligazione con tutti i suoi beni mobili e immobili, presenti e futuri, a norma delle leggi civili.
+{: data-comma="1" }
 
 L'obbligazione non si estende alla persona civilmente responsabile, e non si trasmette agli eredi del condannato.[^agg-159]
+{: data-comma="2" }
 
 [^agg-159]: *AGGIORNAMENTO (159)* La Corte Costituzionale, con sentenza 26 marzo - 6 aprile 1998, n. 98 (in G.U. 1ª s.s. 15/04/1998, n. 15) come modificata dall'Errata Corrige in G.U. 1ª s.s. 13/05/1998, n. 19, ha dichiarato l'illegittimità costituzionale del secondo comma del presente articolo nella parte in cui non prevede la non trasmissibilità agli eredi dell'obbligo di rimborsare le spese del processo penale.

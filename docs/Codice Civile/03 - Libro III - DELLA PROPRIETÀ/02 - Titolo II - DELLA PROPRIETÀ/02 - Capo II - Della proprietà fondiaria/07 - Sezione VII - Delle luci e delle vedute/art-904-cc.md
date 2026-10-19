@@ -21,5 +21,7 @@ ordine: 999
 # Art. 904 - ***Diritto di chiudere le luci***
 
 La presenza di luci in un muro non impedisce al vicino di acquistare la comunione del muro medesimo nè di costruire in aderenza.
+{: data-comma="1" }
 
 Chi acquista la comunione del muro non può chiudere le luci se ad esso non appoggia il suo edificio.
+{: data-comma="2" }

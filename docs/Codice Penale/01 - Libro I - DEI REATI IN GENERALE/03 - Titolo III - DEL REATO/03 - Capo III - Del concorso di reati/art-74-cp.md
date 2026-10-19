@@ -21,5 +21,7 @@ ordine: 86
 # Art. 74 - ***Concorso di reati che importano pene detentive di specie diversa***
 
 Se più reati importano pene temporanee detentive di specie diversa, queste si applicano tutte distintamente e per intero.
+{: data-comma="1" }
 
 La pena dell'arresto è eseguita per ultima.
+{: data-comma="2" }

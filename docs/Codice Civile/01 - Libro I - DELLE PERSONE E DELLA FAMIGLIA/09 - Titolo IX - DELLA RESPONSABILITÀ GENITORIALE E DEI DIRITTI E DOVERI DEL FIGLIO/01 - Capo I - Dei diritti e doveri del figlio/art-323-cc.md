@@ -21,7 +21,10 @@ ordine: 398
 # Art. 323 - ***Atti vietati ai genitori***
 
 I genitori esercenti la responsabilità genitoriale sui figli non possono, neppure all'asta pubblica, rendersi acquirenti direttamente o per interposta persona dei beni e dei diritti del minore.
+{: data-comma="1" }
 
 Gli atti compiuti in violazione del divieto previsto nel comma precedente possono essere annullati su istanza del figlio o dei suoi eredi o aventi causa.
+{: data-comma="2" }
 
 I genitori esercenti la responsabilità genitoriale non possono diventare cessionari di alcuna ragione o credito verso il minore.
+{: data-comma="3" }

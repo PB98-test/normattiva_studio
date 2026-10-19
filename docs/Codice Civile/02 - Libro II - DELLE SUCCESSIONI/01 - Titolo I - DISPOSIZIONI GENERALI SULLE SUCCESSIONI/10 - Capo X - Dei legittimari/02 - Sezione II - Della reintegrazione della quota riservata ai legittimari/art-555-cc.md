@@ -21,5 +21,7 @@ ordine: 642
 # Art. 555 - ***Riduzione delle donazioni***
 
 Le donazioni, il cui valore eccede la quota della quale il defunto poteva disporre, sono soggette a riduzione fino alla quota medesima.
+{: data-comma="1" }
 
 Le donazioni non si riducono se non dopo esaurito il valore dei beni di cui è stato disposto per testamento.
+{: data-comma="2" }

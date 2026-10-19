@@ -21,7 +21,10 @@ ordine: 2197
 # Art. 2076 - ***Contratto collettivo annullabile***
 
 Il contratto collettivo annullabile conserva efficacia fino a che intervenga una sentenza di annullamento passata in giudicato.
+{: data-comma="1" }
 
 La domanda di annullamento è proposta davanti la magistratura del lavoro dalle associazioni interessate o dal pubblico ministero.
+{: data-comma="2" }
 
 La domanda deve essere proposta, sotto pena di decadenza, entro sei mesi dalla pubblicazione del contratto collettivo.
+{: data-comma="3" }

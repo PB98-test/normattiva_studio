@@ -21,5 +21,7 @@ ordine: 2678
 # Art. 2461 - ***Responsabilità degli accomandatari verso i terzi***
 
 La responsabilità dei soci accomandatari verso i terzi è regolata dall'[articolo 2304](../03%20-%20Capo%20III%20-%20Della%20società%20in%20nome%20collettivo/art-2304-cc.md).
+{: data-comma="1" }
 
 Il socio accomandatario che cessa dall'ufficio di amministratore non risponde per le obbligazioni della società sorte posteriormente all'iscrizione nel registro delle imprese della cessazione dall'ufficio.
+{: data-comma="2" }

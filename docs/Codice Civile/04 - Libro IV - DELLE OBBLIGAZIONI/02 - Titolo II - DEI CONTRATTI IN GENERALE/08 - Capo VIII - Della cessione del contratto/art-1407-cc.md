@@ -21,5 +21,7 @@ ordine: 1509
 # Art. 1407 - ***Forma***
 
 Se una parte ha consentito preventivamente che l'altra sostituisca a sè un terzo nei rapporti derivanti dal contratto, la sostituzione è efficace nei suoi confronti dal momento in cui le è stata notificata o in cui essa l'ha accettata.
+{: data-comma="1" }
 
 Se tutti gli elementi del contratto risultano da un documento nel quale è inserita la clausola «all'ordine» o altra equivalente, la girata del documento produce la sostituzione del giratario nella posizione del girante.
+{: data-comma="2" }

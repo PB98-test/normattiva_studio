@@ -21,5 +21,7 @@ ordine: 682
 # Art. 529 - ***Atti e oggetti osceni: nozione***
 
 Agli effetti della legge penale, si considerano osceni gli atti e gli oggetti che, secondo il comune sentimento, offendono il pudore.
+{: data-comma="1" }
 
 Non si considera oscena l'opera d'arte o l'opera di scienza, salvo che, per motivo diverso da quello di studio, sia offerta in vendita, venduta o comunque procurata a persona minore degli anni diciotto.
+{: data-comma="2" }

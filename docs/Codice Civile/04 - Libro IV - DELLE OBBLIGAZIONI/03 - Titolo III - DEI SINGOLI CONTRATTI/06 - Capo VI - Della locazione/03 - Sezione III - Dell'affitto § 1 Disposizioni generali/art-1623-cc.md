@@ -21,5 +21,7 @@ ordine: 1738
 # Art. 1623 - ***Modificazioni sopravvenute del rapporto contrattuale***
 
 Se, in conseguenza di una disposizione di legge, di una norma corporativa o di un provvedimento dell'autorità riguardanti la gestione produttiva, il rapporto contrattuale risulta notevolmente modificato in modo che le parti ne risentano rispettivamente una perdita e un vantaggio, può essere richiesto un aumento o una diminuzione del fitto ovvero, secondo le circostanze, lo scioglimento del contratto.
+{: data-comma="1" }
 
 Sono salve le diverse disposizioni della legge, della norma corporativa o del provvedimento dell'autorità.
+{: data-comma="2" }

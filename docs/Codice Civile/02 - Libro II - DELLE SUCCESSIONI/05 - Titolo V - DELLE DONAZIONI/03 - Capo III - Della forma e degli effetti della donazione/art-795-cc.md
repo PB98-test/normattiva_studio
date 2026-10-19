@@ -21,5 +21,7 @@ ordine: 889
 # Art. 795 - ***Divieto di sostituzione***
 
 Nelle donazioni non sono permesse le sostituzioni se non nei casi e nei limiti stabiliti per gli atti di ultima volontà.
+{: data-comma="1" }
 
 La nullità delle sostituzioni non importa nullità della donazione.
+{: data-comma="2" }

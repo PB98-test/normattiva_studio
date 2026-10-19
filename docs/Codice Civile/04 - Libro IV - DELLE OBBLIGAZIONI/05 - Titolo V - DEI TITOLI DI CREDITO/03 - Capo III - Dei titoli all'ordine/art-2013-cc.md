@@ -21,7 +21,10 @@ ordine: 2134
 # Art. 2013 - ***Girata per incasso o per procura***
 
 Se alla girata è apposta una clausola che importa conferimento di una procura per incasso, il giratario può esercitare tutti i diritti inerenti al titolo, ma non può girare il titolo, fuorchè per procura.
+{: data-comma="1" }
 
 L'emittente può opporre al giratario per procura soltanto le eccezioni opponibili al girante.
+{: data-comma="2" }
 
 L'efficacia della girata per procura non cessa per la morte o per la sopravvenuta incapacità del girante.
+{: data-comma="3" }

@@ -21,5 +21,7 @@ ordine: 146
 # Art. 114 - ***Matrimonio del Re Imperatore e dei Principi Reali***
 
 Nei matrimoni del Re Imperatore e della Famiglia Reale l'ufficiale dello stato civile è il presidente del Senato.
+{: data-comma="1" }
 
 Il Re Imperatore determina il luogo della celebrazione, la quale può anche farsi per procura. In questo caso non si applicano le norme dell'[art. 111](art-111-cc.md).
+{: data-comma="2" }

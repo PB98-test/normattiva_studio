@@ -21,7 +21,10 @@ ordine: 644
 # Art. 557 - ***Soggetti che possono chiedere la riduzione***
 
 La riduzione delle donazioni e delle disposizioni lesive della porzione di legittima non può essere domandata che dai legittimari e dai loro eredi o aventi causa.
+{: data-comma="1" }
 
 Essi non possono rinunziare a questo diritto, finchè vive il donante, nè con dichiarazione espressa, nè prestando il loro assenso alla donazione.
+{: data-comma="2" }
 
 I donatari e i legatari non possono chiedere la riduzione, nè approfittarne. Non possono chiederla nè approfittarne nemmeno i creditori del defunto, se il legittimario avente diritto alla riduzione ha accettato con il beneficio d'inventario.
+{: data-comma="3" }

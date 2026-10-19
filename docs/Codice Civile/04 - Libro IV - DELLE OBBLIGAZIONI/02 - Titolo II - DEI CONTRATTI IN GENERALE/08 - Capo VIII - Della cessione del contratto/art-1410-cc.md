@@ -21,5 +21,7 @@ ordine: 1512
 # Art. 1410 - ***Rapporti fra cedente e cessionario***
 
 Il cedente è tenuto a garantire la validità del contratto.
+{: data-comma="1" }
 
 Se il cedente assume la garanzia dell'adempimento del contratto, egli risponde come un fideiussore per le obbligazioni del contraente ceduto.
+{: data-comma="2" }

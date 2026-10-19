@@ -21,7 +21,10 @@ ordine: 718
 # Art. 631 - ***Disposizioni rimesse all'arbitrio del terzo***
 
 È nulla ogni disposizione testamentaria con la quale si fa dipendere dall'arbitrio di un terzo l'indicazione dell'erede o del legatario, ovvero la determinazione della quota di eredità.
+{: data-comma="1" }
 
 Tuttavia è valida la disposizione a titolo particolare in favore di persona da scegliersi dall'onerato o da un terzo tra più persone determinate dal testatore e appartenenti a famiglie o categorie di persone da lui determinate, ed è pure valida la disposizione a titolo particolare a favore di uno tra più enti determinati del pari dal testatore. Se sono indicate più persone in modo alternativo e non è stabilito chi deve fare la scelta, questa si considera lasciata all'onerato.
+{: data-comma="2" }
 
 Se l'onerato o il terzo non può o non vuole fare la scelta, questa è fatta con decreto dal presidente del tribunale del luogo in cui si è aperta la successione, dopo avere assunto le opportune informazioni.
+{: data-comma="3" }

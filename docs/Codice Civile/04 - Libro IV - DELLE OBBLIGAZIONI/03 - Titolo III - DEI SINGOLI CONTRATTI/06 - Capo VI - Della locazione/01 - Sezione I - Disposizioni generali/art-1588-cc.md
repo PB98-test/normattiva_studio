@@ -21,5 +21,7 @@ ordine: 1703
 # Art. 1588 - ***Perdita e deterioramento della cosa locata***
 
 Il conduttore risponde della perdita e del deterioramento della cosa che avvengono nel corso della locazione, anche se derivanti da incendio, qualora non provi che siano accaduti per causa a lui non imputabile.
+{: data-comma="1" }
 
 È pure responsabile della perdita e del deterioramento cagionati da persone che egli ha ammesse, anche temporaneamente, all'uso o al godimento della cosa.
+{: data-comma="2" }

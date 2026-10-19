@@ -21,6 +21,7 @@ ordine: 2460
 # Art. 2335 - ***Assemblea dei sottoscrittori***
 
 L'assemblea dei sottoscrittori:
+{: data-comma="1" }
 
 - 1) accerta l'esistenza delle condizioni richieste per la costituzione della società;
 - 2) delibera sul contenuto dell'atto costitutivo e dello statuto;
@@ -28,7 +29,10 @@ L'assemblea dei sottoscrittori:
 - 4) nomina gli amministratori, ed i sindaci ovvero i componenti del consiglio di sorveglianza e, quando previsto, il soggetto incaricato di effettuare la revisione legale dei conti.
 
 L'assemblea è validamente costituita con la presenza della metà dei sottoscrittori.
+{: data-comma="2" }
 
 Ciascun sottoscrittore ha diritto a un voto, qualunque sia il numero delle azioni sottoscritte, e per la validità delle deliberazioni si richiede il voto favorevole della maggioranza dei presenti.
+{: data-comma="3" }
 
 Tuttavia per modificare le condizioni stabilite nel programma è necessario il consenso di tutti i sottoscrittori.
+{: data-comma="4" }

@@ -21,5 +21,7 @@ ordine: 3187
 # Art. 2877 - ***Spese della riduzione***
 
 Le spese necessarie per eseguire la riduzione, anche se consentita dal creditore, sono sempre a carico del richiedente, a meno che la riduzione abbia luogo per eccesso nella determinazione del credito fatta dal creditore, nel qual caso sono a carico di quest'ultimo.
+{: data-comma="1" }
 
 Se la riduzione è stata ordinata con sentenza, le spese del giudizio sono a carico del soccombente, salvo che siano compensate tra le parti.
+{: data-comma="2" }

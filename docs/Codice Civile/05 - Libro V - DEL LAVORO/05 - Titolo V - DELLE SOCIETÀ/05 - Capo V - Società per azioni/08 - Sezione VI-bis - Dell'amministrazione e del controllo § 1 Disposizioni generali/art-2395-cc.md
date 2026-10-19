@@ -21,5 +21,7 @@ ordine: 2545
 # Art. 2395 - ***Azione individuale del socio e del terzo***
 
 Le disposizioni dei precedenti articoli non pregiudicano il diritto al risarcimento del danno spettante al singolo socio o al terzo che sono stati direttamente danneggiati da atti colposi o dolosi degli amministratori.
+{: data-comma="1" }
 
 L'azione può essere esercitata entro cinque anni dal compimento dell'atto che ha pregiudicato il socio o il terzo.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 2547
 # Art. 2396-bis - ***Divieto di concorrenza e utilizzazione delle informazioni per i direttori generali***
 
 I direttori generali non possono assumere la qualità di soci illimitatamente responsabili in società concorrenti, nè esercitare un'attività concorrente per conto proprio o di terzi, nè essere amministratori, o direttori generali in società concorrenti, salvo specifica autorizzazione della società e non possono utilizzare a vantaggio proprio o di terzi dati, notizie o opportunità di affari appresi nell'esercizio del loro incarico.
+{: data-comma="1" }
 
 I direttori generali rispondono dei danni derivanti dalla violazione dei divieti di cui al primo comma.
+{: data-comma="2" }

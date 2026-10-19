@@ -21,7 +21,10 @@ ordine: 792
 # Art. 705 - ***Apposizione di sigilli e inventario***
 
 L'esecutore testamentario fa apporre i sigilli quando tra i chiamati all'eredità vi sono minori, assenti, interdetti o persone giuridiche.
+{: data-comma="1" }
 
 Egli in tal caso fa redigere l'inventario dei beni dell'eredità in presenza dei chiamati all'eredità o dei loro rappresentanti, o dopo averli invitati.
+{: data-comma="2" }
 
 Quando sono chiamati all'eredità unicamente persone giuridiche private senza scopo di lucro ed enti del Terzo settore, prima dell'accettazione della stessa eredità questi hanno facoltà di dispensare l'esecutore testamentario dagli obblighi di cui ai commi precedenti, mediante dichiarazione ricevuta dal cancelliere del tribunale del circondario in cui si è aperta la successione o da un notaio, fermo restando quanto previsto dall'[articolo 473](../../01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI%20SULLE%20SUCCESSIONI/05%20-%20Capo%20V%20-%20DELL%27ACCETTAZIONE%20DELL%27EREDITÀ/01%20-%20Sezione%20I%20-%20Disposizioni%20generali/art-473-cc.md) e previa prestazione di idonea garanzia per i debiti ereditari. La dispensa non ha effetto se la dichiarazione non è effettuata da tutti i chiamati.
+{: data-comma="3" }

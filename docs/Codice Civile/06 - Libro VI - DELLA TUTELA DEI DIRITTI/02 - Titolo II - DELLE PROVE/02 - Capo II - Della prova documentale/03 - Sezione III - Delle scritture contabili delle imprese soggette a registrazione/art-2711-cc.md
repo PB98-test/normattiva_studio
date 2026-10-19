@@ -21,5 +21,7 @@ ordine: 3016
 # Art. 2711 - ***Comunicazione ed esibizione***
 
 La comunicazione integrale dei libri, delle scritture contabili e della corrispondenza può essere ordinata dal giudice solo nelle controversie relative allo scioglimento della società, alla comunione dei beni e alla successione per causa di morte.
+{: data-comma="1" }
 
 Negli altri casi il giudice può ordinare, anche d'ufficio, che si esibiscano i libri per estrarne le registrazioni concernenti la controversia in corso. Può ordinare altresì l'esibizione di singole scritture contabili, lettere, telegrammi o fatture concernenti la controversia stessa.
+{: data-comma="2" }

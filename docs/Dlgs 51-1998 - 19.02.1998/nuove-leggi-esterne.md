@@ -5,9 +5,8 @@ search:
 
 # Leggi citate da Dlgs 51-1998 - 19.02.1998 ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Dlgs 51-1998 - 19.02.1998 — 58 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Dlgs 51-1998 - 19.02.1998 — 57 leggi trovate)*
 
-- [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const)
 - [articolo 4, comma 1, della legge 21 novembre 1991, n. 374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374)
 - [articolo 3, quarto comma, lettera b), del regio decreto 27 novembre 1933, n. 1578](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regiodecreto:1933-11-27;1578)
 - [articolo 16 del decreto legislativo 17 novembre 1997, n. 398](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1997-11-17;398)

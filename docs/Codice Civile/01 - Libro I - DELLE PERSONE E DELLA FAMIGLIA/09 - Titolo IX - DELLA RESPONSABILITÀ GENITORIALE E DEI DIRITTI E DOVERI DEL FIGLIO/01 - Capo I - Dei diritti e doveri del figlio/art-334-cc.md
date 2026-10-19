@@ -21,5 +21,7 @@ ordine: 409
 # Art. 334 - ***Rimozione dall'amministrazione.***
 
 Quando il patrimonio del minore è male amministrato, il tribunale può stabilire le condizioni a cui i genitori devono attenersi nell'amministrazione o può rimuovere entrambi o uno solo di essi dall'amministrazione stessa e privarli, in tutto o in parte, dell'usufrutto legale.
+{: data-comma="1" }
 
 L'amministrazione è affidata ad un curatore, se è disposta la rimozione di entrambi i genitori.
+{: data-comma="2" }

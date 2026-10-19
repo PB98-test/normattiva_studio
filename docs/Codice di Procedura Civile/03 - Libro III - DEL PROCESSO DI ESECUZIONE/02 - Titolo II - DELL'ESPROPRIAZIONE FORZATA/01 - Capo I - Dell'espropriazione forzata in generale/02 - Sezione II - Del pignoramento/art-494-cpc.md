@@ -21,7 +21,10 @@ ordine: 633
 # Art. 494 - ***Pagamento nelle mani dell'ufficiale giudiziario***
 
 Il debitore può evitare il pignoramento versando nelle mani dell'ufficiale giudiziario la somma per cui si procede e l'importo delle spese con l'incarico di consegnarli al creditore.
+{: data-comma="1" }
 
 All'atto del versamento si può fare riserva di ripetere la somma versata.
+{: data-comma="2" }
 
 Può altresì evitare il pignoramento di cose, depositando nelle mani dell'ufficiale giudiziario, in luogo di esse, come oggetto di pignoramento, una somma di denaro eguale all'importo del credito o dei crediti per cui si procede e delle spese, aumentato di due decimi.
+{: data-comma="3" }

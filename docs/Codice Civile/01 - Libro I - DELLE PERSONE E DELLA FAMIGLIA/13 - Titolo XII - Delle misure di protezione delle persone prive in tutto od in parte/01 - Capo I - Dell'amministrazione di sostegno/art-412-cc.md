@@ -21,7 +21,10 @@ ordine: 497
 # Art. 412 - ***Atti compiuti dal beneficiario o dall'amministratore di sostegno in violazione di norme di legge o delle disposizioni del giudice***
 
 Gli atti compiuti dall'amministratore di sostegno in violazione di disposizioni di legge, od in eccesso rispetto all'oggetto dell'incarico o ai poteri conferitigli dal giudice, possono essere annullati su istanza dell'amministratore di sostegno, del pubblico ministero, del beneficiario o dei suoi eredi ed aventi causa.
+{: data-comma="1" }
 
 Possono essere parimenti annullati su istanza dell'amministratore di sostegno, del beneficiario, o dei suoi eredi ed aventi causa, gli atti compiuti personalmente dal beneficiario in violazione delle disposizioni di legge o di quelle contenute nel decreto che istituisce l'amministrazione di sostegno.
+{: data-comma="2" }
 
 Le azioni relative si prescrivono nel termine di cinque anni. Il termine decorre dal momento in cui è cessato lo stato di sottoposizione all'amministrazione di sostegno.
+{: data-comma="3" }

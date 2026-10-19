@@ -21,9 +21,13 @@ ordine: 481
 # Art. 423 - ***Ordinanze per il pagamento di somme***
 
 Il giudice, su istanza di parte, in ogni stato del giudizio, dispone con ordinanza il pagamento delle somme non contestate.
+{: data-comma="1" }
 
 Egualmente, in ogni stato del giudizio, il giudice può, su istanza del lavoratore, disporre con ordinanza il pagamento di una somma a titolo provvisorio quando ritenga il diritto accertato e nei limiti della quantità per cui ritiene già raggiunta la prova.
+{: data-comma="2" }
 
 Le ordinanze di cui ai commi precedenti costituiscono titolo esecutivo.
+{: data-comma="3" }
 
 L'ordinanza di cui al secondo comma è revocabile con la sentenza che decide la causa.
+{: data-comma="4" }

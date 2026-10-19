@@ -321,3 +321,7 @@ aliases:
 - [Art. 238](07%20-%20Titolo%20VII%20-%20DISPOSIZIONI%20FINALI%20E%20TRANSITORIE/02%20-%20Capo%20II%20-%20DISPOSIZIONI%20TRANSITORIE/art-238-dlgs285-92.md) — Norme transitorie relative al titolo VI
 - [Art. 239](07%20-%20Titolo%20VII%20-%20DISPOSIZIONI%20FINALI%20E%20TRANSITORIE/02%20-%20Capo%20II%20-%20DISPOSIZIONI%20TRANSITORIE/art-239-dlgs285-92.md) — Norme transitorie relative al titolo VII
 - [Art. 240](07%20-%20Titolo%20VII%20-%20DISPOSIZIONI%20FINALI%20E%20TRANSITORIE/02%20-%20Capo%20II%20-%20DISPOSIZIONI%20TRANSITORIE/art-240-dlgs285-92.md) — Entrata in vigore delle norme del presente codice
+
+## Allegati
+
+- [Tabella](08%20-%20Allegati/allegato-tabella-dlgs285-92.md)

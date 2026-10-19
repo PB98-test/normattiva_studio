@@ -21,5 +21,7 @@ ordine: 2017
 # Art. 1896 - ***Cessazione del rischio durante l'assicurazione***
 
 Il contratto si scioglie se il rischio cessa di esistere dopo la conclusione del contratto stesso, ma l'assicuratore ha diritto al pagamento dei premi finchè la cessazione del rischio non gli sia comunicata o non venga altrimenti a sua conoscenza. I premi relativi al periodo di assicurazione in corso al momento della comunicazione o della conoscenza sono dovuti per intero.
+{: data-comma="1" }
 
 Qualora gli effetti dell'assicurazione debbano avere inizio in un momento posteriore alla conclusione del contratto e il rischio cessi nell'intervallo, l'assicuratore ha diritto al solo rimborso delle spese.
+{: data-comma="2" }

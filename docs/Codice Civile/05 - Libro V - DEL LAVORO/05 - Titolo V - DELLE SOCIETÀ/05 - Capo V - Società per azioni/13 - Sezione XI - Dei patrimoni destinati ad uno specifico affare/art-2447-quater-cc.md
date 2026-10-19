@@ -21,5 +21,7 @@ ordine: 2655
 # Art. 2447-quater - ***Pubblicità della costituzione del patrimonio destinato***
 
 La deliberazione prevista dal precedente articolo deve essere depositata e iscritta a norma dell'[articolo 2436](../12%20-%20Sezione%20X%20-%20Delle%20modificazioni%20dello%20statuto/art-2436-cc.md).
+{: data-comma="1" }
 
 Nel termine di sessanta giorni dall'iscrizione della deliberazione nel registro delle imprese i creditori sociali anteriori all'iscrizione possono fare opposizione. Il tribunale, nonostante l'opposizione, può disporre che la deliberazione sia eseguita previa prestazione da parte della società di idonea garanzia.
+{: data-comma="2" }

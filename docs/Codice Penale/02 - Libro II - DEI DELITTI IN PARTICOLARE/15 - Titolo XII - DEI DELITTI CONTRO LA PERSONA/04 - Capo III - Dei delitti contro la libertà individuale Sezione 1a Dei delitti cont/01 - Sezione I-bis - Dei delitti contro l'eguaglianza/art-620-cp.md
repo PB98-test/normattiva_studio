@@ -21,5 +21,7 @@ ordine: 849
 # Art. 620 - ***Rivelazione del contenuto di corrispondenza, commessa da persona addetta al servizio delle poste, dei telegrafi o dei telefoni***
 
 L'addetto al servizio delle poste, dei telegrafi o dei telefoni, che, avendo notizia, in questa sua qualità, del contenuto di una corrispondenza aperta, o di una comunicazione telegrafica, o di una conversazione telefonica, lo rivela senza giusta causa ad altri che non sia il destinatario, ovvero a una persona diversa da quelle tra le quali la comunicazione o la conversazione è interceduta, è punito con la reclusione da sei mesi a tre anni.
+{: data-comma="1" }
 
 Il delitto è punibile a querela della persona offesa.
+{: data-comma="2" }

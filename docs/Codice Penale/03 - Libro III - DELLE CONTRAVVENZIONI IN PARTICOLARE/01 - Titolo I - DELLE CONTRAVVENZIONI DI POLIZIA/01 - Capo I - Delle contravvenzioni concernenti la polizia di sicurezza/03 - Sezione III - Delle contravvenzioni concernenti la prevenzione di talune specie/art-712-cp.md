@@ -21,5 +21,7 @@ ordine: 972
 # Art. 712 - ***Acquisto di cose di sospetta provenienza***
 
 Chiunque, senza averne prima accertata la legittima provenienza, acquista o riceve a qualsiasi titolo cose, che, per la loro qualità o per la condizione di chi le offre o per la entità del prezzo, si abbia motivo di sospettare che provengano da reato, è punito con l'arresto fino a sei mesi o con l'ammenda non inferiore a lire cento.
+{: data-comma="1" }
 
 Alla stessa pena soggiace chi si adopera per fare acquistare o ricevere a qualsiasi titolo alcuna delle cose suindicate, senza averne prima accertata la legittima provenienza.
+{: data-comma="2" }

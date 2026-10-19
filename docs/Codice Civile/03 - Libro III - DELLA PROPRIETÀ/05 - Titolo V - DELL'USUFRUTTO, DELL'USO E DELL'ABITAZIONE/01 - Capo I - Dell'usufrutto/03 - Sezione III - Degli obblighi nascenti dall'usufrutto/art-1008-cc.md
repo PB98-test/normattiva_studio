@@ -21,5 +21,7 @@ ordine: 1103
 # Art. 1008 - ***Imposte e altri pesi a carico dell'usufruttuario***
 
 L'usufruttuario è tenuto, per la durata del suo diritto, ai carichi annuali, come le imposte, i canoni, le rendite fondiarie e gli altri pesi che gravano sul reddito.
+{: data-comma="1" }
 
 Per l'anno in corso al principio e alla fine dell'usufrutto questi carichi si ripartiscono tra il proprietario e l'usufruttuario in proporzione della durata del rispettivo diritto.
+{: data-comma="2" }

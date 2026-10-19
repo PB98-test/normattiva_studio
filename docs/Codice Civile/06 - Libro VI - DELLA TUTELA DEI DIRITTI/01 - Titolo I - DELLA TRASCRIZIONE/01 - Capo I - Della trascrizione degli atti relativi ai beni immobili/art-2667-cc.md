@@ -21,7 +21,10 @@ ordine: 2969
 # Art. 2667 - ***Atti compiuti per persona incapace***
 
 I rappresentanti di persone incapaci e coloro che hanno prestato assistenza alle medesime devono curare che si esegua la trascrizione degli atti, delle sentenze o delle domande giudiziali che sono soggetti a trascrizione e rispetto ai quali essi hanno esercitato il loro ufficio.
+{: data-comma="1" }
 
 La mancanza della trascrizione può anche essere opposta ai minori, agli interdetti e a qualsiasi altro incapace, salvo ai medesimi il regresso contro i tutori, gli amministratori o i curatori che avevano l'obbligo della trascrizione.
+{: data-comma="2" }
 
 La mancanza della trascrizione non può essere opposta dalle persone che avevano l'obbligo di eseguirla per i propri rappresentati o amministrati, nè dai loro eredi.
+{: data-comma="3" }

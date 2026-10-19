@@ -21,5 +21,7 @@ ordine: 983
 # Art. 806 - ***Controversie arbitrabili***
 
 Le parti possono far decidere da arbitri le controversie tra di loro insorte che non abbiano per oggetto diritti indisponibili, salvo espresso divieto di legge.
+{: data-comma="1" }
 
 Le controversie di cui all'[articolo 409](../../../02%20-%20Libro%20II%20-%20DEL%20PROCESSO%20DI%20COGNIZIONE/04%20-%20Titolo%20IV%20-%20NORME%20PER%20LE%20CONTROVERSIE%20IN%20MATERIA%20DI%20LAVORO/01%20-%20Capo%20I%20-%20Delle%20controversie%20individuali%20di%20lavoro/01%20-%20Sezione%20I%20-%20Disposizioni%20generali/art-409-cpc.md) possono essere decise da arbitri solo se previsto dalla legge o nei contratti o accordi collettivi di lavoro.
+{: data-comma="2" }

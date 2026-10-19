@@ -21,12 +21,16 @@ ordine: 190
 # Art. 169 - ***Perdono giudiziale per i minori degli anni diciotto***
 
 Se, per il reato commesso dal minore degli anni diciotto, la legge stabilisce una pena restrittiva della libertà personale non superiore nel massimo a due anni, ovvero una pena pecuniaria non superiore nel massimo a lire diecimila, anche se congiunta a detta pena, il giudice può astenersi dal pronunciare il rinvio al giudizio, quando, avuto riguardo alle circostanze indicate nell'[articolo 133](../../05%20-%20Titolo%20V%20-%20DELLA%20NON%20PUNIBILITÀ%20PER%20PARTICOLARE%20TENUITÀ%20DEL%20FATTO.%20DELLA%20MODIFIC/01%20-%20Capo%20I%20-%20Della%20non%20punibilità%20per%20particolare%20tenuità%20del%20fatto.%20Della%20modificaz/art-133-cp.md), presume che il colpevole si asterrà dal commettere ulteriori reati.
+{: data-comma="1" }
 
 Qualora si proceda al giudizio, il giudice può, nella sentenza, per gli stessi motivi, astenersi dal pronunciare condanna.
+{: data-comma="2" }
 
 Le disposizioni precedenti non si applicano nei casi preveduti dal numero 1° del primo capoverso dell'[articolo 164](art-164-cp.md).
+{: data-comma="3" }
 
 Il perdono giudiziale non può essere conceduto più di una volta. [^agg-75]   [^agg-57]
+{: data-comma="4" }
 
 [^agg-57]: *AGGIORNAMENTO (57)* La Corte Costituzionale con sentenza 26 giugno - 5 luglio 1973, n. 108 (in G.U. 1ª s.s. 11/7/1973, n. 176) ha dichiarato l'illegittimità costituzionale del presente articolo nella parte in cui non consente che possa estendersi il perdono giudiziale ad altri reati che si legano col vincolo della continuazione a quelli per i quali è stato concesso il beneficio.
 

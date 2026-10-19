@@ -21,5 +21,7 @@ ordine: 3013
 # Art. 2708 - ***Annotazione in calce, in margine o a tergo di un documento***
 
 L'annotazione fatta dal creditore in calce, in margine o a tergo di un documento rimasto in suo possesso fa prova, benchè non sottoscritta da lui, se tende ad accertare la liberazione del debitore.
+{: data-comma="1" }
 
 Lo stesso valore ha l'annotazione fatta dal creditore in calce, in margine o a tergo di una quietanza o di un esemplare del documento del debito posseduto dal debitore.
+{: data-comma="2" }

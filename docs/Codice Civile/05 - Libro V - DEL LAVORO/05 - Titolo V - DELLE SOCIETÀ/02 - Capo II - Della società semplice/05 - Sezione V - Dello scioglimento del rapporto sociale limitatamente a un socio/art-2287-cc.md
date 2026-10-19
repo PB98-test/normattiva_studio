@@ -21,7 +21,10 @@ ordine: 2409
 # Art. 2287 - ***Procedimento di esclusione***
 
 L'esclusione è deliberata dalla maggioranza dei soci, non computandosi nel numero di questi il socio da escludere, ed ha effetto decorsi trenta giorni dalla data della comunicazione al socio escluso.
+{: data-comma="1" }
 
 Entro questo termine il socio escluso può fare opposizione davanti al tribunale, il quale può sospendere l'esecuzione.
+{: data-comma="2" }
 
 Se la società si compone di due soci, l'esclusione di uno di essi è pronunciata dal tribunale, su domanda dell'altro.
+{: data-comma="3" }

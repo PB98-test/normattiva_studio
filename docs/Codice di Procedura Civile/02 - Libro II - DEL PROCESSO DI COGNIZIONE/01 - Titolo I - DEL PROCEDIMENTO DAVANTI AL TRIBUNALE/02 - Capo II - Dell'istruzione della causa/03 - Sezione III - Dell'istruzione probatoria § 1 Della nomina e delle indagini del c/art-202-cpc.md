@@ -21,5 +21,7 @@ ordine: 225
 # Art. 202 - ***Tempo, luogo e modo dell'assunzione***
 
 Quando dispone mezzi di prova, il giudice istruttore, se non può assumerli nella stessa udienza, stabilisce il tempo, il luogo e il modo dell'assunzione.
+{: data-comma="1" }
 
 Se questa non si esaurisce nell'udienza fissata, il giudice ne differisce la prosecuzione ad un giorno prossimo.
+{: data-comma="2" }

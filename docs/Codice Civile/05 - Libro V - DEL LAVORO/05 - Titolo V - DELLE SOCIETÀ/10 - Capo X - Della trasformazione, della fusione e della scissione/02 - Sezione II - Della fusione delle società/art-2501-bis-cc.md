@@ -21,13 +21,19 @@ ordine: 2749
 # Art. 2501-bis - ***Fusione a seguito di acquisizione con indebitamento***
 
 Nel caso di fusione tra società, una delle quali abbia contratto debiti per acquisire il controllo dell'altra, quando per effetto della fusione il patrimonio di quest'ultima viene a costituire garanzia generica o fonte di rimborso di detti debiti, si applica la disciplina del presente articolo.
+{: data-comma="1" }
 
 Il progetto di fusione di cui all'[articolo 2501-ter](art-2501-ter-cc.md) deve indicare le risorse finanziarie previste per il soddisfacimento delle obbligazioni della società risultante dalla fusione.
+{: data-comma="2" }
 
 La relazione di cui all'[articolo 2501-quinquies](art-2501-quinquies-cc.md) deve indicare le ragioni che giustificano l'operazione e contenere un piano economico e finanziario con indicazione della fonte delle risorse finanziarie e la descrizione degli obiettivi che si intendono raggiungere.
+{: data-comma="3" }
 
 La relazione degli esperti di cui all'[articolo 2501-sexies](art-2501-sexies-cc.md), attesta la ragionevolezza delle indicazioni contenute nel progetto di fusione ai sensi del precedente secondo comma.
+{: data-comma="4" }
 
 Al progetto deve essere allegata una relazione del soggetto incaricato della revisione legale dei conti della società obiettivo o della società acquirente.
+{: data-comma="5" }
 
 Alle fusioni di cui al primo comma non si applicano le disposizioni degli [articoli 2505](art-2505-cc.md) e [2505-bis](art-2505-bis-cc.md).
+{: data-comma="6" }

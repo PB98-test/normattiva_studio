@@ -21,5 +21,7 @@ ordine: 1953
 # Art. 1832 - ***Approvazione del conto***
 
 L'estratto conto trasmesso da un correntista all'altro s'intende approvato, se non è contestato nel termine pattuito o in quello usuale, o altrimenti nel termine che può ritenersi congruo secondo le circostanze.
+{: data-comma="1" }
 
 L'approvazione del conto non preclude il diritto di impugnarlo per errori di scritturazione o di calcolo, per omissioni o per duplicazioni. L'impugnazione deve essere proposta, sotto pena di decadenza, entro sei mesi dalla data di ricezione dell'estratto conto relativo alla liquidazione di chiusura, che deve essere spedito per mezzo di raccomandata.
+{: data-comma="2" }

@@ -21,12 +21,16 @@ ordine: 818
 # Art. 609-septies - ***Querela di parte***
 
 I delitti previsti dagli [articoli 609-bis](art-609-bis-cp.md) e [609-ter](art-609-ter-cp.md) sono punibili a querela della persona offesa.
+{: data-comma="1" }
 
 Salvo quanto previsto dall'[articolo 597](../../03%20-%20Capo%20II%20-%20Dei%20delitti%20contro%20l%27onore/art-597-cp.md), terzo comma, il termine per la proposizione della querela è di dodici mesi.
+{: data-comma="2" }
 
 La querela proposta è irrevocabile.
+{: data-comma="3" }
 
 Si procede tuttavia d'ufficio:
+{: data-comma="4" }
 
 - 1) se il fatto di cui all'[articolo 609-bis](art-609-bis-cp.md) è commesso nei confronti di persona che al momento del fatto non ha compiuto gli anni diciotto;
 - 2) se il fatto è commesso dall'ascendente, dal genitore, anche adottivo, o dal di lui convivente, dal tutore ovvero da altra persona cui il minore è affidato per ragioni di cura, di educazione, di istruzione, di vigilanza o di custodia o che abbia con esso una relazione di convivenza;

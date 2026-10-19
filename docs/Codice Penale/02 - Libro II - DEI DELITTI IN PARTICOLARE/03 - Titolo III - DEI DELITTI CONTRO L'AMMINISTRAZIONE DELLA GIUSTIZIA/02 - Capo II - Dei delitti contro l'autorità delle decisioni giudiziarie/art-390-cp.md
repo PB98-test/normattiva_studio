@@ -21,5 +21,7 @@ ordine: 470
 # Art. 390 - ***Procurata inosservanza di pena***
 
 Chiunque, fuori dei casi di concorso nel reato, aiuta taluno a sottrarsi all'esecuzione della pena è punito con la reclusione da tre mesi a cinque anni se si tratta di condannato per delitto, e con la multa da lire cinquecento a diecimila se si tratta di condannato per contravvenzione.
+{: data-comma="1" }
 
 Si applicano le disposizioni del terzo capoverso dell'[articolo 386](art-386-cp.md).
+{: data-comma="2" }

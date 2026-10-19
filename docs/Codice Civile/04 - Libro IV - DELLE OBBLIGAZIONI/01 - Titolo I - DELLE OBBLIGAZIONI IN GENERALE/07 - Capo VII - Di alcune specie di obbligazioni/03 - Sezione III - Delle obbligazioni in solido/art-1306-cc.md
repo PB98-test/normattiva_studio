@@ -21,5 +21,7 @@ ordine: 1408
 # Art. 1306 - ***Sentenza***
 
 La sentenza pronunziata tra il creditore e uno dei debitori in solido, o tra il debitore e uno dei creditori in solido, non ha effetto contro gli altri debitori o contro gli altri creditori.
+{: data-comma="1" }
 
 Gli altri debitori possono opporla al creditore, salvo che sia fondata sopra ragioni personali al condebitore; gli altri creditori possono farla valere contro il debitore, salve le eccezioni personali che questi può opporre a ciascuno di essi.
+{: data-comma="2" }

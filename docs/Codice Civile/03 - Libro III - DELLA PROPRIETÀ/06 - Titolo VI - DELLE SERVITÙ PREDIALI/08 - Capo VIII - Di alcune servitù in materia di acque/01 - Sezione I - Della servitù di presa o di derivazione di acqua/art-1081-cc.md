@@ -21,7 +21,10 @@ ordine: 1176
 # Art. 1081 - ***Modulo d'acqua***
 
 Nelle servitù in cui è convenuta ed espressa una costante quantità di acqua, la quantità deve esprimersi in relazione al modulo.
+{: data-comma="1" }
 
 Il modulo è l'unità di misura dell'acqua corrente.
+{: data-comma="2" }
 
 Esso è un corpo d'acqua che scorre nella costante quantità di cento litri al minuto secondo e si divide in decimi, centesimi e millesimi.
+{: data-comma="3" }

@@ -21,10 +21,13 @@ ordine: 399
 # Art. 324 - ***Usufrutto legale***
 
 I genitori esercenti la responsabilità genitoriale hanno in comune l'usufrutto dei beni del figlio , fino alla maggiore età o all'emancipazione.
+{: data-comma="1" }
 
 I frutti percepiti sono destinati al mantenimento della famiglia e all'istruzione ed educazione dei figli.
+{: data-comma="2" }
 
 Non sono soggetti ad usufrutto legale:
+{: data-comma="3" }
 
 - 1) i beni acquistati dal figlio con i proventi del proprio lavoro;
 - 2) i beni lasciati o donati al figlio per intraprendere una carriera, un'arte o una professione;

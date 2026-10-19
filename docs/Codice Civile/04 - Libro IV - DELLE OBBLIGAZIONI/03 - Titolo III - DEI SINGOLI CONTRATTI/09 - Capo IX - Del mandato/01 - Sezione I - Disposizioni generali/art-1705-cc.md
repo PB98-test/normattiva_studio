@@ -21,5 +21,7 @@ ordine: 1821
 # Art. 1705 - ***Mandato senza rappresentanza***
 
 Il mandatario che agisce in proprio nome acquista i diritti e assume gli obblighi derivanti dagli atti compiuti con i terzi, anche se questi hanno avuto conoscenza del mandato.
+{: data-comma="1" }
 
 I terzi non hanno alcun rapporto col mandante. Tuttavia il mandante, sostituendosi al mandatario, può esercitare i diritti di credito derivanti dall'esecuzione del mandato, salvo che ciò possa pregiudicare i diritti attribuiti al mandatario dalle disposizioni degli articoli che seguono.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 770
 # Art. 618-bis - ***Procedimento***
 
 Per le materie trattate nei capi I e II del titolo IV del libro secondo, le opposizioni all'esecuzione e agli atti esecutivi sono disciplinate dalle norme previste per le controversie individuali di lavoro in quanto applicabili.
+{: data-comma="1" }
 
 Resta ferma la competenza del giudice dell'esecuzione nei casi previsti dal secondo comma dell'[articolo 615](../01%20-%20Sezione%20I%20-%20Delle%20opposizioni%20all%27esecuzione/art-615-cpc.md) e dal secondo comma dell'[articolo 617](../02%20-%20Sezione%20II%20-%20Delle%20opposizioni%20agli%20atti%20esecutivi/art-617-cpc.md) nei limiti dei provvedimenti assunti con ordinanza.
+{: data-comma="2" }

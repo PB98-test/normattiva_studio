@@ -21,5 +21,7 @@ ordine: 133
 # Art. 126 - ***Contenuto del processo verbale***
 
 Il processo verbale deve contenere l'indicazione delle persone intervenute e delle circostanze di luogo e di tempo nelle quali gli atti che documenta sono compiuti; deve inoltre contenere la descrizione delle attività svolte e delle rilevazioni fatte, nonchè le dichiarazioni ricevute.
+{: data-comma="1" }
 
 Il processo verbale è sottoscritto dal cancelliere. Se vi sono altri intervenuti, il cancelliere, quando la legge non dispone altrimenti, dà loro lettura del processo verbale.
+{: data-comma="2" }

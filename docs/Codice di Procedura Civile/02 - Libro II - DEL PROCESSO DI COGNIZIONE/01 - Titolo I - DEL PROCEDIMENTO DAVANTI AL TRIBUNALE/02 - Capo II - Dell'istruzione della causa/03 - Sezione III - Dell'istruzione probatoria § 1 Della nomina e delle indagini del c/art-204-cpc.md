@@ -21,7 +21,10 @@ ordine: 227
 # Art. 204 - ***Rogatorie alle autorità estere e ai consoli italiani***
 
 Le rogatorie dei giudici italiani alle autorità estere per l'esecuzione di provvedimenti istruttori sono trasmesse per via diplomatica.
+{: data-comma="1" }
 
 Quando la rogatoria riguarda cittadini italiani residenti all'estero, il giudice istruttore delega il console competente, che provvede a norma della legge consolare.
+{: data-comma="2" }
 
 Per l'assunzione dei mezzi di prova e la prosecuzione del giudizio il giudice pronuncia i provvedimenti previsti negli ultimi tre commi dell'articolo precedente.
+{: data-comma="3" }

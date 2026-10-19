@@ -14,8 +14,8 @@ capo_label: "Banca dati nazionale unica della documentazione antimafia"
 sezione: null
 sezione_label: null
 rubrica: "Mancato funzionamento della banca dati nazionale unica della documentazione antimafia"
-dataVigenza: "20260930"
-ordine: 113
+dataVigenza: "20261016"
+ordine: 116
 ---
 
 # Art. 99-bis - ***Mancato funzionamento della banca dati nazionale unica della documentazione antimafia***

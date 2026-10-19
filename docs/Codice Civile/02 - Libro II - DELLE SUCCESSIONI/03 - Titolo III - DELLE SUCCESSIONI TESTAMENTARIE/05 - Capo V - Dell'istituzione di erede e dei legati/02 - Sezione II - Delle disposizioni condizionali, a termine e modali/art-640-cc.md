@@ -21,5 +21,7 @@ ordine: 727
 # Art. 640 - ***Garanzia in caso di legato sottoposto a condizione sospensiva o a termine***
 
 Se a taluno è lasciato un legato sotto condizione sospensiva o dopo un certo tempo, l'onerato può essere costretto a dare idonea garanzia al legatario, salvo che il testatore abbia diversamente disposto.
+{: data-comma="1" }
 
 La garanzia può essere imposta anche al legatario quando il legato è a termine finale.
+{: data-comma="2" }

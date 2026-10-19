@@ -21,9 +21,13 @@ ordine: 434
 # Art. 385 - ***Provvedimenti sulle spese***
 
 La corte, se rigetta il ricorso, condanna il ricorrente alle spese.
+{: data-comma="1" }
 
 Se cassa senza rinvio o per violazione delle norme sulla competenza, provvede sulle spese di tutti i precedenti giudizi, liquidandole essa stessa o rimettendone la liquidazione al giudice che ha pronunciato la sentenza cassata.
+{: data-comma="2" }
 
 Se rinvia la causa ad altro giudice, può provvedere sulle spese del giudizio di cassazione o rimetterne la pronuncia al giudice di rinvio.
+{: data-comma="3" }
 
 COMMA ABROGATO DALLA L. 18 GIUGNO 2009, N. 69.
+{: data-comma="4" }

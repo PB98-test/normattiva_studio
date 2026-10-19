@@ -21,7 +21,10 @@ ordine: 2566
 # Art. 2403-bis - ***Poteri del collegio sindacale***
 
 I sindaci possono in qualsiasi momento procedere, anche individualmente, ad atti di ispezione e di controllo.
+{: data-comma="1" }
 
 Nell'espletamento di specifiche operazioni di ispezione e di controllo i sindaci sotto la propria responsabilità ed a proprie spese possono avvalersi di propri dipendenti ed ausiliari che non si trovino in una delle condizioni previste dall'[articolo 2396-septies](art-2396-septies-cc.md).
+{: data-comma="2" }
 
 L'organo amministrativo può rifiutare agli ausiliari e ai dipendenti dei sindaci l'accesso a informazioni riservate.
+{: data-comma="3" }

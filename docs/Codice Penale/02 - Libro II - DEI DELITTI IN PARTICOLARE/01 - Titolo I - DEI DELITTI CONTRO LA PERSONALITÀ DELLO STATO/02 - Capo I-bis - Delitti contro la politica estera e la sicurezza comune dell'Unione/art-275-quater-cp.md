@@ -21,7 +21,10 @@ ordine: 312
 # Art. 275-quater - ***Violazione delle condizioni dell'autorizzazione allo svolgimento di attività***
 
 Chiunque effettua operazioni o presta servizi o comunque svolge attività in difformità dagli obblighi prescritti nella autorizzazione rilasciata dall'autorità competente, quando tale autorizzazione è prescritta da una misura restrittiva dell'Unione europea, è punito con la reclusione da due a cinque anni e con la multa da euro 25.000 a euro 150.000.
+{: data-comma="1" }
 
 Quando le attività di cui al primo comma hanno ad oggetto fondi, beni, servizi che hanno, al momento del fatto, un valore inferiore a euro 10.000, si applica soltanto la sanzione amministrativa del pagamento di una somma di denaro da euro 15.000 a euro 80.000.
+{: data-comma="2" }
 
 Ai fini della determinazione del valore indicato al secondo comma, si tiene conto delle operazioni di minore importo quando esecutive del medesimo disegno economico.
+{: data-comma="3" }

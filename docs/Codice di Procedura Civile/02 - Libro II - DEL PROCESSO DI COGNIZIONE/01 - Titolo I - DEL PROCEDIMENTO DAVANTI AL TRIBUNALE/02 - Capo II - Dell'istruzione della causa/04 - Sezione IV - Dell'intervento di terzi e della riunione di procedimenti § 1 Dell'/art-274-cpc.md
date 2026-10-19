@@ -21,5 +21,7 @@ ordine: 298
 # Art. 274 - ***Riunione di procedimenti relativi a cause connesse***
 
 Se più procedimenti relativi a cause connesse pendono davanti allo stesso giudice, questi, anche d'ufficio, può disporne la riunione.
+{: data-comma="1" }
 
 Se il giudice istruttore o il presidente della sezione ha notizia che per una causa connessa pende procedimento davanti ad altro giudice o davanti ad altra sezione dello stesso tribunale, ne riferisce al presidente, il quale, sentite le parti, ordina con decreto che le cause siano chiamate alla medesima udienza davanti allo stesso giudice o alla stessa sezione per i provvedimenti opportuni.
+{: data-comma="2" }

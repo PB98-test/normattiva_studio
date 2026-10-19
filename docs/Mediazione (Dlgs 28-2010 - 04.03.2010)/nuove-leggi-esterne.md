@@ -5,9 +5,8 @@ search:
 
 # Leggi citate da Mediazione (Dlgs 28-2010 - 04.03.2010) ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Mediazione (Dlgs 28-2010 - 04.03.2010) — 35 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Mediazione (Dlgs 28-2010 - 04.03.2010) — 34 leggi trovate)*
 
-- [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const)
 - [articolo 60 della legge 19 giugno 2009, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-06-19;69)
 - [direttiva 2008/52/CE del Parlamento europeo e del Consiglio, del 21 maggio 2008](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:direttivaue:2008;52)
 - [decreto del Ministro della giustizia 23 luglio 2004, n. 222](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto:2004-07-23;222)

@@ -21,5 +21,7 @@ ordine: 3115
 # Art. 2806 - ***Pegno di diritti diversi dai crediti***
 
 Il pegno di diritti diversi dai crediti si costituisce nella forma rispettivamente richiesta per il trasferimento dei diritti stessi, fermo il disposto del terzo comma dell'[art. 2787](../02%20-%20Sezione%20II%20-%20Del%20pegno%20dei%20beni%20mobili/art-2787-cc.md).
+{: data-comma="1" }
 
 Sono salve le disposizioni delle leggi speciali.
+{: data-comma="2" }

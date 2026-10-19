@@ -21,5 +21,7 @@ ordine: 778
 # Art. 625 - ***Procedimento***
 
 Sull'istanza per la sospensione del processo di cui all'articolo precedente, il giudice dell'esecuzione provvede con ordinanza, sentite le parti.
+{: data-comma="1" }
 
 Nei casi urgenti, il giudice può disporre la sospensione con decreto, nel quale fissa l'udienza di comparizione delle parti. All'udienza provvede con ordinanza.
+{: data-comma="2" }

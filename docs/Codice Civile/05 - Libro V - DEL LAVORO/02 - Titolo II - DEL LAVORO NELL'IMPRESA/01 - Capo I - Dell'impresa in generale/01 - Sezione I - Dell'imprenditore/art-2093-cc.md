@@ -21,7 +21,10 @@ ordine: 2214
 # Art. 2093 - ***Imprese esercitate da enti pubblici***
 
 Le disposizioni di questo libro si applicano agli enti pubblici inquadrati nelle associazioni professionali.
+{: data-comma="1" }
 
 Agli enti pubblici non inquadrati si applicano le disposizioni di questo libro, limitatamente alle imprese da essi esercitate.
+{: data-comma="2" }
 
 Sono salve le diverse disposizioni della legge.
+{: data-comma="3" }

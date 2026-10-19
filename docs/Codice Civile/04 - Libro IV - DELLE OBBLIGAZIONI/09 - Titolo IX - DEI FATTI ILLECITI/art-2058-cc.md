@@ -21,5 +21,7 @@ ordine: 2179
 # Art. 2058 - ***Risarcimento in forma specifica***
 
 Il danneggiato può chiedere la reintegrazione in forma specifica, qualora sia in tutto o in parte possibile.
+{: data-comma="1" }
 
 Tuttavia il giudice può disporre che il risarcimento avvenga solo per equivalente, se la reintegrazione in forma specifica risulta eccessivamente onerosa per il debitore.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 67
 # Art. 36 - ***Ordinamento e amministrazione delle associazioni non riconosciute***
 
 L'ordinamento interno e l'amministrazione delle associazioni non riconosciute come persone giuridiche sono regolati dagli accordi degli associati.
+{: data-comma="1" }
 
 Le dette associazioni possono stare in giudizio nella persona di coloro ai quali, secondo questi accordi, è conferita la presidenza o la direzione.
+{: data-comma="2" }

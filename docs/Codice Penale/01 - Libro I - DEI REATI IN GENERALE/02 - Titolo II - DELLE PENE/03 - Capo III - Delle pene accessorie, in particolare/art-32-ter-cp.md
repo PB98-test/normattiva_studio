@@ -21,5 +21,7 @@ ordine: 36
 # Art. 32-ter - ***Incapacità di contrattare con la pubblica amministrazione***
 
 L'incapacità di contrattare con la pubblica amministrazione importa il divieto di concludere contratti con la pubblica amministrazione, salvo che per ottenere le prestazioni di un pubblico servizio.
+{: data-comma="1" }
 
 Essa non può avere durata inferiore ad un anno nè superiore a cinque anni.
+{: data-comma="2" }

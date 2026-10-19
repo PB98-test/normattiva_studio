@@ -21,7 +21,10 @@ ordine: 430
 # Art. 361 - ***Omessa denuncia di reato da parte del pubblico ufficiale***
 
 Il pubblico ufficiale, il quale omette o ritarda di denunciare all'Autorità giudiziaria, o ad un'altra Autorità che a quella abbia obbligo di riferirne, un reato di cui ha avuto notizia nell'esercizio o a causa delle sue funzioni, è punito con la multa da lire trecento a cinquemila.
+{: data-comma="1" }
 
 La pena è della reclusione fino ad un anno, se il colpevole è un ufficiale o un agente di polizia giudiziaria, che ha avuto comunque notizia di un reato del quale doveva fare rapporto.
+{: data-comma="2" }
 
 Le disposizioni precedenti non si applicano se si tratta di delitto punibile a querela della persona offesa.
+{: data-comma="3" }

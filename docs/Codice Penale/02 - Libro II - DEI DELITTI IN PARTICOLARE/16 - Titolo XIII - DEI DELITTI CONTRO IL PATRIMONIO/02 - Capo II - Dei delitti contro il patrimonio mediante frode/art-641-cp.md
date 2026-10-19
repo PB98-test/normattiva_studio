@@ -21,5 +21,7 @@ ordine: 889
 # Art. 641 - ***Insolvenza fraudolenta***
 
 Chiunque, dissimulando il proprio stato d'insolvenza, contrae un'obbligazione col proposito di non adempierla è punito, a querela della persona offesa, qualora la obbligazione non sia adempiuta, con la reclusione fino a due anni o con la multa fino a lire cinquemila.
+{: data-comma="1" }
 
 L'adempimento dell'obbligazione avvenuto prima della condanna estingue il reato.
+{: data-comma="2" }

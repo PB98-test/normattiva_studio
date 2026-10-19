@@ -21,7 +21,10 @@ ordine: 2758
 # Art. 2503-bis - ***Obbligazioni***
 
 I possessori di obbligazioni delle società partecipanti alla fusione possono fare opposizione a norma dell'[articolo 2503](art-2503-cc.md), salvo che la fusione sia approvata dall'assemblea degli obbligazionisti.
+{: data-comma="1" }
 
 Ai possessori di obbligazioni convertibili deve essere data facoltà, mediante avviso da pubblicarsi nella Gazzetta Ufficiale della Repubblica italiana almeno novanta giorni prima della iscrizione del progetto di fusione, di esercitare il diritto di conversione nel termine di trenta giorni dalla pubblicazione dell'avviso.
+{: data-comma="2" }
 
 Ai possessori di obbligazioni convertibili che non abbiano esercitato la facoltà di conversione devono essere assicurati diritti equivalenti a quelli loro spettanti prima della fusione, salvo che la modificazione dei loro diritti sia stata approvata dall'assemblea prevista dall'[articolo 2415](../../05%20-%20Capo%20V%20-%20Società%20per%20azioni/09%20-%20Sezione%20VII%20-%20Delle%20obbligazioni/art-2415-cc.md).
+{: data-comma="3" }

@@ -21,5 +21,7 @@ ordine: 974
 # Art. 880 - ***Presunzione di comunione del muro divisorio***
 
 Il muro che serve di divisione tra edifici si presume comune fino alla sua sommità e, in caso di altezze ineguali, fino al punto in cui uno degli edifici comincia ad essere più alto.
+{: data-comma="1" }
 
 Si presume parimenti comune il muro che serve di divisione tra cortili, giardini e orti o tra recinti nei campi.
+{: data-comma="2" }

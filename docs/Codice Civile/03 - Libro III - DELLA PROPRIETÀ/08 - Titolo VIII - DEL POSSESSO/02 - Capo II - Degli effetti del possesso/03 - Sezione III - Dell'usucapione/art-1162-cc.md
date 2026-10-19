@@ -21,7 +21,10 @@ ordine: 1264
 # Art. 1162 - ***Usucapione di beni mobili iscritti in pubblici registri***
 
 Colui che acquista in buona fede da chi non è proprietario un bene mobile iscritto in pubblici registri, in forza di un titolo che sia idoneo a trasferire la proprietà e che sia stato debitamente trascritto, ne compie in suo favore l'usucapione col decorso di tre anni dalla data della trascrizione.
+{: data-comma="1" }
 
 Se non concorrono le condizioni previste dal comma precedente, l'usucapione si compie col decorso di dieci anni.
+{: data-comma="2" }
 
 Le stesse disposizioni si applicano nel caso di acquisto degli altri diritti reali di godimento.
+{: data-comma="3" }

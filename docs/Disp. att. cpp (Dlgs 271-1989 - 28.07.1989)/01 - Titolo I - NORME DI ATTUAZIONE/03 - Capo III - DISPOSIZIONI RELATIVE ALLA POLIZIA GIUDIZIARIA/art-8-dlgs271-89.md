@@ -14,7 +14,7 @@ capo_label: "DISPOSIZIONI RELATIVE ALLA POLIZIA GIUDIZIARIA"
 sezione: null
 sezione_label: null
 rubrica: "Assegnazione alle sezioni"
-dataVigenza: "20260925"
+dataVigenza: "20261016"
 ordine: 11
 ---
 
@@ -24,4 +24,4 @@ ordine: 11
 
 --------------
 
-<small>*AGGIORNAMENTO (43)*   La L. 24 dicembre 2003, n. 350 ha disposto (con l'[art. 3](../02%20-%20Capo%20II%20-%20DISPOSIZIONI%20RELATIVE%20AL%20PUBBLICO%20MINISTERO/art-3-dlgs271-89.md), comma 74) che il presente articolo si interpreta nel senso che la domanda prodotta dagli ufficiali e dagli agenti di polizia giudiziaria della Polizia di Stato, dell'Arma dei carabinieri e del Corpo della guardia di finanza è da considerare, ai fini dell'applicazione della legge 10 marzo 1987, n. 100, come domanda di trasferimento di sede.</small>
+<small>*AGGIORNAMENTO (43)*   La L. 24 dicembre 2003, n. 350 ha disposto (con l'art. 3, comma 74) che il presente articolo si interpreta nel senso che la domanda prodotta dagli ufficiali e dagli agenti di polizia giudiziaria della Polizia di Stato, dell'Arma dei carabinieri e del Corpo della guardia di finanza è da considerare, ai fini dell'applicazione della legge 10 marzo 1987, n. 100, come domanda di trasferimento di sede.</small>

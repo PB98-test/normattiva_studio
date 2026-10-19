@@ -21,11 +21,16 @@ ordine: 1058
 # Art. 963 - ***Perimento totale o parziale del fondo***
 
 Quando il fondo enfiteutico perisce interamente, l'enfiteusi si estingue.
+{: data-comma="1" }
 
 Se è perita una parte notevole del fondo e il canone risulta sproporzionato al valore della parte residua, l'enfiteuta, secondo le circostanze, può chiedere una congrua riduzione del canone, o rinunziare al suo diritto, restituendo il fondo al concedente, salvo il diritto al rimborso dei miglioramenti sulla parte residua.
+{: data-comma="2" }
 
 La domanda di riduzione del canone e la rinunzia al diritto non sono ammesse, decorso un anno dall'avvenuto perimento.
+{: data-comma="3" }
 
 Qualora il fondo sia assicurato e l'assicurazione sia fatta anche nell'interesse del concedente, l'indennità è ripartita tra il concedente e l'enfiteuta in proporzione del valore dei rispettivi diritti.
+{: data-comma="4" }
 
 Nel caso di espropriazione per pubblico interesse, l'indennità si ripartisce a norma del comma precedente.
+{: data-comma="5" }

@@ -21,9 +21,13 @@ ordine: 283
 # Art. 239 - ***Reclamo dello stato di figlio***
 
 Qualora si tratti di supposizione di parto o di sostituzione di neonato, il figlio può reclamare uno stato diverso.
+{: data-comma="1" }
 
 L'azione di reclamo dello stato di figlio può essere esercitata anche da chi è nato nel matrimonio ma fu iscritto come figlio di ignoti, salvo che sia intervenuta sentenza di adozione.
+{: data-comma="2" }
 
 L'azione può inoltre essere esercitata per reclamare uno stato di figlio conforme alla presunzione di paternità da chi è stato riconosciuto in contrasto con tale presunzione e da chi fu iscritto in conformità di altra presunzione di paternità.
+{: data-comma="3" }
 
 L'azione può, altresì, essere esercitata per reclamare un diverso stato di figlio quando il precedente è stato comunque rimosso.
+{: data-comma="4" }

@@ -21,13 +21,19 @@ ordine: 2932
 # Art. 2635 - ***Corruzione tra privati***
 
 Salvo che il fatto costituisca più grave reato, gli amministratori, i direttori generali, i dirigenti preposti alla redazione dei documenti contabili societari, i sindaci e i liquidatori, di società o enti privati che, anche per interposta persona, sollecitano o ricevono, per sè o per altri, denaro o altra utilità non dovuti, o ne accettano la promessa, per compiere o per omettere un atto in violazione degli obblighi inerenti al loro ufficio o degli obblighi di fedeltà, sono puniti con la reclusione da uno a tre anni. Si applica la stessa pena se il fatto è commesso da chi nell'ambito organizzativo della società o dell'ente privato esercita funzioni direttive diverse da quelle proprie dei soggetti di cui al precedente periodo.
+{: data-comma="1" }
 
 Si applica la pena della reclusione fino a un anno e sei mesi se il fatto è commesso da chi è sottoposto alla direzione o alla vigilanza di uno dei soggetti indicati al primo comma.
+{: data-comma="2" }
 
 Chi, anche per interposta persona, offre, promette o dà denaro o altra utilità non dovuti alle persone indicate nel primo e nel secondo comma, è punito con le pene ivi previste.
+{: data-comma="3" }
 
 Le pene stabilite nei commi precedenti sono raddoppiate se si tratta di società con titoli quotati in mercati regolamentati italiani o di altri Stati dell'Unione europea o diffusi tra il pubblico in misura rilevante ai sensi dell'articolo 116 del testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al decreto legislativo 24 febbraio 1998, n. 58, e successive modificazioni.
+{: data-comma="4" }
 
 COMMA ABROGATO DALLA L. 9 GENNAIO 2019, N. 3.
+{: data-comma="5" }
 
 Fermo quanto previsto dall'[articolo 2641](art-2641-cc.md), la misura della confisca per valore equivalente non può essere inferiore al valore delle utilità date, promesse o offerte.
+{: data-comma="6" }

@@ -21,7 +21,10 @@ ordine: 2236
 # Art. 2115 - ***Contribuzioni***
 
 Salvo diverse disposizioni della legge o delle norme corporative, l'imprenditore e il prestatore di lavoro contribuiscono in parti eguali alle istituzioni di previdenza e di assistenza.
+{: data-comma="1" }
 
 L'imprenditore è responsabile del versamento del contributo, anche per la parte che è a carico del prestatore di lavoro, salvo il diritto di rivalsa secondo le leggi speciali.
+{: data-comma="2" }
 
 È nullo qualsiasi patto diretto ad eludere gli obblighi relativi alla previdenza o all'assistenza.
+{: data-comma="3" }

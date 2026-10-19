@@ -21,9 +21,13 @@ ordine: 1060
 # Art. 965 - ***Disponibilità del diritto dell'enfiteuta***
 
 L'enfiteuta può disporre del proprio diritto, sia per atto tra vivi, sia per atto di ultima volontà.
+{: data-comma="1" }
 
 Per l'alienazione del diritto dell'enfiteuta non è dovuta alcuna prestazione al concedente.
+{: data-comma="2" }
 
 Nell'atto costitutivo può essere vietato all'enfiteuta di disporre per atto tra vivi, in tutto o in parte, del proprio diritto, per un tempo non maggiore di venti anni.
+{: data-comma="3" }
 
 Nel caso di alienazione compiuta contro tale divieto, l'enfiteuta non è liberato dai suoi obblighi verso il concedente ed è tenuto a questi solidalmente con l'acquirente.
+{: data-comma="4" }

@@ -21,5 +21,7 @@ ordine: 1876
 # Art. 1759 - ***Responsabilità del mediatore***
 
 Il mediatore deve comunicare alle parti le circostanze a lui note, relative alla valutazione e alla sicurezza dell'affare, che possono influire sulla conclusione di esso.
+{: data-comma="1" }
 
 Il mediatore risponde dell'autenticità della sottoscrizione delle scritture e dell'ultima girata dei titoli trasmessi per il suo tramite.
+{: data-comma="2" }

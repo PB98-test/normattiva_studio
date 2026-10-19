@@ -21,6 +21,7 @@ ordine: 219
 # Art. 177 - ***Oggetto della comunione.***
 
 Costituiscono oggetto della comunione:
+{: data-comma="1" }
 
 - a) gli acquisti compiuti dai due coniugi insieme o separatamente durante il matrimonio, ad esclusione di quelli relativi ai beni personali;
 - b) i frutti dei beni propri di ciascuno dei coniugi, percepiti e non consumati allo scioglimento della comunione;
@@ -28,3 +29,4 @@ Costituiscono oggetto della comunione:
 - d) le aziende gestite da entrambi i coniugi e costituite dopo il matrimonio.
 
 Qualora si tratti di aziende appartenenti ad uno dei coniugi anteriormente al matrimonio ma gestite da entrambi, la comunione concerne solo gli utili e gli incrementi.
+{: data-comma="2" }

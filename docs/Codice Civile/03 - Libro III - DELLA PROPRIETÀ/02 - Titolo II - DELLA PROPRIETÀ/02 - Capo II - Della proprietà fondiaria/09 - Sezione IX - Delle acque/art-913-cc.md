@@ -21,7 +21,10 @@ ordine: 1008
 # Art. 913 - ***Scolo delle acque***
 
 Il fondo inferiore è soggetto a ricevere le acque che dal fondo più elevato scolano naturalmente, senza che sia intervenuta l'opera dell'uomo.
+{: data-comma="1" }
 
 Il proprietario del fondo inferiore non può impedire questo scolo, nè il proprietario del fondo superiore può renderlo più gravoso.
+{: data-comma="2" }
 
 Se per opere di sistemazione agraria dell'uno o dell'altro fondo si rende necessaria una modificazione del deflusso naturale delle acque, è dovuta un'indennità al proprietario del fondo a cui la modificazione stessa ha recato pregiudizio.
+{: data-comma="3" }

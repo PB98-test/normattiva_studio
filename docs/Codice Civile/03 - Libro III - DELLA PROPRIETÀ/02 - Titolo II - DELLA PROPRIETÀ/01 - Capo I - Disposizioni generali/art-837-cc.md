@@ -21,5 +21,7 @@ ordine: 931
 # Art. 837 - ***Ammassi***
 
 Allo scopo di regolare la distribuzione di determinati prodotti agricoli o industriali nell'interesse della produzione nazionale sono costituiti gli ammassi.
+{: data-comma="1" }
 
 Le norme per il conferimento dei prodotti negli ammassi sono contenute in leggi speciali.
+{: data-comma="2" }

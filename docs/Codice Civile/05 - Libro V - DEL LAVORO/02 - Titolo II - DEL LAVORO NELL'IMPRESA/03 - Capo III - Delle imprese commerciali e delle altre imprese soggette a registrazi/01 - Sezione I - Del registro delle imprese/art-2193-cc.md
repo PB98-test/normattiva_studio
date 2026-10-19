@@ -21,7 +21,10 @@ ordine: 2314
 # Art. 2193 - ***Efficacia dell'iscrizione***
 
 I fatti dei quali la legge prescrive l'iscrizione, se non sono stati iscritti, non possono essere opposti ai terzi da chi è obbligato a richiederne l'iscrizione, a meno che questi provi che i terzi ne abbiano avuto conoscenza.
+{: data-comma="1" }
 
 L'ignoranza dei fatti dei quali la legge prescrive l'iscrizione non può essere opposta dai terzi dal momento in cui l'iscrizione è avvenuta.
+{: data-comma="2" }
 
 Sono salve le disposizioni particolari della legge.
+{: data-comma="3" }

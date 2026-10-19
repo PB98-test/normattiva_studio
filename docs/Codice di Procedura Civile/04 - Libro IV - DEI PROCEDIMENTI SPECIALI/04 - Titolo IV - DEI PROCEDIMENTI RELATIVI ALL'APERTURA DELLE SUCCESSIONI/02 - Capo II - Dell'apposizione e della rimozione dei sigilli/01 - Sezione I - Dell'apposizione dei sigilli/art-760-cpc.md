@@ -21,5 +21,7 @@ ordine: 936
 # Art. 760 - ***Apposizione di sigilli durante e dopo l'inventario***
 
 L'apposizione dei sigilli che viene chiesta durante l'inventario può aver luogo soltanto per gli oggetti non inventariati.
+{: data-comma="1" }
 
 Esaurito l'inventario, non si fa luogo all'apposizione dei sigilli, salvo che l'inventario sia impugnato.
+{: data-comma="2" }

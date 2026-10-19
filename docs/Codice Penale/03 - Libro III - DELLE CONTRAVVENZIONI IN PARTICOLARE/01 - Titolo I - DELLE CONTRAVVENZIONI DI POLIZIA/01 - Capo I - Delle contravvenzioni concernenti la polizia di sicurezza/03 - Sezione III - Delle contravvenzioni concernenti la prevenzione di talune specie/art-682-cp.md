@@ -21,5 +21,7 @@ ordine: 941
 # Art. 682 - ***Ingresso arbitrario in luoghi, ove l'accesso è vietato nell'interesse militare dello Stato***
 
 Chiunque s'introduce in luoghi, nei quali l'accesso è vietato nell'interesse militare dello Stato, è punito, se il fatto non costituisce un più grave reato, con l'arresto da tre mesi a un anno, ovvero con l'ammenda da lire cinquecento a tremila.
+{: data-comma="1" }
 
 Le disposizioni del primo comma si applicano, altresì, agli immobili adibiti a sedi di ufficio, di reparto o a deposito di materiali dell'Amministrazione della pubblica sicurezza, il cui accesso è vietato per ragioni di sicurezza pubblica.
+{: data-comma="2" }

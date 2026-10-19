@@ -21,5 +21,7 @@ ordine: 153
 # Art. 144 - ***Notificazione alle amministrazioni dello Stato***
 
 Per le amministrazioni dello Stato si osservano le disposizioni delle leggi speciali che prescrivono la notificazione presso gli uffici dell'avvocatura dello Stato.
+{: data-comma="1" }
 
 Fuori dei casi previsti nel comma precedente, le notificazioni si fanno direttamente, presso l'amministrazione destinataria, a chi la rappresenta nel luogo in cui risiede il giudice davanti al quale si procede. Esse si eseguono mediante consegna di copia nella sede dell'ufficio al titolare o alle persone indicate nell'articolo seguente.
+{: data-comma="2" }

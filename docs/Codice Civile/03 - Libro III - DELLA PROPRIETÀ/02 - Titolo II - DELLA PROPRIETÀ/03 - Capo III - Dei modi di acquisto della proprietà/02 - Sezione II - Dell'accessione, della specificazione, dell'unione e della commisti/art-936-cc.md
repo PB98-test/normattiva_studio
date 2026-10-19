@@ -21,11 +21,16 @@ ordine: 1031
 # Art. 936 - ***Opere fatte da un terzo con materiali propri***
 
 Quando le piantagioni, costruzioni od opere sono state fatte da un terzo con suoi materiali, il proprietario del fondo ha diritto di ritenerle o di obbligare colui che le ha fatte a levarle.
+{: data-comma="1" }
 
 Se il proprietario preferisce di ritenerle, deve pagare a sua scelta il valore dei materiali e il prezzo della mano d'opera oppure l'aumento di valore recato al fondo.
+{: data-comma="2" }
 
 Se il proprietario del fondo domanda che siano tolte, esse devono togliersi a spese di colui che le ha fatte. Questi può inoltre essere condannato al risarcimento dei danni.
+{: data-comma="3" }
 
 Il proprietario non può obbligare il terzo a togliere le piantagioni, costruzioni od opere, quando sono state fatte a sua scienza e senza opposizione o quando sono state fatte dal terzo in buona fede.
+{: data-comma="4" }
 
 La rimozione non può essere domandata trascorsi sei mesi dal giorno in cui il proprietario ha avuto notizia dell'incorporazione.
+{: data-comma="5" }

@@ -21,5 +21,7 @@ ordine: 794
 # Art. 707 - ***Consegna dei beni all'erede***
 
 L'esecutore testamentario deve consegnare all'erede, che ne fa richiesta, i beni dell'eredità che non sono necessari all'esercizio del suo ufficio.
+{: data-comma="1" }
 
 Egli non può rifiutare tale consegna a causa di obbligazioni che debba adempiere conformemente alla volontà del testatore, o di legati condizionali o a termine, se l'erede dimostra di averli già soddisfatti, od offre idonea garanzia per l'adempimento delle obbligazioni, dei legati o degli oneri.
+{: data-comma="2" }

@@ -21,6 +21,7 @@ ordine: 23
 # Art. 22 - ***Foro per le cause ereditarie***
 
 È competente il giudice del luogo dell'aperta successione per le cause:
+{: data-comma="1" }
 
 - 1) relative a petizione o divisione di eredità e per qualunque altra tra coeredi fino alla divisione;
 - 2) relative alla rescissione della divisione e alla garanzia delle quote, purchè proposte entro un biennio dalla divisione;
@@ -28,3 +29,4 @@ ordine: 23
 - 4) contro l'esecutore testamentario, purchè proposte entro i termini indicati nel numero precedente.
 
 Se la successione si è aperta fuori del Regno, le cause suindicate sono di competenza del giudice del luogo in cui è posta la maggior parte dei beni situati nel Regno, o, in mancanza di questi, del luogo di residenza del convenuto o di alcuno dei convenuti.
+{: data-comma="2" }

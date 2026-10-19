@@ -21,7 +21,10 @@ ordine: 1016
 # Art. 921 - ***Consorzi coattivi***
 
 Nel caso indicato dall'[art. 918](art-918-cc.md), il consorzio può anche essere costituito d'ufficio dall'autorità amministrativa, allo scopo di provvedere a una migliore utilizzazione delle acque.
+{: data-comma="1" }
 
 Per le forme di costituzione e il funzionamento si osservano le norme stabilite per i consorzi di miglioramento fondiario.
+{: data-comma="2" }
 
 Il consorzio può anche procedere all'espropriazione dei singoli diritti, mediante il pagamento delle dovute indennità.
+{: data-comma="3" }

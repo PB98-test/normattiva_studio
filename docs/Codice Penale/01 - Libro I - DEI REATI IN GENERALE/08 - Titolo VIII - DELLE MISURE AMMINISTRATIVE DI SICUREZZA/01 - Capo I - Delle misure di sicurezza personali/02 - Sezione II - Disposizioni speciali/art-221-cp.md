@@ -21,7 +21,10 @@ ordine: 243
 # Art. 221 - ***Ubriachi abituali***
 
 Quando non debba essere ordinata altra misura di sicurezza detentiva, i condannati alla reclusione per delitti commessi in stato di ubriachezza, qualora questa sia abituale, o per delitti commessi sotto l'azione di sostanze stupefacenti all'uso delle quali siano dediti, sono ricoverati in una casa di cura e di custodia.
+{: data-comma="1" }
 
 Tuttavia, se si tratta di delitti per i quali sia stata inflitta la reclusione per un tempo inferiore a tre anni, al ricovero in una casa di cura e di custodia può essere sostituita la libertà vigilata.
+{: data-comma="2" }
 
 Il ricovero ha luogo in sezioni speciali, e ha la durata minima di sei mesi.
+{: data-comma="3" }

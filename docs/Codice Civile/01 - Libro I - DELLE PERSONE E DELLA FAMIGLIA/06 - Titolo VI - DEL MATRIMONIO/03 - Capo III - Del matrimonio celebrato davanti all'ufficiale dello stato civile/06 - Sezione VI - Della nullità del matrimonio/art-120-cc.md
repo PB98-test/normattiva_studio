@@ -21,5 +21,7 @@ ordine: 152
 # Art. 120 - ***Incapacità di intendere o di volere.***
 
 Il matrimonio può essere impugnato da quello dei coniugi che, quantunque non interdetto, provi di essere stato incapace di intendere o di volere, per qualunque causa, anche transitoria, al momento della celebrazione del matrimonio.
+{: data-comma="1" }
 
 L'azione non può essere proposta se vi è stata coabitazione per un anno dopo che il coniuge incapace ha recuperato la pienezza delle facoltà mentali.
+{: data-comma="2" }

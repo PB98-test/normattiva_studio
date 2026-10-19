@@ -21,5 +21,7 @@ ordine: 726
 # Art. 566 - ***Supposizione o soppressione di stato***
 
 Chiunque fa figurare nei registri dello stato civile una nascita inesistente è punito con la reclusione da tre a dieci anni.
+{: data-comma="1" }
 
 Alla stessa pena soggiace chi, mediante l'occultamento di un neonato, ne sopprime lo stato civile.
+{: data-comma="2" }

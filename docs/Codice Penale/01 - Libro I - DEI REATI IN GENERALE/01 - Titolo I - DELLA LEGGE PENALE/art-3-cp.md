@@ -21,5 +21,7 @@ ordine: 3
 # Art. 3 - ***Obbligatorietà della legge penale***
 
 La legge penale italiana obbliga tutti coloro che, cittadini o stranieri, si trovano nel territorio dello Stato, salve le eccezioni stabilite dal diritto pubblico interno o dal diritto internazionale.
+{: data-comma="1" }
 
 La legge penale italiana obbliga altresì tutti coloro che, cittadini o stranieri, si trovano all'estero, ma limitatamente ai casi stabiliti dalla legge medesima o dal diritto internazionale.
+{: data-comma="2" }

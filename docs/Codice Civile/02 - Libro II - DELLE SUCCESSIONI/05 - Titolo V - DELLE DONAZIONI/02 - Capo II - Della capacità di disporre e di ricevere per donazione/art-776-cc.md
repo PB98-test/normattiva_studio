@@ -21,5 +21,7 @@ ordine: 870
 # Art. 776 - ***Donazione fatta dall'inabilitato***
 
 La donazione fatta dall'inabilitato, anche se anteriore alla sentenza d'inabilitazione o alla nomina del curatore provvisorio, può essere annullata se fatta dopo che è stato promosso il giudizio d'inabilitazione.
+{: data-comma="1" }
 
 Il curatore dell'inabilitato per prodigalità può chiedere l'annullamento della donazione, anche se fatta nei sei mesi anteriori all'inizio del giudizio d'inabilitazione.
+{: data-comma="2" }

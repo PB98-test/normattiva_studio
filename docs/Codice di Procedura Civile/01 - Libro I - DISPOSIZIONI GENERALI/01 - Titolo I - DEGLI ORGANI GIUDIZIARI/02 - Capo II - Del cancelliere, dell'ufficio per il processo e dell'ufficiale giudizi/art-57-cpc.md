@@ -21,7 +21,10 @@ ordine: 63
 # Art. 57 - ***Attività del cancelliere***
 
 Il cancelliere documenta a tutti gli effetti, nei casi e nei modi previsti dalla legge, le attività proprie e quelle degli organi giudiziari e delle parti.
+{: data-comma="1" }
 
 Egli assiste il giudice in tutti gli atti dei quali deve essere formato processo verbale.
+{: data-comma="2" }
 
 Quando il giudice provvede per iscritto, salvo che la legge disponga altrimenti, il cancelliere stende la scrittura e vi appone la sua sottoscrizione dopo quella del giudice.
+{: data-comma="3" }

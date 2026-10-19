@@ -21,5 +21,7 @@ ordine: 2273
 # Art. 2152 - ***Miglioramenti***
 
 Il concedente che intende compiere miglioramenti sul podere deve valersi del lavoro dei componenti della famiglia colonica che siano forniti della necessaria capacità lavorativa, e questi sono tenuti a prestarlo verso compenso.
+{: data-comma="1" }
 
 La misura del compenso, se non è stabilita dalle norme corporative, dalla convenzione o dagli usi, è determinata dal giudice, sentite, ove occorra, le associazioni professionali e tenuto conto dell'eventuale incremento di reddito realizzato dal mezzadro.
+{: data-comma="2" }

@@ -21,9 +21,13 @@ ordine: 121
 # Art. 109 - ***Effetti della dichiarazione di abitualità, professionalità o tendenza a delinquere***
 
 Oltre gli aumenti di pena stabiliti per la recidiva e i particolari effetti indicati da altre disposizioni di legge, la dichiarazione di abitualità o di professionalità nel reato o di tendenza a delinquere importa l'applicazione di misure di sicurezza.
+{: data-comma="1" }
 
 La dichiarazione di abitualità o di professionalità nel reato può essere pronunciata in ogni tempo, anche dopo la esecuzione della pena; ma se è pronunciata dopo la sentenza di condanna, non si tien conto della successiva condotta del colpevole e rimane ferma la pena inflitta.
+{: data-comma="2" }
 
 La dichiarazione di tendenza a delinquere non può essere pronunciata che con la sentenza di condanna.
+{: data-comma="3" }
 
 La dichiarazione di abitualità e professionalità nel reato e quella di tendenza a delinquere si estinguono per effetto della riabilitazione.
+{: data-comma="4" }

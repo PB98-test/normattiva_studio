@@ -21,5 +21,7 @@ ordine: 222
 # Art. 199 - ***Processo verbale di conciliazione***
 
 Se le parti si conciliano, si redige processo verbale della conciliazione, che è sottoscritto dalle parti e dal consulente tecnico e inserito nel fascicolo d'ufficio.
+{: data-comma="1" }
 
 Il giudice istruttore attribuisce con decreto efficacia di titolo esecutivo al processo verbale.
+{: data-comma="2" }

@@ -21,7 +21,10 @@ ordine: 54
 # Art. 47 - ***Errore di fatto***
 
 L'errore sul fatto che costituisce il reato esclude la punibilità dell'agente. Nondimeno, se si tratta di errore determinato da colpa, la punibilità non è esclusa, quando il fatto è preveduto dalla legge come delitto colposo.
+{: data-comma="1" }
 
 L'errore sul fatto che costituisce un determinato reato non esclude la punibilità per un reato diverso.
+{: data-comma="2" }
 
 L'errore su una legge diversa dalla legge penale esclude la punibilità, quando ha cagionato un errore sul fatto che costituisce il reato.
+{: data-comma="3" }

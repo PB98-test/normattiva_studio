@@ -21,5 +21,7 @@ ordine: 76
 # Art. 44 - ***Trasferimento della residenza e del domicilio***
 
 Il trasferimento della residenza non può essere opposto ai terzi di buona fede, se non è stato denunciato nei modi prescritti dalla legge.
+{: data-comma="1" }
 
 Quando una persona ha nel medesimo luogo il domicilio e la residenza e trasferisce questa altrove, di fronte ai terzi di buona fede si considera trasferito pure il domicilio, se non si è fatta una diversa dichiarazione nell'atto in cui è stato denunciato il trasferimento della residenza.
+{: data-comma="2" }

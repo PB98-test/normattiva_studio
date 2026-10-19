@@ -21,7 +21,10 @@ ordine: 3183
 # Art. 2873 - ***Esclusione della riduzione***
 
 Non è ammessa domanda di riduzione riguardo alla quantità dei beni nè riguardo alla somma, se la quantità dei beni o la somma è stata determinata per convenzione o per sentenza.
+{: data-comma="1" }
 
 Tuttavia, se sono stati eseguiti pagamenti parziali così da estinguere almeno il quinto del debito originario, si può chiedere una riduzione proporzionale per quanto riguarda la somma.
+{: data-comma="2" }
 
 Nel caso d'ipoteca iscritta su un edificio, il costituente che dopo l'iscrizione ha eseguito sopraelevazioni può chiedere che l'ipoteca sia ridotta, per modo che le sopraelevazioni ne restino esenti in tutto o in parte, osservato il limite stabilito dall'[art. 2876](art-2876-cc.md) per il valore della cautela.
+{: data-comma="3" }

@@ -21,9 +21,13 @@ ordine: 14
 # Art. 13 - ***Estradizione***
 
 L'estradizione è regolata dalla legge penale italiana, dalle convenzioni e dagli usi internazionali.
+{: data-comma="1" }
 
 L'estradizione non è ammessa, se il fatto che forma oggetto della domanda di estradizione, non è preveduto come reato dalla legge italiana e dalla legge straniera.
+{: data-comma="2" }
 
 L'estradizione può essere conceduta od offerta, anche per reati non preveduti nelle convenzioni internazionali, purchè queste non ne facciano espresso divieto.
+{: data-comma="3" }
 
 Non è ammessa l'estradizione del cittadino, salvo che sia espressamente consentita nelle convenzioni internazionali.
+{: data-comma="4" }

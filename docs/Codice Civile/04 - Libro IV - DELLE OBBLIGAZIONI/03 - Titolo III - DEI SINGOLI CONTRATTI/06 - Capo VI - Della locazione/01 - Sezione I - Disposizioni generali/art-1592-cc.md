@@ -21,5 +21,7 @@ ordine: 1707
 # Art. 1592 - ***Miglioramenti***
 
 Salvo disposizioni particolari della legge o degli usi, il conduttore non ha diritto a indennità per i miglioramenti apportati alla cosa locata. Se però vi è stato il consenso del locatore, questi è tenuto a pagare un'indennità corrispondente alla minor somma tra l'importo della spesa e il valore del risultato utile al tempo della riconsegna.
+{: data-comma="1" }
 
 Anche nel caso in cui il conduttore non ha diritto a indennità, il valore dei miglioramenti può compensare i deterioramenti che si sono verificati senza colpa grave del conduttore.
+{: data-comma="2" }

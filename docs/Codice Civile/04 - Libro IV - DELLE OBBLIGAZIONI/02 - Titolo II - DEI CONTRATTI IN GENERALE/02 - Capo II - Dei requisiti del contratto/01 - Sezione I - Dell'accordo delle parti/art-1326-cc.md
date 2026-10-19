@@ -21,11 +21,16 @@ ordine: 1428
 # Art. 1326 - ***Conclusione del contratto***
 
 Il contratto è concluso nel momento in cui chi ha fatto la proposta ha conoscenza dell'accettazione dell'altra parte.
+{: data-comma="1" }
 
 L'accettazione deve giungere al proponente nel termine da lui stabilito o in quello ordinariamente necessario secondo la natura dell'affare o secondo gli usi.
+{: data-comma="2" }
 
 Il proponente può ritenere efficace l'accettazione tardiva, purchè ne dia immediatamente avviso all'altra parte.
+{: data-comma="3" }
 
 Qualora il proponente richieda per l'accettazione una forma determinata, l'accettazione non ha effetto se è data in forma diversa.
+{: data-comma="4" }
 
 Un'accettazione non conforme alla proposta equivale a nuova proposta.
+{: data-comma="5" }

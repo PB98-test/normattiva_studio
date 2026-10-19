@@ -21,5 +21,7 @@ ordine: 747
 # Art. 581 - ***Percosse***
 
 Chiunque percuote taluno, se dal fatto non deriva una malattia nel corpo o nella mente, è punito, a querela della persona offesa, salvo che ricorra la circostanza aggravante prevista dall'[articolo 61](../../../01%20-%20Libro%20I%20-%20DEI%20REATI%20IN%20GENERALE/03%20-%20Titolo%20III%20-%20DEL%20REATO/02%20-%20Capo%20II%20-%20Delle%20circostanze%20del%20reato/art-61-cp.md), numero 11-octies), con la reclusione fino a sei mesi o con la multa fino a lire tremila.
+{: data-comma="1" }
 
 Tale disposizione non si applica quando la legge considera la violenza come elemento costitutivo o come circostanza aggravante di un altro reato.
+{: data-comma="2" }

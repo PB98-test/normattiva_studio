@@ -21,7 +21,10 @@ ordine: 3071
 # Art. 2765 - ***Crediti derivanti dai contratti di mezzadria e di colonia***
 
 Colui che concede un fondo a mezzadria o a colonia e il mezzadro o il colono hanno, per i crediti derivanti dal contratto, privilegio sulla rispettiva parte dei frutti e sulle cose che servono a coltivare o a fornire il fondo dato a mezzadria o a colonia.
+{: data-comma="1" }
 
 Il privilegio sui frutti sussiste finchè questi si trovano nel fondo o nelle sue dipendenze.
+{: data-comma="2" }
 
 Si applicano le disposizioni degli ultimi tre commi dell'[art. 2764](art-2764-cc.md).
+{: data-comma="3" }

@@ -21,5 +21,7 @@ ordine: 3271
 # Art. 2960 - ***Delazione di giuramento***
 
 Nei casi indicati dagli [articoli 2954](art-2954-cc.md), [2955](art-2955-cc.md) e [2956](art-2956-cc.md), colui al quale la prescrizione è stata opposta può deferire all'altra parte il giuramento per accertare se si è verificata l'estinzione del debito.
+{: data-comma="1" }
 
 Il giuramento può essere deferito al coniuge superstite e agli eredi o ai loro rappresentanti legali per dichiarare se hanno notizia dell'estinzione del debito.
+{: data-comma="2" }

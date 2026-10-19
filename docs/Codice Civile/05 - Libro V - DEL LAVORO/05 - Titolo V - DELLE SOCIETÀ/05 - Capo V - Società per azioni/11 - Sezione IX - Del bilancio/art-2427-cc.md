@@ -14,7 +14,7 @@ capo_label: "Società per azioni"
 sezione: "IX"
 sezione_label: "Del bilancio"
 rubrica: "Contenuto della nota integrativa"
-dataVigenza: "20260914"
+dataVigenza: "20261016"
 ordine: 2620
 ---
 
@@ -47,4 +47,4 @@ La nota integrativa deve indicare, oltre a quanto stabilito da altre disposizion
 - 22-bis) le operazioni realizzate con parti correlate, precisando l'importo, la natura del rapporto e ogni altra informazione necessaria per la comprensione del bilancio relativa a tali operazioni, qualora le stesse ... non siano state concluse a normali condizioni di mercato. Le informazioni relative alle singole operazioni possono essere aggregate secondo la loro natura, salvo quando la loro separata evidenziazione sia necessaria per comprendere gli effetti delle operazioni medesime sulla situazione patrimoniale e finanziaria e sul risultato economico della società; [^agg-246]
 - 22-ter) la natura e l'obiettivo economico di accordi non risultanti dallo stato patrimoniale, con indicazione del loro effetto patrimoniale, finanziario ed economico, a condizione che i rischi e i benefici da essi derivanti siano significativi e l'indicazione degli stessi sia necessaria per valutare la situazione patrimoniale e finanziaria e il risultato economico della società.   22-quater) la natura e l'effetto patrimoniale, finanziario ed economico dei fatti di rilievo avvenuti dopo la chiusura dell'esercizio;  [^agg-246]  22-quinquies) il nome e la sede legale dell'impresa che redige il bilancio consolidato dell'insieme più grande di imprese di cui l'impresa fa parte in quanto impresa controllata, nonchè il luogo in cui è disponibile la copia del bilancio consolidato;  [^agg-246]  22-sexies) il nome e la sede legale dell'impresa che redige il bilancio consolidato dell'insieme più piccolo di imprese di cui l'impresa fa parte in quanto impresa controllata nonchè il luogo in cui è disponibile la copia del bilancio consolidato;  [^agg-246]  22-septies) la proposta di destinazione degli utili o di copertura delle perdite;  [^agg-246]  Le informazioni in nota integrativa relative alle voci dello stato patrimoniale e del conto economico sono presentate secondo l'ordine in cui le relative voci sono indicate nello stato patrimoniale e nel conto economico.  [^agg-246]
 
-[^agg-246]: *AGGIORNAMENTO (246)* Il D.Lgs. 18 agosto 2015, n. 139 ha disposto (con l'[art. 12](../../../../01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/02%20-%20Titolo%20II%20-%20DELLE%20PERSONE%20GIURIDICHE/01%20-%20Capo%20I%20-%20Disposizioni%20generali/art-12-cc.md), comma 1) che le presenti modifiche si applicano ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
+[^agg-246]: *AGGIORNAMENTO (246)* Il D.Lgs. 18 agosto 2015, n. 139 ha disposto (con l'art. 12, comma 1) che le presenti modifiche si applicano ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.

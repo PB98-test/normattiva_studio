@@ -21,5 +21,7 @@ ordine: 1558
 # Art. 1456 - ***Clausola risolutiva espressa***
 
 I contraenti possono convenire espressamente che il contratto si risolva nel caso che una determinata obbligazione non sia adempiuta secondo le modalità stabilite.
+{: data-comma="1" }
 
 In questo caso, la risoluzione si verifica di diritto quando la parte interessata dichiara all'altra che intende valersi della clausola risolutiva.
+{: data-comma="2" }

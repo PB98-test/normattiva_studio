@@ -21,5 +21,7 @@ ordine: 1368
 # Art. 1266 - ***Obbligo di garanzia del cedente***
 
 Quando la cessione è a titolo oneroso, il cedente è tenuto a garantire l'esistenza del credito al tempo della cessione. La garanzia può essere esclusa per patto, ma il cedente resta sempre obbligato per il fatto proprio.
+{: data-comma="1" }
 
 Se la cessione è a titolo gratuito, la garanzia è dovuta solo nei casi e nei limiti in cui la legge pone a carico del donante la garanzia per l'evizione.
+{: data-comma="2" }

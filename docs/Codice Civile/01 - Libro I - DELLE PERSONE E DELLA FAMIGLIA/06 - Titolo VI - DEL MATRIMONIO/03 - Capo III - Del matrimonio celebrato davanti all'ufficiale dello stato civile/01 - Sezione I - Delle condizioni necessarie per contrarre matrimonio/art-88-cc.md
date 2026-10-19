@@ -21,5 +21,7 @@ ordine: 120
 # Art. 88 - ***Delitto***
 
 Non possono contrarre matrimonio tra loro le persone delle quali l'una è stata condannata per omicidio consumato o tentato sul coniuge dell'altra.
+{: data-comma="1" }
 
 Se ebbe luogo soltanto rinvio a giudizio ovvero fu ordinata la cattura, si sospende la celebrazione del matrimonio fino a quando non è pronunziata sentenza di proscioglimento.
+{: data-comma="2" }

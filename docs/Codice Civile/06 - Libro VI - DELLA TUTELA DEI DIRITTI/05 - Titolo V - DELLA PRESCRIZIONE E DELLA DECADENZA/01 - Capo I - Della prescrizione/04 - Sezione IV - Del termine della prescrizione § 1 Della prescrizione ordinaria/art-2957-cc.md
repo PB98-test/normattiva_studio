@@ -21,5 +21,7 @@ ordine: 3268
 # Art. 2957 - ***Decorrenza delle prescrizioni presuntive***
 
 Il termine della prescrizione decorre dalla scadenza della retribuzione periodica o dal compimento della prestazione.
+{: data-comma="1" }
 
 Per le competenze dovute agli avvocati, ai procuratori e ai patrocinatori legali il termine decorre dalla decisione della lite, dalla conciliazione delle parti o dalla revoca del mandato; per gli affari non terminati, la prescrizione decorre dall'ultima prestazione.
+{: data-comma="2" }

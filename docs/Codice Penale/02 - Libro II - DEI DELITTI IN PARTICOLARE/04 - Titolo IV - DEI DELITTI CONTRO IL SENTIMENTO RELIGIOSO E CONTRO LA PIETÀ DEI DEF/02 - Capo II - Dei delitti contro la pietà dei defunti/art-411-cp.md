@@ -21,9 +21,13 @@ ordine: 494
 # Art. 411 - ***Distruzione, soppressione o sottrazione di cadavere***
 
 Chiunque distrugge, sopprime o sottrae un cadavere, o una parte di esso, ovvero ne sottrae o disperde le ceneri, è punito con la reclusione da due a sette anni.
+{: data-comma="1" }
 
 La pena è aumentata se il fatto è commesso in cimiteri o in altri luoghi di sepoltura, di deposito o di custodia.
+{: data-comma="2" }
 
 Non costituisce reato la dispersione delle ceneri di cadavere autorizzata dall'ufficiale dello stato civile sulla base di espressa volontà del defunto.
+{: data-comma="3" }
 
 La dispersione delle ceneri non autorizzata dall'ufficiale dello stato civile, o effettuata con modalità diverse rispetto a quanto indicato dal defunto, è punita con la reclusione da due mesi a un anno e con la multa da lire cinque milioni a lire venticinque milioni.
+{: data-comma="4" }

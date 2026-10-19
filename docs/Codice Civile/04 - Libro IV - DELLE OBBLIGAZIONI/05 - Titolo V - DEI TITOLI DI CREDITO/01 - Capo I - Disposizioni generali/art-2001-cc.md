@@ -21,5 +21,7 @@ ordine: 2122
 # Art. 2001 - ***Rinvio a disposizioni speciali***
 
 Le norme di questo titolo si applicano in quanto non sia diversamente disposto da altre norme di questo codice o di leggi speciali.
+{: data-comma="1" }
 
 I titoli del debito pubblico, i biglietti di banca e gli altri titoli equivalenti sono regolati da leggi speciali.
+{: data-comma="2" }

@@ -21,7 +21,10 @@ ordine: 246
 # Art. 223 - ***Processo verbale di deposito del documento***
 
 Nell'udienza in cui è presentata la querela, si forma processo verbale di deposito nelle mani del cancelliere del documento impugnato.
+{: data-comma="1" }
 
 Il processo verbale è redatto in presenza del pubblico ministero e delle parti, e deve contenere la descrizione dello stato in cui il documento si trova, con indicazione delle cancellature, abrasioni, aggiunte, scritture interlineari e di ogni altra particolarità che vi si riscontra.
+{: data-comma="2" }
 
 Il giudice istruttore, il pubblico ministero e il cancelliere appongono la firma sul documento. Il giudice può anche ordinare che di esso sia fatta copia fotografica.
+{: data-comma="3" }

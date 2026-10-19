@@ -21,8 +21,10 @@ ordine: 3149
 # Art. 2839 - ***Formalità per l'iscrizione dell'ipoteca***
 
 Per eseguire l'iscrizione deve presentarsi il titolo costitutivo insieme con una nota sottoscritta dal richiedente in doppio originale.
+{: data-comma="1" }
 
 La nota deve indicare:
+{: data-comma="2" }
 
 - 1) il cognome, il nome, il luogo e la data di nascita e il numero di codice fiscale del creditore, del debitore e dell'eventuale terzo datore di ipoteca; la denominazione o la ragione sociale, la sede e il numero di codice fiscale delle persone giuridiche, delle società previste dai capi II, III e IV del titolo V del libro quinto e delle associazioni non riconosciute, con l'indicazione, per queste ultime e per le società semplici, anche delle generalità delle persone che le rappresentano secondo l'atto costitutivo. Per le obbligazioni all'ordine o al portatore si devono osservare le norme dell'[articolo 2831](art-2831-cc.md). Per le obbligazioni all'ordine si deve inoltre esibire il titolo al conservatore, il quale vi annota l'eseguita iscrizione dell'ipoteca. Per le obbligazioni al portatore si deve presentare copia dell'atto di emissione e del piano di ammortamento;
 - 2) il domicilio eletto dal creditore nella circoscrizione del tribunale in cui ha sede l'ufficio dei registri immobiliari;

@@ -21,5 +21,7 @@ ordine: 72
 # Art. 41 - ***Responsabilità dei componenti. Rappresentanza in giudizio***
 
 Qualora il comitato non abbia ottenuto la personalità giuridica, i suoi componenti rispondono personalmente e solidalmente delle obbligazioni assunte. I sottoscrittori sono tenuti soltanto a effettuare le oblazioni promesse.
+{: data-comma="1" }
 
 Il comitato può stare in giudizio nella persona del presidente.
+{: data-comma="2" }

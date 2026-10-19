@@ -21,7 +21,10 @@ ordine: 2082
 # Art. 1961 - ***Obblighi del creditore, anticretico***
 
 Il creditore, se non è stato convenuto diversamente, è obbligato a pagare i tributi e i pesi annui dell'immobile ricevuto in anticresi.
+{: data-comma="1" }
 
 Egli ha l'obbligo di conservare, amministrare e coltivare il fondo da buon padre di famiglia. Le spese relative devono essere prelevate dai frutti.
+{: data-comma="2" }
 
 Il creditore, se vuole liberarsi da tali obblighi, può, in ogni tempo, restituire l'immobile al debitore, purchè non abbia rinunziato a tale facoltà.
+{: data-comma="3" }

@@ -14,26 +14,34 @@ capo_label: "Dell'istruzione della causa"
 sezione: "III"
 sezione_label: "Dell'istruzione probatoria § 1 Della nomina e delle indagini del consulente tecnico"
 rubrica: "Testimonianza scritta"
-dataVigenza: "20260914"
+dataVigenza: "20261016"
 ordine: 281
 ---
 
 # Art. 257-bis - ***Testimonianza scritta***
 
 Il giudice, su accordo delle parti, tenuto conto della natura della causa e di ogni altra circostanza, può disporre di assumere la deposizione chiedendo al testimone, anche nelle ipotesi di cui all'[articolo 203](art-203-cpc.md), di fornire, per iscritto e nel termine fissato, le risposte ai quesiti sui quali deve essere interrogato.
+{: data-comma="1" }
 
 Il giudice, con il provvedimento di cui al primo comma, dispone che la parte che ha richiesto l'assunzione predisponga il modello di testimonianza in conformità agli articoli ammessi e lo faccia notificare al testimone.
+{: data-comma="2" }
 
 Il testimone rende la deposizione compilando il modello di testimonianza in ogni sua parte, con risposta separata a ciascuno dei quesiti, e precisa quali sono quelli cui non è in grado di rispondere, indicandone la ragione.
+{: data-comma="3" }
 
 Il testimone sottoscrive la deposizione apponendo la propria firma autenticata su ciascuna delle facciate del foglio di testimonianza o apponendo al documento informatico la propria firma digitale e la trasmette al difensore, il quale la deposita nel fascicolo d'ufficio. [^agg-178]
+{: data-comma="4" }
 
 Quando il testimone si avvale della facoltà d'astensione di cui all'[articolo 249](art-249-cpc.md), ha l'obbligo di compilare il modello di testimonianza, indicando le complete generalità e i motivi di astensione.
+{: data-comma="5" }
 
 Quando il testimone non trasmette le risposte scritte nel termine stabilito, il giudice può condannarlo alla pena pecuniaria di cui all'[articolo 255](art-255-cpc.md), primo comma. [^agg-178]
+{: data-comma="6" }
 
 Quando la testimonianza ha ad oggetto documenti di spesa già depositati dalle parti, essa può essere resa mediante dichiarazione sottoscritta dal testimone e trasmessa al difensore della parte nel cui interesse la prova è stata ammessa, senza il ricorso al modello di cui al secondo comma.
+{: data-comma="7" }
 
 Il giudice, esaminate le risposte o le dichiarazioni, può sempre disporre che il testimone sia chiamato a deporre davanti a lui o davanti al giudice delegato.
+{: data-comma="8" }
 
-[^agg-178]: *AGGIORNAMENTO (178)* Il [D.Lgs. 31 ottobre 2024, n. 164](../../../../../Correttivo%20Cartabia%20%28Dlgs%20164-2024%20-%2031.10.2024%29/00%20-%20Indice%20%28dlgs164-24%29.md) ha disposto (con l'[art. 7](../../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/02%20-%20Sezione%20II%20-%20Della%20competenza%20per%20materia%20e%20valore/art-7-cpc.md), comma 1) che "Ove non diversamente previsto, le disposizioni del presente decreto si applicano ai procedimenti introdotti successivamente al 28 febbraio 2023".
+[^agg-178]: *AGGIORNAMENTO (178)* Il [D.Lgs. 31 ottobre 2024, n. 164](../../../../../Correttivo%20Cartabia%20%28Dlgs%20164-2024%20-%2031.10.2024%29/00%20-%20Indice%20%28dlgs164-24%29.md) ha disposto (con l'art. 7, comma 1) che "Ove non diversamente previsto, le disposizioni del presente decreto si applicano ai procedimenti introdotti successivamente al 28 febbraio 2023".

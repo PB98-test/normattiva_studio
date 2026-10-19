@@ -21,5 +21,7 @@ ordine: 1458
 # Art. 1356 - ***Pendenza della condizione***
 
 In pendenza della condizione sospensiva l'acquirente di un diritto può compiere atti conservativi.
+{: data-comma="1" }
 
 L'acquirente di un diritto sotto condizione risolutiva può, in pendenza di questa, esercitarlo, ma l'altro contraente può compiere atti conservativi.
+{: data-comma="2" }

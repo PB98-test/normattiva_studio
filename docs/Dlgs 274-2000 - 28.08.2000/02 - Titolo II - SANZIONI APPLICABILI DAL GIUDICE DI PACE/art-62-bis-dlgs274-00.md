@@ -14,10 +14,12 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Espulsione a titolo di sanzione sostitutiva"
-dataVigenza: "20260930"
+dataVigenza: "20261016"
 ordine: 68
 ---
 
 # Art. 62-bis - ***Espulsione a titolo di sanzione sostitutiva***
+
+*(testo non presente nella fonte)*
 
 #### DISPOSIZIONI FINALI E TRANSITORIE

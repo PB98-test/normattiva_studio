@@ -21,5 +21,7 @@ ordine: 3166
 # Art. 2856 - ***Surrogazione del creditore perdente***
 
 Il creditore che ha ipoteca sopra uno o più immobili, qualora si trovi perdente perchè sul loro prezzo si è in tutto o in parte soddisfatto un creditore anteriore, la cui ipoteca si estendeva ad altri beni dello stesso debitore, può surrogarsi nell'ipoteca iscritta a favore del creditore soddisfatto, al fine di esercitare l'azione ipotecaria su questi altri beni con preferenza rispetto ai creditori posteriori alla propria iscrizione. Lo stesso diritto spetta ai creditori perdenti in seguito alla detta surrogazione.
+{: data-comma="1" }
 
 Questa disposizione si applica anche ai creditori perdenti per causa di privilegi immobiliari.
+{: data-comma="2" }

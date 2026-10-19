@@ -21,7 +21,10 @@ ordine: 1000
 # Art. 905 - ***Distanza per l'apertura di vedute dirette e balconi***
 
 Non si possono aprire vedute dirette verso il fondo chiuso o non chiuso e neppure sopra il tetto del vicino, se tra il fondo di questo e la faccia esteriore del muro in cui si aprono le vedute dirette non vi è la distanza di un metro e mezzo.
+{: data-comma="1" }
 
 Non si possono parimenti costruire balconi o altri sporti, terrazze, lastrici solari e simili, muniti di parapetto che permetta di affacciarsi sul fondo del vicino, se non vi è la distanza di un metro e mezzo tra questo fondo e la linea esteriore di dette opere.
+{: data-comma="2" }
 
 Il divieto cessa allorquando tra i due fondi vicini vi è una via pubblica.
+{: data-comma="3" }

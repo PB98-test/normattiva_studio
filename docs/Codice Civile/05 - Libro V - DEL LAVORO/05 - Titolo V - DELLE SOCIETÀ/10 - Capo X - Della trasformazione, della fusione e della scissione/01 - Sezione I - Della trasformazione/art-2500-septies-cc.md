@@ -21,9 +21,13 @@ ordine: 2745
 # Art. 2500-septies - ***Trasformazione eterogenea da società di capitali***
 
 Le società disciplinate nei capi V, VI, VII del presente titolo possono trasformarsi in consorzi, società consortili, società cooperative, comunioni di azienda, associazioni non riconosciute e fondazioni.
+{: data-comma="1" }
 
 Si applica l'[articolo 2500-sexies](art-2500-sexies-cc.md), in quanto compatibile.
+{: data-comma="2" }
 
 La deliberazione deve essere assunta con il voto favorevole dei due terzi degli aventi diritto, e comunque con il consenso dei soci che assumono responsabilità illimitata.
+{: data-comma="3" }
 
 La deliberazione di trasformazione in fondazione produce gli effetti che il capo II del titolo II del Libro primo ricollega all'atto di fondazione o alla volontà del fondatore.
+{: data-comma="4" }

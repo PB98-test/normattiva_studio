@@ -21,15 +21,22 @@ ordine: 179
 # Art. 162-bis - ***Oblazione nelle contravvenzioni punite con pene alternative***
 
 Nelle contravvenzioni per le quali la legge stabilisce la pena alternativa dell'arresto o dell'ammenda, il contravventore può essere ammesso a pagare, prima dell'apertura del dibattimento, ovvero prima del decreto di condanna, una somma corrispondente alla metà del massimo dell'ammenda stabilita dalla legge per la contravvenzione commessa oltre le spese del procedimento.
+{: data-comma="1" }
 
 Con la domanda di oblazione il contravventore deve depositare la somma corrispondente alla metà del massimo dell'ammenda.
+{: data-comma="2" }
 
 L'oblazione non è ammessa quando ricorrono i casi previsti dal terzo capoverso dell'[articolo 99](../../04%20-%20Titolo%20IV%20-%20DEL%20REO%20E%20DELLA%20PERSONA%20OFFESA%20DAL%20REATO/02%20-%20Capo%20II%20-%20Della%20recidiva,%20dell%27abitualità%20e%20professionalità%20nel%20reato%20e%20della%20te/art-99-cp.md), dall'[articolo 104](../../04%20-%20Titolo%20IV%20-%20DEL%20REO%20E%20DELLA%20PERSONA%20OFFESA%20DAL%20REATO/02%20-%20Capo%20II%20-%20Della%20recidiva,%20dell%27abitualità%20e%20professionalità%20nel%20reato%20e%20della%20te/art-104-cp.md) o dall'[articolo 105](../../04%20-%20Titolo%20IV%20-%20DEL%20REO%20E%20DELLA%20PERSONA%20OFFESA%20DAL%20REATO/02%20-%20Capo%20II%20-%20Della%20recidiva,%20dell%27abitualità%20e%20professionalità%20nel%20reato%20e%20della%20te/art-105-cp.md), nè quando permangono conseguenze dannose o pericolose del reato eliminabili da parte del contravventore.
+{: data-comma="3" }
 
 In ogni altro caso il giudice può respingere con ordinanza la domanda di oblazione, avuto riguardo alla gravità del fatto.
+{: data-comma="4" }
 
 La domanda può essere riproposta sino all'inizio della discussione finale del dibattimento di primo grado.
+{: data-comma="5" }
 
 Il pagamento delle somme indicate nella prima parte del presente articolo estingue il reato.
+{: data-comma="6" }
 
 COMMA ABROGATO DAL D.L. 7 APRILE 2000, N. 82, CONVERTITO CON MODIFICAZIONI DALLA L. 5 GIUGNO 2000, N. 144.
+{: data-comma="7" }

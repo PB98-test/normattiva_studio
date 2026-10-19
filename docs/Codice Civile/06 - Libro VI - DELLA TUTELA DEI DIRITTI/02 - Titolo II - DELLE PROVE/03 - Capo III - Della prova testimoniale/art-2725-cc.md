@@ -21,5 +21,7 @@ ordine: 3030
 # Art. 2725 - ***Atti per i quali è richiesta la prova per iscritto o la forma scritta***
 
 Quando, secondo la legge o la volontà delle parti, un contratto deve essere provato per iscritto, la prova per testimoni è ammessa soltanto nel caso indicato dal n. 3 dell'articolo precedente.
+{: data-comma="1" }
 
 La stessa regola si applica nei casi in cui la forma scritta è richiesta sotto pena di nullità.
+{: data-comma="2" }

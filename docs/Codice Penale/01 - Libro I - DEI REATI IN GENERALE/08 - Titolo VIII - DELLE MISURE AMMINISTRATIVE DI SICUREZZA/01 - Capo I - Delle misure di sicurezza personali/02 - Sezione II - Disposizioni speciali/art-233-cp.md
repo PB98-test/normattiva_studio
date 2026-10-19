@@ -21,7 +21,10 @@ ordine: 255
 # Art. 233 - ***Divieto di soggiorno in uno o più Comuni o in una o più Provincie***
 
 Al colpevole di un delitto contro la personalità dello Stato o contro l'ordine pubblico, ovvero di un delitto commesso per motivi politici o occasionato da particolari condizioni sociali o morali esistenti in un determinato luogo, può essere imposto il divieto di soggiornare in uno o più Comuni o in una o più Provincie, designati dal giudice.
+{: data-comma="1" }
 
 Il divieto di soggiorno ha una durata non inferiore a un anno.
+{: data-comma="2" }
 
 Nel caso di trasgressione, ricomincia a decorrere il termine minimo, e può essere ordinata inoltre la libertà vigilata.
+{: data-comma="3" }

@@ -21,7 +21,10 @@ ordine: 189
 # Art. 175 - ***Direzione del procedimento***
 
 Il giudice istruttore esercita tutti i poteri intesi al più sollecito e leale svolgimento del procedimento.
+{: data-comma="1" }
 
 Egli fissa le udienze successive e i termini entro i quali le parti debbono compiere gli atti processuali.
+{: data-comma="2" }
 
 Quando il giudice ha omesso di provvedere a norma del comma precedente, si applica la disposizione dell'[articolo 289](../../08%20-%20Capo%20V%20-%20Della%20correzione%20delle%20sentenze%20e%20delle%20ordinanze/art-289-cpc.md).
+{: data-comma="3" }

@@ -21,5 +21,7 @@ ordine: 524
 # Art. 439 - ***Misura degli alimenti tra fratelli e sorelle***
 
 Tra fratelli e sorelle gli alimenti sono dovuti nella misura dello stretto necessario.
+{: data-comma="1" }
 
 Possono comprendere anche le spese per l'educazione e l'istruzione se si tratta di minore.
+{: data-comma="2" }

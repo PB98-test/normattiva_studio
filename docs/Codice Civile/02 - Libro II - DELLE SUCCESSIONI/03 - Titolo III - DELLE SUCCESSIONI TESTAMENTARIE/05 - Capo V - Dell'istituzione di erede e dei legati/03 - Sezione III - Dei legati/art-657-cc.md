@@ -21,5 +21,7 @@ ordine: 744
 # Art. 657 - ***Legato di cosa acquistata dal legatario***
 
 Se il legatario, dopo la confezione del testamento, ha acquistato dal testatore, a titolo oneroso o a titolo gratuito, la cosa a lui legata, il legato è senza effetto in conformità dell'[art. 686](../05%20-%20Sezione%20V%20-%20Della%20revocazione%20delle%20disposizioni%20testamentarie/art-686-cc.md).
+{: data-comma="1" }
 
 Se dopo la confezione del testamento la cosa legata è stata dal legatario acquistata, a titolo gratuito, dall'onerato o da un terzo, il legato è senza effetto; se l'acquisto ha avuto luogo a titolo oneroso, il legatario ha diritto al rimborso del prezzo, qualora ricorrano le circostanze indicate dall'[art. 651](art-651-cc.md).
+{: data-comma="2" }

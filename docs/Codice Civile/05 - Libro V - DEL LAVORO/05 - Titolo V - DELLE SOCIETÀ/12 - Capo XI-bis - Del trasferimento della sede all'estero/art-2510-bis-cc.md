@@ -21,5 +21,7 @@ ordine: 2784
 # Art. 2510-bis - ***Trasferimento della sede all'estero***
 
 Il trasferimento all'estero della sede statutaria è posto in essere mediante trasformazione in conformità alle disposizioni che regolano le operazioni di trasformazione transfrontaliera e internazionale.
+{: data-comma="1" }
 
 La trasformazione effettuata ai sensi del primo comma si considera trasferimento di sede all'estero, senza riguardo al luogo in cui è fissata la sede statutaria della società risultante dall'operazione.
+{: data-comma="2" }

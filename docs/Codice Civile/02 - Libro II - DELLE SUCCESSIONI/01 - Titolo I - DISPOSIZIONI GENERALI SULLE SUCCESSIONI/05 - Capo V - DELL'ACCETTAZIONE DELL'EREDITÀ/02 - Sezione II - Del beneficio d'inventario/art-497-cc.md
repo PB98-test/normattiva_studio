@@ -21,5 +21,7 @@ ordine: 584
 # Art. 497 - ***Mora nel rendimento del conto***
 
 L'erede non può essere costretto al pagamento con i propri beni, se non quando è stato costituito in mora a presentare il conto e non ha ancora soddisfatto a quest'obbligo.
+{: data-comma="1" }
 
 Dopo la liquidazione del conto, non può essere costretto al pagamento con i propri beni se non fino alla concorrenza delle somme di cui è debitore.
+{: data-comma="2" }

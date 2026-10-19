@@ -21,7 +21,10 @@ ordine: 983
 # Art. 723 - ***Esercizio abusivo di un giuoco non d'azzardo***
 
 Chiunque, essendo autorizzato a tenere sale da giuoco o da bigliardo, tollera che vi si facciano giuochi non d'azzardo, ma tuttavia vietati dall'Autorità, è punito con l'ammenda da lire cinquanta a mille.
+{: data-comma="1" }
 
 Nei casi preveduti dai numeri 3° e 4° dell'[articolo 719](art-719-cp.md), si applica l'arresto fino a tre mesi o l'ammenda da lire cinquecento a cinquemila.
+{: data-comma="2" }
 
 Per chi sia colto mentre prende parte al giuoco, la pena è dell'ammenda fino a lire cinquecento.
+{: data-comma="3" }

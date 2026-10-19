@@ -21,11 +21,16 @@ ordine: 2971
 # Art. 2668-bis - ***Durata dell'efficacia della trascrizione della domanda giudiziale***
 
 La trascrizione della domanda giudiziale conserva il suo effetto per venti anni dalla sua data. L'effetto cessa se la trascrizione non è rinnovata prima che scada detto termine.
+{: data-comma="1" }
 
 Per ottenere la rinnovazione si presenta al conservatore una nota in doppio originale conforme a quella della precedente trascrizione, in cui si dichiara che si intende rinnovare la trascrizione originaria.
+{: data-comma="2" }
 
 In luogo del titolo si può presentare la nota precedente.
+{: data-comma="3" }
 
 Il conservatore deve osservare le disposizioni dell'[articolo 2664](art-2664-cc.md).
+{: data-comma="4" }
 
 Se al tempo della rinnovazione gli immobili a cui si riferisce il titolo risultano dai registri delle trascrizioni passati agli eredi o aventi causa di colui contro il quale venne eseguita la formalità, la rinnovazione deve essere fatta anche nei confronti degli eredi o aventi causa e la nota deve contenere le indicazioni stabilite dall'[articolo 2659](art-2659-cc.md), se queste risultano dai registri medesimi.
+{: data-comma="5" }

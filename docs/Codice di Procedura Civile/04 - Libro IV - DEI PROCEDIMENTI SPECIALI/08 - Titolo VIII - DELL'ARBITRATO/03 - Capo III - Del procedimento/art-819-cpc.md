@@ -21,5 +21,7 @@ ordine: 1012
 # Art. 819 - ***Questioni pregiudiziali di merito***
 
 Gli arbitri risolvono senza autorità di giudicato tutte le questioni rilevanti per la decisione della controversia, anche se vertono su materie che non possono essere oggetto di convenzione di arbitrato, salvo che debbano essere decise con efficacia di giudicato per legge.
+{: data-comma="1" }
 
 Su domanda di parte, le questioni pregiudiziali sono decise con efficacia di giudicato se vertono su materie che possono essere oggetto di convenzione di arbitrato. Se tali questioni non sono comprese nella convenzione di arbitrato, la decisione con efficacia di giudicato è subordinata alla richiesta di tutte le parti.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 1052
 # Art. 957 - ***Disposizioni inderogabili***
 
 L'enfiteusi, salvo che il titolo disponga altrimenti, è regolata dalle norme contenute negli articoli seguenti.
+{: data-comma="1" }
 
 Il titolo non può tuttavia derogare alle norme contenute negli [articoli 958](art-958-cc.md), secondo comma, 961, secondo comma, 962, 965, 968, 971 e 973.
+{: data-comma="2" }

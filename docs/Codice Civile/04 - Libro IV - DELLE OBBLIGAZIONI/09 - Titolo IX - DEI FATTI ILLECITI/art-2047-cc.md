@@ -21,5 +21,7 @@ ordine: 2168
 # Art. 2047 - ***Danno cagionato dall'incapace***
 
 In caso di danno cagionato da persona incapace di intendere o di volere, il risarcimento è dovuto da chi è tenuto alla sorveglianza dell'incapace, salvo che provi di non aver potuto impedire il fatto.
+{: data-comma="1" }
 
 Nel caso in cui il danneggiato non abbia potuto ottenere il risarcimento da chi è tenuto alla sorveglianza, il giudice, in considerazione delle condizioni economiche delle parti, può condannare l'autore del danno a un'equa indennità.
+{: data-comma="2" }

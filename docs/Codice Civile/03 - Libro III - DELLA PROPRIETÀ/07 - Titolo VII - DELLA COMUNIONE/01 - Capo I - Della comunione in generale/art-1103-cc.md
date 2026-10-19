@@ -21,5 +21,7 @@ ordine: 1198
 # Art. 1103 - ***Disposizione della quota***
 
 Ciascun partecipante può disporre del suo diritto e cedere ad altri il godimento della cosa nei limiti della sua quota.
+{: data-comma="1" }
 
 Per le ipoteche costituite da uno dei partecipanti si osservano le disposizioni contenute nel capo IV del titolo III del libro VI.
+{: data-comma="2" }

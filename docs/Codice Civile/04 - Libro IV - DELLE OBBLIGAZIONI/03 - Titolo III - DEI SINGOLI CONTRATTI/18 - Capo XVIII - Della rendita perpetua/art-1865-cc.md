@@ -21,9 +21,13 @@ ordine: 1986
 # Art. 1865 - ***Diritto di riscatto della rendita perpetua***
 
 La rendita perpetua è redimibile a volontà del debitore, nonostante qualunque convenzione contraria.
+{: data-comma="1" }
 
 Le parti possono tuttavia convenire che il riscatto non possa eseguirsi durante la vita del beneficiario o prima di un certo termine, il quale non può eccedere i dieci anni nella rendita semplice e i trenta anni nella rendita fondiaria.
+{: data-comma="2" }
 
 Può anche stipularsi che il debitore non esegua il riscatto senza averne dato preavviso al beneficiario. Il termine di preavviso non può eccedere l'anno.
+{: data-comma="3" }
 
 Se sono convenuti termini più lunghi, essi si riducono nei limiti sopra stabiliti.
+{: data-comma="4" }

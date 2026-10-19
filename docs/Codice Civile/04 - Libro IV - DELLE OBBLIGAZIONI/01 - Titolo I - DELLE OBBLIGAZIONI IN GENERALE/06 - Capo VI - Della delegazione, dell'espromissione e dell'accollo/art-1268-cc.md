@@ -21,5 +21,7 @@ ordine: 1370
 # Art. 1268 - ***Delegazione cumulativa***
 
 Se il debitore assegna al creditore un nuovo debitore, il quale si obbliga verso il creditore, il debitore originario non è liberato dalla sua obbligazione, salva che il creditore dichiari espressamente di liberarlo.
+{: data-comma="1" }
 
 Tuttavia il creditore che ha accettato l'obbligazione del terzo non può rivolgersi al delegante, se prima non ha richiesto al delegato l'adempimento.
+{: data-comma="2" }

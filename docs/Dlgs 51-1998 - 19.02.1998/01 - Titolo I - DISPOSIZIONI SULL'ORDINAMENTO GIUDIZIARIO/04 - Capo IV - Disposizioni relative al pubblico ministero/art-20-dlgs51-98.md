@@ -1,0 +1,23 @@
+---
+type: "Articolo di legge"
+title: "Art. 20"
+articolo: "Art. 20"
+codice: dlgs51-98
+aliases:
+  - "art-20-dlgs51-98"
+libro: null
+libro_label: null
+titolo: "I"
+titolo_label: "DISPOSIZIONI SULL'ORDINAMENTO GIUDIZIARIO"
+capo: "IV"
+capo_label: "Disposizioni relative al pubblico ministero"
+sezione: null
+sezione_label: null
+rubrica: null
+dataVigenza: "20261016"
+ordine: 20
+---
+
+# Art. 20
+
+1\. Il [primo comma dell'articolo 70 del regio decreto 30 gennaio 1941, n. 12](../../../R.D.%2012-1941%20-%2030.01.1941/03%20-%20Titolo%20III%20-%20DEL%20PUBBLICO%20MINISTERO/01%20-%20Capo%20I%20-%20Della%20costituzione%20del%20pubblico%20ministero/art-70-rd12-41.md) è sostituito dal seguente: "Le funzioni del pubblico ministero sono esercitate dal procuratore generale presso la corte di cassazione, dai procuratori generali della Repubblica presso le corti di appello, dai procuratori della Repubblica presso i tribunali per i minorenni e dai procuratori della Repubblica presso i tribunali ordinari. Negli uffici delle procure della Repubblica presso i tribunali ordinari sono istituiti posti di procuratore aggiunto in numero non superiore a quello risultante dalla proporzione di un procuratore aggiunto per ogni quindici sostituti addetti all'ufficio.".

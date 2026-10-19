@@ -21,5 +21,7 @@ ordine: 10
 # Art. 10 - ***Determinazione del valore***
 
 Il valore della causa, ai fini della competenza, si determina dalla domanda a norma delle disposizioni seguenti.
+{: data-comma="1" }
 
 A tale effetto le domande proposte nello stesso processo contro la medesima persona si sommano tra loro, e gli interessi scaduti, le spese e i danni anteriori alla proposizione si sommano col capitale.
+{: data-comma="2" }

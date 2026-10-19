@@ -21,11 +21,16 @@ ordine: 2802
 # Art. 2528 - ***Procedura di ammissione e carattere aperto della società***
 
 L'ammissione di un nuovo socio è fatta con deliberazione degli amministratori su domanda dell'interessato. La deliberazione di ammissione deve essere comunicata all'interessato e annotata a cura degli amministratori nel libro dei soci.
+{: data-comma="1" }
 
 Il nuovo socio deve versare, oltre l'importo della quota o delle azioni, il soprapprezzo eventualmente determinato dall'assemblea in sede di approvazione del bilancio su proposta dagli amministratori.
+{: data-comma="2" }
 
 Il consiglio di amministrazione deve entro sessanta giorni motivare la deliberazione di rigetto della domanda di ammissione e comunicarla agli interessati.
+{: data-comma="3" }
 
 Qualora la domanda di ammissione non sia accolta dagli amministratori, chi l'ha proposta può entro sessanta giorni dalla comunicazione del diniego chiedere che sull'istanza si pronunci l'assemblea, la quale delibera sulle domande non accolte, se non appositamente convocata, in occasione della sua prossima successiva convocazione.
+{: data-comma="4" }
 
 Gli amministratori nella relazione al bilancio illustrano le ragioni delle determinazioni assunte con riguardo all'ammissione dei nuovi soci.
+{: data-comma="5" }

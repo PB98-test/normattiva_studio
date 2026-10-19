@@ -21,5 +21,7 @@ ordine: 855
 # Art. 768 - ***Alienazione della porzione ereditaria***
 
 Il coerede che ha alienato la sua porzione o una parte di essa non è più ammesso a impugnare la divisione per dolo o violenza, se l'alienazione è seguita quando il dolo era stato scoperto o la violenza era cessata.
+{: data-comma="1" }
 
 Il coerede non perde il diritto di proporre l'impugnazione, se la vendita è limitata a oggetti di facile deterioramento o di valore minimo in rapporto alla quota.
+{: data-comma="2" }

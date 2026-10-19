@@ -21,7 +21,10 @@ ordine: 679
 # Art. 537 - ***Modo dell'incanto***
 
 Le cose da vendere si offrono singolarmente oppure a lotti secondo la convenienza, per il prezzo base di cui all'[articolo 535](art-535-cpc.md). L'aggiudicazione al maggiore offerente segue quando, dopo una duplice pubblica enunciazione del prezzo raggiunto, non è fatta una maggiore offerta.
+{: data-comma="1" }
 
 Se la vendita non può compiersi nel giorno stabilito, è continuata nel primo giorno seguente non festivo.
+{: data-comma="2" }
 
 Dell'incanto si redige processo verbale, che si deposita immediatamente nella cancelleria.
+{: data-comma="3" }

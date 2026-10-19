@@ -21,7 +21,10 @@ ordine: 166
 # Art. 156 - ***Rilevanza della nullità***
 
 Non può essere pronunciata la nullità per inosservanza di forme di alcun atto del processo, se la nullità non è comminata dalla legge.
+{: data-comma="1" }
 
 Può tuttavia essere pronunciata quando l'atto manca dei requisiti formali indispensabili per il raggiungimento dello scopo.
+{: data-comma="2" }
 
 La nullità non può mai essere pronunciata, se l'atto ha raggiunto lo scopo a cui è destinato.
+{: data-comma="3" }

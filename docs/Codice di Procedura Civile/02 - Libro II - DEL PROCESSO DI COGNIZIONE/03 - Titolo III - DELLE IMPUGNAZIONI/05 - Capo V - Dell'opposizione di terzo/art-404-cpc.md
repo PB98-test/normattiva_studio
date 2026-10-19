@@ -21,8 +21,10 @@ ordine: 456
 # Art. 404 - ***Casi di opposizione di terzo***
 
 Un terzo può fare opposizione contro la sentenza passata in giudicato o comunque esecutiva pronunciata tra altre persone quando pregiudica i suoi diritti. [^agg-75]
+{: data-comma="1" }
 
 Gli aventi causa e i creditori di una delle parti possono fare opposizione alla sentenza, quando è l'effetto di dolo o collusione a loro danno.   [^agg-39] [^agg-42] [^agg-52]
+{: data-comma="2" }
 
 [^agg-39]: *AGGIORNAMENTO (39)* La Corte Costituzionale, con sentenza 5 - 7 giugno 1984, n. 167 (in G.U. 1a s.s. 13/6/1984, n. 162), ha dichiarato "l'illegittimità costituzionale dell'[art. 404 c.p.c.](art-404-cpc.md) nella parte in cui non ammette l'opposizione di terzo avverso la ordinanza di convalida di sfratto per finita locazione, emanata per la mancata comparizione dell'intimato o per la mancata opposizione dell'intimato pur comparso".
 

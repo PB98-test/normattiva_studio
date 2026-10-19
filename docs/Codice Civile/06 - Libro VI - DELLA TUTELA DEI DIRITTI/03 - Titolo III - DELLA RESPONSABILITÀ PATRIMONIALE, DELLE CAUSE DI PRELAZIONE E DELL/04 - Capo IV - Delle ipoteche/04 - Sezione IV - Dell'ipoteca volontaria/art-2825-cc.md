@@ -21,11 +21,16 @@ ordine: 3134
 # Art. 2825 - ***Ipoteca su beni indivisi***
 
 L'ipoteca costituita sulla propria quota da uno dei partecipanti alla comunione produce effetto rispetto a quei beni o a quella porzione di beni che a lui verranno assegnati nella divisione.
+{: data-comma="1" }
 
 Se nella divisione sono assegnati a un partecipante beni diversi da quello da lui ipotecato, l'ipoteca si trasferisce su questi altri beni, col grado derivante dall'originaria iscrizione e nei limiti del valore del bene in precedenza ipotecato, quale risulta dalla divisione, purchè l'ipoteca sia nuovamente iscritta con l'indicazione di detto valore entro novanta giorni dalla trascrizione della divisione medesima.
+{: data-comma="2" }
 
 Il trasferimento però non pregiudica le ipoteche iscritte contro tutti i partecipanti, nè l'ipoteca legale spettante ai condividenti per i conguagli.
+{: data-comma="3" }
 
 I creditori ipotecari e i cessionari di un partecipante, al quale siano stati assegnati beni diversi da quelli ipotecati o ceduti, possono far valere le loro ragioni anche sulle somme a lui dovute per conguagli o, qualora sia stata attribuita una somma di danaro in luogo di beni in natura, possono far valere le loro ragioni su tale somma, con prelazione determinata dalla data di iscrizione o di trascrizione dei titoli rispettivi, nel limite però del valore dei beni precedentemente ipotecati o ceduti.
+{: data-comma="4" }
 
 I debitori delle somme sono tuttavia liberati quando le abbiano pagate al condividente dopo trenta giorni da che la divisione è stata notificata ai creditori ipotecari o ai cessionari senza che da costoro sia stata fatta opposizione.
+{: data-comma="5" }

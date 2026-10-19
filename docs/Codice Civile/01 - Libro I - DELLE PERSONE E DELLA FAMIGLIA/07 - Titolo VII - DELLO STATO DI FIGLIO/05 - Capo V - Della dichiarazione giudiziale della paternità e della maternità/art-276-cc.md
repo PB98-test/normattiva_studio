@@ -21,5 +21,7 @@ ordine: 321
 # Art. 276 - ***Legittimazione passiva***
 
 La domanda per la dichiarazione di paternità o di maternità ... deve essere proposta nei confronti del presunto genitore o, in sua mancanza, nei confronti dei suoi eredi. In loro mancanza, la domanda deve essere proposta nei confronti di un curatore nominato dal giudice davanti al quale il giudizio deve essere promosso.
+{: data-comma="1" }
 
 Alla domanda può contraddire chiunque vi abbia interesse.
+{: data-comma="2" }

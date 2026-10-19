@@ -21,5 +21,7 @@ ordine: 923
 # Art. 829 - ***Passaggio di beni dal demanio al patrimonio***
 
 Il passaggio dei beni dal demanio pubblico al patrimonio dello Stato dev'essere dichiarato dall'autorità amministrativa. Dell'atto deve essere dato annunzio nella Gazzetta Ufficiale del Regno.
+{: data-comma="1" }
 
 Per quanto riguarda i beni delle provincie e dei comuni, il provvedimento che dichiara il passaggio al patrimonio dev'essere pubblicato nei modi stabiliti per i regolamenti comunali e provinciali.
+{: data-comma="2" }

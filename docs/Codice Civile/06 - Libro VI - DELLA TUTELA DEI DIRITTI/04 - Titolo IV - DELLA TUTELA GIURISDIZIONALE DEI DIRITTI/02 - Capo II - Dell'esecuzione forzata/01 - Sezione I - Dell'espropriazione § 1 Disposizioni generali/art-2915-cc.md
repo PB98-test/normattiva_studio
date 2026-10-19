@@ -21,5 +21,7 @@ ordine: 3225
 # Art. 2915 - ***Atti che limitano la disponibilità dei beni pignorati***
 
 Non hanno effetto in pregiudizio del creditore pignorante e dei creditori che intervengono nell'esecuzione gli atti che importano vincoli di indisponibilità, se non sono stati trascritti prima del pignoramento, quando hanno per oggetto beni immobili o beni mobili iscritti in pubblici registri, e, negli altri casi, se non hanno data certa anteriore al pignoramento.
+{: data-comma="1" }
 
 Non hanno del pari effetto in pregiudizio del creditore pignorante e dei creditori che intervengono nell'esecuzione gli atti e le domande per la cui efficacia rispetto ai terzi acquirenti la legge richiede la trascrizione, se sono trascritti successivamente al pignoramento.
+{: data-comma="2" }

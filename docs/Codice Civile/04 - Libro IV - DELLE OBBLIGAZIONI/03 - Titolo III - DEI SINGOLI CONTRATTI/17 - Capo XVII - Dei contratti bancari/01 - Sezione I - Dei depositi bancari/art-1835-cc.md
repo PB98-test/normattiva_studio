@@ -21,7 +21,10 @@ ordine: 1956
 # Art. 1835 - ***Libretto di deposito a risparmio***
 
 Se la banca rilascia un libretto di deposito a risparmio, i versamenti e i prelevamenti si devono annotare sul libretto.
+{: data-comma="1" }
 
 Le annotazioni sul libretto, firmate dall'impiegato della banca che appare addetto al servizio, fanno piena prova nei rapporti tra banca e depositante.
+{: data-comma="2" }
 
 È nullo ogni patto contrario.
+{: data-comma="3" }

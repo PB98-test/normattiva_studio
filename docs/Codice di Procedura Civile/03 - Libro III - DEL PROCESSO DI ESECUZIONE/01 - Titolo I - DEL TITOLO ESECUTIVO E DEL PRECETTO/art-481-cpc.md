@@ -21,5 +21,7 @@ ordine: 619
 # Art. 481 - ***Cessazione dell'efficacia del precetto***
 
 Il precetto diventa inefficace, se nel termine di novanta giorni dalla sua notificazione non è iniziata l'esecuzione.
+{: data-comma="1" }
 
 Se contro il precetto è proposta opposizione, il termine rimane sospeso e riprende a decorrere a norma dell'[articolo 627](../07%20-%20Titolo%20VI%20-%20DELLA%20SOSPENSIONE%20E%20DELL%27ESTINZIONE%20DEL%20PROCESSO/01%20-%20Capo%20I%20-%20Della%20sospensione%20del%20processo/art-627-cpc.md).
+{: data-comma="2" }

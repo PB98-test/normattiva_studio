@@ -21,5 +21,7 @@ ordine: 1595
 # Art. 1488 - ***Effetti dell'esclusione della garanzia***
 
 Quando è esclusa la garanzia, non si applicano le disposizioni degli [articoli 1479](art-1479-cc.md) e [1480](art-1480-cc.md); se si verifica l'evizione, il compratore può pretendere dal venditore soltanto la restituzione del prezzo pagato e il rimborso delle spese.
+{: data-comma="1" }
 
 Il venditore è esente anche da quest'obbligo quando la vendita è stata convenuta a rischio e pericolo del compratore.
+{: data-comma="2" }

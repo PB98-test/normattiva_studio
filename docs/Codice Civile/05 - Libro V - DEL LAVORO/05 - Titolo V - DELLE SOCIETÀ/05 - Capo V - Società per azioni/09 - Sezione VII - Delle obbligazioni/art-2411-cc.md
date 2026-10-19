@@ -21,7 +21,10 @@ ordine: 2596
 # Art. 2411 - ***Diritti degli obbligazionisti***
 
 Il diritto degli obbligazionisti alla restituzione del capitale ed agli interessi può essere, in tutto o in parte, subordinato alla soddisfazione dei diritti di altri creditori della società.
+{: data-comma="1" }
 
 I tempi e l'entità del pagamento degli interessi possono variare in dipendenza di parametri oggettivi anche relativi all'andamento economico della società.
+{: data-comma="2" }
 
 La disciplina della presente sezione si applica inoltre agli strumenti finanziari, comunque denominati, che condizionano i tempi e l'entità del rimborso del capitale all'andamento economico della società.
+{: data-comma="3" }

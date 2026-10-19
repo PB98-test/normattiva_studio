@@ -21,7 +21,10 @@ ordine: 1135
 # Art. 1040 - ***Uso dell'acquedotto***
 
 Chi possiede un acquedotto nel fondo altrui non può immettervi maggiore quantità d'acqua, se l'acquedotto non ne è capace o ne può venir danno al fondo servente.
+{: data-comma="1" }
 
 Se l'introduzione di una maggior quantità d'acqua esige nuove opere, queste non possono farsi, se prima non se ne determinano la natura e la qualità e non si paga la somma dovuta per il suolo da occupare e per i danni nel modo stabilito dall'[art. 1038](art-1038-cc.md).
+{: data-comma="2" }
 
 La stessa disposizioni si applica anche quando per il passaggio attraverso un acquedotto occorre sostituire una tomba a un ponte-canale o viceversa.
+{: data-comma="3" }

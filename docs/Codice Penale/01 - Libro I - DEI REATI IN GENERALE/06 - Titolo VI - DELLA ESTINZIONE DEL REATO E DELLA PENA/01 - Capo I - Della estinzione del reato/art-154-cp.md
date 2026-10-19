@@ -21,5 +21,7 @@ ordine: 169
 # Art. 154 - ***Più querelanti: remissione di uno solo***
 
 Se la querela è stata proposta da più persone, il reato non si estingue se non interviene la remissione di tutti i querelanti.
+{: data-comma="1" }
 
 Se tra più persone offese da un reato taluna soltanto ha proposto querela, la remissione, che questa ha fatto, non pregiudica il diritto di querela delle altre.
+{: data-comma="2" }

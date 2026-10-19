@@ -21,5 +21,7 @@ ordine: 2205
 # Art. 2084 - ***Condizioni per l'esercizio dell'impresa***
 
 La legge determina le categorie d'imprese il cui esercizio è subordinato a concessione o autorizzazione amministrativa.
+{: data-comma="1" }
 
 Le altre condizioni per l'esercizio delle diverse categorie d'imprese sono stabilite dalla legge e dalle norme corporative.
+{: data-comma="2" }

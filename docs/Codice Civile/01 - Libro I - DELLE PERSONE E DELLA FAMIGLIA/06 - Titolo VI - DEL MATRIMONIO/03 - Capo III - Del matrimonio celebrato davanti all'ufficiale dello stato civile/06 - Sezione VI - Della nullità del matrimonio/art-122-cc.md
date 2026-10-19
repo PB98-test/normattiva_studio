@@ -21,10 +21,13 @@ ordine: 154
 # Art. 122 - ***Violenza ed errore.***
 
 Il matrimonio può essere impugnato da quello dei coniugi il cui consenso è stato estorto con violenza o determinato da timore di eccezionale gravità derivante da cause esterne allo sposo.
+{: data-comma="1" }
 
 Il matrimonio può altresì essere impugnato da quello dei coniugi il cui consenso è stato dato per effetto di errore sull'identità della persona o di errore essenziale su qualità personali dell'altro coniuge.
+{: data-comma="2" }
 
 L'errore sulle qualità personali è essenziale qualora, tenute presenti le condizioni dell'altro coniuge, si accerti che lo stesso non avrebbe prestato il suo consenso se le avesse esattamente conosciute e purchè l'errore riguardi:
+{: data-comma="3" }
 
 - 1) l'esistenza di una malattia fisica o psichica o di una anomalia o deviazione sessuale, tali da impedire lo svolgimento della vita coniugale;
 - 2) l'esistenza di una sentenza di condanna per delitto non colposo alla reclusione non inferiore a cinque anni, salvo il caso di intervenuta riabilitazione prima della celebrazione del matrimonio. L'azione di annullamento non può essere proposta prima che la sentenza sia divenuta irrevocabile;
@@ -33,3 +36,4 @@ L'errore sulle qualità personali è essenziale qualora, tenute presenti le cond
 - 5) lo stato di gravidanza causato da persona diversa dal soggetto caduto in errore, purchè vi sia stato disconoscimento ai sensi dell'[articolo 233](../../../07%20-%20Titolo%20VII%20-%20DELLO%20STATO%20DI%20FIGLIO/01%20-%20Capo%20I%20-%20Della%20presunzione%20di%20paternità/art-233-cc.md), se la gravidanza è stata portata a termine.
 
 L'azione non può essere proposta se vi è stata coabitazione per un anno dopo che siano cessate la violenza o le cause che hanno determinato il timore ovvero sia stato scoperto l'errore.
+{: data-comma="4" }

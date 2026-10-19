@@ -21,5 +21,7 @@ ordine: 1517
 # Art. 1415 - ***Effetti della simulazione rispetto ai terzi***
 
 La simulazione non può essere opposta nè dalle parti contraenti, nè dagli aventi causa o dai creditori del simulato alienante, ai terzi che in buona fede hanno acquistato diritti dal titolare apparente, salvi gli effetti della trascrizione della domanda di simulazione.
+{: data-comma="1" }
 
 I terzi possono far valere la simulazione in confronto delle parti, quando essa pregiudica i loro diritti.
+{: data-comma="2" }

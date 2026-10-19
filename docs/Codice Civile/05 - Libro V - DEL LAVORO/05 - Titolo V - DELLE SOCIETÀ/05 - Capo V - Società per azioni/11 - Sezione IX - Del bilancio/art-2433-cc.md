@@ -21,9 +21,13 @@ ordine: 2628
 # Art. 2433 - ***Distribuzione degli utili ai soci***
 
 La deliberazione sulla distribuzione degli utili è adottata dall'assemblea che approva il bilancio ovvero, qualora il bilancio sia approvato dal consiglio di sorveglianza, dall'assemblea convocata a norma dell'[articolo 2364-bis](../07%20-%20Sezione%20VI%20-%20Dell%27assemblea/art-2364-bis-cc.md), secondo comma.
+{: data-comma="1" }
 
 Non possono essere pagati dividendi sulle azioni, se non per utili realmente conseguiti e risultanti dal bilancio regolarmente approvato.
+{: data-comma="2" }
 
 Se si verifica una perdita del capitale sociale, non può farsi luogo a ripartizione di utili fino a che il capitale non sia reintegrato o ridotto in misura corrispondente.
+{: data-comma="3" }
 
 I dividendi erogati in violazione delle disposizioni del presente articolo non sono ripetibili, se i soci li hanno riscossi in buona fede in base a bilancio regolarmente approvato, da cui risultano utili netti corrispondenti.
+{: data-comma="4" }

@@ -21,5 +21,7 @@ ordine: 822
 # Art. 735 - ***Preterizione di eredi e lesione di legittima***
 
 La divisione nella quale il testatore non abbia compreso qualcuno dei legittimari o degli eredi istituiti è nulla.
+{: data-comma="1" }
 
 Il coerede che è stato leso nella quota di riserva può esercitare l'azione di riduzione contro gli altri coeredi.
+{: data-comma="2" }

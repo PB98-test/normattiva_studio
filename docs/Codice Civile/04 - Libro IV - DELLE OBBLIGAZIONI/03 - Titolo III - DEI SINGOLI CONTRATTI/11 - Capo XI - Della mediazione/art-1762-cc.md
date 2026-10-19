@@ -21,5 +21,7 @@ ordine: 1879
 # Art. 1762 - ***Contraente non nominato***
 
 Il mediatore che non manifesta a un contraente il nome dell'altro risponde dell'esecuzione del contratto e, quando lo ha eseguito, subentra nei diritti verso il contraente non nominato.
+{: data-comma="1" }
 
 Se dopo la conclusione del contratto il contraente non nominato si manifesta all'altra parte o è nominato dal mediatore, ciascuno dei contraenti può agire direttamente contro l'altro, ferma restando la responsabilità del mediatore.
+{: data-comma="2" }

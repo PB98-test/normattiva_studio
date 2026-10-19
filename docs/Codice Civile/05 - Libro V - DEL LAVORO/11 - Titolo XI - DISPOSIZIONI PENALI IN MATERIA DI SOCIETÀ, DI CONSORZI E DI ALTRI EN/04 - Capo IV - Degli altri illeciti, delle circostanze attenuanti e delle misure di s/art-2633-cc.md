@@ -21,5 +21,7 @@ ordine: 2930
 # Art. 2633 - ***Indebita ripartizione dei beni sociali da parte dei liquidatori***
 
 I liquidatori che, ripartendo i beni sociali tra i soci prima del pagamento dei creditori sociali o dell'accantonamento delle somme necessario a soddisfarli, cagionano danno ai creditori, sono puniti, a querela della persona offesa, con la reclusione da sei mesi a tre anni.
+{: data-comma="1" }
 
 Il risarcimento del danno ai creditori prima del giudizio estingue il reato.
+{: data-comma="2" }

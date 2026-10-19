@@ -21,5 +21,7 @@ ordine: 310
 # Art. 265 - ***Impugnazione per violenza***
 
 Il riconoscimento può essere impugnato per violenza dall'autore del riconoscimento entro un anno dal giorno in cui la violenza è cessata.
+{: data-comma="1" }
 
 Se l'autore del riconoscimento è minore, l'azione può essere promossa entro un anno dal conseguimento dell'età maggiore.
+{: data-comma="2" }

@@ -21,7 +21,10 @@ ordine: 2477
 # Art. 2347 - ***Indivisibilità delle azioni***
 
 Le azioni sono indivisibili. Nel caso di comproprietà di un'azione, i diritti dei comproprietari devono essere esercitati da un rappresentante comune nominato secondo le modalità previste dagli [articoli 1105](../../../../03%20-%20Libro%20III%20-%20DELLA%20PROPRIETÀ/07%20-%20Titolo%20VII%20-%20DELLA%20COMUNIONE/01%20-%20Capo%20I%20-%20Della%20comunione%20in%20generale/art-1105-cc.md) e [1106](../../../../03%20-%20Libro%20III%20-%20DELLA%20PROPRIETÀ/07%20-%20Titolo%20VII%20-%20DELLA%20COMUNIONE/01%20-%20Capo%20I%20-%20Della%20comunione%20in%20generale/art-1106-cc.md).
+{: data-comma="1" }
 
 Se il rappresentante comune non è stato nominato, le comunicazioni e le dichiarazioni fatte dalla società a uno dei comproprietari sono efficaci nei confronti di tutti.
+{: data-comma="2" }
 
 I comproprietari dell'azione rispondono solidalmente delle obbligazioni da essa derivanti.
+{: data-comma="3" }

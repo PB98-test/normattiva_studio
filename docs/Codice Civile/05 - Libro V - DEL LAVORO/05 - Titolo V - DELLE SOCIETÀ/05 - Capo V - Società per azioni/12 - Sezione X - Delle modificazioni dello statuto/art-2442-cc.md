@@ -21,7 +21,10 @@ ordine: 2647
 # Art. 2442 - ***Passaggio di riserve a capitale***
 
 L'assemblea può aumentare il capitale, imputando a capitale le riserve e gli altri fondi iscritti in bilancio in quanto disponibili.
+{: data-comma="1" }
 
 In questo caso le azioni di nuova emissione devono avere le stesse caratteristiche di quelle in circolazione, e devono essere assegnate gratuitamente agli azionisti in proporzione di quelle da essi già possedute.
+{: data-comma="2" }
 
 L'aumento di capitale può attuarsi anche mediante aumento del valore nominale delle azioni in circolazione.
+{: data-comma="3" }

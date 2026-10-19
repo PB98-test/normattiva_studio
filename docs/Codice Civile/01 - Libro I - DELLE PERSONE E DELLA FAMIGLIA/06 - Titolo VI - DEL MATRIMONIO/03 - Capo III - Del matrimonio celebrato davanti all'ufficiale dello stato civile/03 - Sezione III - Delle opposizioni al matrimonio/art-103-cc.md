@@ -21,5 +21,7 @@ ordine: 135
 # Art. 103 - ***Atto di opposizione***
 
 L'atto di opposizione deve dichiarare la qualità che attribuisce all'opponente il diritto di farla, le cause dell'opposizione, e contenere l'elezione di domicilio nel comune dove siede il tribunale nel cui territorio si deve celebrare il matrimonio.
+{: data-comma="1" }
 
 COMMA ABROGATO DAL D.P.R. 3 NOVEMBRE 2000, N. 396.
+{: data-comma="2" }

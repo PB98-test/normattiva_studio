@@ -21,6 +21,7 @@ ordine: 2955
 # Art. 2653 - ***Altre domande e atti soggetti a trascrizione a diversi effetti***
 
 Devono parimenti essere trascritti:
+{: data-comma="1" }
 
 - 1) le domande dirette a rivendicare la proprietà o altri diritti reali di godimento su beni immobili e le domande dirette all'accertamento dei diritti stessi.   La sentenza pronunziata contro il convenuto indicato nella trascrizione della domanda ha effetto anche contro coloro che hanno acquistato diritti dal medesimo in base a un atto trascritto dopo la trascrizione della domanda;
 - 2) la domanda di devoluzione del fondo enfiteutico.   La pronunzia di devoluzione ha effetto anche nei confronti di coloro che hanno acquistato diritti dall'enfiteuta in base a un atto trascritto posteriormente alla trascrizione della domanda;
@@ -29,3 +30,4 @@ Devono parimenti essere trascritti:
 - 5) gli atti e le domande che interrompono il corso dell'usucapione di beni immobili.   L'interruzione non ha effetto riguardo ai terzi che hanno acquistato diritti dal possessore in base a un atto trascritto o iscritto, se non dalla data della trascrizione dell'atto o della domanda.
 
 Alla domanda giudiziale è equiparato l'atto notificato con il quale la parte, in presenza di compromesso o di clausola compromissoria, dichiara all'altra la propria intenzione di promuovere il procedimento arbitrale, propone la domanda e procede, per quanto le spetta, alla nomina degli arbitri.
+{: data-comma="2" }

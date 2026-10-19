@@ -21,5 +21,7 @@ ordine: 345
 # Art. 300 - ***Diritti e dovevi dell'adottato***
 
 L'adottato conserva tutti i diritti e i doveri verso la sua famiglia di origine, salve le eccezioni stabilite dalla legge.
+{: data-comma="1" }
 
 L'adozione non induce alcun rapporto civile tra l'adottante e la famiglia dell'adottato nè tra l'adottato e i parenti dell'adottante, salve le eccezioni stabilite dalla legge.
+{: data-comma="2" }

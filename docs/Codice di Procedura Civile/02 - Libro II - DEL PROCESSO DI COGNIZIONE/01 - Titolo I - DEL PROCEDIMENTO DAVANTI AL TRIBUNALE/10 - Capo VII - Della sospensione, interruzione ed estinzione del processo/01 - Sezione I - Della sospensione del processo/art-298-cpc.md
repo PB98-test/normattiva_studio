@@ -21,5 +21,7 @@ ordine: 336
 # Art. 298 - ***Effetti della sospensione***
 
 Durante la sospensione non possono essere compiuti atti del procedimento.
+{: data-comma="1" }
 
 La sospensione interrompe i termini in corso, i quali ricominciano a decorrere dal giorno della nuova udienza fissata nel provvedimento di sospensione o nel decreto di cui all'articolo precedente.
+{: data-comma="2" }

@@ -21,7 +21,10 @@ ordine: 1045
 # Art. 950 - ***Azione di regolamento di confini***
 
 Quando il confine tra due fondi è incerto, ciascuno dei proprietari può chiedere che sia stabilito giudizialmente.
+{: data-comma="1" }
 
 Ogni mezzo di prova è ammesso.
+{: data-comma="2" }
 
 In mancanza di altri elementi, il giudice si attiene al confine delineato dalle mappe catastali.
+{: data-comma="3" }

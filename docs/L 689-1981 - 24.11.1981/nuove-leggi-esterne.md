@@ -5,13 +5,12 @@ search:
 
 # Leggi citate da L 689-1981 - 24.11.1981 ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di L 689-1981 - 24.11.1981 — 63 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di L 689-1981 - 24.11.1981 — 62 leggi trovate)*
 
 - [legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283)
 - [testo unico delle norme sulla circolazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-01-18;54)
 - [decreto del Presidente della Repubblica 15 giugno 1959, n. 393](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-06-15;393)
 - [D.Lgs. 10 agosto 2018, n. 101](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2018-08-10;101)
-- [articoli 161](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2003-06-30;196)
 - [regio decreto 8 dicembre 1933, numero 1740](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regiodecreto:1933-12-08;1740)
 - [legge 20 giugno 1935, numero 1349](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-06-20;1349)
 - [decreto del Presidente della Repubblica 13 maggio 1976, n. 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-05-13;407)

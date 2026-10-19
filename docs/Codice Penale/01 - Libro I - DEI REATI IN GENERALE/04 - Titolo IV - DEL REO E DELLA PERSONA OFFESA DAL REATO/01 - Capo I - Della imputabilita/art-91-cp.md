@@ -21,5 +21,7 @@ ordine: 103
 # Art. 91 - ***Ubriachezza derivata da caso fortuito o da forza maggiore***
 
 Non è imputabile chi, nel momento in cui ha commesso il fatto, non aveva la capacità d'intendere o di volere, a cagione di piena ubriachezza derivata da caso fortuito o da forza maggiore.
+{: data-comma="1" }
 
 Se l'ubriachezza non era piena, ma era tuttavia tale da scemare grandemente, senza escluderla, la capacità d'intendere o di volere, la pena è diminuita.
+{: data-comma="2" }

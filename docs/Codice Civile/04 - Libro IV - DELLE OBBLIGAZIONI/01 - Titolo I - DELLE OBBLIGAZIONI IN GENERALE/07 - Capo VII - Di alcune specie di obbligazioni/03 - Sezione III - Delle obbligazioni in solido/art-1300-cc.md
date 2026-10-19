@@ -21,5 +21,7 @@ ordine: 1402
 # Art. 1300 - ***Novazione***
 
 La novazione tra il creditore e uno dei debitori in solido libera gli altri debitori. Qualora però si sia voluto limitare la novazione a uno solo dei debitori, gli altri non sono liberati che per la parte di quest'ultimo.
+{: data-comma="1" }
 
 Se convenuta tra uno dei creditori in solido e il debitore, la novazione ha effetto verso gli altri creditori solo per la parte del primo.
+{: data-comma="2" }

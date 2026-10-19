@@ -21,5 +21,7 @@ ordine: 3114
 # Art. 2805 - ***Eccezioni opponibili dal debitore del credito dato in pegno***
 
 Il debitore del credito dato in pegno può opporre al creditore pignoratizio le eccezioni che gli spetterebbero contro il proprio creditore.
+{: data-comma="1" }
 
 Se il debitore medesimo ha accettato senza riserve la costituzione del pegno, non può opporre al creditore pignoratizio la compensazione verificatasi anteriormente.
+{: data-comma="2" }

@@ -14,7 +14,7 @@ capo_label: "MISURE ALTERNATIVE ALLA DETENZIONE E REMISSIONE DEL DEBITO"
 sezione: null
 sezione_label: null
 rubrica: "Detenzione domiciliare speciale"
-dataVigenza: "20260930"
+dataVigenza: "20261016"
 ordine: 73
 ---
 
@@ -26,7 +26,7 @@ ordine: 73
 
 2\. Per la condannata nei cui confronti è disposta la detenzione domiciliare speciale, nessun onere grava sull'amministrazione penitenziaria per il mantenimento, la cura e l'assistenza medica della condannata che si trovi in detenzione domiciliare speciale.
 
-3\. Il tribunale di sorveglianza, nel disporre la detenzione domiciliare speciale, fissa le modalità di attuazione, secondo quanto stabilito dall'[articolo 284, comma 2, del codice di procedura penale](../../../Codice%20di%20Procedura%20Penale/04%20-%20Libro%20IV%20-%20MISURE%20CAUTELARI/01%20-%20Titolo%20I%20-%20MISURE%20CAUTELARI%20PERSONALI/02%20-%20Capo%20II%20-%20MISURE%20COERCITIVE/art-284-cpp.md), precisa il periodo di tempo che la persona può trascorrere all'esterno del proprio domicilio, detta le prescrizioni relative agli interventi del servizio sociale. Tali prescrizioni e disposizioni possono essere modificate dal magistrato di sorveglianza competente per il luogo in cui si svolge la misura. Si applica l'[articolo 284, comma 4, del codice di procedura penale](../../../Codice%20di%20Procedura%20Penale/04%20-%20Libro%20IV%20-%20MISURE%20CAUTELARI/01%20-%20Titolo%20I%20-%20MISURE%20CAUTELARI%20PERSONALI/02%20-%20Capo%20II%20-%20MISURE%20COERCITIVE/art-284-cpp.md).[^agg-111]
+3\. Il tribunale di sorveglianza, nel disporre la detenzione domiciliare speciale, fissa le modalità di attuazione, secondo quanto stabilito dall'[articolo 284, comma 2, del codice di procedura penale](../../../Codice%20di%20Procedura%20Penale/01%20-%20Parte%20I/04%20-%20Libro%20IV%20-%20MISURE%20CAUTELARI/01%20-%20Titolo%20I%20-%20MISURE%20CAUTELARI%20PERSONALI/02%20-%20Capo%20II%20-%20MISURE%20COERCITIVE/art-284-cpp.md), precisa il periodo di tempo che la persona può trascorrere all'esterno del proprio domicilio, detta le prescrizioni relative agli interventi del servizio sociale. Tali prescrizioni e disposizioni possono essere modificate dal magistrato di sorveglianza competente per il luogo in cui si svolge la misura. Si applica l'[articolo 284, comma 4, del codice di procedura penale](../../../Codice%20di%20Procedura%20Penale/01%20-%20Parte%20I/04%20-%20Libro%20IV%20-%20MISURE%20CAUTELARI/01%20-%20Titolo%20I%20-%20MISURE%20CAUTELARI%20PERSONALI/02%20-%20Capo%20II%20-%20MISURE%20COERCITIVE/art-284-cpp.md).[^agg-111]
 
 4\. All'atto della scarcerazione è redatto verbale in cui sono dettate le prescrizioni che il soggetto deve seguire nei rapporti con il servizio sociale.
 

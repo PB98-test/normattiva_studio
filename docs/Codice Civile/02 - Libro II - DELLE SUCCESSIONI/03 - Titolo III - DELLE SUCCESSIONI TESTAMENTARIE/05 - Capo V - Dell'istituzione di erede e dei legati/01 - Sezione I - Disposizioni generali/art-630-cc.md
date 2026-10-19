@@ -21,5 +21,7 @@ ordine: 717
 # Art. 630 - ***Disposizioni a favore dei poveri***
 
 Le disposizioni a favore dei poveri e altre simili, espresse genericamente, senza che si determini l'uso o il pubblico istituto a cui beneficio sono fatte, s'intendono fatte in favore dei poveri del luogo in cui il testatore aveva il domicilio al tempo della sua morte, e i beni sono devoluti all'ente comunale di assistenza.
+{: data-comma="1" }
 
 La precedente disposizione si applica anche quando la persona incaricata dal testatore di determinare l'uso o il pubblico istituto non può o non vuole accettare l'incarico.
+{: data-comma="2" }

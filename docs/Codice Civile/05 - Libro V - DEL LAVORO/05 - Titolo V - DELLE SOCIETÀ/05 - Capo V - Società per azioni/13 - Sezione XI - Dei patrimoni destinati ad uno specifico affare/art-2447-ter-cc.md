@@ -21,6 +21,7 @@ ordine: 2654
 # Art. 2447-ter - ***Deliberazione costitutiva del patrimonio destinato***
 
 La deliberazione che ai sensi della lettera
+{: data-comma="1" }
 
 - a) del primo comma dell'[articolo 2447-bis](art-2447-bis-cc.md) destina un patrimonio ad uno specifico affare deve indicare:   a) l'affare al quale è destinato il patrimonio;
 - b) i beni e i rapporti giuridici compresi in tale patrimonio;
@@ -30,3 +31,4 @@ La deliberazione che ai sensi della lettera
 - g) le regole di rendicontazione dello specifico affare.
 
 Salvo diversa disposizione dello statuto, la deliberazione di cui al presente articolo è adottata dall'organo amministrativo a maggioranza assoluta dei suoi componenti.
+{: data-comma="2" }

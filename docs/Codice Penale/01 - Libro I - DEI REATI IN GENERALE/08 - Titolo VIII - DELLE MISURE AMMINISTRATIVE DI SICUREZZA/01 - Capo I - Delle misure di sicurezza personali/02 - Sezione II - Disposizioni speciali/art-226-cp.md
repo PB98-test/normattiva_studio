@@ -21,5 +21,7 @@ ordine: 248
 # Art. 226 - ***Minore delinquente abituale, professionale o per tendenza***
 
 Il ricovero in un riformatorio giudiziario è sempre ordinato per il minore degli anni diciotto, che sia delinquente abituale o professionale, ovvero delinquente per tendenza; e non può avere durata inferiore a tre anni. Quando egli ha compiuto gli anni ventuno, il giudice ne ordina l'assegnazione a una colonia agricola o ad una casa di lavoro.
+{: data-comma="1" }
 
 La legge determina gli altri casi nei quali deve essere ordinato il ricovero del minore in un riformatorio giudiziario.
+{: data-comma="2" }

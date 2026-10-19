@@ -21,7 +21,10 @@ ordine: 990
 # Art. 896 - ***Recisione di rami protesi e di radici***
 
 Quegli sul cui fondo si protendono i rami degli alberi del vicino può in qualunque tempo costringerlo a tagliarli, e può egli stesso tagliare le radici che si addentrano nel suo fondo, salvi però in ambedue i casi i regolamenti e gli usi locali.
+{: data-comma="1" }
 
 Se gli usi locali non dispongono diversamente, i frutti naturalmente caduti dai rami protesi sul fondo del vicino appartengono al proprietario del fondo su cui sono caduti.
+{: data-comma="2" }
 
 Se a norma degli usi locali i frutti appartengono al proprietario dell'albero, per la raccolta di essi si applica il disposto dell'[art. 843](../01%20-%20Sezione%20I%20-%20Disposizioni%20generali/art-843-cc.md).
+{: data-comma="3" }

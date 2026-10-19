@@ -21,5 +21,7 @@ ordine: 1020
 # Art. 925 - ***Animali mansuefatti***
 
 Gli animali mansuefatti possono essere inseguiti dal proprietario nel fondo altrui, salvo il diritto del proprietario del fondo a indennità per il danno.
+{: data-comma="1" }
 
 Essi appartengono a chi se ne è impossessato, se non sono reclamati entro venti giorni da quando il proprietario ha avuto conoscenza del luogo dove si trovano.
+{: data-comma="2" }

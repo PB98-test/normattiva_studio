@@ -21,5 +21,7 @@ ordine: 1585
 # Art. 1478 - ***Vendita di cosa altrui***
 
 Se al momento del contratto la cosa venduta non era di proprietà del venditore, questi è obbligato a procurarne l'acquisto al compratore.
+{: data-comma="1" }
 
 Il compratore diventa proprietario nel momento in cui il venditore acquista la proprietà dal titolare di essa.
+{: data-comma="2" }

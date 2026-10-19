@@ -21,7 +21,10 @@ ordine: 42
 # Art. 39 - ***Litispendenza e continenza di cause***
 
 Se una stessa causa è proposta davanti a giudici diversi, quello successivamente adito, in qualunque stato e grado del processo, anche d'ufficio, dichiara con ordinanza la litispendenza e dispone la cancellazione della causa dal ruolo.
+{: data-comma="1" }
 
 Nel caso di continenza di cause, se il giudice preventivamente adito è competente anche per la causa proposta successivamente, il giudice di questa dichiara con ordinanza la continenza e fissa un termine perentorio entro il quale le parti debbono riassumere la causa davanti al primo giudice. Se questi non è competente anche per la causa successivamente proposta, la dichiarazione della continenza e la fissazione del termine sono da lui pronunciate.
+{: data-comma="2" }
 
 La prevenzione è determinata dalla notificazione della citazione ovvero dal deposito del ricorso.
+{: data-comma="3" }

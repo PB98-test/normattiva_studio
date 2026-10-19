@@ -21,5 +21,7 @@ ordine: 16
 # Art. 16-preleggi - ***Trattamento dello straniero***
 
 Lo straniero è ammesso a godere dei diritti civili attribuiti al cittadino a condizione di reciprocità e salve le disposizioni contenute in leggi speciali.
+{: data-comma="1" }
 
 Questa disposizione vale anche per le persone giuridiche straniere.
+{: data-comma="2" }

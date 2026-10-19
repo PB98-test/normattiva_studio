@@ -21,7 +21,10 @@ ordine: 2625
 # Art. 2430 - ***Riserva legale***
 
 Dagli utili netti annuali deve essere dedotta una somma corrispondente almeno alla ventesima parte di essi per costituire una riserva, fino a che questa non abbia raggiunto il quinto del capitale sociale.
+{: data-comma="1" }
 
 La riserva deve essere reintegrata a norma del comma precedente se viene diminuita per qualsiasi ragione.
+{: data-comma="2" }
 
 Sono salve le disposizioni delle leggi speciali.
+{: data-comma="3" }

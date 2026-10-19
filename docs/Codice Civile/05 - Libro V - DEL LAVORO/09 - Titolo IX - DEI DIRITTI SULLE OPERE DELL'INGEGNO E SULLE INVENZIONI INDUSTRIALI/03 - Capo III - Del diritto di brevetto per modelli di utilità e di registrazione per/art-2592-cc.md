@@ -21,5 +21,7 @@ ordine: 2883
 # Art. 2592 - ***Modelli di utilità***
 
 Chi, in conformità della legge, ha ottenuto un brevetto per un'invenzione atta a conferire a macchine o parti di esse, strumenti, utensili od oggetti particolare efficacia o comodità di applicazione o d'impiego, ha il diritto esclusivo di attuare l'invenzione, di disporne e di fare commercio dei prodotti a cui si riferisce.
+{: data-comma="1" }
 
 Il brevetto per le macchine nel loro complesso non comprende la protezione delle singole parti.
+{: data-comma="2" }

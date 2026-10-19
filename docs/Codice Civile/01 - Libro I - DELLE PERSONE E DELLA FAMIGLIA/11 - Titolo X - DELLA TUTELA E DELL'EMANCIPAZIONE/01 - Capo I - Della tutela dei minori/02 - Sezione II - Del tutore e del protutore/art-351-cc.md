@@ -21,6 +21,7 @@ ordine: 436
 # Art. 351 - ***Dispensa dall'ufficio tutelare***
 
 Sono dispensati dall'ufficio di tutore:
+{: data-comma="1" }
 
 - 1) i Principi della Famiglia Reale, salve le disposizioni che regolano la tutela dei Principi della stessa Famiglia;
 - 2) il Primo Ministro, Capo del Governo;
@@ -29,3 +30,4 @@ Sono dispensati dall'ufficio di tutore:
 - 5) i Ministri Segretari di Stato.
 
 Le persone indicate nei numeri 2, 3, 4 e 5 possono far noto al giudice tutelare che non intendono valersi della dispensa.
+{: data-comma="2" }

@@ -21,7 +21,10 @@ ordine: 2535
 # Art. 2389 - ***Compensi degli amministratori***
 
 Salvo diversa disposizione dello statuto, i compensi sono stabiliti all'atto della nomina dall'organo per essa competente.
+{: data-comma="1" }
 
 Essi possono essere costituiti in tutto o in parte da partecipazioni agli utili o dall'attribuzione del diritto di sottoscrivere a prezzo predeterminato azioni di futura emissione.
+{: data-comma="2" }
 
 La remunerazione degli amministratori investiti di particolari cariche in conformità dello statuto è stabilita dal consiglio, sentito il parere dell'organo di controllo. Se lo statuto lo prevede, l'assemblea può determinare un importo complessivo per la remunerazione di tutti gli amministratori, inclusi quelli investiti di particolari cariche.
+{: data-comma="3" }

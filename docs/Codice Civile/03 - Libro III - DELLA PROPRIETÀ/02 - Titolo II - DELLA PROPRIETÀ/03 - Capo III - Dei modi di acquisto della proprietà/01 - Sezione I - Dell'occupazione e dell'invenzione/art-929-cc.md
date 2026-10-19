@@ -21,5 +21,7 @@ ordine: 1024
 # Art. 929 - ***Acquisto di proprietà della cosa ritrovata***
 
 Trascorso un anno dall'ultimo giorno della pubblicazione senza che si presenti il proprietario, la cosa oppure il suo prezzo, se le circostanze ne hanno richiesto la vendita, appartiene a chi l'ha trovata.
+{: data-comma="1" }
 
 Così il proprietario come il ritrovatore, riprendendo la cosa o ricevendo il prezzo, devono pagare le spese occorse.
+{: data-comma="2" }

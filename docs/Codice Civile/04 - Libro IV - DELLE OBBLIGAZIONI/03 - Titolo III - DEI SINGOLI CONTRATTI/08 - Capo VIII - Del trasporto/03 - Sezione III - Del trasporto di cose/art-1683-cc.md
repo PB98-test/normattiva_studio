@@ -21,7 +21,10 @@ ordine: 1799
 # Art. 1683 - ***Indicazioni e documenti che devono essere forniti al vettore***
 
 Il mittente deve indicare con esattezza al vettore il nome del destinatario e il luogo di destinazione, la natura, il peso, la quantità e il numero delle cose da trasportare e gli altri estremi necessari per eseguire il trasporto.
+{: data-comma="1" }
 
 Se per l'esecuzione del trasporto occorrono particolari documenti, il mittente deve rimetterli al vettore all'atto in cui consegna le cose da trasportare.
+{: data-comma="2" }
 
 Sono a carico del mittente i danni che derivano dall'omissione o dall'inesattezza delle indicazioni o dalla mancata consegna o irregolarità dei documenti.
+{: data-comma="3" }

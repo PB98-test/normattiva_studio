@@ -21,7 +21,10 @@ ordine: 2157
 # Art. 2036 - ***Indebito soggettivo***
 
 Chi ha pagato un debito altrui, credendosi debitore in base a un errore scusabile, può ripetere ciò che ha pagato, sempre che il creditore non si sia privato in buona fede del titolo o delle garanzie del credito.
+{: data-comma="1" }
 
 Chi ha ricevuto l'indebito è anche tenuto a restituire i frutti e gli interessi dal giorno del pagamento, se era in mala fede, o dal giorno della domanda, se era in buona fede.
+{: data-comma="2" }
 
 Quando la ripetizione non è ammessa, colui che ha pagato subentra nei diritti del creditore.
+{: data-comma="3" }

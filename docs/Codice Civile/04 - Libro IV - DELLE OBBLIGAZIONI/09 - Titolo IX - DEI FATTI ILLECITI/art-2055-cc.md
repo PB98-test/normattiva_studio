@@ -21,7 +21,10 @@ ordine: 2176
 # Art. 2055 - ***Responsabilità solidale***
 
 Se il fatto dannoso è imputabile a più persone, tutte sono obbligate in solido al risarcimento del danno.
+{: data-comma="1" }
 
 Colui che ha risarcito il danno ha regresso contro ciascuno degli altri, nella misura determinata dalla gravità della rispettiva colpa e dall'entità delle conseguenze che ne sono derivate.
+{: data-comma="2" }
 
 Nel dubbio, le singole colpe si presumono uguali.
+{: data-comma="3" }

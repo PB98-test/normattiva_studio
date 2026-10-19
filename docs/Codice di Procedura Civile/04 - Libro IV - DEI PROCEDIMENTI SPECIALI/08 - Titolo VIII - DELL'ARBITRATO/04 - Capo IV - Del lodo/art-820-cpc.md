@@ -21,15 +21,19 @@ ordine: 1016
 # Art. 820 - ***Termine per la decisione***
 
 Le parti possono, con la convenzione di arbitrato o con accordo anteriore all'accettazione degli arbitri, fissare un termine per la pronuncia del lodo.
+{: data-comma="1" }
 
 Se non è stato fissato un termine per la pronuncia del lodo, gli arbitri debbono pronunciare il lodo nel termine di duecentoquaranta giorni dall'accettazione della nomina.
+{: data-comma="2" }
 
 In ogni caso il termine può essere prorogato:
+{: data-comma="3" }
 
 - a) mediante dichiarazioni scritte di tutte le parti indirizzate agli arbitri;
 - b) dal presidente del tribunale indicato nell'[articolo 810](../02%20-%20Capo%20II%20-%20Degli%20arbitri/art-810-cpc.md), secondo comma, su istanza motivata di una delle parti o degli arbitri, sentite le altre parti; il termine può essere prorogato solo prima della sua scadenza.
 
 Se le parti non hanno disposto diversamente, il termine è prorogato di centottanta giorni nei casi seguenti e per non più di una volta nell'ambito di ciascuno di essi:
+{: data-comma="4" }
 
 - a) se debbono, essere assunti mezzi di prova;
 - b) se è disposta consulenza tecnica d'ufficio;

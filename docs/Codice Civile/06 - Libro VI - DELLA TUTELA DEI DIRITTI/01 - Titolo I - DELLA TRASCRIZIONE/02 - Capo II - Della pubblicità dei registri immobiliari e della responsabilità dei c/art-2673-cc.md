@@ -21,7 +21,10 @@ ordine: 2977
 # Art. 2673 - ***Obblighi del conservatore***
 
 Il conservatore dei registri immobiliari deve rilasciare a chiunque ne fa richiesta copia delle trascrizioni, delle iscrizioni e delle annotazioni, o il certificato che non ve ne è alcuna.
+{: data-comma="1" }
 
 Deve, altresì, permettere l'ispezione dei suoi registri nei modi e nelle ore fissati dalla legge.
+{: data-comma="2" }
 
 Il conservatore deve anche rilasciare copia dei documenti che sono depositati presso di lui in originale o i cui originali sono depositati negli atti di un notaio o in pubblico archivio fuori della circoscrizione del tribunale nella quale ha sede il suo ufficio.
+{: data-comma="3" }

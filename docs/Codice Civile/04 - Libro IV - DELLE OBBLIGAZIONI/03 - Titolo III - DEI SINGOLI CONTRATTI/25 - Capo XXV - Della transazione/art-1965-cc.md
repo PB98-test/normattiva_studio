@@ -21,5 +21,7 @@ ordine: 2086
 # Art. 1965 - ***Nozione***
 
 La transazione è il contratto col quale le parti, facendosi reciproche concessioni, pongono fine a una lite già incominciata o prevengono una lite che può sorgere tra loro.
+{: data-comma="1" }
 
 Con le reciproche concessioni si possono creare, modificare o estinguere anche rapporti diversi da quello che ha formato oggetto della pretesa e della contestazione delle parti.
+{: data-comma="2" }

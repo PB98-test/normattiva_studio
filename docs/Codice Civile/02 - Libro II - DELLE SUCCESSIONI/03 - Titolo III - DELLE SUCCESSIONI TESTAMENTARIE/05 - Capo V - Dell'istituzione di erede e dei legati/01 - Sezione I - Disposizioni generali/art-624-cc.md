@@ -21,7 +21,10 @@ ordine: 711
 # Art. 624 - ***Violenza, dolo, errore***
 
 La disposizione testamentaria può essere impugnata da chiunque vi abbia interesse quando è l'effetto di errore, di violenza o di dolo.
+{: data-comma="1" }
 
 L'errore sul motivo, sia esso di fatto o di diritto, è causa di annullamento della disposizione testamentaria, quando il motivo risulta dal testamento ed è il solo che ha determinato il testatore a disporre.
+{: data-comma="2" }
 
 L'azione si prescrive in cinque anni dal giorno in cui si è avuta notizia della violenza, del dolo o dell'errore.
+{: data-comma="3" }

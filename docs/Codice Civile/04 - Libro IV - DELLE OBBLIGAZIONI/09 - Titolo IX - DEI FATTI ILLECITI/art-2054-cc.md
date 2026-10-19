@@ -21,11 +21,15 @@ ordine: 2175
 # Art. 2054 - ***Circolazione di veicoli***
 
 Il conducente di un veicolo senza guida di rotaie è obbligato a risarcire il danno prodotto a persone o a cose dalla circolazione del veicolo, se non prova di aver fatto tutto il possibile per evitare il danno.
+{: data-comma="1" }
 
 Nel caso di scontro tra veicoli si presume, fino a prova contraria, che ciascuno dei conducenti abbia concorso ugualmente a produrre il danno subito dai singoli veicoli. [^agg-29]
+{: data-comma="2" }
 
 Il proprietario del veicolo, o, in sua vece, l'usufruttuario o l'acquirente con patto di riservato dominio, è responsabile in solido col conducente, se non prova che la circolazione del veicolo è avvenuta contro la sua volontà.
+{: data-comma="3" }
 
 In ogni caso le persone indicate dai commi precedenti sono responsabili dei danni derivati da vizi di costruzione o da difetto di manutenzione del veicolo.
+{: data-comma="4" }
 
 [^agg-29]: *AGGIORNAMENTO (29)* La Corte Costituzionale, con sentenza 14 - 29 dicembre 1972, n. 205 (in G.U. 1a s.s. 03/03/1973, n. 3), ha dichiarato "l'illegittimità costituzionale dell'[art. 2054, secondo comma, del codice civile](art-2054-cc.md), limitatamente alla parte in cui nel caso di scontro fra veicoli esclude che la presunzione di egual concorso dei conducenti operi anche se uno dei veicoli non abbia riportato danni".

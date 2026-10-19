@@ -21,7 +21,10 @@ ordine: 2339
 # Art. 2217 - ***Redazione dell'inventario***
 
 L'inventario deve redigersi all'inizio dell'esercizio dell'impresa e successivamente ogni anno, e deve contenere l'indicazione e la valutazione delle attività e delle passività relative all'impresa, nonchè delle attività e delle passività dell'imprenditore estranee alla medesima.
+{: data-comma="1" }
 
 L'inventario si chiude con il bilancio e con il conto dei profitti e delle perdite, il quale deve dimostrare con evidenza e verità gli utili conseguiti o le perdite subite. Nelle valutazioni di bilancio l'imprenditore deve attenersi ai criteri stabiliti per i bilanci delle società per azioni, in quanto applicabili.
+{: data-comma="2" }
 
 L'inventario deve essere sottoscritto dall'imprenditore entro tre mesi dal termine per la presentazione della dichiarazione dei redditi ai fini delle imposte dirette.
+{: data-comma="3" }

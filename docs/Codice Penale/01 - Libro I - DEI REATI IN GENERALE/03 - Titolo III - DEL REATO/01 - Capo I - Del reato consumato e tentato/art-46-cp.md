@@ -21,5 +21,7 @@ ordine: 53
 # Art. 46 - ***Costringimento fisico***
 
 Non è punibile chi ha commesso il fatto per esservi stato da altri costretto, mediante violenza fisica alla quale non poteva resistere o comunque sottrarsi.
+{: data-comma="1" }
 
 In tal caso, del fatto commesso dalla persona costretta risponde l'autore della violenza.
+{: data-comma="2" }

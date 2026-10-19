@@ -14,18 +14,20 @@ capo_label: "Dei delitti contro la personalità internazionale dello Stato"
 sezione: null
 sezione_label: null
 rubrica: "Disfattismo politico"
-dataVigenza: "20260914"
+dataVigenza: "20261016"
 ordine: 288
 ---
 
 # Art. 265 - ***Disfattismo politico***
 
 Chiunque, in tempo di guerra, diffonde o comunica voci o notizie false, esagerate o tendenziose, che possano destare pubblico allarme o deprimere lo spirito pubblico o altrimenti menomare la resistenza della nazione di fronte al nemico, o svolge comunque un'attività tale da recare nocumento agli interessi nazionali, è punito con la reclusione non inferiore a cinque anni.
+{: data-comma="1" }
 
 La pena è non inferiore a quindici anni:
+{: data-comma="2" }
 
-1° se il fatto è commesso con propaganda o comunicazioni dirette a militari;
-
-2° se il colpevole ha agito in seguito a intelligenze con lo straniero.
+- 1° se il fatto è commesso con propaganda o comunicazioni dirette a militari;
+- 2° se il colpevole ha agito in seguito a intelligenze con lo straniero.
 
 La pena è dell'ergastolo se il colpevole ha agito in seguito a intelligenze col nemico.
+{: data-comma="3" }

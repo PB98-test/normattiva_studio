@@ -21,7 +21,10 @@ ordine: 1966
 # Art. 1845 - ***Recesso dal contratto***
 
 Salvo patto contrario, la banca non può recedere dal contratto prima della scadenza del termine, se non per giusta causa.
+{: data-comma="1" }
 
 Il recesso sospende immediatamente l'utilizzazione del credito, ma la banca deve concedere un termine di almeno quindici giorni per la restituzione delle somme utilizzate e dei relativi accessori.
+{: data-comma="2" }
 
 Se l'apertura di credito è a tempo indeterminato, ciascuna delle parti può recedere dal contratto, mediante preavviso nel termine stabilito dal contratto, dagli usi o, in mancanza, in quello di quindici giorni.
+{: data-comma="3" }

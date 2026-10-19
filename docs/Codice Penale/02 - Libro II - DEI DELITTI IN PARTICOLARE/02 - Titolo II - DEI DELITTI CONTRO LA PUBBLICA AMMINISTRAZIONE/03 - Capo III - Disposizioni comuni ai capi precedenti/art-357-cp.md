@@ -21,5 +21,7 @@ ordine: 426
 # Art. 357 - ***Nozione del pubblico ufficiale***
 
 Agli effetti della legge penale, sono pubblici ufficiali coloro i quali esercitano una pubblica funzione legislativa, giudiziaria o amministrativa.
+{: data-comma="1" }
 
 Agli stessi effetti è pubblica la funzione amministrativa disciplinata da norme di diritto pubblico e da atti autoritativi e caratterizzata dalla formazione e dalla manifestazione della volontà della pubblica amministrazione o dal suo svolgersi per mezzo di poteri autoritativi o certificativi.
+{: data-comma="2" }

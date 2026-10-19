@@ -21,5 +21,7 @@ ordine: 1003
 # Art. 908 - ***Scarico delle acque piovane***
 
 Il proprietario deve costruire i tetti in maniera che le acque piovane scolino nel suo terreno e non può farle cadere nel fondo del vicino.
+{: data-comma="1" }
 
 Se esistono pubblici colatoi, deve provvedere affinchè le acque piovane vi siano immesse con gronde o canali. Si osservano in ogni caso i regolamenti locali e le leggi sulla polizia idraulica.
+{: data-comma="2" }

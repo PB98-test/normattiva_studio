@@ -21,5 +21,7 @@ ordine: 333
 # Art. 288 - ***Arruolamenti o armamenti non autorizzati a servizio di uno Stato estero***
 
 Chiunque nel territorio dello Stato e senza approvazione del Governo arruola o arma cittadini, perchè militino al servizio o a favore dello straniero, è punito con la reclusione da quattro a quindici anni.
+{: data-comma="1" }
 
 La pena è aumentata se fra gli arruolati sono militari in servizio, o persone tuttora soggette agli obblighi del servizio militare.
+{: data-comma="2" }

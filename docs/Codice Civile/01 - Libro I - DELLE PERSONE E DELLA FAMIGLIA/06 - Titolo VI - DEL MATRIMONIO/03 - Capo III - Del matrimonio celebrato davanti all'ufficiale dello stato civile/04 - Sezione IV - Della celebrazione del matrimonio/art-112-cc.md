@@ -21,7 +21,10 @@ ordine: 144
 # Art. 112 - ***Rifiuto della celebrazione***
 
 L'ufficiale dello stato civile non può rifiutare la celebrazione del matrimonio se non per una causa ammessa dalla legge.
+{: data-comma="1" }
 
 Se la rifiuta, deve rilasciare un certificato con l'indicazione dei motivi.
+{: data-comma="2" }
 
 Contro il rifiuto è dato ricorso al tribunale, che provvede in camera di consiglio, sentito il pubblico ministero.
+{: data-comma="3" }

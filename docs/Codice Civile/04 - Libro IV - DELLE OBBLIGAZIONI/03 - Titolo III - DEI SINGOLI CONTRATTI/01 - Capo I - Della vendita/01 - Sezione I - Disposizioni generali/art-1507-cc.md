@@ -21,7 +21,10 @@ ordine: 1614
 # Art. 1507 - ***Vendita congiuntiva di cosa indivisa***
 
 Se più persone hanno venduto congiuntamente, mediante un solo contratto, una cosa indivisa, ciascuna può esercitare il diritto di riscatto solo sopra la quota che le spettava.
+{: data-comma="1" }
 
 La medesima disposizione si osserva se il venditore ha lasciato più eredi.
+{: data-comma="2" }
 
 Il compratore, nei casi sopra espressi, può esigere che tutti i venditori o tutti i coeredi esercitino congiuntamente il diritto di riscatto dell'intera cosa; se essi non si accordano, il riscatto può esercitarsi soltanto da parte di colui o di coloro che offrono di riscattare la cosa per intero.
+{: data-comma="3" }

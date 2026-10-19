@@ -21,7 +21,10 @@ ordine: 570
 # Art. 483 - ***Impugnazione per errore***
 
 L'accettazione dell'eredità non si può impugnare se è viziata da errore.
+{: data-comma="1" }
 
 Tuttavia, se si scopre un testamento del quale non si aveva notizia al tempo dell'accettazione, l'erede non è tenuto a soddisfare i legati scritti in esso oltre il valore dell'eredità, o con pregiudizio della porzione legittima che gli è dovuta. Se i beni ereditari non bastano a soddisfare tali legati, si riducono proporzionalmente anche i legati scritti in altri testamenti. Se alcuni legatari sono stati già soddisfatti per intero, contro di loro è data azione di regresso.
+{: data-comma="2" }
 
 L'onere di provare il valore dell'eredità incombe all'erede.
+{: data-comma="3" }

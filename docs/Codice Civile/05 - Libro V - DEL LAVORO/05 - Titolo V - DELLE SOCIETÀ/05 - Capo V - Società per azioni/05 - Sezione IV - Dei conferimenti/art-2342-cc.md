@@ -21,11 +21,16 @@ ordine: 2469
 # Art. 2342 - ***Conferimenti***
 
 Se nell'atto costitutivo non è stabilito diversamente, il conferimento deve farsi in danaro.
+{: data-comma="1" }
 
 Alla sottoscrizione dell'atto costitutivo deve essere versato presso una banca almeno il venticinque per cento dei conferimenti in danaro o, nel caso di costituzione con atto unilaterale, il loro intero ammontare.
+{: data-comma="2" }
 
 Per i conferimenti di beni in natura e di crediti si osservano le disposizioni degli [articoli 2254](../../02%20-%20Capo%20II%20-%20Della%20società%20semplice/02%20-%20Sezione%20II%20-%20Dei%20rapporti%20tra%20i%20soci/art-2254-cc.md) e [2255](../../02%20-%20Capo%20II%20-%20Della%20società%20semplice/02%20-%20Sezione%20II%20-%20Dei%20rapporti%20tra%20i%20soci/art-2255-cc.md). Le azioni corrispondenti a tali conferimenti devono essere integralmente liberate al momento della sottoscrizione.
+{: data-comma="3" }
 
 Se viene meno la pluralità dei soci, i versamenti ancora dovuti devono essere effettuati entro novanta giorni.
+{: data-comma="4" }
 
 Non possono formare oggetto di conferimento le prestazioni di opera o di servizi.
+{: data-comma="5" }

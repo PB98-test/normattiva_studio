@@ -21,5 +21,7 @@ ordine: 2436
 # Art. 2314 - ***Ragione sociale***
 
 La società agisce sotto una ragione sociale costituita dal nome di almeno uno dei soci accomandatari, con l'indicazione di società in accomandita semplice, salvo il disposto del secondo comma dell'[art. 2292](../03%20-%20Capo%20III%20-%20Della%20società%20in%20nome%20collettivo/art-2292-cc.md).
+{: data-comma="1" }
 
 L'accomandante, il quale consente che il suo nome sia compreso nella ragione sociale, risponde di fronte ai terzi illimitatamente e solidalmente con i soci accomandatari per le obbligazioni sociali.
+{: data-comma="2" }

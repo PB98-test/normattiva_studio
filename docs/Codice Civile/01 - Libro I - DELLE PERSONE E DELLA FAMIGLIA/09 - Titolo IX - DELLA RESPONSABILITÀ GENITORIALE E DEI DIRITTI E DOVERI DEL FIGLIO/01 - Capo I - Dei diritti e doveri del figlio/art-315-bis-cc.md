@@ -21,9 +21,13 @@ ordine: 388
 # Art. 315-bis - ***Diritti e doveri del figlio***
 
 Il figlio ha diritto di essere mantenuto, educato, istruito e assistito moralmente dai genitori, nel rispetto delle sue capacità, delle sue inclinazioni naturali e delle sue aspirazioni.
+{: data-comma="1" }
 
 Il figlio ha diritto di crescere in famiglia e di mantenere rapporti significativi con i parenti.
+{: data-comma="2" }
 
 Il figlio minore che abbia compiuto gli anni dodici, e anche di età inferiore ove capace di discernimento, ha diritto di essere ascoltato in tutte le questioni e le procedure che lo riguardano.
+{: data-comma="3" }
 
 Il figlio deve rispettare i genitori e deve contribuire, in relazione alle proprie capacità, alle proprie sostanze e al proprio reddito, al mantenimento della famiglia finchè convive con essa.
+{: data-comma="4" }

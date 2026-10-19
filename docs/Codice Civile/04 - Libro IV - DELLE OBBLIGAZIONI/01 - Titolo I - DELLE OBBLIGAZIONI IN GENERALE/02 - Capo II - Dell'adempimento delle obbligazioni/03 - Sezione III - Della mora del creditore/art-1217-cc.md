@@ -21,5 +21,7 @@ ordine: 1319
 # Art. 1217 - ***Obbligazioni di fare***
 
 Se la prestazione consiste in un fare, il creditore è costituito in mora mediante l'intimazione di ricevere la prestazione o di compiere gli atti che sono da parte sua necessari per renderla possibile.
+{: data-comma="1" }
 
 L'intimazione può essere fatta nelle forme d'uso.
+{: data-comma="2" }

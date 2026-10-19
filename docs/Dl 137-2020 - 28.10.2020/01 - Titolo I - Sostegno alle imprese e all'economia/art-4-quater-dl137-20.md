@@ -1,0 +1,23 @@
+---
+type: "Articolo di legge"
+title: "Art. 4-quater - Sospensione delle procedure di sequestro o pignoramento nei territori colpiti dal sisma del Centro Italia"
+articolo: "Art. 4-quater"
+codice: dl137-20
+aliases:
+  - "art-4-quater-dl137-20"
+libro: null
+libro_label: null
+titolo: "I"
+titolo_label: "Sostegno alle imprese e all'economia"
+capo: null
+capo_label: null
+sezione: null
+sezione_label: null
+rubrica: "Sospensione delle procedure di sequestro o pignoramento nei territori colpiti dal sisma del Centro Italia"
+dataVigenza: "20261002"
+ordine: 13
+---
+
+# Art. 4-quater - ***Sospensione delle procedure di sequestro o pignoramento nei territori colpiti dal sisma del Centro Italia***
+
+1\. A sostegno dell'economia nell'attuale emergenza da COVID-19 e al fine di assicurare la compiuta attuazione degli interventi per la riparazione, la ricostruzione, l'assistenza alla popolazione e la ripresa economica nei territori delle regioni Abruzzo, Lazio, Marche e Umbria, interessati dagli eventi sismici verificatisi a far data dal 24 agosto 2016, ricompresi nei comuni indicati negli allegati 1, 2 e 2-bis al decreto-legge 17 ottobre 2016, n. 189, convertito, con modificazioni, dalla legge 15 dicembre 2016, n. 229, le risorse provenienti dal Fondo per la ricostruzione delle aree terremotate di cui all'[articolo 4](art-4-dl137-20.md) del medesimo decreto-legge, le somme depositate su conti correnti bancari a tal fine attivati o intestati alla gestione del Commissario delegato o straordinario del Governo per la relativa ricostruzione, nonchè i contributi e ogni ulteriore risorsa destinati al finanziamento degli interventi inerenti alla ricostruzione pubblica o privata, all'assistenza alla popolazione e alla ripresa economica dei territori colpiti non sono soggetti a procedure di sequestro o pignoramento e, in ogni caso, a esecuzione forzata in virtù di qualsivoglia azione esecutiva o cautelare, restando sospesa ogni azione esecutiva e privi di effetto i pignoramenti comunque notificati. Le risorse e i contributi di cui al primo periodo non sono altresì da ricomprendere nel fallimento e sono comunque esclusi dall'applicazione della disciplina della legge fallimentare di cui al regio decreto 16 marzo 1942, n. 267, nonchè del codice della crisi d'impresa e dell'insolvenza, di cui al decreto legislativo 12 gennaio 2019, n. 14. Le disposizioni di cui al primo e al secondo periodo si applicano fino al 31 marzo 2021

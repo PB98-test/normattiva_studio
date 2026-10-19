@@ -21,5 +21,7 @@ ordine: 2524
 # Art. 2381 - ***Presidente***
 
 Salvo diversa previsione dello statuto, gli amministratori scelgono al proprio interno il presidente, se non designato dall'organo competente a nominarli.
+{: data-comma="1" }
 
 Salvo diversa previsione dello statuto, il presidente convoca il consiglio, ne fissa l'ordine del giorno e ne coordina i lavori.
+{: data-comma="2" }

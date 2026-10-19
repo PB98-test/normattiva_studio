@@ -21,7 +21,10 @@ ordine: 523
 # Art. 438 - ***Misura degli alimenti***
 
 Gli alimenti possono essere chiesti solo da chi versa in istato di bisogno e non è in grado di provvedere al proprio mantenimento.
+{: data-comma="1" }
 
 Essi devono essere assegnati in proporzione del bisogno di chi li domanda e delle condizioni economiche di chi deve somministrarli. Non devono tuttavia superare quanto sia necessario per la vita dell'alimentando, avuto però riguardo alla sua posizione sociale.
+{: data-comma="2" }
 
 Il donatario non è tenuto oltre il valore della donazione tuttora esistente nel suo patrimonio.
+{: data-comma="3" }

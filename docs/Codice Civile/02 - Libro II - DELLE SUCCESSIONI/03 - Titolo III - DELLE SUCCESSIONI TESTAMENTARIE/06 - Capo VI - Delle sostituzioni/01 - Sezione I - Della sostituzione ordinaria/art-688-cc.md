@@ -21,5 +21,7 @@ ordine: 775
 # Art. 688 - ***Casi di sostituzione ordinaria***
 
 Il testatore può sostituire all'erede istituito altra persona per il caso che il primo non possa o non voglia accettare l'eredità.
+{: data-comma="1" }
 
 Se il testatore ha disposto per uno solo di questi casi, si presume che egli si sia voluto riferire anche a quello non espresso, salvo che consti una sua diversa volontà.
+{: data-comma="2" }

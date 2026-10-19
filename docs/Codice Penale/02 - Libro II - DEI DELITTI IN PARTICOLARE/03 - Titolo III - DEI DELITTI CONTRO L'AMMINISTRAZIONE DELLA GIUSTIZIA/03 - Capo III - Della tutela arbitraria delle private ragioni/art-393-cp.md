@@ -21,7 +21,10 @@ ordine: 475
 # Art. 393 - ***Esercizio arbitrario delle proprie ragioni con violenza alle persone***
 
 Chiunque, al fine indicato nell'articolo precedente, e potendo ricorrere al giudice, si fa arbitrariamente ragione da sè medesimo usando violenza o minaccia alle persone, è punito, a querela dell'offeso, con la reclusione fino a un anno.
+{: data-comma="1" }
 
 Se il fatto è commesso anche con violenza sulle cose, alla pena della reclusione è aggiunta la multa fino a lire duemila.
+{: data-comma="2" }
 
 La pena è aumentata se la violenza o la minaccia alle persone è commessa con armi.
+{: data-comma="3" }

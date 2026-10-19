@@ -21,13 +21,19 @@ ordine: 116
 # Art. 84 - ***Età***
 
 I minori di età non possono contrarre matrimonio.
+{: data-comma="1" }
 
 Il tribunale, su istanza dell'interessato, accertata la sua maturità psico-fisica e la fondatezza delle ragioni addotte, sentito il pubblico ministero, i genitori o il tutore, può con decreto emesso in camera di consiglio ammettere per gravi motivi al matrimonio chi abbia compiuto i sedici anni.
+{: data-comma="2" }
 
 Il decreto è comunicato al pubblico ministero, agli sposi, ai genitori e al tutore.
+{: data-comma="3" }
 
 Contro il decreto può essere proposto reclamo, con ricorso alla corte d'appello, nel termine perentorio di dieci giorni dalla comunicazione.
+{: data-comma="4" }
 
 La corte d'appello decide con ordinanza non impugnabile, emessa in camera di consiglio.
+{: data-comma="5" }
 
 Il decreto acquista efficacia quando è decorso il termine previsto nel quarto comma, senza che sia stato proposto reclamo.
+{: data-comma="6" }

@@ -21,7 +21,10 @@ ordine: 566
 # Art. 479 - ***Trasmissione del diritto di accettazione***
 
 Se il chiamato all'eredità muore senza averla accettata, il diritto di accettarla si trasmette agli eredi.
+{: data-comma="1" }
 
 Se questi non sono d'accordo per accettare o rinunziare, colui che accetta l'eredità acquista tutti i diritti e soggiace a tutti i pesi ereditari, mentre vi rimane estraneo chi ha rinunziato.
+{: data-comma="2" }
 
 La rinunzia all'eredità propria del trasmittente include rinunzia all'eredità che al medesimo è devoluta.
+{: data-comma="3" }

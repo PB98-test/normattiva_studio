@@ -21,5 +21,7 @@ ordine: 1359
 # Art. 1257 - ***Smarrimento di cosa determinata***
 
 La prestazione che ha per oggetto una cosa determinata si considera divenuta impossibile anche quando la cosa è smarrita senza che possa esserne provato il perimento.
+{: data-comma="1" }
 
 In caso di successivo ritrovamento della cosa, si applicano le disposizioni del secondo comma dell'articolo precedente.
+{: data-comma="2" }

@@ -21,7 +21,10 @@ ordine: 699
 # Art. 544-ter - ***Maltrattamento di animali***
 
 Chiunque, per crudeltà o senza necessità, cagiona una lesione ad un animale ovvero lo sottopone a sevizie o a comportamenti o a fatiche o a lavori insopportabili per le sue caratteristiche etologiche è punito con la reclusione da sei mesi a due anni e con la multa da 5.000 a 30.000 euro.
+{: data-comma="1" }
 
 La stessa pena si applica a chiunque somministra agli animali sostanze stupefacenti o vietate ovvero li sottopone a trattamenti che procurano un danno alla salute degli stessi.
+{: data-comma="2" }
 
 La pena è aumentata della metà se dai fatti di cui al primo e al secondo comma deriva la morte dell'animale.
+{: data-comma="3" }

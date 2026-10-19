@@ -21,7 +21,10 @@ ordine: 440
 # Art. 371 - ***Falso giuramento della parte***
 
 Chiunque, come parte in giudizio civile, giura il falso è punito con la reclusione da sei mesi a tre anni.
+{: data-comma="1" }
 
 Nel caso di giuramento deferito d'ufficio, il colpevole non è punibile, se ritratta il falso prima che sulla domanda giudiziale sia pronunciata sentenza definitiva, anche se non irrevocabile.
+{: data-comma="2" }
 
 La condanna importa l'interdizione dai pubblici uffici.
+{: data-comma="3" }

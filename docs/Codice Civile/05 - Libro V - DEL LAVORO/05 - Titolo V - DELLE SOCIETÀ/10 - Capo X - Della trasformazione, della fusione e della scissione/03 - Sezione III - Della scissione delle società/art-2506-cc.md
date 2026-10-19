@@ -21,9 +21,13 @@ ordine: 2773
 # Art. 2506 - ***Forme di scissione***
 
 Con la scissione una società assegna l'intero suo patrimonio a più società, preesistenti o di nuova costituzione, o parte del suo patrimonio, in tal caso anche ad una sola società, e le relative azioni o quote ai suoi soci.
+{: data-comma="1" }
 
 È consentito un conguaglio in danaro, purchè non superiore al dieci per cento del valore nominale delle azioni o quote attribuite. È consentito inoltre che, per consenso unanime, ad alcuni soci non vengano distribuite azioni o quote di una delle società beneficiarie della scissione, ma azioni della società scissa.
+{: data-comma="2" }
 
 La società scissa può, con la scissione, attuare il proprio scioglimento senza liquidazione, ovvero continuare la propria attività.
+{: data-comma="3" }
 
 La partecipazione alla scissione non è consentita alle società in liquidazione che abbiano iniziato la distribuzione dell'attivo.
+{: data-comma="4" }

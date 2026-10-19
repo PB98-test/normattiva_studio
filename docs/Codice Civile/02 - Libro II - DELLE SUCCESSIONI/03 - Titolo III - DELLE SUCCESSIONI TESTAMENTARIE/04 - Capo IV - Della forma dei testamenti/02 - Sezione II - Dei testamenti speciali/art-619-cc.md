@@ -21,5 +21,7 @@ ordine: 706
 # Art. 619 - ***Nullità***
 
 I testamenti previsti in questa sezione sono nulli quando manca la redazione in iscritto della dichiarazione del testatore ovvero la sottoscrizione della persona autorizzata a riceverla o del testatore.
+{: data-comma="1" }
 
 Per gli altri difetti di forma si osserva il disposto del secondo comma dell'[art. 606](../01%20-%20Sezione%20I%20-%20Dei%20testamenti%20ordinari/art-606-cc.md).
+{: data-comma="2" }

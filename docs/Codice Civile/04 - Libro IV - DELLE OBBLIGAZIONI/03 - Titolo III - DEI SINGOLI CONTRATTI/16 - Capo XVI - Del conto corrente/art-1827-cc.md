@@ -21,5 +21,7 @@ ordine: 1948
 # Art. 1827 - ***Effetti dell'inclusione nel conto***
 
 L'inclusione di un credito nel conto corrente non esclude l'esercizio delle azioni ed eccezioni relative all'atto da cui il credito deriva.
+{: data-comma="1" }
 
 Se l'atto è dichiarato nullo, è annullato, rescisso o risoluto, la relativa partita si elimina dal conto.
+{: data-comma="2" }

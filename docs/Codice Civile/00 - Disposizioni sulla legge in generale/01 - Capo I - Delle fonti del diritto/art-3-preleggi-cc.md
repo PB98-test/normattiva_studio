@@ -21,5 +21,7 @@ ordine: 3
 # Art. 3-preleggi - ***Regolamenti***
 
 Il potere regolamentare del Governo è disciplinato da leggi di carattere costituzionale.
+{: data-comma="1" }
 
 Il potere regolamentare di altre autorità è esercitato nei limiti delle rispettive competenze, in conformità delle leggi particolari.
+{: data-comma="2" }

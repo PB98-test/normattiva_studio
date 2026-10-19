@@ -21,5 +21,7 @@ ordine: 1861
 # Art. 1745 - ***Rappresentanza dell'agente***
 
 Le dichiarazioni che riguardano l'esecuzione del contratto concluso per il tramite dell'agente e i reclami relativi alle inadempienze contrattuali sono validamente fatti all'agente.
+{: data-comma="1" }
 
 L'agente può chiedere i provvedimenti cautelari nell'interesse del preponente e presentare i reclami che sono necessari per la conservazione dei diritti spettanti a quest'ultimo.
+{: data-comma="2" }

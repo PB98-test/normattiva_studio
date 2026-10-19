@@ -21,5 +21,7 @@ ordine: 2346
 # Art. 2224 - ***Esecuzione dell'opera***
 
 Se il prestatore d'opera non procede all'esecuzione dell'opera secondo le condizioni stabilite dal contratto e a regola d'arte, il committente può fissare un congruo termine, entro il quale il prestatore d'opera deve conformarsi a tali condizioni.
+{: data-comma="1" }
 
 Trascorso inutilmente il termine fissato, il committente può recedere dal contratto, salvo il diritto al risarcimento dei danni.
+{: data-comma="2" }

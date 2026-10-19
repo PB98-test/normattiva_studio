@@ -21,5 +21,7 @@ ordine: 741
 # Art. 654 - ***Legato di cosa non esistente nell'asse***
 
 Quando il testatore ha lasciato una sua cosa particolare, o una cosa determinata soltanto nel genere da prendersi dal suo patrimonio, il legato non ha effetto se la cosa non si trova nel patrimonio del testatore al tempo della sua morte.
+{: data-comma="1" }
 
 Se la cosa si trova nel patrimonio del testatore al tempo della sua morte, ma non nella quantità determinata, il legato ha effetto per la quantità che vi si trova.
+{: data-comma="2" }

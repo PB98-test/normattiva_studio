@@ -21,5 +21,7 @@ ordine: 249
 # Art. 227 - ***Riformatori speciali***
 
 Quando la legge stabilisce che il ricovero in un riformatorio giudiziario sia ordinato senza che occorra accertare che il minore è socialmente pericoloso, questi è assegnato ad uno stabilimento speciale o ad una sezione speciale degli stabilimenti ordinari.
+{: data-comma="1" }
 
 Può altresì essere assegnato ad uno stabilimento speciale o ad una sezione speciale degli stabilimenti ordinari il minore che, durante il ricovero nello stabilimento ordinario, si sia rivelato particolarmente pericoloso.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 1752
 # Art. 1637 - ***Accollo di casi fortuiti***
 
 L'affittuario può, con patto espresso, assumere il rischio dei casi fortuiti ordinari. Sono reputati tali i fortuiti che, avuto riguardo ai luoghi e a ogni altra circostanza, le parti potevano ragionevolmente ritenere probabili.
+{: data-comma="1" }
 
 È nullo il patto col quale l'affittuario si assoggetta ai casi fortuiti straordinari.
+{: data-comma="2" }

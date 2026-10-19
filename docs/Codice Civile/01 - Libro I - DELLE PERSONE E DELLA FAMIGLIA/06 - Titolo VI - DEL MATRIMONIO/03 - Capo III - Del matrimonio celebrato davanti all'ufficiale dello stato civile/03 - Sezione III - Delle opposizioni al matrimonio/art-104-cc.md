@@ -21,5 +21,7 @@ ordine: 136
 # Art. 104 - ***Effetti dell'opposizione***
 
 COMMA ABROGATO DAL D.P.R. 3 NOVEMBRE 2000, N. 396.
+{: data-comma="1" }
 
 Se l'opposizione è respinta, l'opponente, che non sia un ascendente o il pubblico ministero, può essere condannato al risarcimento dei danni.
+{: data-comma="2" }

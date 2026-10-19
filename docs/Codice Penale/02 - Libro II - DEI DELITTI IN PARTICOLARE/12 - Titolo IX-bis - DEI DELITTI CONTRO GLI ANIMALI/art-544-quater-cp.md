@@ -21,5 +21,7 @@ ordine: 700
 # Art. 544-quater - ***Spettacoli o manifestazioni vietati***
 
 Salvo che il fatto costituisca più grave reato, chiunque organizza o promuove spettacoli o manifestazioni che comportino sevizie o strazio per gli animali è punito con la reclusione da quattro mesi a due anni e con la multa da 15.000 a 30.000 euro.
+{: data-comma="1" }
 
 La pena è aumentata da un terzo alla metà se i fatti di cui al primo comma sono commessi in relazione all'esercizio di scommesse clandestine o al fine di trarne profitto per sè od altri ovvero se ne deriva la morte dell'animale.
+{: data-comma="2" }

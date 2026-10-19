@@ -21,5 +21,7 @@ ordine: 3081
 # Art. 2775 - ***Contributi per opere di bonifica e di miglioramento***
 
 I crediti per i contributi indicati dall'[art. 864](../../../../03%20-%20Libro%20III%20-%20DELLA%20PROPRIETÀ/02%20-%20Titolo%20II%20-%20DELLA%20PROPRIETÀ/02%20-%20Capo%20II%20-%20Della%20proprietà%20fondiaria/03%20-%20Sezione%20III%20-%20Della%20bonifica%20integrale/art-864-cc.md) sono privilegiati sugli immobili che traggono beneficio dalle opere di bonifica o di miglioramento.
+{: data-comma="1" }
 
 La costituzione del privilegio per le opere di miglioramento è subordinata all'osservanza delle leggi speciali.
+{: data-comma="2" }

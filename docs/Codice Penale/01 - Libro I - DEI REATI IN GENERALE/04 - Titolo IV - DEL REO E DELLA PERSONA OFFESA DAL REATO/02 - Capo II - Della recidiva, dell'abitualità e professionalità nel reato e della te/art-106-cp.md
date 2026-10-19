@@ -21,5 +21,7 @@ ordine: 118
 # Art. 106 - ***Effetti dell'estinzione del reato o della pena***
 
 Agli effetti della recidiva e della dichiarazione di abitualità o di professionalità nel reato, si tien conto altresì delle condanne per le quali è intervenuta una causa di estinzione del reato o della pena.
+{: data-comma="1" }
 
 Tale disposizione non si applica quando la causa estingue anche gli effetti penali.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 2598
 # Art. 2413 - ***Riduzione del capitale***
 
 Salvo i casi previsti dal terzo, quarto e quinto comma dell'[articolo 2412](art-2412-cc.md), la società che ha emesso obbligazioni non può ridurre volontariamente il capitale sociale o distribuire riserve se rispetto all'ammontare delle obbligazioni ancora in circolazione il limite di cui al primo comma dell'articolo medesimo non risulta più rispettato.
+{: data-comma="1" }
 
 Se la riduzione del capitale sociale è obbligatoria, o le riserve diminuiscono in conseguenza di perdite, non possono distribuirsi utili sinchè l'ammontare del capitale sociale , della riserva legale e delle riserve disponibili non eguagli la metà dell'ammontare delle obbligazioni in circolazione.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 1609
 # Art. 1502 - ***Obblighi del riscattante***
 
 Il venditore che esercita il diritto di riscatto è tenuto a rimborsare al compratore il prezzo, le spese e ogni altro pagamento legittimamente fatto per la vendita, le spese per le riparazioni necessarie e, nei limiti dell'aumento, quelle che hanno aumentato il valore della cosa.
+{: data-comma="1" }
 
 Fino al rimborso delle spese necessarie e utili, il compratore ha diritto di ritenere la cosa. Il giudice tuttavia, per il rimborso delle spese utili, può accordare una dilazione disponendo, se occorrono, le opportune cautele.
+{: data-comma="2" }

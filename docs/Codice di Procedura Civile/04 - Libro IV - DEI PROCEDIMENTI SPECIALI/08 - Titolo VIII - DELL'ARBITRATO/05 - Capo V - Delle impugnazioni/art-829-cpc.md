@@ -21,6 +21,7 @@ ordine: 1026
 # Art. 829 - ***Casi di nullità***
 
 L'impugnazione per nullità è ammessa, nonostante qualunque preventiva rinuncia, nei casi seguenti:
+{: data-comma="1" }
 
 - 1) se la convenzione d'arbitrato è invalida, ferma la disposizione dell'[articolo 817](../03%20-%20Capo%20III%20-%20Del%20procedimento/art-817-cpc.md), terzo comma;
 - 2) se gli arbitri non sono stati nominati con le forme e nei modi prescritti nei capi II e VI del presente titolo, purchè la nullità sia stata dedotta nel giudizio arbitrale;
@@ -35,12 +36,16 @@ L'impugnazione per nullità è ammessa, nonostante qualunque preventiva rinuncia
 - 12) se il lodo non ha pronunciato su alcuna delle domande ed eccezioni proposte dalle parti in conformità alla convenzione di arbitrato.
 
 La parte che ha dato causa a un motivo di nullità, o vi ha rinunciato, o che non ha eccepito nella prima istanza o difesa successiva la violazione di una regola che disciplina lo svolgimento del procedimento arbitrale, non può per questo motivo impugnare il lodo.
+{: data-comma="2" }
 
 L'impugnazione per violazione delle regole di diritto relative al merito della controversia è ammessa se espressamente disposta dalle parti o dalla legge. È ammessa in ogni caso l'impugnazione delle decisioni per contrarietà all'ordine pubblico.
+{: data-comma="3" }
 
 L'impugnazione per violazione delle regole di diritto relative al merito della controversia è sempre ammessa:
+{: data-comma="4" }
 
 - 1) nelle controversie previste dall'[articolo 409](../../../02%20-%20Libro%20II%20-%20DEL%20PROCESSO%20DI%20COGNIZIONE/04%20-%20Titolo%20IV%20-%20NORME%20PER%20LE%20CONTROVERSIE%20IN%20MATERIA%20DI%20LAVORO/01%20-%20Capo%20I%20-%20Delle%20controversie%20individuali%20di%20lavoro/01%20-%20Sezione%20I%20-%20Disposizioni%20generali/art-409-cpc.md);
 - 2) se la violazione delle regole di diritto concerne la soluzione di questione pregiudiziale su materia che non può essere oggetto di convenzione di arbitrato.
 
 Nelle controversie previste dall'[articolo 409](../../../02%20-%20Libro%20II%20-%20DEL%20PROCESSO%20DI%20COGNIZIONE/04%20-%20Titolo%20IV%20-%20NORME%20PER%20LE%20CONTROVERSIE%20IN%20MATERIA%20DI%20LAVORO/01%20-%20Capo%20I%20-%20Delle%20controversie%20individuali%20di%20lavoro/01%20-%20Sezione%20I%20-%20Disposizioni%20generali/art-409-cpc.md), il lodo è soggetto ad impugnazione anche per violazione dei contratti e accordi collettivi.
+{: data-comma="5" }

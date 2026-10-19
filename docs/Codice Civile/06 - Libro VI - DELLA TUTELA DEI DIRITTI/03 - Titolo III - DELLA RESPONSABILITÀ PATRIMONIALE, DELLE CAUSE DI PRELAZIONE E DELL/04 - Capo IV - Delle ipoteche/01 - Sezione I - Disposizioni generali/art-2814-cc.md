@@ -21,5 +21,7 @@ ordine: 3123
 # Art. 2814 - ***Ipoteca sull'usufrutto e sulla nuda proprietà***
 
 Le ipoteche costituite sull'usufrutto si estinguono col cessare di questo. Tuttavia, se la cessazione si verifica per rinunzia o per abuso da parte dell'usufruttuario ovvero per acquisto della nuda proprietà da parte del medesimo, l'ipoteca perdura fino a che non si verifichi l'evento che avrebbe altrimenti prodotto l'estinzione dell'usufrutto.
+{: data-comma="1" }
 
 Se la nuda proprietà è gravata da ipoteca, questa, avvenendo l'estinzione dell'usufrutto, si estende alla piena proprietà. Ma nei casi in cui, secondo la disposizione del comma precedente, perdura l'ipoteca costituita sull'usufrutto, l'estensione non pregiudica il credito garantito con l'ipoteca stessa.
+{: data-comma="2" }

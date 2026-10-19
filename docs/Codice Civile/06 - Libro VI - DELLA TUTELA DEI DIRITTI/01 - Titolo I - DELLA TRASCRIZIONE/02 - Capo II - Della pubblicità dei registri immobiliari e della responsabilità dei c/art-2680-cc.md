@@ -21,9 +21,13 @@ ordine: 2985
 # Art. 2680 - ***Tenuta del registro generale d'ordine***
 
 Il registro generale deve essere vidimato in ogni foglio dal presidente o da un giudice del tribunale nella cui circoscrizione è stabilito l'ufficio, indicando nel relativo processo verbale il numero dei fogli e il giorno in cui sono stati vidimati.
+{: data-comma="1" }
 
 Questo registro deve essere scritto di seguito, senza spazi in bianco o interlinee e senza aggiunte. Le cancellature di parole devono essere approvate dal conservatore in fine di ciascun foglio con la sua firma e con l'indicazione del numero delle parole cancellate.
+{: data-comma="2" }
 
 Il registro, alla fine di ciascun giorno, deve essere chiuso con l'indicazione del numero dei titoli annotati e firmato dal conservatore.
+{: data-comma="3" }
 
 In esso si deve rigorosamente osservare la serie delle date, dei fogli e dei numeri d'ordine.
+{: data-comma="4" }

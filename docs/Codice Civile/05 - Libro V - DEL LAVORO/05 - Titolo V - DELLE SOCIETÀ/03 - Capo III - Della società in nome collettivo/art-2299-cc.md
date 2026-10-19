@@ -21,9 +21,13 @@ ordine: 2421
 # Art. 2299 - ***Sedi secondarie***
 
 Un estratto dell'atto costitutivo deve essere depositato per l'iscrizione presso l'ufficio del registro delle imprese del luogo in cui la società istituisce sedi secondarie con una rappresentanza stabile, entro trenta giorni dall'istituzione delle medesime.
+{: data-comma="1" }
 
 L'estratto deve indicare l'ufficio del registro presso il quale è iscritta la società e la data dell'iscrizione.
+{: data-comma="2" }
 
 COMMA ABROGATO DALLA L. 24 NOVEMBRE 2000, N. 340.
+{: data-comma="3" }
 
 L'istituzione di sedi secondarie deve essere denunciata per l'iscrizione nello stesso termine anche all'ufficio del registro del luogo dove è iscritta la società.
+{: data-comma="4" }

@@ -21,9 +21,13 @@ ordine: 839
 # Art. 616 - ***Violazione, sottrazione e soppressione di corrispondenza***
 
 Chiunque prende cognizione del contenuto di una corrispondenza chiusa, a lui non diretta, ovvero sottrae o distrae, al fine di prenderne o di farne da altri prendere cognizione, una corrispondenza chiusa o aperta, a lui non diretta, ovvero, in tutto o in parte, la distrugge o sopprime, è punito, se il fatto non è preveduto come reato da altra disposizione di legge, con la reclusione fino a un anno o con la multa da lire trecento a cinquemila.
+{: data-comma="1" }
 
 Se il colpevole, senza giusta causa, rivela, in tutto o in parte, il contenuto della corrispondenza, è punito, se dal fatto deriva nocumento ed il fatto medesimo non costituisce un più grave reato, con la reclusione fino a tre anni.
+{: data-comma="2" }
 
 Il delitto è punibile a querela della persona offesa.
+{: data-comma="3" }
 
 Agli effetti delle disposizioni di questa sezione, per "corrispondenza" si intende quella epistolare, telegrafica, telefonica, informatica o telematica ovvero effettuata con ogni altra forma di comunicazione a distanza.
+{: data-comma="4" }

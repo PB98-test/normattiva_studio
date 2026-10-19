@@ -21,5 +21,7 @@ ordine: 157
 # Art. 148 - ***Relazione di notificazione***
 
 L'ufficiale giudiziario certifica l'eseguita notificazione mediante relazione da lui datata e sottoscritta, apposta in calce all'originale e alla copia dell'atto.
+{: data-comma="1" }
 
 La relazione indica la persona alla quale è consegnata la copia e le sue qualità, nonchè il luogo della consegna, oppure le ricerche, anche anagrafiche, fatte dall'ufficiale giudiziario, i motivi della mancata consegna e le notizie raccolte sulla reperibilità del destinatario.
+{: data-comma="2" }

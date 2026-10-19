@@ -21,8 +21,10 @@ ordine: 1413
 # Art. 1311 - ***Rinunzia alla solidarietà***
 
 Il creditore che rinunzia alla solidarietà a favore di uno dei debitori conserva l'azione in solido contro gli altri.
+{: data-comma="1" }
 
 Rinunzia alla solidarietà:
+{: data-comma="2" }
 
 - 1) il creditore che rilascia a uno dei debitori quietanza per la parte di lui senza alcuna riserva;
 - 2) il creditore che ha agito giudizialmente contro uno dei debitori per la parte di lui, se questi ha aderito alla domanda, o se è stata pronunciata una sentenza di condanna.

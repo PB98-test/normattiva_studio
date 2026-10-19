@@ -21,7 +21,10 @@ ordine: 1797
 # Art. 1681 - ***Responsabilità del vettore***
 
 Salva la responsabilità per il ritardo e per l'inadempimento nell'esecuzione del trasporto, il vettore risponde dei sinistri che colpiscono la persona del viaggiatore durante il viaggio e della perdita o dell'avaria delle cose che il viaggiatore porta con sè, se non prova di avere adottato tutte le misure idonee a evitare il danno.
+{: data-comma="1" }
 
 Sono nulle le clausole che limitano la responsabilità del vettore per i sinistri che colpiscono il viaggiatore.
+{: data-comma="2" }
 
 Le norme di questo articolo si osservano anche nei contratti di trasporto gratuito.
+{: data-comma="3" }

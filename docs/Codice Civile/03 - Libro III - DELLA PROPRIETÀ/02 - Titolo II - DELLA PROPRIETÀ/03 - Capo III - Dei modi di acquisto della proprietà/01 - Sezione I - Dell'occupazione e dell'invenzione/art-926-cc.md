@@ -21,5 +21,7 @@ ordine: 1021
 # Art. 926 - ***Migrazione di colombi, conigli e pesci***
 
 I conigli o pesci che passano ad un'altra conigliera o peschiera si acquistano dal proprietario di queste, purchè non vi siano stati attirati con arte o con frode.
+{: data-comma="1" }
 
 La stessa norma si osserva per i colombi che passano ad altra colombaia, salve le diverse disposizioni di legge sui colombi viaggiatori.
+{: data-comma="2" }

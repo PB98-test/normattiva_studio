@@ -21,5 +21,7 @@ ordine: 39
 # Art. 33 - ***Condanna per delitto colposo***
 
 Le disposizioni dell'[articolo 29](art-29-cp.md) e del secondo capoverso dell'[articolo 32](art-32-cp.md) non si applicano nel caso di condanna per delitto colposo.
+{: data-comma="1" }
 
 Le disposizioni dell'[articolo 31](art-31-cp.md) non si applicano nel caso di condanna per delitto colposo, se la pena inflitta è inferiore a tre anni di reclusione, o se è inflitta soltanto una pena pecuniaria.
+{: data-comma="2" }

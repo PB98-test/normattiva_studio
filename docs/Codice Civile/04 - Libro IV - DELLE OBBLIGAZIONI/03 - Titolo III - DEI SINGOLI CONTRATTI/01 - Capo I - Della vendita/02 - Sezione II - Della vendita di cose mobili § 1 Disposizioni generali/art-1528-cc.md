@@ -21,5 +21,7 @@ ordine: 1643
 # Art. 1528 - ***Pagamento del prezzo***
 
 Salvo patto o usi contrari, il pagamento del prezzo e degli accessori deve eseguirsi nel momento e nel luogo in cui avviene la consegna dei documenti indicati dall'articolo precedente.
+{: data-comma="1" }
 
 Quando i documenti sono regolari, il compratore non può rifiutare il pagamento del prezzo adducendo eccezioni relative alla qualità e allo stato delle cose, a meno che queste risultino già dimostrate.
+{: data-comma="2" }

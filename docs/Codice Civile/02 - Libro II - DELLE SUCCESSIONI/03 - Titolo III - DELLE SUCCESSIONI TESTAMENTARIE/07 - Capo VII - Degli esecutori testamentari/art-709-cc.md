@@ -21,9 +21,13 @@ ordine: 796
 # Art. 709 - ***Conto della gestione***
 
 L'esecutore testamentario deve rendere il conto della sua gestione al termine della stessa, e anche spirato l'anno della morte del testatore, se la gestione si prolunga oltre l'anno.
+{: data-comma="1" }
 
 Egli è tenuto, in caso di colpa, al risarcimento dei danni verso gli eredi e verso i legatari.
+{: data-comma="2" }
 
 Gli esecutori testamentari, quando sono più, rispondono solidalmente per la gestione comune.
+{: data-comma="3" }
 
 Il testatore non può esonerare l'esecutore testamentario dall'obbligo di rendere il conto o dalla responsabilità della gestione.
+{: data-comma="4" }

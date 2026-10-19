@@ -21,5 +21,7 @@ ordine: 641
 # Art. 515 - ***Frode nell'esercizio del commercio***
 
 Chiunque, nell'esercizio di una attività commerciale, ovvero in uno spaccio aperto al pubblico, consegna all'acquirente una cosa mobile per un'altra, ovvero una cosa mobile, per origine, provenienza, qualità o quantità, diversa da quella dichiarata o pattuita, è punito, qualora il fatto non costituisca un più grave delitto, con la reclusione fino a due anni o con la multa fino a lire ventimila.
+{: data-comma="1" }
 
 Se si tratta di oggetti preziosi, la pena è della reclusione fino a tre anni o della multa non inferiore a lire mille.
+{: data-comma="2" }

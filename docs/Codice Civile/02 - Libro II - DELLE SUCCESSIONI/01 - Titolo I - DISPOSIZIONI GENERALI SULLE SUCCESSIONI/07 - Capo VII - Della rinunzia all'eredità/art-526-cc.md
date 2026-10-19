@@ -21,5 +21,7 @@ ordine: 613
 # Art. 526 - ***Impugnazione per violenza o dolo***
 
 La rinunzia all'eredità si può impugnare solo se è l'effetto di violenza o di dolo.
+{: data-comma="1" }
 
 L'azione si prescrive in cinque anni dal giorno in cui è cessata la violenza o è stato scoperto il dolo.
+{: data-comma="2" }

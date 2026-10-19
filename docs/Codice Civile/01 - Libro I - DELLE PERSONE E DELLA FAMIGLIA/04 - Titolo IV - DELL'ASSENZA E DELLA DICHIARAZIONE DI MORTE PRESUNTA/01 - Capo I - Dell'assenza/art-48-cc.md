@@ -21,5 +21,7 @@ ordine: 80
 # Art. 48 - ***Curatore dello scomparso***
 
 Quando una persona non è più comparsa nel luogo del suo ultimo domicilio o dell'ultima sua residenza e non se ne hanno più notizie, il tribunale dell'ultimo domicilio o dell'ultima residenza, su istanza, degli interessati o dei presunti successori legittimi o del pubblico ministero, può nominare un curatore che rappresenti la persona in giudizio o nella formazione degli inventari e dei conti e nelle liquidazioni o divisioni in cui sia interessata, e può dare gli altri provvedimenti necessari alla conservazione del patrimonio dello scomparso.
+{: data-comma="1" }
 
 Se vi è un legale rappresentante, non si fa luogo alla nomina del curatore. Se vi è un procuratore, il tribunale provvede soltanto per gli atti che il medesimo non può fare.
+{: data-comma="2" }

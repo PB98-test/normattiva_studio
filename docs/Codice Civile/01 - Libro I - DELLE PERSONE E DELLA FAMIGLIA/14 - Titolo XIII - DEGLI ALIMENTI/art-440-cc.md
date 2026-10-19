@@ -21,5 +21,7 @@ ordine: 525
 # Art. 440 - ***Cessazione, riduzione e aumento***
 
 Se dopo l'assegnazione degli alimenti mutano le condizioni economiche di chi li somministra o di chi li riceve, l'autorità giudiziaria provvede per la cessazione, la riduzione o l'aumento, secondo le circostanze. Gli alimenti possono pure essere ridotti per la condotta disordinata o riprovevole dell'alimentato.
+{: data-comma="1" }
 
 Se, dopo assegnati gli alimenti, consta che uno degli obbligati di grado anteriore è in condizione di poterli somministrare, l'autorità giudiziaria non può liberare l'obbligato di grado posteriore se non quando abbia imposto all'obbligato di grado anteriore di somministrare gli alimenti.
+{: data-comma="2" }

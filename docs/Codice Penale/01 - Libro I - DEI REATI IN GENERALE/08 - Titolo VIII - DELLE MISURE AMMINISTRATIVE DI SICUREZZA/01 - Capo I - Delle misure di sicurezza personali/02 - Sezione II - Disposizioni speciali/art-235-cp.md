@@ -21,7 +21,10 @@ ordine: 257
 # Art. 235 - ***Espulsione od allontanamento dello straniero dallo Stato***
 
 Il giudice ordina l'espulsione dello straniero ovvero l'allontanamento dal territorio dello Stato del cittadino appartenente ad uno Stato membro dell'Unione europea, oltre che nei casi espressamente preveduti dalla legge, quando lo straniero o il cittadino appartenente ad uno Stato membro dell'Unione europea sia condannato alla reclusione per un tempo superiore ai due anni.
+{: data-comma="1" }
 
 COMMA ABROGATO DALLA L. 15 LUGLIO 2009, N. 94.
+{: data-comma="2" }
 
 Il trasgressore dell'ordine di espulsione od allontanamento pronunciato dal giudice è punito con la reclusione da uno a quattro anni. In tal caso è obbligatorio l'arresto dell'autore del fatto, anche fuori dei casi di flagranza, e si procede con rito direttissimo.
+{: data-comma="3" }

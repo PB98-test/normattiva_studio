@@ -21,5 +21,7 @@ ordine: 915
 # Art. 660 - ***Molestia o disturbo alle persone***
 
 Chiunque, in un luogo pubblico o aperto al pubblico, ovvero col mezzo del telefono, per petulanza o per altro biasimevole motivo, reca a taluno molestia o disturbo è punito , a querela della persona offesa, con l'arresto fino a sei mesi o con l'ammenda fino a lire cinquemila.
+{: data-comma="1" }
 
 Si procede tuttavia d'ufficio quando il fatto è commesso nei confronti di persona incapace, per età o per infermità.
+{: data-comma="2" }

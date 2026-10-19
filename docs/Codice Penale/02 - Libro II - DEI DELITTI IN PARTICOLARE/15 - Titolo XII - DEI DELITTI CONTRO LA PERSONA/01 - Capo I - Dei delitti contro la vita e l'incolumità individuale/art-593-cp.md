@@ -21,7 +21,10 @@ ordine: 772
 # Art. 593 - ***Omissione di soccorso***
 
 Chiunque, trovando abbandonato o smarrito un fanciullo minore degli anni dieci, o un'altra persona incapace di provvedere a sè stessa, per malattia di mente o di corpo, per vecchiaia o per altra causa, omette di darne immediato avviso all'Autorità è punito con la reclusione fino a un anno o con la multa fino a 2.500 euro.
+{: data-comma="1" }
 
 Alla stessa pena soggiace chi, trovando un corpo umano che sia o sembri inanimato, ovvero una persona ferita o altrimenti in pericolo, omette di prestare l'assistenza occorrente o di darne immediato avviso all'Autorità.
+{: data-comma="2" }
 
 Se da siffatta condotta del colpevole deriva una lesione personale, la pena è aumentata; se ne deriva la morte, la pena è raddoppiata.
+{: data-comma="3" }

@@ -21,7 +21,10 @@ ordine: 1025
 # Art. 930 - ***Premio dovuto al ritrovatore***
 
 Il proprietario deve pagare a titolo di premio al ritrovatore, se questi lo richiede, il decimo della somma o del prezzo della cosa ritrovata.
+{: data-comma="1" }
 
 Se tale somma o prezzo eccede le diecimila lire, il premio per il sovrappiù è solo del ventesimo.
+{: data-comma="2" }
 
 Se la cosa non ha valore commerciale, la misura del premio è fissata dal giudice secondo il suo prudente apprezzamento.
+{: data-comma="3" }

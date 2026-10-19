@@ -21,9 +21,13 @@ ordine: 259
 # Art. 217 - ***Amministrazione e godimento dei beni.***
 
 Ciascun coniuge ha il godimento e l'amministrazione dei beni di cui è titolare esclusivo.
+{: data-comma="1" }
 
 Se ad uno dei coniugi è stata conferita la procura ad amministrare i beni dell'altro con l'obbligo di rendere conto dei frutti, egli è tenuto verso l'altro coniuge secondo le regole del mandato.
+{: data-comma="2" }
 
 Se uno dei coniugi ha amministrato i beni dell'altro con procura senza l'obbligo di rendere conto dei frutti, egli ed i suoi eredi, a richiesta dell'altro coniuge o allo scioglimento o alla cessazione degli effetti civili del matrimonio, sono tenuti a consegnare i frutti esistenti e non rispondono per quelli consumati.
+{: data-comma="3" }
 
 Se uno dei coniugi, nonostante l'opposizione dell'altro, amministra i beni di questo o comunque compie atti relativi a detti beni risponde dei danni e della mancata percezione dei frutti.
+{: data-comma="4" }

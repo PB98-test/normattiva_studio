@@ -21,8 +21,10 @@ ordine: 2903
 # Art. 2612 - ***Iscrizione nel registro delle imprese***
 
 Se il contratto prevede l'istituzione di un ufficio destinato a svolgere un'attività con i terzi, un estratto del contratto deve, a cura degli amministratori, entro trenta giorni dalla stipulazione, essere depositato per l'iscrizione presso l'ufficio del registro delle imprese del luogo dove l'ufficio ha sede.
+{: data-comma="1" }
 
 L'estratto deve indicare:
+{: data-comma="2" }
 
 - 1) la denominazione e l'oggetto del consorzio e la sede dell'ufficio;
 - 2) il cognome e il nome dei consorziati;
@@ -31,3 +33,4 @@ L'estratto deve indicare:
 - 5) il modo di formazione del fondo consortile e le norme relative alla liquidazione.
 
 Del pari devono essere iscritte nel registro delle imprese le modificazioni del contratto concernenti gli elementi sopra indicati.
+{: data-comma="3" }

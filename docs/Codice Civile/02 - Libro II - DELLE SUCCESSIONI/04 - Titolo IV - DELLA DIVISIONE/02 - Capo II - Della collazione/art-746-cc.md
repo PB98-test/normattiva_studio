@@ -21,5 +21,7 @@ ordine: 833
 # Art. 746 - ***Collazione d'immobili***
 
 La collazione di un bene immobile si fa o col rendere il bene in natura o con l'imputarne il valore alla propria porzione, a scelta di chi conferisce.
+{: data-comma="1" }
 
 Se l'immobile è stato alienato o ipotecato, la collazione si fa soltanto con l'imputazione.
+{: data-comma="2" }

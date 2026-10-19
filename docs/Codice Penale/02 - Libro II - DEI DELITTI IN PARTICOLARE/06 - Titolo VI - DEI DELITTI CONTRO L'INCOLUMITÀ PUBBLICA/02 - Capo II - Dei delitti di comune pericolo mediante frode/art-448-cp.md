@@ -21,5 +21,7 @@ ordine: 543
 # Art. 448 - ***Pene accessorie***
 
 La condanna per taluno dei delitti preveduti da questo capo importa la pubblicazione della sentenza.
+{: data-comma="1" }
 
 La condanna per taluno dei delitti preveduti dagli [articoli 439](art-439-cp.md), [440](art-440-cp.md), [441](art-441-cp.md) e [442](art-442-cp.md) importa l'interdizione da cinque a dieci anni dalla professione, arte, industria, commercio o mestiere nonchè l'interdizione dagli uffici direttivi delle persone giuridiche e delle imprese per lo stesso periodo. La condanna comporta altresì la pubblicazione della sentenza su almeno due quotidiani a diffusione nazionale.
+{: data-comma="2" }

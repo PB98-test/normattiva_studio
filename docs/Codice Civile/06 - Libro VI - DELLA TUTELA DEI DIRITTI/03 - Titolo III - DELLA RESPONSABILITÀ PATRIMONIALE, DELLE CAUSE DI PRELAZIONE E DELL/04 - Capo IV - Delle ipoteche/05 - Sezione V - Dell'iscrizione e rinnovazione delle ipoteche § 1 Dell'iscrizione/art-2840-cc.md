@@ -21,5 +21,7 @@ ordine: 3150
 # Art. 2840 - ***Certificato dell'iscrizione***
 
 Eseguita l'iscrizione, il conservatore restituisce al richiedente uno degli originali della nota, certificando, in calce al medesimo, la data e il numero d'ordine dell'iscrizione.
+{: data-comma="1" }
 
 I titoli consegnati al conservatore sono custoditi secondo quanto è disposto dall'[art. 2664](../../../01%20-%20Titolo%20I%20-%20DELLA%20TRASCRIZIONE/01%20-%20Capo%20I%20-%20Della%20trascrizione%20degli%20atti%20relativi%20ai%20beni%20immobili/art-2664-cc.md).
+{: data-comma="2" }

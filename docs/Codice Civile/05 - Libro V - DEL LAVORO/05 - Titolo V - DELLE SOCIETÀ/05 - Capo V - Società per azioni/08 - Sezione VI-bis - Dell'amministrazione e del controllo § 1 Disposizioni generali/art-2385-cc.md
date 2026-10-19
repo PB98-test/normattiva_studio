@@ -21,7 +21,10 @@ ordine: 2531
 # Art. 2385 - ***Cessazione degli amministratori***
 
 L'amministratore che rinunzia all'ufficio deve darne comunicazione scritta al consiglio d'amministrazione e al presidente del collegio sindacale. La rinunzia ha effetto immediato, se rimane in carica la maggioranza del consiglio di amministrazione, o, in caso contrario, dal momento in cui la maggioranza del consiglio si è ricostituita in seguito all'accettazione dei nuovi amministratori.
+{: data-comma="1" }
 
 La cessazione degli amministratori per scadenza del termine ha effetto dal momento in cui il consiglio di amministrazione è stato ricostituito.
+{: data-comma="2" }
 
 La cessazione degli amministratori dall'ufficio per qualsiasi causa deve essere iscritta entro trenta giorni nel registro delle imprese a cura del collegio sindacale.
+{: data-comma="3" }

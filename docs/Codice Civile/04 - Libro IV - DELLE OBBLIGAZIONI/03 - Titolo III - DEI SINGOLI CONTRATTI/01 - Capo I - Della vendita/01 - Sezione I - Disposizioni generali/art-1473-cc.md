@@ -21,5 +21,7 @@ ordine: 1580
 # Art. 1473 - ***Determinazione del prezzo affidata a un terzo***
 
 Le parti possono affidare la determinazione del prezzo a un terzo, eletto nel contratto o da eleggere posteriormente.
+{: data-comma="1" }
 
 Se il terzo non vuole o non può accettare l'incarico, ovvero le parti non si accordano per la sua nomina o per la sua sostituzione, la nomina, su richiesta di una delle parti, è fatta dal presidente del tribunale del luogo in cui è stato concluso il contratto.
+{: data-comma="2" }

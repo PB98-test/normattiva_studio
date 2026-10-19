@@ -21,5 +21,7 @@ ordine: 2199
 # Art. 2078 - ***Efficacia degli usi***
 
 In mancanza di disposizioni di legge e di contratto collettivo si applicano gli usi. Tuttavia gli usi più favorevoli ai prestatori di lavoro prevalgono sulle norme dispositive di legge.
+{: data-comma="1" }
 
 Gli usi non prevalgono sui contratti individuali di lavoro.
+{: data-comma="2" }

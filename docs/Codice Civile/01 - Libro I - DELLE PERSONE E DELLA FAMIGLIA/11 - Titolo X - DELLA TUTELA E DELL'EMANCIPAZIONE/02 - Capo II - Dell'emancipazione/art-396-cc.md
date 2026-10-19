@@ -21,5 +21,7 @@ ordine: 481
 # Art. 396 - ***Inosservanza delle precedenti norme***
 
 Gli atti compiuti senza osservare le norme stabilite nell'[art. 394](art-394-cc.md) possono essere annullati su istanza del minore o dei suoi eredi o aventi causa.
+{: data-comma="1" }
 
 Sono applicabili al curatore le disposizioni dell'[art. 378](../01%20-%20Capo%20I%20-%20Della%20tutela%20dei%20minori/03%20-%20Sezione%20III%20-%20Dell%27esercizio%20della%20tutela/art-378-cc.md).
+{: data-comma="2" }

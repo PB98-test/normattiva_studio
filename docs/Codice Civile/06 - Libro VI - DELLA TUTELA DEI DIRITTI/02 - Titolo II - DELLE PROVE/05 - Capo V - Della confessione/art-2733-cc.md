@@ -21,7 +21,10 @@ ordine: 3038
 # Art. 2733 - ***Confessione giudiziale***
 
 È giudiziale la confessione resa in giudizio.
+{: data-comma="1" }
 
 Essa forma piena prova contro colui che l'ha fatta, purchè non verta su fatti relativi a diritti non disponibili.
+{: data-comma="2" }
 
 In caso di litisconsorzio necessario, la confessione resa da alcuni soltanto dei litisconsorti è liberamente apprezzata dal giudice.
+{: data-comma="3" }

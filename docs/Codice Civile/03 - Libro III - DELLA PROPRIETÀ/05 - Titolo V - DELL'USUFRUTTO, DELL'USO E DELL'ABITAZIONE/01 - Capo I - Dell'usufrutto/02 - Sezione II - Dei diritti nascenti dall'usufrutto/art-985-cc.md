@@ -21,7 +21,10 @@ ordine: 1080
 # Art. 985 - ***Miglioramenti***
 
 L'usufruttuario ha diritto a un'indennità per i miglioramenti che sussistono al momento della restituzione della cosa.
+{: data-comma="1" }
 
 L'indennità si deve corrispondere nella minor somma tra l'importo della spesa e l'aumento di valore conseguito dalla cosa per effetto dei miglioramenti.
+{: data-comma="2" }
 
 L'autorità giudiziaria, avuto riguardo alle circostanze, può disporre che il pagamento dell'indennità prevista dai commi precedenti sia fatto ratealmente, imponendo in questo caso idonea garanzia.
+{: data-comma="3" }

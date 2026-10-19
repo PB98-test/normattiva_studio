@@ -21,5 +21,7 @@ ordine: 645
 # Art. 506 - ***Valore minimo per l'assegnazione***
 
 L'assegnazione può essere fatta soltanto per un valore non inferiore alle spese di esecuzione e ai crediti aventi diritto a prelazione anteriore a quello dell'offerente.
+{: data-comma="1" }
 
 Se il valore eccede quello indicato nel comma precedente, sull'eccedenza concorrono l'offerente e gli altri creditori, osservate le cause di prelazione che li assistono.
+{: data-comma="2" }

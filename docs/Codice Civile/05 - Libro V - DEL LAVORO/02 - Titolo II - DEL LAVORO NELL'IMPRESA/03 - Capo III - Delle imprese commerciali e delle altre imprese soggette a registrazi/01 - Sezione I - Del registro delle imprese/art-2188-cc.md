@@ -21,7 +21,10 @@ ordine: 2309
 # Art. 2188 - ***Registro delle imprese***
 
 È istituito il registro delle imprese per le iscrizioni previste dalla legge.
+{: data-comma="1" }
 
 Il registro è tenuto dall'ufficio del registro delle imprese sotto la vigilanza di un giudice delegato dal presidente del tribunale.
+{: data-comma="2" }
 
 Il registro è pubblico.
+{: data-comma="3" }

@@ -21,9 +21,13 @@ ordine: 556
 # Art. 469 - ***Estensione del diritto di rappresentazione. Divisione***
 
 La rappresentazione ha luogo in infinito, siano uguali o disuguali il grado dei discendenti e il loro numero in ciascuna stirpe.
+{: data-comma="1" }
 
 La rappresentazione ha luogo anche nel caso di unicità di stirpe.
+{: data-comma="2" }
 
 Quando vi è rappresentazione, la divisione si fa per stirpi.
+{: data-comma="3" }
 
 Se uno stipite ha prodotto più rami, la suddivisione avviene per stirpi anche in ciascun ramo, e per capi tra i membri del medesimo ramo.
+{: data-comma="4" }

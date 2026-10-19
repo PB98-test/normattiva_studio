@@ -1,0 +1,21 @@
+---
+type: "Allegato"
+title: "Allegato 1"
+codice: dl179-12
+aliases:
+  - "allegato-1-dl179-12"
+libro: null
+libro_label: null
+titolo: null
+titolo_label: null
+capo: null
+capo_label: null
+sezione: null
+sezione_label: null
+dataVigenza: "20261016"
+ordine: 86
+---
+
+# Allegato 1
+
+Allegato 1 (previsto dall'articolo 34, comma 21) Articolo 1, comma 851, della legge 27 dicembre 2006, n. 296 (brevetti). Articolo 148, comma 1, della legge 23 dicembre 2000, n. 388 (sanzioni Antitrust). Articolo 10, comma 1, lettera c), del decreto del Presidente della Repubblica 28 settembre 1994, n. 634 (diritti della motorizzazione civile).

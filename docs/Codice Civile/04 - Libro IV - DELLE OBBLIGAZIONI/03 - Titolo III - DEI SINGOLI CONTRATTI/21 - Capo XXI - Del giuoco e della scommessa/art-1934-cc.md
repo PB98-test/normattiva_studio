@@ -21,5 +21,7 @@ ordine: 2055
 # Art. 1934 - ***Competizioni sportive***
 
 Sono eccettuati dalla norma del primo comma dell'articolo precedente, anche rispetto alle persone che non vi prendono parte, i giuochi che addestrano al maneggio delle armi, le corse di ogni specie e ogni altra competizione sportiva.
+{: data-comma="1" }
 
 Tuttavia il giudice può rigettare o ridurre la domanda, qualora ritenga la posta eccessiva.
+{: data-comma="2" }

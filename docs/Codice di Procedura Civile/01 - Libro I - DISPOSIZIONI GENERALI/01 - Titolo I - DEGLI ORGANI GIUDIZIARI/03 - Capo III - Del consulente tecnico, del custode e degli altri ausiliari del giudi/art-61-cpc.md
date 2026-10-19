@@ -21,5 +21,7 @@ ordine: 68
 # Art. 61 - ***Consulente tecnico***
 
 Quando è necessario, il giudice può farsi assistere, per il compimento di singoli atti o per tutto il processo, da uno o più consulenti di particolare competenza tecnica.
+{: data-comma="1" }
 
 La scelta dei consulenti tecnici deve essere normalmente fatta tra le persone iscritte in albi speciali formati a norma del disposizioni di attuazione al presente codice.
+{: data-comma="2" }

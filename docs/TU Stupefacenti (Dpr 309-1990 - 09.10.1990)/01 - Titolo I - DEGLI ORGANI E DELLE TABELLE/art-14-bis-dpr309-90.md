@@ -14,7 +14,7 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Sistema nazionale di allerta rapida per le droghe - NEWS-D"
-dataVigenza: "20260930"
+dataVigenza: "20261016"
 ordine: 15
 ---
 
@@ -38,7 +38,7 @@ ordine: 15
 - c) le amministrazioni centrali e periferiche competenti in materia di droga;
 - d) le strutture di emergenza;
 - e) i laboratori delle Forze di polizia;
-- f) le strutture pubbliche di base individuate ai sensi dell'[articolo 75](../08%20-%20Titolo%20VIII%20-%20DELLA%20REPRESSIONE%20DELLE%20ATTIVITÀ%20ILLECITE%20Capo%20I%20DISPOSIZIONI%20PENA/art-75-dpr309-90.md), comma 10;
+- f) le strutture pubbliche di base individuate ai sensi dell'[articolo 75](../08%20-%20Titolo%20VIII%20-%20DELLA%20REPRESSIONE%20DELLE%20ATTIVITÀ%20ILLECITE/01%20-%20Capo%20I%20-%20DISPOSIZIONI%20PENALI%20E%20SANZIONI%20AMMINISTRATIVE/art-75-dpr309-90.md), comma 10;
 - g) gli enti, le agenzie e le associazioni scientifiche ovvero i soggetti pubblici o privati operanti nell'ambito della prevenzione, della cura e della riabilitazione delle dipendenze da sostanze stupefacenti, individuati, sulla base di criteri specifici, dal Dipartimento per le politiche antidroga della Presidenza del Consiglio dei ministri.
 
 5\. Al fine di garantire la piena operatività del Sistema di cui al comma 1 e la tempestiva individuazione di nuove sostanze stupefacenti e psicoattive, nonchè i loro effetti sulla salute, il Dipartimento per le politiche antidroga della Presidenza del Consiglio dei ministri è autorizzato, anche in deroga alle disposizioni contenute nel codice dei contratti pubblici, di cui al decreto legislativo 31 marzo 2023, n. 36, a stipulare convenzioni e contratti con strutture private in possesso dei requisiti di cui al comma 3, lettera b).

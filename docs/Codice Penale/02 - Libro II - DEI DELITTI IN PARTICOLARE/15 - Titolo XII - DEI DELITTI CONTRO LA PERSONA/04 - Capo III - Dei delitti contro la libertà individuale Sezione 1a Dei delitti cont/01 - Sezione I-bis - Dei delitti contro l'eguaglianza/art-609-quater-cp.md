@@ -21,15 +21,19 @@ ordine: 815
 # Art. 609-quater - ***Atti sessuali con minorenne***
 
 Soggiace alla pena stabilita dall'[articolo 609-bis](art-609-bis-cp.md) chiunque, al di fuori delle ipotesi previste in detto articolo, compie atti sessuali con persona che, al momento del fatto:
+{: data-comma="1" }
 
 - 1) non ha compiuto gli anni quattordici;
 - 2) non ha compiuto gli anni sedici, quando il colpevole sia l'ascendente, il genitore, anche adottivo, o il di lui convivente, il tutore, ovvero altra persona cui, per ragioni di cura, di educazione, di istruzione, di vigilanza o di custodia, il minore è affidato o che abbia, con quest'ultimo, una relazione di convivenza.
 
 Fuori dei casi previsti dall'[articolo 609-bis](art-609-bis-cp.md), l'ascendente, il genitore, anche adottivo, o il di lui convivente, il tutore, ovvero altra persona cui, per ragioni di cura, di educazione, di istruzione, di vigilanza o di custodia, il minore è affidato, o che abbia con quest'ultimo una relazione di convivenza, che, con l'abuso dei poteri connessi alla sua posizione, compie atti sessuali con persona minore che ha compiuto gli anni sedici, è punito con la reclusione da tre a sei anni.
+{: data-comma="2" }
 
 Fuori dei casi previsti dai commi precedenti, chiunque compie atti sessuali con persona minore che ha compiuto gli anni quattordici, abusando della fiducia riscossa presso il minore o dell'autorità o dell'influenza esercitata sullo stesso in ragione della propria qualità o dell'ufficio ricoperto o delle relazioni familiari, domestiche, lavorative, di coabitazione o di ospitalità, è punito con la reclusione fino a quattro anni.
+{: data-comma="3" }
 
 La pena è aumentata:
+{: data-comma="4" }
 
 - 1) se il compimento degli atti sessuali con il minore che non ha compiuto gli anni quattordici avviene in cambio di denaro o di qualsiasi altra utilità, anche solo promessi;
 - 2) se il reato è commesso da più persone riunite;
@@ -38,7 +42,10 @@ La pena è aumentata:
 - 5) se dal fatto deriva pericolo di vita per il minore.
 
 Non è punibile il minorenne che, al di fuori delle ipotesi previste nell'[articolo 609-bis](art-609-bis-cp.md), compie atti sessuali con un minorenne che abbia compiuto gli anni tredici, se la differenza di età tra i soggetti non è superiore a quattro anni.
+{: data-comma="5" }
 
 Nei casi di minore gravità la pena è diminuita in misura non eccedente i due terzi.
+{: data-comma="6" }
 
 Si applica la pena di cui all'[articolo 609-ter](art-609-ter-cp.md), secondo comma, se la persona offesa non ha compiuto gli anni dieci.
+{: data-comma="7" }

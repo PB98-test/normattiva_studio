@@ -21,5 +21,7 @@ ordine: 280
 # Art. 236 - ***Atto di nascita e possesso di stato***
 
 La filiazione ... si prova con l'atto di nascita iscritto nei registri dello stato civile.
+{: data-comma="1" }
 
 Basta, in mancanza di questo titolo, il possesso continuo dello stato di figlio ....
+{: data-comma="2" }

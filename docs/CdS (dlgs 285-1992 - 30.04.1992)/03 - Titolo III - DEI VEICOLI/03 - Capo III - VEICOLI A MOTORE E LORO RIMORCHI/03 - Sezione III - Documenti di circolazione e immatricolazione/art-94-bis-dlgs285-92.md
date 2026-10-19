@@ -14,7 +14,7 @@ capo_label: "VEICOLI A MOTORE E LORO RIMORCHI"
 sezione: "III"
 sezione_label: "Documenti di circolazione e immatricolazione"
 rubrica: "Divieto di intestazione fittizia dei veicoli"
-dataVigenza: "20260914"
+dataVigenza: "20261012"
 ordine: 101
 ---
 
@@ -28,16 +28,16 @@ ordine: 101
 
 4\. Con uno o più decreti del Ministro delle infrastrutture e dei trasporti, di concerto con i Ministri della giustizia e dell'interno, sono dettate le disposizioni applicative della disciplina recata dai commi 1, 2 e 3, con particolare riferimento all'individuazione di quelle situazioni che, in relazione alla tutela della finalità di cui al comma 1 o per l'elevato numero dei veicoli coinvolti, siano tali da richiedere una verifica che non ricorrano le circostanze di cui al predetto comma 1.
 
-[^agg-114]: *AGGIORNAMENTO (114)* Il Decreto 19 dicembre 2012 (in G.U. 31/12/2012, n. 303) ha disposto (con l'[art. 1](../../../01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-1-dlgs285-92.md), comma 2) che la presente modifica avrà effetto a decorrere dal 1 gennaio 2013.
+[^agg-114]: *AGGIORNAMENTO (114)* Il Decreto 19 dicembre 2012 (in G.U. 31/12/2012, n. 303) ha disposto (con l'art. 1, comma 2) che la presente modifica avrà effetto a decorrere dal 1 gennaio 2013.
 
-[^agg-124]: *AGGIORNAMENTO (124)* Il Decreto 19 dicembre 2012 (in G.U. 31/12/2012, n. 303) ha disposto (con l'[art. 1](../../../01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-1-dlgs285-92.md), comma 2) che la presente modifica avrà effetto a decorrere dal 1 gennaio 2013.
+[^agg-124]: *AGGIORNAMENTO (124)* Il Decreto 19 dicembre 2012 (in G.U. 31/12/2012, n. 303) ha disposto (con l'art. 1, comma 2) che la presente modifica avrà effetto a decorrere dal 1 gennaio 2013.
 
-[^agg-133]: *AGGIORNAMENTO (133)* Il Decreto 20 dicembre 2016 (in G.U. 30/12/2016, n. 304) ha disposto (con l'[art. 1](../../../01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-1-dlgs285-92.md), comma 1) che la presente modifica avrà effetto a decorrere dal 1 gennaio 2017.
+[^agg-133]: *AGGIORNAMENTO (133)* Il Decreto 20 dicembre 2016 (in G.U. 30/12/2016, n. 304) ha disposto (con l'art. 1, comma 1) che la presente modifica avrà effetto a decorrere dal 1 gennaio 2017.
 
-[^agg-138a]: *AGGIORNAMENTO (138a)* Il D.Lgs. 29 maggio 2017, n. 98, come modificato dalla L. 27 dicembre 2017, n. 205, ha disposto (con l'[art. 7](../../../01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-7-dlgs285-92.md), comma 1) la proroga dell'entrata in vigore della modifica di cui al comma 1 del presente articolo dal 1° luglio 2018 al 1° gennaio 2019.
+[^agg-138a]: *AGGIORNAMENTO (138a)* Il D.Lgs. 29 maggio 2017, n. 98, come modificato dalla L. 27 dicembre 2017, n. 205, ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore della modifica di cui al comma 1 del presente articolo dal 1° luglio 2018 al 1° gennaio 2019.
 
-[^agg-148]: *AGGIORNAMENTO (148)* Il D.Lgs. 29 maggio 2017, n. 98, come modificato dalla L. 30 dicembre 2018, n. 145, ha disposto (con l'[art. 7](../../../01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-7-dlgs285-92.md), comma 1) la proroga dell'entrata in vigore della modifica di cui al comma 1 del presente articolo dal 1° gennaio 2019 al 1° gennaio 2020.
+[^agg-148]: *AGGIORNAMENTO (148)* Il D.Lgs. 29 maggio 2017, n. 98, come modificato dalla L. 30 dicembre 2018, n. 145, ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore della modifica di cui al comma 1 del presente articolo dal 1° gennaio 2019 al 1° gennaio 2020.
 
-[^agg-145]: *AGGIORNAMENTO (145)* Il Decreto 27 dicembre 2018 (in G.U. 29/12/2018, n. 301) ha disposto (con l'[art. 3](../../../01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-3-dlgs285-92.md), comma 1) che la presente modifica avrà effetto a decorrere dal 1° gennaio 2019.
+[^agg-145]: *AGGIORNAMENTO (145)* Il Decreto 27 dicembre 2018 (in G.U. 29/12/2018, n. 301) ha disposto (con l'art. 3, comma 1) che la presente modifica avrà effetto a decorrere dal 1° gennaio 2019.
 
-[^agg-163]: *AGGIORNAMENTO (163)* Il Decreto 31 dicembre 2020 (in G.U. 31/12/2020, n. 323) ha disposto (con l'[art. 3](../../../01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-3-dlgs285-92.md), comma 1) che la presente modifica avrà effetto a decorrere dal 1° gennaio 2021.
+[^agg-163]: *AGGIORNAMENTO (163)* Il Decreto 31 dicembre 2020 (in G.U. 31/12/2020, n. 323) ha disposto (con l'art. 3, comma 1) che la presente modifica avrà effetto a decorrere dal 1° gennaio 2021.

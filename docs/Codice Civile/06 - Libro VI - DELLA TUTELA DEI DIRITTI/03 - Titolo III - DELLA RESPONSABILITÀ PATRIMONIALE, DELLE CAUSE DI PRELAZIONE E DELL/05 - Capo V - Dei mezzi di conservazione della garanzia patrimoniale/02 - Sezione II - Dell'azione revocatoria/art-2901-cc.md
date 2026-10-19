@@ -21,12 +21,16 @@ ordine: 3211
 # Art. 2901 - ***Condizioni***
 
 Il creditore, anche se il credito è soggetto a condizione o a termine, può domandare che siano dichiarati inefficaci nei suoi confronti gli atti di disposizione del patrimonio con i quali il debitore rechi pregiudizio alle sue ragioni, quando concorrono le seguenti condizioni:
+{: data-comma="1" }
 
 - 1) che il debitore conoscesse il pregiudizio che l'atto arrecava alle ragioni del creditore o, trattandosi di atto anteriore al sorgere del credito, l'atto fosse dolosamente preordinato al fine di pregiudicarne il soddisfacimento;
 - 2) che, inoltre, trattandosi di atto a titolo oneroso, il terzo fosse consapevole del pregiudizio e, nel caso di atto anteriore al sorgere del credito, fosse partecipe della dolosa preordinazione.
 
 Agli effetti della presente norma, le prestazioni di garanzia, anche per debiti altrui, sono considerate atti a titolo oneroso, quando sono contestuali al credito garantito.
+{: data-comma="2" }
 
 Non è soggetto a revoca l'adempimento di un debito scaduto.
+{: data-comma="3" }
 
 L'inefficacia dell'atto non pregiudica i diritti acquistati a titolo oneroso dai terzi di buona fede, salvi gli effetti della trascrizione della domanda di revocazione.
+{: data-comma="4" }

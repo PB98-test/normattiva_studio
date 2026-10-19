@@ -21,5 +21,7 @@ ordine: 3216
 # Art. 2906 - ***Effetti***
 
 Non hanno effetto in pregiudizio del creditore sequestrante le alienazioni e gli altri atti che hanno per oggetto la cosa sequestrata, in conformità delle regole stabilite per il pignoramento.
+{: data-comma="1" }
 
 Non ha parimenti effetto in pregiudizio del creditore opponente il pagamento eseguito dal debitore, qualora l'opposizione sia stata proposta nei casi e con le forme stabilite dalla legge.
+{: data-comma="2" }

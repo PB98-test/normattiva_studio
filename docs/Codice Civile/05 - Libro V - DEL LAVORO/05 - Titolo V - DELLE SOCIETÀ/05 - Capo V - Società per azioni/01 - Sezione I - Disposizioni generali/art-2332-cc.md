@@ -21,17 +21,23 @@ ordine: 2457
 # Art. 2332 - ***Nullità della società***
 
 Avvenuta l'iscrizione nel registro delle imprese, la nullità della società può essere pronunciata soltanto nei seguenti casi:
+{: data-comma="1" }
 
 - 1) mancata stipulazione dell'atto costitutivo nella forma dell'atto pubblico;
 - 2) illiceità dell'oggetto sociale;
 - 3) mancanza nell'atto costitutivo di ogni indicazione riguardante la denominazione della società, o i conferimenti, o l'ammontare del capitale sociale o l'oggetto sociale.
 
 La dichiarazione di nullità non pregiudica l'efficacia degli atti compiuti in nome della società dopo l'iscrizione nel registro delle imprese.
+{: data-comma="2" }
 
 I soci non sono liberati dall'obbligo di conferimento fino a quando non sono soddisfatti i creditori sociali.
+{: data-comma="3" }
 
 La sentenza che dichiara la nullità nomina i liquidatori.
+{: data-comma="4" }
 
 La nullità non può essere dichiarata quando la causa di essa è stata eliminata e di tale eliminazione è stata data pubblicità con iscrizione nel registro delle imprese.
+{: data-comma="5" }
 
 Il dispositivo della sentenza che dichiara la nullità deve essere iscritto, a cura degli amministratori o dei liquidatori nominati ai sensi del quarto comma, nel registro delle imprese.
+{: data-comma="6" }

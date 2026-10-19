@@ -1,0 +1,43 @@
+---
+type: "Articolo di legge"
+title: "Art. 16-nonies - Modalità informatiche per le domande di iscrizione e per la tenuta dell'albo dei consulenti tecnici, dell'albo dei periti presso il tribunale, dell'elenco dei soggetti specializzati per la custodia e la vendita dei beni pignorati e dell'elenco dei professionisti disponibili a provvedere alle operazioni di vendita"
+articolo: "Art. 16-nonies"
+codice: dl179-12
+aliases:
+  - "art-16-nonies-dl179-12"
+libro: null
+libro_label: null
+titolo: null
+titolo_label: null
+capo: null
+capo_label: null
+sezione: "VI"
+sezione_label: "Giustizia digitale"
+rubrica: "Modalità informatiche per le domande di iscrizione e per la tenuta dell'albo dei consulenti tecnici, dell'albo dei periti presso il tribunale, dell'elenco dei soggetti specializzati per la custodia e la vendita dei beni pignorati e dell'elenco dei professionisti disponibili a provvedere alle operazioni di vendita"
+dataVigenza: "20261016"
+ordine: 31
+---
+
+# Art. 16-nonies - ***Modalità informatiche per le domande di iscrizione e per la tenuta dell'albo dei consulenti tecnici, dell'albo dei periti presso il tribunale, dell'elenco dei soggetti specializzati per la custodia e la vendita dei beni pignorati e dell'elenco dei professionisti disponibili a provvedere alle operazioni di vendita***
+
+1\. Le domande di iscrizione all'albo dei consulenti tecnici di cui agli articoli 13 e seguenti delle disposizioni per l'attuazione del [codice di procedura civile](../../Codice%20di%20Procedura%20Civile/00%20-%20Indice%20%28cpc%29.md), all'elenco dei soggetti specializzati previsto dall'articolo 169-sexies delle medesime disposizioni e all'albo dei periti presso il tribunale, di cui agli articoli 67 e seguenti delle norme di attuazione del [codice di procedura penale](../../Codice%20di%20Procedura%20Penale/00%20-%20Indice%20%28cpp%29.md), sono inserite, a cura di coloro che le propongono, con modalità esclusivamente telematiche in conformità alle specifiche tecniche di cui al comma 5. Con le medesime modalità sono inseriti i documenti allegati alle domande.
+
+2\. Le disposizioni di cui al comma 1 si applicano anche alle domande e ai relativi documenti per l'iscrizione negli elenchi dei professionisti disponibili a provvedere alle operazioni di vendita di cui all'articolo 169-ter e all'articolo 179-ter, secondo comma, delle disposizioni per l'attuazione del [codice di procedura civile](../../Codice%20di%20Procedura%20Civile/00%20-%20Indice%20%28cpc%29.md).
+
+3\. Quando, per l'iscrizione negli albi e negli elenchi di cui al presente articolo, la legge prevede il pagamento di bolli, diritti o altre somme a qualsiasi titolo, il versamento è effettuato esclusivamente con sistemi telematici di pagamento ovvero con carte di debito, di credito o prepagate o con altri mezzi di pagamento con moneta elettronica disponibili nel circuito bancario o postale, a norma dell'articolo 4, comma 9, del decreto-legge 29 dicembre 2009, n. 193, convertito, con modificazioni, dalla legge 22 febbraio 2010, n. 24. I versamenti di cui al presente comma hanno luogo nel rispetto della normativa, anche regolamentare, concernente i pagamenti telematici nel processo civile.
+
+4\. Gli albi e gli elenchi di cui ai commi 1 e 2 sono formati a norma delle disposizioni legislative che li regolano e tenuti, a cura del presidente del tribunale, con modalità esclusivamente informatiche in conformità alle specifiche tecniche di cui al comma 5. L'accesso ai dati contenuti negli albi e negli elenchi è consentito ai magistrati e al personale delle cancellerie e delle segreterie di tutti gli uffici giudiziari della giustizia ordinaria. Salvo quanto previsto dall'articolo 179-quater, terzo comma, delle disposizioni per l'attuazione del [codice di procedura civile](../../Codice%20di%20Procedura%20Civile/00%20-%20Indice%20%28cpc%29.md), la disposizione di cui al periodo precedente si applica anche agli elenchi previsti dagli articoli 169-ter e 179-ter delle medesime disposizioni. Resta fermo quanto previsto dagli [articoli 23](../08%20-%20Sezione%20VIII%20-%20Assicurazioni,%20mutualità%20e%20mercato%20finanziario/art-23-dl179-12.md), secondo comma, secondo periodo, e 24-bis, secondo comma, delle disposizioni per l'attuazione del [codice di procedura civile](../../Codice%20di%20Procedura%20Civile/00%20-%20Indice%20%28cpc%29.md). [^agg-66] [^agg-69]
+
+5\. La presentazione delle domande e la tenuta degli albi ed elenchi di cui al presente articolo sono effettuate in conformità alle specifiche tecniche stabilite dal responsabile per i sistemi informativi automatizzati del Ministero della giustizia, nel rispetto della disciplina prevista dal [decreto legislativo 7 marzo 2005, n. 82](../../Dlgs%2082-2005%20-%2007.03.2005/00%20-%20Indice%20%28dlgs82-05%29.md), entro sei mesi dalla data di entrata in vigore della presente disposizione. Le specifiche tecniche sono pubblicate nella Gazzetta Ufficiale della Repubblica Italiana e sul sito internet del Ministero della giustizia. [^agg-21] [^agg-29]
+
+6\. Le disposizioni del presente articolo acquistano efficacia decorsi trenta giorni dalla pubblicazione sul sito internet del Ministero della giustizia delle specifiche tecniche previste dal comma 5.
+
+7\. I soggetti di cui ai commi 1 e 2, che alla data di acquisto di efficacia delle disposizioni del presente articolo sono già iscritti negli albi ed elenchi previsti dai medesimi commi, inseriscono i propri dati, con modalità telematiche e in conformità alle specifiche tecniche di cui al comma 5, entro il termine perentorio di novanta giorni dalla pubblicazione sul sito internet del Ministero della giustizia delle medesime specifiche tecniche. A decorrere dalla data di scadenza del termine di cui al periodo precedente, gli albi ed elenchi già formati sono sostituiti ad ogni effetto dagli albi ed elenchi previsti dal presente articolo.
+
+[^agg-21]: *AGGIORNAMENTO (21)* Il D.L. 30 dicembre 2015, n. 210 convertito con modificazioni dalla L. 25 febbraio 2016, n. 21 ha disposto (con l'art. 2-bis, comma 2) che "È prorogato fino al 31 dicembre 2016 il termine assegnato al responsabile per i sistemi informativi automatizzati del Ministero della giustizia per l'adozione delle specifiche tecniche di cui all'[articolo 16-novies, comma 5, del decreto-legge 18 ottobre 2012, n. 179](art-16-nonies-dl179-12.md), convertito, con modificazioni, dalla legge 17 dicembre 2012, n. 221".
+
+[^agg-29]: *AGGIORNAMENTO (29)* Il D.L. 30 dicembre 2015, n. 210, convertito con modificazioni dalla L. 25 febbraio 2016, n. 21, come modificato dal D.L. 30 dicembre 2016, n. 244, convertito con modificazioni dalla L. 27 febbraio 2017, n. 19, ha disposto (con l'art. 2-bis, comma 1) che "È prorogato fino al 30 giugno 2017 il termine assegnato al responsabile per i sistemi informativi automatizzati del Ministero della giustizia per l'adozione delle specifiche tecniche di cui all'[articolo 16-novies, comma 5, del decreto-legge 18 ottobre 2012, n. 179](art-16-nonies-dl179-12.md), convertito, con modificazioni, dalla legge 17 dicembre 2012, n. 221".
+
+[^agg-66]: *AGGIORNAMENTO (66)* Il [D.Lgs. 10 ottobre 2022, n. 149](../../Cartabia%20%28Dlgs%20149-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs149-22%29.md) ha disposto (con l'[art. 35](../../Cartabia%20%28Dlgs%20149-2022%20-%2010.10.2022%29/05%20-%20Capo%20V%20-%20Diposizioni%20transitorie,%20finanziarie%20e%20finali/01%20-%20Sezione%20I%20-%20Disposizioni%20in%20materia%20di%20processo%20civile/art-35-dlgs149-22.md), comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 30 giugno 2023 si applicano le disposizioni anteriormente vigenti".
+
+[^agg-69]: *AGGIORNAMENTO (69)* Il [D.Lgs. 10 ottobre 2022, n. 149](../../Cartabia%20%28Dlgs%20149-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs149-22%29.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../../L.%20197-2022%20-%2029.12.2022/00%20-%20Indice%20%28l197-22%29.md), ha disposto (con l'[art. 35](../../Cartabia%20%28Dlgs%20149-2022%20-%2010.10.2022%29/05%20-%20Capo%20V%20-%20Diposizioni%20transitorie,%20finanziarie%20e%20finali/01%20-%20Sezione%20I%20-%20Disposizioni%20in%20materia%20di%20processo%20civile/art-35-dlgs149-22.md), comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".

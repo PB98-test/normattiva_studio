@@ -21,5 +21,7 @@ ordine: 1006
 # Art. 816-septies - ***Anticipazione delle spese***
 
 Gli arbitri possono subordinare la prosecuzione del procedimento al versamento anticipato delle spese prevedibili. Salvo diverso accordo delle parti, gli arbitri determinano la misura dell'anticipazione a carico di ciascuna parte.
+{: data-comma="1" }
 
 Se una delle parti non presta l'anticipazione richiestale, l'altra può anticipare la totalità delle spese. Se le parti non provvedono all'anticipazione nel termine fissato dagli arbitri, non sono più vincolate alla convenzione di arbitrato con riguardo alla controversia che ha dato origine al procedimento arbitrale.
+{: data-comma="2" }

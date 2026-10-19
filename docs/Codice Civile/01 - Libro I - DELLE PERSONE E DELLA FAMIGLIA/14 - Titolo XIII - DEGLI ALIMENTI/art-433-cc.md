@@ -14,7 +14,7 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Persone obbligate"
-dataVigenza: "20260930"
+dataVigenza: "20261016"
 ordine: 518
 ---
 
@@ -27,4 +27,4 @@ All'obbligo di prestare gli alimenti sono tenuti, nell'ordine:
 - 5) il suocero e la suocera;
 - 6) i fratelli e le sorelle germani o unilaterali, con precedenza dei germani sugli unilaterali.[^agg-216]
 
-[^agg-216]: *AGGIORNAMENTO (216)* La L. 10 dicembre 2012, n. 219 ha disposto (con l'[art. 1](../01%20-%20Titolo%20I%20-%20DELLE%20PERSONE%20FISICHE/art-1-cc.md), comma 11) che "Nel [codice civile](../../00%20-%20Indice%20%28cc%29.md), le parole: «figli legittimi» e «figli naturali», ovunque ricorrono, sono sostituite dalla seguente: «figli»."
+[^agg-216]: *AGGIORNAMENTO (216)* La L. 10 dicembre 2012, n. 219 ha disposto (con l'art. 1, comma 11) che "Nel [codice civile](../../00%20-%20Indice%20%28cc%29.md), le parole: «figli legittimi» e «figli naturali», ovunque ricorrono, sono sostituite dalla seguente: «figli»."

@@ -21,5 +21,7 @@ ordine: 1980
 # Art. 1859 - ***Sconto di cambiali***
 
 Se lo sconto avviene mediante girata di cambiale o di assegno bancario, la banca, nel caso di mancato pagamento, oltre ai diritti derivanti dal titolo, ha anche il diritto alla restituzione della somma anticipata.
+{: data-comma="1" }
 
 Sono salve le norme delle leggi speciali relative alla cessione della provvista nello sconto di tratte non accettate o munite di clausole «senza accettazione».
+{: data-comma="2" }

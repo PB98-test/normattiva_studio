@@ -21,5 +21,7 @@ ordine: 1339
 # Art. 1237 - ***Restituzioni volontaria del titolo***
 
 La restituzione volontaria del titolo originale del credito, fatta dal creditore al debitore, costituisce prova della liberazione anche rispetto ai condebitori in solido.
+{: data-comma="1" }
 
 Se il titolo del credito è in forma pubblica, la consegna volontaria della copia spedita in forma esecutiva fa presumere la liberazione, salva la prova contraria.
+{: data-comma="2" }

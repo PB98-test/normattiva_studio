@@ -21,7 +21,10 @@ ordine: 1043
 # Art. 948 - ***Azione di rivendicazione***
 
 Il proprietario può rivendicare la cosa da chiunque la possiede o detiene e può proseguire l'esercizio dell'azione anche se costui, dopo la domanda, ha cessato, per fatto proprio, di possedere o detenere la cosa. In tal caso il convenuto è obbligato a ricuperarla per l'attore a proprie spese, o, in mancanza, a corrispondergliene il valore, oltre a risarcirgli il danno.
+{: data-comma="1" }
 
 Il proprietario, se consegue direttamente dal nuovo possessore o detentore la restituzione della cosa, è tenuto a restituire al precedente possessore o detentore la somma ricevuta in luogo di essa.
+{: data-comma="2" }
 
 L'azione di rivendicazione non si prescrive, salvi gli effetti dell'acquisto della proprietà da parte di altri per usucapione.
+{: data-comma="3" }

@@ -21,5 +21,7 @@ ordine: 2860
 # Art. 2569 - ***Diritto di esclusività***
 
 Chi ha registrato nelle forme stabilite dalla legge un nuovo marchio idoneo a distinguere prodotti o servizi ha diritto di valersene in modo esclusivo per i prodotti o servizi per i quali è stato registrato.
+{: data-comma="1" }
 
 In mancanza di registrazione il marchio è tutelato a norma dell'[art. 2571](art-2571-cc.md).
+{: data-comma="2" }

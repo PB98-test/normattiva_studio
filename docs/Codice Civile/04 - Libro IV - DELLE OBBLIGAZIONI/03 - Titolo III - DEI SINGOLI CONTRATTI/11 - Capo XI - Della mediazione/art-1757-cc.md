@@ -21,7 +21,10 @@ ordine: 1874
 # Art. 1757 - ***Provvigione nei contratti condizionali o invalidi***
 
 Se il contratto è sottoposto a condizione sospensiva, il diritto alla provvigione sorge nel momento in cui si verifica la condizione.
+{: data-comma="1" }
 
 Se il contratto è sottoposto a condizione risolutiva, il diritto alla provvigione non viene meno col verificarsi della condizione.
+{: data-comma="2" }
 
 La disposizione del comma precedente si applica anche quando il contratto è annullabile o rescindibile, se il mediatore non conosceva la causa d'invalidità.
+{: data-comma="3" }

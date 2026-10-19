@@ -21,18 +21,25 @@ ordine: 196
 # Art. 156 - ***Effetti della separazione sui rapporti patrimoniali tra i coniugi***
 
 Il giudice, pronunziando la separazione, stabilisce a vantaggio del coniuge cui non sia addebitabile la separazione il diritto di ricevere dall'altro coniuge quanto è necessario al suo mantenimento, qualora egli non abbia adeguati redditi propri.
+{: data-comma="1" }
 
 L'entità di tale somministrazione è determinata in relazione alle circostanze e ai redditi dell'obbligato.
+{: data-comma="2" }
 
 Resta fermo l'obbligo di prestare gli alimenti di cui agli articoli 433 e seguenti.
+{: data-comma="3" }
 
 COMMA ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 149, COME MODIFICATO DALLA L. 29 DICEMBRE 2022, N. 197.
+{: data-comma="4" }
 
 COMMA ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 149, COME MODIFICATO DALLA L. 29 DICEMBRE 2022, N. 197.
+{: data-comma="5" }
 
 COMMA ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 149, COME MODIFICATO DALLA L. 29 DICEMBRE 2022, N. 197.
+{: data-comma="6" }
 
 Qualora sopravvengano giustificati motivi il giudice, su istanza di parte, può disporre la revoca o la modifica dei provvedimenti di cui ai commi precedenti.
+{: data-comma="7" }
 
 [^agg-8]: *AGGIORNAMENTO (8)* La Corte Costituzionale, con sentenza 4 - 23 maggio 1966, n. 46 (in G.U. 1a s.s. 28/5/1966, n. 131), ha dichiarato "l'illegittimità costituzionale dell'[art. 156, primo comma, del Codice civile](art-156-cc.md), nella parte in cui pone a carico del marito, in regime di separazione consensuale senza colpa di nessuno dei coniugi, l'obbligo di somministrare alla moglie tutto ciò che è necessario ai bisogni della vita, indipendentemente dalle condizioni economiche di costei".
 

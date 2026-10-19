@@ -21,5 +21,7 @@ ordine: 125
 # Art. 113 - ***Cooperazione nel delitto colposo***
 
 Nel delitto colposo, quando l'evento è stato cagionato dalla cooperazione di più persone, ciascuna di queste soggiace alle pene stabilite per il delitto stesso.
+{: data-comma="1" }
 
 La pena è aumentata per chi ha determinato altri a cooperare nel delitto, quando concorrono le condizioni stabilite nell'[articolo 111](art-111-cp.md) e nei numeri 3° e 4° dell'[articolo 112](art-112-cp.md).
+{: data-comma="2" }

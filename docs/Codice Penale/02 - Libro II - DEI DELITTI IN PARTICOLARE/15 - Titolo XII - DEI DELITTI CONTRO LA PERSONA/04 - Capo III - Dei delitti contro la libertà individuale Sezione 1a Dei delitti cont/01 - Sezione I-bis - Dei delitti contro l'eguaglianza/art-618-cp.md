@@ -21,5 +21,7 @@ ordine: 847
 # Art. 618 - ***Rivelazione del contenuto di corrispondenza***
 
 Chiunque, fuori dei casi preveduti dall'[articolo 616](art-616-cp.md), essendo venuto abusivamente a cognizione del contenuto di una corrispondenza a lui non diretta, che doveva rimanere segreta, senza giusta causa lo rivela, in tutto o in parte, è punito, se dal fatto deriva nocumento, con la reclusione fino a sei mesi o con la multa da lire mille a cinquemila.
+{: data-comma="1" }
 
 Il delitto è punibile a querela della persona offesa.
+{: data-comma="2" }

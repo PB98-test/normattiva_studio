@@ -21,5 +21,7 @@ ordine: 919
 # Art. 743 - ***Copie degli atti***
 
 Qualunque depositario pubblico, autorizzato a spedire copia degli atti che detiene, deve rilasciarne copia autentica, ancorchè l'istante o i suoi autori non siano stati parte nell'atto, sotto pena dei danni e delle spese, salve le disposizioni speciali della legge sulle tasse di registro e bollo.
+{: data-comma="1" }
 
 La copia d'un testamento pubblico non può essere spedita durante la vita del testatore, tranne che a sua istanza, della quale si fa menzione nella copia.
+{: data-comma="2" }

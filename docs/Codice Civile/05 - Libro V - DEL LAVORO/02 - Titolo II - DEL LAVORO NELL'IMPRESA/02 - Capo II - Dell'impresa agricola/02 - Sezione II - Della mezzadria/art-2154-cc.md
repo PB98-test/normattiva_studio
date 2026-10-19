@@ -21,5 +21,7 @@ ordine: 2275
 # Art. 2154 - ***Anticipazioni di carattere alimentare alla famiglia colonica***
 
 Se la quota dei prodotti spettante al mezzadro per scarsezza del raccolto a lui non imputabile, non è sufficiente ai bisogni alimentari della famiglia colonica, e questa non è in grado di provvedervi, il concedente deve somministrare senza interesse il necessario per il mantenimento della famiglia colonica, salvo rivalsa mediante prelevamento sulla parte dei prodotti e degli utili spettanti al mezzadro.
+{: data-comma="1" }
 
 Il giudice, con riguardo alle circostanze, può disporre il rimborso rateale.
+{: data-comma="2" }

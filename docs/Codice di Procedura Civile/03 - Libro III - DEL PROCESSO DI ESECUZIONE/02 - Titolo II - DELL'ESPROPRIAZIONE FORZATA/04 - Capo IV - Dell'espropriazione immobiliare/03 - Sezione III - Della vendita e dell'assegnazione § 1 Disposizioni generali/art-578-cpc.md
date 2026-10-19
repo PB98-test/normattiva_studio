@@ -21,5 +21,7 @@ ordine: 724
 # Art. 578 - ***Delega a compiere la vendita***
 
 Se una parte dei beni pignorati è situata nella circoscrizione di altro tribunale, con l'ordinanza che dispone la vendita il giudice dell'esecuzione può stabilire che l'incanto avvenga, per quella parte, davanti al tribunale del luogo in cui è situata.
+{: data-comma="1" }
 
 In tale caso, copia dell'ordinanza è trasmessa dal cancelliere al presidente del tribunale delegato, il quale nomina un giudice per l'esecuzione della vendita.
+{: data-comma="2" }

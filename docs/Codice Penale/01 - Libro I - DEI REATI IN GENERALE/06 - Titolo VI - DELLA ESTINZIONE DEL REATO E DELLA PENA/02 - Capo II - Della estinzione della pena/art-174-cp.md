@@ -21,7 +21,10 @@ ordine: 195
 # Art. 174 - ***Indulto e grazia***
 
 L'indulto o la grazia condona, in tutto o in parte, la pena inflitta, o la commuta in un'altra specie di pena stabilita dalla legge. Non estingue le pene accessorie, salvo che il decreto disponga diversamente, e neppure gli altri effetti penali della condanna.
+{: data-comma="1" }
 
 Nel concorso di più reati, l'indulto si applica una sola volta, dopo cumulate le pene, secondo le norme concernenti il concorso dei reati.
+{: data-comma="2" }
 
 Si osservano, per l'indulto, le disposizioni contenute nei tre ultimi capoversi dell'[articolo 151](../01%20-%20Capo%20I%20-%20Della%20estinzione%20del%20reato/art-151-cp.md).
+{: data-comma="3" }

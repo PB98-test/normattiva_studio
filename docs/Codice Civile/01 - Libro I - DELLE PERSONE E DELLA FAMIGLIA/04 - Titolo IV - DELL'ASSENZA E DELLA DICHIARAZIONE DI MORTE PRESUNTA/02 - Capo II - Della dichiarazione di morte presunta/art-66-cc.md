@@ -21,9 +21,13 @@ ordine: 98
 # Art. 66 - ***Prova dell'esistenza della persona di cui è stata dichiarata la morte presunta***
 
 La persona di cui è stata dichiarata la morte presunta, se ritorna o ne è provata l'esistenza, ricupera i beni nello stato in cui si trovano e ha diritto di conseguire il prezzo di quelli alienati, quando esso sia tuttora dovuto, o i beni nei quali sia stato investito.
+{: data-comma="1" }
 
 Essa ha altresì diritto di pretendere l'adempimento delle obbligazioni considerate estinte ai sensi del secondo comma dell'[art. 63](art-63-cc.md).
+{: data-comma="2" }
 
 Se è provata la data della sua morte, il diritto previsto nel primo comma di questo articolo compete a coloro che a quella data sarebbero stati suoi eredi o legatari. Questi possono inoltre pretendere l'adempimento delle obbligazioni considerate estinte ai sensi del secondo comma dell'[art. 63](art-63-cc.md) per il tempo anteriore alla data della morte.
+{: data-comma="3" }
 
 Sono salvi in ogni caso gli effetti delle prescrizioni e delle usucapioni.
+{: data-comma="4" }

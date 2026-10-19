@@ -21,5 +21,7 @@ ordine: 754
 # Art. 605 - ***Precetto per consegna o rilascio***
 
 Il precetto per consegna di beni mobili o rilascio di beni immobili deve contenere, oltre le indicazioni di cui all'[articolo 480](../01%20-%20Titolo%20I%20-%20DEL%20TITOLO%20ESECUTIVO%20E%20DEL%20PRECETTO/art-480-cpc.md), anche la descrizione sommaria dei beni stessi.
+{: data-comma="1" }
 
 Se il titolo esecutivo dispone circa il termine della consegna o del rilascio, l'intimazione va fatta con riferimento a tale termine.
+{: data-comma="2" }

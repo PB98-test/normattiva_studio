@@ -21,9 +21,13 @@ ordine: 800
 # Art. 713 - ***Facoltà di domandare la divisione***
 
 I coeredi possono sempre domandare la divisione.
+{: data-comma="1" }
 
 Quando però tutti gli eredi istituiti o alcuni di essi sono minori di età, il testatore può disporre che la divisione non abbia luogo prima che sia trascorso un anno dalla maggiore età dell'ultimo nato.
+{: data-comma="2" }
 
 Egli può anche disporre che la divisione dell'eredità o di alcuni beni di essa non abbia luogo prima che sia trascorso dalla sua morte un termine non eccedente il quinquennio.
+{: data-comma="3" }
 
 Tuttavia in ambedue i casi l'autorità giudiziaria, qualora gravi circostanze lo richiedano, può, su istanza di uno o più coeredi, consentire che la divisione si effettui senza indugio o dopo un termine minore di quello stabilito dal testatore.
+{: data-comma="4" }

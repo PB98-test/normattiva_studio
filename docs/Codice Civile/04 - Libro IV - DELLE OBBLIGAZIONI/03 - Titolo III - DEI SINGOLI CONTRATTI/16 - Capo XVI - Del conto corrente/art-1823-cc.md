@@ -21,5 +21,7 @@ ordine: 1944
 # Art. 1823 - ***Nozione***
 
 Il conto corrente è il contratto col quale le parti si obbligano ad annotare in un conto i crediti derivanti da reciproche rimesse, considerandoli inesigibili e indisponibili fino alla chiusura del conto.
+{: data-comma="1" }
 
 Il saldo del conto è esigibile alla scadenza stabilita. Se non è richiesto il pagamento, il saldo si considera quale prima rimessa di un nuovo conto e il contratto s'intende rinnovato a tempo indeterminato.
+{: data-comma="2" }

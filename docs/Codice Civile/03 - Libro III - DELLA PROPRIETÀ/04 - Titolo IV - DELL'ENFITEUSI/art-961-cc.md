@@ -21,5 +21,7 @@ ordine: 1056
 # Art. 961 - ***Pagamento del canone***
 
 L'obbligo del pagamento del canone grava solidalmente su tutti i coenfiteuti e sugli eredi dell'enfiteuta finchè dura la comunione.
+{: data-comma="1" }
 
 Nel caso in cui segua la divisione e il fondo venga goduto separatamente dagli enfiteuti o dagli eredi, ciascuno risponde per gli obblighi inerenti all'enfiteusi proporzionalmente al valore della sua porzione.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 683
 # Art. 596 - ***Incapacità del tutore e del protutore***
 
 Sono nulle le disposizioni testamentarie della persona sottoposta a tutela in favore del tutore, se fatte dopo la nomina di questo e prima che sia approvato il conto o sia estinta l'azione per il rendimento del conto medesimo, quantunque il testatore sia morto dopo l'approvazione. Questa norma si applica anche al protutore, se il testamento è fatto nel tempo in cui egli sostituiva il tutore.
+{: data-comma="1" }
 
 Sono però valide le disposizioni fatte in favore del tutore o del protutore che è ascendente, discendente, fratello, sorella o coniuge del testatore.
+{: data-comma="2" }

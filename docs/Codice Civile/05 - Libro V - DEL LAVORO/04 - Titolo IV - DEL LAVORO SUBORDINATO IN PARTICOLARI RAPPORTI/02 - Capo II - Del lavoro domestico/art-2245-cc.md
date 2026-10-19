@@ -21,7 +21,10 @@ ordine: 2367
 # Art. 2245 - ***Indennità di anzianità***
 
 In caso di cessazione del contratto è dovuta al prestatore di lavoro un'indennità proporzionale agli anni di servizio, salvo il caso di licenziamento per colpa di lui o di dimissioni volontarie.
+{: data-comma="1" }
 
 L'ammontare dell'indennità è determinata sulla base dell'ultima retribuzione in danaro, nella misura di otto giorni per ogni anno di servizio.
+{: data-comma="2" }
 
 Se gli usi lo stabiliscono, l'indennità è dovuta anche nel caso di dimissioni volontarie.
+{: data-comma="3" }

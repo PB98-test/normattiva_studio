@@ -21,5 +21,7 @@ ordine: 3026
 # Art. 2721 - ***Ammissibilità: limiti di valore***
 
 La prova per testimoni dei contratti non è ammessa quando il valore dell'oggetto eccede le lire cinquemila.
+{: data-comma="1" }
 
 Tuttavia l'autorità giudiziaria può consentire la prova oltre il limite anzidetto, tenuto conto della qualità delle parti, della natura del contratto e di ogni altra circostanza.
+{: data-comma="2" }

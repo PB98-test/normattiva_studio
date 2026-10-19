@@ -21,5 +21,7 @@ ordine: 1924
 # Art. 1803 - ***Nozione***
 
 Il comodato è il contratto col quale una parte consegna all'altra una cosa mobile o immobile, affinchè se ne serva per un tempo o per un uso determinato, con l'obbligo di restituire la stessa cosa ricevuta.
+{: data-comma="1" }
 
 Il comodato è essenzialmente gratuito.
+{: data-comma="2" }

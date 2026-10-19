@@ -21,7 +21,10 @@ ordine: 1246
 # Art. 1145 - ***Possesso di cose fuori commercio***
 
 Il possesso delle cose di cui non si può acquistare la proprietà è senza effetto.
+{: data-comma="1" }
 
 Tuttavia nei rapporti tra privati è concessa l'azione di spoglio rispetto ai beni appartenenti al pubblico demanio e ai beni delle provincie e dei comuni soggetti al regime proprio del demanio pubblico.
+{: data-comma="2" }
 
 Se trattasi di esercizio di facoltà, le quali possono formare oggetto di concessione da parte della pubblica amministrazione, è data altresì l'azione di manutenzione.
+{: data-comma="3" }

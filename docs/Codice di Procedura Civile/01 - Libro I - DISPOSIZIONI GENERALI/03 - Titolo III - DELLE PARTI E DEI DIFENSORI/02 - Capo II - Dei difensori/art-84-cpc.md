@@ -21,5 +21,7 @@ ordine: 91
 # Art. 84 - ***Poteri del difensore***
 
 Quando la parte sta in giudizio col ministero del difensore, questi può compiere e ricevere, nell'interesse della parte stessa, tutti gli atti del processo che dalla legge non sono ad essa espressamente riservati.
+{: data-comma="1" }
 
 In ogni caso non può compiere atti che importano disposizione del diritto in contesa, se non ne ha ricevuto espressamente il potere.
+{: data-comma="2" }

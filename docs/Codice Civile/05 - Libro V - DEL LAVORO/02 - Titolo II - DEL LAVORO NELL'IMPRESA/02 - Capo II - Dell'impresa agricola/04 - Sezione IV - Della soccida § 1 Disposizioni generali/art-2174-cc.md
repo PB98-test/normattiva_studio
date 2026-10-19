@@ -21,5 +21,7 @@ ordine: 2295
 # Art. 2174 - ***Obblighi del soccidario***
 
 Il soccidario deve prestare, secondo le direttive del soccidante, il lavoro occorrente per la custodia e l'allevamento del bestiame affidatogli, per la lavorazione dei prodotti e per il trasporto sino ai luoghi di ordinario deposito.
+{: data-comma="1" }
 
 Il soccidario deve usare la diligenza del buon allevatore.
+{: data-comma="2" }

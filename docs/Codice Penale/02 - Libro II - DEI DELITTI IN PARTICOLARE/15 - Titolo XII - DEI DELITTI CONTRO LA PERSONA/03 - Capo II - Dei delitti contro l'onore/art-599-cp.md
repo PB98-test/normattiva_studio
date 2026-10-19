@@ -21,7 +21,10 @@ ordine: 781
 # Art. 599 - ***Provocazione.***
 
 COMMA ABROGATO DAL D.LGS. 15 GENNAIO 2016, N. 7.
+{: data-comma="1" }
 
 Non è punibile chi ha commesso alcuno dei fatti preveduti dall'[articolo 595](art-595-cp.md) nello stato d'ira determinato da un fatto ingiusto altrui, e subito dopo di esso.
+{: data-comma="2" }
 
 COMMA ABROGATO DAL D.LGS. 15 GENNAIO 2016, N. 7.
+{: data-comma="3" }

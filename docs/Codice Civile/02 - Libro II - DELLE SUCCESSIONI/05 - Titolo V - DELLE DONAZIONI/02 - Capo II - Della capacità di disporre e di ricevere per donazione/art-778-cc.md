@@ -21,7 +21,10 @@ ordine: 872
 # Art. 778 - ***Mandato a donare***
 
 È nullo il mandato con cui si attribuisce ad altri la facoltà di designare la persona del donatario o di determinare l'oggetto della donazione.
+{: data-comma="1" }
 
 È peraltro valida la donazione a favore di persona che un terzo sceglierà tra più persone designate dal donante o appartenenti a determinate categorie, o a favore di una persona giuridica tra quelle indicate dal donante stesso.
+{: data-comma="2" }
 
 È del pari valida la donazione che ha per oggetto una cosa che un terzo determinerà tra più cose indicate dal donante o entro i limiti di valore dal donante stesso stabiliti.
+{: data-comma="3" }

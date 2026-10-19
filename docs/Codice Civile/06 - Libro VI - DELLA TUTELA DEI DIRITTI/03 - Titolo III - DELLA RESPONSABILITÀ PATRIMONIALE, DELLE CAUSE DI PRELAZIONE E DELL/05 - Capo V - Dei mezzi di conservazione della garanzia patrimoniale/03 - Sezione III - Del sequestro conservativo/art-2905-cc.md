@@ -21,5 +21,7 @@ ordine: 3215
 # Art. 2905 - ***Sequestro nei confronti del debitore o del terzo***
 
 Il creditore può chiedere il sequestro conservativo dei beni del debitore, secondo le regole stabilite dal [codice di procedura civile](../../../../../Codice%20di%20Procedura%20Civile/00%20-%20Indice%20%28cpc%29.md).
+{: data-comma="1" }
 
 Il sequestro può essere chiesto anche nei confronti del terzo acquirente dei beni del debitore, qualora sia stata proposta l'azione per far dichiarare l'inefficacia dell'alienazione.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 221
 # Art. 198 - ***Esame contabile***
 
 Quando è necessario esaminare documenti contabili e registri, il giudice istruttore può darne incarico al consulente tecnico, affidandogli il compito di tentare la conciliazione delle parti.
+{: data-comma="1" }
 
 Il consulente sente le parti e, previo consenso di tutte, può esaminare anche documenti e registri non prodotti in causa. Di essi tuttavia senza il consenso di tutte le parti non può fare menzione nei processi verbali o nella relazione di cui all'[articolo 195](art-195-cpc.md).
+{: data-comma="2" }

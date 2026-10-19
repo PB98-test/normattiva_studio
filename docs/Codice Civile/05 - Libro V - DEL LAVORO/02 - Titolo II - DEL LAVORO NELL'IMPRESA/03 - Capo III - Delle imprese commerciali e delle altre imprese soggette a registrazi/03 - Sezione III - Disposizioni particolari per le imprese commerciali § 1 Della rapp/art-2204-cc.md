@@ -21,5 +21,7 @@ ordine: 2325
 # Art. 2204 - ***Poteri dell'institore***
 
 L'institore può compiere tutti gli atti pertinenti all'esercizio dell'impresa a cui è preposto, salve le limitazioni contenute nella procura. Tuttavia non può alienare o ipotecare i beni immobili del preponente, se non è stato a ciò espressamente autorizzato.
+{: data-comma="1" }
 
 L'institore può stare in giudizio in nome del preponente per le obbligazioni dipendenti da atti compiuti nell'esercizio dell'impresa a cui è preposto.
+{: data-comma="2" }

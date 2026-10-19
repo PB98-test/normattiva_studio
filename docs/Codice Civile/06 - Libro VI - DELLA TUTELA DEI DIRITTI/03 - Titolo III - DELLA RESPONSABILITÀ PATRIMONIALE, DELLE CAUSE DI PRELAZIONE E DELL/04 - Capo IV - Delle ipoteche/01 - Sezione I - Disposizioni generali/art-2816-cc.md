@@ -21,5 +21,7 @@ ordine: 3125
 # Art. 2816 - ***Ipoteca sul diritto di superficie***
 
 Le ipoteche che hanno per oggetto il diritto di superficie si estinguono nel caso di devoluzione della superficie al proprietario del suolo per decorso del termine. Se però il superficiario ha diritto a un corrispettivo, le ipoteche iscritte contro di lui si risolvono sul corrispettivo medesimo. Le ipoteche iscritte contro il proprietario del suolo non si estendono alla superficie.
+{: data-comma="1" }
 
 Se per altre cause si riuniscono nella medesima persona il diritto del proprietario del suolo e quello del superficiario, le ipoteche sull'uno e sull'altro diritto continuano a gravare separatamente i diritti stessi.
+{: data-comma="2" }

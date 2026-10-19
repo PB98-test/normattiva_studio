@@ -21,11 +21,16 @@ ordine: 1214
 # Art. 1117-ter - ***Modificazioni delle destinazioni d'uso***
 
 Per soddisfare esigenze di interesse condominiale, l'assemblea, con un numero di voti che rappresenti i quattro quinti dei partecipanti al condominio e i quattro quinti del valore dell'edificio, può modificare la destinazione d'uso delle parti comuni.
+{: data-comma="1" }
 
 La convocazione dell'assemblea deve essere affissa per non meno di trenta giorni consecutivi nei locali di maggior uso comune o negli spazi a tal fine destinati e deve effettuarsi mediante lettera raccomandata o equipollenti mezzi telematici, in modo da pervenire almeno venti giorni prima della data di convocazione.
+{: data-comma="2" }
 
 La convocazione dell'assemblea, a pena di nullità, deve indicare le parti comuni oggetto della modificazione e la nuova destinazione d'uso.
+{: data-comma="3" }
 
 La deliberazione deve contenere la dichiarazione espressa che sono stati effettuati gli adempimenti di cui ai precedenti commi.
+{: data-comma="4" }
 
 Sono vietate le modificazioni delle destinazioni d'uso che possono recare pregiudizio alla stabilità o alla sicurezza del fabbricato o che ne alterano il decoro architettonico.
+{: data-comma="5" }

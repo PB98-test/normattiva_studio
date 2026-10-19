@@ -375,3 +375,7 @@ aliases:
 - [Art. 258](03%20-%20Titolo%20III%20-%20NORME%20TRANSITORIE/art-258-dlgs271-89.md) — Procedimenti che proseguono secondo le disposizioni del codice
 - [Art. 259](03%20-%20Titolo%20III%20-%20NORME%20TRANSITORIE/art-259-dlgs271-89.md) — Disciplina della competenza e della riunione   dei procedimenti
 - [Art. 260](03%20-%20Titolo%20III%20-%20NORME%20TRANSITORIE/art-260-dlgs271-89.md) — Esecuzione
+
+## Allegati
+
+- [Norme di attuazione del Codice di Procedura Penale - Tabella A](04%20-%20Allegati/allegato-norme-di-attuazione-del-codice-di-procedura-penale-tabella-a-dlgs271-89.md)

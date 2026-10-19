@@ -21,5 +21,7 @@ ordine: 1798
 # Art. 1682 - ***Responsabilità del vettore nei trasporti cumulativi***
 
 Nei trasporti cumulativi ciascun vettore risponde nell'ambito del proprio percorso.
+{: data-comma="1" }
 
 Tuttavia il danno per il ritardo o per l'interruzione del viaggio si determina in ragione dell'intero percorso.
+{: data-comma="2" }

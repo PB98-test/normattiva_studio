@@ -21,5 +21,7 @@ ordine: 1323
 # Art. 1221 - ***Effetti della mora sul rischio***
 
 Il debitore che è in mora non è liberato per la sopravvenuta impossibilità della prestazione derivante da causa a lui non imputabile, se non prova che l'oggetto della prestazione sarebbe ugualmente perito presso il creditore.
+{: data-comma="1" }
 
 In qualunque modo sia perita o smarrita una cosa illecitamente sottratta, la perdita di essa non libera chi l'ha sottratta dall'obbligo di restituirne il valore.
+{: data-comma="2" }

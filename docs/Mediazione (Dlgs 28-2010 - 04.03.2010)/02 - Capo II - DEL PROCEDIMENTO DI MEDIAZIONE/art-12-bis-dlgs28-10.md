@@ -14,7 +14,7 @@ capo_label: "DEL PROCEDIMENTO DI MEDIAZIONE"
 sezione: null
 sezione_label: null
 rubrica: "Conseguenze processuali della mancata partecipazione al procedimento di mediazione"
-dataVigenza: "20260925"
+dataVigenza: "20261016"
 ordine: 21
 ---
 
@@ -28,6 +28,6 @@ ordine: 21
 
 4\. Quando provvede ai sensi del comma 2, il giudice trasmette copia del provvedimento adottato nei confronti di una delle amministrazioni pubbliche di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, al pubblico ministero presso la sezione giurisdizionale della Corte dei conti, e copia del provvedimento adottato nei confronti di uno dei soggetti vigilati all'autorità di vigilanza competente. [^agg-9] [^agg-10]
 
-[^agg-9]: *AGGIORNAMENTO (9)* Il [D.Lgs. 10 ottobre 2022, n. 149](../../Cartabia%20%28Dlgs%20149-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs149-22%29.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'[articolo 7](art-7-dlgs28-10.md) si applicano a decorrere dal 30 giugno 2023".
+[^agg-9]: *AGGIORNAMENTO (9)* Il [D.Lgs. 10 ottobre 2022, n. 149](../../Cartabia%20%28Dlgs%20149-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs149-22%29.md) ha disposto (con l'[art. 41](../../Cartabia%20%28Dlgs%20149-2022%20-%2010.10.2022%29/05%20-%20Capo%20V%20-%20Diposizioni%20transitorie,%20finanziarie%20e%20finali/02%20-%20Sezione%20II%20-%20Disposizioni%20in%20materia%20di%20mediazione%20e%20negoziazione%20assistita/art-41-dlgs149-22.md), comma 1) che "Le disposizioni di cui all'[articolo 7](art-7-dlgs28-10.md) si applicano a decorrere dal 30 giugno 2023".
 
-[^agg-10]: *AGGIORNAMENTO (10)* Il [D.Lgs. 10 ottobre 2022, n. 149](../../Cartabia%20%28Dlgs%20149-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs149-22%29.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../../L.%20197-2022%20-%2029.12.2022/00%20-%20Indice%20%28l197-22%29.md), non prevede più (con l'art. 41, comma 1) che la modifica di cui al presente articolo si applica a decorrere dal 30 giugno 2023.
+[^agg-10]: *AGGIORNAMENTO (10)* Il [D.Lgs. 10 ottobre 2022, n. 149](../../Cartabia%20%28Dlgs%20149-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs149-22%29.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../../L.%20197-2022%20-%2029.12.2022/00%20-%20Indice%20%28l197-22%29.md), non prevede più (con l'[art. 41](../../Cartabia%20%28Dlgs%20149-2022%20-%2010.10.2022%29/05%20-%20Capo%20V%20-%20Diposizioni%20transitorie,%20finanziarie%20e%20finali/02%20-%20Sezione%20II%20-%20Disposizioni%20in%20materia%20di%20mediazione%20e%20negoziazione%20assistita/art-41-dlgs149-22.md), comma 1) che la modifica di cui al presente articolo si applica a decorrere dal 30 giugno 2023.

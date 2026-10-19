@@ -21,5 +21,7 @@ ordine: 185
 # Art. 167 - ***Estinzione del reato***
 
 Se, nei termini stabiliti, il condannato non commette un delitto, ovvero una contravvenzione della stessa indole, e adempie gli obblighi impostigli, il reato è estinto.
+{: data-comma="1" }
 
 In tal caso non ha luogo la esecuzione delle pene.
+{: data-comma="2" }

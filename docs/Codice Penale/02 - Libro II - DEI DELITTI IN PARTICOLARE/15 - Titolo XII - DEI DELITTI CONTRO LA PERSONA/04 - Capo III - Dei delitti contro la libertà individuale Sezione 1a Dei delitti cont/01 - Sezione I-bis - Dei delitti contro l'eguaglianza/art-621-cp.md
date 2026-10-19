@@ -21,7 +21,10 @@ ordine: 850
 # Art. 621 - ***Rivelazione del contenuto di documenti segreti***
 
 Chiunque, essendo venuto abusivamente a cognizione del contenuto, che debba rimanere segreto, di altrui atti o documenti, pubblici o privati, non costituenti corrispondenza, lo rivela, senza giusta causa, ovvero lo impiega a proprio o altrui profitto, è punito, se dal fatto deriva nocumento, con la reclusione fino a tre anni o con la multa da lire mille a diecimila.
+{: data-comma="1" }
 
 Agli effetti della disposizione di cui al primo comma è considerato documento anche qualunque supporto informatico contenente dati, informazioni o programmi.
+{: data-comma="2" }
 
 Il delitto è punibile a querela della persona offesa.
+{: data-comma="3" }

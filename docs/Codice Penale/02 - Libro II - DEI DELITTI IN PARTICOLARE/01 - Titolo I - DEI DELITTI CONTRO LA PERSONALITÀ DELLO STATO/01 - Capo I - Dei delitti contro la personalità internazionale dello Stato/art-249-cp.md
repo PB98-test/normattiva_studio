@@ -21,5 +21,7 @@ ordine: 272
 # Art. 249 - ***Partecipazione a prestiti a favore del nemico***
 
 Chiunque, in tempo di guerra, partecipa a prestiti o a versamenti a favore dello Stato nemico, o agevola le operazioni ad essi relative, è punito con la reclusione non inferiore a cinque anni.
+{: data-comma="1" }
 
 Tale disposizione non si applica allo straniero che commette il fatto all'estero.
+{: data-comma="2" }

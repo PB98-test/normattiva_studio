@@ -21,5 +21,7 @@ ordine: 1406
 # Art. 1304 - ***Transazione***
 
 La transazione fatta dal creditore con uno dei debitori in solido non produce effetto nei confronti degli altri, se questi non dichiarano di volerne profittare.
+{: data-comma="1" }
 
 Parimenti, se è intervenuta tra uno dei creditori in solido e il debitore, la transazione non ha effetto nei confronti degli altri creditori, se questi non dichiarano di volerne profittare.
+{: data-comma="2" }

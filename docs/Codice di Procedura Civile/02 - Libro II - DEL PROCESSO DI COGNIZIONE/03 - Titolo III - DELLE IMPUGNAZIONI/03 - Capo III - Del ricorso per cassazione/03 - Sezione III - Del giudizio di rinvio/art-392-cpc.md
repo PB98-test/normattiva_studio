@@ -21,5 +21,7 @@ ordine: 444
 # Art. 392 - ***Riassunzione della causa***
 
 La riassunzione della causa davanti al giudice di rinvio può essere fatta da ciascuna delle parti non oltre tre mesi dalla pubblicazione della sentenza della corte di cassazione.
+{: data-comma="1" }
 
 La riassunzione si fa con citazione, la quale è notificata personalmente a norma degli articoli 137 e seguenti.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 439
 # Art. 354 - ***Tutela affidata a enti di assistenza***
 
 La tutela dei minori, che non hanno nel luogo del loro domicilio parenti conosciuti o capaci di esercitare l'ufficio di tutore, può essere deferita dal giudice tutelare a un ente di assistenza nel comune dove ha domicilio il minore o all'ospizio in cui questi è ricoverato. L'amministrazione dell'ente o dell'ospizio delega uno dei propri membri a esercitare le funzioni di tutela.
+{: data-comma="1" }
 
 È tuttavia in facoltà del giudice tutelare di nominare un tutore al minore quando la natura o l'entità dei beni o altre circostanze lo richiedono.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 2881
 # Art. 2590 - ***Invenzione del prestatore di lavoro***
 
 Il prestatore di lavoro ha diritto di essere riconosciuto autore dell'invenzione fatta nello svolgimento del rapporto di lavoro.
+{: data-comma="1" }
 
 I diritti e gli obblighi delle parti relativi all'invenzione sono regolati dalle leggi speciali.
+{: data-comma="2" }

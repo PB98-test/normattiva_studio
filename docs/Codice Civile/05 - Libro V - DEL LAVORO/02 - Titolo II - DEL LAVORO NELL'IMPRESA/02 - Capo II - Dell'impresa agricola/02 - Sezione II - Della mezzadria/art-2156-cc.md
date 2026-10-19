@@ -21,5 +21,7 @@ ordine: 2277
 # Art. 2156 - ***Vendita dei prodotti***
 
 La vendita dei prodotti, che in conformità degli usi non si dividono in natura, è fatta dal concedente previo accordo col mezzadro e, in mancanza, sulla base del prezzo di mercato.
+{: data-comma="1" }
 
 La divisione si effettua sul ricavato della vendita, dedotte le spese.
+{: data-comma="2" }

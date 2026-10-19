@@ -21,7 +21,10 @@ ordine: 2191
 # Art. 2070 - ***Criteri di applicazione***
 
 L'appartenenza alla categoria professionale, ai fini dell'applicazione del contratto collettivo, si determina secondo l'attività effettivamente esercitata dall'imprenditore.
+{: data-comma="1" }
 
 Se l'imprenditore esercita distinte attività aventi carattere autonomo, si applicano ai rispettivi rapporti di lavoro le norme dei contratti collettivi corrispondenti alle singole attività.
+{: data-comma="2" }
 
 Quando il datore di lavoro esercita non professionalmente un'attività organizzata, si applica il contratto collettivo che regola i rapporti di lavoro relativi alle imprese che esercitano la stessa attività.
+{: data-comma="3" }

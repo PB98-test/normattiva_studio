@@ -21,5 +21,7 @@ ordine: 78
 # Art. 71 - ***Comunicazione degli atti processuali al pubblico ministero***
 
 Il giudice, davanti al quale è proposta una delle cause indicate nel primo comma dell'articolo precedente, ordina la comunicazione degli atti al pubblico ministero affinchè possa intervenire.
+{: data-comma="1" }
 
 Lo stesso ordine il giudice può dare ogni volta che ravvisi uno dei casi previsti nell'ultimo comma dell'articolo precedente.
+{: data-comma="2" }

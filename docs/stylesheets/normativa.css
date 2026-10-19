@@ -566,3 +566,58 @@ label.md-header__button[for="__search"] {
   font-weight: 600;
   color: var(--ns-goldx);
 }
+
+/* ── Numeri dei commi a margine (report §42.6, stile A approvato) ──
+   Solo negli articoli che alla fonte non numerano i commi: il numero lo
+   aggiunge pubblica_vault.py come attributo data-comma, mai nel testo, quindi
+   non si copia selezionando il testo e non entra nella ricerca. I paragrafi
+   con data-comma="" (continuazioni, commi col numero della fonte) e gli
+   elenchi che seguono hanno lo stesso rientro, per tenere il testo allineato. */
+.md-typeset p[data-comma] {
+  position: relative;
+  padding-left: 1.6em;
+}
+.md-typeset p[data-comma]::before {
+  content: attr(data-comma);
+  position: absolute;
+  left: 0;
+  top: 0.2em;
+  width: 1.1em;
+  text-align: right;
+  font-size: 0.78em;
+  color: #9A9283;
+  font-variant-numeric: tabular-nums;
+}
+.md-typeset p[data-comma] + ul {
+  margin-left: 2.225em;
+}
+
+/* ── Nota del curatore (report §42.7, mockup approvato) ──
+   Riquadro bianco con il filo oro a sinistra, etichetta piccola in maiuscolo:
+   ben distinto dal testo di legge. Viene dagli "admonition" di Material
+   (pubblica_vault._note_curatore_per_il_sito): qui si tolgono icona, ombra e
+   colori di serie. */
+.md-typeset .admonition.curatore {
+  background: #FFFFFF;
+  border: none;
+  border-left: 3px solid var(--ns-gold);
+  border-radius: 0;
+  box-shadow: none;
+  font-size: 0.9em;
+  padding: 0.2em 0.9em 0.1em;
+  margin: 1.2em 0;
+}
+.md-typeset .admonition.curatore > .admonition-title {
+  background: transparent;
+  border: none;
+  margin: 0 -0.9em;
+  padding: 0.5em 0.9em 0.1em;
+  font-size: 0.78em;
+  font-weight: 500;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--ns-goldx);
+}
+.md-typeset .admonition.curatore > .admonition-title::before {
+  display: none;
+}

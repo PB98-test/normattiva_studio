@@ -21,5 +21,7 @@ ordine: 797
 # Art. 710 - ***Esonero dell'esecutore testamentario***
 
 Su istanza di ogni interessato, l'autorità giudiziaria può esonerare l'esecutore testamentario dal suo ufficio per gravi irregolarità nell'adempimento dei suoi obblighi, per inidoneità all'ufficio o per aver commesso azione che ne menomi la fiducia.
+{: data-comma="1" }
 
 L'autorità giudiziaria, prima di provvedere, deve sentire l'esecutore e può disporre opportuni accertamenti.
+{: data-comma="2" }

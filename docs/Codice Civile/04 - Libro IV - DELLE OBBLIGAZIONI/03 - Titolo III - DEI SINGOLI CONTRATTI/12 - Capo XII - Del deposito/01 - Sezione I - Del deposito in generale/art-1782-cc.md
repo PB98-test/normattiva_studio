@@ -21,5 +21,7 @@ ordine: 1899
 # Art. 1782 - ***Deposito irregolare***
 
 Se il deposito ha per oggetto una quantità di danaro o di altre cose fungibili, con facoltà per il depositario di servirsene, questi ne acquista la proprietà ed è tenuto a restituirne altrettante della stessa specie e qualità.
+{: data-comma="1" }
 
 In tal caso si osservano, in quanto applicabili, le norme relative al mutuo.
+{: data-comma="2" }

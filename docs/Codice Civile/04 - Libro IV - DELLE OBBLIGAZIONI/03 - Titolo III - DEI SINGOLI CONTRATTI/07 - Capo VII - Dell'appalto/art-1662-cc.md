@@ -21,5 +21,7 @@ ordine: 1777
 # Art. 1662 - ***Verifica nel corso di esecuzione dell'opera***
 
 Il committente ha diritto di controllare lo svolgimento dei lavori e di verificarne a proprie spese lo stato.
+{: data-comma="1" }
 
 Quando, nel corso dell'opera, si accerta che la sua esecuzione non procede secondo le condizioni stabilite dal contratto e a regola d'arte, il committente può fissare un congruo termine entro il quale l'appaltatore si deve conformare a tali condizioni; trascorso inutilmente il termine stabilito, il contratto è risoluto, salvo il diritto del committente al risarcimento del danno.
+{: data-comma="2" }

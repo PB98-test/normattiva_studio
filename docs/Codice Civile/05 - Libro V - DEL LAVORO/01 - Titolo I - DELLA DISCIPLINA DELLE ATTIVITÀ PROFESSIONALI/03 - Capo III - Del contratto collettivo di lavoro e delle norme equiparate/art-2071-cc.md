@@ -21,7 +21,10 @@ ordine: 2192
 # Art. 2071 - ***Contenuto***
 
 Il contratto collettivo deve contenere le disposizioni occorrenti, secondo la natura del rapporto, ... per dare esecuzione alle norme di questo codice concernenti la disciplina del lavoro, i diritti e gli obblighi degli imprenditori e dei prestatori di lavoro.
+{: data-comma="1" }
 
 Deve inoltre indicare le qualifiche e le rispettive mansioni dei prestatori di lavoro appartenenti alla categoria a cui si riferisce la disciplina collettiva.
+{: data-comma="2" }
 
 Deve infine contenere la determinazione della sua durata.
+{: data-comma="3" }

@@ -21,5 +21,7 @@ ordine: 1018
 # Art. 923 - ***Cose suscettibili di occupazione***
 
 Le cose mobili che non sono proprietà di alcuno si acquistano con l'occupazione.
+{: data-comma="1" }
 
 Tali sono le cose abbandonate e gli animali che formano oggetto di caccia o di pesca.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 3146
 # Art. 2836 - ***Iscrizione in base ad atto pubblico o a sentenza***
 
 Se il titolo per l'iscrizione risulta da un atto pubblico ricevuto nello Stato o da una sentenza o da altro provvedimento giudiziale ad essa parificato, si deve presentare copia del titolo.
+{: data-comma="1" }
 
 COMMA ABROGATO DALLA L. 27 FEBBARIO 1985, N. 52.
+{: data-comma="2" }

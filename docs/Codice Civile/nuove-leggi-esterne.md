@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da Codice Civile ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Codice Civile — 169 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Codice Civile — 166 leggi trovate)*
 
 - [L. 31 MAGGIO 1995, N. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-05-31;218)
 - [L. 3 aprile 1957, n. 235](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-04-03;235)
@@ -36,7 +36,6 @@ search:
 - [72, primo comma, del regio decreto 9 luglio 1939, n. 1238](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regiodecreto:1939-07-09;1238)
 - [d.P.R. 3 novembre 2000, n. 396](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-11-03;396)
 - [27, comma 1, della legge 4 maggio 1983, n. 184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-05-04;184)
-- [art. 24, secondo comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const)
 - [art. 27 della legge n. 87 del 1953](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953;87)
 - [L. 5 giugno 1967, n. 431](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-06-05;431)
 - [L. 26 novembre 2021, n. 206](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-11-26;206)
@@ -154,7 +153,6 @@ search:
 - [decreto legislativo n. 58 del 1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1998;58)
 - [decreto legislativo 21 aprile 1993, n. 124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1993-04-21;124)
 - [D.Lgs. 31 ottobre 1990, n. 347](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1990-10-31;347)
-- [D.Lgs. 7 marzo 2005, n. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2005-03-07;82)
 - [D.Lgs. 30 dicembre 2010, n. 235](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2010-12-30;235)
 - [legge 24 giugno 1997, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-06-24;196)
 - [art. 2 l. 29 luglio 1975, n. 426](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-29;426)
@@ -174,5 +172,4 @@ search:
 - [L. 6 agosto 2015, n. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-08-06;132)
 - [art. 3, comma 2-ter, del decreto-legge 28 agosto 2008, n. 134](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2008-08-28;134)
 - [legge 27 ottobre 2008, n. 166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-10-27;166)
-- [art. 22, comma 14, del decreto-legge 18 ottobre 2012, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2012-10-18;179)
 - [legge 17 dicembre 2012, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-17;221)

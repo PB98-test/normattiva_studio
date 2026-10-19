@@ -21,5 +21,7 @@ ordine: 569
 # Art. 458 - ***Parificazione delle carte di pubblico credito alle monete***
 
 Agli effetti della legge penale, sono parificate alle monete le carte di pubblico credito.
+{: data-comma="1" }
 
 Per carte di pubblico credito s'intendono, oltre quelle che hanno corso legale come moneta, le carte e cedole al portatore emesse dai Governi, e tutte le altre aventi corso legale emesse da istituti a ciò autorizzati.
+{: data-comma="2" }

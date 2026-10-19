@@ -21,5 +21,7 @@ ordine: 640
 # Art. 514 - ***Frodi contro le industrie nazionali***
 
 Chiunque, ponendo in vendita o mettendo altrimenti in circolazione, sui mercati nazionali o esteri, prodotti industriali, con nomi, marchi o segni distintivi contraffatti o alterati, cagiona un nocumento all'industria nazionale è punito con la reclusione da uno a cinque anni e con la multa non inferiore a lire cinquemila.
+{: data-comma="1" }
 
 Se per i marchi o segni distintivi sono state osservate le norme delle leggii interne o delle convenzioni internazionali sulla tutela della proprietà industriale, la pena è aumentata e non si applicano le disposizioni degli [articoli 473](../../08%20-%20Titolo%20VII%20-%20DEI%20DELITTI%20CONTRO%20LA%20FEDE%20PUBBLICA/02%20-%20Capo%20II%20-%20Della%20falsità%20in%20sigilli%20o%20strumenti%20o%20segni%20di%20autenticazione,%20certif/art-473-cp.md) e [474](../../08%20-%20Titolo%20VII%20-%20DEI%20DELITTI%20CONTRO%20LA%20FEDE%20PUBBLICA/02%20-%20Capo%20II%20-%20Della%20falsità%20in%20sigilli%20o%20strumenti%20o%20segni%20di%20autenticazione,%20certif/art-474-cp.md).
+{: data-comma="2" }

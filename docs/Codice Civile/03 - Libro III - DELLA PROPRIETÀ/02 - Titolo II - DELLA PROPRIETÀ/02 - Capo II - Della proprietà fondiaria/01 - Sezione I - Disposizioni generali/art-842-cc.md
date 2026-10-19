@@ -21,7 +21,10 @@ ordine: 936
 # Art. 842 - ***Caccia e pesca***
 
 Il proprietario di un fondo non può impedire che vi si entri per l'esercizio della caccia, a meno che il fondo sia chiuso nei modi stabiliti dalla legge sulla caccia o vi siano colture in atto suscettibili di danno.
+{: data-comma="1" }
 
 Egli può sempre opporsi a chi non è munito della licenza rilasciata dall'autorità.
+{: data-comma="2" }
 
 Per l'esercizio della pesca occorre il consenso del proprietario del fondo.
+{: data-comma="3" }

@@ -21,5 +21,7 @@ ordine: 2120
 # Art. 1999 - ***Conversione dei titoli***
 
 I titoli di credito al portatore possono essere convertiti dall'emittente in titoli nominativi, su richiesta e a spese del possessore.
+{: data-comma="1" }
 
 Salvo il caso in cui la convertibilità sia stata espressamente esclusa dall'emittente, i titoli nominativi possono essere convertiti in titoli al portatore, su richiesta e a spese dell'intestatario che dimostri la propria identità e la propria capacità a norma del secondo comma dell'[art. 2022](../04%20-%20Capo%20IV%20-%20Dei%20titoli%20nominativi/art-2022-cc.md).
+{: data-comma="2" }

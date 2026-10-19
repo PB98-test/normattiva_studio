@@ -21,5 +21,7 @@ ordine: 2093
 # Art. 1972 - ***Transazione su un titolo nullo***
 
 È nulla la transazione relativa a un contratto illecito, ancorchè le parti abbiano trattato della nullità di questo.
+{: data-comma="1" }
 
 Negli altri casi in cui la transazione è stata fatta relativamente a un titolo nullo, l'annullamento di essa può chiedersi solo dalla parte che ignorava la causa di nullità del titolo.
+{: data-comma="2" }

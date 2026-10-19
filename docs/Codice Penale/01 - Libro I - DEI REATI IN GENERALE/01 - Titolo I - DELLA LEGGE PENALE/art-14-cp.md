@@ -21,5 +21,7 @@ ordine: 15
 # Art. 14 - ***Computo e decorrenza dei termini***
 
 Quando la legge penale fa dipendere un effetto giuridico dal decorso del tempo, per il computo di questo si osserva il calendario comune.
+{: data-comma="1" }
 
 Ogni qual volta la legge penale stabilisce un termine per il verificarsi di un effetto giuridico, il giorno della decorrenza non è computato nel termine.
+{: data-comma="2" }

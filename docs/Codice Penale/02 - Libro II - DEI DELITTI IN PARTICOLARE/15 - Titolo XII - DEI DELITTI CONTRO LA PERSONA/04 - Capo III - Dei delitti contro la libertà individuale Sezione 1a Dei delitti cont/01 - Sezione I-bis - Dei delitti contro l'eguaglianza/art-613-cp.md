@@ -14,18 +14,20 @@ capo_label: "Dei delitti contro la libertà individuale Sezione 1a Dei delitti c
 sezione: "I-bis"
 sezione_label: "Dei delitti contro l'eguaglianza"
 rubrica: "Stato di incapacità procurato mediante violenza"
-dataVigenza: "20260930"
+dataVigenza: "20261016"
 ordine: 830
 ---
 
 # Art. 613 - ***Stato di incapacità procurato mediante violenza***
 
 Chiunque, mediante suggestione ipnotica o in veglia, o mediante somministrazione di sostanze alcooliche o stupefacenti, o con qualsiasi altro mezzo, pone una persona, senza il consenso di lei, in stato d'incapacità d'intendere o di volere, è punito con la reclusione fino a un anno.
+{: data-comma="1" }
 
 Il consenso dato dalle persone indicate nell'ultimo capoverso dell'[articolo 579](../../01%20-%20Capo%20I%20-%20Dei%20delitti%20contro%20la%20vita%20e%20l%27incolumità%20individuale/art-579-cp.md) non esclude la punibilità.
+{: data-comma="2" }
 
 La pena è della reclusione fino a cinque anni:
+{: data-comma="3" }
 
-1° se il colpevole ha agito col fine di far commettere un reato;
-
-2° se la persona resa incapace commette, in tale stato, un fatto preveduto dalla legge come delitto.
+- 1° se il colpevole ha agito col fine di far commettere un reato;
+- 2° se la persona resa incapace commette, in tale stato, un fatto preveduto dalla legge come delitto.

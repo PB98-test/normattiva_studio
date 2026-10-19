@@ -21,5 +21,7 @@ ordine: 2057
 # Art. 1936 - ***Nozione***
 
 È fideiussore colui che, obbligandosi personalmente verso il creditore, garantisce l'adempimento di un'obbligazione altrui.
+{: data-comma="1" }
 
 La fideiussione è efficace anche se il debitore non ne ha conoscenza.
+{: data-comma="2" }

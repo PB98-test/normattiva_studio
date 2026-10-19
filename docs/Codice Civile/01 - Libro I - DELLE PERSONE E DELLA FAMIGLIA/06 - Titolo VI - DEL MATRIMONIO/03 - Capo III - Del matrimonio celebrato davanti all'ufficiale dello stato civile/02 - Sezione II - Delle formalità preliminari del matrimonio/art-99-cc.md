@@ -21,5 +21,7 @@ ordine: 131
 # Art. 99 - ***Termine per la celebrazione del matrimonio***
 
 Il matrimonio non può essere celebrato prima del quarto giorno dopo compiuta la pubblicazione.
+{: data-comma="1" }
 
 Se il matrimonio non è celebrato nei centottanta giorni successivi, la pubblicazione si considera come non avvenuta.
+{: data-comma="2" }

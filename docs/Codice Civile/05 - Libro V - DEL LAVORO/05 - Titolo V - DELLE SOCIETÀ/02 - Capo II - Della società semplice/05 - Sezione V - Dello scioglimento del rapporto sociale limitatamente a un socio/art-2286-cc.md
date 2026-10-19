@@ -21,7 +21,10 @@ ordine: 2408
 # Art. 2286 - ***Esclusione***
 
 L'esclusione di un socio può avere luogo per gravi inadempienze delle obbligazioni che derivano dalla legge o dal contratto sociale, nonchè per l'interdizione, l'inabilitazione del socio o per la sua condanna ad una pena che importa l'interdizione, anche temporanea, dai pubblici uffici.
+{: data-comma="1" }
 
 Il socio che ha conferito nella società la propria opera o il godimento di una cosa può altresì essere escluso per la sopravvenuta inidoneità a svolgere l'opera conferita o per il perimento della cosa dovuto a causa non imputabile agli amministratori.
+{: data-comma="2" }
 
 Parimenti può essere escluso il socio che si è obbligato con il conferimento a trasferire la proprietà di una cosa, se questa è perita prima che la proprietà sia acquistata alla società.
+{: data-comma="3" }

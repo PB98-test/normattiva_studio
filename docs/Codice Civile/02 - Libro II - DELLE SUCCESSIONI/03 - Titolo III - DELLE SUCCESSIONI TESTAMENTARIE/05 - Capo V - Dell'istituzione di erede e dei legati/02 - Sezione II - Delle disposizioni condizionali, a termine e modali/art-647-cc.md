@@ -21,7 +21,10 @@ ordine: 734
 # Art. 647 - ***Onere***
 
 Tanto all'istituzione di erede quanto al legato può essere apposto un onere.
+{: data-comma="1" }
 
 Se il testatore non ha diversamente disposto, l'autorità giudiziaria, qualora ne ravvisi l'opportunità, può imporre all'erede o al legatario gravato dall'onere una cauzione.
+{: data-comma="2" }
 
 L'onere impossibile o illecito si considera non apposto; rende tuttavia nulla la disposizione, se ne ha costituito il solo motivo determinante.
+{: data-comma="3" }

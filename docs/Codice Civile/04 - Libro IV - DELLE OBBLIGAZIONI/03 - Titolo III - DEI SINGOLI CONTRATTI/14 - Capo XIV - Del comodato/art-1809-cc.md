@@ -21,5 +21,7 @@ ordine: 1930
 # Art. 1809 - ***Restituzione***
 
 Il comodatario è obbligato a restituire la cosa alla scadenza del termine convenuto o, in mancanza di termine, quando se ne è servito in conformità del contratto.
+{: data-comma="1" }
 
 Se però, durante il termine convenuto o prima che il comodatario abbia cessato di servirsi della cosa, sopravviene un urgente e impreveduto bisogno al comodante, questi può esigerne la restituzione immediata.
+{: data-comma="2" }

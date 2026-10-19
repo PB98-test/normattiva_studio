@@ -21,5 +21,7 @@ ordine: 95
 # Art. 83 - ***Evento diverso da quello voluto dall'agente***
 
 Fuori dei casi preveduti dall'articolo precedente, se, per errore nell'uso dei mezzi di esecuzione del reato, o per un'altra causa, si cagiona un evento diverso da quello voluto, il colpevole risponde, a titolo di colpa, dell'evento non voluto, quando il fatto è preveduto dalla legge come delitto colposo.
+{: data-comma="1" }
 
 Se il colpevole ha cagionato altresì l'evento voluto, si applicano le regole sul concorso dei reati.
+{: data-comma="2" }

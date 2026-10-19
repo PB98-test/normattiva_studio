@@ -21,5 +21,7 @@ ordine: 735
 # Art. 648 - ***Adempimento dell'onere***
 
 Per l'adempimento dell'onere può agire qualsiasi interessato.
+{: data-comma="1" }
 
 Nel caso d'inadempimento dell'onere, l'autorità giudiziaria può pronunziare la risoluzione della disposizione testamentaria, se la risoluzione è stata prevista dal testatore, o se l'adempimento dell'onere ha costituito il solo motivo determinante della disposizione.
+{: data-comma="2" }

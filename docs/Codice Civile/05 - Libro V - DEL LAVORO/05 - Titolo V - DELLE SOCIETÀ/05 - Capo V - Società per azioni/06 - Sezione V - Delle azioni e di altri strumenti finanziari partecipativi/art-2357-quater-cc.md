@@ -21,7 +21,10 @@ ordine: 2491
 # Art. 2357-quater - ***Divieto di sottoscrizione delle proprie azioni***
 
 Salvo quanto previsto dall'[articolo 2357-ter](art-2357-ter-cc.md), secondo comma, la società non può sottoscrivere azioni proprie.
+{: data-comma="1" }
 
 Le azioni sottoscritte in violazione del divieto stabilito nel precedente comma si intendono sottoscritte e devono essere liberate dai promotori e dai soci fondatori o, in caso di aumento del capitale sociale, dagli amministratori. La presente disposizione non si applica a chi dimostri di essere esente da colpa.
+{: data-comma="2" }
 
 Chiunque abbia sottoscritto in nome proprio, ma per conto della società, azioni di quest'ultima è considerato a tutti gli effetti sottoscrittore per conto proprio. Della liberazione delle azioni rispondono solidalmente, a meno che dimostrino di essere esenti da colpa, i promotori, i soci fondatori e, nel caso di aumento del capitale sociale, gli amministratori.
+{: data-comma="3" }

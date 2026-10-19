@@ -21,5 +21,7 @@ ordine: 2514
 # Art. 2374 - ***Rinvio dell'assemblea***
 
 I soci intervenuti che riuniscono un terzo del capitale rappresentato nell'assemblea, se dichiarano di non essere sufficientemente informati sugli oggetti posti in deliberazione, possono chiedere che l'assemblea sia rinviata a non oltre cinque giorni.
+{: data-comma="1" }
 
 Questo diritto non può esercitarsi che una sola volta per lo stesso oggetto.
+{: data-comma="2" }

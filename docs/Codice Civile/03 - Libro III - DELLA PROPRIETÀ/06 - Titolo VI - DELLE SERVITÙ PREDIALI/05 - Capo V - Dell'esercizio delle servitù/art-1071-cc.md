@@ -21,5 +21,7 @@ ordine: 1166
 # Art. 1071 - ***Divisione del fondo dominante o del fondo servente***
 
 Se il fondo dominante viene diviso, la servitù è dovuta a ciascuna porzione, senza che però si renda più gravosa la condizione del fondo servente.
+{: data-comma="1" }
 
 Se il fondo servente viene diviso e la servitù ricade su una parte determinata del fondo stesso, le altre parti sono liberate.
+{: data-comma="2" }

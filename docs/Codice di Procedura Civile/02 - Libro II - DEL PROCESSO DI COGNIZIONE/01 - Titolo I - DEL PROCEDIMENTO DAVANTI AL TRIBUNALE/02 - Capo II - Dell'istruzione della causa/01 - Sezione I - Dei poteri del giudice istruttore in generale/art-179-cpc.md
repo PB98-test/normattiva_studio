@@ -21,7 +21,10 @@ ordine: 193
 # Art. 179 - ***Ordinanze di condanna a pene pecuniarie***
 
 Se la legge non dispone altrimenti, le condanne a pene pecuniarie previste nel presente codice sono pronunciate con ordinanza del giudice istruttore.
+{: data-comma="1" }
 
 L'ordinanza pronunciata in udienza in presenza dell'interessato e previa contestazione dell'addebito non è impugnabile; altrimenti il cancelliere la notifica al condannato, il quale, nel termine perentorio di tre giorni, può proporre reclamo con ricorso allo stesso giudice che l'ha pronunciata. Questi, valutate le giustificazioni addotte, pronuncia sul reclamo con ordinanza non impugnabile.
+{: data-comma="2" }
 
 Le ordinanze di condanna previste nel presente articolo costituiscono titolo esecutivo.
+{: data-comma="3" }

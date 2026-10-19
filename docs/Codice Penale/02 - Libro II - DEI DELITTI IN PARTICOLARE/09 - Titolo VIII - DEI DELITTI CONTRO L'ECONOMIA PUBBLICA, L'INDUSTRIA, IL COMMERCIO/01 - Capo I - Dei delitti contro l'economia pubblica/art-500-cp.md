@@ -21,5 +21,7 @@ ordine: 623
 # Art. 500 - ***Diffusione di una malattia delle piante o degli animali***
 
 Chiunque cagiona la diffusione di una malattia alle piante o agli animali, pericolosa all'economia rurale o forestale, ovvero al patrimonio zootecnico della nazione, è punito con la reclusione da uno a cinque anni.
+{: data-comma="1" }
 
 Se la diffusione avviene per colpa, la pena è della multa da lire mille a ventimila.
+{: data-comma="2" }

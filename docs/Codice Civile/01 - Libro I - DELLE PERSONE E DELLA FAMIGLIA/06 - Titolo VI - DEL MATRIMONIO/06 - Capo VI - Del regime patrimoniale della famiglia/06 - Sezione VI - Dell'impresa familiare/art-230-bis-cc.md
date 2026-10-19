@@ -21,15 +21,21 @@ ordine: 273
 # Art. 230-bis - ***Impresa familiare***
 
 Salvo che sia configurabile un diverso rapporto, il familiare che presta in modo continuativo la sua attività di lavoro nella famiglia o nell'impresa familiare ha diritto al mantenimento secondo la condizione patrimoniale della famiglia e partecipa agli utili dell'impresa familiare ed ai beni acquistati con essi nonchè agli incrementi della azienda, anche in ordine all'avviamento, in proporzione alla quantità e qualità del lavoro prestato. Le decisioni concernenti l'impiego degli utili e degli incrementi nonchè quelle inerenti alla gestione straordinaria, agli indirizzi produttivi e alla cessazione dell'impresa sono adottate, a maggioranza, dai familiari che partecipano all'impresa stessa. I familiari partecipanti all'impresa che non hanno la piena capacità di agire sono rappresentati nel voto da chi esercita la potestà su di essi.
+{: data-comma="1" }
 
 Il lavoro della donna è considerato equivalente a quello dell'uomo.
+{: data-comma="2" }
 
 Ai fini della disposizione di cui al primo comma si intende come familiare il coniuge, i parenti entro il terzo grado, gli affini entro il secondo; per impresa familiare quella cui collaborano il coniuge, i parenti entro il terzo grado, gli affini entro il secondo. [^agg-334]
+{: data-comma="3" }
 
 Il diritto di partecipazione di cui al primo comma è intrasferibile, salvo che il trasferimento avvenga a favore di familiari indicati nel comma precedente col consenso di tutti i partecipi. Esso può essere liquidato in danaro alla cessazione, per qualsiasi causa, della prestazione del lavoro, ed altresì in caso di alienazione dell'azienda. Il pagamento può avvenire in più annualità, determinate, in difetto di accordo, dal giudice.
+{: data-comma="4" }
 
 In caso di divisione ereditaria o di trasferimento dell'azienda i partecipi di cui al primo comma hanno diritto di prelazione sull'azienda. Si applica, nei limiti in cui è compatibile, la disposizione dell'[articolo 732](../../../../02%20-%20Libro%20II%20-%20DELLE%20SUCCESSIONI/04%20-%20Titolo%20IV%20-%20DELLA%20DIVISIONE/01%20-%20Capo%20I%20-%20Disposizioni%20generali/art-732-cc.md).
+{: data-comma="5" }
 
 Le comunioni tacite familiari nell'esercizio dell'agricoltura sono regolate dagli usi che non contrastino con le precedenti norme.
+{: data-comma="6" }
 
 [^agg-334]: *AGGIORNAMENTO (334)* La Corte Costituzionale, con sentenza 4 - 25 luglio 2024, n. 148 (in G.U. 1ª s.s. 31/07/2024, n. 31), ha dichiarato "l'illegittimità costituzionale dell'[art. 230-bis, terzo comma, del codice civile](art-230-bis-cc.md), nella parte in cui non prevede come familiare anche il «convivente di fatto» e come impresa familiare quella cui collabora anche il «convivente di fatto»".

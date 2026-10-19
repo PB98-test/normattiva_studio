@@ -21,5 +21,7 @@ ordine: 2352
 # Art. 2230 - ***Prestazione d'opera intellettuale***
 
 Il contratto che ha per oggetto una prestazione d'opera intellettuale è regolato dalle norme seguenti e, in quanto compatibili con queste e con la natura del rapporto, dalle disposizioni del capo precedente.
+{: data-comma="1" }
 
 Sono salve le disposizioni delle leggi speciali.
+{: data-comma="2" }

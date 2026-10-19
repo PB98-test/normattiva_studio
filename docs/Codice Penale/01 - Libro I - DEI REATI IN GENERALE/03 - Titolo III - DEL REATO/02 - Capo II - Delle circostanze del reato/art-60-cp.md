@@ -21,7 +21,10 @@ ordine: 69
 # Art. 60 - ***Errore sulla persona dell'offeso***
 
 Nel caso di errore sulla persona offesa da un reato, non sono poste a carico dell'agente le circostanze aggravanti, che riguardano le condizioni o qualità della persona offesa, o i rapporti tra offeso e colpevole.
+{: data-comma="1" }
 
 Sono invece valutate a suo favore le circostanze attenuanti, erroneamente supposte, che concernono le condizioni, le qualità o i rapporti predetti.
+{: data-comma="2" }
 
 Le disposizioni di questo articolo non si applicano, se si tratta di circostanze che riguardano l'età o altre condizioni o qualità, fisiche o psichiche, della persona offesa.
+{: data-comma="3" }

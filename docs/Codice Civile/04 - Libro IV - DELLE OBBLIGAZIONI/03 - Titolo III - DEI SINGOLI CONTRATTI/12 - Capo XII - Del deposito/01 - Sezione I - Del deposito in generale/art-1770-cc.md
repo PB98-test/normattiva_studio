@@ -21,5 +21,7 @@ ordine: 1887
 # Art. 1770 - ***Modalità della custodia***
 
 Il depositario non può servirsi della cosa depositata nè darla in deposito ad altri, senza il consenso del depositante.
+{: data-comma="1" }
 
 Se circostanze urgenti lo richiedono, il depositario può esercitare la custodia in modo diverso da quello convenuto, dandone avviso al depositante appena è possibile.
+{: data-comma="2" }

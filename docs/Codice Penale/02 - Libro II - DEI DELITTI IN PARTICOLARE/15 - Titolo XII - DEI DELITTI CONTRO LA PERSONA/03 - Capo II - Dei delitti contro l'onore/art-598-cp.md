@@ -21,5 +21,7 @@ ordine: 780
 # Art. 598 - ***Offese in scritti e discorsi pronunciati dinanzi alle Autorità giudiziarie o amministrative***
 
 Non sono punibili le offese contenute negli scritti presentati o nei discorsi pronunciati dalle parti o dai loro patrocinatori nei procedimenti dinanzi all'Autorità giudiziaria, ovvero dinanzi a un'Autorità amministrativa, quando le offese concernono l'oggetto della causa o del ricorso amministrativo.
+{: data-comma="1" }
 
 Il giudice, pronunciando nella causa, può, oltre ai provvedimenti disciplinari, ordinare la soppressione o la cancellazione, in tutto o in parte, delle scritture offensive, e assegnare alla persona offesa una somma a titolo di risarcimento del danno non patrimoniale. Qualora si tratti di scritture per le quali la soppressione o cancellazione non possa eseguirsi, è fatta sulle medesime annotazione della sentenza.
+{: data-comma="2" }

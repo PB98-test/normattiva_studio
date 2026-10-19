@@ -21,7 +21,10 @@ ordine: 2158
 # Art. 2037 - ***Restituzione di cosa determinata***
 
 Chi ha ricevuto indebitamente una cosa determinata è tenuto a restituirla.
+{: data-comma="1" }
 
 Se la cosa è perita, anche per caso fortuito, chi l'ha ricevuta in mala fede è tenuto a corrisponderne il valore; se la cosa è soltanto deteriorata, colui che l'ha data può chiedere l'equivalente, oppure la restituzione e un'indennità per la diminuzione di valore.
+{: data-comma="2" }
 
 Chi ha ricevuto la cosa in buona fede non risponde del perimento o del deterioramento di essa, ancorchè dipenda da fatto proprio, se non nei limiti del suo arricchimento.
+{: data-comma="3" }

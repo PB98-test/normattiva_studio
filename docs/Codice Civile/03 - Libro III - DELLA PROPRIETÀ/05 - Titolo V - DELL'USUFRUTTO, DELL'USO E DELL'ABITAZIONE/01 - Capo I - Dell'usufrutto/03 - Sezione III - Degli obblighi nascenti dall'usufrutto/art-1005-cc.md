@@ -21,7 +21,10 @@ ordine: 1100
 # Art. 1005 - ***Riparazioni straordinarie***
 
 Le riparazioni straordinarie sono a carico del proprietario.
+{: data-comma="1" }
 
 Riparazioni straordinarie sono quelle necessarie ad assicurare la stabilità dei muri maestri e delle volte, la sostituzione delle travi, il rinnovamento, per intero o per una parte notevole, dei tetti, solai, scale, argini, acquedotti, muri di sostegno o di cinta.
+{: data-comma="2" }
 
 L'usufruttuario deve corrispondere al proprietario, durante l'usufrutto, l'interesse delle somme spese per le riparazioni straordinarie.
+{: data-comma="3" }

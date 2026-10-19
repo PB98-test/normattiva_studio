@@ -21,5 +21,7 @@ ordine: 104
 # Art. 92 - ***Ubriachezza volontaria o colposa ovvero preordinata***
 
 L'ubriachezza non derivata da caso fortuito o da forza maggiore non esclude nè diminuisce la imputabilità.
+{: data-comma="1" }
 
 Se l'ubriachezza era preordinata al fine di commettere il reato, o di prepararsi una scusa, la pena è aumentata.
+{: data-comma="2" }

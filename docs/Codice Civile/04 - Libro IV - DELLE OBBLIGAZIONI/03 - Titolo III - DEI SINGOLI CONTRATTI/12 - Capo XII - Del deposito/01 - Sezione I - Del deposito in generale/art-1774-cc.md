@@ -21,5 +21,7 @@ ordine: 1891
 # Art. 1774 - ***Luogo di restituzione e spese relative***
 
 Salvo diversa convenzione, la restituzione della cosa deve farsi nel luogo in cui doveva essere custodita.
+{: data-comma="1" }
 
 Le spese per la restituzione sono a carico del depositante.
+{: data-comma="2" }

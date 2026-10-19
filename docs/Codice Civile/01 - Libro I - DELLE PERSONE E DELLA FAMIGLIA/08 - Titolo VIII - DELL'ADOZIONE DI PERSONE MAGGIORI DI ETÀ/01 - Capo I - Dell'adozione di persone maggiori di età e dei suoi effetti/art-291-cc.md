@@ -21,8 +21,10 @@ ordine: 336
 # Art. 291 - ***Condizioni***
 
 L'adozione è permessa alle persone che non hanno discendenti legittimi o legittimati, che hanno compiuto gli anni trentacinque e che superano almeno di diciotto anni l'età di coloro che intendano adottare.[^agg-329]
+{: data-comma="1" }
 
 Quando eccezionali circostanze lo consigliano, il tribunale può autorizzare l'adozione se l'adottante ha raggiunto almeno l'età di trenta anni, ferma restando la differenza di età di cui al comma precedente. [^agg-71][^agg-153]
+{: data-comma="2" }
 
 [^agg-71]: *AGGIORNAMENTO (71)* La Corte Costituzionale, con sentenza 11 - 19 maggio 1988, n. 557 (in G.U. 1a s.s. 25/5/1988, n. 21) ha dichiarato "l'illegittimità costituzionale dell'[art. 291 cod. civ.](art-291-cc.md), nella parte in cui non consente l'adozione a persone che abbiano discendenti legittimi o legittimati maggiorenni e consenzienti".
 

@@ -21,7 +21,10 @@ ordine: 1040
 # Art. 945 - ***Isole e unioni di terra***
 
 Le isole e unioni di terra che si formano nel letto dei fiumi o torrenti appartengono al demanio pubblico.
+{: data-comma="1" }
 
 COMMA ABROGATO DALLA L. 5 GENNAIO 1994, N. 37.
+{: data-comma="2" }
 
 COMMA ABROGATO DALLA L. 5 GENNAIO 1994, N. 37.
+{: data-comma="3" }

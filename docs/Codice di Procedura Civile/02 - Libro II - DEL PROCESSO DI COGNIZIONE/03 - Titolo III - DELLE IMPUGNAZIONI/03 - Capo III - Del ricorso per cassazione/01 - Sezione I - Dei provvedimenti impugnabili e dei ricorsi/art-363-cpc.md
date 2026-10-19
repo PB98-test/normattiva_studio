@@ -21,9 +21,13 @@ ordine: 406
 # Art. 363 - ***Principio di diritto nell'interesse della legge***
 
 Quando le parti non hanno proposto ricorso nei termini di legge o vi hanno rinunciato, ovvero quando il provvedimento non è ricorribile in cassazione e non è altrimenti impugnabile, il Procuratore generale presso la Corte di cassazione può chiedere che la Corte enunci nell'interesse della legge il principio di diritto al quale il giudice di merito avrebbe dovuto attenersi.
+{: data-comma="1" }
 
 La richiesta del procuratore generale, contenente una sintetica esposizione del fatto e delle ragioni di diritto poste a fondamento dell'istanza, è rivolta al primo presidente, il quale può disporre che la Corte si pronunci a sezioni unite se ritiene che la questione è di particolare importanza.
+{: data-comma="2" }
 
 Il principio di diritto può essere pronunciato dalla Corte anche d'ufficio, quando il ricorso proposto dalle parti è dichiarato inammissibile, se la Corte ritiene che la questione decisa è di particolare importanza.
+{: data-comma="3" }
 
 La pronuncia della Corte non ha effetto sul provvedimento del giudice di merito.
+{: data-comma="4" }

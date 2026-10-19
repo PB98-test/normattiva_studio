@@ -21,5 +21,7 @@ ordine: 1054
 # Art. 959 - ***Diritti dell'enfiteuta***
 
 L'enfiteuta ha gli stessi diritti che avrebbe il proprietario sui frutti del fondo, sul tesoro e relativamente alle utilizzazioni del sottosuolo in conformità delle disposizioni delle leggi speciali.
+{: data-comma="1" }
 
 Il diritto dell'enfiteuta si estende alle accessioni.
+{: data-comma="2" }

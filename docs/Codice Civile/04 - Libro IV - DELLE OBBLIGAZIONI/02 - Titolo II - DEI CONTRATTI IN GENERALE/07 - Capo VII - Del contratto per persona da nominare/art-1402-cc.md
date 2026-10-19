@@ -21,5 +21,7 @@ ordine: 1504
 # Art. 1402 - ***Termine e modalità della dichiarazione di nomina***
 
 La dichiarazione di nomina deve essere comunicata all'altra parte nel termine di tre giorni dalla stipulazione del contratto, se le parti non hanno stabilito un termine diverso.
+{: data-comma="1" }
 
 La dichiarazione non ha effetto se non è accompagnata dall'accettazione della persona nominata o se non esiste una procura anteriore al contratto.
+{: data-comma="2" }

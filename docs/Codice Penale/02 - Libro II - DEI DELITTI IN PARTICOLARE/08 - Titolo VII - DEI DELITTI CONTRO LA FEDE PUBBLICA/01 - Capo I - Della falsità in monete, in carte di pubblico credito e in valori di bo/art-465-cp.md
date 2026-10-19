@@ -21,5 +21,7 @@ ordine: 576
 # Art. 465 - ***Uso di biglietti falsificati di pubbliche imprese di trasporto***
 
 Chiunque, non essendo concorso nella contraffazione o nell'alterazione, fa uso di biglietti di strade ferrate o di altre pubbliche imprese di trasporto, contraffatti o alterati, è punito con la sanzione amministrativa pecuniaria da lire duecentomila a un milione duecentomila.
+{: data-comma="1" }
 
 Se i biglietti sono stati ricevuti in buona fede, si applica la sanzione amministrativa pecuniaria da lire centomila a seicentomila.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 223
 # Art. 202 - ***Applicabilità delle misure di sicurezza***
 
 Le misure di sicurezza possono essere applicate soltanto alle persone socialmente pericolose, che abbiano commesso un fatto preveduto dalla legge come reato.
+{: data-comma="1" }
 
 La legge penale determina i casi nei quali a persone socialmente pericolose possono essere applicate misure di sicurezza per un fatto non preveduto dalla legge come reato.
+{: data-comma="2" }

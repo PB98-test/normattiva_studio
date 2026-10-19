@@ -14,20 +14,21 @@ capo_label: "Della esecuzione della pena"
 sezione: null
 sezione_label: null
 rubrica: "Remunerazione ai condannati per il lavoro prestato"
-dataVigenza: "20260914"
+dataVigenza: "20261016"
 ordine: 160
 ---
 
 # Art. 145 - ***Remunerazione ai condannati per il lavoro prestato***
 
 Negli stabilimenti penitenziari, ai condannati è corrisposta una remunerazione per il lavoro prestato.
+{: data-comma="1" }
 
 Sulla remunerazione, salvo che l'adempimento delle obbligazioni sia altrimenti eseguito, sono prelevate nel seguente ordine:
+{: data-comma="2" }
 
-1° le somme dovute a titolo di risarcimento del danno;
-
-2° le spese che lo Stato sostiene per il mantenimento del condannato;
-
-3° le somme dovute a titolo di rimborso delle spese del procedimento.
+- 1° le somme dovute a titolo di risarcimento del danno;
+- 2° le spese che lo Stato sostiene per il mantenimento del condannato;
+- 3° le somme dovute a titolo di rimborso delle spese del procedimento.
 
 In ogni caso, deve essere riservata a favore del condannato una quota pari a un terzo della remunerazione, a titolo di peculio. Tale quota non è soggetta a pignoramento o a sequestro.
+{: data-comma="3" }

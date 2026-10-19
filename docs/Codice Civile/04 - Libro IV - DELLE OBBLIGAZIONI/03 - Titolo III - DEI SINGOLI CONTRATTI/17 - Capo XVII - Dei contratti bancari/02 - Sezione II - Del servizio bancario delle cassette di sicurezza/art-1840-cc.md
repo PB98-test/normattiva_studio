@@ -21,5 +21,7 @@ ordine: 1961
 # Art. 1840 - ***Apertura della cassetta***
 
 Se la cassetta è intestata a più persone, l'apertura di essa è consentita singolarmente a ciascuno degli intestatari, salvo diversa pattuizione.
+{: data-comma="1" }
 
 In caso di morte dell'intestatario o di uno degli intestatari, la banca che ne abbia ricevuto comunicazione non può consentire l'apertura della cassetta se non con l'accordo di tutti gli aventi diritto o secondo le modalità stabilite dall'autorità giudiziaria.
+{: data-comma="2" }

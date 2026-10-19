@@ -21,5 +21,7 @@ ordine: 1964
 # Art. 1843 - ***Utilizzazione del credito***
 
 Se non è convenuto altrimenti, l'accreditato può utilizzare in più volte il credito, secondo le forme di uso, e può con successivi versamenti ripristinare la sua disponibilità.
+{: data-comma="1" }
 
 Salvo patto contrario, i prelevamenti e i versamenti si eseguono presso la sede della banca dove è costituito il rapporto.
+{: data-comma="2" }

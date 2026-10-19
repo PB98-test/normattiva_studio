@@ -21,11 +21,16 @@ ordine: 966
 # Art. 790 - ***Operazioni davanti al notaio***
 
 Se a dirigere le operazioni di divisione è stato delegato un notaio, questi dà avviso, almeno cinque giorni prima, ai condividenti e ai creditori intervenuti del luogo, giorno e ora in cui le operazioni avranno inizio.
+{: data-comma="1" }
 
 Le operazioni si svolgono alla presenza delle parti, assistite, se lo richiedono e a loro spese, dai propri procuratori.
+{: data-comma="2" }
 
 Se nel corso delle operazioni sorgono contestazioni in ordine alle stesse, il notaio redige apposito processo verbale che trasmette al giudice istruttore.
+{: data-comma="3" }
 
 Questi fissa con decreto un'udienza per la comparizione delle parti, alle quali il decreto stesso è comunicato dal cancelliere.
+{: data-comma="4" }
 
 Sulle contestazioni il giudice provvede con ordinanza.
+{: data-comma="5" }

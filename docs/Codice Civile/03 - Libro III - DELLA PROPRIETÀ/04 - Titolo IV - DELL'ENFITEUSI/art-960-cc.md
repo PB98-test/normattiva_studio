@@ -21,5 +21,7 @@ ordine: 1055
 # Art. 960 - ***Obblighi dell'enfiteuta***
 
 L'enfiteuta ha l'obbligo di migliorare il fondo e di pagare al concedente un canone periodico. Questo può consistere in una somma di danaro ovvero in una quantità fissa di prodotti naturali.
+{: data-comma="1" }
 
 L'enfiteuta non può pretendere remissione o riduzione del canone per qualunque insolita sterilità del fondo o perdita di frutti.
+{: data-comma="2" }

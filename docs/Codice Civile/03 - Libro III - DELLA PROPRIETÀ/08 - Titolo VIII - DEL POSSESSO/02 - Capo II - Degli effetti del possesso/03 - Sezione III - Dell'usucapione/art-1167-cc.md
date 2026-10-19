@@ -21,5 +21,7 @@ ordine: 1269
 # Art. 1167 - ***Interruzione dell'usucapione per perdita di possesso***
 
 L'usucapione è interrotta quando il possessore è stato privato del possesso per oltre un anno.
+{: data-comma="1" }
 
 L'interruzione si ha come non avvenuta se è stata proposta l'azione diretta a ricuperare il possesso e questo è stato ricuperato.
+{: data-comma="2" }

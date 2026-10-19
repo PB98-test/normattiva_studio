@@ -21,5 +21,7 @@ ordine: 1156
 # Art. 1061 - ***Servitù non apparenti***
 
 Le servitù non apparenti non possono acquistarsi per usucapione o per destinazione del padre di famiglia.
+{: data-comma="1" }
 
 Non apparenti sono le servitù quando non si hanno opere visibili e permanenti destinate al loro esercizio.
+{: data-comma="2" }

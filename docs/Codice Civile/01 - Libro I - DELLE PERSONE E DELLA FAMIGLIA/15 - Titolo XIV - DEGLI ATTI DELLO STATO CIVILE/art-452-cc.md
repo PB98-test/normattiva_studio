@@ -21,5 +21,7 @@ ordine: 538
 # Art. 452 - ***Mancanza, distruzione o smarrimento di registri***
 
 Se non si sono tenuti i registri o sono andati distrutti o smarriti o se, per qualunque altra causa, manca in tutto o in parte la registrazione dell'atto, la prova della nascita o della morte può essere data con ogni mezzo.
+{: data-comma="1" }
 
 In caso di mancanza, di distruzione totale o parziale, di alterazione o di occultamento accaduti per dolo del richiedente, questi non è ammesso alla prova consentita nel comma precedente.
+{: data-comma="2" }

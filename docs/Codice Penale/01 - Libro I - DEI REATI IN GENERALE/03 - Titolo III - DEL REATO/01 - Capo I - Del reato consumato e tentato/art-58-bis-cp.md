@@ -21,7 +21,10 @@ ordine: 67
 # Art. 58-bis - ***Procedibilità per i reati commessi col mezzo della stampa***
 
 Se il reato commesso col mezzo della stampa è punibile a querela, istanza o richiesta, anche per la punibilità dei reati preveduti dai tre articoli precedenti è necessaria querela, istanza o richiesta.
+{: data-comma="1" }
 
 La querela, la istanza o la richiesta presentata contro il direttore o vice-direttore responsabile, l'editore o lo stampatore, ha effetto anche nei confronti dell'autore della pubblicazione per il reato da questo commesso.
+{: data-comma="2" }
 
 Non si può procedere per i reati preveduti nei tre articoli precedenti se è necessaria una autorizzazione di procedimento per il reato commesso dall'autore della pubblicazione, fino a quando l'autorizzazione non è concessa. Questa disposizione non si applica se l'autorizzazione è stabilita per le qualità o condizioni personali dell'autore della pubblicazione.
+{: data-comma="3" }

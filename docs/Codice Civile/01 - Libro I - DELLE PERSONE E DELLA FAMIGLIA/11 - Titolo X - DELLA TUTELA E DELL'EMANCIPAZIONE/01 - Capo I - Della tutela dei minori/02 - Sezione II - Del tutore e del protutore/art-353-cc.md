@@ -21,5 +21,7 @@ ordine: 438
 # Art. 353 - ***Domanda di dispensa***
 
 La domanda di dispensa per le cause indicate nell'articolo precedente deve essere presentata al giudice tutelare prima della prestazione del giuramento, salvo che la causa di dispensa sia sopravvenuta.
+{: data-comma="1" }
 
 Il tutore è tenuto ad assumere e a mantenere l'ufficio fino a quando la tutela non sia stata conferita ad altra persona.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 820
 # Art. 666 - ***Contestazione sull'ammontare dei canoni***
 
 Se è intimato lo sfratto per mancato pagamento del canone, e il convenuto nega la propria morosità contestando l'ammontare della somma pretesa, il giudice può disporre con ordinanza il pagamento della somma non controversa e concedere all'uopo al convenuto un termine non superiore a venti giorni.
+{: data-comma="1" }
 
 Se il conduttore non ottempera all'ordine di pagamento, il giudice convalida l'intimazione di sfratto e, nel caso previsto nell'[articolo 658](art-658-cpc.md), pronuncia decreto ingiuntivo per il pagamento dei canoni.
+{: data-comma="2" }

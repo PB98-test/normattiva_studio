@@ -21,5 +21,7 @@ ordine: 1731
 # Art. 1616 - ***Affitto senza determinazione di tempo***
 
 Se le parti non hanno determinato la durata dell'affitto, ciascuna di esse può recedere dal contratto dando all'altra un congruo preavviso.
+{: data-comma="1" }
 
 Sono salve le norme corporative e gli usi che dispongano diversamente.
+{: data-comma="2" }

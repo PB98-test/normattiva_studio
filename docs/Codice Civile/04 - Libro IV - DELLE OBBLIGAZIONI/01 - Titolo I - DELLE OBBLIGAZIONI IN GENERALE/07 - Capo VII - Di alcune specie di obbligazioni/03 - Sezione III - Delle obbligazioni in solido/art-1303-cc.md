@@ -21,5 +21,7 @@ ordine: 1405
 # Art. 1303 - ***Confusione***
 
 Se nella medesima persona si riuniscono le qualità di creditore e di debitore in solido, l'obbligazione degli altri debitori si estingue per la parte di quel condebitore.
+{: data-comma="1" }
 
 Se nella medesima persona si riuniscono le qualità di debitore e di creditore in solido, l'obbligazione si estingue per la parte di questo.
+{: data-comma="2" }

@@ -21,7 +21,10 @@ ordine: 1024
 # Art. 827 - ***Mezzi di impugnazione***
 
 Il lodo è soggetto all'impugnazione per nullità, per revocazione e per opposizione di terzo.
+{: data-comma="1" }
 
 I mezzi d'impugnazione possono essere proposti indipendentemente dal deposito del lodo.
+{: data-comma="2" }
 
 Il lodo che decide parzialmente il merito della controversia è immediatamente impugnabile, ma il lodo che risolve alcune delle questioni insorte senza definire il giudizio arbitrale è impugnabile solo unitamente al lodo definitivo.
+{: data-comma="3" }

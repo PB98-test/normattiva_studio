@@ -21,5 +21,7 @@ ordine: 1145
 # Art. 1050 - ***Somministrazione di acqua a un fondo***
 
 Le norme stabilite dall'articolo precedente si applicano anche se il proprietario di un fondo non ha acqua per irrigarlo, quando le acque del fondo vicino consentono una parziale somministrazione, dopo soddisfatto ogni bisogno domestico, agricolo o industriale.
+{: data-comma="1" }
 
 Le disposizioni di questo articolo e del precedente non si applicano nel caso in cui delle acque si dispone in forza di concessione amministrativa.
+{: data-comma="2" }

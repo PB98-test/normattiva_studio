@@ -21,7 +21,10 @@ ordine: 1546
 # Art. 1444 - ***Convalida***
 
 Il contratto annullabile può essere convalidato dal contraente al quale spetta l'azione di annullamento, mediante un atto che contenga la menzione del contratto e del motivo di annullabilità, e la dichiarazione che s'intende convalidarlo.
+{: data-comma="1" }
 
 Il contratto è pure convalidato, se il contraente al quale spettava l'azione di annullamento vi ha dato volontariamente esecuzione conoscendo il motivo di annullabilità.
+{: data-comma="2" }
 
 La convalida non ha effetto, se chi l'esegue non è in condizione di concludere validamente il contratto.
+{: data-comma="3" }

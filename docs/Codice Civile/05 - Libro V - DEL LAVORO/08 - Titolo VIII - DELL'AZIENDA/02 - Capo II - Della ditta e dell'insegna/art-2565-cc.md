@@ -21,7 +21,10 @@ ordine: 2856
 # Art. 2565 - ***Trasferimento della ditta***
 
 La ditta non può essere trasferita separatamente dall'azienda.
+{: data-comma="1" }
 
 Nel trasferimento dell'azienda per atto tra vivi la ditta non passa all'acquirente senza il consenso dell'alienante.
+{: data-comma="2" }
 
 Nella successione nell'azienda per causa di morte la ditta si trasmette al successore, salvo diversa disposizione testamentaria.
+{: data-comma="3" }

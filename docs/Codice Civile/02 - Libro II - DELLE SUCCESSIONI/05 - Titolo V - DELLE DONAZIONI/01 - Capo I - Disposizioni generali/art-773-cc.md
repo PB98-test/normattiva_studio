@@ -21,5 +21,7 @@ ordine: 867
 # Art. 773 - ***Donazione a più donatari***
 
 La donazione fatta congiuntamente a favore di più donatari s'intende fatta per parti uguali, salvo che dall'atto risulti una diversa volontà.
+{: data-comma="1" }
 
 È valida la clausola con cui il donante dispone che, se uno dei donatari non può o non vuole accettare, la sua parte si accresca agli altri.
+{: data-comma="2" }

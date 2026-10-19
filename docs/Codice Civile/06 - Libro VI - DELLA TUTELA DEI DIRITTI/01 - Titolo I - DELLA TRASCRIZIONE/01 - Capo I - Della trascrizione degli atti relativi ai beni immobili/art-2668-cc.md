@@ -21,9 +21,13 @@ ordine: 2970
 # Art. 2668 - ***Cancellazione della trascrizione***
 
 La cancellazione della trascrizione delle domande enunciate dagli [articoli 2652](art-2652-cc.md) e [2653](art-2653-cc.md) e delle relative annotazioni si esegue quando è debitamente consentita dalle parti interessate ovvero è ordinata giudizialmente con sentenza passata in giudicato.
+{: data-comma="1" }
 
 Deve essere giudizialmente ordinata, qualora la domanda sia rigettata o il processo sia estinto per rinunzia o per inattività delle parti.
+{: data-comma="2" }
 
 Si deve cancellare l'indicazione della condizione o del termine negli atti trascritti, quando l'avveramento o la mancanza della condizione ovvero la scadenza del termine risulta da sentenza o da dichiarazione, anche unilaterale, della parte, in danno della quale la condizione sospensiva si è verificata o la condizione risolutiva è mancata ovvero il termine iniziale è scaduto.
+{: data-comma="3" }
 
 Si deve cancellare la trascrizione dei contratti preliminari quando la cancellazione è debitamente consentita dalle parti interessate ovvero è ordinata giudizialmente con sentenza passata in giudicato.
+{: data-comma="4" }

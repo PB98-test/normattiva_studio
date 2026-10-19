@@ -21,5 +21,7 @@ ordine: 2040
 # Art. 1919 - ***Assicurazione sulla vita propria o di un terzo***
 
 L'assicurazione può essere stipulata sulla vita propria o su quella di un terzo.
+{: data-comma="1" }
 
 L'assicurazione contratta per il caso di morte di un terzo non è valida se questi o il suo legale rappresentante non dà il consenso alla conclusione del contratto. Il consenso deve essere provato per iscritto.
+{: data-comma="2" }

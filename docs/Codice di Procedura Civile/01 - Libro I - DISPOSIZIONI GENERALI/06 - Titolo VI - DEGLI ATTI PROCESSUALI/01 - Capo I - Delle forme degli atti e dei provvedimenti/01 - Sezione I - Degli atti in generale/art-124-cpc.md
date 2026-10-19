@@ -21,5 +21,7 @@ ordine: 131
 # Art. 124 - ***Interrogazione del sordo e del muto***
 
 Se nel procedimento deve essere sentito un sordo, un muto o un sordomuto, le interrogazioni e le risposte possono essere fatte per iscritto.
+{: data-comma="1" }
 
 Quando occorre, il giudice nomina un interprete, il quale presta giuramento a norma dell'[articolo 122](art-122-cpc.md) ultimo comma.
+{: data-comma="2" }

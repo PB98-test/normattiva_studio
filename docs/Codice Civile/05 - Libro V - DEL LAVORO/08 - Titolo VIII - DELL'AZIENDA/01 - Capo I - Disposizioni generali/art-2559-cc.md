@@ -21,5 +21,7 @@ ordine: 2850
 # Art. 2559 - ***Crediti relativi all'azienda ceduta***
 
 La cessione dei crediti relativi all'azienda ceduta, anche in mancanza di notifica al debitore o di sua accettazione, ha effetto, nei confronti dei terzi, dal momento dell'iscrizione del trasferimento nel registro delle imprese. Tuttavia il debitore ceduto è liberato se paga in buona fede all'alienante.
+{: data-comma="1" }
 
 Le stesse disposizioni si applicano anche nel caso di usufrutto dell'azienda, se esso si estende ai crediti relativi alla medesima.
+{: data-comma="2" }

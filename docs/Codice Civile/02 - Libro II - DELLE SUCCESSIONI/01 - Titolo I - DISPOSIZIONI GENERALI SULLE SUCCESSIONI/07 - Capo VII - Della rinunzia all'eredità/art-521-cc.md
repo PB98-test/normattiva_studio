@@ -21,5 +21,7 @@ ordine: 608
 # Art. 521 - ***Retroattività della rinunzia***
 
 Chi rinunzia all'eredità è considerato come se non vi fosse mai stato chiamato.
+{: data-comma="1" }
 
 Il rinunziante può tuttavia ritenere la donazione o domandare il legato a lui fatto sino alla concorrenza della porzione disponibile, salve le disposizioni degli [articoli 551](../10%20-%20Capo%20X%20-%20Dei%20legittimari/01%20-%20Sezione%20I%20-%20Dei%20diritti%20riservati%20ai%20legittimari/art-551-cc.md) e [552](../10%20-%20Capo%20X%20-%20Dei%20legittimari/01%20-%20Sezione%20I%20-%20Dei%20diritti%20riservati%20ai%20legittimari/art-552-cc.md).
+{: data-comma="2" }

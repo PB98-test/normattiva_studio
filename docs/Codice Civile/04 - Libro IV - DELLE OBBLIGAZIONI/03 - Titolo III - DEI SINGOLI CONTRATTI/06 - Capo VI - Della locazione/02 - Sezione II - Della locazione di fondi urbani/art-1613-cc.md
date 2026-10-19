@@ -21,5 +21,7 @@ ordine: 1728
 # Art. 1613 - ***Facoltà di recesso degli impiegati pubblici***
 
 Gli impiegati delle pubbliche amministrazioni possono, nonostante patto contrario, recedere dal contratto nel caso di trasferimento, purchè questo non sia stato disposto su loro domanda.
+{: data-comma="1" }
 
 Tale facoltà si esercita mediante disdetta motivata, e il recesso ha effetto dal secondo mese successivo a quello in corso alla data della disdetta.
+{: data-comma="2" }

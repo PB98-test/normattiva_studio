@@ -14,8 +14,10 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: null
-dataVigenza: "20260930"
+dataVigenza: "20261016"
 ordine: 3
 ---
 
 # Art. 2-bis
+
+*(testo non presente nella fonte)*

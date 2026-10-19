@@ -21,5 +21,7 @@ ordine: 2140
 # Art. 2019 - ***Effetti dell'ammortamento***
 
 Trascorso senza opposizione il termine indicato dall'[art. 2016](art-2016-cc.md), il titolo non ha più efficacia, salve le ragioni del detentore verso chi ha ottenuto l'ammortamento.
+{: data-comma="1" }
 
 Chi ha ottenuto l'ammortamento, su presentazione del decreto e di un certificato del cancelliere del tribunale comprovante che non fu interposta opposizione, può esigere il pagamento o, qualora il titolo sia in bianco o non sia ancora scaduto, può ottenere un duplicato.
+{: data-comma="2" }

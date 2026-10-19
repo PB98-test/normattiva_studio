@@ -21,5 +21,7 @@ ordine: 1839
 # Art. 1723 - ***Revocabilità del mandato***
 
 Il mandante può revocare il mandato; ma, se era stata pattuita l'irrevocabilità, risponde dei danni, salvo che ricorra una giusta causa.
+{: data-comma="1" }
 
 Il mandato conferito anche nell'interesse del mandatario o di terzi non si estingue per revoca da parte del mandante, salvo che sia diversamente stabilito o ricorra una giusta causa di revoca; non si estingue per la morte o per la sopravvenuta incapacità del mandante.
+{: data-comma="2" }

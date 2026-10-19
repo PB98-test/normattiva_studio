@@ -21,5 +21,7 @@ ordine: 1290
 # Art. 1188 - ***Destinatario del pagamento***
 
 Il pagamento deve essere fatto al creditore o al suo rappresentante, ovvero alla persona indicata dal creditore o autorizzata dalla legge o dal giudice a riceverlo.
+{: data-comma="1" }
 
 Il pagamento fatto a chi non era legittimato a riceverlo libera il debitore, se il creditore lo ratifica o se ne ha approfittato.
+{: data-comma="2" }

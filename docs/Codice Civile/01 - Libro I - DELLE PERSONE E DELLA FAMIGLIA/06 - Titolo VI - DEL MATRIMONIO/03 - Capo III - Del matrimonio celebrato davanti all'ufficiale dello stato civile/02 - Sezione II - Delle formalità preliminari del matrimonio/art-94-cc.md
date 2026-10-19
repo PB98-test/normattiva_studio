@@ -21,7 +21,10 @@ ordine: 126
 # Art. 94 - ***Luogo della pubblicazione***
 
 La pubblicazione deve essere richiesta all'ufficiale dello stato civile del comune dove uno degli sposi ha la residenza ed è fatta nei comuni di residenza degli sposi.
+{: data-comma="1" }
 
 COMMA ABROGATO DAL D.P.R. 3 NOVEMBRE 2000, N. 396.
+{: data-comma="2" }
 
 COMMA ABROGATO DAL D.P.R. 3 NOVEMBRE 2000, N. 396.
+{: data-comma="3" }

@@ -21,7 +21,10 @@ ordine: 2293
 # Art. 2172 - ***Durata del contratto***
 
 Se nel contratto non è stabilito un termine, la soccida ha la durata di tre anni.
+{: data-comma="1" }
 
 Alla scadenza del termine il contratto non cessa di diritto, e la parte che non intende rinnovarlo deve darne disdetta almeno sei mesi prima della scadenza o nel maggior termine fissato dalle norme corporative, dalla convenzione o dagli usi.
+{: data-comma="2" }
 
 Se non è data disdetta, il contratto s'intende rinnovato di anno in anno.
+{: data-comma="3" }

@@ -21,11 +21,16 @@ ordine: 235
 # Art. 213 - ***Stabilimenti destinati alla esecuzione delle misure di sicurezza detentive. Regime educativo, curativo e di lavoro***
 
 Le misure di sicurezza detentive sono eseguite negli stabilimenti a ciò destinati.
+{: data-comma="1" }
 
 Le donne sono assegnate a stabilimenti separati da quelli destinati agli uomini.
+{: data-comma="2" }
 
 In ciascuno degli stabilimenti è adottato un particolare regime educativo o curativo e di lavoro, avuto riguardo alle tendenze e alle abitudini criminose della persona e, in genere, al pericolo sociale che da essa deriva.
+{: data-comma="3" }
 
 Il lavoro è remunerato. Dalla remunerazione è prelevata una quota per il rimborso delle spese di mantenimento.
+{: data-comma="4" }
 
 Per quanto concerne il mantenimento dei ricoverati nei manicomi giudiziari, si osservano le disposizioni sul rimborso delle spese di spedalità.
+{: data-comma="5" }

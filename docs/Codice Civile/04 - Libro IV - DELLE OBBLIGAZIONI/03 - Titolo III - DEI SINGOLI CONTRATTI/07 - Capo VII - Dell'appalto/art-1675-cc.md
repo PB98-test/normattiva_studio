@@ -21,5 +21,7 @@ ordine: 1790
 # Art. 1675 - ***Diritti e obblighi degli eredi dell'appaltatore***
 
 Nel caso di scioglimento del contratto per morte dell'appaltatore, il committente è tenuto a pagare agli eredi il valore delle opere eseguite, in ragione del prezzo pattuito, e a rimborsare le spese sostenute per l'esecuzione del rimanente, ma solo nei limiti in cui le opere eseguite e le spese sostenute gli sono utili.
+{: data-comma="1" }
 
 Il committente ha diritto di domandare la consegna, verso una congrua indennità, dei materiali preparati e dei piani in via di esecuzione, salve le norme che proteggono le opere dell'ingegno.
+{: data-comma="2" }

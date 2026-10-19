@@ -21,5 +21,7 @@ ordine: 2468
 # Art. 2341-ter - ***Pubblicità dei patti parasociali***
 
 Nelle società che fanno ricorso al mercato del capitale di rischio o con azioni negoziate in sistemi multilaterali di negoziazione i patti parasociali devono essere comunicati alla società e dichiarati in apertura di ogni assemblea. La dichiarazione deve essere trascritta nel verbale e questo deve essere depositato presso l'ufficio del registro delle imprese.
+{: data-comma="1" }
 
 In caso di mancanza della dichiarazione prevista dal comma precedente i possessori delle azioni cui si riferisce il patto parasociale non possono esercitare il diritto di voto e le deliberazioni assembleari adottate con il loro voto determinante sono impugnabili a norma dell'[articolo 2377](../07%20-%20Sezione%20VI%20-%20Dell%27assemblea/art-2377-cc.md).
+{: data-comma="2" }

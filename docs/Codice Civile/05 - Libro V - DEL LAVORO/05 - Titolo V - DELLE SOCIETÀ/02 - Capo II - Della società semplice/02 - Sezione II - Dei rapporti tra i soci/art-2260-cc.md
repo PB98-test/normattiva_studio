@@ -21,5 +21,7 @@ ordine: 2382
 # Art. 2260 - ***Diritti e obblighi degli amministratori***
 
 I diritti e gli obblighi degli amministratori sono regolati dalle norme sul mandato.
+{: data-comma="1" }
 
 Gli amministratori sono solidalmente responsabili verso la società per l'adempimento degli obblighi ad essi imposti dalla legge e dal contratto sociale. Tuttavia la responsabilità non si estende a quelli che dimostrino di essere esenti da colpa.
+{: data-comma="2" }

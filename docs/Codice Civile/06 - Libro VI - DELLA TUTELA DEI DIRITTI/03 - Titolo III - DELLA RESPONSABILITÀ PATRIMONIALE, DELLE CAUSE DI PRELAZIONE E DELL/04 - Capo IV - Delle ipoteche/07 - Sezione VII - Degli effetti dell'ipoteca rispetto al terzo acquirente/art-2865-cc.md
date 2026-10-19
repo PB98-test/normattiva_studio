@@ -21,5 +21,7 @@ ordine: 3175
 # Art. 2865 - ***Frutti dovuti dal terzo***
 
 I frutti dell'immobile ipotecato sono dovuti dal terzo a decorrere dal giorno in cui è stato eseguito il pignoramento.
+{: data-comma="1" }
 
 Nel caso di liberazione dell'immobile dalle ipoteche i frutti sono del pari dovuti dal giorno del pignoramento o, in mancanza di pignoramento, dal giorno della notificazione eseguita in conformità dell'[art. 2890](../12%20-%20Sezione%20XII%20-%20Del%20modo%20di%20liberare%20i%20beni%20dalle%20ipoteche/art-2890-cc.md).
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 1345
 # Art. 1243 - ***Compensazione legale e giudiziale***
 
 La compensazione si verifica solo tra due debiti che hanno per oggetto una somma di danaro o una quantità di cose fungibili dello stesso genere e che sono ugualmente liquidi ed esigibili.
+{: data-comma="1" }
 
 Se il debito opposto in compensazione non è liquido ma è di facile e pronta liquidazione, il giudice può dichiarare la compensazione per la parte del debito che riconosce esistente, e può anche sospendere la condanna per il credito liquido fino all'accertamento del credito opposto in compensazione.
+{: data-comma="2" }

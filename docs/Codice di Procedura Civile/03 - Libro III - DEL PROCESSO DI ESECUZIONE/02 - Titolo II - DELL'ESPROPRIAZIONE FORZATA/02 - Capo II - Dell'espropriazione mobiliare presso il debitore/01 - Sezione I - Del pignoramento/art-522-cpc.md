@@ -21,5 +21,7 @@ ordine: 662
 # Art. 522 - ***Compenso del custode***
 
 Il custode non ha diritto a compenso se non l'ha chiesto e se non gli è stato riconosciuto dall'ufficiale giudiziario all'atto della nomina.
+{: data-comma="1" }
 
 Nessun compenso può attribuirsi alle persone indicate nel primo comma dell'articolo precedente.
+{: data-comma="2" }

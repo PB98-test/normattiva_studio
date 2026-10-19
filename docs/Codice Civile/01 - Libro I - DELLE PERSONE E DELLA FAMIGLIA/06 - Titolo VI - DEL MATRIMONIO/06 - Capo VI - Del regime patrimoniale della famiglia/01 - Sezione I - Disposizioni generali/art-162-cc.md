@@ -21,9 +21,13 @@ ordine: 203
 # Art. 162 - ***Forma delle convenzioni matrimoniali***
 
 Le convenzioni matrimoniali debbono essere stipulate per atto pubblico sotto pena di nullità.
+{: data-comma="1" }
 
 La scelta del regime di separazione può anche essere dichiarata nell'atto di celebrazione del matrimonio.
+{: data-comma="2" }
 
 Le convenzioni possono essere stipulate in ogni tempo, ferme restando le disposizioni dell'[articolo 194](../03%20-%20Sezione%20III%20-%20Della%20comunione%20legale/art-194-cc.md).
+{: data-comma="3" }
 
 Le convenzioni matrimoniali non possono essere opposte ai terzi quando a margine dell'atto di matrimonio non risultano annotati la data del contratto, il notaio rogante e le generalità dei contraenti, ovvero la scelta di cui al secondo comma.
+{: data-comma="4" }

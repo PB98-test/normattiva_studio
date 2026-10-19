@@ -21,5 +21,7 @@ ordine: 3034
 # Art. 2729 - ***Presunzioni semplici***
 
 Le presunzioni non stabilite dalla legge sono lasciate alla prudenza del giudice, il quale non deve ammettere che presunzioni gravi, precise e concordanti.
+{: data-comma="1" }
 
 Le presunzioni non si possono ammettere nei casi in cui la legge esclude la prova per testimoni.
+{: data-comma="2" }

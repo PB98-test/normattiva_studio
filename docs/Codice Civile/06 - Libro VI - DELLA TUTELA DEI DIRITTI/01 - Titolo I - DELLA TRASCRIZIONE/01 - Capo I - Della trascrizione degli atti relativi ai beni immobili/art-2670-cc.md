@@ -21,5 +21,7 @@ ordine: 2974
 # Art. 2670 - ***Spese della trascrizione***
 
 Le spese della trascrizione devono essere anticipate da chi la domanda, salvo il diritto al rimborso verso l'interessato.
+{: data-comma="1" }
 
 Se più sono gli interessati, ciascuno di essi deve rimborsare la persona che ha eseguito la trascrizione della parte di spesa corrispondente alla quota per cui è interessato.
+{: data-comma="2" }

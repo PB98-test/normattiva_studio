@@ -21,5 +21,7 @@ ordine: 1897
 # Art. 1780 - ***Perdita non imputabile della detenzione della cosa***
 
 Se la detenzione della cosa è tolta al depositario in conseguenza di un fatto a lui non imputabile, egli è liberato dall'obbligazione di restituire la cosa, ma deve, sotto pena di risarcimento del danno, denunziare immediatamente al depositante il fatto per cui ha perduto la detenzione.
+{: data-comma="1" }
 
 Il depositante ha diritto di ricevere ciò che, in conseguenza del fatto stesso, il depositario abbia conseguito, e subentra nei diritti spettanti a quest'ultimo.
+{: data-comma="2" }

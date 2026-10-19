@@ -21,5 +21,7 @@ ordine: 405
 # Art. 330 - ***Decadenza dalla responsabilità genitoriale sui figli***
 
 Il giudice può pronunziare la decadenza dalla responsabilità genitoriale quando il genitore viola o trascura i doveri ad essa inerenti o abusa dei relativi poteri con grave pregiudizio del figlio.
+{: data-comma="1" }
 
 In tale caso, per gravi motivi, il giudice può ordinare l'allontanamento del figlio dalla residenza familiare ovvero l'allontanamento del genitore o convivente che maltratta o abusa del minore.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 245
 # Art. 223 - ***Ricovero dei minori in un riformatorio giudiziario***
 
 Il ricovero in un riformatorio giudiziario è misura di sicurezza speciale per i minori, e non può avere durata inferiore a un anno.
+{: data-comma="1" }
 
 Qualora tale misura di sicurezza debba essere, in tutto o in parte, applicata o eseguita dopo che il minore abbia compiuto gli anni ventuno, ad essa è sostituita la libertà vigilata, salvo che il giudice ritenga di ordinare l'assegnazione a una colonia agricola, o ad una casa di lavoro.
+{: data-comma="2" }

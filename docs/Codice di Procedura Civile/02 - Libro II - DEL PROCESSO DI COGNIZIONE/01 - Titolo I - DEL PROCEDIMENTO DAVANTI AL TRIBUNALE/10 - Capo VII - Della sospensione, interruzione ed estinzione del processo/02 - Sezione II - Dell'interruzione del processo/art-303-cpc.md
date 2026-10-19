@@ -21,9 +21,13 @@ ordine: 341
 # Art. 303 - ***Riassunzione del processo***
 
 Se non avviene la prosecuzione del processo a norma dell'articolo precedente, l'altra parte può chiedere la fissazione dell'udienza, notificando quindi il ricorso e il decreto a coloro che debbono costituirsi per proseguirlo.
+{: data-comma="1" }
 
 In caso di morte della parte il ricorso deve contenere gli estremi della domanda, e la notificazione entro un anno dalla morte può essere fatta collettivamente e impersonalmente agli eredi, nell'ultimo domicilio del defunto.
+{: data-comma="2" }
 
 Se vi sono altre parti in causa, il decreto è notificato anche ad esse.
+{: data-comma="3" }
 
 Se la parte che ha ricevuto la notificazione non comparisce all'udienza fissata, si procede in sua contumacia.
+{: data-comma="4" }

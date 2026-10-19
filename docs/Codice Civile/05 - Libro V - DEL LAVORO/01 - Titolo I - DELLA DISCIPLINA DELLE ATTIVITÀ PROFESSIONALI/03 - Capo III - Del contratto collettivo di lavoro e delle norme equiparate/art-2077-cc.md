@@ -21,5 +21,7 @@ ordine: 2198
 # Art. 2077 - ***Efficacia del contratto collettivo sul contratto individuale***
 
 I contratti individuali di lavoro tra gli appartenenti alle categorie alle quali si riferisce il contratto collettivo devono uniformarsi alle disposizioni di questo.
+{: data-comma="1" }
 
 Le clausole difformi dei contratti individuali, preesistenti o successivi al contratto collettivo, sono sostituite di diritto da quelle del contratto collettivo, salvo che contengano speciali condizioni più favorevoli ai prestatori di lavoro.
+{: data-comma="2" }

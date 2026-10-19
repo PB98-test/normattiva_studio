@@ -21,5 +21,7 @@ ordine: 89
 # Art. 77 - ***Determinazione delle pene accessorie***
 
 Per determinare le pene accessorie e ogni altro effetto penale della condanna, si ha riguardo ai singoli reati per i quali è pronunciata la condanna, e alle pene principali che, se non vi fosse concorso di reati, si dovrebbero infliggere per ciascuno di essi.
+{: data-comma="1" }
 
 Se concorrono pene accessorie della stessa specie, queste si applicano tutte per intero.
+{: data-comma="2" }

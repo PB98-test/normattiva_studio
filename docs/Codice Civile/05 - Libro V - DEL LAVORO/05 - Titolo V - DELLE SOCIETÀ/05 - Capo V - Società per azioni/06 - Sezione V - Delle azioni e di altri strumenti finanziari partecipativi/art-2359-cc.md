@@ -21,11 +21,14 @@ ordine: 2493
 # Art. 2359 - ***Società controllate e società collegate***
 
 Sono considerate società controllate:
+{: data-comma="1" }
 
 - 1) le società in cui un'altra società dispone della maggioranza dei voti esercitabili nell'assemblea ordinaria;
 - 2) le società in cui un'altra società dispone di voti sufficienti per esercitare un'influenza dominante nell'assemblea ordinaria;
 - 3) le società che sono sotto influenza dominante di un'altra società in virtù di particolari vincoli contrattuali con essa.
 
 Ai fini dell'applicazione dei numeri 1) e 2) del primo comma si computano anche i voti spettanti a società controllate, a società fiduciarie e a persona interposta: non si computano i voti spettanti per conto di terzi.
+{: data-comma="2" }
 
 Sono considerate collegate le società sulle quali un'altra società esercita un'influenza notevole. L'influenza si presume quando nell'assemblea ordinaria può essere esercitato almeno un quinto dei voti ovvero un decimo se la società ha azioni quotate in mercati regolamentati.
+{: data-comma="3" }

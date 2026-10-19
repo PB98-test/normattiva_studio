@@ -14,8 +14,8 @@ capo_label: "La gestione dei beni sequestrati e confiscati"
 sezione: null
 sezione_label: null
 rubrica: "Supporto delle aziende sequestrate o confiscate"
-dataVigenza: "20260930"
-ordine: 47
+dataVigenza: "20261016"
+ordine: 49
 ---
 
 # Art. 41-quater - ***Supporto delle aziende sequestrate o confiscate***

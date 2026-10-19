@@ -21,5 +21,7 @@ ordine: 1604
 # Art. 1497 - ***Mancanza di qualità***
 
 Quando la cosa venduta non ha le qualità promesse ovvero quelle essenziali per l'uso a cui è destinata, il compratore ha diritto di ottenere la risoluzione del contratto secondo le disposizioni generali sulla risoluzione per inadempimento, purchè il difetto di qualità ecceda i limiti di tolleranza stabiliti dagli usi.
+{: data-comma="1" }
 
 Tuttavia il diritto di ottenere la risoluzione è soggetto alla decadenza e alla prescrizione stabilite dall'[art. 1495](art-1495-cc.md).
+{: data-comma="2" }

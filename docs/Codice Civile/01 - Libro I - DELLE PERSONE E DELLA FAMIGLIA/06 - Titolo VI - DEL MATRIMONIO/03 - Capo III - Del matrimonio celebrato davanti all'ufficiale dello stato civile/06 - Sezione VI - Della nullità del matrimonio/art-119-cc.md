@@ -21,5 +21,7 @@ ordine: 151
 # Art. 119 - ***Interdizione.***
 
 Il matrimonio di chi è stato interdetto per infermità di mente può essere impugnato dal tutore, dal pubblico ministero e da tutti coloro che abbiano un interesse legittimo se, al tempo del matrimonio, vi era già sentenza di interdizione passata in giudicato, ovvero se la interdizione è stata pronunziata posteriormente ma l'infermità esisteva al tempo del matrimonio. Può essere impugnato, dopo revocata l'interdizione, anche dalla persona che era interdetta.
+{: data-comma="1" }
 
 L'azione non può essere proposta se, dopo revocata l'interdizione, vi è stata coabitazione per un anno.
+{: data-comma="2" }

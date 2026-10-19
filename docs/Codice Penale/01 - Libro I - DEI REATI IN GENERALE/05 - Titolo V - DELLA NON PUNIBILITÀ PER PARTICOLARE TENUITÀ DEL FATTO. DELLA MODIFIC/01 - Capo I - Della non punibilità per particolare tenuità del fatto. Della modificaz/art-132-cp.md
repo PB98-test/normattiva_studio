@@ -21,5 +21,7 @@ ordine: 145
 # Art. 132 - ***Potere discrezionale del giudice nell'applicazione della pena:  limiti***
 
 Nei limiti fissati dalla legge, il giudice applica la pena discrezionalmente; esso deve indicare i motivi che giustificano l'uso di tal potere discrezionale.
+{: data-comma="1" }
 
 Nell'aumento o nella diminuzione della pena non si possono oltrepassare i limiti stabiliti per ciascuna specie di pena, salvi i casi espressamente determinati dalla legge.
+{: data-comma="2" }

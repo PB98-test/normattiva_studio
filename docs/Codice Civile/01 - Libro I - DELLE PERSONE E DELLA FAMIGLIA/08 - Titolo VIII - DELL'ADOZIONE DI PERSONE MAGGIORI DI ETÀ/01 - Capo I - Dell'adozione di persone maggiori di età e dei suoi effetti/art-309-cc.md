@@ -21,5 +21,7 @@ ordine: 354
 # Art. 309 - ***Decorrenza degli effetti della revoca***
 
 Gli effetti dell'adozione cessano quando passa in giudicato la sentenza di revoca.
+{: data-comma="1" }
 
 Se tuttavia la revoca è pronunziata dopo la morte dell'adottante per fatto imputabile all'adottato, l'adottato e i suoi discendenti sono esclusi dalla successione dell'adottante.
+{: data-comma="2" }

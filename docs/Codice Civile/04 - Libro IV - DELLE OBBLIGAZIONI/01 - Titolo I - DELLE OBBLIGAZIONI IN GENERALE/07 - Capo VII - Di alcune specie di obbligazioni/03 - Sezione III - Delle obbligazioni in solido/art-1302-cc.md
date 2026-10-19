@@ -21,5 +21,7 @@ ordine: 1404
 # Art. 1302 - ***Compensazione***
 
 Ciascuno dei debitori in solido può opporre in compensazione il credito di un condebitore solo fino alla concorrenza della parte di quest'ultimo.
+{: data-comma="1" }
 
 A uno dei creditori in solido il debitore può opporre in compensazione ciò che gli è dovuto da un altro dei creditori, ma solo per la parte di questo.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 655
 # Art. 518-ter - ***Appropriazione indebita di beni culturali***
 
 Chiunque, per procurare a sè o ad altri un ingiusto profitto, si appropria di un bene culturale altrui di cui abbia, a qualsiasi titolo, il possesso è punito con la reclusione da uno a quattro anni e con la multa da euro 516 a euro 1.500.
+{: data-comma="1" }
 
 Se il fatto è commesso su cose possedute a titolo di deposito necessario, la pena è aumentata.
+{: data-comma="2" }

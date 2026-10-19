@@ -21,5 +21,7 @@ ordine: 1541
 # Art. 1439 - ***Dolo***
 
 Il dolo è causa di annullamento del contratto quando i raggiri usati da uno dei contraenti sono stati tali che, senza di essi, l'altra parte non avrebbe contrattato.
+{: data-comma="1" }
 
 Quando i raggiri sono stati usati da un terzo, il contratto è annullabile se essi erano noti al contraente che ne ha tratto vantaggio.
+{: data-comma="2" }

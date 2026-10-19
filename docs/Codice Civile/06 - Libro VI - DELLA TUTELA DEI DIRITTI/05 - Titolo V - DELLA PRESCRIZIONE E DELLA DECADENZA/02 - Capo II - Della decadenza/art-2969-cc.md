@@ -21,9 +21,13 @@ ordine: 3280
 # Art. 2969 - ***Rilievo d'ufficio***
 
 La decadenza non può essere rilevata d'ufficio dal giudice, salvo che, trattandosi di materia sottratta alla disponibilità delle parti, il giudice debba rilevare le cause d'improponibilità dell'azione.
+{: data-comma="1" }
 
 Roma, addì 16 marzo 1942-XX
+{: data-comma="2" }
 
 VITTORIO EMANUELE
+{: data-comma="3" }
 
 GRANDI
+{: data-comma="4" }

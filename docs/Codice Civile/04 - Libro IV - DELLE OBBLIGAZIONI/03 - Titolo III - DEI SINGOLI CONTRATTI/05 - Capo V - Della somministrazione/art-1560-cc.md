@@ -21,7 +21,10 @@ ordine: 1675
 # Art. 1560 - ***Entità della somministrazione***
 
 Qualora non sia determinata l'entità della somministrazione, s'intende pattuita quella corrispondente al normale fabbisogno della parte che vi ha diritto, avuto riguardo al tempo della conclusione del contratto.
+{: data-comma="1" }
 
 Se le parti hanno stabilito soltanto il limite massimo e quello minimo per l'intera somministrazione o per le singole prestazioni, spetta all'avente diritto alla somministrazione di stabilire, entro i limiti suddetti, il quantitativo dovuto.
+{: data-comma="2" }
 
 Se l'entità della somministrazione deve determinarsi in relazione al fabbisogno, ed è stabilito un quantitativo minimo, l'avente diritto alla somministrazione è tenuto per la quantità corrispondente al fabbisogno se questo supera il minimo stesso.
+{: data-comma="3" }

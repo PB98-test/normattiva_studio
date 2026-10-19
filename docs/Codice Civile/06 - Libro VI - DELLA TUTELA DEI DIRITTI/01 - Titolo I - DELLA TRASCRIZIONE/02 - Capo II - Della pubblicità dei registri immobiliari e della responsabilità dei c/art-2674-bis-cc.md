@@ -21,5 +21,7 @@ ordine: 2979
 # Art. 2674-bis - ***Trascrizione e iscrizione con riserva e impugnazione***
 
 Al di fuori dei casi di cui al precedente articolo, qualora emergano gravi e fondati dubbi sulla trascrivibilità di un atto o sulla iscrivibilità di una ipoteca, il conservatore, su istanza della parte richiedente, esegue la formalità con riserva.
+{: data-comma="1" }
 
 La parte a favore della quale è stata eseguita la formalità con riserva deve proporre reclamo all'autorità giudiziaria.
+{: data-comma="2" }

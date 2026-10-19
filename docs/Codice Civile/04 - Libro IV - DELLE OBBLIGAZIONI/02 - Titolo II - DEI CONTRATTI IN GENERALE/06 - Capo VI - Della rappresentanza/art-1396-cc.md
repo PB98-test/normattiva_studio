@@ -21,5 +21,7 @@ ordine: 1498
 # Art. 1396 - ***Modificazione ed estinzione della procura***
 
 Le modificazioni e la revoca della procura devono essere portate a conoscenza dei terzi con mezzi idonei. In mancanza, esse non sono opponibili ai terzi, se non si prova che questi le conoscevano al momento della conclusione del contratto.
+{: data-comma="1" }
 
 Le altre cause di estinzione del potere di rappresentanza conferito dall'interessato non sono opponibili ai terzi che le hanno senza colpa ignorate.
+{: data-comma="2" }

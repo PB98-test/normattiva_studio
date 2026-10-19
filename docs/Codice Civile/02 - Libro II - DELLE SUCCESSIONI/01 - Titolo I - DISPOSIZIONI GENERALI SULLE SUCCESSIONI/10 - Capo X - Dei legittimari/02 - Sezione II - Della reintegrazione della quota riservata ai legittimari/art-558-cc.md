@@ -21,5 +21,7 @@ ordine: 645
 # Art. 558 - ***Modo di ridurre le disposizioni testamentarie***
 
 La riduzione delle disposizioni testamentarie avviene proporzionalmente, senza distinguere tra eredi e legatari.
+{: data-comma="1" }
 
 Se il testatore ha dichiarato che una sua disposizione deve avere effetto a preferenza delle altre, questa disposizione non si riduce, se non in quanto il valore delle altre non sia sufficiente a integrare la quota riservata ai legittimari.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 993
 # Art. 898 - ***Comunione di siepi***
 
 Ogni siepe tra due fondi si presume comune ed è mantenuta a spese comuni, salvo che vi sia termine di confine o altra prova in contrario.
+{: data-comma="1" }
 
 Se uno solo dei fondi è recinto, si presume che la siepe appartenga al proprietario del fondo recinto, ovvero di quello dalla cui parte si trova la siepe stessa in relazione ai termini di confine esistenti.
+{: data-comma="2" }

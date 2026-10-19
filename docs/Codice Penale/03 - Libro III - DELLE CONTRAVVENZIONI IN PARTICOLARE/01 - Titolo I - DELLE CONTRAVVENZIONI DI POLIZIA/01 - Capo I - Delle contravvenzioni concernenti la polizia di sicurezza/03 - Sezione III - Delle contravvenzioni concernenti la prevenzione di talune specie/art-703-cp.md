@@ -21,5 +21,7 @@ ordine: 962
 # Art. 703 - ***Accensioni ed esplosioni pericolose***
 
 Chiunque, senza la licenza dell'Autorità, in un luogo abitato o nelle sue adiacenze, o lungo una pubblica via o in direzione di essa spara armi da fuoco, accende fuochi d'artificio, o lancia razzi, o innalza areostati con fiamme, o, in genere, fa accensioni o esplosioni pericolose, è punito con l'ammenda fino a lire mille.
+{: data-comma="1" }
 
 Se il fatto è commesso in un luogo ove sia adunanza o concorso di persone, la pena è dell'arresto fino a un mese.
+{: data-comma="2" }

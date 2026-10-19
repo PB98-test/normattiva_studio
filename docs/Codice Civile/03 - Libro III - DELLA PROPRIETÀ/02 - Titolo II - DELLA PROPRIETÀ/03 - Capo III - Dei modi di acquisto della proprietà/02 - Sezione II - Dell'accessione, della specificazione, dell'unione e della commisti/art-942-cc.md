@@ -21,7 +21,10 @@ ordine: 1037
 # Art. 942 - ***Terreni abbandonati dalle acque correnti***
 
 I terreni abbandonati dalle acque correnti, che insensibilmente si ritirano da una delle rive portandosi sull'altra, appartengono al demanio pubblico, senza che il confinante della riva opposta possa reclamare il terreno perduto.
+{: data-comma="1" }
 
 Ai sensi del primo comma, si intendono per acque correnti i fiumi, i torrenti e le altre acque definite pubbliche dalle leggi in materia.
+{: data-comma="2" }
 
 Quanto stabilito al primo comma vale anche per i terreni abbandonati dal mare, dai laghi, dalle lagune e dagli stagni appartenenti al demanio pubblico.
+{: data-comma="3" }

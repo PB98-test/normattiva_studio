@@ -21,5 +21,7 @@ ordine: 911
 # Art. 817 - ***Pertinenze***
 
 Sono pertinenze le cose destinate in modo durevole a servizio o ad ornamento di un'altra cosa.
+{: data-comma="1" }
 
 La destinazione può essere effettuata dal proprietario della cosa principale o da chi ha un diritto reale sulla medesima.
+{: data-comma="2" }

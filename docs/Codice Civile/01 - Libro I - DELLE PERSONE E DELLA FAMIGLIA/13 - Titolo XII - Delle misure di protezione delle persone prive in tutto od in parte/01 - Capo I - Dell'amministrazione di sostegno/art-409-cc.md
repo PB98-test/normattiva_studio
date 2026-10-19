@@ -21,5 +21,7 @@ ordine: 494
 # Art. 409 - ***Effetti dell'amministrazione di sostegno***
 
 Il beneficiario conserva la capacità di agire per tutti gli atti che non richiedono la rappresentanza esclusiva o l'assistenza necessaria dell'amministratore di sostegno.
+{: data-comma="1" }
 
 Il beneficiario dell'amministrazione di sostegno può in ogni caso compiere gli atti necessari a soddisfare le esigenze della propria vita quotidiana.
+{: data-comma="2" }

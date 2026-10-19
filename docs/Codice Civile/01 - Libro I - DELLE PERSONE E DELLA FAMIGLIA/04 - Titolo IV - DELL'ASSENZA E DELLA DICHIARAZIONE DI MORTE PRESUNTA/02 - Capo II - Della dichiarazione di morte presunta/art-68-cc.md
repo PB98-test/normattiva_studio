@@ -21,7 +21,10 @@ ordine: 100
 # Art. 68 - ***Nullità del nuovo matrimonio***
 
 Il matrimonio contratto a norma dell'[art. 65](art-65-cc.md) è nullo, qualora la persona della quale fu dichiarata la morte presunta ritorni o ne sia accertata l'esistenza.
+{: data-comma="1" }
 
 Sono salvi gli effetti civili del matrimonio dichiarato nullo.
+{: data-comma="2" }
 
 La nullità non può essere pronunziata nel caso in cui è accertata la morte, anche se avvenuta in una data posteriore a quella del matrimonio.
+{: data-comma="3" }

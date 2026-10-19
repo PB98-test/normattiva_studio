@@ -21,5 +21,7 @@ ordine: 2376
 # Art. 2254 - ***Garanzia e rischi dei conferimenti***
 
 Per le cose conferite in proprietà la garanzia dovuta dal socio e il passaggio dei rischi sono regolati dalle norme sulla vendita.
+{: data-comma="1" }
 
 Il rischio delle cose conferite in godimento resta a carico del socio che le ha conferite. La garanzia per il godimento è regolata dalle norme sulla locazione.
+{: data-comma="2" }

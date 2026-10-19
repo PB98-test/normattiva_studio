@@ -21,5 +21,7 @@ ordine: 2748
 # Art. 2501 - ***Forme di fusione***
 
 La fusione di più società può eseguirsi mediante la costituzione di una nuova società, o mediante l'incorporazione in una società di una o più altre.
+{: data-comma="1" }
 
 La partecipazione alla fusione non è consentita alle società in liquidazione che abbiano iniziato la distribuzione dell'attivo.
+{: data-comma="2" }

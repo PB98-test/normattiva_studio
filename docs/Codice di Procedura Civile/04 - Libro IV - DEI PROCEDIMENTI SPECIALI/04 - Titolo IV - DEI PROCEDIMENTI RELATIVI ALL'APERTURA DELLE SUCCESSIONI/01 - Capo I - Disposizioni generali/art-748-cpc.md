@@ -21,5 +21,7 @@ ordine: 924
 # Art. 748 - ***Forma della vendita***
 
 La vendita dei beni ereditari deve compiersi nelle forme previste per la vendita dei beni dei minori.
+{: data-comma="1" }
 
 Il giudice, quando occorre, fissa le modalità per la conservazione e il reimpiego del prezzo ricavato.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 1470
 # Art. 1368 - ***Pratiche generali interpretative***
 
 Le clausole ambigue s'interpretano secondo ciò che si pratica generalmente nel luogo in cui il contratto è stato concluso.
+{: data-comma="1" }
 
 Nei contratti in cui una delle parti è un imprenditore, le clausole ambigue s'interpretano secondo ciò che si pratica generalmente nel luogo in cui è la sede dell'impresa.
+{: data-comma="2" }

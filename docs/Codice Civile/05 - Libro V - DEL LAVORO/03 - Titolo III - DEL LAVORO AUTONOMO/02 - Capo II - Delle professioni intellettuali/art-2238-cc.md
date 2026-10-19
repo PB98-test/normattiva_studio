@@ -21,5 +21,7 @@ ordine: 2360
 # Art. 2238 - ***Rinvio***
 
 Se l'esercizio della professione costituisce elemento di un'attività organizzata in forma d'impresa, si applicano anche le disposizioni del titolo II.
+{: data-comma="1" }
 
 In ogni caso, se l'esercente una professione intellettuale impiega sostituti o ausiliari, si applicano le disposizioni delle sezioni II, III e IV del capo I del titolo II.
+{: data-comma="2" }

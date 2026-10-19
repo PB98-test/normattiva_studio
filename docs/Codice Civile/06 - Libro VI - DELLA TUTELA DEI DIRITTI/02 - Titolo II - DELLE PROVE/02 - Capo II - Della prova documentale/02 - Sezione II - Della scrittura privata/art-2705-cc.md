@@ -21,9 +21,13 @@ ordine: 3010
 # Art. 2705 - ***Telegramma***
 
 Il telegramma ha l'efficacia probatoria della scrittura privata, se l'originale consegnato all'ufficio di partenza è sottoscritto dal mittente, ovvero se è state consegnato o fatto consegnare dal mittente medesimo, anche senza sottoscriverlo.
+{: data-comma="1" }
 
 La sottoscrizione può essere autenticata da notaio.
+{: data-comma="2" }
 
 Se l'identità della persona che ha sottoscritto l'originale del telegramma è stata accertata nei modi stabiliti dai regolamenti, è ammessa la prova contraria.
+{: data-comma="3" }
 
 Il mittente può fare indicare nel telegramma se l'originale è stato firmato con o senza autenticazione.
+{: data-comma="4" }

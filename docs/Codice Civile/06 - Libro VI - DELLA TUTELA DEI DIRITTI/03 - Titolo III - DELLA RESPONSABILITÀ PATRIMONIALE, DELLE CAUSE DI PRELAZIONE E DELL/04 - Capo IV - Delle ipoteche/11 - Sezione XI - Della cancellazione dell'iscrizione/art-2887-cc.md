@@ -21,5 +21,7 @@ ordine: 3197
 # Art. 2887 - ***Cancellazione delle ipoteche a garanzia dei titoli all'ordine***
 
 La cancellazione della ipoteca costituita a garanzia dell'obbligazione risultante da un titolo all'ordine è consentita dal creditore risultante nei registri immobiliari e l'atto di consenso deve essere presentato al conservatore insieme con il titolo, il quale è restituito dopo che il conservatore vi ha eseguito l'annotazione della cancellazione.
+{: data-comma="1" }
 
 La cancellazione dell'ipoteca importa la perdita del diritto di regresso contro i giranti anteriori alla cancellazione medesima.
+{: data-comma="2" }

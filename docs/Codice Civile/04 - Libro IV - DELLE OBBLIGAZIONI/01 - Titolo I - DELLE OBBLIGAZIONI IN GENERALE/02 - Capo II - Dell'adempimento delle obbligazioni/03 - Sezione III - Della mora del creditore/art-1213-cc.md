@@ -21,5 +21,7 @@ ordine: 1315
 # Art. 1213 - ***Ritiro del deposito***
 
 Il deposito non produce effetto se il debitore lo ritira prima che sia stato accettato dal creditore o prima che sia stato riconosciuto valido con sentenza passata in giudicato.
+{: data-comma="1" }
 
 Se, dopo l'accettazione del deposito o il passaggio in giudicato della sentenza che lo dichiara valido, il creditore consente che il debitore ritiri il deposito, egli non può più rivolgersi contro i condebitori e i fideiussori, nè valersi dei privilegi, del pegno e delle ipoteche che garantivano il credito.
+{: data-comma="2" }

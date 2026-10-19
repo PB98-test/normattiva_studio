@@ -21,5 +21,7 @@ ordine: 2162
 # Art. 2041 - ***Azione generale di arricchimento***
 
 Chi, senza una giusta causa, si è arricchito a danno di un'altra persona è tenuto, nei limiti dell'arricchimento, a indennizzare quest'ultima della correlativa diminuzione patrimoniale.
+{: data-comma="1" }
 
 Qualora l'arrichimento abbia per oggetto una cosa determinata, colui che l'ha ricevuta è tenuto a restituirla in natura, se sussiste al tempo della domanda.
+{: data-comma="2" }

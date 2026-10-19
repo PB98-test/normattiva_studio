@@ -21,7 +21,10 @@ ordine: 2083
 # Art. 1962 - ***Durata dell'anticresi***
 
 L'anticresi dura finchè il creditore sia stato interamente soddisfatto del suo credito, anche se il credito o l'immobile dato in anticresi sia divisibile, salvo che sia stata stabilita la durata.
+{: data-comma="1" }
 
 In ogni caso l'anticresi non può avere una durata superiore a dieci anni.
+{: data-comma="2" }
 
 Se è stato stipulato un termine maggiore, questo si riduce al termine suddetto.
+{: data-comma="3" }

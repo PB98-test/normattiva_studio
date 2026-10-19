@@ -21,7 +21,10 @@ ordine: 473
 # Art. 391-ter - ***Accesso indebito a dispositivi idonei alla comunicazione da parte di soggetti detenuti***
 
 Fuori dei casi previsti dall'[articolo 391-bis](art-391-bis-cp.md), chiunque indebitamente procura a un detenuto un apparecchio telefonico o altro dispositivo idoneo ad effettuare comunicazioni o comunque consente a costui l'uso indebito dei predetti strumenti o introduce in un istituto penitenziario uno dei predetti strumenti al fine di renderlo disponibile a una persona detenuta è punito con la pena della reclusione da uno a quattro anni.
+{: data-comma="1" }
 
 Si applica la pena della reclusione da due a cinque anni se il fatto è commesso da un pubblico ufficiale, da un incaricato di pubblico servizio ovvero da un soggetto che esercita la professione forense.
+{: data-comma="2" }
 
 Salvo che il fatto costituisca più grave reato, la pena prevista dal primo comma si applica anche al detenuto che indebitamente riceve o utilizza un apparecchio telefonico o altro dispositivo idoneo ad effettuare comunicazioni.
+{: data-comma="3" }

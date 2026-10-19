@@ -21,5 +21,7 @@ ordine: 2875
 # Art. 2584 - ***Diritto di esclusività***
 
 Chi ha ottenuto un brevetto per un'invenzione industriale ha il diritto esclusivo di attuare l'invenzione e di disporne entro i limiti e alle condizioni stabilite dalla legge.
+{: data-comma="1" }
 
 Il diritto si estende anche al commercio del prodotto a cui l'invenzione si riferisce.
+{: data-comma="2" }

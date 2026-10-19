@@ -21,5 +21,7 @@ ordine: 616
 # Art. 495-ter - ***Fraudolente alterazioni per impedire l'identificazione o l'accertamento di qualità personali***
 
 Chiunque, al fine di impedire la propria o altrui identificazione, altera parti del proprio o dell'altrui corpo utili per consentire l'accertamento di identità o di altre qualità personali, è punito con la reclusione da uno a sei anni.
+{: data-comma="1" }
 
 Il fatto è aggravato se commesso nell'esercizio di una professione sanitaria.
+{: data-comma="2" }

@@ -21,11 +21,16 @@ ordine: 761
 # Art. 589 - ***Omicidio colposo***
 
 Chiunque cagiona per colpa la morte di una persona è punito con la reclusione da sei mesi a cinque anni.
+{: data-comma="1" }
 
 Se il fatto è commesso con violazione delle norme per la prevenzione degli infortuni sul lavoro la pena è della reclusione da due a sette anni.
+{: data-comma="2" }
 
 Se il fatto è commesso nell'esercizio abusivo di una professione per la quale è richiesta una speciale abilitazione dello Stato o di un'arte sanitaria, la pena è della reclusione da tre a dieci anni.
+{: data-comma="3" }
 
 COMMA ABROGATO DALLA L. 23 MARZO 2016, N. 41.
+{: data-comma="4" }
 
 Nel caso di morte di più persone, ovvero di morte di una o più persone e di lesioni di una o più persone, si applica la pena che dovrebbe infliggersi per la più grave delle violazioni commesse aumentata fino al triplo, ma la pena non può superare gli anni quindici.
+{: data-comma="5" }

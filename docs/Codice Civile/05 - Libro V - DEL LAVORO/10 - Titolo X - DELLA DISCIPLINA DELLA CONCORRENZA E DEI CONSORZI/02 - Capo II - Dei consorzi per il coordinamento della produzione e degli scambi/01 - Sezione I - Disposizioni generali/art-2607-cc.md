@@ -21,5 +21,7 @@ ordine: 2898
 # Art. 2607 - ***Modificazioni del contratto***
 
 Il contratto, se non è diversamente convenuto, non può essere modificato senza il consenso di tutti i consorziati.
+{: data-comma="1" }
 
 Le modificazioni devono essere fatte per iscritto sotto pena di nullità.
+{: data-comma="2" }

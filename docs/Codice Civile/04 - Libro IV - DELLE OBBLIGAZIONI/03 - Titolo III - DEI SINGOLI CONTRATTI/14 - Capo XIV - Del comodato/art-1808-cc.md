@@ -21,5 +21,7 @@ ordine: 1929
 # Art. 1808 - ***Spese per l'uso della cosa e spese straordinarie***
 
 Il comodatario non ha diritto al rimborso delle spese sostenute per servirsi della cosa.
+{: data-comma="1" }
 
 Egli però ha diritto di essere rimborsato delle spese straordinarie sostenute per la conservazione della cosa, se queste erano necessarie e urgenti.
+{: data-comma="2" }

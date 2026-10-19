@@ -21,7 +21,10 @@ ordine: 2739
 # Art. 2500 - ***Contenuto, pubblicità ed efficacia dell'atto di trasformazione***
 
 La trasformazione in società per azioni, in accomandita per azioni o a responsabilità limitata deve risultare da atto pubblico, contenente le indicazioni previste dalla legge per l'atto di costituzione del tipo adottato.
+{: data-comma="1" }
 
 L'atto di trasformazione è soggetto alla disciplina prevista per il tipo adottato ed alle forme di pubblicità relative, nonchè alla pubblicità richiesta per la cessazione dell'ente che effettua la trasformazione.
+{: data-comma="2" }
 
 La trasformazione ha effetto dall'ultimo degli adempimenti pubblicitari di cui al comma precedente.
+{: data-comma="3" }

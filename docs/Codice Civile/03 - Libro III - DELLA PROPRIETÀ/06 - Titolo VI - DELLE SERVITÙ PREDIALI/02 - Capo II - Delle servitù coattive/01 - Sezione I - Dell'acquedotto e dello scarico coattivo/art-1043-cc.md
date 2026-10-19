@@ -21,5 +21,7 @@ ordine: 1138
 # Art. 1043 - ***Scarico coattivo***
 
 Le disposizioni contenute negli articoli precedenti per il passaggio delle acque si applicano anche se il passaggio è domandato al fine di scaricare acque sovrabbondanti che il vicino non consente di ricevere nel suo fondo.
+{: data-comma="1" }
 
 Lo scarico può essere anche domandato per acque impure, purchè siano adottate le precauzioni atte a evitare qualsiasi pregiudizio o molestia.
+{: data-comma="2" }

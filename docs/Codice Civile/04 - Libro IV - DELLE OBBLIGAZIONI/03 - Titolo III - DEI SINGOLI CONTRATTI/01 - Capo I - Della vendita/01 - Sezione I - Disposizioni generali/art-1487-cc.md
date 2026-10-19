@@ -21,5 +21,7 @@ ordine: 1594
 # Art. 1487 - ***Modificazione o esclusione convenzionale della garanzia***
 
 I contraenti possono aumentare o diminuire gli effetti della garanzia e possono altresì pattuire che il venditore non sia soggetto a garanzia alcuna.
+{: data-comma="1" }
 
 Quantunque sia pattuita l'esclusione della garanzia, il venditore è sempre tenuto per l'evizione derivante da un fatto suo proprio. È nullo ogni patto contrario.
+{: data-comma="2" }

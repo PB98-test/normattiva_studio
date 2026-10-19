@@ -21,7 +21,10 @@ ordine: 567
 # Art. 480 - ***Prescrizione***
 
 Il diritto di accettare l'eredità si prescrive in dieci anni.
+{: data-comma="1" }
 
 Il termine decorre dal giorno dell'apertura della successione e, in caso d'istituzione condizionale, dal giorno in cui si verifica la condizione.In caso di accertamento giudiziale della filiazione il termine decorre dal passaggio in giudicato della sentenza che accerta la filiazione stessa.
+{: data-comma="2" }
 
 Il termine non corre per i chiamati ulteriori, se vi è stata accettazione da parte di precedenti chiamati e successivamente il loro acquisto ereditario è venuto meno.
+{: data-comma="3" }

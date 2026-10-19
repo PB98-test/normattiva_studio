@@ -21,5 +21,7 @@ ordine: 1497
 # Art. 1395 - ***Contratto con se stesso***
 
 È annullabile il contratto che il rappresentante conclude con se stesso, in proprio o come rappresentante di un'altra parte, a meno che il rappresentato lo abbia autorizzato specificatamente ovvero il contenuto del contratto sia determinato in modo da escludere la possibilità di conflitto d'interessi.
+{: data-comma="1" }
 
 L'impugnazione può essere proposta soltanto dal rappresentato.
+{: data-comma="2" }

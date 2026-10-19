@@ -21,7 +21,10 @@ ordine: 1803
 # Art. 1687 - ***Riconsegna delle merci***
 
 Il vettore deve mettere le cose trasportate a disposizione del destinatario nel luogo, nel termine e con le modalità indicati dal contratto o, in mancanza, dagli usi.
+{: data-comma="1" }
 
 Se la riconsegna non deve eseguirsi presso il destinatario, il vettore deve dargli prontamente avviso dell'arrivo delle cose trasportate.
+{: data-comma="2" }
 
 Se dal mittente è stata rilasciata una lettera di vettura, il vettore deve esibirla al destinatario.
+{: data-comma="3" }

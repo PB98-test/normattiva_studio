@@ -21,9 +21,13 @@ ordine: 1097
 # Art. 1002 - ***Inventario e garanzia***
 
 L'usufruttuario prende le cose nello stato in cui si trovano.
+{: data-comma="1" }
 
 Egli è tenuto a fare a sue spese l'inventario dei beni, previo avviso al proprietario. Quando l'usufruttuario è dispensato dal fare l'inventario, questo può essere richiesto dal proprietario a sue spese.
+{: data-comma="2" }
 
 L'usufruttuario deve inoltre dare idonea garanzia. Dalla prestazione della garanzia sono dispensati i genitori che hanno l'usufrutto legale sui beni dei loro figli minori. Sono anche dispensati il venditore e il donante con riserva d'usufrutto; ma, qualora questi cedano l'usufrutto, il cessionario è tenuto a prestare garanzia.
+{: data-comma="3" }
 
 L'usufruttuario non può conseguire il possesso dei beni prima di avere adempiuto agli obblighi su indicati.
+{: data-comma="4" }

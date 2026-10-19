@@ -21,5 +21,7 @@ ordine: 2835
 # Art. 2545-septiesdecies - ***Scioglimento per atto dell'autorità***
 
 L'autorità di vigilanza, con provvedimento da pubblicarsi nella Gazzetta Ufficiale e da iscriversi nel registro delle imprese, può sciogliere le società cooperative e gli enti mutualistici che non perseguono lo scopo mutualistico o non sono in condizione di raggiungere gli scopi per cui sono stati costituiti o che per due anni consecutivi non hanno depositato il bilancio di esercizio o non hanno compiuto atti di gestione.
+{: data-comma="1" }
 
 Se vi è luogo a liquidazione, con lo stesso provvedimento sono nominati uno o più commissari liquidatori.
+{: data-comma="2" }

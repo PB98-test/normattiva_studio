@@ -21,9 +21,13 @@ ordine: 743
 # Art. 577-bis - ***Femminicidio***
 
 Chiunque cagiona la morte di una donna quando il fatto è commesso come atto di odio o di discriminazione o di prevaricazione o come atto di controllo o possesso o dominio in quanto donna, o in relazione al rifiuto della donna di instaurare o mantenere un rapporto affettivo o come atto di limitazione delle sue libertà individuali è punito con la pena dell'ergastolo. Fuori dei casi di cui al primo periodo si applica l'[articolo 575](art-575-cp.md).
+{: data-comma="1" }
 
 Si applicano le circostanze aggravanti di cui agli [articoli 576](art-576-cp.md) e [577](art-577-cp.md).
+{: data-comma="2" }
 
 Quando ricorre una sola circostanza attenuante ovvero quando una circostanza attenuante concorre con taluna delle circostanze aggravanti di cui al secondo comma, e la prima è ritenuta prevalente, la pena non può essere inferiore ad anni ventiquattro.
+{: data-comma="3" }
 
 Quando ricorrono più circostanze attenuanti, ovvero quando più circostanze attenuanti concorrono con taluna delle circostanze aggravanti di cui al secondo comma, e le prime sono ritenute prevalenti, la pena non può essere inferiore ad anni quindici.
+{: data-comma="4" }

@@ -14,10 +14,10 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Modifiche al codice penale"
-dataVigenza: "20260930"
+dataVigenza: "20261016"
 ordine: 5
 ---
 
 # Art. 5 - ***Modifiche al codice penale***
 
-1\. All'[articolo 387-bis, secondo comma, del codice penale](../Codice%20Penale/02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/03%20-%20Titolo%20III%20-%20DEI%20DELITTI%20CONTRO%20L%27AMMINISTRAZIONE%20DELLA%20GIUSTIZIA/02%20-%20Capo%20II%20-%20Dei%20delitti%20contro%20l%27autorità%20delle%20decisioni%20giudiziarie/art-387-bis-cp.md), le parole «previsto dall'[articolo 342-ter, primo comma, del codice civile](../Codice%20Civile/01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/10%20-%20Titolo%20IX-bis%20-%20ORDINI%20DI%20PROTEZIONE%20CONTRO%20GLI%20ABUSI%20FAMILIARI%20TITOLO%20ABROGATO/art-342-ter-cc.md), ovvero» sono sostituite dalle seguenti: «previsto dall'articolo 473-bis.[70, primo comma, del codice di procedura civile](../Codice%20di%20Procedura%20Civile/01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/02%20-%20Titolo%20II%20-%20DEL%20PUBBLICO%20MINISTERO/art-70-cpc.md), o».
+1\. All'[articolo 387-bis, secondo comma, del codice penale](../Codice%20Penale/02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/03%20-%20Titolo%20III%20-%20DEI%20DELITTI%20CONTRO%20L%27AMMINISTRAZIONE%20DELLA%20GIUSTIZIA/02%20-%20Capo%20II%20-%20Dei%20delitti%20contro%20l%27autorità%20delle%20decisioni%20giudiziarie/art-387-bis-cp.md), le parole «previsto dall'[articolo 342-ter, primo comma, del codice civile](../Codice%20Civile/01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/10%20-%20Titolo%20IX-bis%20-%20ORDINI%20DI%20PROTEZIONE%20CONTRO%20GLI%20ABUSI%20FAMILIARI%20%28ABROGATO%29/art-342-ter-cc.md), ovvero» sono sostituite dalle seguenti: «previsto dall'articolo 473-bis.[70, primo comma, del codice di procedura civile](../Codice%20di%20Procedura%20Civile/01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/02%20-%20Titolo%20II%20-%20DEL%20PUBBLICO%20MINISTERO/art-70-cpc.md), o».

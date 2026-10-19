@@ -21,5 +21,7 @@ ordine: 140
 # Art. 128 - ***Termine per la richiesta di procedimento***
 
 Quando la punibilità di un reato dipende dalla richiesta dell'Autorità, la richiesta non può essere più proposta, decorsi tre mesi dal giorno in cui l'Autorità ha avuto notizia del fatto che costituisce il reato.
+{: data-comma="1" }
 
 Quando la punibilità di un reato commesso all'estero dipende dalla presenza del colpevole nel territorio dello Stato, la richiesta non può essere più proposta, decorsi tre anni dal giorno in cui il colpevole si trova nel territorio dello Stato.
+{: data-comma="2" }

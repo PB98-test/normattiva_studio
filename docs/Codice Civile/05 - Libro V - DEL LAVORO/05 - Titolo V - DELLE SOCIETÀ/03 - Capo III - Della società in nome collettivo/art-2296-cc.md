@@ -21,7 +21,10 @@ ordine: 2418
 # Art. 2296 - ***Pubblicazione***
 
 L'atto costitutivo della società, con sottoscrizione autenticata dei contraenti, o una copia autentica di esso se la stipulazione è avvenuta per atto pubblico, deve entro trenta giorni essere depositato per l'iscrizione, a cura degli amministratori, presso l'ufficio del registro delle imprese nella cui circoscrizione è stabilita la sede sociale.
+{: data-comma="1" }
 
 Se gli amministratori non provvedono al deposito nel termine indicato nel comma precedente, ciascun socio può provvedervi a spese della società, o far condannare gli amministratori ad eseguirlo.
+{: data-comma="2" }
 
 Se la stipulazione è avvenuta per atto pubblico, è obbligato ad eseguire il deposito anche il notaio.
+{: data-comma="3" }

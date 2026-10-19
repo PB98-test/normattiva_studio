@@ -21,5 +21,7 @@ ordine: 224
 # Art. 182 - ***Amministrazione affidata ad uno solo dei coniugi.***
 
 In caso di lontananza o di altro impedimento di uno dei coniugi l'altro, in mancanza di procura del primo risultante da atto pubblico o da scrittura privata autenticata, può compiere, previa autorizzazione del giudice e con le cautele eventualmente da questo stabilite, gli atti necessari per i quali è richiesto, a norma dell'[articolo 180](art-180-cc.md), il consenso di entrambi i coniugi.
+{: data-comma="1" }
 
 Nel caso di gestione comune di azienda, uno dei coniugi può essere delegato dall'altro al compimento di tutti gli atti necessari all'attività dell'impresa.
+{: data-comma="2" }

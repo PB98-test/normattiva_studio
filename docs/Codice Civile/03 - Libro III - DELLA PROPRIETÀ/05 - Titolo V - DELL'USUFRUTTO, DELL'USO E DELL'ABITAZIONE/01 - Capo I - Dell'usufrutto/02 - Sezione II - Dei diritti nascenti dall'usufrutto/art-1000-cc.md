@@ -21,5 +21,7 @@ ordine: 1095
 # Art. 1000 - ***Riscossione di capitali***
 
 Per la riscossione di somme che rappresentano un capitale gravato d'usufrutto, è necessario il concorso del titolare del credito e dell'usufruttuario. Il pagamento fatto a uno solo di essi non è opponibile all'altro, salve in ogni caso le norme relative alla cessione dei crediti.
+{: data-comma="1" }
 
 Il capitale riscosso dev'essere investito in modo fruttifero e su di esso si trasferisce l'usufrutto. Se le parti non sono d'accordo sul modo d'investimento, provvede l'autorità giudiziaria.
+{: data-comma="2" }

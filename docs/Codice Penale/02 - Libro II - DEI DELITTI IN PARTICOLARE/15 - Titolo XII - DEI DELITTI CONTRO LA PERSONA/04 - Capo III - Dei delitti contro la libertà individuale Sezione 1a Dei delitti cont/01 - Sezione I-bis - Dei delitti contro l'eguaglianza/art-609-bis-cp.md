@@ -21,10 +21,13 @@ ordine: 813
 # Art. 609-bis - ***Violenza sessuale***
 
 Chiunque, con violenza o minaccia o mediante abuso di autorità, costringe taluno a compiere o subire atti sessuali è punito con la reclusione da sei a dodici anni.
+{: data-comma="1" }
 
 Alla stessa pena soggiace chi induce taluno a compiere o subire atti sessuali:
+{: data-comma="2" }
 
 - 1) abusando delle condizioni di inferiorità fisica o psichica della persona offesa al momento del fatto;
 - 2) traendo in inganno la persona offesa per essersi il colpevole sostituito ad altra persona.
 
 Nei casi di minore gravità la pena è diminuita in misura non eccedente i due terzi.
+{: data-comma="3" }

@@ -21,5 +21,7 @@ ordine: 788
 # Art. 701 - ***Persone capaci di essere nominate***
 
 Non possono essere nominati esecutori testamentari coloro che non hanno la piena capacità di obbligarsi.
+{: data-comma="1" }
 
 Anche un erede o un legatario può essere nominato esecutore testamentario.
+{: data-comma="2" }

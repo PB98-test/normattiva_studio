@@ -21,5 +21,7 @@ ordine: 3000
 # Art. 2695 - ***Forme e modalità della trascrizione***
 
 Le forme e le modalità delle trascrizioni previste in questo capo sono regolate dal codice della navigazione, per quanto riguarda le navi e gli aeromobili, e dalla legge speciale per quanto riguarda gli autoveicoli.
+{: data-comma="1" }
 
 In mancanza, si osservano le norme concernenti la trascrizione degli atti relativi ai beni immobili, in quanto sono applicabili.
+{: data-comma="2" }

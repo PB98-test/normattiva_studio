@@ -21,5 +21,7 @@ ordine: 755
 # Art. 668 - ***Adempimento del legato***
 
 Se la cosa legata è gravata da una servitù, da un canone o da altro onere inerente al fondo, ovvero da una rendita fondiaria, il peso ne è sopportato dal legatario.
+{: data-comma="1" }
 
 Se la cosa legata è vincolata per una rendita semplice, un censo o altro debito dell'eredità, o anche di un terzo, l'erede è tenuto al pagamento delle annualità o degli interessi e della somma principale, secondo la natura del debito, qualora il testatore non abbia diversamente disposto.
+{: data-comma="2" }

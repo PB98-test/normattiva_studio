@@ -21,5 +21,7 @@ ordine: 620
 # Art. 533 - ***Nozione***
 
 L'erede può chiedere il riconoscimento della sua qualità ereditaria contro chiunque possiede tutti o parte dei beni ereditari a titolo di erede o senza titolo alcuno, allo scopo di ottenere la restituzione dei beni medesimi.
+{: data-comma="1" }
 
 L'azione è imprescrittibile, salvi gli effetti della usucapione rispetto ai singoli beni.
+{: data-comma="2" }

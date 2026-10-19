@@ -21,5 +21,7 @@ ordine: 1113
 # Art. 1018 - ***Perimento dell'edificio***
 
 Se l'usufrutto è stabilito sopra un fondo, del quale fa parte un edificio, e questo viene in qualsiasi modo a perire, l'usufruttuario ha diritto di godere dell'area e dei materiali.
+{: data-comma="1" }
 
 La stessa disposizione si applica se l'usufrutto è stabilito soltanto sopra un edificio. In tal caso, però, il proprietario, se intende costruire un altro edificio, ha il diritto di occupare l'area e di valersi dei materiali, pagando all'usufruttuario, durante l'usufrutto, gli interessi sulla somma corrispondente al valore dell'area e dei materiali.
+{: data-comma="2" }

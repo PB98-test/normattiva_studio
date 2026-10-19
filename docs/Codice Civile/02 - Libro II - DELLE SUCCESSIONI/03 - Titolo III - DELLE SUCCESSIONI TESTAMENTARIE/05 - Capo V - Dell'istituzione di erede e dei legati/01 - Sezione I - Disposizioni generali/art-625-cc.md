@@ -21,5 +21,7 @@ ordine: 712
 # Art. 625 - ***Erronea indicazione dell'erede o del legatario o della cosa che forma oggetto della disposizione***
 
 Se la persona dell'erede o del legatario è stata erroneamente indicata, la disposizione ha effetto, quando dal contesto del testamento o altrimenti risulta in modo non equivoco quale persona il testatore voleva nominare.
+{: data-comma="1" }
 
 La disposizione ha effetto anche quando la cosa che forma oggetto della disposizione è stata erroneamente indicata o descritta, ma è certo a quale cosa il testatore intendeva riferirsi.
+{: data-comma="2" }

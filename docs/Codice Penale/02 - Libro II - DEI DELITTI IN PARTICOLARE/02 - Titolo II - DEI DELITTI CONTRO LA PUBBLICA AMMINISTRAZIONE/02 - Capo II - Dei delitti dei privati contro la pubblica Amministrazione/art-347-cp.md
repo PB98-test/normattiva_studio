@@ -21,7 +21,10 @@ ordine: 415
 # Art. 347 - ***Usurpazione di funzioni pubbliche***
 
 Chiunque usurpa una funzione pubblica o le attribuzioni inerenti a un pubblico impiego è punito con la reclusione fino a due anni.
+{: data-comma="1" }
 
 Alla stessa pena soggiace il pubblico ufficiale o impiegato il quale, avendo ricevuta partecipazione del provvedimento che fa cessare o sospende le sue funzioni o le sue attribuzioni, continua ad esercitarle.
+{: data-comma="2" }
 
 La condanna importa la pubblicazione della sentenza.
+{: data-comma="3" }

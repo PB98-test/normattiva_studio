@@ -21,5 +21,7 @@ ordine: 813
 # Art. 726 - ***Stima e formazione delle parti***
 
 Fatti i prelevamenti, si provvede alla stima di ciò che rimane nella massa, secondo il valore venale dei singoli oggetti.
+{: data-comma="1" }
 
 Eseguita la stima, si procede alla formazione di tante porzioni quanti sono gli eredi o le stirpi condividenti in proporzione delle quote.
+{: data-comma="2" }

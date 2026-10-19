@@ -21,5 +21,7 @@ ordine: 469
 # Art. 389 - ***Inosservanza di pene accessorie***
 
 Chiunque, avendo riportato una condanna da cui consegue una pena accessoria, trasgredisce agli obblighi o ai divieti inerenti a tale pena, è punito con la reclusione da due a sei mesi.
+{: data-comma="1" }
 
 La stessa pena si applica a chi trasgredisce agli obblighi o ai divieti inerenti ad una pena accessoria provvisoriamente applicata.
+{: data-comma="2" }

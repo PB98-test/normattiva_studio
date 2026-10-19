@@ -21,5 +21,7 @@ ordine: 976
 # Art. 716 - ***Omesso avviso all'Autorità dell'evasione o fuga ... di minori***
 
 Il pubblico ufficiale o l'addetto a uno stabilimento destinato alla esecuzione di pene o di misure di sicurezza, ovvero ... ad un riformatorio pubblico, che omette di dare immediato avviso all'Autorità dell'evasione o della fuga di persona ivi detenuta o ricoverata, è punito con l'ammenda da lire cento a duemila.
+{: data-comma="1" }
 
 La stessa disposizione si applica a chi per legge o per provvedimento dell'Autorità è stata affidata una persona a scopo di custodia o di vigilanza.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 2864
 # Art. 2573 - ***Trasferimento del marchio***
 
 Il marchio può essere trasferito o concesso in licenza per la totalità o per una parte dei prodotti o servizi per i quali è stato registrato, purchè in ogni caso dal trasferimento o dalla licenza non derivi inganno in quei caratteri dei prodotti o servizi che sono essenziali nell'apprezzamento del pubblico.
+{: data-comma="1" }
 
 Quando il marchio è costituito da un segno figurativo, da una denominazione di fantasia o da una ditta derivata, si presume che il diritto all'uso esclusivo di esso sia trasferito insieme con l'azienda.
+{: data-comma="2" }

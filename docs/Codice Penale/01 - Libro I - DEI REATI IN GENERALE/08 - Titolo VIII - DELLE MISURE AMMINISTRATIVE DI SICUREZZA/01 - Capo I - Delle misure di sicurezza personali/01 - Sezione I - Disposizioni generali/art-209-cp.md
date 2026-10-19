@@ -21,9 +21,13 @@ ordine: 230
 # Art. 209 - ***Persona giudicata per più fatti***
 
 Quando una persona ha commesso, anche in tempi diversi, più fatti per i quali siano applicabili più misure di sicurezza della medesima specie, è ordinata una sola misura di sicurezza.
+{: data-comma="1" }
 
 Se le misure di sicurezza sono di specie diversa, il giudice valuta complessivamente il pericolo che deriva dalla persona e, in relazione ad esso, applica una o più delle misure di sicurezza stabilite dalla legge.
+{: data-comma="2" }
 
 Sono in ogni caso applicate le misure di sicurezza detentive, alle quali debba essere sottoposta la persona, a cagione del pericolo presunto dalla legge.
+{: data-comma="3" }
 
 Le disposizioni precedenti si applicano anche nel caso di misure di sicurezza in corso di esecuzione, o delle quali non siasi ancora iniziata l'esecuzione.
+{: data-comma="4" }

@@ -21,5 +21,7 @@ ordine: 2706
 # Art. 2481 - ***Aumento di capitale***
 
 L'atto costitutivo può attribuire agli amministratori la facoltà di aumentare il capitale sociale, determinandone i limiti e le modalità di esercizio; la decisione degli amministratori, che deve risultare da verbale redatto senza indugio da notaio, deve essere depositata ed iscritta a norma dell'[articolo 2436](../../05%20-%20Capo%20V%20-%20Società%20per%20azioni/12%20-%20Sezione%20X%20-%20Delle%20modificazioni%20dello%20statuto/art-2436-cc.md).
+{: data-comma="1" }
 
 La decisione di aumentare il capitale sociale non può essere attuata fin quando i conferimenti precedentemente dovuti non sono stati integralmente eseguiti.
+{: data-comma="2" }

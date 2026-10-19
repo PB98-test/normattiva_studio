@@ -21,5 +21,7 @@ ordine: 2413
 # Art. 2291 - ***Nozione***
 
 Nella società in nome collettivo tutti i soci rispondono solidalmente e illimitatamente per le obbligazioni sociali.
+{: data-comma="1" }
 
 Il patto contrario non ha effetto nei confronti dei terzi.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 539
 # Art. 444 - ***Commercio di sostanze alimentari nocive***
 
 Chiunque detiene per il commercio, pone in commercio ovvero distribuisce per il consumo sostanze destinate all'alimentazione, non contraffatte nè adulterate, ma pericolose alla salute pubblica, è punito con la reclusione da sei mesi a tre anni e con la multa non inferiore a lire cinquecento.
+{: data-comma="1" }
 
 La pena è diminuita se la qualità nociva delle sostanze è nota alla persona che le acquista o le riceve.
+{: data-comma="2" }

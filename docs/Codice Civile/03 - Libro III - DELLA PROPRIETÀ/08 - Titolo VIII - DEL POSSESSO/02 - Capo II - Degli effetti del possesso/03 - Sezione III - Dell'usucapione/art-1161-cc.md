@@ -21,5 +21,7 @@ ordine: 1263
 # Art. 1161 - ***Usucapione dei beni mobili***
 
 In mancanza di titolo idoneo, la proprietà dei beni mobili e gli altri diritti reali di godimento sui beni medesimi si acquistano in virtù del possesso continuato per dieci anni, qualora il possesso sia stato acquistato in buona fede.
+{: data-comma="1" }
 
 Se il possessore è di mala fede, l'usucapione si compie con il decorso di venti anni.
+{: data-comma="2" }

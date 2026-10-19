@@ -21,5 +21,7 @@ ordine: 1285
 # Art. 1183 - ***Tempo dell'adempimento***
 
 Se non è determinato il tempo in cui la prestazione deve essere eseguita, il creditore può esigerla immediatamente. Qualora tuttavia, in virtù degli usi o per la natura della prestazione ovvero per il modo o il luogo dell'esecuzione, sia necessario un termine, questo, in mancanza di accordo delle parti, è stabilito dal giudice.
+{: data-comma="1" }
 
 Se il termine per l'adempimento è rimesso alla volontà del debitore, spetta ugualmente al giudice di stabilirlo secondo le circostanze; se è rimesso alla volontà del creditore, il termine può essere fissato su istanza del debitore che intende liberarsi.
+{: data-comma="2" }

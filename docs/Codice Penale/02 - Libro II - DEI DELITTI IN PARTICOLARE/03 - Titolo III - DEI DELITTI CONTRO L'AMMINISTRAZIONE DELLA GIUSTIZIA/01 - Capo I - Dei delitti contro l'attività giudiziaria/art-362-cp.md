@@ -21,5 +21,7 @@ ordine: 431
 # Art. 362 - ***Omessa denuncia da parte di un incaricato di pubblico servizio***
 
 L'incaricato di un pubblico servizio, che omette o ritarda di denunciare all'Autorità indicata nell'articolo precedente un reato del quale abbia avuto notizia nell'esercizio o a causa del servizio, è punito con la multa fino a lire mille.
+{: data-comma="1" }
 
 Tale disposizione non si applica se si tratta di un reato punibile a querela della persona offesa nè si applica ai responsabili delle comunità terapeutiche socio-riabilitative per fatti commessi da persone tossicodipendenti affidate per l'esecuzione del programma definito da un servizio pubblico.
+{: data-comma="2" }

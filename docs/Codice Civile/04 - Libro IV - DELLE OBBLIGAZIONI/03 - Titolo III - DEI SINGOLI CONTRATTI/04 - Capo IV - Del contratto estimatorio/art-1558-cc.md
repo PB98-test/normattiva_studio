@@ -21,5 +21,7 @@ ordine: 1673
 # Art. 1558 - ***Disponibilità delle cose***
 
 Sono validi gli atti di disposizione compiuti da chi ha ricevuto le cose; ma i suoi creditori non possono sottoporle a pignoramento o a sequestro finchè non ne sia stato pagato il prezzo.
+{: data-comma="1" }
 
 Colui che ha consegnato le cose non può disporne fino a che non gli siano restituite.
+{: data-comma="2" }

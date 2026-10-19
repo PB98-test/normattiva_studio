@@ -8,82 +8,84 @@ aliases:
 
 # Dlgs 51-1998 - 19.02.1998
 
-### Titolo I - DISPOSIZIONI SULL'ORDINAMENTO GIUDIZIARIO Capo I Disposizioni relative agli organi che amministrano la giustizia
-- [Art. 1](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO%20Capo%20I%20Disposizioni%20relativ/art-1-dlgs51-98.md)
-- [Art. 2](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO%20Capo%20I%20Disposizioni%20relativ/art-2-dlgs51-98.md)
-- [Art. 3](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO%20Capo%20I%20Disposizioni%20relativ/art-3-dlgs51-98.md)
-- [Art. 4](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO%20Capo%20I%20Disposizioni%20relativ/art-4-dlgs51-98.md)
-- [Art. 5](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO%20Capo%20I%20Disposizioni%20relativ/art-5-dlgs51-98.md)
-- [Art. 6](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO%20Capo%20I%20Disposizioni%20relativ/art-6-dlgs51-98.md)
-- [Art. 7](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO%20Capo%20I%20Disposizioni%20relativ/art-7-dlgs51-98.md)
+### Titolo I - DISPOSIZIONI SULL'ORDINAMENTO GIUDIZIARIO
+
+#### Capo I - Disposizioni relative agli organi che amministrano la giustizia
+- [Art. 1](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO/01%20-%20Capo%20I%20-%20Disposizioni%20relative%20agli%20organi%20che%20amministrano%20la%20giustizia/art-1-dlgs51-98.md)
+- [Art. 2](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO/01%20-%20Capo%20I%20-%20Disposizioni%20relative%20agli%20organi%20che%20amministrano%20la%20giustizia/art-2-dlgs51-98.md)
+- [Art. 3](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO/01%20-%20Capo%20I%20-%20Disposizioni%20relative%20agli%20organi%20che%20amministrano%20la%20giustizia/art-3-dlgs51-98.md)
+- [Art. 4](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO/01%20-%20Capo%20I%20-%20Disposizioni%20relative%20agli%20organi%20che%20amministrano%20la%20giustizia/art-4-dlgs51-98.md)
+- [Art. 5](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO/01%20-%20Capo%20I%20-%20Disposizioni%20relative%20agli%20organi%20che%20amministrano%20la%20giustizia/art-5-dlgs51-98.md)
+- [Art. 6](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO/01%20-%20Capo%20I%20-%20Disposizioni%20relative%20agli%20organi%20che%20amministrano%20la%20giustizia/art-6-dlgs51-98.md)
+- [Art. 7](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO/01%20-%20Capo%20I%20-%20Disposizioni%20relative%20agli%20organi%20che%20amministrano%20la%20giustizia/art-7-dlgs51-98.md)
 
 #### Capo II - Disposizioni relative al tribunale ordinario
-- [Art. 8](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO%20Capo%20I%20Disposizioni%20relativ/01%20-%20Capo%20II%20-%20Disposizioni%20relative%20al%20tribunale%20ordinario/art-8-dlgs51-98.md)
-- [Art. 9](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO%20Capo%20I%20Disposizioni%20relativ/01%20-%20Capo%20II%20-%20Disposizioni%20relative%20al%20tribunale%20ordinario/art-9-dlgs51-98.md)
-- [Art. 10](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO%20Capo%20I%20Disposizioni%20relativ/01%20-%20Capo%20II%20-%20Disposizioni%20relative%20al%20tribunale%20ordinario/art-10-dlgs51-98.md)
-- [Art. 11](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO%20Capo%20I%20Disposizioni%20relativ/01%20-%20Capo%20II%20-%20Disposizioni%20relative%20al%20tribunale%20ordinario/art-11-dlgs51-98.md)
-- [Art. 12](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO%20Capo%20I%20Disposizioni%20relativ/01%20-%20Capo%20II%20-%20Disposizioni%20relative%20al%20tribunale%20ordinario/art-12-dlgs51-98.md)
-- [Art. 13](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO%20Capo%20I%20Disposizioni%20relativ/01%20-%20Capo%20II%20-%20Disposizioni%20relative%20al%20tribunale%20ordinario/art-13-dlgs51-98.md)
-- [Art. 14](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO%20Capo%20I%20Disposizioni%20relativ/01%20-%20Capo%20II%20-%20Disposizioni%20relative%20al%20tribunale%20ordinario/art-14-dlgs51-98.md)
-- [Art. 15](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO%20Capo%20I%20Disposizioni%20relativ/01%20-%20Capo%20II%20-%20Disposizioni%20relative%20al%20tribunale%20ordinario/art-15-dlgs51-98.md)
-- [Art. 16](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO%20Capo%20I%20Disposizioni%20relativ/01%20-%20Capo%20II%20-%20Disposizioni%20relative%20al%20tribunale%20ordinario/art-16-dlgs51-98.md)
-- [Art. 17](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO%20Capo%20I%20Disposizioni%20relativ/01%20-%20Capo%20II%20-%20Disposizioni%20relative%20al%20tribunale%20ordinario/art-17-dlgs51-98.md)
+- [Art. 8](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO/02%20-%20Capo%20II%20-%20Disposizioni%20relative%20al%20tribunale%20ordinario/art-8-dlgs51-98.md)
+- [Art. 9](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO/02%20-%20Capo%20II%20-%20Disposizioni%20relative%20al%20tribunale%20ordinario/art-9-dlgs51-98.md)
+- [Art. 10](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO/02%20-%20Capo%20II%20-%20Disposizioni%20relative%20al%20tribunale%20ordinario/art-10-dlgs51-98.md)
+- [Art. 11](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO/02%20-%20Capo%20II%20-%20Disposizioni%20relative%20al%20tribunale%20ordinario/art-11-dlgs51-98.md)
+- [Art. 12](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO/02%20-%20Capo%20II%20-%20Disposizioni%20relative%20al%20tribunale%20ordinario/art-12-dlgs51-98.md)
+- [Art. 13](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO/02%20-%20Capo%20II%20-%20Disposizioni%20relative%20al%20tribunale%20ordinario/art-13-dlgs51-98.md)
+- [Art. 14](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO/02%20-%20Capo%20II%20-%20Disposizioni%20relative%20al%20tribunale%20ordinario/art-14-dlgs51-98.md)
+- [Art. 15](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO/02%20-%20Capo%20II%20-%20Disposizioni%20relative%20al%20tribunale%20ordinario/art-15-dlgs51-98.md)
+- [Art. 16](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO/02%20-%20Capo%20II%20-%20Disposizioni%20relative%20al%20tribunale%20ordinario/art-16-dlgs51-98.md)
+- [Art. 17](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO/02%20-%20Capo%20II%20-%20Disposizioni%20relative%20al%20tribunale%20ordinario/art-17-dlgs51-98.md)
 
 #### Capo III - Disposizioni relative alla corte di appello
-- [Art. 18](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO%20Capo%20I%20Disposizioni%20relativ/02%20-%20Capo%20III%20-%20Disposizioni%20relative%20alla%20corte%20di%20appello/art-18-dlgs51-98.md)
-- [Art. 19](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO%20Capo%20I%20Disposizioni%20relativ/02%20-%20Capo%20III%20-%20Disposizioni%20relative%20alla%20corte%20di%20appello/art-19-dlgs51-98.md)
+- [Art. 18](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO/03%20-%20Capo%20III%20-%20Disposizioni%20relative%20alla%20corte%20di%20appello/art-18-dlgs51-98.md)
+- [Art. 19](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO/03%20-%20Capo%20III%20-%20Disposizioni%20relative%20alla%20corte%20di%20appello/art-19-dlgs51-98.md)
 
 #### Capo IV - Disposizioni relative al pubblico ministero
-- [Art. 20](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO%20Capo%20I%20Disposizioni%20relativ/03%20-%20Capo%20IV%20-%20Disposizioni%20relative%20al%20pubblico%20ministero/art-20-dlgs51-98.md)
-- [Art. 21](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO%20Capo%20I%20Disposizioni%20relativ/03%20-%20Capo%20IV%20-%20Disposizioni%20relative%20al%20pubblico%20ministero/art-21-dlgs51-98.md)
-- [Art. 22](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO%20Capo%20I%20Disposizioni%20relativ/03%20-%20Capo%20IV%20-%20Disposizioni%20relative%20al%20pubblico%20ministero/art-22-dlgs51-98.md)
-- [Art. 23](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO%20Capo%20I%20Disposizioni%20relativ/03%20-%20Capo%20IV%20-%20Disposizioni%20relative%20al%20pubblico%20ministero/art-23-dlgs51-98.md)
-- [Art. 24](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO%20Capo%20I%20Disposizioni%20relativ/03%20-%20Capo%20IV%20-%20Disposizioni%20relative%20al%20pubblico%20ministero/art-24-dlgs51-98.md)
+- [Art. 20](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO/04%20-%20Capo%20IV%20-%20Disposizioni%20relative%20al%20pubblico%20ministero/art-20-dlgs51-98.md)
+- [Art. 21](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO/04%20-%20Capo%20IV%20-%20Disposizioni%20relative%20al%20pubblico%20ministero/art-21-dlgs51-98.md)
+- [Art. 22](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO/04%20-%20Capo%20IV%20-%20Disposizioni%20relative%20al%20pubblico%20ministero/art-22-dlgs51-98.md)
+- [Art. 23](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO/04%20-%20Capo%20IV%20-%20Disposizioni%20relative%20al%20pubblico%20ministero/art-23-dlgs51-98.md)
+- [Art. 24](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO/04%20-%20Capo%20IV%20-%20Disposizioni%20relative%20al%20pubblico%20ministero/art-24-dlgs51-98.md)
 
 #### Capo V - Altre disposizioni sull'ordinamento giudiziario abrogazioni
-- [Art. 25](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO%20Capo%20I%20Disposizioni%20relativ/04%20-%20Capo%20V%20-%20Altre%20disposizioni%20sull%27ordinamento%20giudiziario%20abrogazioni/art-25-dlgs51-98.md)
-- [Art. 26](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO%20Capo%20I%20Disposizioni%20relativ/04%20-%20Capo%20V%20-%20Altre%20disposizioni%20sull%27ordinamento%20giudiziario%20abrogazioni/art-26-dlgs51-98.md)
-- [Art. 27](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO%20Capo%20I%20Disposizioni%20relativ/04%20-%20Capo%20V%20-%20Altre%20disposizioni%20sull%27ordinamento%20giudiziario%20abrogazioni/art-27-dlgs51-98.md)
-- [Art. 28](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO%20Capo%20I%20Disposizioni%20relativ/04%20-%20Capo%20V%20-%20Altre%20disposizioni%20sull%27ordinamento%20giudiziario%20abrogazioni/art-28-dlgs51-98.md)
-- [Art. 29](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO%20Capo%20I%20Disposizioni%20relativ/04%20-%20Capo%20V%20-%20Altre%20disposizioni%20sull%27ordinamento%20giudiziario%20abrogazioni/art-29-dlgs51-98.md)
-- [Art. 30](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO%20Capo%20I%20Disposizioni%20relativ/04%20-%20Capo%20V%20-%20Altre%20disposizioni%20sull%27ordinamento%20giudiziario%20abrogazioni/art-30-dlgs51-98.md)
+- [Art. 25](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO/05%20-%20Capo%20V%20-%20Altre%20disposizioni%20sull%27ordinamento%20giudiziario%20abrogazioni/art-25-dlgs51-98.md)
+- [Art. 26](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO/05%20-%20Capo%20V%20-%20Altre%20disposizioni%20sull%27ordinamento%20giudiziario%20abrogazioni/art-26-dlgs51-98.md)
+- [Art. 27](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO/05%20-%20Capo%20V%20-%20Altre%20disposizioni%20sull%27ordinamento%20giudiziario%20abrogazioni/art-27-dlgs51-98.md)
+- [Art. 28](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO/05%20-%20Capo%20V%20-%20Altre%20disposizioni%20sull%27ordinamento%20giudiziario%20abrogazioni/art-28-dlgs51-98.md)
+- [Art. 29](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO/05%20-%20Capo%20V%20-%20Altre%20disposizioni%20sull%27ordinamento%20giudiziario%20abrogazioni/art-29-dlgs51-98.md)
+- [Art. 30](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO/05%20-%20Capo%20V%20-%20Altre%20disposizioni%20sull%27ordinamento%20giudiziario%20abrogazioni/art-30-dlgs51-98.md)
 
 #### Capo VI - Disposizioni in materia di corte d'assise
-- [Art. 31](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO%20Capo%20I%20Disposizioni%20relativ/05%20-%20Capo%20VI%20-%20Disposizioni%20in%20materia%20di%20corte%20d%27assise/art-31-dlgs51-98.md)
-- [Art. 32](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO%20Capo%20I%20Disposizioni%20relativ/05%20-%20Capo%20VI%20-%20Disposizioni%20in%20materia%20di%20corte%20d%27assise/art-32-dlgs51-98.md)
+- [Art. 31](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO/06%20-%20Capo%20VI%20-%20Disposizioni%20in%20materia%20di%20corte%20d%27assise/art-31-dlgs51-98.md)
+- [Art. 32](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO/06%20-%20Capo%20VI%20-%20Disposizioni%20in%20materia%20di%20corte%20d%27assise/art-32-dlgs51-98.md)
 
 #### Capo VII - Norme di coordinamento e transitorie
 
 ##### Sezione I - Disposizioni relative al personale di magistratura
-- [Art. 33](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO%20Capo%20I%20Disposizioni%20relativ/06%20-%20Capo%20VII%20-%20Norme%20di%20coordinamento%20e%20transitorie/01%20-%20Sezione%20I%20-%20Disposizioni%20relative%20al%20personale%20di%20magistratura/art-33-dlgs51-98.md)
-- [Art. 34](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO%20Capo%20I%20Disposizioni%20relativ/06%20-%20Capo%20VII%20-%20Norme%20di%20coordinamento%20e%20transitorie/01%20-%20Sezione%20I%20-%20Disposizioni%20relative%20al%20personale%20di%20magistratura/art-34-dlgs51-98.md)
-- [Art. 35](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO%20Capo%20I%20Disposizioni%20relativ/06%20-%20Capo%20VII%20-%20Norme%20di%20coordinamento%20e%20transitorie/01%20-%20Sezione%20I%20-%20Disposizioni%20relative%20al%20personale%20di%20magistratura/art-35-dlgs51-98.md)
-- [Art. 36](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO%20Capo%20I%20Disposizioni%20relativ/06%20-%20Capo%20VII%20-%20Norme%20di%20coordinamento%20e%20transitorie/01%20-%20Sezione%20I%20-%20Disposizioni%20relative%20al%20personale%20di%20magistratura/art-36-dlgs51-98.md)
-- [Art. 37](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO%20Capo%20I%20Disposizioni%20relativ/06%20-%20Capo%20VII%20-%20Norme%20di%20coordinamento%20e%20transitorie/01%20-%20Sezione%20I%20-%20Disposizioni%20relative%20al%20personale%20di%20magistratura/art-37-dlgs51-98.md)
+- [Art. 33](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO/07%20-%20Capo%20VII%20-%20Norme%20di%20coordinamento%20e%20transitorie/01%20-%20Sezione%20I%20-%20Disposizioni%20relative%20al%20personale%20di%20magistratura/art-33-dlgs51-98.md)
+- [Art. 34](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO/07%20-%20Capo%20VII%20-%20Norme%20di%20coordinamento%20e%20transitorie/01%20-%20Sezione%20I%20-%20Disposizioni%20relative%20al%20personale%20di%20magistratura/art-34-dlgs51-98.md)
+- [Art. 35](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO/07%20-%20Capo%20VII%20-%20Norme%20di%20coordinamento%20e%20transitorie/01%20-%20Sezione%20I%20-%20Disposizioni%20relative%20al%20personale%20di%20magistratura/art-35-dlgs51-98.md)
+- [Art. 36](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO/07%20-%20Capo%20VII%20-%20Norme%20di%20coordinamento%20e%20transitorie/01%20-%20Sezione%20I%20-%20Disposizioni%20relative%20al%20personale%20di%20magistratura/art-36-dlgs51-98.md)
+- [Art. 37](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO/07%20-%20Capo%20VII%20-%20Norme%20di%20coordinamento%20e%20transitorie/01%20-%20Sezione%20I%20-%20Disposizioni%20relative%20al%20personale%20di%20magistratura/art-37-dlgs51-98.md)
 
 ##### Sezione II - Disposizioni relative alle sezioni lavoro delle corti di appello e dei tribunali
-- [Art. 38](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO%20Capo%20I%20Disposizioni%20relativ/06%20-%20Capo%20VII%20-%20Norme%20di%20coordinamento%20e%20transitorie/02%20-%20Sezione%20II%20-%20Disposizioni%20relative%20alle%20sezioni%20lavoro%20delle%20corti%20di%20appello%20e/art-38-dlgs51-98.md)
-- [Art. 39](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO%20Capo%20I%20Disposizioni%20relativ/06%20-%20Capo%20VII%20-%20Norme%20di%20coordinamento%20e%20transitorie/02%20-%20Sezione%20II%20-%20Disposizioni%20relative%20alle%20sezioni%20lavoro%20delle%20corti%20di%20appello%20e/art-39-dlgs51-98.md)
+- [Art. 38](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO/07%20-%20Capo%20VII%20-%20Norme%20di%20coordinamento%20e%20transitorie/02%20-%20Sezione%20II%20-%20Disposizioni%20relative%20alle%20sezioni%20lavoro%20delle%20corti%20di%20appello%20e/art-38-dlgs51-98.md)
+- [Art. 39](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO/07%20-%20Capo%20VII%20-%20Norme%20di%20coordinamento%20e%20transitorie/02%20-%20Sezione%20II%20-%20Disposizioni%20relative%20alle%20sezioni%20lavoro%20delle%20corti%20di%20appello%20e/art-39-dlgs51-98.md)
 
 ##### Sezione III - Disposizioni relative al personale amministrativo
-- [Art. 40](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO%20Capo%20I%20Disposizioni%20relativ/06%20-%20Capo%20VII%20-%20Norme%20di%20coordinamento%20e%20transitorie/03%20-%20Sezione%20III%20-%20Disposizioni%20relative%20al%20personale%20amministrativo/art-40-dlgs51-98.md)
+- [Art. 40](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO/07%20-%20Capo%20VII%20-%20Norme%20di%20coordinamento%20e%20transitorie/03%20-%20Sezione%20III%20-%20Disposizioni%20relative%20al%20personale%20amministrativo/art-40-dlgs51-98.md)
 
 ##### Sezione IV - Disposizioni relative al personale delle sezioni di polizia giudiziaria
-- [Art. 41](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO%20Capo%20I%20Disposizioni%20relativ/06%20-%20Capo%20VII%20-%20Norme%20di%20coordinamento%20e%20transitorie/04%20-%20Sezione%20IV%20-%20Disposizioni%20relative%20al%20personale%20delle%20sezioni%20di%20polizia%20giudizi/art-41-dlgs51-98.md)
+- [Art. 41](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO/07%20-%20Capo%20VII%20-%20Norme%20di%20coordinamento%20e%20transitorie/04%20-%20Sezione%20IV%20-%20Disposizioni%20relative%20al%20personale%20delle%20sezioni%20di%20polizia%20giudizi/art-41-dlgs51-98.md)
 
 ##### Sezione IV-bis - Disposizioni relative alle attrezzature
-- [Art. 41-bis](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO%20Capo%20I%20Disposizioni%20relativ/06%20-%20Capo%20VII%20-%20Norme%20di%20coordinamento%20e%20transitorie/05%20-%20Sezione%20IV-bis%20-%20Disposizioni%20relative%20alle%20attrezzature/art-41-bis-dlgs51-98.md)
+- [Art. 41-bis](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO/07%20-%20Capo%20VII%20-%20Norme%20di%20coordinamento%20e%20transitorie/05%20-%20Sezione%20IV-bis%20-%20Disposizioni%20relative%20alle%20attrezzature/art-41-bis-dlgs51-98.md)
 
 ##### Sezione V - Disposizioni per la definizione dei procedimenti pendenti
-- [Art. 42](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO%20Capo%20I%20Disposizioni%20relativ/06%20-%20Capo%20VII%20-%20Norme%20di%20coordinamento%20e%20transitorie/06%20-%20Sezione%20V%20-%20Disposizioni%20per%20la%20definizione%20dei%20procedimenti%20pendenti/art-42-dlgs51-98.md)
-- [Art. 43](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO%20Capo%20I%20Disposizioni%20relativ/06%20-%20Capo%20VII%20-%20Norme%20di%20coordinamento%20e%20transitorie/06%20-%20Sezione%20V%20-%20Disposizioni%20per%20la%20definizione%20dei%20procedimenti%20pendenti/art-43-dlgs51-98.md)
+- [Art. 42](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO/07%20-%20Capo%20VII%20-%20Norme%20di%20coordinamento%20e%20transitorie/06%20-%20Sezione%20V%20-%20Disposizioni%20per%20la%20definizione%20dei%20procedimenti%20pendenti/art-42-dlgs51-98.md)
+- [Art. 43](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO/07%20-%20Capo%20VII%20-%20Norme%20di%20coordinamento%20e%20transitorie/06%20-%20Sezione%20V%20-%20Disposizioni%20per%20la%20definizione%20dei%20procedimenti%20pendenti/art-43-dlgs51-98.md)
 
 ##### Sezione VI - Disposizioni particolari in materia di sezioni distaccate del tribunale
-- [Art. 44](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO%20Capo%20I%20Disposizioni%20relativ/06%20-%20Capo%20VII%20-%20Norme%20di%20coordinamento%20e%20transitorie/07%20-%20Sezione%20VI%20-%20Disposizioni%20particolari%20in%20materia%20di%20sezioni%20distaccate%20del%20tribu/art-44-dlgs51-98.md)
-- [Art. 45](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO%20Capo%20I%20Disposizioni%20relativ/06%20-%20Capo%20VII%20-%20Norme%20di%20coordinamento%20e%20transitorie/07%20-%20Sezione%20VI%20-%20Disposizioni%20particolari%20in%20materia%20di%20sezioni%20distaccate%20del%20tribu/art-45-dlgs51-98.md)
-- [Art. 46](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO%20Capo%20I%20Disposizioni%20relativ/06%20-%20Capo%20VII%20-%20Norme%20di%20coordinamento%20e%20transitorie/07%20-%20Sezione%20VI%20-%20Disposizioni%20particolari%20in%20materia%20di%20sezioni%20distaccate%20del%20tribu/art-46-dlgs51-98.md) — *(abrogato)*
-- [Art. 47](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO%20Capo%20I%20Disposizioni%20relativ/06%20-%20Capo%20VII%20-%20Norme%20di%20coordinamento%20e%20transitorie/07%20-%20Sezione%20VI%20-%20Disposizioni%20particolari%20in%20materia%20di%20sezioni%20distaccate%20del%20tribu/art-47-dlgs51-98.md)
-- [Art. 48](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO%20Capo%20I%20Disposizioni%20relativ/06%20-%20Capo%20VII%20-%20Norme%20di%20coordinamento%20e%20transitorie/07%20-%20Sezione%20VI%20-%20Disposizioni%20particolari%20in%20materia%20di%20sezioni%20distaccate%20del%20tribu/art-48-dlgs51-98.md)
+- [Art. 44](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO/07%20-%20Capo%20VII%20-%20Norme%20di%20coordinamento%20e%20transitorie/07%20-%20Sezione%20VI%20-%20Disposizioni%20particolari%20in%20materia%20di%20sezioni%20distaccate%20del%20tribu/art-44-dlgs51-98.md)
+- [Art. 45](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO/07%20-%20Capo%20VII%20-%20Norme%20di%20coordinamento%20e%20transitorie/07%20-%20Sezione%20VI%20-%20Disposizioni%20particolari%20in%20materia%20di%20sezioni%20distaccate%20del%20tribu/art-45-dlgs51-98.md)
+- [Art. 46](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO/07%20-%20Capo%20VII%20-%20Norme%20di%20coordinamento%20e%20transitorie/07%20-%20Sezione%20VI%20-%20Disposizioni%20particolari%20in%20materia%20di%20sezioni%20distaccate%20del%20tribu/art-46-dlgs51-98.md) — *(abrogato)*
+- [Art. 47](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO/07%20-%20Capo%20VII%20-%20Norme%20di%20coordinamento%20e%20transitorie/07%20-%20Sezione%20VI%20-%20Disposizioni%20particolari%20in%20materia%20di%20sezioni%20distaccate%20del%20tribu/art-47-dlgs51-98.md)
+- [Art. 48](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO/07%20-%20Capo%20VII%20-%20Norme%20di%20coordinamento%20e%20transitorie/07%20-%20Sezione%20VI%20-%20Disposizioni%20particolari%20in%20materia%20di%20sezioni%20distaccate%20del%20tribu/art-48-dlgs51-98.md)
 
 ### Titolo II - DISPOSIZIONI SUL PROCESSO CIVILE
 
@@ -295,9 +297,9 @@ aliases:
 - [Art. 200](04%20-%20Titolo%20IV%20-%20DISPOSIZIONI%20SUL%20PROCESSO%20PENALE/09%20-%20Capo%20IX%20-%20Disposizioni%20relative%20alle%20impugnazioni/art-200-dlgs51-98.md)
 - [Art. 201](04%20-%20Titolo%20IV%20-%20DISPOSIZIONI%20SUL%20PROCESSO%20PENALE/09%20-%20Capo%20IX%20-%20Disposizioni%20relative%20alle%20impugnazioni/art-201-dlgs51-98.md)
 - [Art. 202](04%20-%20Titolo%20IV%20-%20DISPOSIZIONI%20SUL%20PROCESSO%20PENALE/09%20-%20Capo%20IX%20-%20Disposizioni%20relative%20alle%20impugnazioni/art-202-dlgs51-98.md)
-- [Art. 203](04%20-%20Titolo%20IV%20-%20DISPOSIZIONI%20SUL%20PROCESSO%20PENALE/09%20-%20Capo%20IX%20-%20Disposizioni%20relative%20alle%20impugnazioni/art-203-dlgs51-98.md) — null
+- [Art. 203](04%20-%20Titolo%20IV%20-%20DISPOSIZIONI%20SUL%20PROCESSO%20PENALE/09%20-%20Capo%20IX%20-%20Disposizioni%20relative%20alle%20impugnazioni/art-203-dlgs51-98.md)
 - [Art. 204](04%20-%20Titolo%20IV%20-%20DISPOSIZIONI%20SUL%20PROCESSO%20PENALE/09%20-%20Capo%20IX%20-%20Disposizioni%20relative%20alle%20impugnazioni/art-204-dlgs51-98.md)
-- [Art. 205](04%20-%20Titolo%20IV%20-%20DISPOSIZIONI%20SUL%20PROCESSO%20PENALE/09%20-%20Capo%20IX%20-%20Disposizioni%20relative%20alle%20impugnazioni/art-205-dlgs51-98.md) — null
+- [Art. 205](04%20-%20Titolo%20IV%20-%20DISPOSIZIONI%20SUL%20PROCESSO%20PENALE/09%20-%20Capo%20IX%20-%20Disposizioni%20relative%20alle%20impugnazioni/art-205-dlgs51-98.md)
 
 #### Capo X - Disposizioni relative alla esecuzione
 - [Art. 206](04%20-%20Titolo%20IV%20-%20DISPOSIZIONI%20SUL%20PROCESSO%20PENALE/10%20-%20Capo%20X%20-%20Disposizioni%20relative%20alla%20esecuzione/art-206-dlgs51-98.md)
@@ -366,3 +368,11 @@ aliases:
 - [Art. 245](07%20-%20Titolo%20VII%20-%20NORME%20DI%20COORDINAMENTO%20E%20FINALI/art-245-dlgs51-98.md) — *(abrogato)*
 - [Art. 246](07%20-%20Titolo%20VII%20-%20NORME%20DI%20COORDINAMENTO%20E%20FINALI/art-246-dlgs51-98.md)
 - [Art. 247](07%20-%20Titolo%20VII%20-%20NORME%20DI%20COORDINAMENTO%20E%20FINALI/art-247-dlgs51-98.md)
+
+## Allegati
+
+- [Tabella A](08%20-%20Allegati/allegato-tabella-a-dlgs51-98.md)
+- [Tabella B](08%20-%20Allegati/allegato-tabella-b-dlgs51-98.md)
+- [Allegato 1](08%20-%20Allegati/allegato-1-dlgs51-98.md)
+- [Allegato 2](08%20-%20Allegati/allegato-2-dlgs51-98.md)
+- [Allegato 3](08%20-%20Allegati/allegato-3-dlgs51-98.md)

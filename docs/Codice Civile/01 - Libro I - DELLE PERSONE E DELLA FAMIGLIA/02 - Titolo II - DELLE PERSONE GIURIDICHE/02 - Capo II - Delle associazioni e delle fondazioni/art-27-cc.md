@@ -21,7 +21,10 @@ ordine: 58
 # Art. 27 - ***Estinzione della persona giuridica***
 
 Oltre che per le cause previste nell'atto costitutivo e nello statuto, la persona giuridica si estingue quando lo scopo è stato raggiunto o è divenuto impossibile.
+{: data-comma="1" }
 
 Le associazioni si estinguono inoltre quando tutti gli associati sono venuti a mancare.
+{: data-comma="2" }
 
 COMMA ABROGATO DAL D.P.R. 10 FEBBRAIO 2000, N. 361.
+{: data-comma="3" }

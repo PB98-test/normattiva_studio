@@ -21,5 +21,7 @@ ordine: 2537
 # Art. 2390-bis - ***Utilizzazione delle informazioni***
 
 Gli amministratori non possono utilizzare a vantaggio proprio o di terzi dati, notizie o opportunità di affari appresi nell'esercizio del loro incarico.
+{: data-comma="1" }
 
 Per l'inosservanza di tale divieto l'amministratore può essere revocato e risponde dei danni.
+{: data-comma="2" }

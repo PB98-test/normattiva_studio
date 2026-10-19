@@ -21,7 +21,10 @@ ordine: 452
 # Art. 367 - ***Dichiarazione di debiti o crediti del tutore***
 
 Il tutore, che ha debiti, crediti o altre ragioni verso il minore, deve esattamente dichiararli prima della chiusura dell'inventario. Il cancelliere o il notaio hanno l'obbligo di interpellarlo al riguardo.
+{: data-comma="1" }
 
 Nel caso d'inventario senza opera di cancelliere o di notaio, il tutore è interpellato dal giudice tutelare all'atto del deposito.
+{: data-comma="2" }
 
 In ogni caso si fa menzione dell'interpellazione e della dichiarazione del tutore nell'inventario o nel verbale di deposito.
+{: data-comma="3" }

@@ -21,12 +21,16 @@ ordine: 719
 # Art. 559 - ***Adulterio***
 
 La moglie adultera è punita con la reclusione fino a un anno. [^agg-42]
+{: data-comma="1" }
 
 Con la stessa pena è punito il correo dell'adultera. [^agg-42]
+{: data-comma="2" }
 
 La pena è della reclusione fino a due anni nel caso di relazione adulterina. [^agg-46]
+{: data-comma="3" }
 
 Il delitto è punibile a querela del marito. [^agg-46]
+{: data-comma="4" }
 
 [^agg-42]: *AGGIORNAMENTO (42)* La Corte Costituzionale, con sentenza 16 - 19 dicembre 1968, n. 126 (in G.U. 1ª s.s. 28/12/1968, n. 329), ha dichiarato l'illegittimità costituzionale del primo e del secondo comma del presente articolo.
 

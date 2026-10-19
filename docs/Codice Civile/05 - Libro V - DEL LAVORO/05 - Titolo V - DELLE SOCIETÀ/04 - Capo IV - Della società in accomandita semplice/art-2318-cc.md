@@ -21,5 +21,7 @@ ordine: 2440
 # Art. 2318 - ***Soci accomandatari***
 
 I soci accomandatari hanno i diritti e gli obblighi dei soci della società in nome collettivo.
+{: data-comma="1" }
 
 L'amministrazione della società può essere conferita soltanto a soci accomandatari.
+{: data-comma="2" }

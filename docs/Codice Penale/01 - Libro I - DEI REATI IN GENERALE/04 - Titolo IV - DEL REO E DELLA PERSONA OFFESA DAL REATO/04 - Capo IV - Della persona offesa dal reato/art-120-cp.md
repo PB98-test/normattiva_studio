@@ -21,7 +21,10 @@ ordine: 132
 # Art. 120 - ***Diritto di querela***
 
 Ogni persona offesa da un reato per cui non debba procedersi d'ufficio o dietro richiesta o istanza ha diritto di querela.
+{: data-comma="1" }
 
 Per i minori degli anni quattordici e per gli interdetti a cagione d'infermità di mente, il diritto di querela è esercitato dal genitore o dal tutore.
+{: data-comma="2" }
 
 I minori che hanno compiuto gli anni quattordici e gli inabilitati possono esercitare il diritto di querela, e possono altresì, in loro vece, esercitarlo il genitore ovvero il tutore o il curatore, nonostante ogni contraria dichiarazione di volontà, espressa o tacita, del minore o dell'inabilitato.
+{: data-comma="3" }

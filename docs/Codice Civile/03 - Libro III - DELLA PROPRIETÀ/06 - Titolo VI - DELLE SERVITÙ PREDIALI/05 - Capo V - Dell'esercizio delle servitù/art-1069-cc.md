@@ -21,7 +21,10 @@ ordine: 1164
 # Art. 1069 - ***Opere sul fondo servente***
 
 Il proprietario del fondo dominante, nel fare le opere necessarie per conservare la servitù, deve scegliere il tempo e il modo che siano per recare minore incomodo al proprietario del fondo servente.
+{: data-comma="1" }
 
 Egli deve fare le opere a sue spese, salvo che sia diversamente stabilito dal titolo o dalla legge.
+{: data-comma="2" }
 
 Se però le opere giovano anche al fondo servente, le spese sono sostenute in proporzione dei rispettivi vantaggi.
+{: data-comma="3" }

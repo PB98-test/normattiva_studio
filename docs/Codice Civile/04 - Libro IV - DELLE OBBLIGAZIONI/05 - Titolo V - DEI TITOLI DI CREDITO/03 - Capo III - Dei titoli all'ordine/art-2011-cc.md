@@ -21,5 +21,7 @@ ordine: 2132
 # Art. 2011 - ***Effetti della girata***
 
 La girata trasferisce tutti i diritti inerenti al titolo.
+{: data-comma="1" }
 
 Se il titolo è girato in bianco, il possessore può riempire la girata col proprio nome o con quello di altra persona, ovvero può girare di nuovo il titolo o trasmetterlo a un terzo senza riempire la girata o senza apporne una nuova.
+{: data-comma="2" }

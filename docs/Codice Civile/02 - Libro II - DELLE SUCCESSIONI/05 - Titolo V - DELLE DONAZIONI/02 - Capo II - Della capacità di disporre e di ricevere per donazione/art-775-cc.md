@@ -21,5 +21,7 @@ ordine: 869
 # Art. 775 - ***Donazione fatta da persona incapace d'intendere o di volere***
 
 La donazione fatta da persona che, sebbene non interdetta, si provi essere stata per qualsiasi causa, anche transitoria, incapace d'intendere o di volere al momento in cui la donazione è stata fatta, può essere annullata su istanza del donante, dei suoi eredi o aventi causa.
+{: data-comma="1" }
 
 L'azione si prescrive in cinque anni dal giorno in cui la donazione è stata fatta.
+{: data-comma="2" }

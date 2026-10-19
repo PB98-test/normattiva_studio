@@ -21,5 +21,7 @@ ordine: 236
 # Art. 194 - ***Divisione dei beni della comunione.***
 
 La divisione dei beni della comunione legale si effettua ripartendo in parti uguali l'attivo e il passivo.
+{: data-comma="1" }
 
 Il giudice, in relazione alle necessità della prole e all'affidamento di essa, può costituire a favore di uno dei coniugi l'usufrutto su una parte dei beni spettanti all'altro coniuge.
+{: data-comma="2" }

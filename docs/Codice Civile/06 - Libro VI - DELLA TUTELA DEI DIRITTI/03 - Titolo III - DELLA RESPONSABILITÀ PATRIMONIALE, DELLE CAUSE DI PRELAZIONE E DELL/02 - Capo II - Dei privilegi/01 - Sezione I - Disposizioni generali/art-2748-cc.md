@@ -21,5 +21,7 @@ ordine: 3053
 # Art. 2748 - ***Efficacia del privilegio speciale rispetto al pegno e alle ipoteche***
 
 Se la legge non dispone altrimenti, il privilegio speciale sui beni mobili non può esercitarsi in pregiudizio del creditore pignoratizio.
+{: data-comma="1" }
 
 I creditori che hanno privilegio sui beni immobili sono preferiti ai creditori ipotecari se la legge non dispone diversamente.
+{: data-comma="2" }

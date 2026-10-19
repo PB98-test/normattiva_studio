@@ -21,5 +21,7 @@ ordine: 2670
 # Art. 2455 - ***Soci accomandatari***
 
 L'atto costitutivo deve indicare i soci accomandatari.
+{: data-comma="1" }
 
 I soci accomandatari sono di diritto amministratori e sono soggetti agli obblighi degli amministratori della società per azioni.
+{: data-comma="2" }

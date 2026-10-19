@@ -21,7 +21,10 @@ ordine: 3173
 # Art. 2863 - ***Ricupero dell'immobile rilasciato e abbandono dell'esecuzione***
 
 Finchè non sia avvenuta la vendita, il terzo può ricuperare l'immobile rilasciato, pagando i crediti iscritti e i loro accessori, oltre le spese.
+{: data-comma="1" }
 
 Qualora la vendita sia avvenuta e, dopo pagati i creditori iscritti, vi sia un residuo del prezzo, questo spetta al terzo acquirente.
+{: data-comma="2" }
 
 Il rilascio non ha effetto se il processo di esecuzione si estingue per rinunzia o per inattività delle parti.
+{: data-comma="3" }

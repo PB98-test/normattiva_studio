@@ -5,9 +5,8 @@ search:
 
 # Leggi citate da Dlgs 274-2000 - 28.08.2000 ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Dlgs 274-2000 - 28.08.2000 — 41 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Dlgs 274-2000 - 28.08.2000 — 40 leggi trovate)*
 
-- [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const)
 - [articolo 14 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400)
 - [articolo 14 e seguenti della legge 24 novembre 1999, n. 468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-11-24;468)
 - [articoli 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regiodecreto:1931-06-18;773)

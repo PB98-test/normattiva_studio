@@ -21,7 +21,10 @@ ordine: 2581
 # Art. 2409-decies - ***Azione sociale di responsabilità***
 
 L'azione sociale di responsabilità può anche essere proposta a seguito di deliberazione del consiglio di sorveglianza. La deliberazione è assunta dalla maggioranza dei componenti del consiglio di sorveglianza e, se è presa a maggioranza dei due terzi dei suoi componenti, importa la revoca dall'ufficio dei consiglieri di gestione contro cui è proposta, alla cui sostituzione provvede contestualmente lo stesso consiglio di sorveglianza.
+{: data-comma="1" }
 
 Il consiglio di sorveglianza può rinunziare all'esercizio dell'azione di responsabilità e può transigerla, purchè la rinunzia e la transazione siano approvate dalla maggioranza assoluta dei componenti del consiglio di sorveglianza e purchè non si opponga la percentuale di soci indicata nell'ultimo comma dell'[articolo 2393](art-2393-cc.md).
+{: data-comma="2" }
 
 La rinuncia all'azione da parte della società o del consiglio di sorveglianza non impedisce l'esercizio delle azioni previste dagli [articoli 2393-bis](art-2393-bis-cc.md), [2394](art-2394-cc.md) e [2394-bis](art-2394-bis-cc.md).
+{: data-comma="3" }

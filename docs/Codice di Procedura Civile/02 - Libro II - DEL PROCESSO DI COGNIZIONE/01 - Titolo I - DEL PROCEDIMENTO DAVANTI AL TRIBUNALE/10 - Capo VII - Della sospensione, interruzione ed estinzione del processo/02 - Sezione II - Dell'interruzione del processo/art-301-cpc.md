@@ -21,7 +21,10 @@ ordine: 339
 # Art. 301 - ***Morte o impedimento del procuratore***
 
 Se la parte è costituita a mezzo di procuratore, il processo è interrotto dal giorno della morte, radiazione o sospensione del procuratore stesso.
+{: data-comma="1" }
 
 In tal caso si applica la disposizione dell'[articolo 299](art-299-cpc.md).
+{: data-comma="2" }
 
 Non sono cause d'interruzione la revoca della procura o la rinuncia ad essa.
+{: data-comma="3" }

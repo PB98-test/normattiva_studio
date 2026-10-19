@@ -21,9 +21,13 @@ ordine: 463
 # Art. 378 - ***Atti vietati al tutore e al protutore***
 
 Il tutore e il protutore non possono, neppure all'asta pubblica, rendersi acquirenti direttamente o per iterposta persona dei beni e dei diritti del minore.
+{: data-comma="1" }
 
 Non possono prendere in locazione i beni del minore senza l'autorizzazione e le cautele fissate dal giudice tutelare.
+{: data-comma="2" }
 
 Gli atti compiuti in violazione di questi divieti possono essere annullati su istanza delle persone indicate dell'articolo precedente, ad eccezione del tutore e del protutore che li hanno compiuti.
+{: data-comma="3" }
 
 Il tutore e il protutore non possono neppure diventare cessionari di alcuna ragione o credito verso il minore.
+{: data-comma="4" }

@@ -21,9 +21,13 @@ ordine: 49
 # Art. 42 - ***Responsabilità per dolo o per colpa o per delitto preterintenzionale. Responsabilità obiettiva***
 
 Nessuno può essere punito per un'azione od omissione preveduta dalla legge come reato, se non l'ha commessa con coscienza e volontà.
+{: data-comma="1" }
 
 Nessuno può essere punito per un fatto preveduto dalla legge come delitto, se non l'ha commesso con dolo, salvi i casi di delitto preterintenzionale o colposo espressamente preveduti dalla legge.
+{: data-comma="2" }
 
 La legge determina i casi nei quali l'evento è posto altrimenti a carico dell'agente, come conseguenza della sua azione od omissione.
+{: data-comma="3" }
 
 Nelle contravvenzioni ciascuno risponde della propria azione od omissione cosciente e volontaria, sia essa dolosa o colposa.
+{: data-comma="4" }

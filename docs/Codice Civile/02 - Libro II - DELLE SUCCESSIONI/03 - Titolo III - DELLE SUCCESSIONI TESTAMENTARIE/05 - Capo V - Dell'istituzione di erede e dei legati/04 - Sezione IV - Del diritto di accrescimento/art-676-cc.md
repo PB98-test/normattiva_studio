@@ -21,5 +21,7 @@ ordine: 763
 # Art. 676 - ***Effetti dell'accrescimento***
 
 L'acquisto per accrescimento ha luogo di diritto.
+{: data-comma="1" }
 
 I coeredi o i legatari, a favore dei quali si verifica l'accrescimento, subentrano negli obblighi a cui era sottoposto l'erede o il legatario mancante, salvo che si tratti di obblighi di carattere personale.
+{: data-comma="2" }

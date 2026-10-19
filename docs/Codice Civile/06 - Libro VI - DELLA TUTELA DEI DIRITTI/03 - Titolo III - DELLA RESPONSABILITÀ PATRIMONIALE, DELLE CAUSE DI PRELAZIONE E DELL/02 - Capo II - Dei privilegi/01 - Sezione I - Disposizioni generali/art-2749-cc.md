@@ -21,5 +21,7 @@ ordine: 3054
 # Art. 2749 - ***Estensione del privilegio***
 
 Il privilegio accordato al credito si estende alle spese ordinarie per l'intervento nel processo di esecuzione. Si estende anche agli interessi dovuti per l'anno in corso alla data del pignoramento e per quelli dell'anno precedente.
+{: data-comma="1" }
 
 Gli interessi successivamente maturati hanno privilegio nei limiti della misura legale fino alla data della vendita.
+{: data-comma="2" }

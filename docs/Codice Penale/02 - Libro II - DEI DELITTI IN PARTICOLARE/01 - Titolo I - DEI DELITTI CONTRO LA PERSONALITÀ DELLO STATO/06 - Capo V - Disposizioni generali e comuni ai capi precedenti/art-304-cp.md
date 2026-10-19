@@ -21,7 +21,10 @@ ordine: 353
 # Art. 304 - ***Cospirazione politica mediante accordo***
 
 Quando più persone si accordano al fine di commettere uno dei delitti indicati nell'[articolo 302](art-302-cp.md), coloro che partecipano all'accordo sono puniti, se il delitto non è commesso, con la reclusione da uno a sei anni.
+{: data-comma="1" }
 
 Per i promotori la pena è aumentata.
+{: data-comma="2" }
 
 Tuttavia, la pena da applicare è sempre inferiore alla metà della pena stabilita per il delitto al quale si riferisce l'accordo.
+{: data-comma="3" }

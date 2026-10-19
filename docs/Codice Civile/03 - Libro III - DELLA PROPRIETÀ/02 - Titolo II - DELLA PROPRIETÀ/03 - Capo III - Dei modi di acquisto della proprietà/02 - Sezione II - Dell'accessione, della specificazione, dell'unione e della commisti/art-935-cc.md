@@ -21,5 +21,7 @@ ordine: 1030
 # Art. 935 - ***Opere fatte dal proprietario del suolo con materiali altrui***
 
 Il proprietario del suolo che ha fatto costruzioni, piantagioni od opere con materiali altrui deve pagarne il valore, se la separazione non è chiesta dal proprietario dei materiali, ovvero non può farsi senza che si rechi grave danno all'opera costruita o senza che perisca la piantagione. Deve inoltre, anche nel caso che si faccia la separazione, il risarcimento dei danni, se è in colpa grave.
+{: data-comma="1" }
 
 In ogni caso la rivendicazione dei materiali non è ammessa trascorsi sei mesi dal giorno in cui il proprietario ha avuto notizia dell'incorporazione.
+{: data-comma="2" }

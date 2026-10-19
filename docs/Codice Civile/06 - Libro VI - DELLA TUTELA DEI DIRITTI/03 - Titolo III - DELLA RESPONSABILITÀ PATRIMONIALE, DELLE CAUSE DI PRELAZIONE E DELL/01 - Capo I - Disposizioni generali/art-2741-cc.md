@@ -21,5 +21,7 @@ ordine: 3046
 # Art. 2741 - ***Concorso dei creditori e cause di prelazione***
 
 I creditori hanno eguale diritto di essere soddisfatti sui beni del debitore, salve le cause legittime di prelazione.
+{: data-comma="1" }
 
 Sono cause legittime di prelazione i privilegi, il pegno e le ipoteche.
+{: data-comma="2" }

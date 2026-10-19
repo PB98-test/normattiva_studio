@@ -21,7 +21,10 @@ ordine: 589
 # Art. 502 - ***Pagamento dei creditori e dei legatari***
 
 Divenuto definitivo lo stato di graduazione o passata in giudicato la sentenza che pronunzia sui reclami, l'erede deve soddisfare i creditori e i legatari in conformità dello stato medesimo. Questo costituisce titolo esecutivo contro l'erede.
+{: data-comma="1" }
 
 La collocazione dei crediti condizionali non impedisce il pagamento dei creditori posteriori, sempre che questi diano cauzione.
+{: data-comma="2" }
 
 I creditori e i legatari che non si sono presentati hanno azione contro l'erede solo nei limiti della somma che residua dopo il pagamento dei creditori e dei legatari collocati nello stato di graduazione. Questa azione si prescrive in tre anni dal giorno in cui lo stato è divenuto definitivo o è passata in giudicato la sentenza che ha pronunziato sui reclami, salvo che il credito sia anteriormente prescritto.
+{: data-comma="3" }

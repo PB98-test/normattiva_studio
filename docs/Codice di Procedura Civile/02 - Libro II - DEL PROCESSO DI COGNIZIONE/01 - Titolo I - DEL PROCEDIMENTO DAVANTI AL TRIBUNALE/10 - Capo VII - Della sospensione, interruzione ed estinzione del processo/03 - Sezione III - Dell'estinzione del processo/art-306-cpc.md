@@ -21,9 +21,13 @@ ordine: 344
 # Art. 306 - ***Rinuncia agli atti del giudizio***
 
 Il processo si estingue per rinuncia agli atti del giudizio quando questa è accettata dalle parti costituite che potrebbero aver interesse alla prosecuzione. L'accettazione non è efficace se contiene riserve o condizioni.
+{: data-comma="1" }
 
 Le dichiarazioni di rinuncia e di accettazione sono fatte dalle parti o da loro procuratori speciali, verbalmente all'udienza o con atti sottoscritti e notificati alle altre parti.
+{: data-comma="2" }
 
 Il giudice, se la rinuncia e l'accettazione sono regolari, dichiara l'estinzione del processo.
+{: data-comma="3" }
 
 Il rinunciante deve rimborsare le spese alle altre parti, salvo diverso accordo tra loro. La liquidazione delle spese è fatta dal giudice istruttore con ordinanza non impugnabile.
+{: data-comma="4" }

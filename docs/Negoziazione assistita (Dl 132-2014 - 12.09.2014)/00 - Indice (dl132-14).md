@@ -64,3 +64,10 @@ aliases:
 #### Capo VII - Disposizioni finali
 - [Art. 22](07%20-%20Capo%20VII%20-%20Disposizioni%20finali/art-22-dl132-14.md) — Disposizioni finanziarie
 - [Art. 23](07%20-%20Capo%20VII%20-%20Disposizioni%20finali/art-23-dl132-14.md) — Entrata in vigore
+
+## Allegati
+
+- [Allegato 1](08%20-%20Allegati/allegato-1-dl132-14.md)
+- [Allegato 2](08%20-%20Allegati/allegato-2-dl132-14.md)
+- [Allegato 3](08%20-%20Allegati/allegato-3-dl132-14.md)
+- [Allegato 3](08%20-%20Allegati/allegato-3-dl132-14-2.md)

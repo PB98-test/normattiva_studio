@@ -21,5 +21,7 @@ ordine: 1291
 # Art. 1189 - ***Pagamento al creditore apparente***
 
 Il debitore che esegue il pagamento a chi appare legittimato a riceverlo in base a circostanze univoche, è liberato se prova di essere stato in buona fede.
+{: data-comma="1" }
 
 Chi ha ricevuto il pagamento è tenuto alla restituzione verso il vero creditore, secondo le regole stabilite per la ripetizione dell'indebito.
+{: data-comma="2" }

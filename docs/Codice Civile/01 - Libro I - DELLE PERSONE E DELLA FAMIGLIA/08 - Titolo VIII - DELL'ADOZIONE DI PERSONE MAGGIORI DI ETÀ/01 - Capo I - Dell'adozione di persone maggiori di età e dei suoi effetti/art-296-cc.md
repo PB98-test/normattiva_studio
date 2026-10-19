@@ -21,7 +21,10 @@ ordine: 341
 # Art. 296 - ***Consenso per l'adozione***
 
 Per l'adozione si richiede il consenso dell'adottante e dell'adottando.
+{: data-comma="1" }
 
 COMMA ABROGATO DALLA L. 4 MAGGIO 1983, N. 184.
+{: data-comma="2" }
 
 COMMA ABROGATO DALLA L. 4 MAGGIO 1983, N. 184.
+{: data-comma="3" }

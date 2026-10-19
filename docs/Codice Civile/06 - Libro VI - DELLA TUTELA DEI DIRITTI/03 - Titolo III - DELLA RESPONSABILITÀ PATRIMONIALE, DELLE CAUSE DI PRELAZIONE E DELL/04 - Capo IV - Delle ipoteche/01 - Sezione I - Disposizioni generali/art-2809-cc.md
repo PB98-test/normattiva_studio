@@ -21,5 +21,7 @@ ordine: 3118
 # Art. 2809 - ***Specialità e indivisibilità dell'ipoteca***
 
 L'ipoteca deve essere iscritta su beni specialmente indicati e per una somma determinata in danaro.
+{: data-comma="1" }
 
 Essa è indivisibile e sussiste per intero sopra tutti i beni vincolati, sopra ciascuno di essi e sopra ogni loro parte.
+{: data-comma="2" }

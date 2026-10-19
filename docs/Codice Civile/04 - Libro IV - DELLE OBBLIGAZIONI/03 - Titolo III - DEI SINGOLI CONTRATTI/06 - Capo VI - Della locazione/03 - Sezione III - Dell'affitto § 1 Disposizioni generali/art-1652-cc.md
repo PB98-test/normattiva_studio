@@ -21,5 +21,7 @@ ordine: 1767
 # Art. 1652 - ***Anticipazioni all'affittuario***
 
 Qualora l'affittuario non possa provvedere altrimenti, il locatore è tenuto ad anticipargli le sementi e le materie fertilizzanti e antiparassitarie necessarie per la coltivazione del fondo.
+{: data-comma="1" }
 
 Il credito del locatore produce interessi in misura corrispondente al saggio legale.
+{: data-comma="2" }

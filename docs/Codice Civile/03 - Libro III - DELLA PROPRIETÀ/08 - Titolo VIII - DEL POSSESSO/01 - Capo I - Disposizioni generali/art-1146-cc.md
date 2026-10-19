@@ -21,5 +21,7 @@ ordine: 1247
 # Art. 1146 - ***Successione nel possesso. Accessione del possesso***
 
 Il possesso continua nell'erede con effetto dall'apertura della successione.
+{: data-comma="1" }
 
 Il successore a titolo particolare può unire al proprio possesso quello del suo autore per goderne gli effetti.
+{: data-comma="2" }

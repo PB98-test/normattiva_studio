@@ -21,5 +21,7 @@ ordine: 2321
 # Art. 2200 - ***Società***
 
 Sono soggette all'obbligo dell'iscrizione nel registro delle imprese le società costituite secondo uno dei tipi regolati nei capi III e seguenti del titolo V e le società cooperative, anche se non esercitano un'attività commerciale.
+{: data-comma="1" }
 
 L'iscrizione delle società nel registro delle imprese è regolata dalle disposizioni dei titoli V e VI.
+{: data-comma="2" }

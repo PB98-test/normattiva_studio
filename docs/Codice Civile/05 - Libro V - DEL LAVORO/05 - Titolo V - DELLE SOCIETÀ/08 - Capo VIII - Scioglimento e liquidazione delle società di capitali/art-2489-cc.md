@@ -21,5 +21,7 @@ ordine: 2721
 # Art. 2489 - ***Poteri, obblighi e responsabilità dei liquidatori***
 
 Salvo diversa disposizione statutaria, ovvero adottata in sede di nomina, i liquidatori hanno il potere di compiere tutti gli atti utili per la liquidazione della società.
+{: data-comma="1" }
 
 I liquidatori debbono adempiere i loro doveri con la professionalità e diligenza richieste dalla natura dell'incarico e la loro responsabilità per i danni derivanti dall'inosservanza di tali doveri è disciplinata secondo le norme in tema di responsabilità degli amministratori.
+{: data-comma="2" }

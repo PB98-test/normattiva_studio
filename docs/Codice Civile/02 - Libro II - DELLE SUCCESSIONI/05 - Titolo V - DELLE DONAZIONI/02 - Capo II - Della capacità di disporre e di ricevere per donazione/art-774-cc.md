@@ -21,5 +21,7 @@ ordine: 868
 # Art. 774 - ***Capacità di donare***
 
 Non possono fare donazione coloro che non hanno la piena capacità di disporre dei propri beni. È tuttavia valida la donazione fatta dal minore e dall'inabilitato nel loro contratto di matrimonio a norma degli [articoli 165](../../../01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/06%20-%20Titolo%20VI%20-%20DEL%20MATRIMONIO/06%20-%20Capo%20VI%20-%20Del%20regime%20patrimoniale%20della%20famiglia/01%20-%20Sezione%20I%20-%20Disposizioni%20generali/art-165-cc.md) e [166](../../../01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/06%20-%20Titolo%20VI%20-%20DEL%20MATRIMONIO/06%20-%20Capo%20VI%20-%20Del%20regime%20patrimoniale%20della%20famiglia/01%20-%20Sezione%20I%20-%20Disposizioni%20generali/art-166-cc.md).
+{: data-comma="1" }
 
 Le disposizioni precedenti si applicano anche al minore emancipato autorizzato all'esercizio di un'impresa commerciale.
+{: data-comma="2" }

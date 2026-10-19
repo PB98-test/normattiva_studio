@@ -21,7 +21,10 @@ ordine: 1180
 # Art. 1085 - ***Tempo d'esercizio della servitù***
 
 Il diritto alla presa d'acqua si esercita, per l'acqua estiva, dall'equinozio di primavera a quello d'autunno; per l'acqua iemale, dall'equinozio d'autunno a quello di primavera.
+{: data-comma="1" }
 
 La distribuzione d'acqua per giorni e per notti si riferisce al giorno e alla notte naturali.
+{: data-comma="2" }
 
 L'uso delle acque nei giorni festivi è regolato dalle feste di precetto vigenti al tempo in cui l'uso fu convenuto o in cui si è incominciato a possedere.
+{: data-comma="3" }

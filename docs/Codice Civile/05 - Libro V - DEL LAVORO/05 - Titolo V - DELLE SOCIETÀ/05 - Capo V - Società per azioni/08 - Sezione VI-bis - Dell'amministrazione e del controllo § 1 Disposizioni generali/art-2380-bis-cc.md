@@ -21,9 +21,13 @@ ordine: 2523
 # Art. 2380-bis - ***Amministrazione della società***
 
 La gestione e l'organizzazione dell'impresa, ivi compresa l'istituzione dell'assetto organizzativo, amministrativo e contabile, spettano esclusivamente agli amministratori, i quali compiono le operazioni strumentali all'attuazione dell'oggetto sociale.
+{: data-comma="1" }
 
 L'amministrazione della società può essere affidata anche a non soci.
+{: data-comma="2" }
 
 Quando affidata a più persone, l'amministrazione è esercitata collegialmente e gli amministratori si costituiscono in consiglio.
+{: data-comma="3" }
 
 Se lo statuto non stabilisce il numero degli amministratori, ma ne indica solamente un numero massimo e minimo, la determinazione spetta all'organo competente a nominarli.
+{: data-comma="4" }

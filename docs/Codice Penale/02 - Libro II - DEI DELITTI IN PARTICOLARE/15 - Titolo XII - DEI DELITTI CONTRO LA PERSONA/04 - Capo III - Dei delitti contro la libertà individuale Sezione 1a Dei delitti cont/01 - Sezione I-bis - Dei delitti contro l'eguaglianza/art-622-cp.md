@@ -21,7 +21,10 @@ ordine: 851
 # Art. 622 - ***Rivelazione di segreto professionale***
 
 Chiunque, avendo notizia, per ragione del proprio stato o ufficio, o della propria professione o arte, di un segreto, lo rivela, senza giusta causa, ovvero lo impiega a proprio o altrui profitto, è punito, se dal fatto può derivare nocumento, con la reclusione fino a un anno o con la multa da lire trecento a cinquemila.
+{: data-comma="1" }
 
 La pena è aggravata se il fatto è commesso da amministratori, direttori generali, dirigenti preposti alla redazione dei documenti contabili societari, sindaci o liquidatori o se è commesso da chi svolge la revisione contabile della società.
+{: data-comma="2" }
 
 Il delitto è punibile a querela della persona offesa.
+{: data-comma="3" }

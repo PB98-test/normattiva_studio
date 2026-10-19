@@ -21,5 +21,7 @@ ordine: 419
 # Art. 337-septies - ***Disposizioni in favore dei figli maggiorenni***
 
 Il giudice, valutate le circostanze, può disporre in favore dei figli maggiorenni non indipendenti economicamente il pagamento di un assegno periodico. Tale assegno, salvo diversa determinazione del giudice, è versato direttamente all'avente diritto.
+{: data-comma="1" }
 
 Ai figli maggiorenni portatori di handicap grave si applicano integralmente le disposizioni previste in favore dei figli minori.
+{: data-comma="2" }

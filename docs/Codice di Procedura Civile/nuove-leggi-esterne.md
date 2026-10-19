@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da Codice di Procedura Civile ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Codice di Procedura Civile — 101 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Codice di Procedura Civile — 97 leggi trovate)*
 
 - [legge 30 dicembre 1923, n. 2814](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-12-30;2814)
 - [art. 3 della legge 2 dicembre 1925, n. 2260](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-12-02;2260)
@@ -45,16 +45,13 @@ search:
 - [L. 12 novembre 2011, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011-11-12;183)
 - [regio decreto 18 dicembre 1941, n. 1368, nonchè l'articolo 196-duodecies](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regiodecreto:1941-12-18;1368)
 - [articoli 30](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967-01-05;200)
-- [D.L. 18 ottobre 2012, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2012-10-18;179)
 - [L. 17 dicembre 2012, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-17;221)
 - [art. 45-bis, comma 2, lettera b) del D.L. 24 giugno 2014, n. 90](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2014-06-24;90)
 - [L. 11 agosto 2014, n. 114](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-08-11;114)
 - [art. 4, comma terzo, della legge 20 novembre 1982, n. 890](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-11-20;890)
-- [articolo 3-bis, comma 1-bis, del codice dell'amministrazione digitale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2005-03-07;82)
 - [D.P.R. 29 settembre 1973, n. 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-09-29;600)
 - [D.L. 22 ottobre 2016, n. 193](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2016-10-22;193)
 - [L. 1 dicembre 2016, n. 225](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-01;225)
-- [decreto del Presidente della Repubblica 11 febbraio 2005, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2005-02-11;68)
 - [D.L. 30 giugno 2005, n. 115](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2005-06-30;115)
 - [L. 17 agosto 2005, n. 168](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-08-17;168)
 - [L. 29 dicembre 2011, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011-12-29;218)
@@ -105,6 +102,5 @@ search:
 - [L. 23 dicembre 1996, n. 649](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;649)
 - [D.L. 9 novembre 2020, n. 149](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2020-11-09;149)
 - [L. 18 dicembre 2020, n. 176](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-12-18;176)
-- [D.L. 28 ottobre 2020, n. 137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2020-10-28;137)
 - [decreto legislativo 19 gennaio 2017, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2017-01-19;3)
 - [legge 31 dicembre 2012, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-31;247)

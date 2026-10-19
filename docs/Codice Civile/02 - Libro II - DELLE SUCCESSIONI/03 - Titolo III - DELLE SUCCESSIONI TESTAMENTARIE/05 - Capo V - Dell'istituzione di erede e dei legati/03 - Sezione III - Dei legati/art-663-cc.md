@@ -21,5 +21,7 @@ ordine: 750
 # Art. 663 - ***Legato imposto a un solo erede***
 
 Se l'obbligo di adempiere il legato è stato particolarmente imposto a uno degli eredi, questi solo è tenuto a soddisfarlo.
+{: data-comma="1" }
 
 Se è stata legata una cosa propria di un coerede, i coeredi sono tenuti a compensarlo del valore di essa con danaro o con beni ereditari, in proporzione della loro quota ereditaria, quando non consta una contraria volontà del testatore.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 139
 # Art. 107 - ***Forma della celebrazione.***
 
 Nel giorno indicato dalle parti l'ufficiale dello stato civile, alla presenza di due testimoni, anche se parenti, dà lettura agli sposi degli [articoli 143](../../04%20-%20Capo%20IV%20-%20Dei%20diritti%20e%20dei%20doveri%20che%20nascono%20dal%20matrimonio/art-143-cc.md), [144](../../04%20-%20Capo%20IV%20-%20Dei%20diritti%20e%20dei%20doveri%20che%20nascono%20dal%20matrimonio/art-144-cc.md) e [147](../../04%20-%20Capo%20IV%20-%20Dei%20diritti%20e%20dei%20doveri%20che%20nascono%20dal%20matrimonio/art-147-cc.md); riceve da ciascuna delle parti personalmente, l'una dopo l'altra, la dichiarazione che esse si vogliono prendere rispettivamente in marito e in moglie, e di seguito dichiara che esse sono unite in matrimonio.
+{: data-comma="1" }
 
 L'atto di matrimonio deve essere compilato immediatamente dopo la celebrazione.
+{: data-comma="2" }

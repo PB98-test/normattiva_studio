@@ -21,7 +21,10 @@ ordine: 288
 # Art. 243-bis - ***Disconoscimento di paternità***
 
 L'azione di disconoscimento di paternità del figlio nato nel matrimonio può essere esercitata dal marito, dalla madre e dal figlio medesimo.
+{: data-comma="1" }
 
 Chi esercita l'azione è ammesso a provare che non sussiste rapporto di filiazione tra il figlio e il presunto padre.
+{: data-comma="2" }
 
 La sola dichiarazione della madre non esclude la paternità.
+{: data-comma="3" }

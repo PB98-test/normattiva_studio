@@ -21,7 +21,10 @@ ordine: 2010
 # Art. 1889 - ***Polizze all'ordine e al portatore***
 
 Se la polizza di assicurazione è all'ordine o al portatore, il suo trasferimento importa trasferimento del credito verso l'assicuratore, con gli effetti della cessione.
+{: data-comma="1" }
 
 Tuttavia l'assicuratore è liberato se senza dolo o colpa grave adempie la prestazione nei confronti del giratario o del portatore della polizza, anche se questi non è l'assicurato.
+{: data-comma="2" }
 
 In caso di smarrimento, furto o distruzione della polizza all'ordine, si applicano le disposizioni relative all'ammortamento dei titoli all'ordine.
+{: data-comma="3" }

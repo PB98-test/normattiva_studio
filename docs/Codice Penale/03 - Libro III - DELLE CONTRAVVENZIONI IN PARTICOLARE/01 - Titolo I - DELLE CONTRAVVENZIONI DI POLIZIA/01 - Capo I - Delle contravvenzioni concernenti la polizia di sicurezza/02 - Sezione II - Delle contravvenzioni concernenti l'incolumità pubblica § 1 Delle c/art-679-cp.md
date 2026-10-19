@@ -21,7 +21,10 @@ ordine: 937
 # Art. 679 - ***Omessa denuncia di materie esplodenti***
 
 Chiunque omette di denunciare all'Autorità che egli detiene materie esplodenti di qualsiasi specie, ovvero materie infiammabili, pericolose per la loro qualità o quantità, è punito con l'arresto fino a quattro mesi o con l'ammenda fino a lire tremila.
+{: data-comma="1" }
 
 Soggiace all'ammenda fino a lire duemila chiunque, avendo notizia che in un luogo da lui abitato si trovano materie esplodenti, omette di farne denuncia all'Autorità.
+{: data-comma="2" }
 
 Nel caso di trasgressione all'ordine, legalmente dato dall'Autorità, di consegnare, nei termini prescritti, le materie esplodenti, la pena è dell'arresto da un mese ad un anno o dell'ammenda da lire trecento a cinquemila.
+{: data-comma="3" }

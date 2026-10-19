@@ -21,6 +21,7 @@ ordine: 2316
 # Art. 2195 - ***Imprenditori soggetti a registrazione***
 
 Sono soggetti all'obbligo dell'iscrizione nel registro delle imprese gli imprenditori che esercitano:
+{: data-comma="1" }
 
 - 1) un'attività industriale diretta alla produzione di beni o di servizi;
 - 2) un'attività intermediaria nella circolazione dei beni;
@@ -29,3 +30,4 @@ Sono soggetti all'obbligo dell'iscrizione nel registro delle imprese gli imprend
 - 5) altre attività ausiliarie delle precedenti.
 
 Le disposizioni della legge che fanno riferimento alle attività e alle imprese commerciali si applicano, se non risulta diversamente, a tutte le attività indicate in questo articolo e alle imprese che le esercitano.
+{: data-comma="2" }

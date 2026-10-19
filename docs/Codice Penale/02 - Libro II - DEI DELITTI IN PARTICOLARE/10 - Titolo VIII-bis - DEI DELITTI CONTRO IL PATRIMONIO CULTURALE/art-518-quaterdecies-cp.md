@@ -21,6 +21,7 @@ ordine: 666
 # Art. 518-quaterdecies - ***Contraffazione di opere d'arte***
 
 È punito con la reclusione da uno a cinque anni e con la multa da euro 3.000 a euro 10.000:
+{: data-comma="1" }
 
 - 1) chiunque, al fine di trarne profitto, contraffà, altera o riproduce un'opera di pittura, scultura o grafica ovvero un oggetto di antichità o di interesse storico o archeologico;
 - 2) chiunque, anche senza aver concorso nella contraffazione, alterazione o riproduzione, pone in commercio, detiene per farne commercio, introduce a questo fine nel territorio dello Stato o comunque pone in circolazione, come autentici, esemplari contraffatti, alterati o riprodotti di opere di pittura, scultura o grafica, di oggetti di antichità o di oggetti di interesse storico o archeologico;
@@ -28,3 +29,4 @@ ordine: 666
 - 4) chiunque, mediante altre dichiarazioni, perizie, pubblicazioni, apposizione di timbri o etichette o con qualsiasi altro mezzo, accredita o contribuisce ad accreditare, conoscendone la falsità, come autentici opere od oggetti indicati ai numeri 1) e 2) contraffatti, alterati o riprodotti.
 
 È sempre ordinata la confisca degli esemplari contraffatti, alterati o riprodotti delle opere o degli oggetti indicati nel primo comma, salvo che si tratti di cose appartenenti a persone estranee al reato. Delle cose confiscate è vietata, senza limiti di tempo, la vendita nelle aste dei corpi di reato.
+{: data-comma="2" }

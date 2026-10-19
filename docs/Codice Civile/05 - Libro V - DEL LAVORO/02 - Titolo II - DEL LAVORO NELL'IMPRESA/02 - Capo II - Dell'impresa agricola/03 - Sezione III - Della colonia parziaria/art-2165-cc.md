@@ -21,5 +21,7 @@ ordine: 2286
 # Art. 2165 - ***Durata***
 
 La colonia parziaria è contratta per il tempo necessario affinchè il colono possa svolgere e portare a compimento un ciclo normale di rotazione delle colture praticate nel fondo.
+{: data-comma="1" }
 
 Se non si fa luogo a rotazione di colture, la colonia non può avere una durata inferiore a due anni.
+{: data-comma="2" }

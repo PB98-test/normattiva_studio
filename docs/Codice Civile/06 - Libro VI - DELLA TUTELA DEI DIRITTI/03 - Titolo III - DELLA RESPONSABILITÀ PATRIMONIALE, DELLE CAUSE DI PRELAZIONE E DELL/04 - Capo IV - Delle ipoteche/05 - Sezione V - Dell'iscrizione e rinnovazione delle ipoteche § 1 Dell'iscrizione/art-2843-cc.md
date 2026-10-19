@@ -21,7 +21,10 @@ ordine: 3153
 # Art. 2843 - ***Annotazione di cessione, di surrogazione e di altri atti dispositivi del credito***
 
 La trasmissione o il vincolo dell'ipoteca per cessione, surrogazione, pegno, postergazione di grado o costituzione in dote del credito ipotecario, nonchè per sequestro, pignoramento o assegnazione del credito medesimo si deve annotare in margine all'iscrizione dell'ipoteca.
+{: data-comma="1" }
 
 La trasmissione o il vincolo dell'ipoteca non ha effetto finchè l'annotazione non sia stata eseguita. Dopo l'annotazione l'iscrizione non si può cancellare senza il consenso dei titolari dei diritti indicati nell'annotazione medesima e le intimazioni o notificazioni che occorrono in dipendenza dell'iscrizione devono essere loro fatte nel domicilio eletto.
+{: data-comma="2" }
 
 Per l'annotazione deve essere consegnata al conservatore copia del titolo e, qualora questo sia una scrittura privata o un atto formato in paese estero, si applicano le disposizioni degli [articoli 2835](art-2835-cc.md) e [2837](art-2837-cc.md).
+{: data-comma="3" }

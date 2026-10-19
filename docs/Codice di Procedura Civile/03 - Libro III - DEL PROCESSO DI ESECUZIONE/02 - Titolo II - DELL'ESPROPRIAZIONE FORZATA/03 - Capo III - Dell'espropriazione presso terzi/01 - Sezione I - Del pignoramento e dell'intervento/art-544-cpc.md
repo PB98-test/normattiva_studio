@@ -21,5 +21,7 @@ ordine: 687
 # Art. 544 - ***Pegno o ipoteca a garanzia del credito pignorato***
 
 Se il credito pignorato è garantito da pegno, s'intima a chi detiene la cosa data in pegno di non eseguirne la riconsegna senza ordine di giudice.
+{: data-comma="1" }
 
 Se il credito pignorato è garantito da ipoteca, l'atto di pignoramento deve essere annotato nei libri fondiari.
+{: data-comma="2" }

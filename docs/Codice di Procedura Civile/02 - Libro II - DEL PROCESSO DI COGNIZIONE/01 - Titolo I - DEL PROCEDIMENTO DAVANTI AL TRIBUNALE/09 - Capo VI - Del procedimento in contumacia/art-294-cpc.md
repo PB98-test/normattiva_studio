@@ -21,9 +21,13 @@ ordine: 332
 # Art. 294 - ***Rimessione in termini***
 
 Il contumace che si costituisce può chiedere al giudice istruttore di essere ammesso a compiere attività che gli sarebbero precluse, se dimostra che la nullità della citazione o della sua notificazione gli ha impedito di avere conoscenza del processo o che la costituzione è stata impedita da causa a lui non imputabile.
+{: data-comma="1" }
 
 Il giudice, se ritiene verosimili i fatti allegati, ammette, quando occorre, la prova dell'impedimento, e quindi provvede sulla rimessione in termini delle parti.
+{: data-comma="2" }
 
 I provvedimenti previsti nel comma precedente sono pronunciati con ordinanza.
+{: data-comma="3" }
 
 Le disposizioni dei commi precedenti si applicano anche se il contumace che si costituisce intende svolgere, senza il consenso delle altre parti, attività difensive che producono ritardo nella rimessione al collegio della causa che sia già matura per la decisione rispetto alle parti già costituite.
+{: data-comma="4" }

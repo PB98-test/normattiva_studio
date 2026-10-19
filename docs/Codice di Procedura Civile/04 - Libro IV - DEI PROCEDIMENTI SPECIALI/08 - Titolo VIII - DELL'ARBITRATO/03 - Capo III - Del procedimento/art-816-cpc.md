@@ -21,7 +21,10 @@ ordine: 999
 # Art. 816 - ***Sede dell'arbitrato***
 
 Le parti determinano la sede dell'arbitrato nel territorio della Repubblica; altrimenti provvedono gli arbitri.
+{: data-comma="1" }
 
 Se le parti e gli arbitri non hanno determinato la sede dell'arbitrato, questa è nel luogo in cui è stata stipulata la convenzione di arbitrato. Se tale luogo non si trova nel territorio nazionale, la sede è a Roma.
+{: data-comma="2" }
 
 Se la convenzione d'arbitrato non dispone diversamente, gli arbitri possono tenere udienza, compiere atti istruttori, deliberare ed apporre le loro sottoscrizioni al lodo anche in luoghi diversi dalla sede dell'arbitrato ed anche all'estero.
+{: data-comma="3" }

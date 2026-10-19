@@ -21,7 +21,10 @@ ordine: 1832
 # Art. 1716 - ***Pluralità di mandatari***
 
 Salvo patto contrario, il mandato conferito a più persone designate a operare congiuntamente non ha effetto, se non è accettato da tutte.
+{: data-comma="1" }
 
 Se nel mandato non è dichiarato che i mandatari devono agire congiuntamente, ciascuno di essi può concludere l'affare. In questo caso il mandante, appena avvertito della conclusione, deve darne notizia agli altri mandatari; in mancanza è tenuto a risarcire i danni derivanti dall'omissione o dal ritardo.
+{: data-comma="2" }
 
 Se più mandatari hanno comunque operato congiuntamente, essi sono obbligati in solido vero il mandante.
+{: data-comma="3" }

@@ -21,7 +21,10 @@ ordine: 906
 # Art. 812 - ***Distinzione dei beni***
 
 Sono beni immobili il suolo, le sorgenti e i corsi d'acqua, gli alberi, gli edifici e le altre costruzioni, anche se unite al suolo a scopo transitorio, e in genere tutto ciò che naturalmente o artificialmente è incorporato al suolo.
+{: data-comma="1" }
 
 Sono reputati immobili i mulini, i bagni e gli altri edifici galleggianti quando sono saldamente assicurati alla riva o all'alveo o sono destinati ad esserlo in modo permanente per la loro utilizzazione.
+{: data-comma="2" }
 
 Sono mobili tutti gli altri beni.
+{: data-comma="3" }

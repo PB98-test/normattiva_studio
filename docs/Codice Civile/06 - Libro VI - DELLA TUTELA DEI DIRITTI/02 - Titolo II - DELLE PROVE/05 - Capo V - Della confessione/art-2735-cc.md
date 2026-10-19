@@ -21,5 +21,7 @@ ordine: 3040
 # Art. 2735 - ***Confessione stragiudiziale***
 
 La confessione stragiudiziale fatta alla parte o a chi la rappresenta ha la stessa efficacia probatoria di quella giudiziale. Se è fatta a un terzo o se è contenuta in un testamento, è liberamente apprezzata dal giudice.
+{: data-comma="1" }
 
 La confessione stragiudiziale non può provarsi per testimoni, se verte su un oggetto per il quale la prova testimoniale non è ammessa dalla legge.
+{: data-comma="2" }

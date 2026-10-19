@@ -21,7 +21,10 @@ ordine: 975
 # Art. 881 - ***Presunzione di proprietà esclusiva del muro divisorio***
 
 Si presume che il muro divisorio tra i campi, cortili, giardini od orti appartenga al proprietario del fondo verso il quale esiste il piovente e in ragione del piovente medesimo.
+{: data-comma="1" }
 
 Se esistono sporti, come cornicioni, mensole e simili, o vani che si addentrano oltre la metà della grossezza del muro, e gli uni e gli altri risultano costruiti col muro stesso, si presume che questo spetti al proprietario dalla cui parte gli sporti o i vani si presentano, anche se vi sia soltanto qualcuno di tali segni.
+{: data-comma="2" }
 
 Se uno o più di essi sono da una parte, e uno o più dalla parte opposta, il muro è reputato comune: in ogni caso la positura del piovente prevale su tutti gli altri indizi.
+{: data-comma="3" }

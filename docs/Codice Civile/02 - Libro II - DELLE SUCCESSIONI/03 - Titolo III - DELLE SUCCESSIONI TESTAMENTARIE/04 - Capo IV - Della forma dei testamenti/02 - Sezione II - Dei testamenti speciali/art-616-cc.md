@@ -21,9 +21,13 @@ ordine: 703
 # Art. 616 - ***Testamento a bordo di aeromobile***
 
 Al testamento fatto a bordo di un aeromobile durante il viaggio si applicano le disposizioni degli [articoli 611](art-611-cc.md) a 615.
+{: data-comma="1" }
 
 Il testamento è ricevuto dal comandante, in presenza di uno o, quando è possibile, di due testimoni.
+{: data-comma="2" }
 
 Le attribuzioni delle autorità marittime a norma degli [articoli 613](art-613-cc.md) e [614](art-614-cc.md) spettano alle autorità aeronautiche.
+{: data-comma="3" }
 
 Il testamento è annotato sul giornale di rotta.
+{: data-comma="4" }

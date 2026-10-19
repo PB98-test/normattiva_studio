@@ -21,5 +21,7 @@ ordine: 3217
 # Art. 2907 - ***Attività giurisdizionale***
 
 Alla tutela giurisdizionale dei diritti provvede l'autorità giudiziaria su domanda di parte e, quando la legge lo dispone, anche su istanza del pubblico ministero o d'ufficio.
+{: data-comma="1" }
 
 La tutela giurisdizionale dei diritti, nell'interesse delle categorie professionali, è attuata su domanda delle associazioni legalmente riconosciute, nei casi determinati dalla legge e con le forme da questa stabilite.
+{: data-comma="2" }

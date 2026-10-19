@@ -21,7 +21,10 @@ ordine: 1027
 # Art. 932 - ***Tesoro***
 
 Tesoro è qualunque cosa mobile di pregio, nascosta o sotterrata, di cui nessuno può provare d'essere proprietario.
+{: data-comma="1" }
 
 Il tesoro appartiene al proprietario del fondo in cui si trova. Se il tesoro è trovato nel fondo altrui, purchè sia stato scoperto per solo effetto del caso, spetta per metà al proprietario del fondo e per metà al ritrovatore. La stessa disposizione si applica se il tesoro è scoperto in una cosa mobile altrui.
+{: data-comma="2" }
 
 Per il ritrovamento degli oggetti d'interesse storico, archeologico, paletnologico, paleontologico e artistico si osservano le disposizioni delle leggi speciali.
+{: data-comma="3" }

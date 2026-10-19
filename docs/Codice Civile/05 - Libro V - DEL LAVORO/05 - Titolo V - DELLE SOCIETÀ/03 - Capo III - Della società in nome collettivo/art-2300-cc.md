@@ -21,7 +21,10 @@ ordine: 2422
 # Art. 2300 - ***Modificazioni dell'atto costitutivo***
 
 Gli amministratori devono richiedere nel termine di trenta giorni all'ufficio del registro delle imprese l'iscrizione delle modificazioni dell'atto costitutivo e degli altri fatti relativi alla società, dei quali è obbligatoria l'iscrizione.
+{: data-comma="1" }
 
 Se la modificazione dell'atto costitutivo risulta da deliberazione dei soci, questa deve essere depositata in copia autentica.
+{: data-comma="2" }
 
 Le modificazioni dell'atto costitutivo, finchè non sono iscritte, non sono opponibili ai terzi, a meno che si provi che questi ne erano a conoscenza.
+{: data-comma="3" }

@@ -21,5 +21,7 @@ ordine: 2400
 # Art. 2278 - ***Poteri dei liquidatori***
 
 I liquidatori possono compiere gli atti necessari per la liquidazione e, se i soci non hanno disposto diversamente, possono vendere anche in blocco i beni sociali e fare transazioni e compromessi.
+{: data-comma="1" }
 
 Essi rappresentano la società anche in giudizio.
+{: data-comma="2" }

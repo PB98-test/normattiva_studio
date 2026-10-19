@@ -21,7 +21,10 @@ ordine: 2222
 # Art. 2101 - ***Tariffe di cottimo***
 
 Le norme corporative possono stabilire che le tariffe di cottimo non divengano definitive se non dopo un periodo di esperimento.
+{: data-comma="1" }
 
 Le tariffe possono essere sostituite o modificate soltanto se intervengono mutamenti nelle condizioni di esecuzione del lavoro, e in ragione degli stessi. In questo caso la sostituzione o la variazione della tariffa non diviene definitiva se non dopo il periodo di esperimento stabilito dalle norme corporative.
+{: data-comma="2" }
 
 L'imprenditore deve comunicare preventivamente ai prestatori di lavoro i dati riguardanti gli elementi costitutivi della tariffa di cottimo, le lavorazioni da eseguirsi e il relativo compenso unitario. Deve altresì comunicare i dati relativi alla quantità di lavoro eseguita e al tempo impiegato.
+{: data-comma="3" }

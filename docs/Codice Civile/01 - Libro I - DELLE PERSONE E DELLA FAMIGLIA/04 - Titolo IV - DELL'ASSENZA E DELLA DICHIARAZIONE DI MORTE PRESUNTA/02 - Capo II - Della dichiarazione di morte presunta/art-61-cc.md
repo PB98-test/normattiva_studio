@@ -21,5 +21,7 @@ ordine: 93
 # Art. 61 - ***Data della morte presunta***
 
 Nei casi previsti dai numeri 1 e 3 dell'articolo precedente, la sentenza determina il giorno e possibilmente l'ora a cui risale la scomparsa nell'operazione bellica o nell'infortunio, e nel caso indicato dal n. 2 il giorno a cui risale l'ultima notizia.
+{: data-comma="1" }
 
 Qualora non possa determinarsi l'ora, la morte presunta si ha per avvenuta alla fine del giorno indicato.
+{: data-comma="2" }

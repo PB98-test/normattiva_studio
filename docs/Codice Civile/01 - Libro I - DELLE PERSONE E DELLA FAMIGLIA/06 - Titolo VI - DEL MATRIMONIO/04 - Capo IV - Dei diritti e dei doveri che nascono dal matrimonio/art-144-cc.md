@@ -21,5 +21,7 @@ ordine: 179
 # Art. 144 - ***Indirizzo della vita familiare e residenza della famiglia.***
 
 I coniugi concordano tra loro l'indirizzo della vita familiare e fissano la residenza della famiglia secondo le esigenze di entrambi e quelle preminenti della famiglia stessa.
+{: data-comma="1" }
 
 A ciascuno dei coniugi spetta il potere di attuare l'indirizzo concordato.
+{: data-comma="2" }

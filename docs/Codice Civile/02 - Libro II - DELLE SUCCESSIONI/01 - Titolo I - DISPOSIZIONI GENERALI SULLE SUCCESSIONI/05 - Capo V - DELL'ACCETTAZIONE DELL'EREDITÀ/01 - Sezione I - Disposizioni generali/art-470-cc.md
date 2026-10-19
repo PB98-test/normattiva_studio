@@ -21,5 +21,7 @@ ordine: 557
 # Art. 470 - ***Accettazione pura e semplice e accettazione col beneficio d'inventario***
 
 L'eredità può essere accettata puramente e semplicemente o col beneficio d'inventario.
+{: data-comma="1" }
 
 L'accettazione col beneficio d'inventario può farsi nonostante qualunque divieto del testatore.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 286
 # Art. 262 - ***Poteri del giudice istruttore***
 
 Nel corso dell'ispezione o dell'esperimento il giudice istruttore può sentire testimoni per informazioni e dare i provvedimenti necessari per l'esibizione della cosa o per accedere alla località.
+{: data-comma="1" }
 
 Può anche disporre l'accesso in luoghi appartenenti a persone estranee al processo, sentite se è possibile queste ultime, e prendendo in ogni caso le cautele necessarie alla tutela dei loro interessi.
+{: data-comma="2" }

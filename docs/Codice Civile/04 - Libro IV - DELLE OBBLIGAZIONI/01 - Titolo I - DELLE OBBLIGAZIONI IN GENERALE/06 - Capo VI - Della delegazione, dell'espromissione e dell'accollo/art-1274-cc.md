@@ -21,7 +21,10 @@ ordine: 1376
 # Art. 1274 - ***Insolvenza del nuovo debitore***
 
 Il creditore che, in seguito a delegazione, ha liberato il debitore originario, non ha azione contro di lui se il delegato diviene insolvente, salvo che ne abbia fatto espressa riserva.
+{: data-comma="1" }
 
 Tuttavia, se il delegato era insolvente al tempo in cui assunse il debito in confronto del creditore, il debitore originario non è liberato.
+{: data-comma="2" }
 
 Le medesime disposizioni si osservano quando il creditore ha aderito all'accollo stipulato a suo favore e la liberazione del debitore originario era condizione espressa della stipulazione.
+{: data-comma="3" }

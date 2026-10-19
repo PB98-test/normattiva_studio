@@ -21,7 +21,10 @@ ordine: 3117
 # Art. 2808 - ***Costituzione ed effetti dell'ipoteca***
 
 L'ipoteca attribuisce al creditore il diritto di espropriare, anche in confronto del terzo acquirente, i beni vincolati a garanzia del suo credito e di essere soddisfatto con preferenza sul prezzo ricavato dall'espropriazione.
+{: data-comma="1" }
 
 L'ipoteca può avere per oggetto beni del debitore o di un terzo e si costituisce mediante iscrizione nei registri immobiliari.
+{: data-comma="2" }
 
 L'ipoteca è legale, giudiziale o volontaria.
+{: data-comma="3" }

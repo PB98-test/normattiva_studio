@@ -21,5 +21,7 @@ ordine: 222
 # Art. 201 - ***Misure di sicurezza per fatti commessi all'estero***
 
 Quando, per un fatto commesso all'estero, si procede o si rinnova il giudizio nello Stato, è applicabile la legge italiana anche riguardo alle misure di sicurezza.
+{: data-comma="1" }
 
 Nel caso indicato nell'[articolo 12](../../../01%20-%20Titolo%20I%20-%20DELLA%20LEGGE%20PENALE/art-12-cp.md), numero 3°, l'applicazione delle misure di sicurezza stabilite dalla legge italiana è sempre subordinata all'accertamento che la persona sia socialmente pericolosa.
+{: data-comma="2" }

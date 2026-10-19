@@ -21,5 +21,7 @@ ordine: 1652
 # Art. 1537 - ***Vendita a misura***
 
 Quando un determinato immobile è venduto con l'indicazione della sua misura e per un prezzo stabilito in ragione di un tanto per ogni unità di misura, il compratore ha diritto a una riduzione, se la misura effettiva dell'immobile è inferiore a quella indicata nel contratto.
+{: data-comma="1" }
 
 Se la misura risulta superiore a quella indicata nel contratto, il compratore deve corrispondere il supplemento del prezzo, ma ha facoltà di recedere dal contratto qualora l'eccedenza oltrepassi la ventesima parte della misura dichiarata.
+{: data-comma="2" }

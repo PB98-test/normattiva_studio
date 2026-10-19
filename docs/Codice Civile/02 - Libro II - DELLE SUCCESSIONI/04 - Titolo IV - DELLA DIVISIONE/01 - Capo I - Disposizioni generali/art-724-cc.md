@@ -21,5 +21,7 @@ ordine: 811
 # Art. 724 - ***Collazione e imputazione***
 
 I coeredi tenuti a collazione, a norma del capo II di questo titolo, conferiscono tutto ciò che è stato loro donato.
+{: data-comma="1" }
 
 Ciascun erede deve imputare alla sua quota le somme di cui era debitore verso il defunto e quelle di cui è debitore verso i coeredi in dipendenza dei rapporti di comunione.
+{: data-comma="2" }

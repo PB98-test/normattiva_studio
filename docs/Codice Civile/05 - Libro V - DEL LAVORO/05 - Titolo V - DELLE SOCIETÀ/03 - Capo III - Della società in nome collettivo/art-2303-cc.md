@@ -21,5 +21,7 @@ ordine: 2425
 # Art. 2303 - ***Limiti alla distribuzione degli utili***
 
 Non può farsi luogo a ripartizione di somme tra soci se non per utili realmente conseguiti.
+{: data-comma="1" }
 
 Se si verifica una perdita del capitale sociale, non può farsi luogo a ripartizione di utili fino a che il capitale non sia reintegrato o ridotto in misura corrispondente.
+{: data-comma="2" }

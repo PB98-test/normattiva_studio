@@ -14,7 +14,7 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Patente a punti"
-dataVigenza: "20260914"
+dataVigenza: "20261016"
 ordine: 136
 ---
 
@@ -34,20 +34,20 @@ ordine: 136
 
 6\. Alla perdita totale del punteggio, il titolare della patente deve sottoporsi all'esame di idoneità tecnica di cui all'[articolo 128](art-128-dlgs285-92.md). Al medesimo esame deve sottoporsi il titolare della patente che, dopo la notifica della prima violazione che comporti una perdita di almeno cinque punti, commetta altre due violazioni non contestuali, nell'arco di dodici mesi dalla data della prima violazione, che comportino ciascuna la decurtazione di almeno cinque punti. Nelle ipotesi di cui ai periodi precedenti, l'ufficio del Dipartimento per i trasporti terrestri competente per territorio, su comunicazione dell'anagrafe nazionale degli abilitati alla guida, dispone la revisione della patente di guida. PERIODO SOPPRESSO DALLA L. 29 LUGLIO 2010, N. 120. Qualora il titolare della patente non si sottoponga ai predetti accertamenti entro trenta giorni dalla notifica del provvedimento di revisione, la patente di guida è sospesa a tempo indeterminato, con atto definitivo, dal competente ufficio del Dipartimento per i trasporti terrestri. Il provvedimento di sospensione è notificato al titolare della patente a cura degli organi di polizia stradale di cui all'[articolo 12](../01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-12-dlgs285-92.md), che provvedono al ritiro ed alla conservazione del documento.
 
-6-bis. Per le violazioni penali per le quali è prevista una diminuzione di punti riferiti alla patente di guida, il cancelliere del giudice che ha pronunciato la sentenza o il decreto divenuti irrevocabili ai sensi dell'[articolo 648 del codice di procedura penale](../../Codice%20di%20Procedura%20Penale/10%20-%20Libro%20X%20-%20ESECUZIONE/01%20-%20Titolo%20I%20-%20GIUDICATO/art-648-cpp.md), nel termine di quindici giorni, ne trasmette copia autentica all'organo accertatore, che entro, trenta giorni dal ricevimento ne dà notizia all'anagrafe nazionale degli abilitati alla guida.
+6-bis. Per le violazioni penali per le quali è prevista una diminuzione di punti riferiti alla patente di guida, il cancelliere del giudice che ha pronunciato la sentenza o il decreto divenuti irrevocabili ai sensi dell'[articolo 648 del codice di procedura penale](../../Codice%20di%20Procedura%20Penale/02%20-%20Parte%20II/06%20-%20Libro%20X%20-%20ESECUZIONE/01%20-%20Titolo%20I%20-%20GIUDICATO/art-648-cpp.md), nel termine di quindici giorni, ne trasmette copia autentica all'organo accertatore, che entro, trenta giorni dal ricevimento ne dà notizia all'anagrafe nazionale degli abilitati alla guida.
 
 [^agg-66]: *AGGIORNAMENTO (66)* La Corte Costituzionale, con sentenza 12-24 gennaio 2005, n. 27 (in G.U. 1a s.s. 26/01/2005, n. 4) ha dichiarato l'illegittimità costituzionale dell'[art. 126-bis](art-126-bis-dlgs285-92.md), comma 2 "nel testo risultante all'esito della modifica apportata dall'art. 7, comma 3, lettera b), del decreto-legge 27 giugno 2003, n. 151 (Modifiche ed integrazioni al [codice della strada](../00%20-%20Indice%20%28dlgs285-92%29.md)), convertito, con modificazioni, nella legge 1° agosto 2003, n. 214, nella parte in cui dispone che: «nel caso di mancata identificazione di questi, la segnalazione deve essere effettuata a carico del proprietario del veicolo, salvo che lo stesso non comunichi, entro trenta giorni dalla richiesta, all'organo di polizia che procede, i dati personali e della patente del conducente al momento della commessa violazione», anzichè «nel caso di mancata identificazione di questi, il proprietario del veicolo, entro trenta giorni dalla richiesta, deve fornire, all'organo di polizia che procede, i dati personali e della patente del conducente al momento della commessa violazione»".
 
-[^agg-89]: *AGGIORNAMENTO (89)* Il Decreto 17 dicembre 2008 (in G.U. 30/12/2008, n. 303) ha disposto (con l'[art. 1](../01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-1-dlgs285-92.md), comma 2) che la presente modifica avrà effetto a decorrere dal 1 gennaio 2009.
+[^agg-89]: *AGGIORNAMENTO (89)* Il Decreto 17 dicembre 2008 (in G.U. 30/12/2008, n. 303) ha disposto (con l'art. 1, comma 2) che la presente modifica avrà effetto a decorrere dal 1 gennaio 2009.
 
-[^agg-101]: *AGGIORNAMENTO (101)* Il Decreto 22 dicembre 2010 (in G.U. 31/12/2010, n. 305) ha disposto (con l'[art. 1](../01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-1-dlgs285-92.md), comma 2) che la presente modifica avrà effetto a decorrere dal 1 gennaio 2011.
+[^agg-101]: *AGGIORNAMENTO (101)* Il Decreto 22 dicembre 2010 (in G.U. 31/12/2010, n. 305) ha disposto (con l'art. 1, comma 2) che la presente modifica avrà effetto a decorrere dal 1 gennaio 2011.
 
-[^agg-114]: *AGGIORNAMENTO (114)* Il Decreto 19 dicembre 2012 (in G.U. 31/12/2012, n. 303) ha disposto (con l'[art. 1](../01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-1-dlgs285-92.md), comma 2) che la presente modifica avrà effetto a decorrere dal 1 gennaio 2013.
+[^agg-114]: *AGGIORNAMENTO (114)* Il Decreto 19 dicembre 2012 (in G.U. 31/12/2012, n. 303) ha disposto (con l'art. 1, comma 2) che la presente modifica avrà effetto a decorrere dal 1 gennaio 2013.
 
-[^agg-124]: *AGGIORNAMENTO (124)* Il Decreto 19 dicembre 2014 (in G.U. 31/12/2012, n. 303) ha disposto (con l'[art. 1](../01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-1-dlgs285-92.md), comma 2) che la presente modifica avrà effetto a decorrere dal 1 gennaio 2013.
+[^agg-124]: *AGGIORNAMENTO (124)* Il Decreto 19 dicembre 2014 (in G.U. 31/12/2012, n. 303) ha disposto (con l'art. 1, comma 2) che la presente modifica avrà effetto a decorrere dal 1 gennaio 2013.
 
-[^agg-133]: *AGGIORNAMENTO (133)* Il Decreto 20 dicembre 2016 (in G.U. 30/12/2016, n. 304) ha disposto (con l'[art. 1](../01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-1-dlgs285-92.md), comma 1) che la presente modifica avrà effetto a decorrere dal 1 gennaio 2017.
+[^agg-133]: *AGGIORNAMENTO (133)* Il Decreto 20 dicembre 2016 (in G.U. 30/12/2016, n. 304) ha disposto (con l'art. 1, comma 1) che la presente modifica avrà effetto a decorrere dal 1 gennaio 2017.
 
-[^agg-145]: *AGGIORNAMENTO (145)* Il Decreto 27 dicembre 2018 (in G.U. 29/12/2018, n. 301) ha disposto (con l'[art. 3](../01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-3-dlgs285-92.md), comma 1) che la presente modifica avrà effetto a decorrere dal 1° gennaio 2019.
+[^agg-145]: *AGGIORNAMENTO (145)* Il Decreto 27 dicembre 2018 (in G.U. 29/12/2018, n. 301) ha disposto (con l'art. 3, comma 1) che la presente modifica avrà effetto a decorrere dal 1° gennaio 2019.
 
-[^agg-163]: *AGGIORNAMENTO (163)* Il Decreto 31 dicembre 2020 (in G.U. 31/12/2020, n. 323) ha disposto (con l'[art. 3](../01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-3-dlgs285-92.md), comma 1) che la presente modifica avrà effetto a decorrere dal 1° gennaio 2021.
+[^agg-163]: *AGGIORNAMENTO (163)* Il Decreto 31 dicembre 2020 (in G.U. 31/12/2020, n. 323) ha disposto (con l'art. 3, comma 1) che la presente modifica avrà effetto a decorrere dal 1° gennaio 2021.

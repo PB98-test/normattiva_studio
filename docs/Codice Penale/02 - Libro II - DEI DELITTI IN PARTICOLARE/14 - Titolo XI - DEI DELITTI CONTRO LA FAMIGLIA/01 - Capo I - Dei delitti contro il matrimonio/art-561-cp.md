@@ -21,9 +21,12 @@ ordine: 721
 # Art. 561 - ***Casi di non punibilità. Circostanza attenuante***
 
 Nel caso preveduto dall'[articolo 559](art-559-cp.md), non è punibile la moglie quando il marito l'abbia indotta o eccitata alla prostituzione ovvero abbia comunque tratto vantaggio dalla prostituzione di lei.
+{: data-comma="1" }
 
 Nei casi preveduti dai due articoli precedenti non è punibile il coniuge legalmente separato per colpa dell'altro coniuge, ovvero da questo ingiustamente abbandonato.
+{: data-comma="2" }
 
 Se il fatto è commesso dal coniuge legalmente separato per colpa propria o per colpa propria e dell'altro coniuge o per mutuo consenso, la pena è diminuita.   [^agg-46]
+{: data-comma="3" }
 
 [^agg-46]: *AGGIORNAMENTO (46)* La Corte Costituzionale, con sentenza 27 novembre - 3 dicembre 1969, n. 147 (in G.U. 1ª s.s. 10/12/1969, n. 311), ha dichiarato, ai sensi dell'art. 27 della legge 11 marzo 1953, n. 87, la illegittimità costituzionale dell'[art. 561 del Codice penale](art-561-cp.md).

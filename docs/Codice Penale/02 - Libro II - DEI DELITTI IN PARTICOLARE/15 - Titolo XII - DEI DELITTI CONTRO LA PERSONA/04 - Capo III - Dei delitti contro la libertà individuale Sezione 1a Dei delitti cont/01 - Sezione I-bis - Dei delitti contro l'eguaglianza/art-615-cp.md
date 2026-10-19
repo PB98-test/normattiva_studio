@@ -21,7 +21,10 @@ ordine: 834
 # Art. 615 - ***Violazione di domicilio commessa da un pubblico ufficiale***
 
 Il pubblico ufficiale, che, abusando dei poteri inerenti alle sue funzioni, s'introduce o si trattiene nei luoghi indicati nell'articolo precedente, è punito con la reclusione da uno a cinque anni.
+{: data-comma="1" }
 
 Se l'abuso consiste nell'introdursi nei detti luoghi senza l'osservanza delle formalità prescritte dalla legge, la pena è della reclusione fino a un anno.
+{: data-comma="2" }
 
 Nel caso previsto dal secondo comma il delitto è punibile a querela della persona offesa.
+{: data-comma="3" }

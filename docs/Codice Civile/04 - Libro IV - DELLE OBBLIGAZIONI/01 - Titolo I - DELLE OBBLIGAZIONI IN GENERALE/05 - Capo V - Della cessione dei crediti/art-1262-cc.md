@@ -21,5 +21,7 @@ ordine: 1364
 # Art. 1262 - ***Documenti probatori del credito***
 
 Il cedente deve consegnare al cessionario i documenti probatori del credito che sono in suo possesso.
+{: data-comma="1" }
 
 Se è stata ceduta solo una parte del credito, il cedente è tenuto a dare al cessionario una copia autentica dei documenti.
+{: data-comma="2" }

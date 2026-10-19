@@ -21,5 +21,7 @@ ordine: 3260
 # Art. 2949 - ***Prescrizione in materia di società***
 
 Si prescrivono in cinque anni i diritti che derivano dai rapporti sociali, se la società è iscritta nel registro delle imprese.
+{: data-comma="1" }
 
 Nello stesso termine si prescrive l'azione di responsabilità che spetta ai creditori sociali verso gli amministratori nei casi stabiliti dalla legge.
+{: data-comma="2" }

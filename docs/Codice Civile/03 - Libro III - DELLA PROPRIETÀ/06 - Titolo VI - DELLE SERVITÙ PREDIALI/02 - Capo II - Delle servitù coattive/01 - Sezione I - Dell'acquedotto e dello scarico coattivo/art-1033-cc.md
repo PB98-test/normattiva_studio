@@ -21,5 +21,7 @@ ordine: 1128
 # Art. 1033 - ***Obbligo di dare passaggio alle acque***
 
 Il proprietario è tenuto a dare passaggio per i suoi fondi alle acque di ogni specie che si vogliono condurre da parte di chi ha, anche solo temporaneamente, il diritto di utilizzarle per i bisogni della vita o per usi agrari o industriali.
+{: data-comma="1" }
 
 Sono esenti da questa servitù le case, i cortili, i giardini e le aie ad esse attinenti.
+{: data-comma="2" }

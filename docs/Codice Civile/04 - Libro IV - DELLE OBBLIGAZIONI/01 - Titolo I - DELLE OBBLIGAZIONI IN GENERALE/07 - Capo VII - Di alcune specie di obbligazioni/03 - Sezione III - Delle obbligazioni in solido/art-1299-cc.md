@@ -21,7 +21,10 @@ ordine: 1401
 # Art. 1299 - ***Regresso tra condebitori***
 
 Il debitore in solido che ha pagato l'intero debito può ripetere dai condebitori soltanto la parte di ciascuno di essi.
+{: data-comma="1" }
 
 Se uno di questi è insolvente, la perdita si ripartisce per contributo tra gli altri condebitori, compreso quello che ha fatto il pagamento.
+{: data-comma="2" }
 
 La stessa norma si applica qualora sia insolvente il condebitore nel cui esclusivo interesse l'obbligazione era stata assunta.
+{: data-comma="3" }

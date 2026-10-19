@@ -21,5 +21,7 @@ ordine: 1826
 # Art. 1710 - ***Diligenza del mandatario***
 
 Il mandatario è tenuto a eseguire il mandato con la diligenza del buon padre di famiglia; ma se il mandato è gratuito, la responsabilità per colpa è valutata con minor rigore.
+{: data-comma="1" }
 
 Il mandatario è tenuto a rendere note al mandante le circostanze sopravvenute che possono determinare la revoca o la modificazione del mandato.
+{: data-comma="2" }

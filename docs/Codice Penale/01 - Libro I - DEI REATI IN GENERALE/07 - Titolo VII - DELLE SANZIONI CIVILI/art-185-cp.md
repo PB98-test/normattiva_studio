@@ -21,5 +21,7 @@ ordine: 206
 # Art. 185 - ***Restituzioni e risarcimento del danno***
 
 Ogni reato obbliga alle restituzioni, a norma delle leggi civili.
+{: data-comma="1" }
 
 Ogni reato, che abbia cagionato un danno patrimoniale o non patrimoniale, obbliga al risarcimento il colpevole e le persone che, a norma delle leggi civili, debbono rispondere per il fatto di lui.
+{: data-comma="2" }

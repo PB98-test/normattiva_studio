@@ -21,7 +21,10 @@ ordine: 1062
 # Art. 967 - ***Diritti e obblighi dell'enfiteuta e del concedente in caso di alienazione***
 
 In caso di alienazione, il nuovo enfiteuta è obbligato solidalmente col precedente al pagamento dei canoni non soddisfatti.
+{: data-comma="1" }
 
 Il precedente enfiteuta non è liberato dai suoi obblighi, prima che sia stato notificato l'atto di acquisto al concedente.
+{: data-comma="2" }
 
 In caso di alienazione del diritto del concedente, l'acquirente non può pretendere l'adempimento degli obblighi dell'enfiteuta prima che a questo sia stata notificata l'alienazione.
+{: data-comma="3" }

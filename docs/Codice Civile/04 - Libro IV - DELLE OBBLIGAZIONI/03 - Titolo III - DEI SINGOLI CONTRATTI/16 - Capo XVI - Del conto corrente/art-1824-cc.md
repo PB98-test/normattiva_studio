@@ -21,5 +21,7 @@ ordine: 1945
 # Art. 1824 - ***Crediti esclusi dal conto corrente***
 
 Sono esclusi dal conto corrente i crediti che non sono suscettibili di compensazione.
+{: data-comma="1" }
 
 Qualora il contratto intervenga tra imprenditori, s'intendono esclusi dal conto i crediti estranei alle rispettive imprese.
+{: data-comma="2" }

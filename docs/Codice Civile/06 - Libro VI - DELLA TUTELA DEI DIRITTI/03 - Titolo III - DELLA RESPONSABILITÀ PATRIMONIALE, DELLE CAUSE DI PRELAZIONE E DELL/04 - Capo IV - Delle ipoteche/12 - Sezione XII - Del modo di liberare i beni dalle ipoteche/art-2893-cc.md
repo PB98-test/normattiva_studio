@@ -21,5 +21,7 @@ ordine: 3203
 # Art. 2893 - ***Mancata richiesta dell'incanto***
 
 Se l'incanto non è domandato nel tempo e nel modo prescritti dall'[art. 2891](art-2891-cc.md), il valore del bene rimane definitivamente stabilito nel prezzo che l'acquirente ha posto a disposizione dei creditori a norma dell'[art. 2890](art-2890-cc.md), n. 3.
+{: data-comma="1" }
 
 La liberazione del bene dalle ipoteche avviene dopo che è stato depositato il prezzo e si è provveduto nei modi indicati dal [codice di procedura civile](../../../../../Codice%20di%20Procedura%20Civile/00%20-%20Indice%20%28cpc%29.md).
+{: data-comma="2" }

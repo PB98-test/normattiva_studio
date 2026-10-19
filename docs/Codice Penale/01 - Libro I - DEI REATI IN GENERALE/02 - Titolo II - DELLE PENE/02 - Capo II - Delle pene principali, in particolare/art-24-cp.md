@@ -21,5 +21,7 @@ ordine: 26
 # Art. 24 - ***Multa***
 
 La pena della multa consiste nel pagamento allo Stato di una somma non inferiore a euro 50, nè superiore a euro 50.000.
+{: data-comma="1" }
 
 Per i delitti determinati da motivi di lucro, se la legge stabilisce soltanto la pena della reclusione, il giudice può aggiungere la multa da euro 50 a euro 25.000.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 2135
 # Art. 2014 - ***Girata a titolo di pegno***
 
 Se alla girata è apposta una clausola che importa costituzione di pegno, il giratario può esercitare tutti i diritti inerenti al titolo, ma la girata da lui fatta vale solo come girata per procura.
+{: data-comma="1" }
 
 L'emittente non può opporre al giratario in garanzia le eccezioni fondate sui propri rapporti personali col girante, a meno che il giratario, ricevendo il titolo, abbia agito intenzionalmente a danno dell'emittente.
+{: data-comma="2" }

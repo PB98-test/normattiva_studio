@@ -21,5 +21,7 @@ ordine: 108
 # Art. 76 - ***Computo dei gradi***
 
 Nella linea retta si computano altrettanti gradi quante sono le generazioni, escluso lo stipite.
+{: data-comma="1" }
 
 Nella linea collaterale i gradi si computano dalle generazioni, salendo da uno dei parenti fino allo stipite comune e da questo discendendo all'altro parente, sempre restando escluso lo stipite.
+{: data-comma="2" }

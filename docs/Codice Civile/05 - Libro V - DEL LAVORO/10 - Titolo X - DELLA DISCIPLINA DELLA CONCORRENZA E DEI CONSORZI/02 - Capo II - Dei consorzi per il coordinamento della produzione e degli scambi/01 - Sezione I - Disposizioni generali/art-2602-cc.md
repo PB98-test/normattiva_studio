@@ -21,5 +21,7 @@ ordine: 2893
 # Art. 2602 - ***Nozione e norme applicabili***
 
 Con il contratto di consorzio più imprenditori istituiscono un'organizzazione comune per la disciplina o per lo svolgimento di determinate fasi delle rispettive imprese.
+{: data-comma="1" }
 
 Il contratto di cui al precedente comma è regolato dalle norme seguenti, salve le diverse disposizioni delle leggi speciali.
+{: data-comma="2" }

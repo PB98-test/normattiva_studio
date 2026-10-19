@@ -21,9 +21,13 @@ ordine: 2078
 # Art. 1957 - ***Scadenza dell'obbligazione principale***
 
 Il fideiussore rimane obbligato anche dopo la scadenza dell'obbligazione principale, purchè il creditore entro sei mesi abbia proposto le sue istanze contro il debitore e le abbia con diligenza continuate.
+{: data-comma="1" }
 
 La disposizione si applica anche al caso in cui il fideiussore ha espressamente limitato la sua fideiussione allo stesso termine dell'obbligazione principale.
+{: data-comma="2" }
 
 In questo caso però l'istanza contro il debitore deve essere proposta entro due mesi.
+{: data-comma="3" }
 
 L'istanza proposta contro il debitore interrompe la prescrizione anche nei confronti del fideiussore.
+{: data-comma="4" }

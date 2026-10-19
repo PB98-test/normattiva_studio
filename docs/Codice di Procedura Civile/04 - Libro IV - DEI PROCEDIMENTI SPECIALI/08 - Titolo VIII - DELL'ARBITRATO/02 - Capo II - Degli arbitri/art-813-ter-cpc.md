@@ -21,18 +21,25 @@ ordine: 996
 # Art. 813-ter - ***Responsabilità degli arbitri***
 
 Risponde dei danni cagionati alle parti l'arbitro che:
+{: data-comma="1" }
 
 - 1) con dolo o colpa grave ha omesso o ritardato atti dovuti ed è stato perciò dichiarato decaduto, ovvero ha rinunciato all'incarico senza giustificato motivo;
 - 2) con dolo o colpa grave ha omesso o impedito la pronuncia del lodo entro il termine fissato a norma degli [articoli 820](../04%20-%20Capo%20IV%20-%20Del%20lodo/art-820-cpc.md) o 826.
 
 Fuori dai precedenti casi, gli arbitri rispondono esclusivamente per dolo o colpa grave entro i limiti previsti dall'articolo 2, commi 2 e 3, della legge 13 aprile 1988, n. 117.
+{: data-comma="2" }
 
 L'azione di responsabilità può essere proposta in pendenza del giudizio arbitrale soltanto nel caso previsto dal primo comma, n. 1).
+{: data-comma="3" }
 
 Se è stato pronunciato il lodo, l'azione di responsabilità può essere proposta soltanto dopo l'accoglimento dell'impugnazione con sentenza. passata in giudicato e per i motivi per cui l'impugnazione è stata accolta.
+{: data-comma="4" }
 
 Se la responsabilita non dipende da dolo dell'arbitro, la misura del risarcimento non può superare una somma pari al triplo del compensò convenuto o, in mancanza di determinazione convenzionale, pari al triplo del compenso previsto dalla tariffa applicabile.
+{: data-comma="5" }
 
 Nei casi di responsabilità dell'arbitro il corrispettivo e il rimborso delle spese non gli sono dovuti o, nel caso di nullità parziale del lodo, sono soggetti a riduzione.
+{: data-comma="6" }
 
 Ciascun arbitro risponde solo del fatto proprio.
+{: data-comma="7" }

@@ -21,5 +21,7 @@ ordine: 1739
 # Art. 1624 - ***Divieto di subaffitto. Cessione dell'affitto***
 
 L'affittuario non può subaffittare la cosa senza consenso del locatore.
+{: data-comma="1" }
 
 La facoltà di cedere l'affitto comprende quella di subaffittare; la facoltà di subaffittare non comprende quella di cedere l'affitto.
+{: data-comma="2" }

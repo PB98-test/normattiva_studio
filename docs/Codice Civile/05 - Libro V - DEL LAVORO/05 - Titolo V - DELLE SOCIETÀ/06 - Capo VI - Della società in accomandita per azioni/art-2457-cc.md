@@ -21,5 +21,7 @@ ordine: 2672
 # Art. 2457 - ***Sostituzione degli amministratori***
 
 L'assemblea con la maggioranza indicata nell'articolo precedente provvede a sostituire l'amministratore che, per qualunque causa, ha cessato dal suo ufficio. Nel caso di pluralità di amministratori, la nomina deve essere approvata dagli amministratori rimasti in carica.
+{: data-comma="1" }
 
 Il nuovo amministratore assume la qualità di socio accomandatario dal momento dell'accettazione della nomina.
+{: data-comma="2" }

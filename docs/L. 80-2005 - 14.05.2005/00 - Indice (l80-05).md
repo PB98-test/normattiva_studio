@@ -8,3 +8,7 @@ aliases:
 
 # L. 80-2005 - 14.05.2005
 - [Art. 1](art-1-l80-05.md)
+
+## Allegati
+
+- [Allegato](01%20-%20Allegati/allegato-allegato-l80-05.md)

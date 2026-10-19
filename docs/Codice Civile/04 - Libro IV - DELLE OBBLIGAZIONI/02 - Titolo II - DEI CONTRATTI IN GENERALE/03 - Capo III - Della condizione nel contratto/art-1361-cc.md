@@ -21,5 +21,7 @@ ordine: 1463
 # Art. 1361 - ***Atti di amministrazione***
 
 L'avveramento della condizione non pregiudica la validità degli atti di amministrazione compiuti dalla parte a cui, in pendenza della condizione stessa, spettava l'esercizio del diritto.
+{: data-comma="1" }
 
 Salvo diverse disposizioni di legge o diversa pattuizione, i frutti percepiti sono dovuti dal giorno in cui la condizione si è avverata.
+{: data-comma="2" }

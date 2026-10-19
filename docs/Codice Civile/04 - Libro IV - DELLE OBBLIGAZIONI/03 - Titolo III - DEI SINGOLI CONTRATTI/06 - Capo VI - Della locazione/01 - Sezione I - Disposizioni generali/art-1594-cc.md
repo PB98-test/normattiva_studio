@@ -21,5 +21,7 @@ ordine: 1709
 # Art. 1594 - ***Sublocazione o cessione della locazione***
 
 Il conduttore, salvo patto contrario, ha facoltà di sublocare la cosa locatagli, ma non può cedere il contratto senza il consenso del locatore.
+{: data-comma="1" }
 
 Trattandosi di cosa mobile, la sublocazione deve essere autorizzata dal locatore o consentita dagli usi.
+{: data-comma="2" }

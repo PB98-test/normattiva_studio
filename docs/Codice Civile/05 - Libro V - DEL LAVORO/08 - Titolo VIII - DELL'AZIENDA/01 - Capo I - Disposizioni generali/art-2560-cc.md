@@ -21,5 +21,7 @@ ordine: 2851
 # Art. 2560 - ***Debiti relativi all'azienda ceduta***
 
 L'alienante non è liberato dai debiti, inerenti all'esercizio dell'azienda ceduta anteriori al trasferimento, se non risulta che i creditori vi hanno consentito.
+{: data-comma="1" }
 
 Nel trasferimento di un'azienda commerciale risponde dei debiti suddetti anche l'acquirente dell'azienda, se essi risultano dai libri contabili obbligatori.
+{: data-comma="2" }

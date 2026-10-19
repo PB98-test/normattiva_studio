@@ -21,5 +21,7 @@ ordine: 1491
 # Art. 1389 - ***Capacità del rappresentante e del rappresentato***
 
 Quando la rappresentanza è conferita dall'interessato, per la validità del contratto concluso dal rappresentante basta che questi abbia la capacità di intendere e di volere, avuto riguardo alla natura e al contenuto del contratto stesso, sempre che sia legalmente capace il rappresentato.
+{: data-comma="1" }
 
 In ogni caso, per la validità del contratto concluso dal rappresentante è necessario che il contratto non sia vietato al rappresentato.
+{: data-comma="2" }

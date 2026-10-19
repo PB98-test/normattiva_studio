@@ -21,5 +21,7 @@ ordine: 2871
 # Art. 2580 - ***Soggetti del diritto***
 
 Il diritto di autore spetta all'autore ed ai suoi aventi causa nei limiti e per gli effetti fissati dalle leggi speciali.
+{: data-comma="1" }
 
 COMMA ABROGATO DALLA L. 8 MARZO 1975, N. 39.
+{: data-comma="2" }

@@ -21,7 +21,10 @@ ordine: 472
 # Art. 391-bis - ***Agevolazione delle comunicazioni dei detenuti sottoposti alle restrizioni di cui all'[articolo 41-bis della legge 26 luglio 1975, n. 354](../../../../Ord.%20Pen.%20%28L.%20354-1975%20-%2026.07.1975%29/01%20-%20Titolo%20I%20-%20TRATTAMENTO%20PENITENZIARIO/04%20-%20Capo%20IV%20-%20REGIME%20PENITENZIARIO/art-41-bis-l354-75.md). Comunicazioni in elusione delle prescrizioni***
 
 Chiunque consente a un detenuto, sottoposto alle restrizioni di cui all'[articolo 41-bis della legge 26 luglio 1975, n. 354](../../../../Ord.%20Pen.%20%28L.%20354-1975%20-%2026.07.1975%29/01%20-%20Titolo%20I%20-%20TRATTAMENTO%20PENITENZIARIO/04%20-%20Capo%20IV%20-%20REGIME%20PENITENZIARIO/art-41-bis-l354-75.md), di comunicare con altri in elusione delle prescrizioni all'uopo imposte è punito con la reclusione da due a sei anni.
+{: data-comma="1" }
 
 Se il fatto è commesso da un pubblico ufficiale, da un incaricato di pubblico servizio ovvero da un soggetto che esercita la professione forense si applica la pena della reclusione da tre a sette anni.
+{: data-comma="2" }
 
 La pena prevista dal primo comma si applica anche al detenuto sottoposto alle restrizioni di cui all'[articolo 41-bis della legge 26 luglio 1975, n. 354](../../../../Ord.%20Pen.%20%28L.%20354-1975%20-%2026.07.1975%29/01%20-%20Titolo%20I%20-%20TRATTAMENTO%20PENITENZIARIO/04%20-%20Capo%20IV%20-%20REGIME%20PENITENZIARIO/art-41-bis-l354-75.md)  , il quale comunica con altri in elusione delle prescrizioni all'uopo imposte.
+{: data-comma="3" }

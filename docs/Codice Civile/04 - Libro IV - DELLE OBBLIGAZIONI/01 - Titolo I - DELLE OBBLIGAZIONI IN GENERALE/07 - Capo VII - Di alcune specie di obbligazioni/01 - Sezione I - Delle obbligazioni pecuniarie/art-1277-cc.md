@@ -21,5 +21,7 @@ ordine: 1379
 # Art. 1277 - ***Debito di somma di danaro***
 
 I debiti pecuniari si estinguono con moneta avente corso legale nello Stato al tempo del pagamento e per il suo valore nominale.
+{: data-comma="1" }
 
 Se la somma dovuta era determinata in una moneta che non ha più corso legale al tempo del pagamento, questo deve farsi in moneta legale ragguagliata per valore alla prima.
+{: data-comma="2" }

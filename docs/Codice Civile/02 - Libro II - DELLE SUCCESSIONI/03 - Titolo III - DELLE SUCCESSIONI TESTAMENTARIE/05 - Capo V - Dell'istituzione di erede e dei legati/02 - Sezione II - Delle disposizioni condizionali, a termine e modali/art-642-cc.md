@@ -21,7 +21,10 @@ ordine: 729
 # Art. 642 - ***Persone a cui spetta l'amministrazione***
 
 L'amministrazione spetta alla persona a cui favore è stata disposta la sostituzione, ovvero al coerede o ai coeredi, quando tra essi e l'erede condizionale vi è il diritto di accrescimento.
+{: data-comma="1" }
 
 Se non è prevista la sostituzione o non vi sono coeredi a favore dei quali abbia luogo il diritto di accrescimento, l'amministrazione spetta al presunto erede legittimo.
+{: data-comma="2" }
 
 In ogni caso l'autorità giudiziaria, quando concorrono giusti motivi, può provvedere altrimenti.
+{: data-comma="3" }

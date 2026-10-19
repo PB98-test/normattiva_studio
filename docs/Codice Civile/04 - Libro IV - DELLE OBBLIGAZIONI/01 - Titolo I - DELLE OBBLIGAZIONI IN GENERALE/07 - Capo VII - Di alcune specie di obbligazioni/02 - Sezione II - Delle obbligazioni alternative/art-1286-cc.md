@@ -21,7 +21,10 @@ ordine: 1388
 # Art. 1286 - ***Facoltà di scelta***
 
 La scelta spetta al debitore, se non è stata attribuita al creditore o ad un terzo.
+{: data-comma="1" }
 
 La scelta diviene irrevocabile con l'esecuzione di una delle due prestazioni, ovvero con la dichiarazione di scelta, comunicata all'altra parte, o ad entrambe se la scelta è fatta da un terzo.
+{: data-comma="2" }
 
 Se la scelta deve essere fatta da più persone, il giudice può fissare loro un termine. Se la scelta non è fatta nel termine stabilito, essa è fatta dal giudice.
+{: data-comma="3" }

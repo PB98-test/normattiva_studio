@@ -21,5 +21,7 @@ ordine: 2375
 # Art. 2253 - ***Conferimenti***
 
 Il socio è obbligato a eseguire i conferimenti determinati nel contratto sociale.
+{: data-comma="1" }
 
 Se i conferimenti non sono determinati, si presume che i soci siano obbligati a conferire, in parti eguali tra loro, quanto è necessario per il conseguimento dell'oggetto sociale.
+{: data-comma="2" }

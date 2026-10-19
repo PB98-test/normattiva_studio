@@ -21,7 +21,10 @@ ordine: 537
 # Art. 451 - ***Forza probatoria degli atti***
 
 Gli atti dello stato civile fanno prova, fino a querela di falso, di ciò che l'ufficiale pubblico attesta essere avvenuto alla sua presenza o da lui compiuto.
+{: data-comma="1" }
 
 Le dichiarazioni dei comparenti fanno fede fino a prova contraria.
+{: data-comma="2" }
 
 Le indicazioni estranee all'atto non hanno alcun valore.
+{: data-comma="3" }

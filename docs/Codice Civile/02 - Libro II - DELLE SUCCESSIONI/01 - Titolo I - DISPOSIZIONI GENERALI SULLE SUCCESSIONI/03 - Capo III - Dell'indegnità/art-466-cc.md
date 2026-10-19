@@ -21,5 +21,7 @@ ordine: 553
 # Art. 466 - ***Riabilitazione dell'indegno***
 
 Chi è incorso nell'indegnità è ammesso a succedere quando la persona, della cui successione si tratta, ve lo ha espressamente abilitato con atto pubblico o con testamento.
+{: data-comma="1" }
 
 Tuttavia l'indegno non espressamente abilitato, se è stato contemplato nel testamento quando il testatore conosceva la causa dell'indegnità, è ammesso a succedere nei limiti della disposizione testamentaria.
+{: data-comma="2" }

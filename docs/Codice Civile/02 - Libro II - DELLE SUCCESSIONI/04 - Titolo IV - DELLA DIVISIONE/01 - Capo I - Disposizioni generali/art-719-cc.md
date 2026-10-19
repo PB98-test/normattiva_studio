@@ -21,5 +21,7 @@ ordine: 806
 # Art. 719 - ***Vendita dei beni per il pagamento dei debiti ereditari***
 
 Se i coeredi aventi diritto a più della metà dell'asse concordano nella necessità della vendita per il pagamento dei debiti e pesi ereditari, si procede alla vendita all'incanto dei beni mobili e, se occorre, di quei beni immobili la cui alienazione rechi minor pregiudizio agli interessi dei condividenti.
+{: data-comma="1" }
 
 Quando concorre il consenso di tutte le parti, la vendita può seguire tra i soli condividenti e senza pubblicità, salvo che vi sia opposizione dei legatari o dei creditori.
+{: data-comma="2" }

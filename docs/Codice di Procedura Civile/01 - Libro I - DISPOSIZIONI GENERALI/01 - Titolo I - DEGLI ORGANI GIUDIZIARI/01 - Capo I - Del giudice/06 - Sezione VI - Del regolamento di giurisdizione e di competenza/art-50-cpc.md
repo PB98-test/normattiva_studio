@@ -21,5 +21,7 @@ ordine: 53
 # Art. 50 - ***Riassunzione della causa***
 
 Se la riassunzione della causa davanti al giudice dichiarato competente avviene nel termine fissato nella ordinanza dal giudice e in mancanza in quello di tre mesi dalla comunicazione della ordinanza di regolamento o della ordinanza che dichiara l'incompetenza del giudice adito, il processo continua davanti al nuovo giudice.
+{: data-comma="1" }
 
 Se la riassunzione non avviene nei termini su indicati, il processo si estingue.
+{: data-comma="2" }

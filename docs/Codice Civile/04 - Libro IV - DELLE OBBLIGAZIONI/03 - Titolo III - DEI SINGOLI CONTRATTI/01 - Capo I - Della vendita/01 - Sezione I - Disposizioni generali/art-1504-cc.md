@@ -21,5 +21,7 @@ ordine: 1611
 # Art. 1504 - ***Effetti del riscatto rispetto ai subacquirenti***
 
 Il venditore che ha legittimamente esercitato il diritto di riscatto nei confronti del compratore può ottenere il rilascio della cosa anche dai successivi acquirenti, purchè il patto sia ad essi opponibile.
+{: data-comma="1" }
 
 Se l'alienazione è stata notificata al venditore, il riscatto deve essere esercitato in confronto del terzo acquirente.
+{: data-comma="2" }

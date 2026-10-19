@@ -14,7 +14,7 @@ capo_label: "Disposizioni comuni ai capi precedenti"
 sezione: null
 sezione_label: null
 rubrica: "Persone esercenti un servizio di pubblica necessità"
-dataVigenza: "20260914"
+dataVigenza: "20261016"
 ordine: 428
 ---
 
@@ -22,6 +22,5 @@ ordine: 428
 
 Agli effetti della legge penale, sono persone che esercitano un servizio di pubblica necessità:
 
-1° i privati che esercitano professioni forensi o sanitarie, o altre professioni il cui esercizio sia per legge vietato senza una speciale abilitazione dello Stato, quando dell'opera di essi il pubblico sia per legge obbligato a valersi;
-
-2° i privati che, non esercitando una pubblica funzione, nè prestando un pubblico servizio, adempiono un servizio dichiarato di pubblica necessità mediante un atto della pubblica Amministrazione.
+- 1° i privati che esercitano professioni forensi o sanitarie, o altre professioni il cui esercizio sia per legge vietato senza una speciale abilitazione dello Stato, quando dell'opera di essi il pubblico sia per legge obbligato a valersi;
+- 2° i privati che, non esercitando una pubblica funzione, nè prestando un pubblico servizio, adempiono un servizio dichiarato di pubblica necessità mediante un atto della pubblica Amministrazione.

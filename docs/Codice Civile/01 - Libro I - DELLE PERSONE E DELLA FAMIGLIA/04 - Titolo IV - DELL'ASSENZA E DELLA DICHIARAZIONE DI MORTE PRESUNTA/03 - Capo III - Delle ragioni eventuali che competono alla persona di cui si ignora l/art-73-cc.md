@@ -21,5 +21,7 @@ ordine: 105
 # Art. 73 - ***Estinzione dei diritti spettanti alla persona di cui è stata dichiarata la morte presunta***
 
 Se la persona di cui e stata dichiarata la morte presunta ritorna o ne è provata l'esistenza al momento dell'apertura della successione, essa o i suoi eredi o aventi causa possono esercitare la petizione di eredità e far valere ogni altro diritto, ma non possono recuperare i beni se non nello stato in cui si trovano, e non possono ripetere che il prezzo di quelli alienati, quando è ancora dovuto, o i beni nei quali esso è stato investito, salvi gli effetti della prescrizione o dell'usucapione.
+{: data-comma="1" }
 
 Si applica la disposizione del secondo comma dell'[art. 71](art-71-cc.md).
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 2465
 # Art. 2340 - ***Limiti dei benefici riservati ai promotori***
 
 I promotori possono riservarsi nell'atto costitutivo, indipendentemente dalla loro qualità di soci, una partecipazione non superiore complessivamente a un decimo degli utili netti risultanti dal bilancio e per un periodo massimo di cinque anni.
+{: data-comma="1" }
 
 Essi non possono stipulare a proprio vantaggio altro beneficio.
+{: data-comma="2" }

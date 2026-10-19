@@ -21,5 +21,7 @@ ordine: 793
 # Art. 706 - ***Divisione da compiersi dall'esecutore testamentario***
 
 Il testatore può disporre che l'esecutore testamentario, quando non è un erede o un legatario, proceda alla divisione tra gli eredi dei beni dell'eredità. In questo caso si osserva il disposto dell'[art. 733](../../04%20-%20Titolo%20IV%20-%20DELLA%20DIVISIONE/01%20-%20Capo%20I%20-%20Disposizioni%20generali/art-733-cc.md).
+{: data-comma="1" }
 
 Prima di procedere alla divisione l'esecutore testamentario deve sentire gli eredi.
+{: data-comma="2" }

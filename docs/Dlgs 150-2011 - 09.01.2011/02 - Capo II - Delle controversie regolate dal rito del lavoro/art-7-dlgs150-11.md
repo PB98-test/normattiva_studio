@@ -14,7 +14,7 @@ capo_label: "Delle controversie regolate dal rito del lavoro"
 sezione: null
 sezione_label: null
 rubrica: "Dell'opposizione al verbale di accertamento di violazione del codice della strada"
-dataVigenza: "20260928"
+dataVigenza: "20261016"
 ordine: 7
 ---
 
@@ -47,4 +47,4 @@ ordine: 7
 
 12\. Quando rigetta l'opposizione, il giudice non può escludere l'applicazione delle sanzioni accessorie o la decurtazione dei punti dalla patente di guida.
 
-13\. Salvo quanto previsto dall'[articolo 10, comma 6-bis, del decreto del Presidente della Repubblica 30 maggio 2002, n. 115](../../DPR%20115-2002%20-%2030.05.2002/01%20-%20Titolo%20I%20-%20Contributo%20unificato%20nel%20processo%20civile,%20amministrativo%20e%20tributario/art-10-dpr115-02.md), gli atti del processo e la decisione sono esenti da ogni tassa e imposta.
+13\. Salvo quanto previsto dall'[articolo 10, comma 6-bis, del decreto del Presidente della Repubblica 30 maggio 2002, n. 115](../../DPR%20115-2002%20-%2030.05.2002/02%20-%20Parte%20II%20-%20VOCI%20DI%20SPESA/01%20-%20Titolo%20I%20-%20Contributo%20unificato%20nel%20processo%20civile,%20amministrativo%20e%20tributario/art-10-dpr115-02.md), gli atti del processo e la decisione sono esenti da ogni tassa e imposta.

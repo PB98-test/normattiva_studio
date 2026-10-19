@@ -21,5 +21,7 @@ ordine: 991
 # Art. 730 - ***Somministrazione a minori di sostanze velenose o nocive***
 
 Chiunque, essendo autorizzato alla vendita o al commercio di medicinali, consegna a persona minore degli anni sedici sostanze velenose o stupefacenti, anche su prescrizione medica, è punito con l'ammenda fino a lire cinquemila.
+{: data-comma="1" }
 
 Soggiace all'ammenda fino a lire mille chi vende o somministra tabacco a persona minore degli anni quattordici.
+{: data-comma="2" }

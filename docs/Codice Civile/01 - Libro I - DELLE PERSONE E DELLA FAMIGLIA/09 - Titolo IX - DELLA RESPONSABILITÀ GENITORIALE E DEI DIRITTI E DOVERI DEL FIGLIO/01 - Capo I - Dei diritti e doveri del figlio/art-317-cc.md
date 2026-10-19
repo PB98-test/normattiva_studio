@@ -21,5 +21,7 @@ ordine: 391
 # Art. 317 - ***Impedimento di uno dei genitori***
 
 Nel caso di lontananza, di incapacità o di altro impedimento che renda impossibile ad uno dei genitori l'esercizio della responsabilità genitoriale, questa è esercitata in modo esclusivo dall'altro.
+{: data-comma="1" }
 
 La responsabilità genitoriale di entrambi i genitori non cessa a seguito di separazione, scioglimento, cessazione degli effetti civili, annullamento, nullità del matrimonio; il suo esercizio, in tali casi, è regolato dal capo II del presente titolo.
+{: data-comma="2" }

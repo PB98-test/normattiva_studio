@@ -21,9 +21,13 @@ ordine: 770
 # Art. 591 - ***Abbandono di persone minori o incapaci***
 
 Chiunque abbandona una persona minore degli anni quattordici, ovvero una persona incapace, per malattia di mente o di corpo, per vecchiaia, o per altra causa, di provvedere a sè stessa, e della quale abbia la custodia o debba avere cura, è punito con la reclusione da sei mesi a cinque anni.
+{: data-comma="1" }
 
 Alla stessa pena soggiace chi abbandona all'estero un cittadino italiano minore degli anni diciotto, a lui affidato nel territorio dello Stato per ragioni di lavoro.
+{: data-comma="2" }
 
 La pena è della reclusione da uno a sei anni se dal fatto deriva una lesione personale, ed è da tre a otto anni se ne deriva la morte.
+{: data-comma="3" }
 
 Le pene sono aumentate se il fatto è commesso dal genitore, dal figlio, dal tutore o dal coniuge, ovvero dall'adottante o dall'adottato.
+{: data-comma="4" }

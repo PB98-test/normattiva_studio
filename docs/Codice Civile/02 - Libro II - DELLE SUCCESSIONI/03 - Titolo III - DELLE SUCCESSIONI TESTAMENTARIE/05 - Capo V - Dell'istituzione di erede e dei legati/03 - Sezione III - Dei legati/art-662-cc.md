@@ -21,5 +21,7 @@ ordine: 749
 # Art. 662 - ***Onere della prestazione del legato***
 
 Il testatore può porre la prestazione del legato a carico degli eredi ovvero a carico di uno o più legatari. Quando il testatore non ha disposto, alla prestazione sono tenuti gli eredi.
+{: data-comma="1" }
 
 Su ciascuno dei diversi onerati il legato grava in proporzione della rispettiva quota ereditaria o del legato, se il testatore non ha diversamente disposto.
+{: data-comma="2" }

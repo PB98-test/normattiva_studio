@@ -21,7 +21,10 @@ ordine: 1210
 # Art. 1115 - ***Obbligazioni solidali dei partecipanti***
 
 Ciascun partecipante può esigere che siano estinte le obbligazioni in solido contratte per la cosa comune, le quali siano scadute o scadano entro l'anno dalla domanda di divisione.
+{: data-comma="1" }
 
 La somma per estinguere le obbligazioni si preleva dal prezzo di vendita della cosa comune, e, se la divisione ha luogo in natura, si procede alla vendita di una congrua frazione della cosa, salvo diverso accordo tra i condividenti.
+{: data-comma="2" }
 
 Il partecipante che ha pagato il debito in solido e non ha ottenuto rimborso concorre nella divisione per una maggiore quota corrispondente al suo diritto verso gli altri condividenti.
+{: data-comma="3" }

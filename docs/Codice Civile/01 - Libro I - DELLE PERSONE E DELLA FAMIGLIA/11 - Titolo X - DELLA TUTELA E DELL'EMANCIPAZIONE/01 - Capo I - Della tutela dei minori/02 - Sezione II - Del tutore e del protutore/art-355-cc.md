@@ -21,5 +21,7 @@ ordine: 440
 # Art. 355 - ***Protutore***
 
 Sono applicabili al protutore le disposizioni stabilite per il tutore in questa sezione.
+{: data-comma="1" }
 
 Non si nomina il protutore nei casi contemplati nel primo comma dell'[art. 354](art-354-cc.md).
+{: data-comma="2" }

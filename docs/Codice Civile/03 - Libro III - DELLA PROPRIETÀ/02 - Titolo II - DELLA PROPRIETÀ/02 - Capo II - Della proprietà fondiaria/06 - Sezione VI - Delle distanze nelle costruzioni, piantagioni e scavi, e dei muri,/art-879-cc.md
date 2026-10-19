@@ -21,5 +21,7 @@ ordine: 973
 # Art. 879 - ***Edifici non soggetti all'obbligo delle distanze o a comunione forzosa***
 
 Alla comunione forzosa non sono soggetti gli edifici appartenenti al demanio pubblico e quelli soggetti allo stesso regime, nè gli edifici che sono riconosciuti di interesse storico, archeologico o artistico, a norma delle leggi in materia. Il vicino non può neppure usare della facoltà concessa dall'[art. 877](art-877-cc.md).
+{: data-comma="1" }
 
 Alle costruzioni che si fanno in confine con le piazze e le vie pubbliche non si applicano le norme relative alle distanze, ma devono osservarsi le leggi e i regolamenti che le riguardano.
+{: data-comma="2" }

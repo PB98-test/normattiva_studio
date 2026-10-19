@@ -5,16 +5,14 @@ search:
 
 # Leggi citate da Dlgs 150-2011 - 09.01.2011 ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Dlgs 150-2011 - 09.01.2011 — 66 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Dlgs 150-2011 - 09.01.2011 — 64 leggi trovate)*
 
-- [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const)
 - [articolo 54 della legge 18 giugno 2009, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-06-18;69)
 - [articolo 14 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400)
 - [regio decreto 21 dicembre 1933, n. 1736](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regiodecreto:1933-12-21;1736)
 - [legge 15 dicembre 1990, n. 386](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-15;386)
 - [articolo 1 del decreto-legge 8 aprile 2008, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2008-04-08;59)
 - [legge 6 giugno 2008, n. 101](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-06-06;101)
-- [articolo 152 del decreto legislativo 30 giugno 2003, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2003-06-30;196)
 - [articolo 143, comma 3, del decreto legislativo n. 196 del 2003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2003;196)
 - [decreto legislativo 3 luglio 2017, n. 117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2017-07-03;117)
 - [articolo 4 della legge 20 marzo 1865, n. 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248)

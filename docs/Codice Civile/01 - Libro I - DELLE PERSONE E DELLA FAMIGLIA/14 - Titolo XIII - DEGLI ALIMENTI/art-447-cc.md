@@ -21,5 +21,7 @@ ordine: 532
 # Art. 447 - ***Inammissibilità di cessione e di compensazione***
 
 Il credito alimentare non può essere ceduto.
+{: data-comma="1" }
 
 L'obbligato agli alimenti non può opporre all'altra parte la compensazione, neppure quando si tratta di prestazioni arretrate.
+{: data-comma="2" }

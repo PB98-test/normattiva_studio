@@ -21,9 +21,12 @@ ordine: 947
 # Art. 688 - ***Ubriachezza***
 
 Chiunque, in un luogo pubblico o aperto al pubblico, è colto in stato di manifesta ubriachezza è punito con la sanzione amministrativa pecuniaria da lire centomila a lire seicentomila.
+{: data-comma="1" }
 
 La pena è dell'arresto da tre a sei mesi se il fatto è commesso da chi ha già riportato una condanna per delitto non colposo contro la vita o la incolumità individuale. [^agg-186]
+{: data-comma="2" }
 
 La pena è aumentata se la ubriachezza è abituale.
+{: data-comma="3" }
 
 [^agg-186]: *AGGIORNAMENTO (186)* La Corte Costituzionale, con sentenza 10 - 17 luglio 2002, n. 354 (in G.U. 1ª s.s. 24/07/2002, n. 29), ha dichiarato l'illegittimità costituzionale del secondo comma del presente articolo.

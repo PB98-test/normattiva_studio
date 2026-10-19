@@ -15,10 +15,10 @@ sezione: null
 sezione_label: null
 rubrica: null
 abrogato: true
-dataVigenza: "20260914"
+dataVigenza: "20261016"
 ordine: 25
 ---
 
 # Art. 11-quater - *(Omissis)*
 
-[^agg-43]: *AGGIORNAMENTO (43)* Il D.Lgs. 25 maggio 2021, n. 83 ha disposto (con l'[art. 10](art-10-dl35-05.md), comma 1) che l'abrogazione del presente articolo si applica "alle operazioni, disciplinate dal decreto stesso, effettuate a partire dal 1° luglio 2021".
+[^agg-43]: *AGGIORNAMENTO (43)* Il D.Lgs. 25 maggio 2021, n. 83 ha disposto (con l'art. 10, comma 1) che l'abrogazione del presente articolo si applica "alle operazioni, disciplinate dal decreto stesso, effettuate a partire dal 1° luglio 2021".

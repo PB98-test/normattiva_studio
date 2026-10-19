@@ -21,7 +21,10 @@ ordine: 303
 # Art. 258 - ***Effetti del riconoscimento***
 
 Il riconoscimento produce effetti riguardo al genitore da cui fu fatto e riguardo ai parenti di esso.
+{: data-comma="1" }
 
 L'atto di riconoscimento di uno solo dei genitori non può contenere indicazioni relative all'altro genitore. Queste indicazioni, qualora siano state fatte, sono senza effetto.
+{: data-comma="2" }
 
 Il pubblico ufficiale che le riceve e l'ufficiale dello stato civile che le riproduce sui registri dello stato civile sono puniti con l'ammenda da lire ventimila a lire ottantamila. Le indicazioni stesse devono essere cancellate.
+{: data-comma="3" }

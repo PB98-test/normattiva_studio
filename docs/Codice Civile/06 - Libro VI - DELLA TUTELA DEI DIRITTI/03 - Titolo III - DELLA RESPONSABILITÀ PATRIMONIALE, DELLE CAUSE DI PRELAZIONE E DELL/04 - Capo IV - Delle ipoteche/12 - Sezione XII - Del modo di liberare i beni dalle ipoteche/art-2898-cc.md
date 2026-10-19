@@ -21,5 +21,7 @@ ordine: 3208
 # Art. 2898 - ***Beni non ipotecati per il credito per il quale si procede***
 
 Nel caso in cui il titolo d'acquisto del terzo acquirente comprende mobili e immobili, o comprende più immobili, gli uni ipotecati e gli altri liberi, ovvero non tutti gravati dalle stesse iscrizioni, situati nella giurisdizione dello stesso tribunale o in diverse giurisdizioni di tribunali, alienati per un unico prezzo ovvero per prezzi distinti, il prezzo di ciascun immobile assoggettato a particolari e separate iscrizioni deve dichiararsi nella notificazione, ragguagliato al prezzo totale espresso nel titolo.
+{: data-comma="1" }
 
 Il creditore che richiede l'espropriazione non può in nessun caso essere costretto a estendere la sua domanda ai mobili, o ad altri immobili, fuori di quelli che sono ipotecati per il suo credito, salvo il regresso del terzo acquirente contro il suo autore per il risarcimento del danno che venga a soffrire a causa della separazione dei beni compresi nell'acquisto e delle relative coltivazioni.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 1658
 # Art. 1543 - ***Forme***
 
 La vendita di un'eredità deve farsi per atto scritto, sotto pena di nullità.
+{: data-comma="1" }
 
 Il venditore è tenuto a prestarsi agli atti che sono necessari da parte sua per rendere efficace, di fronte ai terzi, la trasmissione di ciascuno dei diritti compresi nell'eredità.
+{: data-comma="2" }

@@ -21,7 +21,10 @@ ordine: 599
 # Art. 512 - ***Oggetto della separazione***
 
 La separazione dei beni del defunto da quelli dell'erede assicura il soddisfacimento, con i beni del defunto, dei creditori di lui e dei legatari che l'hanno esercitata, a preferenza dei creditori dell'erede.
+{: data-comma="1" }
 
 Il diritto alla separazione spetta anche ai creditori o legatari che hanno altre garanzie sui beni del defunto.
+{: data-comma="2" }
 
 La separazione non impedisce ai creditori e ai legatari che l'hanno esercitata, di soddisfarsi anche sui beni propri dell'erede.
+{: data-comma="3" }

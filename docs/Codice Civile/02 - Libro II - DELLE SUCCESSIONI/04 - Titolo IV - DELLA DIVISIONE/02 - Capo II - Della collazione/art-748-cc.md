@@ -21,9 +21,13 @@ ordine: 835
 # Art. 748 - ***Miglioramenti, spese e deterioramenti***
 
 In tutti i casi, si deve dedurre a favore del donatario il valore delle migliorie apportate al fondo nei limiti del loro valore al tempo dell'aperta successione.
+{: data-comma="1" }
 
 Devono anche computarsi a favore del donatario le spese straordinarie da lui sostenute per la conservazione della cosa, non cagionate da sua colpa.
+{: data-comma="2" }
 
 Il donatario dal suo canto è obbligato per i deterioramenti che, per sua colpa, hanno diminuito il valore dell'immobile.
+{: data-comma="3" }
 
 Il coerede che conferisce un immobile in natura può ritenerne il possesso sino all'effettivo rimborso delle somme che gli sono dovute per spese e miglioramenti.
+{: data-comma="4" }

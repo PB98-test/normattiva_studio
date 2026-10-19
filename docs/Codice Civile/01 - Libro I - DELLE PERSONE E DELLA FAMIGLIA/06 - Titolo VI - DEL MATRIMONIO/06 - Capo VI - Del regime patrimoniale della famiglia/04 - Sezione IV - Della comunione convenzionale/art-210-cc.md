@@ -21,7 +21,10 @@ ordine: 252
 # Art. 210 - ***Modifiche convenzionali alla comunione legale dei beni.***
 
 I coniugi possono, mediante convenzione stipulata a norma dell'[articolo 162](../01%20-%20Sezione%20I%20-%20Disposizioni%20generali/art-162-cc.md), modificare il regime della comunione legale dei beni purchè i patti non siano in contrasto con le disposizioni dell'[articolo 161](../01%20-%20Sezione%20I%20-%20Disposizioni%20generali/art-161-cc.md).
+{: data-comma="1" }
 
 I beni indicati alle lettere c), d) ed e) dell'[articolo 179](../03%20-%20Sezione%20III%20-%20Della%20comunione%20legale/art-179-cc.md) non possono essere compresi nella comunione convenzionale.
+{: data-comma="2" }
 
 Non sono derogabili le norme della comunione legale relative all'amministrazione dei beni della comunione e all'uguaglianza delle quote limitatamente ai beni che formerebbero oggetto della comunione legale.
+{: data-comma="3" }

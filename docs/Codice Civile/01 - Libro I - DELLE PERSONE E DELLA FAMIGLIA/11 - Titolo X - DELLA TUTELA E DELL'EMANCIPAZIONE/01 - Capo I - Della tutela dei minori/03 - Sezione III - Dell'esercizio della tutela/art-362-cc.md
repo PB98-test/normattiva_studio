@@ -21,5 +21,7 @@ ordine: 447
 # Art. 362 - ***Inventario***
 
 Il tutore, nei dieci giorni successivi a quello in cui ha avuto legalmente notizia della sua nomina, deve procedere all'inventario dei beni del minore, nonostante qualsiasi dispensa.
+{: data-comma="1" }
 
 L'inventario deve essere compiuto nel termine di trenta giorni, salva al giudice tutelare la facoltà di prorogare il termine se le circostanze lo esigono.
+{: data-comma="2" }

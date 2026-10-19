@@ -5,9 +5,8 @@ search:
 
 # Leggi citate da Disp. att. cpp (Dlgs 271-1989 - 28.07.1989) ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Disp. att. cpp (Dlgs 271-1989 - 28.07.1989) — 74 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Disp. att. cpp (Dlgs 271-1989 - 28.07.1989) — 72 leggi trovate)*
 
-- [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const)
 - [legge 16 febbraio 1987, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-02-16;81)
 - [legge n. 81 del 1987](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987;81)
 - [L. 24 dicembre 2003, n. 350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-12-24;350)
@@ -22,7 +21,6 @@ search:
 - [L. 19 gennaio 2001, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-01-19;4)
 - [D.L. 25 luglio 2018, n. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2018-07-25;91)
 - [L. 21 settembre 2018, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-09-21;108)
-- [decreto legislativo 30 giugno 2003, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2003-06-30;196)
 - [D.Lgs. 29 dicembre 2017, n. 216](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2017-12-29;216)
 - [L. 30 dicembre 2018, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-30;145)
 - [D.L. 14 giugno 2019, n. 53](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2019-06-14;53)

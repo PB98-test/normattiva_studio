@@ -21,7 +21,10 @@ ordine: 664
 # Art. 518-duodecies - ***Distruzione, dispersione, deterioramento, deturpamento, imbrattamento e uso illecito di beni culturali o paesaggistici***
 
 Chiunque distrugge, disperde, deteriora o rende in tutto o in parte inservibili o , ove previsto, non fruibili beni culturali o paesaggistici propri o altrui è punito con la reclusione da due a cinque anni e con la multa da euro 2.500 a euro 15.000.
+{: data-comma="1" }
 
 Chiunque, fuori dei casi di cui al primo comma, deturpa o imbratta beni culturali o paesaggistici propri o altrui, ovvero destina beni culturali a un uso incompatibile con il loro carattere storico o artistico ovvero pregiudizievole per la loro conservazione o integrità, è punito con la reclusione da sei mesi a tre anni e con la multa da euro 1.500 a euro 10.000.
+{: data-comma="2" }
 
 La sospensione condizionale della pena è subordinata al ripristino dello stato dei luoghi o all'eliminazione delle conseguenze dannose o pericolose del reato ovvero alla prestazione di attività non retribuita a favore della collettività per un tempo determinato, comunque non superiore alla durata della pena sospesa, secondo le modalità indicate dal giudice nella sentenza di condanna.
+{: data-comma="3" }

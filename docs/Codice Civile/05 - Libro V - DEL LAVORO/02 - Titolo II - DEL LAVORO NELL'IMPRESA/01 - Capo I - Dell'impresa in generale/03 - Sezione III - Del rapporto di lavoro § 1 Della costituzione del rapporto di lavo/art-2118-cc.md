@@ -21,7 +21,10 @@ ordine: 2239
 # Art. 2118 - ***Recesso dal contratto a tempo indeterminato***
 
 Ciascuno dei contraenti può recedere dal contratto di lavoro a tempo indeterminato, dando il preavviso nel termine e nei modi stabiliti dalle norme corporative, dagli usi o secondo equità.
+{: data-comma="1" }
 
 In mancanza di preavviso, il recedente è tenuto verso l'altra parte a un'indennità equivalente all'importo della retribuzione che sarebbe spettata per il periodo di preavviso.
+{: data-comma="2" }
 
 La stessa indennità è dovuta dal datore di lavoro nel caso di cessazione del rapporto per morte del prestatore di lavoro.
+{: data-comma="3" }

@@ -21,5 +21,7 @@ ordine: 1349
 # Art. 1247 - ***Compensazione opposta da terzi garanti***
 
 Il fideiussore può opporre in compensazione il debito che il creditore ha verso il debitore principale.
+{: data-comma="1" }
 
 Lo stesso diritto spetta al terzo che ha costituito un'ipoteca o un pegno.
+{: data-comma="2" }

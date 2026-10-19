@@ -21,5 +21,7 @@ ordine: 247
 # Art. 224 - ***Sequestro del documento***
 
 Se il documento impugnato di falso si trova presso un depositario, il giudice istruttore può ordinarne il sequestro con le forme previste nel [codice di procedura penale](../../../../../Codice%20di%20Procedura%20Penale/00%20-%20Indice%20%28cpp%29.md), dopo di che si redige il processo verbale di cui all'articolo precedente.
+{: data-comma="1" }
 
 Se non è possibile il deposito del documento in cancelleria, il giudice dispone le necessarie cautele per la conservazione di esso e redige il processo verbale alla presenza del depositario, nel luogo dove il documento si trova.
+{: data-comma="2" }

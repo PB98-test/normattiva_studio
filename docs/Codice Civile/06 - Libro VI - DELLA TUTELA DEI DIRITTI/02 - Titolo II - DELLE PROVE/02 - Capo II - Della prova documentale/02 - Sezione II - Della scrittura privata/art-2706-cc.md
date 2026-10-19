@@ -21,5 +21,7 @@ ordine: 3011
 # Art. 2706 - ***Conformità tra originale e riproduzione del telegramma***
 
 La riproduzione del telegramma consegnata al destinatario si presume, fino a prova contraria, conforme all'originale.
+{: data-comma="1" }
 
 Il mittente, se ha fatto collazionare il telegramma secondo le disposizioni dei regolamenti, si presume esente da colpa per le divergenze verificatesi tra originale e riproduzione.
+{: data-comma="2" }

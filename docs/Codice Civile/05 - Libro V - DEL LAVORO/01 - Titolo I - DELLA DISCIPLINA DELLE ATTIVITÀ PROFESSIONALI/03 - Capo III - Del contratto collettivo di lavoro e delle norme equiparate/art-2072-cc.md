@@ -21,9 +21,13 @@ ordine: 2193
 # Art. 2072 - ***Deposito e pubblicazione***
 
 Il deposito e la pubblicazione del contratto collettivo sono regolati dalle leggi speciali.
+{: data-comma="1" }
 
 Prima della pubblicazione l'autorità governativa deve accertare che ricorrano le condizioni richieste per la validità del contratto collettivo.
+{: data-comma="2" }
 
 La pubblicazione può essere rifiutata, se il contratto collettivo non contiene le disposizioni e le indicazioni richieste dall'[art. 2071](art-2071-cc.md), salvo che le parti si siano obbligate a integrarlo con successivi patti da stipularsi entro un termine stabilito. Se i patti integrativi non sono stipulati nel termine, può essere adita la magistratura del lavoro per la formazione delle disposizioni integrative.
+{: data-comma="3" }
 
 Contro il rifiuto di pubblicazione è ammesso ricorso alla magistratura del lavoro a norma delle leggi speciali.
+{: data-comma="4" }

@@ -21,7 +21,10 @@ ordine: 3152
 # Art. 2842 - ***Variazione del domicilio eletto***
 
 È in facoltà del creditore, del suo mandatario o del suo erede o avente causa di variare il domicilio eletto nell'iscrizione, sostituendone un altro nella stessa circoscrizione.
+{: data-comma="1" }
 
 Il cambiamento deve essere annotato dal conservatore in margine o in calce all'iscrizione.
+{: data-comma="2" }
 
 La dichiarazione circa il cambiamento del domicilio deve risultare da atto ricevuto o autenticato da notaio e deve rimanere depositata nell'ufficio del conservatore.
+{: data-comma="3" }

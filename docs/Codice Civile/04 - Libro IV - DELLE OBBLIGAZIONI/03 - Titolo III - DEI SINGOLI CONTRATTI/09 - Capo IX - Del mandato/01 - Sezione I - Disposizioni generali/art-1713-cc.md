@@ -21,5 +21,7 @@ ordine: 1829
 # Art. 1713 - ***Obbligo di rendiconto***
 
 Il mandatario deve rendere al mandante il conto del suo operato e rimettergli tutto ciò che ha ricevuto a causa del mandato.
+{: data-comma="1" }
 
 La dispensa preventiva dall'obbligo di rendiconto non ha effetto nei casi in cui il mandatario deve rispondere per dolo o per colpa grave.
+{: data-comma="2" }

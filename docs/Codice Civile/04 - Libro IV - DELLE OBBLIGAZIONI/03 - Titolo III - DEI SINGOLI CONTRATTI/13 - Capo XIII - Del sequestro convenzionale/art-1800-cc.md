@@ -21,9 +21,13 @@ ordine: 1921
 # Art. 1800 - ***Conservazione e alienazione dell'oggetto del sequestro***
 
 Il sequestratario, per la custodia delle cose affidategli, è soggetto alle norme del deposito.
+{: data-comma="1" }
 
 Se vi è imminente pericolo di perdita o di grave deterioramento delle cose mobili affidategli, il sequestratario può alienarle, dandone pronta notizia agli interessati.
+{: data-comma="2" }
 
 Qualora la natura delle cose lo richieda, egli ha pure l'obbligo di amministrarle. In questo caso si applicano le norme del mandato.
+{: data-comma="3" }
 
 Il sequestratario non può consentire locazioni per durata superiore a quella stabilita per le locazioni a tempo indeterminato.
+{: data-comma="4" }

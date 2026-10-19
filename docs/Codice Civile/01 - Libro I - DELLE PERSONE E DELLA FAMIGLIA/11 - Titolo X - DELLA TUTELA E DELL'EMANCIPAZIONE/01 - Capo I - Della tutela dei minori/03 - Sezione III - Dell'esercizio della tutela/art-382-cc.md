@@ -21,5 +21,7 @@ ordine: 467
 # Art. 382 - ***Responsabilità del tutore e del protutore***
 
 Il tutore deve amministrare il patrimonio del minore con la diligenza del buon padre di famiglia. Egli risponde verso il minore di ogni danno a lui cagionato violando i propri doveri.
+{: data-comma="1" }
 
 Nella stessa responsabilità incorre il protutore per ciò che riguarda i doveri del proprio ufficio.
+{: data-comma="2" }

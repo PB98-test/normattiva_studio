@@ -21,5 +21,7 @@ ordine: 2271
 # Art. 2150 - ***Rappresentanza della famiglia colonica***
 
 Nei rapporti relativi alla mezzadria il mezzadro rappresenta, nei confronti del concedente, i componenti della famiglia colonica.
+{: data-comma="1" }
 
 Le obbligazioni contratte dal mezzadro nell'esercizio della mezzadria sono garantite dai suoi beni e da quelli comuni della famiglia colonica. I componenti della famiglia colonica non rispondono con i loro beni, se non hanno prestato espressa garanzia.
+{: data-comma="2" }

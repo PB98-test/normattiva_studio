@@ -21,7 +21,10 @@ ordine: 1881
 # Art. 1764 - ***Sanzioni***
 
 Il mediatore che non adempie gli obblighi imposti dall'[art. 1760](art-1760-cc.md) è punito con l'ammenda da lire cinquanta a lire cinquemila.
+{: data-comma="1" }
 
 Nei casi più gravi può essere aggiunta la sospensione dalla professione fino a sei mesi.
+{: data-comma="2" }
 
 Alle stesse pene è soggetto il mediatore che presta la sua attività nell'interesse di persona notoriamente insolvente o della quale conosce lo stato d'incapacità.
+{: data-comma="3" }

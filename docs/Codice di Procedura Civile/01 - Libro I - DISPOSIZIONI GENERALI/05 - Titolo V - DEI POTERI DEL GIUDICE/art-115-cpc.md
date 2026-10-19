@@ -21,5 +21,7 @@ ordine: 122
 # Art. 115 - ***Disponibilità delle prove***
 
 Salvi i casi previsti dalla legge, il giudice deve porre a fondamento della decisione le prove proposte dalle parti o dal pubblico ministero, nonchè i fatti non specificatamente contestati dalla parte costituita.
+{: data-comma="1" }
 
 Il giudice può tuttavia, senza bisogno di prova, porre a fondamento della decisione le nozioni di fatto che rientrano nella comune esperienza.
+{: data-comma="2" }

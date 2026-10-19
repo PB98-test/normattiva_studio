@@ -21,7 +21,10 @@ ordine: 2128
 # Art. 2007 - ***Distruzione del titolo***
 
 Il possessore del titolo al portatore, che ne provi la distruzione, ha diritto di chiedere all'emittente il rilascio di un duplicato o di un titolo equivalente.
+{: data-comma="1" }
 
 Le spese sono a carico del richiedente.
+{: data-comma="2" }
 
 Se la prova della distruzione non è raggiunta, si osservano le disposizioni dell'articolo precedente.
+{: data-comma="3" }

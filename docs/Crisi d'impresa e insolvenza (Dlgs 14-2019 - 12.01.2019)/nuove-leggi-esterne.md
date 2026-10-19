@@ -5,23 +5,19 @@ search:
 
 # Leggi citate da Crisi d'impresa e insolvenza (Dlgs 14-2019 - 12.01.2019) ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Crisi d'impresa e insolvenza (Dlgs 14-2019 - 12.01.2019) — 77 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Crisi d'impresa e insolvenza (Dlgs 14-2019 - 12.01.2019) — 73 leggi trovate)*
 
-- [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const)
 - [legge 19 ottobre 2017, n. 155](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-10-19;155)
 - [legge 15 maggio 1997, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127)
 - [legge costituzionale 18 ottobre 2001, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:leggecostituzionale:2001-10-18;3)
-- [decreto-legge 18 ottobre 2012, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2012-10-18;179)
 - [legge 17 dicembre 2012, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-17;221)
 - [articolo 2, lettere m)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2016-08-19;175)
 - [D.LGS. 17 GIUGNO 2022, N. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2022-06-17;83)
 - [articolo 3, paragrafi 6 e 7, della direttiva 2013/34/UE del Parlamento europeo e del Consiglio del 26 giugno 2013](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:direttivaue:2013;34)
-- [articolo 1, comma 1, lettera n-ter) del decreto legislativo 7 marzo 2005, n. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2005-03-07;82)
 - [decreto del Ministro della giustizia del 24 settembre 2014, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto:2014-09-24;202)
 - [articolo 2, comma 1, lettera g), del decreto legislativo 6 febbraio 2007, n. 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2007-02-06;25)
 - [articolo 47, comma 1, della legge 29 dicembre 1990, n. 428](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-29;428)
 - [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445)
-- [codice in materia di protezione dei dati personali](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2003-06-30;196)
 - [decreto del Presidente della Repubblica n. 445 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000;445)
 - [articolo 3 del decreto-legge 24 agosto 2021, n. 118](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2021-08-24;118)
 - [legge 21 ottobre 2021, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-10-21;147)

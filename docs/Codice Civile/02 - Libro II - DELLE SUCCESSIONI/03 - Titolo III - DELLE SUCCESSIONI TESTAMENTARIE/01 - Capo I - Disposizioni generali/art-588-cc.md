@@ -21,5 +21,7 @@ ordine: 675
 # Art. 588 - ***Disposizioni a titolo universale e a titolo particolare***
 
 Le disposizioni testamentarie, qualunque sia l'espressione o la denominazione usata dal testatore, sono a titolo universale e attribuiscono la qualità di erede, se comprendono l'universalità o una quota dei beni del testatore. Le altre disposizioni sono a titolo particolare e attribuiscono la qualità di legatario.
+{: data-comma="1" }
 
 L'indicazione di beni determinati o di un complesso di beni non esclude che la disposizione sia a titolo universale, quando risulta che il testatore ha inteso assegnare quei beni come quota del patrimonio.
+{: data-comma="2" }

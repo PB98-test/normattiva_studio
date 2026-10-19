@@ -21,5 +21,7 @@ ordine: 848
 # Art. 761 - ***Annullamento per violenza o dolo***
 
 La divisione può essere annullata quando è l'effetto di violenza o di dolo.
+{: data-comma="1" }
 
 L'azione si prescrive in cinque anni dal giorno in cui è cessata la violenza o in cui il dolo è stato scoperto.
+{: data-comma="2" }

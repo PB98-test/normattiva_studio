@@ -21,5 +21,7 @@ ordine: 1162
 # Art. 1067 - ***Divieto di aggravare o di diminuire l'esercizio della servitù***
 
 Il proprietario del fondo dominante non può fare innovazioni che rendano più gravosa la condizione del fondo servente.
+{: data-comma="1" }
 
 Il proprietario del fondo servente non può compiere alcuna cosa che tenda a diminuire l'esercizio della servitù o a renderlo più incomodo.
+{: data-comma="2" }

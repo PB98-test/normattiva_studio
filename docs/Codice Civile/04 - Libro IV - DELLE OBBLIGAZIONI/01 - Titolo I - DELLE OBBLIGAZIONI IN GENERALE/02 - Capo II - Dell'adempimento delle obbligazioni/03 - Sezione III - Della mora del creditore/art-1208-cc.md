@@ -21,6 +21,7 @@ ordine: 1310
 # Art. 1208 - ***Requisiti per la validità dell'offerta***
 
 Affinchè l'offerta sia valida è necessario:
+{: data-comma="1" }
 
 - 1) che sia fatta al creditore capace di ricevere o a chi ha la facoltà di ricevere per lui;
 - 2) che sia fatta da persona che può validamente adempiere;
@@ -31,3 +32,4 @@ Affinchè l'offerta sia valida è necessario:
 - 7) che l'offerta sia fatta da un ufficiale pubblico a ciò autorizzato.
 
 Il debitore può subordinare l'offerta al consenso del creditore necessario per liberare i beni dalle garanzie reali o da altri vincoli che comunque ne limitino la disponibilità.
+{: data-comma="2" }

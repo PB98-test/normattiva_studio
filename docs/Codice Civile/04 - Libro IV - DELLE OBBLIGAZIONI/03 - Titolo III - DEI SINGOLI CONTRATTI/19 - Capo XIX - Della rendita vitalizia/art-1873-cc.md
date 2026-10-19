@@ -21,5 +21,7 @@ ordine: 1994
 # Art. 1873 - ***Determinazione della durata***
 
 La rendita vitalizia può costituirsi per la durata della vita del beneficiario o di altra persona.
+{: data-comma="1" }
 
 Essa può costituirsi anche per la durata della vita di più persone.
+{: data-comma="2" }

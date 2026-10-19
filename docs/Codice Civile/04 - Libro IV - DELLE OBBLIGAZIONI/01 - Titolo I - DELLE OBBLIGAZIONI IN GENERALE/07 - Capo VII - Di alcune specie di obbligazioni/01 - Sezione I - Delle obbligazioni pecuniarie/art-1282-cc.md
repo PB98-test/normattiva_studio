@@ -21,7 +21,10 @@ ordine: 1384
 # Art. 1282 - ***Interessi nelle obbligazioni pecunarie***
 
 I crediti liquidi ed esigibili di somme di danaro producono interessi di pieno diritto, salvo che la legge o il titolo stabiliscano diversamente.
+{: data-comma="1" }
 
 Salvo patto contrario, i crediti per fitti e pigioni non producono interessi se non dalla costituzione in mora.
+{: data-comma="2" }
 
 Se il credito ha per oggetto rimborso di spese fatte per cose da restituire, non decorrono interessi per il periodo di tempo in cui chi ha fatto le spese abbia goduto della cosa senza corrispettivo e senza essere tenuto a render conto del godimento.
+{: data-comma="3" }

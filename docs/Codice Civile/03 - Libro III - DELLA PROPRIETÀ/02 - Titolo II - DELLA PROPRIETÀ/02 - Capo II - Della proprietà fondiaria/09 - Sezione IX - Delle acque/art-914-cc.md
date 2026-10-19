@@ -21,5 +21,7 @@ ordine: 1009
 # Art. 914 - ***Consorzi per regolare il deflusso delle acque***
 
 Qualora per esigenze della produzione si debba provvedere a opere di sistemazione degli scoli, di soppressione di ristagni o di raccolta di acque, l'autorità amministrativa, su richiesta della maggioranza degli interessati o anche d'ufficio, può costituire un consorzio tra i proprietari dei fondi che traggono beneficio dalle opere stesse.
+{: data-comma="1" }
 
 Si applicano a tale consorzio le disposizioni del secondo e del terzo comma dell'[art. 921](art-921-cc.md).
+{: data-comma="2" }

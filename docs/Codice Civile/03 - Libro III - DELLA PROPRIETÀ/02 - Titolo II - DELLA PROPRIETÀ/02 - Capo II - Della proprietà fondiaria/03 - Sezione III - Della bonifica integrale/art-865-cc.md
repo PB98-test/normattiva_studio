@@ -21,5 +21,7 @@ ordine: 959
 # Art. 865 - ***Espropriazione per inosservanza degli obblighi***
 
 Quando l'inosservanza degli obblighi imposti ai proprietari risulta tale da compromettere l'attuazione del piano di bonifica, può farsi luogo all'espropriazione parziale o totale del fondo appartenente al proprietario inadempiente, osservate le disposizioni della legge speciale.
+{: data-comma="1" }
 
 L'espropriazione ha luogo a favore del consorzio, se questo ne fa richiesta, o, in mancanza, a favore di altra persona che si obblighi ad eseguire le opere offrendo opportune garanzie.
+{: data-comma="2" }

@@ -21,9 +21,13 @@ ordine: 1375
 # Art. 1273 - ***Accollo***
 
 Se il debitore e un terzo convengono che questi assuma il debito dell'altro, il creditore può aderire alla convenzione, rendendo irrevocabile la stipulazione a suo favore.
+{: data-comma="1" }
 
 L'adesione del creditore importa liberazione del debitore originario solo se ciò costituisce condizione espressa della stipulazione o se il creditore dichiara espressamente di liberarlo.
+{: data-comma="2" }
 
 Se non vi è liberazione del debitore, questi rimane obbligato in solido col terzo.
+{: data-comma="3" }
 
 In ogni caso il terzo è obbligato verso il creditore che ha aderito alla stipulazione nei limiti in cui ha assunto il debito, e può opporre al creditore le eccezioni fondate sul contratto in base al quale l'assunzione è avvenuta.
+{: data-comma="4" }

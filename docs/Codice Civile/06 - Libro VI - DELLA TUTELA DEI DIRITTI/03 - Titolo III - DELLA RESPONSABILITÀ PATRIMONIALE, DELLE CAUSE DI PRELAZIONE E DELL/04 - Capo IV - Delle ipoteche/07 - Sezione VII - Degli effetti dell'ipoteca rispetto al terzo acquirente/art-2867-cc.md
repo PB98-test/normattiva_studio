@@ -21,7 +21,10 @@ ordine: 3177
 # Art. 2867 - ***Terzo debitore di somma in dipendenza dell'acquisto***
 
 Se il terzo acquirente, che ha trascritto il suo titolo, è debitore, in dipendenza dell'acquisto, di una somma attualmente esigibile, la quale basti a soddisfare tutti i creditori iscritti contro il precedente proprietario, ciascuno di questi può obbligarlo al pagamento.
+{: data-comma="1" }
 
 Se il debito del terzo non è attualmente esigibile, o è minore o diverso da ciò che è dovuto ai detti creditori, questi, purchè di comune accordo, possono egualmente richiedere che venga loro pagato, fino alla rispettiva concorrenza, ciò che il terzo deve nei modi e termini della sua obbligazione.
+{: data-comma="2" }
 
 Nell'uno e nell'altro caso l'acquirente non può evitar di pagare, offrendo il rilascio dell'immobile, ma, eseguito il pagamento, l'immobile è liberato da ogni ipoteca, non esclusa quella che spetta all'alienante, e il terzo ha diritto di ottenere che si cancellino le relative iscrizioni.
+{: data-comma="3" }

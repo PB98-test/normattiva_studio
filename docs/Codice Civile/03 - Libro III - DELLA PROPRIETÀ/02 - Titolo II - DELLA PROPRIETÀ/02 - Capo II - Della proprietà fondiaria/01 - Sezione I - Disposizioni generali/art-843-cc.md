@@ -21,7 +21,10 @@ ordine: 937
 # Art. 843 - ***Accesso al fondo***
 
 Il proprietario deve permettere l'accesso e il passaggio nel suo fondo, sempre che ne venga riconosciuta la necessità, al fine di costruire o riparare un muro o altra opera propria del vicino oppure comune.
+{: data-comma="1" }
 
 Se l'accesso cagiona danno, è dovuta un'adeguata indennità.
+{: data-comma="2" }
 
 Il proprietario deve parimenti permettere l'accesso a chi vuole riprendere la cosa sua che vi si trovi accidentalmente o l'animale che vi si sia riparato sfuggendo alla custodia. Il proprietario può impedire l'accesso consegnando la cosa o l'animale.
+{: data-comma="3" }

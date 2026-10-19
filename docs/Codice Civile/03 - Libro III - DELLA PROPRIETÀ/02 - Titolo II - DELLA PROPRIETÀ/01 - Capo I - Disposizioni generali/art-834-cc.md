@@ -21,5 +21,7 @@ ordine: 928
 # Art. 834 - ***Espropriazione per pubblico interesse***
 
 Nessuno può essere privato in tutto o in parte dei beni di sua proprietà, se non per causa di pubblico interesse, legalmente dichiarata, e contro il pagamento di una giusta indennità.
+{: data-comma="1" }
 
 Le norme relative all'espropriazione per causa di pubblico interesse sono determinate da leggi speciali.
+{: data-comma="2" }

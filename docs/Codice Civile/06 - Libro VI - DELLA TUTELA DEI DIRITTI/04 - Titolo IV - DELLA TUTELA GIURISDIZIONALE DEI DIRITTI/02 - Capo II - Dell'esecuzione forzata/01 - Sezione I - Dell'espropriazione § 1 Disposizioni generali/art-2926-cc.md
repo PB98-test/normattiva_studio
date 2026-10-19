@@ -21,5 +21,7 @@ ordine: 3236
 # Art. 2926 - ***Diritti dei terzi sulla cosa assegnata***
 
 Se l'assegnazione ha per oggetto beni mobili, i terzi che ne avevano la proprietà possono, entro il termine di sessanta giorni dall'assegnazione, rivolgersi contro l'assegnatario che ha ricevuto in buona fede il possesso, al solo scopo di ripetere la somma corrispondente al suo credito soddisfatto con l'assegnazione. La stessa facoltà spetta ai terzi che avevano sulla cosa altri diritti reali, nei limiti del valore del loro diritto.
+{: data-comma="1" }
 
 L'assegnatario conserva le sue ragioni nei confronti del debitore, ma si estinguono le garanzie prestate da terzi.
+{: data-comma="2" }

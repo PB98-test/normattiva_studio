@@ -21,5 +21,7 @@ ordine: 1430
 # Art. 1328 - ***Revoca della proposta e dell'accettazione***
 
 La proposta può essere revocata finchè il contratto non sia concluso. Tuttavia, se l'accettante ne ha intrapreso in buona fede l'esecuzione prima di avere notizia della revoca, il proponente è tenuto a indennizzarlo delle spese e delle perdite subite per l'iniziata esecuzione del contratto.
+{: data-comma="1" }
 
 L'accettazione può essere revocata, purchè la revoca giunga a conoscenza del proponente prima dell'accettazione.
+{: data-comma="2" }

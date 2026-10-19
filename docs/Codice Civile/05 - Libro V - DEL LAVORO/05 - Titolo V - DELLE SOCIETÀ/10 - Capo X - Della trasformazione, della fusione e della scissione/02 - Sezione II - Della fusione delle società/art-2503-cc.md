@@ -14,23 +14,25 @@ capo_label: "Della trasformazione, della fusione e della scissione"
 sezione: "II"
 sezione_label: "Della fusione delle società"
 rubrica: "Opposizione dei creditori"
-dataVigenza: "20260914"
+dataVigenza: "20261016"
 ordine: 2757
 ---
 
 # Art. 2503 - ***Opposizione dei creditori***
 
 La fusione può essere attuata solo dopo sessanta giorni dall'ultima delle iscrizioni previste dall'[articolo 2502-bis](art-2502-bis-cc.md), salvo che consti il consenso dei creditori delle società che vi partecipano anteriori all'iscrizione o alla pubblicazione prevista nel terzo comma dell'[articolo 2501-ter](art-2501-ter-cc.md), o il pagamento dei creditori che non hanno dato il consenso, ovvero il deposito delle somme corrispondenti presso una banca, salvo che la relazione di cui all'[articolo 2501-sexies](art-2501-sexies-cc.md) sia redatta, per tutte le società partecipanti alla fusione, da un'unica società di revisione la quale asseveri, sotto la propria responsabilità ai sensi del sesto comma dell'[articolo 2501-sexies](art-2501-sexies-cc.md), che la situazione patrimoniale e finanziaria delle società partecipanti alla fusione rende non necessarie garanzie a tutela dei suddetti creditori.
+{: data-comma="1" }
 
 Se non ricorre alcuna di tali eccezioni, i creditori indicati al comma precedente possono, nel suddetto termine di sessanta giorni, fare opposizione. Si applica in tal caso l'ultimo comma dell'[articolo 2445](../../05%20-%20Capo%20V%20-%20Società%20per%20azioni/12%20-%20Sezione%20X%20-%20Delle%20modificazioni%20dello%20statuto/art-2445-cc.md).
+{: data-comma="2" }
 
 -------------------
 
-<small>*AGGIORNAMENTO (89)*   Il D.Lgs. 14 dicembre 1992, n. 481, ha disposto (con l'[art. 25](../../../../01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/02%20-%20Titolo%20II%20-%20DELLE%20PERSONE%20GIURIDICHE/02%20-%20Capo%20II%20-%20Delle%20associazioni%20e%20delle%20fondazioni/art-25-cc.md), comma 3) che "Il termine previsto dall'[art. 2503, primo comma, del codice civile](art-2503-cc.md) è ridotto a quindici giorni. "</small>
+<small>*AGGIORNAMENTO (89)*   Il D.Lgs. 14 dicembre 1992, n. 481, ha disposto (con l'art. 25, comma 3) che "Il termine previsto dall'[art. 2503, primo comma, del codice civile](art-2503-cc.md) è ridotto a quindici giorni. "</small>
 
 -------------------
 
-<small>*AGGIORNAMENTO (93)*   Il D.Lgs. 1 settembre 1993, n. 385, ha disposto (con l'[art. 57](../../../../01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/04%20-%20Titolo%20IV%20-%20DELL%27ASSENZA%20E%20DELLA%20DICHIARAZIONE%20DI%20MORTE%20PRESUNTA/01%20-%20Capo%20I%20-%20Dell%27assenza/art-57-cc.md), comma 3) che " Il termine previsto dall'[art. 2503, primo comma, del codice civile](art-2503-cc.md) è ridotto a quindici giorni."</small>
+<small>*AGGIORNAMENTO (93)*   Il D.Lgs. 1 settembre 1993, n. 385, ha disposto (con l'art. 57, comma 3) che " Il termine previsto dall'[art. 2503, primo comma, del codice civile](art-2503-cc.md) è ridotto a quindici giorni."</small>
 
 ------------------
 

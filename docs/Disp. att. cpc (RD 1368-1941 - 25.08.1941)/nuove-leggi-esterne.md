@@ -5,21 +5,19 @@ search:
 
 # Leggi citate da Disp. att. cpc (RD 1368-1941 - 25.08.1941) ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Disp. att. cpc (RD 1368-1941 - 25.08.1941) — 45 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Disp. att. cpc (RD 1368-1941 - 25.08.1941) — 41 leggi trovate)*
 
 - [legge 30 dicembre 1923, n. 2814](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-12-30;2814)
 - [articolo 7 della legge 14 gennaio 2013, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-01-14;4)
 - [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445)
 - [L. 26 novembre 2021, n. 206](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-11-26;206)
 - [L. 2 dicembre 1991, n. 399](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-02;399)
-- [codice dell'amministrazione digitale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2005-03-07;82)
 - [L. 21 NOVEMBRE 1991, N. 374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374)
 - [decreto legislativo 26 marzo 2001, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2001-03-26;151)
 - [L. 28 dicembre 2005, n. 263](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-28;263)
 - [D.L. 30 dicembre 2005, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2005-12-30;273)
 - [L. 23 febbraio 2006, n. 51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-23;51)
 - [regio decreto 18 dicembre 1941, n. 1368](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regiodecreto:1941-12-18;1368)
-- [articolo 51 del decreto legislativo 30 giugno 2003, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2003-06-30;196)
 - [decreto legislativo 30 marzo 2001, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2001-03-30;165)
 - [decreto del Presidente della Repubblica n. 115 del 2002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002;115)
 - [art. 38, comma 1, lettera b), n. 2, del decreto-legge 6 luglio 2011, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2011-07-06;98)
@@ -29,7 +27,6 @@ search:
 - [decreto del Presidente della Repubblica 3 novembre 2000, n. 396](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-11-03;396)
 - [articolo 7, sesto comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 605](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-09-29;605)
 - [L. 10 novembre 2014, n. 162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-11-10;162)
-- [articolo 16-bis, comma 1, del decreto-legge 18 ottobre 2012, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2012-10-18;179)
 - [legge 17 dicembre 2012, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-17;221)
 - [D.L. 27 giugno 2015, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2015-06-27;83)
 - [L. 6 agosto 2015, n. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-08-06;132)
@@ -49,6 +46,5 @@ search:
 - [L. 28 febbraio 2020, n. 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-02-28;8)
 - [D.L. 9 novembre 2020, n. 149](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2020-11-09;149)
 - [L. 18 dicembre 2020, n. 176](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-12-18;176)
-- [D.L. 28 ottobre 2020, n. 137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2020-10-28;137)
 - [D.L. 24 febbraio 2023, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2023-02-24;13)
 - [legge 21 gennaio 1994, n. 53](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-21;53)

@@ -21,5 +21,7 @@ ordine: 2642
 # Art. 2438 - ***Aumento di capitale***
 
 Un aumento di capitale non può essere eseguito fino a che le azioni precedentemente emesse non siano interamente liberate.
+{: data-comma="1" }
 
 In caso di violazione del precedente comma, gli amministratori sono solidalmente responsabili per i danni arrecati ai soci ed ai terzi. Restano in ogni caso salvi gli obblighi assunti con la sottoscrizione delle azioni emesse in violazione del precedente comma.
+{: data-comma="2" }

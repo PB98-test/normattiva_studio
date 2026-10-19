@@ -21,5 +21,7 @@ ordine: 728
 # Art. 641 - ***Amministrazione in caso di condizione sospensiva o di mancata prestazione di garanzia***
 
 Qualora l'erede sia istituito sotto condizione sospensiva, finchè questa condizione non si verifica o non è certo che non si può più verificare, è dato all'eredità un amministratore.
+{: data-comma="1" }
 
 Vale la stessa norma anche nel caso in cui l'erede o il legatario non adempie l'obbligo di prestare la garanzia prevista dai due articoli precedenti.
+{: data-comma="2" }

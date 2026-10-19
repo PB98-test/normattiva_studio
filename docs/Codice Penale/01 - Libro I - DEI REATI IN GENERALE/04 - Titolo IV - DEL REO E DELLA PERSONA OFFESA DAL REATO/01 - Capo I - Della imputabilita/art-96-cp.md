@@ -21,5 +21,7 @@ ordine: 108
 # Art. 96 - ***Sordomutismo***
 
 Non è imputabile il sordomuto che, nel momento in cui ha commesso il fatto, non aveva, per causa della sua infermità, la capacità d'intendere o di volere.
+{: data-comma="1" }
 
 Se la capacità d'intendere o di volere era grandemente scemata, ma non esclusa, la pena è diminuita.
+{: data-comma="2" }

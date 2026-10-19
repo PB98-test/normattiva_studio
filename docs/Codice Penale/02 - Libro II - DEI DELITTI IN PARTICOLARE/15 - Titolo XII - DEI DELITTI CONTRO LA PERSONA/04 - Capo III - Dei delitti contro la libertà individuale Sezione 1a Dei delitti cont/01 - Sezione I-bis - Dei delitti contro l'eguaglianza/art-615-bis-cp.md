@@ -21,7 +21,10 @@ ordine: 835
 # Art. 615-bis - ***Interferenze illecite nella vita privata***
 
 Chiunque, mediante l'uso di strumenti di ripresa visiva o sonora, si procura indebitamente notizie o immagini attinenti alla vita privata svolgentesi nei luoghi indicati nell'[articolo 614](art-614-cp.md), è punito con la reclusione da sei mesi a quattro anni.
+{: data-comma="1" }
 
 Alla stessa pena soggiace, salvo che il fatto costituisca più grave reato, chi rivela o diffonde, mediante qualsiasi mezzo di informazione al pubblico, le notizie o le immagini ottenute nei modi indicati nella prima parte di questo articolo.
+{: data-comma="2" }
 
 I delitti sono punibili a querela della persona offesa; tuttavia si procede d'ufficio e la pena è della reclusione da uno a cinque anni se il fatto è commesso da un pubblico ufficiale o da un incaricato di un pubblico servizio, con abuso dei poteri o con violazione dei doveri inerenti alla funzione o servizio, o da chi esercita anche abusivamente la professione di investigatore privato.
+{: data-comma="3" }

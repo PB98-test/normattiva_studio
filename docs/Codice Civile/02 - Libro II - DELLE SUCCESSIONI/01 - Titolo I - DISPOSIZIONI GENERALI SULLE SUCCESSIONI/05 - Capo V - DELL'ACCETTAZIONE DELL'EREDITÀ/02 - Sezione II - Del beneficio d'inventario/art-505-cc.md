@@ -21,9 +21,13 @@ ordine: 592
 # Art. 505 - ***Decadenza dal beneficio***
 
 L'erede che, in caso di opposizione, non osserva le norme stabilite dall'[art. 498](art-498-cc.md) o non compie la liquidazione o lo stato di graduazione nel termine stabilito dall'[art. 500](art-500-cc.md), decade dal beneficio d'inventario.
+{: data-comma="1" }
 
 Parimenti decade dal beneficio d'inventario l'erede che, nel caso previsto dall'[art. 503](art-503-cc.md), dopo l'invito ai creditori di presentare le dichiarazioni di credito, esegue pagamenti prima che sia definita la procedura di liquidazione o non osserva il termine che gli è stato prefisso a norma dell'[art. 500](art-500-cc.md).
+{: data-comma="2" }
 
 La decadenza non si verifica quando si tratta di pagamenti a favore di creditori privilegiati o ipotecari.
+{: data-comma="3" }
 
 In ogni caso la decadenza dal beneficio d'inventario può essere fatta valere solo dai creditori del defunto e dai legatari.
+{: data-comma="4" }

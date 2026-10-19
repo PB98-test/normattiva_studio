@@ -14,7 +14,7 @@ capo_label: "Dei privilegi"
 sezione: "IV"
 sezione_label: "Dell'ordine dei privilegi"
 rubrica: "Ordine degli altri privilegi sui mobili"
-dataVigenza: "20260930"
+dataVigenza: "20261016"
 ordine: 3085
 ---
 
@@ -22,8 +22,7 @@ ordine: 3085
 
 Salvo quanto è disposto dall'[articolo 2777](art-2777-cc.md), nel concorso di crediti aventi privilegio generale o speciale sulla medesima cosa, la prelazione si esercita nell'ordine che segue:
 
-1) i crediti per contributi ad istituti, enti o fondi speciali - compresi quelli sostitutivi o integrativi - che gestiscono forme di assicurazione obbligatoria per l'invalidità, la vecchiaia ed i superstiti, indicati dall'[articolo 2753](../02%20-%20Sezione%20II%20-%20Dei%20privilegi%20sui%20mobili%20§%201%20Dei%20privilegi%20generali%20sui%20mobili/art-2753-cc.md);
-
+- 1) i crediti per contributi ad istituti, enti o fondi speciali - compresi quelli sostitutivi o integrativi - che gestiscono forme di assicurazione obbligatoria per l'invalidità, la vecchiaia ed i superstiti, indicati dall'[articolo 2753](../02%20-%20Sezione%20II%20-%20Dei%20privilegi%20sui%20mobili%20§%201%20Dei%20privilegi%20generali%20sui%20mobili/art-2753-cc.md);
 - 2) i crediti per le imposte sui redditi immobiliari, indicati dall'[articolo 2771](../03%20-%20Sezione%20III%20-%20Dei%20privilegi%20sopra%20gli%20immobili/art-2771-cc.md), quando il privilegio si esercita separatamente sopra i frutti, i fitti e le pigioni degli immobili;
 - 3) NUMERO ABROGATO DAL D.GLS. 1 SETTEMBRE 1993, N. 385;
 - 4) i crediti per prestazioni e spese di conservazione e miglioramento di beni mobili, indicati dall'[articolo 2756](../02%20-%20Sezione%20II%20-%20Dei%20privilegi%20sui%20mobili%20§%201%20Dei%20privilegi%20generali%20sui%20mobili/art-2756-cc.md);

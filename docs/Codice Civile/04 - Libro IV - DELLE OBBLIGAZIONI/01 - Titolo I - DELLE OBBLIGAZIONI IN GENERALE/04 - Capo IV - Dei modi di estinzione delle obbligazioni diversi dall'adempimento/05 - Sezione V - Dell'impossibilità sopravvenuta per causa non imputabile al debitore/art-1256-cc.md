@@ -21,5 +21,7 @@ ordine: 1358
 # Art. 1256 - ***Impossibilità definitiva e impossibilità temporanea***
 
 L'obbligazione si estingue quando, per una causa non imputabile al debitore, la prestazione diventa impossibile.
+{: data-comma="1" }
 
 Se l'impossibilità è solo temporanea, il debitore, finchè essa perdura, non è responsabile del ritardo nell'adempimento. Tuttavia l'obbligazione si estingue se l'impossibilità perdura fino a quando, in relazione al titolo dell'obbligazione o alla natura dell'oggetto, il debitore non può più essere ritenuto obbligato a eseguire la prestazione ovvero il creditore non ha più interesse a conseguirla.
+{: data-comma="2" }

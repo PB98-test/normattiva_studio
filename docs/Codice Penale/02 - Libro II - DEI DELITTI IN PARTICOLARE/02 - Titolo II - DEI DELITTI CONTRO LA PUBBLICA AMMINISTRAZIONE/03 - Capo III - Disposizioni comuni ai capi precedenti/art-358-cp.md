@@ -21,5 +21,7 @@ ordine: 427
 # Art. 358 - ***Nozione della persona incaricata di un pubblico servizio***
 
 Agli effetti della legge penale, sono incaricati di un pubblico servizio coloro i quali, a qualunque titolo, prestano un pubblico servizio.
+{: data-comma="1" }
 
 Per pubblico servizio deve intendersi un'attività disciplinata nelle stesse forme della pubblica funzione, ma caratterizzata dalla mancanza dei poteri tipici di questa ultima, e con esclusione dello svolgimento di semplici mansioni di ordine e della prestazione di opera meramente materiale.
+{: data-comma="2" }

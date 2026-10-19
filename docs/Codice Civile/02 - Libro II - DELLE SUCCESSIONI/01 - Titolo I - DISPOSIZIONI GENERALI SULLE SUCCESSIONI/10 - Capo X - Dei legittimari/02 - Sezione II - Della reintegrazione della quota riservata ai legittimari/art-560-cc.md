@@ -21,7 +21,10 @@ ordine: 647
 # Art. 560 - ***Riduzione del legato o della donazione d'immobili***
 
 Quando oggetto del legato o della donazione da ridurre è un immobile, la riduzione si fa separando dall'immobile medesimo la parte occorrente per integrare la quota riservata, se ciò può avvenire comodamente.
+{: data-comma="1" }
 
 Se la separazione non può farsi comodamente e il legatario o il donatario ha nell'immobile un'eccedenza maggiore del quarto della porzione disponibile, l'immobile si deve lasciare per intero nell'eredità, salvo il diritto di conseguire il valore della porzione disponibile. Se l'eccedenza non supera il quarto, il legatario o il donatario può ritenere tutto l'immobile, compensando in danaro i legittimari.
+{: data-comma="2" }
 
 Il legatario o il donatario che è legittimario può ritenere tutto l'immobile, purchè il valore di esso non superi l'importo della porzione disponibile e della quota che gli spetta come legittimario.
+{: data-comma="3" }

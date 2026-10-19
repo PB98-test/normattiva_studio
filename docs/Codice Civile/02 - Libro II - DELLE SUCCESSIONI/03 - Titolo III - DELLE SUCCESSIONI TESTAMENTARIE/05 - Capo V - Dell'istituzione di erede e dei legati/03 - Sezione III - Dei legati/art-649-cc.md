@@ -21,7 +21,10 @@ ordine: 736
 # Art. 649 - ***Acquisto del legato***
 
 Il legato si acquista senza bisogno di accettazione, salva la facoltà di rinunziare.
+{: data-comma="1" }
 
 Quando oggetto del legato è la proprietà di una cosa determinata o altro diritto appartenente al testatore, la proprietà o il diritto si trasmette dal testatore al legatario al momento della morte del testatore.
+{: data-comma="2" }
 
 Il legatario però deve domandare all'onerato il possesso della cosa legata, anche quando ne è stato espressamente dispensato dal testatore.
+{: data-comma="3" }

@@ -21,5 +21,7 @@ ordine: 1099
 # Art. 1004 - ***Spese a carico dell'usufruttuario***
 
 Le spese e, in genere, gli oneri relativi alla custodia, amministrazione e manutenzione ordinaria della cosa sono a carico dell'usufruttuario.
+{: data-comma="1" }
 
 Sono pure a suo carico le riparazioni straordinarie rese necessarie dall'inadempimento degli obblighi di ordinaria manutenzione.
+{: data-comma="2" }

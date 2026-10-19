@@ -21,5 +21,7 @@ ordine: 1294
 # Art. 1192 - ***Pagamento eseguito con cose altrui***
 
 Il debitore non può impugnare il pagamento eseguito con cose di cui non poteva disporre, salvo che offra di eseguire la prestazione dovuta con cose di cui può disporre.
+{: data-comma="1" }
 
 Il creditore che ha ricevuto il pagamento in buona fede può impugnarlo, salvo il diritto al risarcimento del danno.
+{: data-comma="2" }

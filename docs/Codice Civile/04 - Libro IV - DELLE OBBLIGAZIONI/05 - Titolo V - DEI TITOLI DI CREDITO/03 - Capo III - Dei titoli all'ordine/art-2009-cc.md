@@ -21,7 +21,10 @@ ordine: 2130
 # Art. 2009 - ***Forma della girata***
 
 La girata deve essere scritta sul titolo e sottoscritta dal girante.
+{: data-comma="1" }
 
 È valida la girata anche se non contiene l'indicazione del giratario.
+{: data-comma="2" }
 
 La girata al portatore vale come girata in bianco.
+{: data-comma="3" }

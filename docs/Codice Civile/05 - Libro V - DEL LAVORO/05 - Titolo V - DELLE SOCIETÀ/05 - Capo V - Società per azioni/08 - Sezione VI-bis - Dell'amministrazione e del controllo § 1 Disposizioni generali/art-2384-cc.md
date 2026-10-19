@@ -21,5 +21,7 @@ ordine: 2529
 # Art. 2384 - ***Poteri di rappresentanza***
 
 Il potere di rappresentanza attribuito agli amministratori dallo statuto o dalla deliberazione di nomina è generale.
+{: data-comma="1" }
 
 Le limitazioni ai poteri degli amministratori che risultano dallo statuto o da una decisione degli organi competenti non sono opponibili ai terzi, anche se pubblicate, salvo che si provi che questi abbiano intenzionalmente agito a danno della società.
+{: data-comma="2" }

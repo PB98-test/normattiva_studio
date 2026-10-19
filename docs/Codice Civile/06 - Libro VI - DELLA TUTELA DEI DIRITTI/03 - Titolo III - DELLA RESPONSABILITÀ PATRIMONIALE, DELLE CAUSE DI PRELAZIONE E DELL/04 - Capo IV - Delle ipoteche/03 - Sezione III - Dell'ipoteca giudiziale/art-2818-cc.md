@@ -21,5 +21,7 @@ ordine: 3127
 # Art. 2818 - ***Provvedimenti da cui deriva***
 
 Ogni sentenza che porta condanna al pagamento di una somma o all'adempimento di altra obbligazione ovvero al risarcimento dei danni da liquidarsi successivamente è titolo per iscrivere ipoteca sui beni del debitore.
+{: data-comma="1" }
 
 Lo stesso ha luogo per gli altri provvedimenti giudiziali ai quali la legge attribuisce tale effetto.
+{: data-comma="2" }

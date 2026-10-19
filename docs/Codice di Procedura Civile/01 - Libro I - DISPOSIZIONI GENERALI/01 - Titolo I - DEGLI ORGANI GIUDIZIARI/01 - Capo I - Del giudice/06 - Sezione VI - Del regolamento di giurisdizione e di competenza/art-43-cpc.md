@@ -21,7 +21,10 @@ ordine: 46
 # Art. 43 - ***Regolamento facoltativo di competenza***
 
 Il provvedimento che ha pronunciato sulla competenza insieme col merito può essere impugnato con l'istanza di regolamento di competenza, oppure nei modi ordinari quando insieme con la pronuncia sulla competenza si impugna quella sul merito.
+{: data-comma="1" }
 
 La proposizione dell'impugnazione ordinaria non toglie alle altre parti la facoltà di proporre l'istanza di regolamento.
+{: data-comma="2" }
 
 Se l'istanza di regolamento è proposta prima dell'impugnazione ordinaria, i termini per la proposizione di questa riprendono a decorrere dalla comunicazione dell' ordinanza che regola la competenza; se è proposta dopo, si applica la disposizione dell'[articolo 48](art-48-cpc.md).
+{: data-comma="3" }

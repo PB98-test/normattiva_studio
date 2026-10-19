@@ -21,7 +21,10 @@ ordine: 844
 # Art. 617-quinquies - ***Detenzione, diffusione e installazione abusiva di apparecchiature e di altri mezzi atti a intercettare, impedire o interrompere comunicazioni informatiche o telematiche***
 
 Chiunque, fuori dai casi consentiti dalla legge, al fine di intercettare comunicazioni relative ad un sistema informatico o telematico o intercorrenti tra più sistemi, ovvero di impedirle o interromperle, si procura, detiene, produce, riproduce, diffonde, importa, comunica, consegna, mette in altro modo a disposizione di altri o installa apparecchiature, programmi, codici, parole chiave o altri mezzi atti ad intercettare, impedire o interrompere comunicazioni relative ad un sistema informatico o telematico ovvero intercorrenti tra più sistemi, è punito con la reclusione da uno a quattro anni.
+{: data-comma="1" }
 
 Quando ricorre taluna delle circostanze di cui all'[articolo 617-quater](art-617-quater-cp.md), quarto comma, numero 2), la pena è della reclusione da due a sei anni.
+{: data-comma="2" }
 
 Quando ricorre taluna delle circostanze di cui all'[articolo 617-quater](art-617-quater-cp.md), quarto comma, numero 1), la pena è della reclusione da tre a otto anni.
+{: data-comma="3" }

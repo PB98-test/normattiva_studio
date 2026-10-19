@@ -21,7 +21,10 @@ ordine: 253
 # Art. 230 - ***Modo dell'interrogatorio***
 
 L'interrogatorio deve essere dedotto per articoli separati e specifici.
+{: data-comma="1" }
 
 Il giudice istruttore procede all'assunzione dell'interrogatorio nei modi e termini stabiliti nell'ordinanza che l'ammette.
+{: data-comma="2" }
 
 Non possono farsi domande su fatti diversi da quelli formulati nei capitoli, a eccezione delle domande su cui le parti concordano e che il giudice ritiene utili; ma il giudice può sempre chiedere i chiarimenti opportuni sulle risposte date.
+{: data-comma="3" }

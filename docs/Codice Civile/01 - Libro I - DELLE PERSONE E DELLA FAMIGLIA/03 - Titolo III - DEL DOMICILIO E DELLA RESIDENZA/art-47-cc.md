@@ -21,5 +21,7 @@ ordine: 79
 # Art. 47 - ***Elezione di domicilio***
 
 Si può eleggere domicilio speciale per determinati atti o affari.
+{: data-comma="1" }
 
 Questa elezione deve farsi espressamente per iscritto.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 235
 # Art. 212 - ***Esibizione di copia del documento e dei libri di commercio***
 
 Il giudice istruttore può disporre che, in sostituzione dell'originale, si esibisca una copia anche fotografica o un estratto autentico del documento.
+{: data-comma="1" }
 
 Nell'ordinare l'esibizione di libri di commercio o di registri al fine di estrarne determinate partite, il giudice, su istanza dell'interessato, può disporre che siano prodotti estratti, per la formazione dei quali nomina un notaio e, quando occorre, un esperto affinchè lo assista.
+{: data-comma="2" }

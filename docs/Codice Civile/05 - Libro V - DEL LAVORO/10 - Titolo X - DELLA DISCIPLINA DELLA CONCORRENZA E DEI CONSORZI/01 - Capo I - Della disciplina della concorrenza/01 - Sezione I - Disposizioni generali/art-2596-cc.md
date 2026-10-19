@@ -21,5 +21,7 @@ ordine: 2887
 # Art. 2596 - ***Limiti contrattuali della concorrenza***
 
 Il patto che limita la concorrenza deve essere provato per iscritto. Esso è valido se circoscritto ad una determinata zona o ad una determinata attività, e non può eccedere la durata di cinque anni.
+{: data-comma="1" }
 
 Se la durata del patto non è determinata o è stabilita per un periodo superiore a cinque anni, il patto è valido per la durata di un quinquennio.
+{: data-comma="2" }

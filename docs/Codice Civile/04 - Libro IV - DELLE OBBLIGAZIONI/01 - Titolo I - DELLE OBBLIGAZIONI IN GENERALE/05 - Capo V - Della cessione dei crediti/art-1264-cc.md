@@ -21,5 +21,7 @@ ordine: 1366
 # Art. 1264 - ***Efficacia della cessione riguardo al debitore ceduto***
 
 La cessione ha effetto nei confronti del debitore ceduto quando questi l'ha accettata o quando gli è stata notificata.
+{: data-comma="1" }
 
 Tuttavia, anche prima della notificazione, il debitore che paga al cedente non è liberato, se il cessionario prova che il debitore medesimo era a conoscenza dell'avvenuta cessione.
+{: data-comma="2" }

@@ -21,9 +21,13 @@ ordine: 2143
 # Art. 2022 - ***Trasferimento***
 
 Il trasferimento del titolo nominativo si opera mediante l'annotazione del nome dell'acquirente sul titolo e nel registro dell'emittente o col rilascio di un nuovo titolo intestato al nuovo titolare. Del rilascio deve essere fatta annotazione nel registro.
+{: data-comma="1" }
 
 Colui che chiede l'intestazione del titolo a favore di un'altra persona, o il rilascio di un nuovo titolo ad essa intestato, deve provare la propria identità e la propria capacità di disporre, mediante certificazione di un notaio o di un agente di cambio. Se l'intestazione o il rilascio è richiesto dall'acquirente, questi deve esibire il titolo e dimostrare il suo diritto mediante atto autentico.
+{: data-comma="2" }
 
 Le annotazioni nel registro e sul titolo sono fatte a cura e sotto la responsabilità dell'emittente.
+{: data-comma="3" }
 
 L'emittente che esegue il trasferimento nei modi indicati dal presente articolo è esonerato da responsabilità, salvo il caso di colpa.
+{: data-comma="4" }

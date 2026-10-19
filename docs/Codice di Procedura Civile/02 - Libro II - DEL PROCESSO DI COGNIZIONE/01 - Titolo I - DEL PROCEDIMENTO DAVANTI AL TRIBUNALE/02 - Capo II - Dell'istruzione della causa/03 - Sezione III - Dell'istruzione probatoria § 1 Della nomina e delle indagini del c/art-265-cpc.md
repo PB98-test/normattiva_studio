@@ -21,5 +21,7 @@ ordine: 289
 # Art. 265 - ***Giuramento***
 
 Il collegio può ammettere il creditore a determinare con giuramento le somme a lui dovute, se la parte tenuta al rendiconto non lo presenta o rimane contumace. Si applica in tal caso la disposizione dell'[articolo 241](art-241-cpc.md).
+{: data-comma="1" }
 
 Il collegio può altresì ordinare a chi rende il conto di asseverare con giuramento le partite per le quali non si può o non si suole richiedere ricevuta; ma può anche ammetterle senza giuramento, quando sono verosimili e ragionevoli.
+{: data-comma="2" }

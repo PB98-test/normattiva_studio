@@ -21,5 +21,7 @@ ordine: 674
 # Art. 587 - ***Testamento***
 
 Il testamento è un atto revocabile con il quale taluno dispone, per il tempo in cui avrà cessato di vivere, di tutte le proprie sostanze o di parte di esse.
+{: data-comma="1" }
 
 Le disposizioni di carattere non patrimoniale, che la legge consente siano contenute in un testamento, hanno efficacia, se contenute in un atto che ha la forma del testamento, anche se manchino disposizioni di carattere patrimoniale.
+{: data-comma="2" }

@@ -21,6 +21,7 @@ ordine: 310
 # Art. 275-bis - ***Violazione delle misure restrittive dell'Unione europea***
 
 È punito con la reclusione da due a sei anni e con la multa da euro 25.000 a euro 250.000 chiunque, in violazione di un divieto, di un obbligo o di una restrizione imposti da una misura restrittiva dell'Unione europea o da disposizioni di legge nazionale che attuano una misura restrittiva dell'Unione europea:
+{: data-comma="1" }
 
 - a) mette direttamente o indirettamente a disposizione di una persona, entità, organismo o gruppo designati, o stanzia a vantaggio dei medesimi fondi o risorse economiche;.
 - b) omette di adottare misure di congelamento su fondi o risorse economiche appartenenti a una persona, a una entità, a un organismo o gruppo designati, o da questi posseduti, detenuti o controllati;.
@@ -29,12 +30,16 @@ ordine: 310
 - e) presta servizi di qualsiasi natura, ivi compresi servizi finanziari, o svolge operazioni finanziarie..
 
 La stessa pena di cui al primo comma, si applica a chiunque elude l'esecuzione di una misura restrittiva dell'Unione europea mediante:
+{: data-comma="2" }
 
 - a) l'utilizzo, il trasferimento a terzi o la cessione in altro modo di fondi o di risorse economiche oggetto di congelamento direttamente o indirettamente posseduti, detenuti o controllati da una persona, entità, organismo o gruppo designati;
 - b) la presentazione o l'utilizzo di dichiarazioni o documenti falsi o attestanti cose non vere allo scopo di ostacolare l'identificazione del titolare effettivo o beneficiario finale di fondi o di risorse economiche da sottoporre a congelamento..
 
 Quando, nei casi indicati dal primo comma e dal secondo comma, i fondi, le risorse economiche, i beni, i servizi, le operazioni o le attività hanno, al momento del fatto, un valore inferiore a euro 10.000, si applica soltanto la sanzione amministrativa del pagamento di una somma di denaro da euro 15.000 a euro 90.000. La disposizione di cui al periodo che precede non si applica nell'ipotesi di cui al primo comma, lettera d) se il fatto ha ad oggetto prodotti inclusi nell'elenco comune delle attrezzature militari dell'Unione europea o prodotti a duplice uso di cui agli allegati I e IV del regolamento (UE) 2021/821 del Parlamento europeo e del Consiglio del 20 maggio 2021..
+{: data-comma="3" }
 
 Ai fini della determinazione del valore indicato al terzo comma, si tiene conto delle operazioni di minore importo quando esecutive del medesimo disegno economico..
+{: data-comma="4" }
 
 Le disposizioni di cui ai commi che precedono si applicano anche nei casi di operazioni compiute senza la relativa autorizzazione, o con autorizzazione ottenuta fornendo dichiarazioni o documentazione false.
+{: data-comma="5" }

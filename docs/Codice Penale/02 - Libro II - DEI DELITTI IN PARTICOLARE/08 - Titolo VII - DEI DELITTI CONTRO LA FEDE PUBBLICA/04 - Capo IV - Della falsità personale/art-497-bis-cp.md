@@ -21,5 +21,7 @@ ordine: 619
 # Art. 497-bis - ***Possesso e fabbricazione di documenti di identificazione falsi***
 
 Chiunque è trovato in possesso di un documento falso valido per l'espatrio è punito con la reclusione da due a cinque anni.
+{: data-comma="1" }
 
 La pena di cui al primo comma è aumentata da un terzo alla metà per chi fabbrica o comunque forma il documento falso, ovvero lo detiene fuori dei casi di uso personale.
+{: data-comma="2" }

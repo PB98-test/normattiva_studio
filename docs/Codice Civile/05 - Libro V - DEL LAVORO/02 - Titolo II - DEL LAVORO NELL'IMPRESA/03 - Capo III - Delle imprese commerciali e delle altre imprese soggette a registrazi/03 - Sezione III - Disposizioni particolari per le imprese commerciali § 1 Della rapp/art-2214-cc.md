@@ -21,7 +21,10 @@ ordine: 2335
 # Art. 2214 - ***Libri obbligatori e altre scritture contabili***
 
 L'imprenditore che esercita un'attività commerciale deve tenere il libro giornale e il libro degli inventari.
+{: data-comma="1" }
 
 Deve altresì tenere le altre scritture contabili che siano richieste dalla natura e dalle dimensioni dell'impresa e conservare ordinatamente per ciascun affare gli originali delle lettere, dei telegrammi e delle fatture ricevute, nonchè le copie delle lettere, dei telegrammi e delle fatture spedite.
+{: data-comma="2" }
 
 Le disposizioni di questo paragrafo non si applicano ai piccoli imprenditori.
+{: data-comma="3" }

@@ -21,5 +21,7 @@ ordine: 1888
 # Art. 1771 - ***Richiesta di restituzione e obbligo di ritirare la cosa***
 
 Il depositario deve restituire la cosa appena il depositante la richiede, salvo che sia convenuto un termine nell'interesse del depositario.
+{: data-comma="1" }
 
 Il depositario può richiedere in qualunque tempo che il depositante riprenda la cosa, salvo che sia convenuto un termine nell'interesse del depositante. Anche se non è stato convenuto un termine, il giudice può concedere al depositante un termine congruo per ricevere la cosa.
+{: data-comma="2" }

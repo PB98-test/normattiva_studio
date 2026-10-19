@@ -21,5 +21,7 @@ ordine: 3080
 # Art. 2774 - ***Crediti per concessione di acque***
 
 I crediti dello Stato per i canoni dovuti dai concessionari di acque pubbliche o di acque derivate da canali demaniali ovvero per i lavori eseguiti d'ufficio sono privilegiati sugli impianti, in conformità delle leggi speciali.
+{: data-comma="1" }
 
 Tale privilegio, per quanto riguarda i canoni, non è opponibile ai terzi che hanno acquistato diritti sugli immobili anteriormente all'atto di concessione o, trattandosi di crediti per lavori, anteriormente al sorgere dei crediti stessi.
+{: data-comma="2" }

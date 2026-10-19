@@ -21,5 +21,7 @@ ordine: 2906
 # Art. 2615 - ***Responsabilità verso i terzi***
 
 Per le obbligazioni assunte in nome del consorzio dalle persone che ne hanno la rappresentanza, i terzi possono far valere i loro diritti esclusivamente sul fondo consortile.
+{: data-comma="1" }
 
 Per le obbligazioni assunte dagli organi del consorzio per conto dei singoli consorziati rispondono questi ultimi solidalmente col fondo consortile. In caso d'insolvenza nei rapporti tra i consorziati il debito dell'insolvente si ripartisce tra tutti in proporzione delle quote.
+{: data-comma="2" }

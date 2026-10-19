@@ -21,7 +21,10 @@ ordine: 52
 # Art. 21 - ***Deliberazioni dell'assemblea***
 
 Le deliberazioni dell'assemblea sono prese a maggioranza di voti e con la presenza di almeno la metà degli associati. In seconda convocazione la deliberazione è valida qualunque sia il numero degli intervenuti. Nelle deliberazioni di approvazione del bilancio e in quelle che riguardano la loro responsabilità gli amministratori non hanno voto.
+{: data-comma="1" }
 
 Per modificare l'atto costitutivo e lo statuto, se in essi non è altrimenti disposto, occorrono la presenza di almeno tre quarti degli associati e il voto favorevole della maggioranza dei presenti.
+{: data-comma="2" }
 
 Per deliberare lo scioglimento dell'associazione e la devoluzione del patrimonio occorre il voto favorevole di almeno tre quarti degli associati.
+{: data-comma="3" }

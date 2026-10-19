@@ -21,5 +21,7 @@ ordine: 1278
 # Art. 1176 - ***Diligenza nell'adempimento***
 
 Nell'adempiere l'obbligazione il debitore deve usare la diligenza del buon padre di famiglia.
+{: data-comma="1" }
 
 Nell'adempimento delle obbligazioni inerenti all'esercizio di un'attività professionale, la diligenza deve valutarsi con riguardo alla natura dell'attività esercitata.
+{: data-comma="2" }

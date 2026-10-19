@@ -21,5 +21,7 @@ ordine: 1711
 # Art. 1596 - ***Fine della locazione per lo spirare del termine***
 
 La locazione per un tempo determinato dalle parti cessa con lo spirare del termine, senza che sia necessaria la disdetta.
+{: data-comma="1" }
 
 La locazione senza determinazione di tempo non cessa, se prima della scadenza stabilita a norma dell'[art. 1574](art-1574-cc.md) una delle parti non comunica all'altra disdetta nel termine fissato dalle norme corporative o, in mancanza, in quello determinato dalle parti o dagli usi.
+{: data-comma="2" }

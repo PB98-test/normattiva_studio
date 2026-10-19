@@ -21,5 +21,7 @@ ordine: 545
 # Art. 450 - ***Delitti colposi di pericolo***
 
 Chiunque, con la propria azione od omissione colposa, fa sorgere o persistere il pericolo di un disastro ferroviario, di un'inondazione, di un naufragio, o della sommersione di una nave o di un altro edificio natante, è punito con la reclusione fino a due anni.
+{: data-comma="1" }
 
 La reclusione non è inferiore a un anno se il colpevole ha trasgredito ad una particolare ingiunzione dell'Autorità diretta alla rimozione del pericolo.
+{: data-comma="2" }

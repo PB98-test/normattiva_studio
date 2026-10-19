@@ -21,5 +21,7 @@ ordine: 367
 # Art. 329 - ***Acquiescenza totale o parziale***
 
 Salvi i casi di cui ai numeri 1, 2, 3 e 6 dell'[articolo 395](../04%20-%20Capo%20IV%20-%20Della%20revocazione/art-395-cpc.md), l'acquiescenza risultante da accettazione espressa o da atti incompatibili con la volontà di avvalersi delle impugnazioni ammesse dalla legge ne esclude la proponibilità.
+{: data-comma="1" }
 
 L'impugnazione parziale importa acquiescenza alle parti della sentenza non impugnate.
+{: data-comma="2" }

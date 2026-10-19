@@ -21,8 +21,10 @@ ordine: 686
 # Art. 599 - ***Persone interposte***
 
 Le disposizioni testamentarie a vantaggio delle persone incapaci indicate dagli [articoli 592](art-592-cc.md), [593](art-593-cc.md), [595](art-595-cc.md), [596](art-596-cc.md), [597](art-597-cc.md) e [598](art-598-cc.md) sono nulle anche se fatte sotto nome d'interposta persona.
+{: data-comma="1" }
 
 Sono reputate persone interposte il padre, la madre, i discendenti e il coniuge della persona incapace, anche se chiamati congiuntamente con l'incapace. [^agg-22] [^agg-49]
+{: data-comma="2" }
 
 [^agg-22]: *AGGIORNAMENTO (22)* La Corte Costituzionale, con sentenza 18 - 28 dicembre 1970, n. 205 (in G.U. 1a s.s. 30/12/1970, n. 329), ha dichiarato, ai sensi dell'art. 27 della legge 11 marzo 1953, n. 87, l'illegittimità costituzionale dell'[articolo 599 del codice civile](art-599-cc.md), nella parte in cui si riferisce agli [articoli 592](art-592-cc.md) e [593](art-593-cc.md) del presente codice.
 

@@ -21,5 +21,7 @@ ordine: 615
 # Art. 477 - ***Efficacia del titolo esecutivo contro gli eredi***
 
 Il titolo esecutivo contro il defunto ha efficacia contro gli eredi, ma si può loro notificare il precetto soltanto dopo dieci giorni dalla notificazione del titolo.
+{: data-comma="1" }
 
 Entro un anno dalla morte, la notificazione può farsi agli eredi collettivamente e impersonalmente, nell'ultimo domicilio del defunto.
+{: data-comma="2" }

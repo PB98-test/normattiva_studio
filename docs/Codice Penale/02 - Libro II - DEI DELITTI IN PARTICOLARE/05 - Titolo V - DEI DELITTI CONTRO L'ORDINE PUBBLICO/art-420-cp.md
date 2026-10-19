@@ -21,7 +21,10 @@ ordine: 508
 # Art. 420 - ***Attentato a impianti di pubblica utilità***
 
 Chiunque commette un fatto diretto a danneggiare o distruggere impianti di pubblica utilità, è punito, salvo che il fatto costituisca più grave reato, con la reclusione da uno a quattro anni.
+{: data-comma="1" }
 
 COMMA ABROGATO DALLA L. 18 MARZO 2008, N. 48.
+{: data-comma="2" }
 
 COMMA ABROGATO DALLA L. 18 MARZO 2008, N. 48.
+{: data-comma="3" }

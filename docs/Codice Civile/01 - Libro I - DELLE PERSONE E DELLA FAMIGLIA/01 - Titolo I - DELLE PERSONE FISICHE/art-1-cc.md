@@ -21,7 +21,10 @@ ordine: 32
 # Art. 1 - ***Capacità giuridica***
 
 La capacità giuridica si acquista dal momento della nascita.
+{: data-comma="1" }
 
 I diritti che la legge riconosce a favore del concepito sono subordinati all'evento della nascita.
+{: data-comma="2" }
 
 IL D.LGS. LUOGOTENENZIALE 14 SETTEMBRE 1944, N. 287 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE COMMA.
+{: data-comma="3" }

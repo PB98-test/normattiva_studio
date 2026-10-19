@@ -21,5 +21,7 @@ ordine: 2294
 # Art. 2173 - ***Direzione dell'impresa e assunzione di mano d'opera***
 
 La direzione dell'impresa spetta al soccidante, il quale deve esercitarla secondo le regole della buona tecnica dell'allevamento.
+{: data-comma="1" }
 
 La scelta di prestatori di lavoro, estranei alla famiglia del soccidario, deve essere fatta col consenso del soccidante, anche quando secondo la convenzione o gli usi la relativa spesa è posta a carico del soccidario.
+{: data-comma="2" }

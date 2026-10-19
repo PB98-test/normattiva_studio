@@ -21,5 +21,7 @@ ordine: 2876
 # Art. 2585 - ***Oggetto del brevetto***
 
 Possono costituire oggetto di brevetto le nuove invenzioni atte ad avere un'applicazione industriale, quali un metodo o un processo di lavorazione industriale, una macchina, uno strumento, un utensile o un dispositivo meccanico, un prodotto o un risultato industriale e l'applicazione tecnica di un principio scientifico, purchè essa dia immediati risultati industriali.
+{: data-comma="1" }
 
 In quest'ultimo caso il brevetto è limitato ai soli risultati indicati dall'inventore.
+{: data-comma="2" }

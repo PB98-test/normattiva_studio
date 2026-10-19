@@ -21,5 +21,7 @@ ordine: 1047
 # Art. 952 - ***Costituzione del diritto di superficie***
 
 Il proprietario può costituire il diritto di fare e mantenere al disopra del suolo una costruzione a favore di altri, che ne acquista la proprietà.
+{: data-comma="1" }
 
 Del pari può alienare la proprietà della costruzione già esistente, separatamente dalla proprietà del suolo.
+{: data-comma="2" }

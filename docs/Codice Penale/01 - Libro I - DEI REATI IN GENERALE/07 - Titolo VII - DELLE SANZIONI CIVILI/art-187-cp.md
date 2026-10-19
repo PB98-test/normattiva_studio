@@ -21,5 +21,7 @@ ordine: 208
 # Art. 187 - ***Indivisibilità e solidarietà nelle obbligazioni ex delicto***
 
 L'obbligo alle restituzioni e alla pubblicazione della sentenza penale di condanna è indivisibile.
+{: data-comma="1" }
 
 I condannati per uno stesso reato sono obbligati in solido al risarcimento del danno patrimoniale o non patrimoniale.
+{: data-comma="2" }

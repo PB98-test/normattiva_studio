@@ -21,5 +21,7 @@ ordine: 1855
 # Art. 1739 - ***Obblighi dello spedizioniere***
 
 Nell'esecuzione del mandato lo spedizioniere è tenuto a osservare le istruzioni del mandante.
+{: data-comma="1" }
 
 Lo spedizioniere non ha l'obbligo di provvedere all'assicurazione delle cose spedite, salva espressa richiesta del mandante.
+{: data-comma="2" }

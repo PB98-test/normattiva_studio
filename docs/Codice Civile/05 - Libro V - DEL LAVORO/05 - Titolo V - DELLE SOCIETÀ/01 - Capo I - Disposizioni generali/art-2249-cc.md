@@ -21,7 +21,10 @@ ordine: 2371
 # Art. 2249 - ***Tipi di società***
 
 Le società che hanno per oggetto l'esercizio di una attività commerciale devono costituirsi secondo uno dei tipi regolati nei capi III e seguenti di questo titolo.
+{: data-comma="1" }
 
 Le società che hanno per oggetto l'esercizio di una attività diversa sono regolate dalle disposizioni sulla società semplice, a meno che i soci abbiano voluto costituire la società secondo uno degli altri tipi regolati nei capi III e seguenti di questo titolo.
+{: data-comma="2" }
 
 Sono salve le disposizioni riguardanti le società cooperative e quelle delle leggi speciali che per l'esercizio di particolari categorie d'imprese prescrivono la costituzione della società secondo un determinato tipo.
+{: data-comma="3" }

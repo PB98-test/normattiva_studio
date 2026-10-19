@@ -21,11 +21,16 @@ ordine: 790
 # Art. 703 - ***Funzioni dell'esecutore testamentario***
 
 L'esecutore testamentario deve curare che siano esattamente eseguite le disposizioni di ultima volontà del defunto.
+{: data-comma="1" }
 
 A tal fine, salvo contraria volontà del testatore, egli deve amministrare la massa ereditaria, prendendo possesso dei beni che ne fanno parte.
+{: data-comma="2" }
 
 Il possesso non può durare più di un anno dalla dichiarazione di accettazione, salvo che l'autorità giudiziaria, per motivi di evidente necessità, sentiti gli eredi, ne prolunghi la durata, che non potrà mai superare un altro anno.
+{: data-comma="3" }
 
 L'esecutore deve amministrare come un buon padre di famiglia e può compiere tutti gli atti di gestione occorrenti. Quando è necessario alienare beni dell'eredità, ne chiede l'autorizzazione all'autorità giudiziaria, la quale provvede sentiti gli eredi.
+{: data-comma="4" }
 
 Qualsiasi atto dell'esecutore testamentario non pregiudica il diritto del chiamato a rinunziare all'eredità o ad accettarla col beneficio d'inventario.
+{: data-comma="5" }

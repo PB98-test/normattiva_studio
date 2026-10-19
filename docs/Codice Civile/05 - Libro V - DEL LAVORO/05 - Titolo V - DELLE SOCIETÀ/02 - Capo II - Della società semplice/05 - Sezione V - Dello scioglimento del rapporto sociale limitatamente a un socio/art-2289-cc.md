@@ -21,9 +21,13 @@ ordine: 2411
 # Art. 2289 - ***Liquidazione della quota del socio uscente***
 
 Nei casi in cui il rapporto sociale si scioglie limitatamente a un socio, questi o i suoi eredi hanno diritto soltanto ad una somma di danaro che rappresenti il valore della quota.
+{: data-comma="1" }
 
 La liquidazione della quota è fatta in base alla situazione patrimoniale della società nel giorno in cui si verifica lo scioglimento.
+{: data-comma="2" }
 
 Se vi sono operazioni in corso, il socio o i suoi eredi partecipano agli utili e alle perdite inerenti alle operazioni medesime.
+{: data-comma="3" }
 
 Salvo quanto è disposto nell'[art. 2270](../03%20-%20Sezione%20III%20-%20Dei%20rapporti%20con%20i%20terzi/art-2270-cc.md), il pagamento della quota spettante al socio deve essere fatto entro sei mesi dal giorno in cui si verifica lo scioglimento del rapporto.
+{: data-comma="4" }

@@ -21,5 +21,7 @@ ordine: 103
 # Art. 71 - ***Estinzione dei diritti spettanti alla persona di cui si ignora l'esistenza***
 
 Le disposizioni degli articoli precedenti non pregiudicano la petizione di eredità nè gli altri diritti spettanti alla persona di cui s'ignora l'esistenza o ai suoi eredi o aventi causa, salvi gli effetti della prescrizione o dell'usucapione.
+{: data-comma="1" }
 
 La restituzione dei frutti non è dovuta se non dal giorno della costituzione in mora.
+{: data-comma="2" }

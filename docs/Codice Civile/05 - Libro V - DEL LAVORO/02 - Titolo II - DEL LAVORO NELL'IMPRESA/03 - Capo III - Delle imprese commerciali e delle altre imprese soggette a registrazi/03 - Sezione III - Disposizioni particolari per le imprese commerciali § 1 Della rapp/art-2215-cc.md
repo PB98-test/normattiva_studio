@@ -21,5 +21,7 @@ ordine: 2336
 # Art. 2215 - ***Modalità di tenuta delle scritture contabili***
 
 I libri contabili, prima di essere messi in uso, devono essere numerati progressivamente in ogni pagina e, qualora sia previsto l'obbligo della bollatura o della vidimazione, devono essere bollati in ogni foglio dall'ufficio del registro delle imprese o da un notaio secondo le disposizioni delle leggi speciali. L'ufficio del registro o il notaio deve dichiarare nell'ultima pagina dei libri il numero dei fogli che li compongono.
+{: data-comma="1" }
 
 Il libro giornale e il libro degli inventari devono essere numerati progressivamente e non sono soggetti a bollatura nè a vidimazione.
+{: data-comma="2" }

@@ -21,11 +21,16 @@ ordine: 2500
 # Art. 2362 - ***Unico azionista***
 
 Quando le azioni risultano appartenere ad una sola persona o muta la persona dell'unico socio, gli amministratori devono depositare per l'iscrizione del registro delle imprese una dichiarazione contenente l'indicazione del cognome e nome o della denominazione, della data e del luogo di nascita o lo Stato di costituzione, del domicilio o della sede e cittadinanza dell'unico socio.
+{: data-comma="1" }
 
 Quando si costituisce o ricostituisce la pluralità dei soci, gli amministratori ne devono depositare apposita dichiarazione per l'iscrizione nel registro delle imprese.
+{: data-comma="2" }
 
 L'unico socio o colui che cessa di essere tale può provvedere alla pubblicità prevista nei commi precedenti.
+{: data-comma="3" }
 
 Le dichiarazioni degli amministratori previste dai precedenti commi devono essere depositate entro trenta giorni dall'iscrizione nel libro dei soci e devono indicare la data di iscrizione.
+{: data-comma="4" }
 
 I contratti della società con l'unico socio o le operazioni a favore dell'unico socio sono opponibili ai creditori della società solo se risultano dal libro delle adunanze e delle deliberazioni del consiglio di amministrazione o da atto scritto avente data certa anteriore al pignoramento.
+{: data-comma="5" }

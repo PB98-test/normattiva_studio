@@ -21,5 +21,7 @@ ordine: 464
 # Art. 379 - ***Gratuità della tutela***
 
 L'ufficio tutelare è gratuito.
+{: data-comma="1" }
 
 Il giudice tutelare tuttavia, considerando l'entità del patrimonio e le difficoltà dell'amministrazione, può assegnare al tutore un'equa indennità. Può altresì, se particolari circostanze lo richiedono, sentito il protutore, autorizzare il tutore a farsi coadiuvare nell'amministrazione, sotto la sua personale responsabilità, da una o più persone stipendiate.
+{: data-comma="2" }

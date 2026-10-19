@@ -21,7 +21,10 @@ ordine: 1013
 # Art. 918 - ***Consorzi volontari***
 
 Possono costituirsi in consorzio i proprietari di fondi vicini che vogliano riunire e usare in comune le acque defluenti dal medesimo bacino di alimentazione o da bacini contigui.
+{: data-comma="1" }
 
 L'adesione degli interessati e il regolamento del consorzio devono risultare da atto scritto.
+{: data-comma="2" }
 
 Il regolamento del consorzio è deliberato dalla maggioranza calcolata in base all'estensione dei terreni a cui serve l'acqua.
+{: data-comma="3" }

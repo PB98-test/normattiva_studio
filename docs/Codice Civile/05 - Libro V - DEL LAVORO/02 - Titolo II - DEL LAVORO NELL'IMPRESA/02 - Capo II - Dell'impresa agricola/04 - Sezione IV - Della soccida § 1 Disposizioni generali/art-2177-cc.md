@@ -21,5 +21,7 @@ ordine: 2298
 # Art. 2177 - ***Trasferimento dei diritti sul bestiame***
 
 Se la proprietà o il godimento del bestiame dato a soccida viene trasferito ad altri, il contratto non si scioglie, e i crediti e i debiti del soccidante, derivanti dalla soccida, passano all'acquirente in proporzione della quota acquistata, salva per i debiti la responsabilità, sussidiaria del soccidante.
+{: data-comma="1" }
 
 Se il trasferimento riguarda la maggior parte del bestiame, il soccidario può, nel termine di un mese da quando ha avuto conoscenza del trasferimento, recedere dal contratto con effetto dalla fine dell'anno in corso.
+{: data-comma="2" }

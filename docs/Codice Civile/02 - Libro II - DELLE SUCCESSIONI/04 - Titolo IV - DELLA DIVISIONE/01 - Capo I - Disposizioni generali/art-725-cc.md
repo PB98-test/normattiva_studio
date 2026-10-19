@@ -21,5 +21,7 @@ ordine: 812
 # Art. 725 - ***Prelevamenti***
 
 Se i beni donati non sono conferiti in natura, o se vi sono debiti da imputare alla quota di un erede a norma del secondo comma dell'articolo precedente, gli altri eredi prelevano dalla massa ereditaria beni in proporzione delle loro rispettive quote.
+{: data-comma="1" }
 
 I prelevamenti, per quanto è possibile, si formano con oggetti della stessa natura e qualità di quelli che non sono stati conferiti in natura.
+{: data-comma="2" }

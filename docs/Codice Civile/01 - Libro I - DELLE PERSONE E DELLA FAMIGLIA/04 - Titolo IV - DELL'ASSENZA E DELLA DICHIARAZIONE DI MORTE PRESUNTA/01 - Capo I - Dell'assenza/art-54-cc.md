@@ -21,5 +21,7 @@ ordine: 86
 # Art. 54 - ***Limiti alla disponibilità dei beni***
 
 Coloro che hanno ottenuto l'immissione nel possesso temporaneo dei beni non possono alienarli, ipotecarli o sottoporli a pegno, se non per necessità o utilità evidente riconosciuta dal tribunale.
+{: data-comma="1" }
 
 Il tribunale nell'autorizzare questi atti dispone circa l'uso e l'impiego delle somme ricavate.
+{: data-comma="2" }

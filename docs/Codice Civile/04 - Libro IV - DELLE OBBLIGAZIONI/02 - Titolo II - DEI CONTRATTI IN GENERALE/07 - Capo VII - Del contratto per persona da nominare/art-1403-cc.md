@@ -21,5 +21,7 @@ ordine: 1505
 # Art. 1403 - ***Forme e pubblicità***
 
 La dichiarazione di nomina e la procura o l'accettazione della persona nominata non hanno effetto se non rivestono la stessa forma che le parti hanno usata per il contratto, anche se non prescritta dalla legge.
+{: data-comma="1" }
 
 Se per il contratto è richiesta a determinati effetti una forma di pubblicità, deve agli stessi effetti essere resa pubblica anche la dichiarazione di nomina, con l'indicazione dell'atto di procura o dell'accettazione della persona nominata.
+{: data-comma="2" }

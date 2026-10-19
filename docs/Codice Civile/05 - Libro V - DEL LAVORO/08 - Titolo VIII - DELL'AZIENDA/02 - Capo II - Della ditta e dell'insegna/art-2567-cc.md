@@ -21,5 +21,7 @@ ordine: 2858
 # Art. 2567 - ***Società***
 
 La ragione sociale e la denominazione delle società sono regolate dai titoli V e VI di questo libro.
+{: data-comma="1" }
 
 Tuttavia si applicano anche ad esse le disposizioni dell'[art. 2564](art-2564-cc.md).
+{: data-comma="2" }

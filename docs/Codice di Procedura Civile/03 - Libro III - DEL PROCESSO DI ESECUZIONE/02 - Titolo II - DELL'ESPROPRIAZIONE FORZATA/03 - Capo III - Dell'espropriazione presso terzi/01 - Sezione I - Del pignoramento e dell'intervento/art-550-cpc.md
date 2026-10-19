@@ -21,7 +21,10 @@ ordine: 693
 # Art. 550 - ***Pluralità di pignoramenti***
 
 Il terzo deve indicare i pignoramenti che sono stati eseguiti presso di lui.
+{: data-comma="1" }
 
 Se altri pignoramenti sono eseguiti dopo che il terzo abbia fatto la sua dichiarazione, egli può limitarsi a richiamare la dichiarazione precedente e i pignoramenti ai quali si riferiva.
+{: data-comma="2" }
 
 Si applicano le disposizioni dell'[articolo 524](../../02%20-%20Capo%20II%20-%20Dell%27espropriazione%20mobiliare%20presso%20il%20debitore/01%20-%20Sezione%20I%20-%20Del%20pignoramento/art-524-cpc.md) secondo e terzo comma.
+{: data-comma="3" }

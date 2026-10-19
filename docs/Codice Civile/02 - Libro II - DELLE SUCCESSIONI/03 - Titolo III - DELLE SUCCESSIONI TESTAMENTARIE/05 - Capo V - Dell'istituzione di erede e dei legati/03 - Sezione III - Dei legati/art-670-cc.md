@@ -21,5 +21,7 @@ ordine: 757
 # Art. 670 - ***Legato di prestazioni periodiche***
 
 Se è stata legata una somma di danaro o una quantità di altre cose fungibili, da prestarsi a termini periodici, il primo termine decorre dalla morte del testatore, e il legatario acquista il diritto a tutta la prestazione dovuta per il termine in corso, ancorchè fosse in vita soltanto al principio di esso. Il legato però non può esigersi se non dopo scaduto il termine.
+{: data-comma="1" }
 
 Si può tuttavia esigere all'inizio del termine il legato a titolo di alimenti.
+{: data-comma="2" }

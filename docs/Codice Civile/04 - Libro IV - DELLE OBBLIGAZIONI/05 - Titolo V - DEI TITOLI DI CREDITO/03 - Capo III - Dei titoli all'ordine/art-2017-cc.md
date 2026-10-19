@@ -21,7 +21,10 @@ ordine: 2138
 # Art. 2017 - ***Opposizione del detentore***
 
 L'opposizione del detentore deve essere proposta davanti al tribunale che ha pronunziato l'ammortamento, con citazione da notificarsi al ricorrente e al debitore.
+{: data-comma="1" }
 
 L'opposizione non è ammissibile senza il deposito del titolo presso la cancelleria del tribunale.
+{: data-comma="2" }
 
 Se l'opposizione è respinta, il titolo è consegnato a chi ha ottenuto l'ammortamento.
+{: data-comma="3" }

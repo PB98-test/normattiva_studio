@@ -5,9 +5,8 @@ search:
 
 # Leggi citate da Dlgs 159-2011 - 06.09.2011 ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Dlgs 159-2011 - 06.09.2011 — 121 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Dlgs 159-2011 - 06.09.2011 — 119 leggi trovate)*
 
-- [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const)
 - [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-08-13;136)
 - [articolo 12-quinquies, comma 1, del decreto-legge 8 giugno 1992, n. 306](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:1992-06-08;306)
 - [legge 7 agosto 1992, n. 356](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-08-07;356)
@@ -20,7 +19,6 @@ search:
 - [art. 4, comma 1, lettera c), del d.lgs. n. 159 del 2011](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2011;159)
 - [comma 2 dell'art. 5 del D.L. 31 ottobre 2022, n. 162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2022-10-31;162)
 - [L. 30 dicembre 2022, n. 199](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-12-30;199)
-- [decreto legislativo 7 marzo 2005, n. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2005-03-07;82)
 - [D.L. 25 luglio 2018, n. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2018-07-25;91)
 - [L. 21 settembre 2018, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-09-21;108)
 - [art. 27 della legge 11 marzo 1953, n. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-03-11;87)

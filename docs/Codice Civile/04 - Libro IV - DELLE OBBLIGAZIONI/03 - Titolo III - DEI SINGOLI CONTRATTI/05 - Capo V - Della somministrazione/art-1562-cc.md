@@ -21,5 +21,7 @@ ordine: 1677
 # Art. 1562 - ***Pagamento del prezzo***
 
 Nella somministrazione a carattere periodico il prezzo è corrisposto all'atto delle singole prestazioni e in proporzione di ciascuna di esse.
+{: data-comma="1" }
 
 Nella somministrazione a carattere continuativo il prezzo è pagato secondo le scadenze d'uso.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 1824
 # Art. 1708 - ***Contenuto del mandato***
 
 Il mandato comprende non solo gli atti per i quali è stato conferito, ma anche quelli che sono necessari al loro compimento.
+{: data-comma="1" }
 
 Il mandato generale non comprende gli atti che eccedono l'ordinaria amministrazione, se non sono indicati espressamente.
+{: data-comma="2" }

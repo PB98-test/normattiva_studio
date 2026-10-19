@@ -21,7 +21,10 @@ ordine: 742
 # Art. 593 - ***Rendiconto***
 
 L'amministratore, nel termine fissato dal giudice dell'esecuzione, e in ogni caso alla fine di ciascun trimestre, deve presentare in cancelleria il conto della sua gestione e depositare le rendite disponibili nei modi stabiliti dal giudice.
+{: data-comma="1" }
 
 Al termine della gestione l'amministratore deve presentare il rendiconto finale.
+{: data-comma="2" }
 
 I conti parziali e quello finale debbono essere approvati dal giudice. Questi, con ordinanza non impugnabile, risolve le contestazioni che sorgono in merito ad essi, applicando le disposizioni degli articoli 263 e seguenti.
+{: data-comma="3" }

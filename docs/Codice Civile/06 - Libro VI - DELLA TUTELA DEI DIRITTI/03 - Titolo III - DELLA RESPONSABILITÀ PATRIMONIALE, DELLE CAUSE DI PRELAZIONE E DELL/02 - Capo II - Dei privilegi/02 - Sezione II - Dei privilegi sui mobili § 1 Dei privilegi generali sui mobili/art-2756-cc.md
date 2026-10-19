@@ -21,7 +21,10 @@ ordine: 3062
 # Art. 2756 - ***Crediti per prestazioni e spese di conservazione e miglioramento***
 
 I crediti per le prestazioni e le spese relative alla conservazione o al miglioramento di beni mobili hanno privilegio sui beni stessi, purchè questi si trovino ancora presso chi ha fatto le prestazioni o le spese.
+{: data-comma="1" }
 
 Il privilegio ha effetto anche in pregiudizio dei terzi che hanno diritti sulla cosa, qualora chi ha fatto le prestazioni o le spese sia stato in buona fede.
+{: data-comma="2" }
 
 Il creditore può ritenere la cosa soggetta al privilegio finchè non è soddisfatto del suo credito e può anche venderla secondo le norme stabilite per la vendita del pegno.
+{: data-comma="3" }

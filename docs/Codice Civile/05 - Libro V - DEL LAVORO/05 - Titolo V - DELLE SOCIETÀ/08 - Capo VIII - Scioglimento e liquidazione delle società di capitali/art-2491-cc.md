@@ -21,7 +21,10 @@ ordine: 2724
 # Art. 2491 - ***Poteri e doveri particolari dei liquidatori***
 
 Se i fondi disponibili risultano insufficienti per il pagamento dei debiti sociali, i liquidatori possono chiedere proporzionalmente ai soci i versamenti ancora dovuti.
+{: data-comma="1" }
 
 I liquidatori non possono ripartire tra i soci acconti sul risultato della liquidazione, salvo che dai bilanci risulti che la ripartizione non incide sulla disponibilità di somme idonee alla integrale e tempestiva soddisfazione dei creditori sociali; i liquidatori possono condizionare la ripartizione alla prestazione da parte del socio di idonee garanzie.
+{: data-comma="2" }
 
 I liquidatori sono personalmente e solidalmente responsabili per i danni cagionati ai creditori sociali con la violazione delle disposizioni del comma precedente.
+{: data-comma="3" }

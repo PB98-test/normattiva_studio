@@ -21,5 +21,7 @@ ordine: 141
 # Art. 129 - ***Irrevocabilità ed estensione della richiesta***
 
 La richiesta dell'Autorità è irrevocabile.
+{: data-comma="1" }
 
 Le disposizioni degli [articoli 122](art-122-cp.md) e [123](art-123-cp.md) si applicano anche alla richiesta.
+{: data-comma="2" }

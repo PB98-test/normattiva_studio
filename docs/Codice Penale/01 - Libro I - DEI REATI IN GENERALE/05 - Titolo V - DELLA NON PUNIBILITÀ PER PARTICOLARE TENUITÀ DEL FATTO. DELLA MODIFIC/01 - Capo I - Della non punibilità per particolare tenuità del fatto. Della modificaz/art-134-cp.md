@@ -21,5 +21,7 @@ ordine: 149
 # Art. 134 - ***Computo delle pene***
 
 Le pene temporanee si applicano a giorni, a mesi e ad anni.
+{: data-comma="1" }
 
 Nelle condanne a pene temporanee non si tien conto delle frazioni di giorno, e, in quelle a pene pecuniarie, delle frazioni di lira.
+{: data-comma="2" }

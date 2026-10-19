@@ -21,5 +21,7 @@ ordine: 79
 # Art. 68 - ***Limiti al concorso di circostanze***
 
 Salvo quanto è disposto nell'[articolo 15](../../01%20-%20Titolo%20I%20-%20DELLA%20LEGGE%20PENALE/art-15-cp.md), quando una circostanza aggravante comprende in sè un'altra circostanza aggravante, ovvero una circostanza attenuante comprende in sè un'altra circostanza attenuante, è valutata a carico o a favore del colpevole soltanto la circostanza aggravante o la circostanza attenuante, la quale importa, rispettivamente, il maggiore aumento o la maggiore diminuzione di pena.
+{: data-comma="1" }
 
 Se le circostanze aggravanti o attenuanti importano lo stesso aumento o la stessa diminuzione di pena, si applica un solo aumento o una sola diminuzione di pena.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 241
 # Art. 218 - ***Scritture di comparazione presso depositari***
 
 Se le scritture di comparazione si trovano presso depositari pubblici o privati e l'asportazione non ne è vietata, il giudice istruttore può disporre il deposito in cancelleria in un termine da lui fissato.
+{: data-comma="1" }
 
 Se la comparazione deve eseguirsi nel luogo dove si trovano le scritture, il giudice dà le disposizioni necessarie per le operazioni, che debbono compiersi in presenza del depositario.
+{: data-comma="2" }

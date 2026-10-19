@@ -21,5 +21,7 @@ ordine: 1518
 # Art. 1416 - ***Rapporti con i creditori***
 
 La simulazione non può essere opposta dai contraenti ai creditori del titolare apparente che in buona fede hanno compiuto atti di esecuzione sui beni che furono oggetto del contratto simulato.
+{: data-comma="1" }
 
 I creditori del simulato alienante possono far valere la simulazione che pregiudica i loro diritti, e, nel conflitto con i creditori chirografari del simulato acquirente, sono preferiti a questi, se il loro credito è anteriore all'atto simulato.
+{: data-comma="2" }

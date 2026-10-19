@@ -21,5 +21,7 @@ ordine: 741
 # Art. 592 - ***Nomina dell'amministratore giudiziario***
 
 L'amministrazione giudiziaria dell'immobile è disposta per un tempo non superiore a tre anni e affidata a uno o più creditori o a un istituto all'uopo autorizzato, oppure allo stesso debitore se tutti i creditori vi consentono.
+{: data-comma="1" }
 
 All'amministratore si applica il disposto degli articoli 65 e seguenti.
+{: data-comma="2" }

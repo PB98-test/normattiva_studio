@@ -21,5 +21,7 @@ ordine: 284
 # Art. 260 - ***Ispezione corporale***
 
 Il giudice istruttore può astenersi dal partecipare all'ispezione corporale e disporre che vi proceda il solo consulente tecnico.
+{: data-comma="1" }
 
 All'ispezione corporale deve procedersi con ogni cautela diretta a garantire il rispetto della persona.
+{: data-comma="2" }

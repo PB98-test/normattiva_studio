@@ -21,7 +21,10 @@ ordine: 543
 # Art. 457 - ***Delazione dell'eredità***
 
 L'eredità si devolve per legge o per testamento.
+{: data-comma="1" }
 
 Non si fa luogo alla successione legittima se non quando manca, in tutto o in parte, quella testamentaria.
+{: data-comma="2" }
 
 Le disposizioni testamentarie non possono pregiudicare i diritti che la legge riserva ai legittimari.
+{: data-comma="3" }

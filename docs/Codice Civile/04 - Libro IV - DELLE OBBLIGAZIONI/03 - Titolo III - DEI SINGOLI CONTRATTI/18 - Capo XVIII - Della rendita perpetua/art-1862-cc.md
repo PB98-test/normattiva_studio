@@ -21,5 +21,7 @@ ordine: 1983
 # Art. 1862 - ***Norme applicabili***
 
 L'alienazione dell'immobile, se fatta a titolo oneroso, è soggetta alle norme stabilite per la vendita.
+{: data-comma="1" }
 
 L'alienazione o la cessione fatta a titolo gratuito è soggetta alle norme stabilite per la donazione.
+{: data-comma="2" }

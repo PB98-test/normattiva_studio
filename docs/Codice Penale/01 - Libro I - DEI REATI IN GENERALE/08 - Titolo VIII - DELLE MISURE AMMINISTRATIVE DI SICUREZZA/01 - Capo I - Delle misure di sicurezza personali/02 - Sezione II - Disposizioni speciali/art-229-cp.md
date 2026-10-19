@@ -14,7 +14,7 @@ capo_label: "Delle misure di sicurezza personali"
 sezione: "II"
 sezione_label: "Disposizioni speciali"
 rubrica: "Casi nei quali può essere ordinata la libertà vigilata"
-dataVigenza: "20260914"
+dataVigenza: "20261016"
 ordine: 251
 ---
 
@@ -22,6 +22,5 @@ ordine: 251
 
 Oltre quanto è prescritto da speciali disposizioni di legge, la libertà vigilata può essere ordinata:
 
-1° nel caso di condanna alla reclusione per un tempo superiore a un anno;
-
-2° nei casi in cui questo codice autorizza una misura di sicurezza per un fatto non preveduto dalla legge come reato.
+- 1° nel caso di condanna alla reclusione per un tempo superiore a un anno;
+- 2° nei casi in cui questo codice autorizza una misura di sicurezza per un fatto non preveduto dalla legge come reato.

@@ -21,5 +21,7 @@ ordine: 981
 # Art. 887 - ***Fondi a dislivello negli abitati***
 
 Se di due fondi posti negli abitati uno è superiore e l'altro inferiore, il proprietario del fondo superiore deve sopportare per intero le spese di costruzione e conservazione del muro dalle fondamenta all'altezza del proprio suolo, ed entrambi i proprietari devono contribuire per tutta la restante altezza.
+{: data-comma="1" }
 
 Il muro deve essere costruito per metà sul terreno del fondo inferiore e per metà sul terreno del fondo superiore.
+{: data-comma="2" }

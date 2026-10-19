@@ -21,7 +21,10 @@ ordine: 1289
 # Art. 1187 - ***Computo del termine***
 
 Il termine fissato per l'adempimento delle obbligazioni è computato secondo le disposizioni dell'[art. 2963](../../../../06%20-%20Libro%20VI%20-%20DELLA%20TUTELA%20DEI%20DIRITTI/05%20-%20Titolo%20V%20-%20DELLA%20PRESCRIZIONE%20E%20DELLA%20DECADENZA/01%20-%20Capo%20I%20-%20Della%20prescrizione/04%20-%20Sezione%20IV%20-%20Del%20termine%20della%20prescrizione%20§%201%20Della%20prescrizione%20ordinaria/art-2963-cc.md).
+{: data-comma="1" }
 
 La disposizione relativa alla proroga del termine che scade in giorno festivo si osserva se non vi sono usi diversi.
+{: data-comma="2" }
 
 È salva in ogni caso una diversa pattuizione.
+{: data-comma="3" }

@@ -21,7 +21,10 @@ ordine: 2891
 # Art. 2600 - ***Risarcimento del danno***
 
 Se gli atti di concorrenza sleale sono compiuti con dolo o con colpa, l'autore è tenuto al risarcimento dei danni.
+{: data-comma="1" }
 
 In tale ipotesi può essere ordinata la pubblicazione della sentenza.
+{: data-comma="2" }
 
 Accertati gli atti di concorrenza, la colpa si presume.
+{: data-comma="3" }

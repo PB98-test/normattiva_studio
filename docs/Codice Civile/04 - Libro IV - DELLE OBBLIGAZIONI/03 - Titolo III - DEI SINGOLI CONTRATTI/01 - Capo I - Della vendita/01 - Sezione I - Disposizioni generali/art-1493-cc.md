@@ -21,5 +21,7 @@ ordine: 1600
 # Art. 1493 - ***Effetti della risoluzione del contratto***
 
 In caso di risoluzione del contratto il venditore deve restituire il prezzo e rimborsare al compratore le spese e i pagamenti legittimamente fatti per la vendita.
+{: data-comma="1" }
 
 Il compratore deve restituire la cosa, se questa non è perita in conseguenza dei vizi.
+{: data-comma="2" }

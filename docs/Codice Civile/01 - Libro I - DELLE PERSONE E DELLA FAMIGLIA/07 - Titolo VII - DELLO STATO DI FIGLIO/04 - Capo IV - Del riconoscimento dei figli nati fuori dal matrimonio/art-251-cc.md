@@ -21,5 +21,7 @@ ordine: 296
 # Art. 251 - ***Autorizzazione al riconoscimento***
 
 Il figlio nato da persone, tra le quali esiste un vincolo di parentela in linea retta all'infinito o in linea collaterale nel secondo grado, ovvero un vincolo di affinità in linea retta, può essere riconosciuto previa autorizzazione del giudice avuto riguardo all'interesse del figlio e alla necessità di evitare allo stesso qualsiasi pregiudizio.
+{: data-comma="1" }
 
 Il riconoscimento di una persona minore di età è autorizzato dal giudice.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 1597
 # Art. 1490 - ***Garanzia per i vizi della cosa venduta***
 
 Il venditore è tenuto a garantire che la cosa venduta sia immune da vizi che la rendano inidonea all'uso a cui è destinata o ne diminuiscano in modo apprezzabile il valore.
+{: data-comma="1" }
 
 Il patto con cui si esclude o si limita la garanzia non ha effetto, se il venditore ha in mala fede taciuto al compratore i vizi della cosa.
+{: data-comma="2" }

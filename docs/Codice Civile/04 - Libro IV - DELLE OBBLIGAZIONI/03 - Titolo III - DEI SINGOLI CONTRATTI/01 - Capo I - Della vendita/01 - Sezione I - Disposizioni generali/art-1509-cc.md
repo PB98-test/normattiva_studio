@@ -21,5 +21,7 @@ ordine: 1616
 # Art. 1509 - ***Riscatto contro gli eredi del compratore***
 
 Qualora il compratore abbia lasciato più eredi, il diritto di riscatto si può esercitare contro ciascuno di essi solo per la parte che gli spetta, anche quando la cosa venduta è tuttora indivisa.
+{: data-comma="1" }
 
 Se l'eredità è stata divisa e la cosa venduta è stata assegnata a uno degli eredi, il diritto di riscatto non può esercitarsi contro di lui che per la totalità.
+{: data-comma="2" }

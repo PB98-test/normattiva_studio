@@ -21,5 +21,7 @@ ordine: 2087
 # Art. 1966 - ***Capacità a transigere e disponibilità dei diritti***
 
 Per transigere le parti devono avere la capacità di disporre dei diritti che formano oggetto della lite.
+{: data-comma="1" }
 
 La transazione è nulla se tali diritti, per loro natura o per espressa disposizione di legge, sono sottratti alla disponibilità delle parti.
+{: data-comma="2" }

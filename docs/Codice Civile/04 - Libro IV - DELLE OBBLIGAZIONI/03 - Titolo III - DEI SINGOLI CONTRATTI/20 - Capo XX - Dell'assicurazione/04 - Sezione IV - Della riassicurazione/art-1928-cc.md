@@ -21,5 +21,7 @@ ordine: 2049
 # Art. 1928 - ***Prova***
 
 I contratti generali di riassicurazione relativi a una serie di rapporti assicurativi devono essere provati per iscritto.
+{: data-comma="1" }
 
 I rapporti di riassicurazione in esecuzione dei contratti generali e i contratti di riassicurazione per singoli rischi possono essere provati secondo le regole generali.
+{: data-comma="2" }

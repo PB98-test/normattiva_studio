@@ -21,8 +21,10 @@ ordine: 1321
 # Art. 1219 - ***Costituzione in mora***
 
 Il debitore è costituito in mora mediante intimazione o richiesta fatta per iscritto.
+{: data-comma="1" }
 
 Non è necessaria la costituzione in mora:
+{: data-comma="2" }
 
 - 1) quando il debito deriva da fatto illecito;
 - 2) quando il debitore ha dichiarato per iscritto di non volere eseguire l'obbligazione;

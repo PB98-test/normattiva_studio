@@ -21,5 +21,7 @@ ordine: 86
 # Art. 79 - ***Istanza di nomina del curatore speciale***
 
 La nomina del curatore speciale di cui all'articolo precedente può essere in ogni caso chiesta dal pubblico ministero. Può essere chiesta anche dalla persona che deve essere rappresentata o assistita, sebbene incapace, nonchè dai suoi prossimi congiunti e, in caso di conflitto di interessi, dal rappresentante.
+{: data-comma="1" }
 
 Può essere inoltre chiesta da qualunque altra parte in causa che vi abbia interesse.
+{: data-comma="2" }

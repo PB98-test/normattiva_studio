@@ -21,5 +21,7 @@ ordine: 1017
 # Art. 821 - ***Rilevanza del decorso del termine***
 
 Il decorso del termine indicato nell'articolo precedente non può essere fatto valere come causa di nullità del lodo se la parte, prima della deliberazione del lodo risultante dal dispositivo sottoscritto dalla maggioranza degli arbitri, non abbia notificato alle altre parti e agli arbitri che intende far valere la loro decadenza.
+{: data-comma="1" }
 
 Se la parte fa valere la decadenza degli arbitri, questi, verificato il decorso del termine, dichiarano estinto il procedimento.
+{: data-comma="2" }

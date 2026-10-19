@@ -21,7 +21,10 @@ ordine: 638
 # Art. 551 - ***Legato in sostituzione di legittima***
 
 Se a un legittimario è lasciato un legato in sostituzione della legittima, egli può rinunziare al legato e chiedere la legittima.
+{: data-comma="1" }
 
 Se preferisce di conseguire il legato, perde il diritto di chiedere un supplemento, nel caso che il valore del legato sia inferiore a quello della legittima, e non acquista la qualità di erede. Questa disposizione non si applica quando il testatore ha espressamente attribuito al legittimario la facoltà di chiedere il supplemento.
+{: data-comma="2" }
 
 Il legato in sostituzione della legittima grava sulla porzione indisponibile. Se però il valore del legato eccede quello della legittima spettante al legittimario, per l'eccedenza il legato grava sulla disponibile.
+{: data-comma="3" }

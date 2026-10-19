@@ -21,5 +21,7 @@ ordine: 1662
 # Art. 1547 - ***Altre forme di alienazione di eredità***
 
 Le disposizioni precedenti si applicano alle altre forme di alienazione di un'eredità a titolo oneroso.
+{: data-comma="1" }
 
 Nelle alienazioni a titolo gratuito la garanzia è regolata dall'[art. 797](../../../../02%20-%20Libro%20II%20-%20DELLE%20SUCCESSIONI/05%20-%20Titolo%20V%20-%20DELLE%20DONAZIONI/03%20-%20Capo%20III%20-%20Della%20forma%20e%20degli%20effetti%20della%20donazione/art-797-cc.md).
+{: data-comma="2" }

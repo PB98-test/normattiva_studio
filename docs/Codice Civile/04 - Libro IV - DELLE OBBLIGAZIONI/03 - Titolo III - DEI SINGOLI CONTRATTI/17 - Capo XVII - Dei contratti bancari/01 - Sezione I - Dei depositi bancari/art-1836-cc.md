@@ -21,7 +21,10 @@ ordine: 1957
 # Art. 1836 - ***Legittimazione del possessore***
 
 Se il libretto di deposito è pagabile al portatore, la banca che senza dolo o colpa grave adempie la prestazione nei confronti del possessore è liberata, anche se questi non è il depositante.
+{: data-comma="1" }
 
 La stessa disposizione si applica nel caso in cui il libretto di deposito pagabile al portatore sia intestato al nome di una determinata persona o in altro modo contrassegnato.
+{: data-comma="2" }
 
 Sono salve le disposizioni delle leggi speciali.
+{: data-comma="3" }

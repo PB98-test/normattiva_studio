@@ -21,7 +21,10 @@ ordine: 3248
 # Art. 2937 - ***Rinunzia alla prescrizione***
 
 Non può rinunziare alla prescrizione chi non può disporre validamente del diritto.
+{: data-comma="1" }
 
 Si può rinunziare alla prescrizione solo quando questa è compiuta.
+{: data-comma="2" }
 
 La rinunzia può risultare da un fatto incompatibile con la volontà di valersi della prescrizione.
+{: data-comma="3" }

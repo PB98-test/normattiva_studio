@@ -21,5 +21,7 @@ ordine: 2740
 # Art. 2500-bis - ***Invalidità della trasformazione***
 
 Eseguita la pubblicità di cui all'articolo precedente, l'invalidità dell'atto di trasformazione non può essere pronunciata.
+{: data-comma="1" }
 
 Resta salvo il diritto al risarcimento del danno eventualmente spettante ai partecipanti all'ente trasformato ed ai terzi danneggiati dalla trasformazione.
+{: data-comma="2" }

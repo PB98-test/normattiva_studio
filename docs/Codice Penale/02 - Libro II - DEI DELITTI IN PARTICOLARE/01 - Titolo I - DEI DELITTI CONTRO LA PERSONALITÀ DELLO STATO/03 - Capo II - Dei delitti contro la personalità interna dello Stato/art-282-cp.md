@@ -15,7 +15,7 @@ sezione: null
 sezione_label: null
 rubrica: null
 abrogato: true
-dataVigenza: "20260914"
+dataVigenza: "20261016"
 ordine: 327
 ---
 
@@ -23,4 +23,4 @@ ordine: 327
 
 [^agg-6]
 
-[^agg-6]: *AGGIORNAMENTO (6)* Il D.Lgs. Luogotenenziale 14 settembre 1944, n. 288, ha disposto (con l'[art. 1](../../../01%20-%20Libro%20I%20-%20DEI%20REATI%20IN%20GENERALE/01%20-%20Titolo%20I%20-%20DELLA%20LEGGE%20PENALE/art-1-cp.md), comma 1) che la presente modifica è apportata fino a quando non sia pubblicato il nuovo [Codice penale](../../../00%20-%20Indice%20%28cp%29.md).
+[^agg-6]: *AGGIORNAMENTO (6)* Il D.Lgs. Luogotenenziale 14 settembre 1944, n. 288, ha disposto (con l'art. 1, comma 1) che la presente modifica è apportata fino a quando non sia pubblicato il nuovo [Codice penale](../../../00%20-%20Indice%20%28cp%29.md).

@@ -21,9 +21,13 @@ ordine: 1216
 # Art. 1118 - ***Diritti dei partecipanti sulle parti comuni***
 
 Il diritto di ciascun condomino sulle parti comuni, salvo che il titolo non disponga altrimenti, è proporzionale al valore dell'unità immobiliare che gli appartiene.
+{: data-comma="1" }
 
 Il condomino non può rinunziare al suo diritto sulle parti comuni.
+{: data-comma="2" }
 
 Il condomino non può sottrarsi all'obbligo di contribuire alle spese per la conservazione delle parti comuni, neanche modificando la destinazione d'uso della propria unità immobiliare, salvo quanto disposto da leggi speciali.
+{: data-comma="3" }
 
 Il condomino può rinunciare all'utilizzo dell'impianto centralizzato di riscaldamento o di condizionamento, se dal suo distacco non derivano notevoli squilibri di funzionamento o aggravi di spesa per gli altri condomini. In tal caso il rinunziante resta tenuto a concorrere al pagamento delle sole spese per la manutenzione straordinaria dell'impianto e per la sua conservazione e messa a norma.
+{: data-comma="4" }

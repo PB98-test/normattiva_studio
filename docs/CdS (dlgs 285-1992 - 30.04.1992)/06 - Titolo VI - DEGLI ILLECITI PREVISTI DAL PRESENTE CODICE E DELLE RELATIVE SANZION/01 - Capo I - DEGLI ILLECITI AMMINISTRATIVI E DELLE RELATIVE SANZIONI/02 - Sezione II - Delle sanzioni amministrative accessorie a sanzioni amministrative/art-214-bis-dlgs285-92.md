@@ -14,7 +14,7 @@ capo_label: "DEGLI ILLECITI AMMINISTRATIVI E DELLE RELATIVE SANZIONI"
 sezione: "II"
 sezione_label: "Delle sanzioni amministrative accessorie a sanzioni amministrative pecuniarie"
 rubrica: "Alienazione dei veicoli nei casi di sequestro amministrativo, fermo e confisca)."
-dataVigenza: "20260914"
+dataVigenza: "20261012"
 ordine: 233
 ---
 
@@ -28,6 +28,6 @@ ordine: 233
 
 3-bis. Tutte le trascrizioni ed annotazioni nei pubblici registri relative agli atti posti in essere in attuazione delle operazioni previste dal presente articolo e dagli [articoli 213](art-213-dlgs285-92.md) e [214](art-214-dlgs285-92.md) sono esenti, per le amministrazioni dello Stato, da qualsiasi tributo ed emolumento.
 
-[^agg-138a]: *AGGIORNAMENTO (138a)* Il D.Lgs. 29 maggio 2017, n. 98, come modificato dalla L. 27 dicembre 2017, n. 205, ha disposto (con l'[art. 7](../../../01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-7-dlgs285-92.md), comma 1) la proroga dell'entrata in vigore della modifica di cui al comma 2 del presente articolo dal 1° luglio 2018 al 1° gennaio 2019.
+[^agg-138a]: *AGGIORNAMENTO (138a)* Il D.Lgs. 29 maggio 2017, n. 98, come modificato dalla L. 27 dicembre 2017, n. 205, ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore della modifica di cui al comma 2 del presente articolo dal 1° luglio 2018 al 1° gennaio 2019.
 
-[^agg-148]: *AGGIORNAMENTO (148)* Il D.Lgs. 29 maggio 2017, n. 98, come modificato dalla L. 30 dicembre 2018, n. 145, ha disposto (con l'[art. 7](../../../01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-7-dlgs285-92.md), comma 1) la proroga dell'entrata in vigore della modifica di cui al comma 2 del presente articolo dal 1° gennaio 2019 al 1° gennaio 2020.
+[^agg-148]: *AGGIORNAMENTO (148)* Il D.Lgs. 29 maggio 2017, n. 98, come modificato dalla L. 30 dicembre 2018, n. 145, ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore della modifica di cui al comma 2 del presente articolo dal 1° gennaio 2019 al 1° gennaio 2020.

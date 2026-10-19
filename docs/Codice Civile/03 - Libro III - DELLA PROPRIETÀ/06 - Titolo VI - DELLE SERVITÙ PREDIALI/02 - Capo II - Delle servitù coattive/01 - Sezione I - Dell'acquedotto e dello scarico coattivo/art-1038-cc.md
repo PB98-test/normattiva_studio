@@ -21,5 +21,7 @@ ordine: 1133
 # Art. 1038 - ***Indennità per l'imposizione della servitù***
 
 Prima d'imprendere la costruzione dell'acquedotto, chi vuol condurre acqua per il fondo altrui deve pagare il valore, secondo la stima, dei terreni da occupare, senza detrazione delle imposte e degli altri carichi inerenti al fondo, oltre l'indennità per i danni, ivi compresi quelli derivanti dalla separazione in due o più parti o da altro deterioramento del fondo da intersecare.
+{: data-comma="1" }
 
 Per i terreni, però, che sono occupati soltanto per il deposito delle materie estratte e per il getto dello spurgo non si deve pagare che la metà del valore del suolo, e sempre senza detrazione delle imposte e degli altri carichi inerenti; ma nei terreni medesimi il proprietario del fondo servente può fare piantagioni e rimuovere e trasportare le materie ammucchiate, purchè tutto segua senza danno dell'acquedotto, del suo spurgo e della sua riparazione.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 1493
 # Art. 1391 - ***Stati soggettivi rilevanti***
 
 Nei casi in cui è rilevante lo stato di buona o di mala fede, di scienza o d'ignoranza di determinate circostanze, si ha riguardo alla persona del rappresentante, salvo che si tratti di elementi predeterminati dal rappresentato.
+{: data-comma="1" }
 
 In nessun caso il rappresentato che è in mala fede può giovarsi dello stato d'ignoranza o di buona fede del rappresentante.
+{: data-comma="2" }

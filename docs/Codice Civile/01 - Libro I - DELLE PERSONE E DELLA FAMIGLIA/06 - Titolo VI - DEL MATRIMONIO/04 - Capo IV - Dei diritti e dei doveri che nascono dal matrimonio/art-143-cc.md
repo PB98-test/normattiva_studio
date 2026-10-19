@@ -21,7 +21,10 @@ ordine: 176
 # Art. 143 - ***Diritti e doveri reciproci dei coniugi.***
 
 Con il matrimonio il marito e la moglie acquistano gli stessi diritti e assumono i medesimi doveri.
+{: data-comma="1" }
 
 Dal matrimonio deriva l'obbligo reciproco alla fedeltà, all'assistenza morale e materiale, alla collaborazione nell'interesse della famiglia e alla coabitazione.
+{: data-comma="2" }
 
 Entrambi i coniugi sono tenuti, ciascuno in relazione alle proprie sostanze e alla propria capacità di lavoro professionale o casalingo, a contribuire ai bisogni della famiglia.
+{: data-comma="3" }

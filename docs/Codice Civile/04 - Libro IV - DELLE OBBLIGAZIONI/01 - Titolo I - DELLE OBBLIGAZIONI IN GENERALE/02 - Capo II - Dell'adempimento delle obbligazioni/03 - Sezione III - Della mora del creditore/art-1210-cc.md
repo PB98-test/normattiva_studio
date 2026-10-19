@@ -21,5 +21,7 @@ ordine: 1312
 # Art. 1210 - ***Facoltà di deposito e suoi effetti liberatori***
 
 Se il creditore rifiuta di accettare l'offerta reale o non si presenta per ricevere le cose offertegli mediante intimazione, il debitore può eseguire il deposito.
+{: data-comma="1" }
 
 Eseguito il deposito, quando questo è accettato dal creditore o è dichiarato valido con sentenza passata in giudicato, il debitore non può più ritirarlo ed è liberato dalla sua obbligazione.
+{: data-comma="2" }

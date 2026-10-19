@@ -21,7 +21,10 @@ ordine: 526
 # Art. 441 - ***Concorso di obbligati***
 
 Se più persone sono obbligate nello stesso grado alla prestazione degli alimenti, tutte devono concorrere alla prestazione stessa, ciascuna in proporzione delle proprie condizioni economiche.
+{: data-comma="1" }
 
 Se le persone chiamate in grado anteriore alla prestazione non sono in condizioni di sopportare l'onere in tutto o in parte, l'obbligazione stessa è posta in tutto o in parte a carico delle persone chiamate in grado posteriore.
+{: data-comma="2" }
 
 Se gli obbligati non sono concordi sulla misura, sulla distribuzione e sul modo di somministrazione degli alimenti, provvede l'autorità giudiziaria secondo le circostanze.
+{: data-comma="3" }

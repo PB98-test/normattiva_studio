@@ -21,7 +21,10 @@ ordine: 2964
 # Art. 2662 - ***Trascrizione di acquisti a causa di morte in luogo di altri chiamati***
 
 Qualora l'acquisto a causa di morte si colleghi alla rinunzia o alla morte di uno dei chiamati, chi domanda la trascrizione deve presentare il documento comprovante la morte o la rinunzia, facendone menzione nella nota.
+{: data-comma="1" }
 
 Se invece l'acquisto dipende da altra ragione che impedisce ad alcuno dei chiamati di succedere, non è necessario esibire un documento che giustifichi la ragione stessa, ma il richiedente risponde dei danni, quando le sue dichiarazioni non corrispondono a verità.
+{: data-comma="2" }
 
 Qualora alcuna delle cause di impedimento sopra indicate si sia constatata dopo la trascrizione dell'acquisto a causa di morte, essa si annota in margine alla trascrizione stessa, purchè risulti da regolare documento.
+{: data-comma="3" }

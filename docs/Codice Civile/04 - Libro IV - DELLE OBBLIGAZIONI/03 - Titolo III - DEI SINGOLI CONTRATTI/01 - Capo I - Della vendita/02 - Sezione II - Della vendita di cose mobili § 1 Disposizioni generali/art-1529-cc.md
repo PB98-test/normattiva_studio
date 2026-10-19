@@ -21,5 +21,7 @@ ordine: 1644
 # Art. 1529 - ***Rischi***
 
 Se la vendita ha per oggetto cose in viaggio, e tra i documenti consegnati al compratore è compresa la polizza di assicurazione per i rischi del trasporto, sono a carico del compratore i rischi a cui si trova esposta la merce dal momento della consegna al vettore.
+{: data-comma="1" }
 
 Questa disposizione non si applica se il venditore al tempo del contratto era a conoscenza della perdita o dell'avaria della merce, e le ha in mala fede taciute al compratore.
+{: data-comma="2" }

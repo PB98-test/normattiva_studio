@@ -14,8 +14,8 @@ capo_label: "L'amministrazione dei beni sequestrati e confiscati"
 sezione: null
 sezione_label: null
 rubrica: "Responsabilità nella gestione e controlli della pubblica amministrazione"
-dataVigenza: "20260930"
-ordine: 38
+dataVigenza: "20261016"
+ordine: 40
 ---
 
 # Art. 35-bis - ***Responsabilità nella gestione e controlli della pubblica amministrazione***

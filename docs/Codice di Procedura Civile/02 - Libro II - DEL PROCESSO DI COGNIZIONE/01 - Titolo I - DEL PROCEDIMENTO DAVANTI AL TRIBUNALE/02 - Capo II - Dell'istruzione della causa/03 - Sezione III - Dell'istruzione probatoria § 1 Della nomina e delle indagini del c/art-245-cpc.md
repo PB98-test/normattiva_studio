@@ -21,5 +21,7 @@ ordine: 268
 # Art. 245 - ***Ordinanza di ammissione***
 
 Con l'ordinanza che ammette la prova il giudice istruttore riduce le liste dei testimoni sovrabbondanti ed elimina i testimoni che non possono essere sentiti per legge.
+{: data-comma="1" }
 
 La rinuncia fatta da una parte all'audizione dei testimoni da essa indicati non ha effetto se le altre non vi aderiscono e se il giudice non vi consente.
+{: data-comma="2" }

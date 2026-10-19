@@ -21,5 +21,7 @@ ordine: 1579
 # Art. 1472 - ***Vendita di cose future***
 
 Nella vendita che ha per oggetto una cosa futura, l'acquisto della proprietà si verifica non appena la cosa viene ad esistenza. Se oggetto della vendita sono gli alberi o i frutti di un fondo, la proprietà si acquista quando gli alberi sono tagliati o i frutti sono separati.
+{: data-comma="1" }
 
 Qualora le parti non abbiano voluto concludere un contratto aleatorio, la vendita è nulla, se la cosa non viene ad esistenza.
+{: data-comma="2" }

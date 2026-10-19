@@ -21,5 +21,7 @@ ordine: 1296
 # Art. 1194 - ***Imputazione del pagamento agli interessi***
 
 Il debitore non può imputare il pagamento al capitale, piuttosto che agli interessi e alle spese, senza il consenso del creditore.
+{: data-comma="1" }
 
 Il pagamento fatto in conto di capitale e d'interessi deve essere imputato prima agli interessi.
+{: data-comma="2" }

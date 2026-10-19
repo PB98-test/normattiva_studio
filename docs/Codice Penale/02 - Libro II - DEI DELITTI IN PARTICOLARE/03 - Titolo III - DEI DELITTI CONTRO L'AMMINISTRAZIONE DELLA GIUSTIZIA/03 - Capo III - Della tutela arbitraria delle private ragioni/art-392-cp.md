@@ -21,7 +21,10 @@ ordine: 474
 # Art. 392 - ***Esercizio arbitrario delle proprie ragioni con violenza sulle cose***
 
 Chiunque, al fine di esercitare un preteso diritto, potendo ricorrere al giudice, si fa arbitrariamente ragione da sè medesimo, mediante violenza sulle cose, è punito, a querela della persona offesa, con la multa fino a lire cinquemila.
+{: data-comma="1" }
 
 Agli effetti della legge penale, si ha violenza sulle cose allorchè la cosa viene danneggiata o trasformata, o ne è mutata la destinazione.
+{: data-comma="2" }
 
 Si ha, altresì, violenza sulle cose allorchè un programma informatico viene alterato, modificato o cancellato in tutto o in parte ovvero viene impedito o turbato il funzionamento di un sistema informatico o telematico.
+{: data-comma="3" }

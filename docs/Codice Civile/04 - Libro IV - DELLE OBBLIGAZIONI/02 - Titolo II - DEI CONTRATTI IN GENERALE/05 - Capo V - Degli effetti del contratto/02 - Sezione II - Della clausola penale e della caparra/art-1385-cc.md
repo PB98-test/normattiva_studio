@@ -21,7 +21,10 @@ ordine: 1487
 # Art. 1385 - ***Caparra confirmatoria***
 
 Se al momento della conclusione del contratto una parte dà all'altra, a titolo di caparra, una somma di danaro o una quantità di altre cose fungibili, la caparra, in caso di adempimento, deve essere restituita o imputata alla prestazione dovuta.
+{: data-comma="1" }
 
 Se la parte che ha dato la caparra è inadempiente, l'altra può recedere dal contratto, ritenendo la caparra; se inadempiente è invece la parte che l'ha ricevuta, l'altra può recedere dal contratto ed esigere il doppio della caparra.
+{: data-comma="2" }
 
 Se però la parte che non è inadempiente preferisce domandare l'esecuzione o la risoluzione del contratto, il risarcimento del danno è regolato dalle norme generali.
+{: data-comma="3" }

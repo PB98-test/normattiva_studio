@@ -21,5 +21,7 @@ ordine: 3182
 # Art. 2872 - ***Modalità della riduzione***
 
 La riduzione delle ipoteche si opera riducendo la somma per la quale è stata presa l'iscrizione o restringendo l'iscrizione a una parte soltanto dei beni.
+{: data-comma="1" }
 
 Questa restrizione può aver luogo anche se l'ipoteca ha per oggetto un solo bene, qualora questo abbia parti distinte o tali che si possano comodamente distinguere.
+{: data-comma="2" }

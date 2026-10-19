@@ -21,7 +21,10 @@ ordine: 509
 # Art. 424 - ***Tutela dell'interdetto e curatela dell'inabilitato***
 
 Le disposizioni sulla tutela dei minori e quelle sulla curatela dei minori emancipati si applicano rispettivamente alla tutela degli interdetti e alla curatela degli inabilitati.
+{: data-comma="1" }
 
 Le stesse disposizioni si applicano rispettivamente anche nei casi di nomina del tutore provvisorio dell'interdicendo e del curatore provvisorio dell'inabilitando a norma dell'[art. 419](art-419-cc.md). Per l'interdicendo non si nomina il protutore provvisorio.
+{: data-comma="2" }
 
 Nella scelta del tutore dell'interdetto e del curatore dell'inabilitato il giudice tutelare individua di preferenza la persona più idonea all'incarico tra i soggetti, e con i criteri, indicati nell'[articolo 408](../01%20-%20Capo%20I%20-%20Dell%27amministrazione%20di%20sostegno/art-408-cc.md).
+{: data-comma="3" }

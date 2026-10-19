@@ -21,5 +21,7 @@ ordine: 972
 # Art. 878 - ***Muro di cinta***
 
 Il muro di cinta e ogni altro muro isolato che non abbia un'altezza superiore ai tre metri non è considerato per il computo della distanza indicata dall'[articolo 873](art-873-cc.md).
+{: data-comma="1" }
 
 Esso, quando è posto sul confine, può essere reso comune anche a scopo d'appoggio, purchè non preesista al di là un edificio a distanza inferiore ai tre metri.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 7
 # Art. 6 - ***Reati commessi nel territorio dello Stato***
 
 Chiunque commette un reato nel territorio dello Stato è punito secondo la legge italiana.
+{: data-comma="1" }
 
 Il reato si considera commesso nel territorio dello Stato, quando l'azione o l'omissione, che lo costituisce, è ivi avvenuta in tutto o in parte, ovvero si è ivi verificato l'evento che è la conseguenza dell'azione od omissione.
+{: data-comma="2" }

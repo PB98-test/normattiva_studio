@@ -21,7 +21,10 @@ ordine: 2808
 # Art. 2534 - ***Morte del socio***
 
 In caso di morte del socio, gli eredi hanno diritto alla liquidazione della quota o al rimborso delle azioni secondo le disposizioni dell'articolo seguente.
+{: data-comma="1" }
 
 L'atto costitutivo può prevedere che gli eredi provvisti dei requisiti per l'ammissione alla società subentrino nella partecipazione del socio deceduto.
+{: data-comma="2" }
 
 Nell'ipotesi prevista dal secondo comma, in caso di pluralità di eredi, questi debbono nominare un rappresentante comune, salvo che la quota sia divisibile e la società consenta la divisione.
+{: data-comma="3" }

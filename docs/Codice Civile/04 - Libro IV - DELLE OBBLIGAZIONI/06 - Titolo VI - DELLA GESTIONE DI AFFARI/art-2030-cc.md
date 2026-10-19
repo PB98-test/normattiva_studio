@@ -21,5 +21,7 @@ ordine: 2151
 # Art. 2030 - ***Obbligazioni del gestore***
 
 Il gestore è soggetto alle stesse obbligazioni che deriverebbero da un mandato.
+{: data-comma="1" }
 
 Tuttavia il giudice, in considerazione delle circostanze che hanno indotto il gestore ad assumere la gestione, può moderare il risarcimento dei danni ai quali questi sarebbe tenuto per effetto della sua colpa.
+{: data-comma="2" }

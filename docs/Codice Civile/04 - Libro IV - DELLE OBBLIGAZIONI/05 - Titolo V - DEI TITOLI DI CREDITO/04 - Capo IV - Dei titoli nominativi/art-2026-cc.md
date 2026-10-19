@@ -21,5 +21,7 @@ ordine: 2147
 # Art. 2026 - ***Pegno***
 
 La costituzione in pegno di un titolo nominativo può farsi anche mediante consegna del titolo, girato con la clausola «in garanzia» o altra equivalente.
+{: data-comma="1" }
 
 Il giratario in garanzia non può trasmettere ad altri il titolo se non mediante girata per procura.
+{: data-comma="2" }

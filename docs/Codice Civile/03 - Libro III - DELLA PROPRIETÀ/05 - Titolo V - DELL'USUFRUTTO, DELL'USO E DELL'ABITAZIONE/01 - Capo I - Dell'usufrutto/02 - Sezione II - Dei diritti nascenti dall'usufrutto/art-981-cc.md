@@ -21,5 +21,7 @@ ordine: 1076
 # Art. 981 - ***Contenuto del diritto di usufrutto***
 
 L'usufruttuario ha diritto di godere della cosa, ma deve rispettarne la destinazione economica.
+{: data-comma="1" }
 
 Egli può trarre dalla cosa ogni utilità che questa può dare, fermi i limiti stabiliti in queste capo.
+{: data-comma="2" }

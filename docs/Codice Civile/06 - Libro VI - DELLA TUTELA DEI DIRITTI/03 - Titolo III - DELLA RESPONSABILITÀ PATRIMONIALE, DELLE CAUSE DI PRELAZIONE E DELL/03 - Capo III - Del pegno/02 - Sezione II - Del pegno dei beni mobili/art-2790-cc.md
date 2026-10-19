@@ -21,5 +21,7 @@ ordine: 3099
 # Art. 2790 - ***Conservazione della cosa e spese relative***
 
 Il creditore è tenuto a custodire la cosa ricevuta in pegno e risponde, secondo le regole generali, della perdita e del deterioramento di essa.
+{: data-comma="1" }
 
 Colui che ha costituito il pegno è tenuto al rimborso delle spese occorse per la conservazione della cosa.
+{: data-comma="2" }

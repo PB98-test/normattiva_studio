@@ -14,8 +14,8 @@ capo_label: "La gestione dei beni sequestrati e confiscati"
 sezione: null
 sezione_label: null
 rubrica: "Istituzione dei tavoli provinciali permanenti sulle aziende sequestrate e confiscate, presso le prefetture-uffici territoriali del Governo"
-dataVigenza: "20260930"
-ordine: 46
+dataVigenza: "20261016"
+ordine: 48
 ---
 
 # Art. 41-ter - ***Istituzione dei tavoli provinciali permanenti sulle aziende sequestrate e confiscate, presso le prefetture-uffici territoriali del Governo***

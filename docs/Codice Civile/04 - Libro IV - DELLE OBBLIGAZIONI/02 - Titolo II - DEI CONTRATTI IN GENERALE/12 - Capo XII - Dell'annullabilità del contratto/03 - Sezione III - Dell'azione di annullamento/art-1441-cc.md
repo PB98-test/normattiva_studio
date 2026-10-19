@@ -21,5 +21,7 @@ ordine: 1543
 # Art. 1441 - ***Legittimazione***
 
 L'annullamento del contratto può essere domandato solo dalla parte nel cui interesse è stabilito dalla legge.
+{: data-comma="1" }
 
 L'incapacità del condannato in istato di interdizione legale può essere fatta valere da chiunque vi ha interesse.
+{: data-comma="2" }

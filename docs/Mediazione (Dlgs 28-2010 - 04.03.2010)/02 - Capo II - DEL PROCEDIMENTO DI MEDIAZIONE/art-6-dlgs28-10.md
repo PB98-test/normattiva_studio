@@ -14,7 +14,7 @@ capo_label: "DEL PROCEDIMENTO DI MEDIAZIONE"
 sezione: null
 sezione_label: null
 rubrica: "Durata"
-dataVigenza: "20260930"
+dataVigenza: "20261016"
 ordine: 11
 ---
 
@@ -28,4 +28,4 @@ ordine: 11
 
 4\. La proroga ai sensi dei commi 1 e 2 risulta da accordo scritto delle parti allegato al verbale di mediazione o risultante da esso. Nei casi di cui al comma 2, le parti comunicano al giudice la proroga del termine mediante produzione in giudizio dell'accordo scritto o del verbale da cui esso risulta. [^agg-12]
 
-[^agg-12]: *AGGIORNAMENTO (12)* Il D.Lgs. 27 dicembre 2024, n. 216 ha disposto (con l'[art. 4](art-4-dlgs28-10.md), comma 1) che "Le disposizioni di cui all'[articolo 6 del decreto legislativo 4 marzo 2010, n. 28](art-6-dlgs28-10.md), come sostituito dall'[articolo 1](../01%20-%20Capo%20I%20-%20DISPOSIZIONI%20GENERALI/art-1-dlgs28-10.md), comma 1, lettera e), del presente decreto, si applicano ai procedimenti di mediazione per i quali alla data di entrata in vigore del presente decreto non è stato depositato il verbale conclusivo della mediazione".
+[^agg-12]: *AGGIORNAMENTO (12)* Il D.Lgs. 27 dicembre 2024, n. 216 ha disposto (con l'art. 4, comma 1) che "Le disposizioni di cui all'[articolo 6 del decreto legislativo 4 marzo 2010, n. 28](art-6-dlgs28-10.md), come sostituito dall'[articolo 1](../01%20-%20Capo%20I%20-%20DISPOSIZIONI%20GENERALI/art-1-dlgs28-10.md), comma 1, lettera e), del presente decreto, si applicano ai procedimenti di mediazione per i quali alla data di entrata in vigore del presente decreto non è stato depositato il verbale conclusivo della mediazione".

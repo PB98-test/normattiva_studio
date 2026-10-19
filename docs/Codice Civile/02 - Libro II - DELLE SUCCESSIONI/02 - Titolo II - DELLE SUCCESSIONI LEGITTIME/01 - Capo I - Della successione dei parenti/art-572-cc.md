@@ -21,5 +21,7 @@ ordine: 659
 # Art. 572 - ***Successione di altri parenti***
 
 Se alcuno muore senza lasciare prole, nè genitori, nè altri ascendenti, nè fratelli o sorelle o loro discendenti, la successione si apre a favore del parente o dei parenti prossimi, senza distinzione di linea.
+{: data-comma="1" }
 
 La successione non ha luogo tra i parenti oltre il sesto grado.
+{: data-comma="2" }

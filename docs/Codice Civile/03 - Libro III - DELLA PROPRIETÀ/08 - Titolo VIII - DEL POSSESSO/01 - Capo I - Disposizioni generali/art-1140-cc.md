@@ -21,5 +21,7 @@ ordine: 1241
 # Art. 1140 - ***Possesso***
 
 Il possesso è il potere sulla cosa che si manifesta in un'attività corrispondente all'esercizio della proprietà o di altro diritto reale.
+{: data-comma="1" }
 
 Si può possedere direttamente o per mezzo di altra persona, che ha la detenzione della cosa.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 300
 # Art. 270-quinquies.1 - ***Finanziamento di condotte con finalità di terrorismo***
 
 Chiunque, al di fuori dei casi di cui agli [articoli 270-bis](art-270-bis-cp.md) e [270-quater.1](art-270-quater.1-cp.md), raccoglie, eroga o mette a disposizione beni o denaro, in qualunque modo realizzati, destinati a essere in tutto o in parte utilizzati per il compimento delle condotte con finalità di terrorismo di cui all'[articolo 270-sexies](art-270-sexies-cp.md) è punito con la reclusione da sette a quindici anni, indipendentemente dall'effettivo utilizzo dei fondi per la commissione delle citate condotte.
+{: data-comma="1" }
 
 Chiunque deposita o custodisce i beni o il denaro indicati al primo comma è punito con la reclusione da cinque a dieci anni.
+{: data-comma="2" }

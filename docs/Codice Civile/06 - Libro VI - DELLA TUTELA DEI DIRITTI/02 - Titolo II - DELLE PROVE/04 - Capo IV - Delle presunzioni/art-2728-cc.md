@@ -21,5 +21,7 @@ ordine: 3033
 # Art. 2728 - ***Prova contro le presunzioni legali***
 
 Le presunzioni legali dispensano da qualunque prova coloro a favore dei quali esse sono stabilite.
+{: data-comma="1" }
 
 Contro le presunzioni sul fondamento delle quali la legge dichiara nulli certi atti o non ammette l'azione in giudizio non può essere data prova contraria, salvo che questa sia consentita dalla legge stessa.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 322
 # Art. 277 - ***Effetti della sentenza***
 
 La sentenza che dichiara la filiazione ... produce gli effetti del riconoscimento.
+{: data-comma="1" }
 
 Il giudice può anche dare i provvedimenti che stima utili per l'affidamento, il mantenimento, l'istruzione e l'educazione del figlio e per la tutela degli interessi patrimoniali di lui.
+{: data-comma="2" }

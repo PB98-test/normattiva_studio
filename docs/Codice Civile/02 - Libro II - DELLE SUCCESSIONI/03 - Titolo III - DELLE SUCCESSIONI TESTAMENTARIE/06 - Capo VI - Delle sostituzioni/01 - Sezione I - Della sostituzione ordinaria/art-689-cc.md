@@ -21,5 +21,7 @@ ordine: 776
 # Art. 689 - ***Sostituzione plurima. Sostituzione reciproca***
 
 Possono sostituirsi più persone a una sola e una sola a più.
+{: data-comma="1" }
 
 La sostituzione può anche essere reciproca tra i coeredi istituiti. Se essi sono stati istituiti in parti disuguali, la proporzione fra le quote fissate nella prima istituzione si presume ripetuta anche nella sostituzione. Se nella sostituzione insieme con gli istituiti è chiamata un'altra persona, la quota vacante viene divisa in parti uguali tra tutti i sostituiti.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 2300
 # Art. 2179 - ***Morte di una delle parti***
 
 La soccida non si scioglie per la morte del soccidante.
+{: data-comma="1" }
 
 In caso di morte del soccidario si osservano, in quanto applicabili, nei riguardi degli eredi le disposizioni del secondo, terzo e quarto comma dell'[art. 2158](../02%20-%20Sezione%20II%20-%20Della%20mezzadria/art-2158-cc.md).
+{: data-comma="2" }

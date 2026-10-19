@@ -21,7 +21,10 @@ ordine: 680
 # Art. 527 - ***Atti osceni***
 
 Chiunque, in luogo pubblico o aperto o esposto al pubblico, compie atti osceni è soggetto alla sanzione amministrativa pecuniaria da euro 5.000 a euro 30.000.
+{: data-comma="1" }
 
 Si applica la pena della reclusione da quattro mesi a quattro anni e sei mesi. se il fatto è commesso all'interno o nelle immediate vicinanze di luoghi abitualmente frequentati da minori e se da ciò deriva il pericolo che essi vi assistano.
+{: data-comma="2" }
 
 Se il fatto avviene per colpa, si applica la sanzione amministrativa pecuniaria da lire centomila a seicentomila.
+{: data-comma="3" }

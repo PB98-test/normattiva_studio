@@ -21,7 +21,10 @@ ordine: 3167
 # Art. 2857 - ***Limiti della surrogazione***
 
 La surrogazione non si può esercitare sui beni dati in ipoteca da un terzo, nè sui beni alienati dal debitore, quando l'alienazione è stata trascritta anteriormente all'iscrizione del creditore perdente.
+{: data-comma="1" }
 
 Trattandosi di beni acquistati dal debitore posteriormente a detta iscrizione, se il creditore soddisfatto aveva esteso a essi la sua ipoteca giudiziale, il creditore perdente può esercitare la surrogazione anche su tali beni.
+{: data-comma="2" }
 
 Per far valere il diritto alla surrogazione deve essere eseguita annotazione in margine all'ipoteca del creditore soddisfatto; per l'annotazione deve presentarsi al conservatore copia dello stato di graduazione dal quale risulta l'incapienza.
+{: data-comma="3" }

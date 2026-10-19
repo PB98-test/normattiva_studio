@@ -21,5 +21,7 @@ ordine: 188
 # Art. 168-ter - ***Effetti della sospensione del procedimento con messa alla prova***
 
 Durante il periodo di sospensione del procedimento con messa alla prova il corso della prescrizione del reato è sospeso. Non si applicano le disposizioni del primo comma dell'[articolo 161](art-161-cp.md).
+{: data-comma="1" }
 
 L'esito positivo della prova estingue il reato per cui si procede. L'estinzione del reato non pregiudica l'applicazione delle sanzioni amministrative accessorie, ove previste dalla legge.
+{: data-comma="2" }

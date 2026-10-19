@@ -14,13 +14,14 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Sentenza di accoglimento"
-dataVigenza: "20260930"
+dataVigenza: "20261016"
 ordine: 1046
 ---
 
 # Art. 840-sexies - ***Sentenza di accoglimento***
 
 Con la sentenza che accoglie l'azione di classe, il tribunale:
+{: data-comma="1" }
 
 - a) provvede in ordine alle domande risarcitorie o restitutorie proposte dal ricorrente, quando l'azione è stata proposta da un soggetto diverso da un'organizzazione o da un'associazione inserita nell'elenco di cui all'[articolo 840-bis](art-840-bis-cpc.md), secondo comma;
 - b) accerta che il resistente, con la condotta addebitatagli dal ricorrente, ha leso diritti individuali omogenei;
@@ -32,15 +33,17 @@ Con la sentenza che accoglie l'azione di classe, il tribunale:
 - h) determina, ove necessario, l'importo da versare a cura di ciascun aderente, ivi compresi coloro che hanno aderito a norma dell'[articolo 840-quinquies](art-840-quinquies-cpc.md), primo comma, a titolo di fondo spese e stabilisce le modalità di versamento.
 
 Il rappresentante comune degli aderenti è pubblico ufficiale. Il giudice delegato può, dopo averlo sentito, revocare il rappresentante comune in ogni tempo con decreto.
+{: data-comma="2" }
 
 Il giudice delegato può in ogni tempo disporre l'integrazione delle somme da versare a cura di ciascun aderente a titolo di fondo spese. Il mancato versamento delle somme rende inefficace l'adesione; l'inefficacia opera di diritto ed è rilevabile d'ufficio.
+{: data-comma="3" }
 
 [^agg-159]  [^agg-160]  [^agg-163]  [^agg-162]
 
-[^agg-159]: *AGGIORNAMENTO (159)* La L. 12 aprile 2019, n. 31 ha disposto (con l'[art. 7](../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/02%20-%20Sezione%20II%20-%20Della%20competenza%20per%20materia%20e%20valore/art-7-cpc.md), comma 2) che "Le disposizioni della presente legge si applicano alle condotte illecite poste in essere successivamente alla data della sua entrata in vigore. Alle condotte illecite poste in essere precedentemente continuano ad applicarsi le disposizioni vigenti prima della medesima data di entrata in vigore".
+[^agg-159]: *AGGIORNAMENTO (159)* La L. 12 aprile 2019, n. 31 ha disposto (con l'art. 7, comma 2) che "Le disposizioni della presente legge si applicano alle condotte illecite poste in essere successivamente alla data della sua entrata in vigore. Alle condotte illecite poste in essere precedentemente continuano ad applicarsi le disposizioni vigenti prima della medesima data di entrata in vigore".
 
-[^agg-160]: *AGGIORNAMENTO (160)* La L. 12 aprile 2019, n. 31, come modificata dal D.L. 30 dicembre 2019, n. 162, aveva precedentemente disposto (con l'[art. 7](../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/02%20-%20Sezione%20II%20-%20Della%20competenza%20per%20materia%20e%20valore/art-7-cpc.md), comma 1) che le disposizioni di cui al presente articolo entravano in vigore il 19/10/2020. La L. 12 aprile 2019, n. 31, come modificata dal D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, ha successivamente disposto (con l'[art. 7](../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/02%20-%20Sezione%20II%20-%20Della%20competenza%20per%20materia%20e%20valore/art-7-cpc.md), comma 1) che le disposizioni di cui al presente articolo entrano in vigore il 19/11/2020.
+[^agg-160]: *AGGIORNAMENTO (160)* La L. 12 aprile 2019, n. 31, come modificata dal D.L. 30 dicembre 2019, n. 162, aveva precedentemente disposto (con l'art. 7, comma 1) che le disposizioni di cui al presente articolo entravano in vigore il 19/10/2020. La L. 12 aprile 2019, n. 31, come modificata dal D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, ha successivamente disposto (con l'art. 7, comma 1) che le disposizioni di cui al presente articolo entrano in vigore il 19/11/2020.
 
-[^agg-163]: *AGGIORNAMENTO (163)* - La L. 12 aprile 2019, n. 31, come modificata dal D.L. 9 novembre 2020, n. 149, ha disposto (con l'[art. 7](../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/02%20-%20Sezione%20II%20-%20Della%20competenza%20per%20materia%20e%20valore/art-7-cpc.md), comma 1) che le disposizioni di cui al presente articolo entrano in vigore il 19/05/2021. - L'aggiornamento in calce, disposto dall'[art. 7](../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/02%20-%20Sezione%20II%20-%20Della%20competenza%20per%20materia%20e%20valore/art-7-cpc.md), comma 1, della L. 12 aprile 2019, n. 31, come modificata dal D.L. 9 novembre 2020, n. 149, ha perso efficacia a seguito dell'abrogazione del su indicato D.L. 9 novembre 2020, n. 149, ad opera della L. 18 dicembre 2020, n. 176, la quale ne ha contestualmente fatti salvi gli effetti.
+[^agg-163]: *AGGIORNAMENTO (163)* - La L. 12 aprile 2019, n. 31, come modificata dal D.L. 9 novembre 2020, n. 149, ha disposto (con l'art. 7, comma 1) che le disposizioni di cui al presente articolo entrano in vigore il 19/05/2021. - L'aggiornamento in calce, disposto dall'[art. 7](../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/02%20-%20Sezione%20II%20-%20Della%20competenza%20per%20materia%20e%20valore/art-7-cpc.md), comma 1, della L. 12 aprile 2019, n. 31, come modificata dal D.L. 9 novembre 2020, n. 149, ha perso efficacia a seguito dell'abrogazione del su indicato D.L. 9 novembre 2020, n. 149, ad opera della L. 18 dicembre 2020, n. 176, la quale ne ha contestualmente fatti salvi gli effetti.
 
-[^agg-162]: *AGGIORNAMENTO (162)* La L. 12 aprile 2019, n. 31, come modificata dal D.L. 28 ottobre 2020, n. 137, convertito con modificazioni dalla L. 18 dicembre 2020, n. 176, ha disposto (con l'[art. 7](../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/02%20-%20Sezione%20II%20-%20Della%20competenza%20per%20materia%20e%20valore/art-7-cpc.md), comma 1) che le disposizioni di cui al presente articolo entrano in vigore il 19/05/2021.
+[^agg-162]: *AGGIORNAMENTO (162)* La L. 12 aprile 2019, n. 31, come modificata dal [D.L. 28 ottobre 2020, n. 137](../../../Dl%20137-2020%20-%2028.10.2020/00%20-%20Indice%20%28dl137-20%29.md), convertito con modificazioni dalla L. 18 dicembre 2020, n. 176, ha disposto (con l'art. 7, comma 1) che le disposizioni di cui al presente articolo entrano in vigore il 19/05/2021.

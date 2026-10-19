@@ -21,5 +21,7 @@ ordine: 644
 # Art. 505 - ***Assegnazione***
 
 Il creditore pignorante può chiedere l'assegnazione dei beni pignorati, nei limiti e secondo le regole contenute nei capi seguenti.
+{: data-comma="1" }
 
 Se sono intervenuti altri creditori, l'assegnazione può essere chiesta a vantaggio di uno solo o di più, d'accordo fra tutti.
+{: data-comma="2" }

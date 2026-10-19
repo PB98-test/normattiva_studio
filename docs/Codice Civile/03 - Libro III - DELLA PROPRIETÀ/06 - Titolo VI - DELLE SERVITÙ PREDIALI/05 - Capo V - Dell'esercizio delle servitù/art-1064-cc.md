@@ -21,5 +21,7 @@ ordine: 1159
 # Art. 1064 - ***Estensione del diritto di servitù***
 
 Il diritto di servitù comprende tutto ciò che è necessario per usarne.
+{: data-comma="1" }
 
 Se il fondo viene chiuso, il proprietario deve lasciarne libero e comodo l'ingresso a chi ha un diritto di servitù che renda necessario il passaggio per il fondo stesso.
+{: data-comma="2" }

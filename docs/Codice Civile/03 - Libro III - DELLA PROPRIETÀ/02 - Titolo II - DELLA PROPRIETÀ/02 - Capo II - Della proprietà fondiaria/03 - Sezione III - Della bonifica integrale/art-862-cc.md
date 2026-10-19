@@ -21,9 +21,13 @@ ordine: 956
 # Art. 862 - ***Consorzi di bonifica***
 
 All'esecuzione, alla manutenzione e all'esercizio delle opere di bonifica può provvedersi a mezzo di consorzi tra i proprietari interessati.
+{: data-comma="1" }
 
 A tali consorzi possono essere anche affidati l'esecuzione, la manutenzione e l'esercizio delle altre opere d'interesse comune a più fondi o d'interesse particolare a uno di essi.
+{: data-comma="2" }
 
 I consorzi sono costituiti per decreto reale e, in mancanza dell'iniziativa privata, possono essere formati anche d'ufficio.
+{: data-comma="3" }
 
 Essi sono persone giuridiche pubbliche e svolgono la loro attività secondo le norme dettate dalla legge speciale.
+{: data-comma="4" }

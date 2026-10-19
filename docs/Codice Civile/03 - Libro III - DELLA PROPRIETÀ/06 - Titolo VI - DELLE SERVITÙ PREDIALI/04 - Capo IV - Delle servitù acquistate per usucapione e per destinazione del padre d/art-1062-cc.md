@@ -21,5 +21,7 @@ ordine: 1157
 # Art. 1062 - ***Destinazione del padre di famiglia***
 
 La destinazione del padre di famiglia ha luogo quanto consta, mediante qualunque genere di prova, che due fondi, attualmente divisi, sono stati posseduti dallo stesso proprietario, e che questi ha posto o lasciato le cose nello stato dal quale risulta la servitù.
+{: data-comma="1" }
 
 Se i due fondi cessarono di appartenere allo stesso proprietario, senza alcuna disposizione relativa alla servitù, questa s'intende stabilita attivamente e passivamente a favore e sopra ciascuno dei fondi separati.
+{: data-comma="2" }

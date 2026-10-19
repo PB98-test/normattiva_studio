@@ -21,5 +21,7 @@ ordine: 1344
 # Art. 1242 - ***Effetti della compensazione***
 
 La compensazione estingue i due debiti dal giorno della loro coesistenza. Il giudice non può rilevarla d'ufficio.
+{: data-comma="1" }
 
 La prescrizione non impedisce la compensazione, se non era compiuta quando si è verificata la coesistenza dei due debiti.
+{: data-comma="2" }

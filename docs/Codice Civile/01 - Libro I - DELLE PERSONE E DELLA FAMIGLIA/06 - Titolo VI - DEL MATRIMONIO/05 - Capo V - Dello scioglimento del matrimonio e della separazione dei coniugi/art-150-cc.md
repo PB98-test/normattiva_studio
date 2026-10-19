@@ -21,7 +21,10 @@ ordine: 185
 # Art. 150 - ***Separazione personale.***
 
 È ammessa la separazione personale dei coniugi.
+{: data-comma="1" }
 
 La separazione può essere giudiziale o consensuale.
+{: data-comma="2" }
 
 Il diritto di chiedere la separazione giudiziale o la omologazione di quella consensuale spetta esclusivamente ai coniugi.
+{: data-comma="3" }

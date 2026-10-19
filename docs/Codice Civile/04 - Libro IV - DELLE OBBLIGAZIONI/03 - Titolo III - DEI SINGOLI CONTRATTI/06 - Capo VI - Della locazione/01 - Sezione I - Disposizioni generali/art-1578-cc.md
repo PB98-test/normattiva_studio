@@ -21,5 +21,7 @@ ordine: 1693
 # Art. 1578 - ***Vizi della cosa locata***
 
 Se al momento della consegna la cosa locata è affetta da vizi che ne diminuiscono in modo apprezzabile l'idoneità all'uso pattuito, il conduttore può domandare la risoluzione del contratto o una riduzione del corrispettivo, salvo che si tratti di vizi da lui conosciuti o facilmente riconoscibili.
+{: data-comma="1" }
 
 Il locatore è tenuto a risarcire al conduttore i danni derivati da vizi della cosa, se non prova di avere senza colpa ignorato i vizi stessi al momento della consegna.
+{: data-comma="2" }

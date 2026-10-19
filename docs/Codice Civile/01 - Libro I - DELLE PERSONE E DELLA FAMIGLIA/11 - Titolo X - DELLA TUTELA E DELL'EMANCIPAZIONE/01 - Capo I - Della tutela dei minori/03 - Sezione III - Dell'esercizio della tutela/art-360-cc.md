@@ -21,7 +21,10 @@ ordine: 445
 # Art. 360 - ***Funzioni del protutore***
 
 Il protutore rappresenta il minore nei casi in cui l'interesse di questo è in opposizione con l'interesse del tutore.
+{: data-comma="1" }
 
 Se anche il protutore si trova in opposizione d'interessi col minore, il giudice tutelare nomina un curatore speciale.
+{: data-comma="2" }
 
 Il protutore è tenuto a promuovere la nomina di un nuovo tutore nel caso in cui il tutore è venuto a mancare o ha abbandonato l'ufficio. Frattanto egli ha cura della persona del minore, lo rappresenta e può fare tutti gli atti conservativi e gli atti urgenti di amministrazione.
+{: data-comma="3" }

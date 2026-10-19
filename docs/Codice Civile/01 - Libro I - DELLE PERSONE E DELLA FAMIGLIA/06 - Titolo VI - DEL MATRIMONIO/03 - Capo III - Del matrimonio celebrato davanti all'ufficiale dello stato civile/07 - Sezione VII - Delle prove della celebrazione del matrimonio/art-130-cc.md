@@ -21,5 +21,7 @@ ordine: 163
 # Art. 130 - ***Atto di celebrazione del matrimonio***
 
 Nessuno può reclamare il titolo di coniuge e gli effetti del matrimonio, se non presenta l'atto di celebrazione estratto dai registri dello stato civile.
+{: data-comma="1" }
 
 Il possesso di stato, quantunque allegato da ambedue i coniugi, non dispensa dal presentare l'atto di celebrazione.
+{: data-comma="2" }

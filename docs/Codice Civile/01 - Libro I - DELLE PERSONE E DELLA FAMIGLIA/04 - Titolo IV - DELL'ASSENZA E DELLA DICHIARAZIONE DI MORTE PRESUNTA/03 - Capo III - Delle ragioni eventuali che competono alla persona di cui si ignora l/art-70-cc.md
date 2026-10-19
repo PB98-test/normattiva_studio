@@ -21,5 +21,7 @@ ordine: 102
 # Art. 70 - ***Successione alla quale sarebbe chiamata la persona di cui si ignora l'esistenza***
 
 Quando s'apre una successione alla quale sarebbe chiamata in tutto o in parte una persona di cui s'ignora l'esistenza, la successione è devoluta a coloro ai quali sarebbe spettata in mancanza della detta persona, salvo il diritto di rappresentazione.
+{: data-comma="1" }
 
 Coloro ai quali è devoluta la successione devono innanzi tutto procedere all'inventario dei beni, e devono dare cauzione.
+{: data-comma="2" }

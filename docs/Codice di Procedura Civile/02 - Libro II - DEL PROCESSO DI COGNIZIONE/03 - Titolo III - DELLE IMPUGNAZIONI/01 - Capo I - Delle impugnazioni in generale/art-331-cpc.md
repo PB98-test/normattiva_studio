@@ -21,5 +21,7 @@ ordine: 369
 # Art. 331 - ***Integrazione del contradittorio in cause inscindibili***
 
 Se la sentenza pronunciata tra più parti in causa inscindibile o in cause tra loro dipendenti non è stata impugnata nei confronti di tutte, il giudice ordina l'integrazione del contradittorio fissando il termine nel quale la notificazione deve essere fatta e, se è necessario, l'udienza di comparizione.
+{: data-comma="1" }
 
 L'impugnazione è dichiarata inammissibile se nessuna delle parti provvede all'integrazione nel termine fissato.
+{: data-comma="2" }

@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da L. 197-2022 - 29.12.2022 ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di L. 197-2022 - 29.12.2022 — 490 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di L. 197-2022 - 29.12.2022 — 487 leggi trovate)*
 
 - [articolo 21, comma 1-ter, lettera a), della legge 31 dicembre 2009, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196)
 - [articolo 17 del decreto legislativo 9 luglio 1997, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1997-07-09;241)
@@ -98,7 +98,6 @@ search:
 - [decreto-legge 17 maggio 2022, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2022-05-17;50)
 - [legge 15 luglio 2022, n. 91, e dell'articolo 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-07-15;91)
 - [decreto-legge 18 novembre 2022, n. 176](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2022-11-18;176)
-- [articolo 1-quater del decreto-legge 28 ottobre 2020, n. 137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2020-10-28;137)
 - [legge 18 dicembre 2020, n. 176](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-12-18;176)
 - [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1997-06-19;218)
 - [articolo 24 della legge 7 gennaio 1929, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-01-07;4)
@@ -195,7 +194,6 @@ search:
 - [articolo 13 del decreto legislativo 23 aprile 2004, n. 124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2004-04-23;124)
 - [legge 12 maggio 1942, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-05-12;889)
 - [legge 21 agosto 1950, n. 698](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-08-21;698)
-- [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const)
 - [decreto legislativo 3 luglio 2017, n. 117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2017-07-03;117)
 - [decreto legislativo 26 marzo 2001, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2001-03-26;151)
 - [decreto legislativo n. 151 del 2001](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2001;151)
@@ -221,7 +219,6 @@ search:
 - [articolo 21, comma 1, del decreto legislativo n. 26 del 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2006;26)
 - [decreto legislativo 19 agosto 2016, n. 175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2016-08-19;175)
 - [articolo 1, comma 1, lettera b), numero 6), del decreto legislativo 27 gennaio 2010, n. 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2010-01-27;11)
-- [articolo 15, comma 4, del decreto-legge 18 ottobre 2012, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2012-10-18;179)
 - [legge 17 dicembre 2012, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-17;221)
 - [articolo 52 della legge 24 dicembre 2012, n. 234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;234)
 - [articolo 14, comma 2, della legge 29 luglio 2015, n. 115](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-07-29;115)

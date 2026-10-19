@@ -21,11 +21,13 @@ ordine: 2473
 # Art. 2343-quater - ***Fatti eccezionali o rilevanti che incidono sulla valutazione***
 
 Gli amministratori verificano, nel termine di trenta giorni dalla iscrizione della società, se, nel periodo successivo a quello di cui all'[articolo 2343-ter](art-2343-ter-cc.md),primo comma, sono intervenuti fatti eccezionali che hanno inciso sul prezzo dei valori mobiliari o degli strumenti del mercato monetario conferiti in modo tale da modificare sensibilmente il valore di tali beni alla data di iscrizione della società nel registro delle imprese, comprese le situazioni in cui il mercato dei valori o strumenti non è più liquido. Gli amministratori verificano altresì nel medesimo termine se, successivamente al termine dell'esercizio cui si riferisce il bilancio di cui alla lettera
+{: data-comma="1" }
 
 - a) del secondo comma dell'[articolo 2343-ter](art-2343-ter-cc.md), o alla data della valutazione di cui alla lettera
 - b) del medesimo comma, si sono verificati fatti nuovi rilevanti tali da modificare sensibilmente il valore dei beni o dei crediti conferiti alla data di iscrizione della società nel registro delle imprese, nonchè i requisiti di professionalità ed indipendenza dell'esperto che ha reso la valutazione di cui all'[articolo 2343-ter](art-2343-ter-cc.md), secondo comma, lettera b).  Qualora gli amministratori ritengano che siano intervenuti i fatti di cui al primo comma, ovvero ritengano non idonei i requisiti di professionalità e indipendenza dell'esperto che ha reso la valutazione di cui all'[articolo 2343-ter](art-2343-ter-cc.md), secondo comma, lettera b), si procede, su iniziativa degli amministratori, ad una nuova valutazione ai sensi e per gli effetti dell'[articolo 2343](art-2343-cc.md).
 
 Fuori dai casi di cui al secondo comma, è depositata per l'iscrizione nel registro delle imprese, nel medesimo termine di cui al primo comma, una dichiarazione degli amministratori contenente le seguenti informazioni:
+{: data-comma="2" }
 
 - a) la descrizione dei beni o dei crediti conferiti per i quali non si è fatto luogo alla relazione di cui all'[articolo 2343](art-2343-cc.md), primo comma;
 - b) il valore ad essi attribuito, la fonte di tale valutazione e, se del caso, il metodo di valutazione;
@@ -34,3 +36,4 @@ Fuori dai casi di cui al secondo comma, è depositata per l'iscrizione nel regis
 - e) la dichiarazione di idoneità dei requisiti di professionalità e indipendenza dell'esperto di cui all'[articolo 2343-ter](art-2343-ter-cc.md), secondo comma, lettera b).
 
 Fino all'iscrizione della dichiarazione le azioni sono inalienabili e devono restare depositate presso la società.
+{: data-comma="3" }

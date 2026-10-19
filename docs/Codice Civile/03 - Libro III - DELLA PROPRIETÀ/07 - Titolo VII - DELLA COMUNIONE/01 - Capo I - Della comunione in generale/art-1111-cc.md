@@ -21,7 +21,10 @@ ordine: 1206
 # Art. 1111 - ***Scioglimento della comunione***
 
 Ciascuno dei partecipanti può sempre domandare lo scioglimento della comunione; l'autorità giudiziaria può stabilire una congrua dilazione, in ogni caso non superiore a cinque anni, se l'immediato scioglimento può pregiudicare gli interessi degli altri.
+{: data-comma="1" }
 
 Il patto di rimanere in comunione per un tempo non maggiore di dieci anni è valido e ha effetto anche per gli aventi causa dai partecipanti. Se è stato stipulato per un termine maggiore, questo si riduce a dieci anni.
+{: data-comma="2" }
 
 Se gravi circostanze lo richiedono, l'autorità giudiziaria può ordinare lo scioglimento della comunione prima del tempo convenuto.
+{: data-comma="3" }

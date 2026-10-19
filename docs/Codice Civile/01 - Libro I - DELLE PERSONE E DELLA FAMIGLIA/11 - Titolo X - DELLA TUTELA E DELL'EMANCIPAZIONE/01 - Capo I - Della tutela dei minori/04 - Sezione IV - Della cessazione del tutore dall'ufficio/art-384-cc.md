@@ -21,5 +21,7 @@ ordine: 469
 # Art. 384 - ***Rimozione e sospensione del tutore***
 
 Il giudice tutelare può rimuovere dall'ufficio il tutore che si sia reso colpevole di negligenza o abbia abusato dei suoi poteri, o si sia dimostrato inetto nell'adempimento di essi, o sia divenuto immeritevole dell'ufficio per atti anche estranei alla tutela, ovvero sia divenuto insolvente.
+{: data-comma="1" }
 
 Il giudice non può rimuovere il tutore se non dopo averlo sentito o citato; può tuttavia sospenderlo dall'esercizio della tutela nei casi che non ammettono dilazione.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 697
 # Art. 610 - ***Termine di efficacia***
 
 Il testamento ricevuto nel modo indicato dall'articolo precedente perde la sua efficacia tre mesi dopo la cessazione della causa che ha impedito al testatore di valersi delle forme ordinarie.
+{: data-comma="1" }
 
 Se il testatore muore nell'intervallo, il testamento deve essere depositato, appena è possibile, nell'archivio notarile del luogo in cui è stato ricevuto.
+{: data-comma="2" }

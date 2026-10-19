@@ -21,5 +21,7 @@ ordine: 2219
 # Art. 2098 - ***Violazione delle norme sul collocamento dei lavoratori***
 
 Il contratto di lavoro stipulato senza l'osservanza delle disposizioni concernenti la disciplina della domanda e dell'offerta di lavoro può essere annullato, salva l'applicazione delle sanzioni penali.
+{: data-comma="1" }
 
 La domanda di annullamento è proposta dal pubblico ministero, su denunzia dell'ufficio di collocamento, entro un anno dalla data dell'assunzione del prestatore di lavoro.
+{: data-comma="2" }

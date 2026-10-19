@@ -21,5 +21,7 @@ ordine: 2048
 # Art. 1927 - ***Suicidio dell'assicurato***
 
 In caso di suicidio dell'assicurato, avvenuto prima che siano decorsi due anni dalla stipulazione del contratto, l'assicuratore non è tenuto al pagamento delle somme assicurate, salvo patto contrario.
+{: data-comma="1" }
 
 L'assicuratore non è nemmeno obbligato se, essendovi stata sospensione del contratto per mancato pagamento dei premi, non sono decorsi due anni dal giorno in cui la sospensione è cessata.
+{: data-comma="2" }

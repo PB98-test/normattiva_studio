@@ -21,5 +21,7 @@ ordine: 1560
 # Art. 1458 - ***Effetti della risoluzione***
 
 La risoluzione del contratto per inadempimento ha effetto retroattivo tra le parti, salvo il caso di contratti ad esecuzione continuata o periodica, riguardo ai quali l'effetto della risoluzione non si estende alle prestazioni già eseguite.
+{: data-comma="1" }
 
 La risoluzione, anche se è stata espressamente pattuita, non pregiudica i diritti acquistati dai terzi, salvi gli effetti della trascrizione della domanda di risoluzione.
+{: data-comma="2" }

@@ -21,7 +21,10 @@ ordine: 1127
 # Art. 1032 - ***Modi di costituzione***
 
 Quando, in forza di legge, il proprietario di un fondo ha diritto di ottenere da parte del proprietario di un altro fondo la costituzione di una servitù, questa, in mancanza di contratto, è costituita con sentenza. Può anche essere costituita con atto dell'autorità amministrativa nei casi specialmente determinati dalla legge.
+{: data-comma="1" }
 
 La sentenza stabilisce le modalità della servitù e determina l'indennità dovuta.
+{: data-comma="2" }
 
 Prima del pagamento dell'indennità il proprietario del fondo servente può opporsi all'esercizio della servitù.
+{: data-comma="3" }

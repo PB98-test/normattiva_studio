@@ -21,7 +21,10 @@ ordine: 1800
 # Art. 1684 - ***Lettera di vettura e ricevuta di carico***
 
 Su richiesta del vettore, il mittente deve rilasciare una lettera di vettura con la propria sottoscrizione, contenente le indicazioni enunciate nell'articolo precedente e le condizioni convenute per il trasporto.
+{: data-comma="1" }
 
 Su richiesta del mittente, il vettore deve rilasciare un duplicato della lettera di vettura con la propria sottoscrizione o, se non gli è stata rilasciata lettera di vettura, una ricevuta di carico, con le stesse indicazioni.
+{: data-comma="2" }
 
 Salvo contrarie disposizioni di legge, il duplicato della lettera di vettura e la ricevuta di carico possono essere rilasciate con la clausola «all'ordine».
+{: data-comma="3" }

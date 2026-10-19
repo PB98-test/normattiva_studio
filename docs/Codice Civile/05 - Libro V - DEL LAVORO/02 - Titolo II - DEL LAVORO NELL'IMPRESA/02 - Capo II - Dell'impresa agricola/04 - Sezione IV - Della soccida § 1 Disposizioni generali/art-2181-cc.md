@@ -21,7 +21,10 @@ ordine: 2302
 # Art. 2181 - ***Prelevamento e divisione al termine del contratto***
 
 Al termine del contratto le parti procedono a nuova stima del bestiame.
+{: data-comma="1" }
 
 Il soccidante preleva, d'accordo con il soccidario, un complesso di capi che, avuto riguardo al numero, alla razza, al sesso, al peso, alla qualità e all'età, sia corrispondente alla consistenza del bestiame apportato all'inizio della soccida. Il di più si divide a norma dell'[art. 2178](art-2178-cc.md).
+{: data-comma="2" }
 
 Se non vi sono capi sufficienti ad eguagliare la stima iniziale, il soccidante prende quelli che rimangono.
+{: data-comma="3" }

@@ -21,7 +21,10 @@ ordine: 2359
 # Art. 2237 - ***Recesso***
 
 Il cliente può recedere dal contratto, rimborsando al prestatore d'opera le spese sostenute e pagando il compenso per l'opera svolta.
+{: data-comma="1" }
 
 Il prestatore d'opera può recedere dal contratto per giusta causa. In tal caso egli ha diritto al rimborso delle spese fatte e al compenso per l'opera svolta, da determinarsi con riguardo al risultato utile che ne sia derivato al cliente.
+{: data-comma="2" }
 
 Il recesso del prestatore d'opera deve essere esercitato in modo da evitare pregiudizio al cliente.
+{: data-comma="3" }

@@ -21,5 +21,7 @@ ordine: 3199
 # Art. 2889 - ***Facoltà di liberare i beni dalle ipoteche***
 
 Il terzo acquirente dei beni ipotecati, che ha trascritto il suo titolo e non è personalmente obbligato a pagare i creditori ipotecari, ha facoltà di liberare i beni da ogni ipoteca iscritta anteriormente alla trascrizione del suo titolo di acquisto.
+{: data-comma="1" }
 
 Tale facoltà spetta all'acquirente anche dopo il pignoramento, purchè nel termine di trenta giorni proceda in conformità dell'articolo che segue.
+{: data-comma="2" }

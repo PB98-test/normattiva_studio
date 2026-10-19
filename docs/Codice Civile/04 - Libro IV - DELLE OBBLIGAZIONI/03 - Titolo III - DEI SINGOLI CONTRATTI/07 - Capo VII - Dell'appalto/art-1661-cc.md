@@ -21,5 +21,7 @@ ordine: 1776
 # Art. 1661 - ***Variazioni ordinate dal committente***
 
 Il committente può apportare variazioni al progetto, purchè il loro ammontare non superi il sesto del prezzo complessivo convenuto. L'appaltatore ha diritto al compenso per i maggiori lavori eseguiti, anche se il prezzo dell'opera era stato determinato globalmente.
+{: data-comma="1" }
 
 La disposizione del comma precedente non si applica quando le variazioni, pur essendo contenute nei limiti suddetti, importano notevoli modificazioni della natura dell'opera o dei quantitativi nelle singole categorie di lavori previste nel contratto per l'esecuzione dell'opera medesima.
+{: data-comma="2" }

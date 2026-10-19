@@ -5,9 +5,8 @@ search:
 
 # Leggi citate da Proc. Minorile (DPR 448-1988 - 22.09.1988) ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Proc. Minorile (DPR 448-1988 - 22.09.1988) — 14 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Proc. Minorile (DPR 448-1988 - 22.09.1988) — 13 leggi trovate)*
 
-- [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const)
 - [legge 16 febbraio 1987, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-02-16;81)
 - [legge n. 81 del 1987](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987;81)
 - [D.L. 4 luglio 2024, n. 92](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2024-07-04;92)

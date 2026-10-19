@@ -21,5 +21,7 @@ ordine: 271
 # Art. 248 - ***Somministrazione al nemico di provvigioni***
 
 Chiunque, in tempo di guerra, somministra, anche indirettamente, allo Stato nemico provvigioni, ovvero altre cose, le quali possano essere usate a danno dello Stato italiano, è punito con la reclusione non inferiore a cinque anni.
+{: data-comma="1" }
 
 Tale disposizione non si applica allo straniero che commette il fatto all'estero.
+{: data-comma="2" }

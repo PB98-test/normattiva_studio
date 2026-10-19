@@ -21,5 +21,7 @@ ordine: 161
 # Art. 129 - ***Diritti dei coniugi in buona fede.***
 
 Quando le condizioni del matrimonio putativo si verificano rispetto ad ambedue i coniugi, il giudice può disporre a carico di uno di essi e per un periodo non superiore a tre anni l'obbligo di corrispondere somme periodiche di denaro, in proporzione alle sue sostanze, a favore dell'altro, ove questi non abbia adeguati redditi propri e non sia passato a nuove nozze.
+{: data-comma="1" }
 
 Per i provvedimenti che il giudice adotta riguardo ai figli, si applica l'[articolo 155](../../05%20-%20Capo%20V%20-%20Dello%20scioglimento%20del%20matrimonio%20e%20della%20separazione%20dei%20coniugi/art-155-cc.md).
+{: data-comma="2" }

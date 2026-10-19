@@ -21,7 +21,10 @@ ordine: 2810
 # Art. 2536 - ***Responsabilità del socio uscente e dei suoi eredi***
 
 Il socio che cessa di far parte della società risponde verso questa per il pagamento dei conferimenti non versati, per un anno dal giorno in cui il recesso, la esclusione o la cessione della quota si è verificata.
+{: data-comma="1" }
 
 Se entro un anno dallo scioglimento del rapporto associativo si manifesta l'insolvenza della società, il socio uscente è obbligato verso questa nei limiti di quanto ricevuto per la liquidazione della quota o per il rimborso delle azioni.
+{: data-comma="2" }
 
 Nello stesso modo e per lo stesso termine sono responsabili verso la società gli eredi del socio defunto..
+{: data-comma="3" }

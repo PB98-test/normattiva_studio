@@ -21,5 +21,7 @@ ordine: 3193
 # Art. 2883 - ***Capacità per consentire la cancellazione***
 
 Chi non ha la capacità richiesta per liberare il debitore non può consentire la cancellazione dell'iscrizione, se non è assistito dalle persone il cui intervento è necessario per la liberazione.
+{: data-comma="1" }
 
 Il rappresentante legale dell'incapace e ogni altro amministratore, anche se autorizzati a esigere il credito e a liberare il debitore, non possono consentire la cancellazione dell'iscrizione, ove il credito non sia soddisfatto.
+{: data-comma="2" }

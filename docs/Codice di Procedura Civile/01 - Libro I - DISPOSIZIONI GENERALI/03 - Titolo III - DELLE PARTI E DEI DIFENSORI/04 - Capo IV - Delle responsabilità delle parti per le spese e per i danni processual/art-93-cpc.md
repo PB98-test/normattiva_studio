@@ -21,5 +21,7 @@ ordine: 100
 # Art. 93 - ***Distrazione delle spese***
 
 Il difensore con procura può chiedere che il giudice, nella stessa sentenza in cui condanna alle spese, distragga in favore suo e degli altri difensori gli onorari non riscossi e le spese che dichiara di avere anticipate.
+{: data-comma="1" }
 
 Finchè il difensore non abbia conseguito il rimborso che gli è stato attribuito, la parte può chiedere al giudice, con le forme stabilite per la correzione delle sentenze, la revoca del provvedimento, qualora dimostri di aver soddisfatto il credito del difensore per gli onorari e le spese.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 2726
 # Art. 2493 - ***Approvazione tacita del bilancio***
 
 Decorso il termine di novanta giorni senza che siano stati proposti reclami, il bilancio finale di liquidazione s'intende approvato, e i liquidatori, salvi i loro obblighi relativi alla distribuzione dell'attivo risultante dal bilancio, sono liberati di fronte ai soci.
+{: data-comma="1" }
 
 Indipendentemente dalla decorrenza del termine, la quietanza, rilasciata senza riserve all'atto del pagamento dell'ultima quota di riparto, importa approvazione del bilancio.
+{: data-comma="2" }

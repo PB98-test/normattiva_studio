@@ -21,5 +21,7 @@ ordine: 1438
 # Art. 1336 - ***Offerta al pubblico***
 
 L'offerta al pubblico, quando contiene gli estremi essenziali del contratto alla cui conclusione è diretta, vale come proposta, salvo che risulti diversamente dalle circostanze o dagli usi.
+{: data-comma="1" }
 
 La revoca dell'offerta, se è fatta nella stessa forma dell'offerta o in forma equipollente, è efficace anche in confronto di chi non ne ha avuto notizia.
+{: data-comma="2" }

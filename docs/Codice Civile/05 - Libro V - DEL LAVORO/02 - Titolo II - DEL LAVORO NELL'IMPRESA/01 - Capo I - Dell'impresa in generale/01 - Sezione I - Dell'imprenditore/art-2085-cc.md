@@ -21,5 +21,7 @@ ordine: 2206
 # Art. 2085 - ***Indirizzo della produzione***
 
 Il controllo sull'indirizzo della produzione e degli scambi in relazione all'interesse unitario dell'economia nazionale è esercitato dallo Stato, nei modi previsti dalla legge e dalle norme corporative.
+{: data-comma="1" }
 
 La legge stabilisce altresì i casi e i modi nei quali si esercita la vigilanza dello Stato sulla gestione delle imprese.
+{: data-comma="2" }

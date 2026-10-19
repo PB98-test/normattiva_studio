@@ -21,9 +21,13 @@ ordine: 1745
 # Art. 1630 - ***Affitto senza determinazione di tempo***
 
 L'affitto a tempo indeterminato di un fondo soggetto a rotazione di colture si reputa stipulato per il tempo necessario affinchè l'affittuario possa svolgere e portare a compimento il normale ciclo di avvicendamento delle colture praticate nel fondo.
+{: data-comma="1" }
 
 Se il fondo non è soggetto ad avvicendamento di colture, l'affitto si reputa fatto per il tempo necessario alla raccolta dei frutti.
+{: data-comma="2" }
 
 L'affitto non cessa se prima della scadenza una delle parti non ha dato disdetta con preavviso di sei mesi.
+{: data-comma="3" }
 
 Sono salve le diverse disposizioni delle norme corporative.
+{: data-comma="4" }

@@ -21,5 +21,7 @@ ordine: 865
 # Art. 771 - ***Donazione di beni futuri***
 
 La donazione non può comprendere che i beni presenti del donante. Se comprende beni futuri, è nulla rispetto a questi, salvo che si tratti di frutti non ancora separati.
+{: data-comma="1" }
 
 Qualora oggetto della donazione sia un'universalità di cose e il donante ne conservi il godimento trattenendola presso di sè, si considerano comprese nella donazione anche le cose che vi si aggiungono successivamente, salvo che dall'atto risulti una diversa volontà.
+{: data-comma="2" }

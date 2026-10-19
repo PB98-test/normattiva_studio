@@ -21,5 +21,7 @@ ordine: 11
 # Art. 11-preleggi - ***Efficacia della legge nel tempo***
 
 Le legge non dispone che per l'avvenire: essa non ha effetto retroattivo.
+{: data-comma="1" }
 
 I contratti collettivi di lavoro possono stabilire per la loro efficacia una data anteriore alla pubblicazione, purchè non preceda quella della stipulazione.
+{: data-comma="2" }

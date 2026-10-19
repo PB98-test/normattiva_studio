@@ -21,9 +21,13 @@ ordine: 3096
 # Art. 2787 - ***Prelazione del creditore pignoratizio***
 
 Il creditore ha diritto di farsi pagare con prelazione sulla cosa ricevuta in pegno.
+{: data-comma="1" }
 
 La prelazione non si può far valere se la cosa data in pegno non è rimasta in possesso del creditore o presso il terzo designato dalle parti.
+{: data-comma="2" }
 
 Quando il credito garantito eccede la somma di lire cinquemila, la prelazione non ha luogo se il pegno non risulta da scrittura con data certa, la quale contenga sufficiente indicazione del credito e della cosa.
+{: data-comma="3" }
 
 Se però il pegno risulta da polizza o da altra scrittura di enti che, debitamente autorizzati, compiono professionalmente operazioni di credito su pegno, la data della scrittura può essere accertata con ogni mezzo di prova.
+{: data-comma="4" }

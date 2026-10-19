@@ -21,7 +21,10 @@ ordine: 850
 # Art. 763 - ***Rescissione per lesione***
 
 La divisione può essere rescissa quando taluno dei coeredi prova di essere stato leso oltre il quarto.
+{: data-comma="1" }
 
 La rescissione è ammessa anche nel caso di divisione fatta dal testatore, quando il valore dei beni assegnati ad alcuno dei coeredi è inferiore di oltre un quarto all'entità della quota ad esso spettante.
+{: data-comma="2" }
 
 L'azione si prescrive in due anni dalla divisione.
+{: data-comma="3" }

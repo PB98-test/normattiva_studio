@@ -21,5 +21,7 @@ ordine: 2145
 # Art. 2024 - ***Vincoli sul credito***
 
 Nessun vincolo sul credito produce effetti nei confronti dell'emittente e dei terzi, se non risulta da una corrispondente annotazione sul titolo e nel registro.
+{: data-comma="1" }
 
 Per l'annotazione si osserva il disposto del secondo comma dell'[art. 2022](art-2022-cc.md).
+{: data-comma="2" }

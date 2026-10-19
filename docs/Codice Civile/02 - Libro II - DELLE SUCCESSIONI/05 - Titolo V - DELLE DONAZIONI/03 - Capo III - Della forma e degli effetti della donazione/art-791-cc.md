@@ -21,7 +21,10 @@ ordine: 885
 # Art. 791 - ***Condizione di riversibilità***
 
 Il donante può stipulare la riversibilità delle cose donate, sia per il caso di premorienza del solo donatario, sia per il caso di premorienza del donatario e dei suoi discendenti.
+{: data-comma="1" }
 
 Nel caso in cui la donazione è fatta con generica indicazione della riversibilità, questa riguarda la premorienza, non solo del donatario, ma anche dei suoi discendenti.
+{: data-comma="2" }
 
 Non si fa luogo a riversibilità che a beneficio del solo donante. Il patto a favore di altri si considera non apposto.
+{: data-comma="3" }

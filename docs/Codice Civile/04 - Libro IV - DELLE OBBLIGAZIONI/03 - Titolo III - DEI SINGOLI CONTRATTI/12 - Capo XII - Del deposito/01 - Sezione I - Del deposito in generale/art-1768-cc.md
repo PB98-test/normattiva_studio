@@ -21,5 +21,7 @@ ordine: 1885
 # Art. 1768 - ***Diligenza nella custodia***
 
 Il depositario deve usare nella custodia la diligenza del buon padre di famiglia.
+{: data-comma="1" }
 
 Se il deposito è gratuito, la responsabilità per colpa è valutata con minor rigore.
+{: data-comma="2" }

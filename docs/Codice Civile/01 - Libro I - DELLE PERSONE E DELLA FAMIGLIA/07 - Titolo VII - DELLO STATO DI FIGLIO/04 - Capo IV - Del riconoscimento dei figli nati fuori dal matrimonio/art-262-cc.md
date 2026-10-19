@@ -21,12 +21,16 @@ ordine: 307
 # Art. 262 - ***Cognome del figlio nato fuori del matrimonio***
 
 Il figlio assume il cognome del genitore che per primo lo ha riconosciuto. Se il riconoscimento è stato effettuato contemporaneamente da entrambi i genitori il figlio assume il cognome del padre. [^agg-263] [^agg-317]
+{: data-comma="1" }
 
 Se la filiazione nei confronti del padre è stata accertata o riconosciuta successivamente al riconoscimento da parte della madre, il figlio può assumere il cognome del padre aggiungendolo, anteponendolo o sostituendolo a quello della madre.
+{: data-comma="2" }
 
 Se la filiazione nei confronti del genitore è stata accertata o riconosciuta successivamente all'attribuzione del cognome da parte dell'ufficiale dello stato civile, si applica il primo e il secondo comma del presente articolo; il figlio può mantenere il cognome precedentemente attribuitogli, ove tale cognome sia divenuto autonomo segno della sua identità personale, aggiungendolo, anteponendolo o sostituendolo al cognome del genitore che per primo lo ha riconosciuto o al cognome dei genitori in caso di riconoscimento da parte di entrambi.
+{: data-comma="3" }
 
 Nel caso di minore età del figlio, il giudice decide circa l'assunzione del cognome del genitore, previo ascolto del figlio minore, che abbia compiuto gli anni dodici e anche di età inferiore ove capace di discernimento. [^agg-105]   [^agg-263]
+{: data-comma="4" }
 
 [^agg-105]: *AGGIORNAMENTO (105)* La Corte Costituzionale, con sentenza 18-23 luglio 1996, n. 297 (in G.U. 1a s.s. 31/7/1996, n. 31) ha dichiarato "l'illegittimità costituzionale dell'[art. 262 del codice civile](art-262-cc.md), nella parte in cui non prevede che il figlio naturale, nell'assumere il cognome del genitore che lo ha riconosciuto, possa ottenere dal giudice il riconoscimento del diritto a mantenere, anteponendolo o, a sua scelta, aggiungendolo a questo, il cognome precedentemente attribuitogli con atto formalmente legittimo, ove tale cognome sia divenuto autonomo segno distintivo della sua identità personale".
 

@@ -21,5 +21,7 @@ ordine: 451
 # Art. 366 - ***Beni amministrati da curatore speciale***
 
 Il tutore deve comprendere nell'inventario generale del patrimonio del minore anche i beni, la cui amministrazione è stata deferita a un curatore speciale. Se questi ha formato un inventario particolare di tali beni, deve rimetterne copia al tutore, il quale lo unirà all'inventario generale.
+{: data-comma="1" }
 
 Il curatore deve anche comunicare al tutore copia dei conti periodici della sua amministrazione, salvo che il disponente lo abbia esonerato.
+{: data-comma="2" }

@@ -21,9 +21,13 @@ ordine: 2013
 # Art. 1892 - ***Dichiarazioni inesatte e reticenze con dolo o colpa grave***
 
 Le dichiarazioni inesatte e le reticenze del contraente, relative a circostanze tali che l'assicuratore non avrebbe dato il suo consenso o non lo avrebbe dato alle medesime condizioni se avesse conosciuto il vero stato delle cose, sono causa di annullamento del contratto quando il contraente ha agito con dolo o con colpa grave.
+{: data-comma="1" }
 
 L'assicuratore decade dal diritto d'impugnare il contratto se, entro tre mesi dal giorno in cui ha conosciuto l'inesattezza della dichiarazione o la reticenza, non dichiara al contraente di volere esercitare l'impugnazione.
+{: data-comma="2" }
 
 L'assicuratore ha diritto ai premi relativi al periodo di assicurazione in corso al momento in cui ha domandato l'annullamento e, in ogni caso, al premio convenuto per il primo anno. Se il sinistro si verifica prima che sia decorso il termine indicato dal comma precedente, egli non è tenuto a pagare la somma assicurata.
+{: data-comma="3" }
 
 Se l'assicurazione riguarda più persone o più cose, il contratto è valido per quelle persone o per quelle cose alle quali non si riferisce la dichiarazione inesatta o la reticenza.
+{: data-comma="4" }

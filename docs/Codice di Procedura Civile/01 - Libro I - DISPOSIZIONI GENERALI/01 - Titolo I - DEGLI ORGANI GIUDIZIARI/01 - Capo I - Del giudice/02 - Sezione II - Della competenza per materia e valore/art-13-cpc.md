@@ -21,7 +21,10 @@ ordine: 13
 # Art. 13 - ***Cause relative a prestazioni alimentari e a rendite***
 
 Nelle cause per prestazioni alimentari periodiche, se il titolo è controverso, il valore si determina in base all'ammontare delle somme dovute per due anni.
+{: data-comma="1" }
 
 Nelle cause relative a rendite perpetue, se il titolo è controverso, il valore si determina cumulando venti annualità; nelle cause relative a rendite temporanee o vitalizie, cumulando le annualità domandate fino a un massimo di dieci.
+{: data-comma="2" }
 
 Le regole del comma precedente si applicano anche per determinare il valore delle cause relative al diritto del concedente.
+{: data-comma="3" }

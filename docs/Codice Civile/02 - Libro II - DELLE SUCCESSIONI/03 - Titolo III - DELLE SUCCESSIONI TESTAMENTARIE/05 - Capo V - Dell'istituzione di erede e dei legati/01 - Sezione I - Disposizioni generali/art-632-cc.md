@@ -21,5 +21,7 @@ ordine: 719
 # Art. 632 - ***Determinazione di legato per arbitrio altrui***
 
 È nulla la disposizione che lascia al mero arbitrio dell'onerato o di un terzo di determinare l'oggetto o la quantità del legato.
+{: data-comma="1" }
 
 Sono validi i legati fatti a titolo di rimunerazione per i servizi prestati al testatore, anche se non ne sia indicato l'oggetto o la quantità.
+{: data-comma="2" }

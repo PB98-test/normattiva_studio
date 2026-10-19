@@ -14,7 +14,7 @@ capo_label: "VEICOLI A MOTORE E LORO RIMORCHI"
 sezione: "III"
 sezione_label: "Documenti di circolazione e immatricolazione"
 rubrica: "Formalità necessarie per la circolazione degli autoveicoli, motoveicoli e rimorchi immatricolati in uno Stato estero e condotti da residenti in Italia"
-dataVigenza: "20260930"
+dataVigenza: "20261012"
 ordine: 99
 ---
 
@@ -44,4 +44,4 @@ ordine: 99
 
 9\. Chiunque, nelle condizioni indicate al comma 2, secondo periodo, circola con un veicolo per il quale non abbia effettuato la registrazione ivi prevista ovvero non abbia provveduto a comunicare le successive variazioni di disponibilità o il trasferimento di residenza o di sede, è soggetto alla sanzione amministrativa del pagamento di una somma da euro 712 a euro 3.558. Il documento di circolazione è ritirato immediatamente dall'organo accertatore e restituito solo dopo l'adempimento delle prescrizioni non osservate. Del ritiro è fatta menzione nel verbale di contestazione. In caso di circolazione del veicolo durante il periodo in cui il documento di circolazione è ritirato ai sensi del presente comma, si applicano le sanzioni di cui all'[articolo 216](../../../06%20-%20Titolo%20VI%20-%20DEGLI%20ILLECITI%20PREVISTI%20DAL%20PRESENTE%20CODICE%20E%20DELLE%20RELATIVE%20SANZION/01%20-%20Capo%20I%20-%20DEGLI%20ILLECITI%20AMMINISTRATIVI%20E%20DELLE%20RELATIVE%20SANZIONI/02%20-%20Sezione%20II%20-%20Delle%20sanzioni%20amministrative%20accessorie%20a%20sanzioni%20amministrative/art-216-dlgs285-92.md), comma 6))
 
-[^agg-171]: *AGGIORNAMENTO (171)* La L. 23 dicembre 2021, n. 238, ha disposto (con l'[art. 2](../../../01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-2-dlgs285-92.md), comma 2) che le disposizioni di cui al comma 2 del presente articolo, si applicano decorsi sessanta giorni dalla data di pubblicazione della suindicata legge nella Gazzetta Ufficiale.
+[^agg-171]: *AGGIORNAMENTO (171)* La L. 23 dicembre 2021, n. 238, ha disposto (con l'art. 2, comma 2) che le disposizioni di cui al comma 2 del presente articolo, si applicano decorsi sessanta giorni dalla data di pubblicazione della suindicata legge nella Gazzetta Ufficiale.

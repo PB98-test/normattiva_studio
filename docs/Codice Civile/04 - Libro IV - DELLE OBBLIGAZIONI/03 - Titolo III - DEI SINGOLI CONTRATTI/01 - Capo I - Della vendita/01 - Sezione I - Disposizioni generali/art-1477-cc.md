@@ -21,7 +21,10 @@ ordine: 1584
 # Art. 1477 - ***Consegna della cosa***
 
 La cosa deve essere consegnata nello stato in cui si trovava al momento della vendita.
+{: data-comma="1" }
 
 Salvo diversa volontà delle parti, la cosa deve essere consegnata insieme con gli accessori, le pertinenze e i frutti dal giorno della vendita.
+{: data-comma="2" }
 
 Il venditore deve pure consegnare i titoli e i documenti relativi alla proprietà a all'uso della cosa venduta.
+{: data-comma="3" }

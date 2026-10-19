@@ -21,5 +21,7 @@ ordine: 3210
 # Art. 2900 - ***Condizioni, modalità ed effetti***
 
 Il creditore, per assicurare che siano soddisfatte o conservate le sue ragioni, può esercitare i diritti e le azioni che spettano verso i terzi al proprio debitore e che questi trascura di esercitare, purchè i diritti e le azioni abbiano contenuto patrimoniale e non si tratti di diritti o di azioni che, per loro natura o per disposizione di legge, non possono essere esercitati se non dal loro titolare.
+{: data-comma="1" }
 
 Il creditore, qualora agisca giudizialmente, deve citare anche il debitore al quale intende surrogarsi.
+{: data-comma="2" }

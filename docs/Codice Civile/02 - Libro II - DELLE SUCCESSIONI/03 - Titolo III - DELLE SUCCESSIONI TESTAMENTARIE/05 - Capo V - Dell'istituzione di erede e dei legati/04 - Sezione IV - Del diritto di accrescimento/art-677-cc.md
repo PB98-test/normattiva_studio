@@ -21,7 +21,10 @@ ordine: 764
 # Art. 677 - ***Mancanza di accrescimento***
 
 Se non ha luogo l'accrescimento, la porzione dell'erede mancante si devolve agli eredi legittimi, e la porzione del legatario mancante va a profitto dell'onerato.
+{: data-comma="1" }
 
 Gli eredi legittimi e l'onerato subentrano negli obblighi che gravavano sull'erede o sul legatario mancante, salvo che si tratti di obblighi di carattere personale.
+{: data-comma="2" }
 
 Le disposizioni precedenti si applicano anche nel caso di risoluzione di disposizioni testamentarie per inadempimento dell'onere.
+{: data-comma="3" }

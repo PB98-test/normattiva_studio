@@ -21,5 +21,7 @@ ordine: 3131
 # Art. 2822 - ***Ipoteca su beni altrui***
 
 Se l'ipoteca è concessa da chi non è proprietario della cosa, l'iscrizione può essere validamente presa solo quando la cosa è acquistata dal concedente.
+{: data-comma="1" }
 
 Se l'ipoteca è concessa da persona che agisce come rappresentante senza averne la qualità, l'iscrizione può essere validamente presa solo quando il proprietario ha ratificato la concessione.
+{: data-comma="2" }

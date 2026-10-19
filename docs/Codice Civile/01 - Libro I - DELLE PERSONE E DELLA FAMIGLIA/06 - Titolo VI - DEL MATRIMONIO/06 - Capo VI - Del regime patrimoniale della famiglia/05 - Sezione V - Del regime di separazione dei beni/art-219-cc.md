@@ -21,5 +21,7 @@ ordine: 261
 # Art. 219 - ***Prova della proprietà dei beni.***
 
 Il coniuge può provare con ogni mezzo nei confronti dell'altro la proprietà esclusiva di un bene.
+{: data-comma="1" }
 
 I beni di cui nessuno dei coniugi può dimostrare la proprietà esclusiva sono di proprietà indivisa per pari quota di entrambi i coniugi.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 3008
 # Art. 2703 - ***Sottoscrizione autenticata***
 
 Si ha per riconosciuta la sottoscrizione autenticata dal notaio o da altro pubblico ufficiale a ciò autorizzato.
+{: data-comma="1" }
 
 L'autenticazione consiste nell'attestazione da parte del pubblico ufficiale che la sottoscrizione è stata apposta in sua presenza. Il pubblico ufficiale deve previamente accertare l'identità della persona che sottoscrive.
+{: data-comma="2" }

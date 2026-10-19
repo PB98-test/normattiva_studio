@@ -21,5 +21,7 @@ ordine: 2291
 # Art. 2170 - ***Nozione***
 
 Nella soccida il soccidante e il soccidario si associano per l'allevamento e lo sfruttamento di una certa quantità di bestiame e per l'esercizio delle attività connesse, al fine di ripartire l'accrescimento del bestiame e gli altri prodotti e utili che ne derivano.
+{: data-comma="1" }
 
 L'accrescimento consiste tanto nei parti sopravvenuti, quanto nel maggior valore intrinseco che il bestiame abbia al termine del contratto.
+{: data-comma="2" }

@@ -14,17 +14,20 @@ capo_label: "Delle società cooperative"
 sezione: "II"
 sezione_label: "Della costituzione"
 rubrica: "Atto costitutivo"
-dataVigenza: "20260914"
+dataVigenza: "20261016"
 ordine: 2795
 ---
 
 # Art. 2521 - ***Atto costitutivo***
 
 La società deve costituirsi per atto pubblico.
+{: data-comma="1" }
 
 L'atto costitutivo stabilisce le regole per lo svolgimento dell'attività mutualistica e può prevedere che la società svolga la propria attività anche con terzi.
+{: data-comma="2" }
 
 L'atto costitutivo deve indicare:
+{: data-comma="3" }
 
 - 1) il cognome e il nome o la denominazione, il luogo e la data di nascita o di costituzione, il domicilio o la sede, la cittadinanza dei soci;
 - 2) la denominazione, e il comune ove è posta la sede della società e le eventuali sedi secondarie;
@@ -41,7 +44,9 @@ L'atto costitutivo deve indicare:
 - 13) l'importo globale, almeno approssimativo, delle spese per la costituzione poste a carico delle società.
 
 Lo statuto contenente le norme relative al funzionamento della società, anche se forma oggetto di atto separato, si considera parte integrante dell'atto costitutivo.
+{: data-comma="4" }
 
 I rapporti tra la società e i soci possono essere disciplinati da regolamenti che determinano i criteri e le regole inerenti allo svolgimento dell'attività mutualistica tra la società e i soci. I regolamenti, quando non costituiscono parte integrante dell'atto costitutivo, sono predisposti dagli amministratori e approvati dall'assemblea con le maggioranze previste per le assemblee straordinarie.
+{: data-comma="5" }
 
-[^agg-113]: *AGGIORNAMENTO (113)* Il D.Lgs. 24 giugno 1998, n. 213 ha disposto (con l'[art. 4](../../../../01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/01%20-%20Titolo%20I%20-%20DELLE%20PERSONE%20FISICHE/art-4-cc.md), comma 2) che le presenti modifiche decorrono dal 1 gennaio 2002.
+[^agg-113]: *AGGIORNAMENTO (113)* Il D.Lgs. 24 giugno 1998, n. 213 ha disposto (con l'art. 4, comma 2) che le presenti modifiche decorrono dal 1 gennaio 2002.

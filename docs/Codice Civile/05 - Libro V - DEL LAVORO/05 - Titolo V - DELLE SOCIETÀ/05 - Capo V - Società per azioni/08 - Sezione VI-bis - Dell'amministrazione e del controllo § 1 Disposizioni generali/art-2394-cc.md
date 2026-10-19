@@ -21,7 +21,10 @@ ordine: 2543
 # Art. 2394 - ***Responsabilità verso i creditori sociali***
 
 Gli amministratori rispondono verso i creditori sociali per l'inosservanza degli obblighi inerenti alla conservazione dell'integrità del patrimonio sociale.
+{: data-comma="1" }
 
 L'azione può essere proposta dai creditori quando il patrimonio sociale risulta insufficiente al soddisfacimento dei loro crediti.
+{: data-comma="2" }
 
 La rinunzia all'azione da parte della società non impedisce l'esercizio dell'azione da parte dei creditori sociali. La transazione può essere impugnata dai creditori sociali soltanto con l'azione revocatoria quando ne ricorrono gli estremi.
+{: data-comma="3" }

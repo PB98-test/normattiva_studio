@@ -21,5 +21,7 @@ ordine: 2018
 # Art. 1897 - ***Diminuzione del rischio***
 
 Se il contraente comunica all'assicuratore mutamenti che producono una diminuzione del rischio tale che, se fosse stata conosciuta al momento della conclusione del contratto, avrebbe portato alla stipulazione di un premio minore, l'assicuratore, a decorrere dalla scadenza del premio o della rata di premio successiva alla comunicazione suddetta, non può esigere che il minor premio, ma ha facoltà di recedere dal contratto entro due mesi dal giorno in cui è stata fatta la comunicazione.
+{: data-comma="1" }
 
 La dichiarazione di recesso dal contratto ha effetto dopo un mese.
+{: data-comma="2" }

@@ -21,9 +21,13 @@ ordine: 68
 # Art. 59 - ***Circostanze non conosciute o erroneamente supposte***
 
 Le circostanze che attenuano o escludono la pena sono valutate a favore dell'agente anche se da lui non conosciute, o da lui per errore ritenute inesistenti.
+{: data-comma="1" }
 
 Le circostanze che aggravano la pena sono valutate a carico dell'agente soltanto se da lui conosciute ovvero ignorate per colpa o ritenute inesistenti per errore determinato da colpa.
+{: data-comma="2" }
 
 Se l'agente ritiene per errore che esistano circostanze aggravanti o attenuanti, queste non sono valutate contro o a favore di lui.
+{: data-comma="3" }
 
 Se l'agente ritiene per errore che esistano circostanze di esclusione della pena, queste sono sempre valutate a favore di lui. Tuttavia, se si tratta di errore determinato da colpa, la punibilità non è esclusa, quando il fatto è preveduto dalla legge come delitto colposo.
+{: data-comma="4" }

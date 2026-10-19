@@ -21,5 +21,7 @@ ordine: 688
 # Art. 601 - ***Forme***
 
 Le forme ordinarie di testamento sono il testamento olografo e il testamento per atto di notaio.
+{: data-comma="1" }
 
 Il testamento per atto di notaio è pubblico o segreto.
+{: data-comma="2" }

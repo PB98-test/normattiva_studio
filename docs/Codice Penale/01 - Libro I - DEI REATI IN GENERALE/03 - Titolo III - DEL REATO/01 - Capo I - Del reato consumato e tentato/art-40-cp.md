@@ -21,5 +21,7 @@ ordine: 47
 # Art. 40 - ***Rapporto di causalità***
 
 Nessuno può essere punito per un fatto preveduto dalla legge come reato, se l'evento dannoso o pericoloso, da cui dipende la esistenza del reato, non è conseguenza della sua azione od omissione.
+{: data-comma="1" }
 
 Non impedire un evento, che si ha l'obbligo giuridico di impedire, equivale a cagionarlo.
+{: data-comma="2" }

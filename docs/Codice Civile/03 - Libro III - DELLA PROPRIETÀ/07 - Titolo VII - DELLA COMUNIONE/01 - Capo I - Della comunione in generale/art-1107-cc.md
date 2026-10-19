@@ -21,5 +21,7 @@ ordine: 1202
 # Art. 1107 - ***Impugnazione del regolamento***
 
 Ciascuno dei partecipanti dissenzienti può impugnare davanti all'autorità giudiziaria il regolamento della comunione entro trenta giorni dalla deliberazione che lo ha approvato. Per gli assenti il termine decorre dal giorno in cui è stata loro comunicata la deliberazione. L'autorità giudiziaria decide con unica sentenza sulle opposizioni proposte.
+{: data-comma="1" }
 
 Decorso il termine indicato dal comma precedente senza che il regolamento sia stato impugnato, questo ha effetto anche per gli eredi e gli aventi causa dai singoli partecipanti.
+{: data-comma="2" }

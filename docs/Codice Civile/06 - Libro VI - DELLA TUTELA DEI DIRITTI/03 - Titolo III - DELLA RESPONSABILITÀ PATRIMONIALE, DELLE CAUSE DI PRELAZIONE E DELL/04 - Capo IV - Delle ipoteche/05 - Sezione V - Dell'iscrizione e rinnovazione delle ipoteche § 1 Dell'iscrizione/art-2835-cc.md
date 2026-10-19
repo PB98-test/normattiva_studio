@@ -21,7 +21,10 @@ ordine: 3145
 # Art. 2835 - ***Iscrizione in base a scrittura privata***
 
 Se il titolo per l'iscrizione risulta da scrittura privata, la sottoscrizione di chi ha concesso l'ipoteca deve essere autenticata o accertata giudizialmente.
+{: data-comma="1" }
 
 Il richiedente deve presentare la scrittura originale o, se questa è depositata in pubblico archivio o negli atti d'un notaio, una copia autenticata, con la certificazione che ricorrono i requisiti innanzi indicati.
+{: data-comma="2" }
 
 L'originale o la copia rimane in deposito nell'ufficio dei registri immobiliari.
+{: data-comma="3" }

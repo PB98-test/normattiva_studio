@@ -21,5 +21,7 @@ ordine: 3151
 # Art. 2841 - ***Omissioni e inesattezze nei titoli o nelle note***
 
 L'omissione o l'inesattezza di alcune delle indicazioni nel titolo, in base al quale è presa l'iscrizione, o nella nota non nuoce alla validità dell'iscrizione, salvo che induca incertezza sulla persona del creditore o del debitore o sull'ammontare del credito ovvero sulla persona del proprietario del bene gravato, quando l'indicazione ne è necessaria, o sull'identità dei singoli beni gravati.
+{: data-comma="1" }
 
 Nel caso di altre omissioni o inesattezze, si può ordinare la rettificazione a istanza e a spese della parte interessata.
+{: data-comma="2" }

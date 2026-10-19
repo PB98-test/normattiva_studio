@@ -21,9 +21,13 @@ ordine: 1270
 # Art. 1168 - ***Azione di reintegrazione***
 
 Chi è stato violentemente od occultamente spogliato del possesso può, entro l'anno dal sofferto spoglio, chiedere contro l'autore di esso la reintegrazione del possesso medesimo.
+{: data-comma="1" }
 
 L'azione è concessa altresì a chi ha la detenzione della cosa, tranne il caso che l'abbia per ragioni di servizio o di ospitalità.
+{: data-comma="2" }
 
 Se lo spoglio è clandestino, il termine per chiedere la reintegrazione decorre dal giorno della scoperta dello spoglio.
+{: data-comma="3" }
 
 La reintegrazione deve ordinarsi dal giudice sulla semplice notorietà del fatto, senza dilazione.
+{: data-comma="4" }

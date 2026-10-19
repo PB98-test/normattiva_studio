@@ -21,7 +21,10 @@ ordine: 2837
 # Art. 2546 - ***Nozione***
 
 Nella società di mutua assicurazione le obbligazioni sono garantite dal patrimonio sociale.
+{: data-comma="1" }
 
 I soci sono tenuti al pagamento dei contributi fissi o variabili, entro il limite massimo determinato dall'atto costitutivo.
+{: data-comma="2" }
 
 Nelle mutue assicuratrici non si può acquistare la qualità di socio, se non assicurandosi presso la società, e si perde la qualità di socio con l'estinguersi dell'assicurazione, salvo quanto disposto dall'[articolo 2548](art-2548-cc.md).
+{: data-comma="3" }

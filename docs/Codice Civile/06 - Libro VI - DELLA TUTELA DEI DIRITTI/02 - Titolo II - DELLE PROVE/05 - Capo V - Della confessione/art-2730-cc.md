@@ -21,5 +21,7 @@ ordine: 3035
 # Art. 2730 - ***Nozione***
 
 La confessione è la dichiarazione che una parte fa della verità di fatti ad essa sfavorevoli e favorevoli all'altra parte.
+{: data-comma="1" }
 
 La confessione è giudiziale o stragiudiziale.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 723
 # Art. 636 - ***Divieto di nozze***
 
 È illecita la condizione che impedisce le prime nozze o le ulteriori.
+{: data-comma="1" }
 
 Tuttavia il legatario di usufrutto o di uso, di abitazione o di pensione, o di altra prestazione periodica per il caso o per il tempo del celibato o della vedovanza, non può goderne che durante il celibato o la vedovanza.
+{: data-comma="2" }

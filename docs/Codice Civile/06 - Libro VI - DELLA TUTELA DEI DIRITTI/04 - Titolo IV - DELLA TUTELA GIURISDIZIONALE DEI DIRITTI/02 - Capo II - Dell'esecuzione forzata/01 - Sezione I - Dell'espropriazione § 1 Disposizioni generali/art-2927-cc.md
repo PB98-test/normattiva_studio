@@ -21,5 +21,7 @@ ordine: 3237
 # Art. 2927 - ***Evizione della cosa assegnata***
 
 L'assegnatario, se subisce l'evizione della cosa, ha diritto di ripetere quanto ha pagato agli altri creditori, salva la responsabilità del creditore procedente per i danni e per le spese.
+{: data-comma="1" }
 
 L'assegnatario conserva le sue ragioni nei confronti del debitore espropriato, ma non le garanzie prestate da terzi.
+{: data-comma="2" }

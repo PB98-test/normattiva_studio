@@ -21,7 +21,10 @@ ordine: 2789
 # Art. 2515 - ***Denominazione sociale***
 
 La denominazione sociale, in qualunque modo formata, deve contenere l'indicazione di società cooperativa.
+{: data-comma="1" }
 
 L'indicazione di cooperativa non può essere usata da società che non hanno scopo mutualistico.
+{: data-comma="2" }
 
 COMMA ABROGATO DALLA L. 23 LUGLIO 2009, N. 99.
+{: data-comma="3" }

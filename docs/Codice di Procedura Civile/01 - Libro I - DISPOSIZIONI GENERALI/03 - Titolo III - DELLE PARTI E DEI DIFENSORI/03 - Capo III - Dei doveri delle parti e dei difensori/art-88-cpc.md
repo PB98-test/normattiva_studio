@@ -21,5 +21,7 @@ ordine: 95
 # Art. 88 - ***Dovere di lealtà e di probità***
 
 Le parti e i loro difensori hanno il dovere di comportarsi in giudizio con lealtà e probità.
+{: data-comma="1" }
 
 In caso di mancanza dei difensori a tale dovere, il giudice deve riferirne alle autorità che esercitano il potere disciplinare su di essi.
+{: data-comma="2" }

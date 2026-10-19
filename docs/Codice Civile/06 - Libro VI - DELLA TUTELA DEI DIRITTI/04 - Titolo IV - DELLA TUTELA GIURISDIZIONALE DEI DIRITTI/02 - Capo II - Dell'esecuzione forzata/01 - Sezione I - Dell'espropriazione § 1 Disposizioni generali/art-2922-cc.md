@@ -21,5 +21,7 @@ ordine: 3232
 # Art. 2922 - ***Vizi della cosa. Lesione***
 
 Nella vendita forzata non ha luogo la garanzia per i vizi della cosa.
+{: data-comma="1" }
 
 Essa non può essere impugnata per causa di lesione.
+{: data-comma="2" }

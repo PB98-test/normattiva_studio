@@ -21,5 +21,7 @@ ordine: 1784
 # Art. 1669 - ***Rovina e difetti di cose immobili***
 
 Quando si tratta di edifici o di altre cose immobili destinate per loro natura a lunga durata, se, nel corso di dieci anni dal compimento, l'opera, per vizio del suolo o per difetto della costruzione, rovina in tutto o in parte, ovvero presenta evidente pericolo di rovina o gravi difetti, l'appaltatore è responsabile nei confronti del committente e dei suoi aventi causa, purchè sia fatta la denunzia entro un anno dalla scoperta.
+{: data-comma="1" }
 
 Il diritto del committente si prescrive in un anno dalla denunzia.
+{: data-comma="2" }

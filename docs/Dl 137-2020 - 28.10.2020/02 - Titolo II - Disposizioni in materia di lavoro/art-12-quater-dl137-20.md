@@ -1,0 +1,23 @@
+---
+type: "Articolo di legge"
+title: "Art. 12-quater - Misure in favore degli operatori volontari del servizio civile universale"
+articolo: "Art. 12-quater"
+codice: dl137-20
+aliases:
+  - "art-12-quater-dl137-20"
+libro: null
+libro_label: null
+titolo: "II"
+titolo_label: "Disposizioni in materia di lavoro"
+capo: null
+capo_label: null
+sezione: null
+sezione_label: null
+rubrica: "Misure in favore degli operatori volontari del servizio civile universale"
+dataVigenza: "20261002"
+ordine: 35
+---
+
+# Art. 12-quater - ***Misure in favore degli operatori volontari del servizio civile universale***
+
+1\. In deroga a quanto previsto all'articolo 14 del decreto legislativo 6 marzo 2017, n. 40, nell'anno 2021 sono ammessi a svolgere il servizio civile universale i giovani che, alla data di presentazione della domanda, abbiano compiuto il ventottesimo e non superato il ventinovesimo anno di età, a condizione che abbiano interrotto lo svolgimento del servizio civile nell'anno 2020 a causa dell'emergenza epidemiologica da COVID-19

@@ -21,7 +21,10 @@ ordine: 1002
 # Art. 907 - ***Distanza delle costruzioni dalle vedute***
 
 Quando si è acquistato il diritto di avere vedute dirette verso il fondo vicino, il proprietario di questo non può fabbricare a distanza minore di tre metri, misurata a norma dell'[art. 905](art-905-cc.md).
+{: data-comma="1" }
 
 Se la veduta diretta forma anche veduta obliqua, la distanza di tre metri deve pure osservarsi dai lati della finestra da cui la veduta obliqua si esercita.
+{: data-comma="2" }
 
 Se si vuole appoggiare la nuova costruzione al muro in cui sono le dette vedute dirette od oblique, essa deve arrestarsi almeno a tre metri sotto la loro soglia.
+{: data-comma="3" }

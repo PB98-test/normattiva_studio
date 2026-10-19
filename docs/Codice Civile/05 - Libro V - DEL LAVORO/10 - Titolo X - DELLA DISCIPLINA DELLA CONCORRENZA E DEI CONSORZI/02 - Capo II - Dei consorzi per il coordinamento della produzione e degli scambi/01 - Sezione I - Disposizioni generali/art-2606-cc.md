@@ -21,5 +21,7 @@ ordine: 2897
 # Art. 2606 - ***Deliberazioni consortili***
 
 Se il contratto non dispone diversamente, le deliberazioni relative all'attuazione dell'oggetto del consorzio sono prese col voto favorevole della maggioranza dei consorziati.
+{: data-comma="1" }
 
 Le deliberazioni che non sono prese in conformità alle disposizioni di questo articolo o a quelle del contratto possono essere impugnate davanti all'autorità giudiziaria entro trenta giorni. Per i consorziati assenti il termine decorre dalla comunicazione o, se si tratta di deliberazione soggetta ad iscrizione, dalla data di questa.
+{: data-comma="2" }

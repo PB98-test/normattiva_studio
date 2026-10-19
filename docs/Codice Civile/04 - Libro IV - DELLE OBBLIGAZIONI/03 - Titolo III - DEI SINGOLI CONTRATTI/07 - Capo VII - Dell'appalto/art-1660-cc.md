@@ -21,7 +21,10 @@ ordine: 1775
 # Art. 1660 - ***Variazioni necessarie del progetto***
 
 Se per l'esecuzione dell'opera a regola d'arte è necessario apportare variazioni al progetto e le parti non si accordano, spetta al giudice di determinare le variazioni da introdurre e le correlative variazioni del prezzo.
+{: data-comma="1" }
 
 Se l'importo delle variazioni supera il sesto del prezzo complessivo convenuto, l'appaltatore può recedere dal contratto e può ottenere, secondo le circostanze, un'equa indennità.
+{: data-comma="2" }
 
 Se le variazioni sono di notevole entità, il committente può recedere dal contratto ed è tenuto a corrispondere un equo indennizzo.
+{: data-comma="3" }

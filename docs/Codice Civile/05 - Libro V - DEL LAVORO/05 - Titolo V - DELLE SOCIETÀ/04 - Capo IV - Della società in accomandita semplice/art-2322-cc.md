@@ -21,5 +21,7 @@ ordine: 2444
 # Art. 2322 - ***Trasferimento della quota***
 
 La quota di partecipazione del socio accomandante è trasmissibile per causa di morte.
+{: data-comma="1" }
 
 Salvo diversa disposizione dell'atto costitutivo, la quota può essere ceduta, con effetto verso la società, con il consenso dei soci che rappresentano la maggioranza del capitale.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 1462
 # Art. 1360 - ***Retroattività della condizione***
 
 Gli effetti dell'avveramento della condizione retroagiscono al tempo in cui è stato concluso il contratto, salvo che, per volontà delle parti o per la natura del rapporto, gli effetti del contratto o della risoluzione debbano essere riportati a un momento diverso.
+{: data-comma="1" }
 
 Se però la condizione risolutiva è apposta a un contratto ad esecuzione continuata o periodica, l'avveramento di essa, in mancanza di patto contrario, non ha effetto riguardo alle prestazioni già eseguite.
+{: data-comma="2" }

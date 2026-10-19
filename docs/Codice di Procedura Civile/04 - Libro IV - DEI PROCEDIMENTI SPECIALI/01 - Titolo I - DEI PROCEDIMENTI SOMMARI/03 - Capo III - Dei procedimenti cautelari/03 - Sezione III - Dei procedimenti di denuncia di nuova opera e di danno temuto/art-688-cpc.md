@@ -1,0 +1,35 @@
+---
+type: "Articolo di legge"
+title: "Art. 688 - Forma dell'istanza"
+articolo: "Art. 688"
+codice: cpc
+aliases:
+  - "art-688-cpc"
+libro: "IV"
+libro_label: "DEI PROCEDIMENTI SPECIALI"
+titolo: "I"
+titolo_label: "DEI PROCEDIMENTI SOMMARI"
+capo: "III"
+capo_label: "Dei procedimenti cautelari"
+sezione: "III"
+sezione_label: "Dei procedimenti di denuncia di nuova opera e di danno temuto"
+rubrica: "Forma dell'istanza"
+dataVigenza: "20261016"
+ordine: 855
+---
+
+# Art. 688 - ***Forma dell'istanza***
+
+La denuncia di nuova opera o di danno temuto si propone con ricorso al giudice competente a norma dell'[articolo 21](../../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/03%20-%20Sezione%20III%20-%20Della%20competenza%20per%20territorio/art-21-cpc.md). [^agg-88] [^agg-90]
+{: data-comma="1" }
+
+Quando vi è causa pendente per il merito, la denuncia si propone a norma dell'[articolo 669-quater](../01%20-%20Sezione%20I%20-%20Dei%20procedimenti%20cautelari%20in%20generale/art-669-quater-cpc.md). [^agg-67] [^agg-72]
+{: data-comma="2" }
+
+[^agg-67]: *AGGIORNAMENTO (67)* La [L. 26 novembre 1990, n. 353](../../../../../L.%20353-1990%20-%2026.11.1990/00%20-%20Indice%20%28l353-90%29.md), come modificata dalla [L. 4 dicembre 1992, n. 477](../../../../../L%20477-1992%20-%2004.12.1992/00%20-%20Indice%20%28l477-92%29.md), ha disposto (con l'art. 92, comma 1) che "Fatta eccezione per la disposizione di cui all'[articolo 1](../../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/01%20-%20Sezione%20I%20-%20Della%20giurisdizione%20e%20della%20competenza%20in%20generale/art-1-cpc.md), la presente legge entra in vigore il 1 gennaio 1993. Ai giudizi pendenti a tale data si applicano, fino al 2 gennaio 1994, le disposizioni anteriormente vigenti."
+
+[^agg-72]: *AGGIORNAMENTO (72)* La [L. 26 novembre 1990, n. 353](../../../../../L.%20353-1990%20-%2026.11.1990/00%20-%20Indice%20%28l353-90%29.md), come modificata dal [D.L. 7 ottobre 1994, n. 571](../../../../../Dl%20571-1994%20-%2007.10.1994/00%20-%20Indice%20%28dl571-94%29.md), convertito con modificazioni dalla [L. 6 dicembre 1994, n. 673](../../../../../L%20673-1994%20-%2006.12.1994/00%20-%20Indice%20%28l673-94%29.md), ha disposto (con l'art. 92, comma 1) che "Fatta eccezione per la disposizione di cui all'[articolo 1](../../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/01%20-%20Sezione%20I%20-%20Della%20giurisdizione%20e%20della%20competenza%20in%20generale/art-1-cpc.md), la presente legge entra in vigore il 1 gennaio 1993. Ai giudizi pendenti a tale data si applicano, fino al 30 aprile 1995, le disposizioni anteriormente vigenti." Il [D.L. 7 ottobre 1994, n. 571](../../../../../Dl%20571-1994%20-%2007.10.1994/00%20-%20Indice%20%28dl571-94%29.md) convertito con modificazioni dalla [L. 6 dicembre 1994, n. 673](../../../../../L%20673-1994%20-%2006.12.1994/00%20-%20Indice%20%28l673-94%29.md) nel modificare l'art. 76, comma 1 della L. 26 novembre 1990, n. 353 ha conseguentemente disposto (con l'art. 4, comma 5) che "Gli articoli 74, 75, 76, 77, 85 e 86 della legge 26 novembre 1990, n. 353, e successive modifiche ed integrazioni, si applicano, in quanto compatibili, ai giudizi pendenti alla data di entrata in vigore del presente decreto; tutti i sequestri anteriormente autorizzati perdono la loro efficacia se con sentenza, anche non passata in giudicato, è rigettata l'istanza di convalida ovvero è dichiarato inesistente il diritto a cautela del quale erano stati concessi.".
+
+[^agg-88]: *AGGIORNAMENTO (88)* Il [D.Lgs. 19 febbraio 1998, n. 51](../../../../../Dlgs%2051-1998%20-%2019.02.1998/00%20-%20Indice%20%28dlgs51-98%29.md) ha disposto (con l'[art. 247](../../../../../Dlgs%2051-1998%20-%2019.02.1998/07%20-%20Titolo%20VII%20-%20NORME%20DI%20COORDINAMENTO%20E%20FINALI/art-247-dlgs51-98.md), comma 1) che "Il presente decreto legislativo entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace decorso il termine stabilito dall'articolo 1, comma 1, lettera r), della legge 16 luglio 1997, n. 254, fatta eccezione per le disposizioni previste dagli [articoli 17](../../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/02%20-%20Sezione%20II%20-%20Della%20competenza%20per%20materia%20e%20valore/art-17-cpc.md), [33](../../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/04%20-%20Sezione%20IV%20-%20Delle%20modificazioni%20della%20competenza%20per%20ragione%20di%20connessione/art-33-cpc.md), comma 1, 38, comma 1 e 40, commi 1 e 3."
+
+[^agg-90]: *AGGIORNAMENTO (90)* Il [D.Lgs. 19 febbraio 1998, n. 51](../../../../../Dlgs%2051-1998%20-%2019.02.1998/00%20-%20Indice%20%28dlgs51-98%29.md) come modificato dalla [L. 16 giugno 1998, n. 188](../../../../../L.%20188-1998%20-%2016.06.1998/00%20-%20Indice%20%28l188-98%29.md) ha disposto (con l'[art. 247](../../../../../Dlgs%2051-1998%20-%2019.02.1998/07%20-%20Titolo%20VII%20-%20NORME%20DI%20COORDINAMENTO%20E%20FINALI/art-247-dlgs51-98.md), comma 1) che "Il presente decreto legislativo entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace a decorrere dal 2 giugno 1999, fatta eccezione per le disposizioni previste dagli [articoli 17](../../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/02%20-%20Sezione%20II%20-%20Della%20competenza%20per%20materia%20e%20valore/art-17-cpc.md), [33](../../../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/04%20-%20Sezione%20IV%20-%20Delle%20modificazioni%20della%20competenza%20per%20ragione%20di%20connessione/art-33-cpc.md), comma 1, 38, comma 1 e 40, commi 1 e 3."

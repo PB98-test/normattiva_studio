@@ -21,5 +21,7 @@ ordine: 2114
 # Art. 1993 - ***Eccezioni opponibili***
 
 Il debitore può opporre al possessore del titolo soltanto le eccezioni a questo personali, le eccezioni di forma, quelle che sono fondate sul contesto letterale del titolo, nonchè quelle che dipendono da falsità della propria firma, da difetto di capacità o di rappresentanza al momento dell'emissione, o dalla mancanza delle condizioni necessarie per l'esercizio dell'azione.
+{: data-comma="1" }
 
 Il debitore può opporre al possessore del titolo le eccezioni fondate sui rapporti personali con i precedenti possessori, soltanto se, nell'acquistare il titolo, il possessore ha agito intenzionalmente a danno del debitore medesimo.
+{: data-comma="2" }

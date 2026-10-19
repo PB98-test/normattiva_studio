@@ -21,9 +21,13 @@ ordine: 2931
 # Art. 2634 - ***Infedeltà patrimoniale***
 
 Gli amministratori, i direttori generali e i liquidatori, che, avendo un interesse in conflitto con quello della società, al fine di procurare a sè o ad altri un ingiusto profitto o altro vantaggio, compiono o concorrono a deliberare atti di disposizione dei beni sociali, cagionando intenzionalmente alla società un danno patrimoniale, sono puniti con la reclusione da sei mesi a tre anni.
+{: data-comma="1" }
 
 La stessa pena si applica se il fatto è commesso in relazione a beni posseduti o amministrati dalla società per conto di terzi, cagionando a questi ultimi un danno patrimoniale.
+{: data-comma="2" }
 
 In ogni caso non è ingiusto il profitto della società collegata o del gruppo, se compensato da vantaggi, conseguiti o fondatamente prevedibili, derivanti dal collegamento o dall'appartenenza al gruppo.
+{: data-comma="3" }
 
 Per i delitti previsti dal primo e secondo comma si procede a querela della persona offesa.
+{: data-comma="4" }

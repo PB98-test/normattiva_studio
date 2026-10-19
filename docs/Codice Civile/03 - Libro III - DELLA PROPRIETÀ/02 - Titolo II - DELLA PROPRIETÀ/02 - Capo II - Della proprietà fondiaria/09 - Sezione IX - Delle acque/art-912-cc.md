@@ -21,7 +21,10 @@ ordine: 1007
 # Art. 912 - ***Conciliazione di opposti interessi***
 
 Se sorge controversia tra i proprietari a cui un'acqua non pubblica può essere utile, l'autorità giudiziaria deve valutare l'interesse dei singoli proprietari nei loro rapporti e rispetto ai vantaggi che possono derivare all'agricoltura o all'industria dall'uso a cui l'acqua è destinata o si vuol destinare.
+{: data-comma="1" }
 
 L'autorità giudiziaria può assegnare un'indennità ai proprietari che sopportino diminuzione del proprio diritto.
+{: data-comma="2" }
 
 In tutti i casi devono osservarsi le disposizioni delle leggi sulle acque e sulle opere idrauliche.
+{: data-comma="3" }

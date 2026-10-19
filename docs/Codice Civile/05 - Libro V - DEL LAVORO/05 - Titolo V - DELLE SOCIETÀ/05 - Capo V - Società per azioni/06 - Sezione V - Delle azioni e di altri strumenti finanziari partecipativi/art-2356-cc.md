@@ -21,5 +21,7 @@ ordine: 2487
 # Art. 2356 - ***Responsabilità in caso di trasferimento di azioni non liberate***
 
 Coloro che hanno trasferito azioni non liberate sono obbligati in solido con gli acquirenti per l'ammontare dei versamenti ancora dovuti, per il periodo di tre anni dall'annotazione del trasferimento nel libro dei soci.
+{: data-comma="1" }
 
 Il pagamento non può essere ad essi domandato se non nel caso in cui la richiesta al possessore dell'azione sia rimasta infruttuosa.
+{: data-comma="2" }

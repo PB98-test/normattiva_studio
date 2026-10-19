@@ -21,8 +21,10 @@ ordine: 2894
 # Art. 2603 - ***Forma e contenuto del contratto***
 
 Il contratto deve essere fatto per iscritto sotto pena di nullità.
+{: data-comma="1" }
 
 Esso deve indicare:
+{: data-comma="2" }
 
 - 1) l'oggetto e la durata del consorzio;
 - 2) la sede dell'ufficio eventualmente costituito;
@@ -33,5 +35,7 @@ Esso deve indicare:
 - 7) le sanzioni per l'inadempimento degli obblighi dei consorziati.
 
 Se il consorzio ha per oggetto il contingentamento della produzione o degli scambi, il contratto deve inoltre stabilire le quote dei singoli consorziati o i criteri per la determinazione di esse.
+{: data-comma="3" }
 
 Se l'atto costitutivo deferisce la risoluzione di questioni relative alla determinazione delle quote ad una o più persone, le decisioni di queste possono essere impugnate innanzi all'autorità giudiziaria, se sono manifestamente inique od erronee, entro trenta giorni dalla notizia.
+{: data-comma="4" }

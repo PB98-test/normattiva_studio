@@ -21,5 +21,7 @@ ordine: 1371
 # Art. 1269 - ***Delegazione di pagamento***
 
 Se il debitore per eseguire il pagamento ha delegato un terzo, questi può obbligarsi verso il creditore, salvo che il debitore l'abbia vietato.
+{: data-comma="1" }
 
 Il terzo delegato per eseguire il pagamento non è tenuto ad accettare l'incarico, ancorchè sia debitore del delegante. Sono salvi gli usi diversi.
+{: data-comma="2" }

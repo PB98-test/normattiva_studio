@@ -21,5 +21,7 @@ ordine: 234
 # Art. 211 - ***Tutela dei diritti del terzo***
 
 Quando l'esibizione è ordinata ad un terzo, il giudice istruttore deve cercare di conciliare nel miglior modo possibile l'interesse della giustizia col riguardo dovuto ai diritti del terzo, e prima di ordinare l'esibizione può disporre che il terzo sia citato in giudizio, assegnando alla parte istante un termine per provvedervi.
+{: data-comma="1" }
 
 Il terzo può sempre fare opposizione contro l'ordinanza di esibizione, intervenendo nel giudizio prima della scadenza del termine assegnatogli.
+{: data-comma="2" }

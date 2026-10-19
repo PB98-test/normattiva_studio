@@ -14,7 +14,7 @@ capo_label: "DEGLI ILLECITI AMMINISTRATIVI E DELLE RELATIVE SANZIONI"
 sezione: "II"
 sezione_label: "Delle sanzioni amministrative accessorie a sanzioni amministrative pecuniarie"
 rubrica: "Destinazione dei veicoli confiscati"
-dataVigenza: "20260914"
+dataVigenza: "20261012"
 ordine: 234
 ---
 
@@ -24,6 +24,6 @@ ordine: 234
 
 2\. Si applicano, in quanto compatibili, l'articolo 2-undecies della legge 31 maggio 1965, n. 575, e successive modificazioni, e l'articolo 301-bis del testo unico delle disposizioni legislative in materia doganale, di cui al decreto del Presidente della Repubblica 23 gennaio 1973, n. 43, e successive modificazioni, concernenti la gestione, la vendita o la distruzione dei beni mobili registrati.
 
-[^agg-138a]: *AGGIORNAMENTO (138a)* Il D.Lgs. 29 maggio 2017, n. 98, come modificato dalla L. 27 dicembre 2017, n. 205, ha disposto (con l'[art. 7](../../../01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-7-dlgs285-92.md), comma 1) la proroga dell'entrata in vigore della modifica di cui al comma 2 del presente articolo dal 1° luglio 2018 al 1° gennaio 2019.
+[^agg-138a]: *AGGIORNAMENTO (138a)* Il D.Lgs. 29 maggio 2017, n. 98, come modificato dalla L. 27 dicembre 2017, n. 205, ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore della modifica di cui al comma 2 del presente articolo dal 1° luglio 2018 al 1° gennaio 2019.
 
-[^agg-148]: *AGGIORNAMENTO (148)* Il D.Lgs. 29 maggio 2017, n. 98, come modificato dalla L. 30 dicembre 2018, n. 145, ha disposto (con l'[art. 7](../../../01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-7-dlgs285-92.md), comma 1) la proroga dell'entrata in vigore della modifica di cui al comma 2 del presente articolo dal 1° gennaio 2019 al 1° gennaio 2020.
+[^agg-148]: *AGGIORNAMENTO (148)* Il D.Lgs. 29 maggio 2017, n. 98, come modificato dalla L. 30 dicembre 2018, n. 145, ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore della modifica di cui al comma 2 del presente articolo dal 1° gennaio 2019 al 1° gennaio 2020.

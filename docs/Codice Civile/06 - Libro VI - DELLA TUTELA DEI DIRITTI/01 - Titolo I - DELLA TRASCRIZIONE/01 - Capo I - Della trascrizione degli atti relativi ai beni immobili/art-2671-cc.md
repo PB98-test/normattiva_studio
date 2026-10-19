@@ -21,5 +21,7 @@ ordine: 2975
 # Art. 2671 - ***Obbligo dei pubblici ufficiali***
 
 Il notaio o altro pubblico ufficiale che ha ricevuto o autenticato l'atto soggetto a trascrizione ha l'obbligo di curare che questa venga eseguita nel più breve tempo possibile, ed è tenuto al risarcimento dei danni in caso di ritardo, salva l'applicazione delle pene pecuniarie previste dalle leggi speciali, se lascia trascorrere trenta giorni dalla data dell'atto ricevuto o autenticato.
+{: data-comma="1" }
 
 Rimangono ferme le disposizioni delle leggi speciali che stabiliscono a carico di altre persone l'obbligo di richiedere la trascrizione di determinati atti e le relative sanzioni.
+{: data-comma="2" }

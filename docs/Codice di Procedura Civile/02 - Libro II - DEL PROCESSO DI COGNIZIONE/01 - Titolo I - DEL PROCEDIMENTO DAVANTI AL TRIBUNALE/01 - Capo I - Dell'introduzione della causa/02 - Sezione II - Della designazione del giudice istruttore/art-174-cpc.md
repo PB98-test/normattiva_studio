@@ -21,5 +21,7 @@ ordine: 188
 # Art. 174 - ***Immutabilità del giudice istruttore***
 
 Il giudice designato è investito di tutta l'istruzione della causa e della relazione al collegio.
+{: data-comma="1" }
 
 Soltanto in caso di assoluto impedimento o di gravi esigenze di servizio può essere sostituito con decreto del presidente. La sostituzione può essere disposta, quando è indispensabile, anche per il compimento dei singoli atti.
+{: data-comma="2" }

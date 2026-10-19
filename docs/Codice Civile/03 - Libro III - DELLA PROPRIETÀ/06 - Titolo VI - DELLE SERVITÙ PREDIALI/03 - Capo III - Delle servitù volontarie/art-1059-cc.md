@@ -21,5 +21,7 @@ ordine: 1154
 # Art. 1059 - ***Servitù concessa da uno dei comproprietari***
 
 La servitù concessa da uno dei comproprietari di un fondo indiviso non è costituita se non quando gli altri l'hanno anch'essi concessa unitamente o separatamente.
+{: data-comma="1" }
 
 La concessione, però, fatta da uno dei comproprietari, indipendentemente dagli altri, obbliga il concedente e i suoi eredi o aventi causa a non porre impedimento all'esercizio del diritto concesso.
+{: data-comma="2" }

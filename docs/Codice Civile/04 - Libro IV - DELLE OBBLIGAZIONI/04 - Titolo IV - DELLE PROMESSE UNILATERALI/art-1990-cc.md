@@ -21,5 +21,7 @@ ordine: 2111
 # Art. 1990 - ***Revoca della promessa***
 
 La promessa può essere revocata prima della scadenza del termine indicato dall'articolo precedente solo per giusta causa, purchè la revoca sia resa pubblica nella stessa forma della promessa o in forma equivalente.
+{: data-comma="1" }
 
 In nessun caso la revoca può avere effetto se la situazione prevista nella promessa si è già verificata o se l'azione è già stata compiuta.
+{: data-comma="2" }

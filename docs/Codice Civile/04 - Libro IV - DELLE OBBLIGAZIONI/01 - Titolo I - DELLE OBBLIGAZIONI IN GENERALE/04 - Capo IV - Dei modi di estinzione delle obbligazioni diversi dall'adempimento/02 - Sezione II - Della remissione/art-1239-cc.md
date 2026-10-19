@@ -21,5 +21,7 @@ ordine: 1341
 # Art. 1239 - ***Fideiussori***
 
 La remissione accordata al debitore principale libera i fideiussori.
+{: data-comma="1" }
 
 La remissione accordata a uno dei fideiussori non libera gli altri che per la parte del fideiussore liberato. Tuttavia se gli altri fideiussori hanno consentito la liberazione, essi rimangono obbligati per l'intero.
+{: data-comma="2" }

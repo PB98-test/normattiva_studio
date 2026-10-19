@@ -21,5 +21,7 @@ ordine: 1783
 # Art. 1668 - ***Contenuto della garanzia per difetti dell'opera***
 
 Il committente può chiedere che le difformità o i vizi siano eliminati a spese dell'appaltatore, oppure che il prezzo sia proporzionalmente diminuito, salvo il risarcimento del danno nel caso di colpa dell'appaltatore.
+{: data-comma="1" }
 
 Se però le difformità o i vizi dell'opera sono tali da renderla del tutto inadatta alla sua destinazione, il committente può chiedere la risoluzione del contratto.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 170
 # Art. 137 - ***Incompetenza dell'ufficiale dello stato civile. Mancanza dei testimoni***
 
 È punito con l'ammenda da lire trecento a lire duemila l'ufficiale dello stato civile che ha celebrato un matrimonio per cui non era competente.
+{: data-comma="1" }
 
 La stessa pena si applica all'ufficiale dello stato civile che ha proceduto alla celebrazione di un matrimonio senza la presenza dei testimoni.
+{: data-comma="2" }

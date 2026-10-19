@@ -14,7 +14,7 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: null
-dataVigenza: "20260914"
+dataVigenza: "20261016"
 ordine: 977
 ---
 
@@ -22,4 +22,4 @@ ordine: 977
 
 LA L. 31 MAGGIO 1995, N. 218 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO [^agg-83]
 
-[^agg-83]: *AGGIORNAMENTO (83)* La L. 31 maggio 1995, n. 218 come modificata dal D.L. 23 ottobre 1996, n. 542 convertito con modificazioni dalla L. 23 dicembre 1996, n. 649 ha disposto (con l'[art. 73](../../01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/02%20-%20Titolo%20II%20-%20DEL%20PUBBLICO%20MINISTERO/art-73-cpc.md), comma 1) la proroga dell'entrata in vigore della conferma dell'abrogazione del presente articolo dal 1° gennaio 1996 al 31 dicembre 1996.
+[^agg-83]: *AGGIORNAMENTO (83)* La L. 31 maggio 1995, n. 218 come modificata dal D.L. 23 ottobre 1996, n. 542 convertito con modificazioni dalla L. 23 dicembre 1996, n. 649 ha disposto (con l'art. 73, comma 1) la proroga dell'entrata in vigore della conferma dell'abrogazione del presente articolo dal 1° gennaio 1996 al 31 dicembre 1996.

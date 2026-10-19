@@ -21,9 +21,13 @@ ordine: 2282
 # Art. 2161 - ***Libretto colonico***
 
 Il concedente deve istituire un libretto colonico da tenersi in due esemplari, uno per ciascuna delle parti.
+{: data-comma="1" }
 
 Il concedente deve annotare di volta in volta su entrambi gli esemplari i crediti e i debiti delle parti relativi alla mezzadria, con indicazione della data e del fatto che li ha determinati.
+{: data-comma="2" }
 
 Le annotazioni devono, alla fine dell'anno agrario, essere sottoscritte per accettazione dal concedente e dal mezzadro.
+{: data-comma="3" }
 
 Il mezzadro deve presentare il libretto colonico al concedente per le annotazioni e per i saldi annuali.
+{: data-comma="4" }

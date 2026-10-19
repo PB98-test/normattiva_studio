@@ -21,5 +21,7 @@ ordine: 1094
 # Art. 999 - ***Locazioni concluse dall'usufruttuario***
 
 Le locazioni concluse dall'usufruttuario, in corso al tempo della cessazione dell'usufrutto, purchè constino da atto pubblico o da scrittura privata di data certa anteriore, continuano per la durata stabilita, ma non oltre il quinquennio dalla cessazione dell'usufrutto.
+{: data-comma="1" }
 
 Se la cessazione dell'usufrutto avviene per la scadenza del termine stabilito, le locazioni non durano in ogni caso se non per l'anno, e, trattandosi di fondi rustici dei quali il principale raccolto è biennale o triennale, se non per il biennio o triennio che si trova in corso al tempo in cui cessa l'usufrutto.
+{: data-comma="2" }

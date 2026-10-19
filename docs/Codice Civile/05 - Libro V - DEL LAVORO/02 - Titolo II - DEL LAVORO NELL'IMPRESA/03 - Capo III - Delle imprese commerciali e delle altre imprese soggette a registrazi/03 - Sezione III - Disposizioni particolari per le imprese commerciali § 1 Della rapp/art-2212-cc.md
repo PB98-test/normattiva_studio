@@ -21,5 +21,7 @@ ordine: 2333
 # Art. 2212 - ***Poteri dei commessi relativi agli affari conclusi***
 
 Per gli affari da essi conclusi, i commessi dell'imprenditore sono autorizzati a ricevere per conto di questo le dichiarazioni che riguardano l'esecuzione del contratto e i reclami relativi alle inadempienze contrattuali.
+{: data-comma="1" }
 
 Sono altresì legittimati a chiedere i provvedimenti cautelari nell'interesse dell'imprenditore.
+{: data-comma="2" }

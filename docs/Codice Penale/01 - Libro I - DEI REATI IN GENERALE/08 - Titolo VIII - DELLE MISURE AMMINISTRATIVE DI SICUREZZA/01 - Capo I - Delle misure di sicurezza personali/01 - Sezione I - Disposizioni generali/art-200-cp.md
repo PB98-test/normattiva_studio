@@ -21,9 +21,13 @@ ordine: 221
 # Art. 200 - ***Applicabilità delle misure di sicurezza rispetto al tempo, al territorio e alle persone***
 
 Le misure di sicurezza sono regolate dalla legge in vigore al tempo della loro applicazione.
+{: data-comma="1" }
 
 Se la legge del tempo in cui deve eseguirsi la misura di sicurezza è diversa, si applica la legge in vigore al tempo della esecuzione.
+{: data-comma="2" }
 
 Le misure di sicurezza si applicano anche agli stranieri, che si trovano nel territorio dello Stato.
+{: data-comma="3" }
 
 Tuttavia l'applicazione di misure di sicurezza allo straniero non impedisce l'espulsione di lui dal territorio dello Stato, a norma delle leggi di pubblica sicurezza.
+{: data-comma="4" }

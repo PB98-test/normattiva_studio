@@ -21,9 +21,13 @@ ordine: 2012
 # Art. 1891 - ***Assicurazione per conto altrui o per conto di chi spetta***
 
 Se l'assicurazione è stipulata per conto altrui o per conto di chi spetta, il contraente deve adempiere gli obblighi derivanti dal contratto, salvi quelli che per loro natura non possono essere adempiuti che dall'assicurato.
+{: data-comma="1" }
 
 I diritti derivanti dal contratto spettano all'assicurato, e il contraente, anche se in possesso della polizza, non può farli valere senza espresso consenso dell'assicurato medesimo.
+{: data-comma="2" }
 
 All'assicurato sono opponibili le eccezioni che si possono opporre al contraente in dipendenza del contratto.
+{: data-comma="3" }
 
 Per il rimborso dei premi pagati all'assicuratore e delle spese del contratto, il contraente ha privilegio sulle somme dovute dall'assicuratore nello stesso grado dei crediti per spese di conservazione.
+{: data-comma="4" }

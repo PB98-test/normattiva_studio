@@ -21,5 +21,7 @@ ordine: 45
 # Art. 14 - ***Atto costitutivo***
 
 Le associazioni e le fondazioni devono essere costituite con atto pubblico.
+{: data-comma="1" }
 
 La fondazione può essere disposta anche con testamento.
+{: data-comma="2" }

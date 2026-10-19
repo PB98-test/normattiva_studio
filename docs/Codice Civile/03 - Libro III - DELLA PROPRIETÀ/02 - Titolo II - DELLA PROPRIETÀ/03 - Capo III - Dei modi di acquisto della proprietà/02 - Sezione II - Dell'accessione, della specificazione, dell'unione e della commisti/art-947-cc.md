@@ -21,7 +21,10 @@ ordine: 1042
 # Art. 947 - ***Mutamenti del letto dei fiumi derivanti da regolamento del loro corso***
 
 Le disposizioni degli [articoli 942](art-942-cc.md), [945](art-945-cc.md) e [946](art-946-cc.md) si applicano ai terreni comunque abbandonati sia a seguito di eventi naturali che per fatti artificiali indotti dall'attività antropica, ivi comprendendo anche i terreni abbandonati per fenomeni di inalveamento.
+{: data-comma="1" }
 
 La disposizione dell'[articolo 941](art-941-cc.md) non si applica nel caso in cui le alluvioni derivano da regolamento del corso dei fiumi, da bonifiche o da altri fatti artificiali indotti dall'attività antropica.
+{: data-comma="2" }
 
 In ogni caso è esclusa la sdemanializzazione tacita dei beni del demanio idrico.
+{: data-comma="3" }

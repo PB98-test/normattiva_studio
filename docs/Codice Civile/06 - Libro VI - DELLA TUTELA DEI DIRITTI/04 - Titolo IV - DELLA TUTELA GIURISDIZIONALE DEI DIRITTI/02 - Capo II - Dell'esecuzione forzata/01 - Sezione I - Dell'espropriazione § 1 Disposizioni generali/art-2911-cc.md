@@ -21,5 +21,7 @@ ordine: 3221
 # Art. 2911 - ***Beni gravati da pegno o ipoteca***
 
 Il creditore che ha pegno su beni del debitore non può pignorare altri beni del debitore medesimo, se non sottopone a esecuzione anche i beni gravati dal pegno. Non può parimenti, quando ha ipoteca, pignorare altri immobili, se non sottopone a pignoramento anche gli immobili gravati dall'ipoteca.
+{: data-comma="1" }
 
 La stessa disposizione si applica se il creditore ha privilegio speciale su determinati beni.
+{: data-comma="2" }

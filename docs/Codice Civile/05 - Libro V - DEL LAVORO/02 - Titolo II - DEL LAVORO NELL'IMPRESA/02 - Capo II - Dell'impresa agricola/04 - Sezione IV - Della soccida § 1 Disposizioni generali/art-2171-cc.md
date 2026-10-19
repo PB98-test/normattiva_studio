@@ -21,7 +21,10 @@ ordine: 2292
 # Art. 2171 - ***Nozione***
 
 Nella soccida semplice il bestiame è conferito dal soccidante.
+{: data-comma="1" }
 
 La stima del bestiame all'inizio del contratto non ne trasferisce la proprietà al soccidario.
+{: data-comma="2" }
 
 La stima deve indicare il numero, la razza, la qualità, il sesso, il peso e l'età del bestiame e il relativo prezzo di mercato. La stima serve di base per determinare il prelevamento a cui ha diritto il soccidante alla fine del contratto, a norma dell'[art. 2181](art-2181-cc.md).
+{: data-comma="3" }

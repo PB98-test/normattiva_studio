@@ -21,9 +21,13 @@ ordine: 118
 # Art. 111 - ***Successione a titolo particolare nel diritto controverso***
 
 Se nel corso del processo si trasferisce il diritto controverso per atto tra vivi a titolo particolare, il processo prosegue tra le parti originarie.
+{: data-comma="1" }
 
 Se il trasferimento a titolo particolare avviene a causa di morte, il processo è proseguito dal successore universale o in suo confronto.
+{: data-comma="2" }
 
 In ogni caso il successore a titolo particolare può intervenire o essere chiamato nel processo e, se le altre parti vi consentono, l'alienante o il successore universale può esserne estromesso.
+{: data-comma="3" }
 
 La sentenza pronunciata contro questi ultimi spiega sempre i suoi effetti anche contro il successore a titolo particolare ed è impugnabile anche da lui, salve le norme sull'acquisto in buona fede dei mobili e sulla trascrizione ....
+{: data-comma="4" }

@@ -21,5 +21,7 @@ ordine: 1687
 # Art. 1572 - ***Locazioni e anticipazioni eccedenti l'ordinaria amministrazione***
 
 Il contratto di locazione per una durata superiore a nove anni è atto eccedente l'ordinaria amministrazione.
+{: data-comma="1" }
 
 Sono altresì atti eccedenti l'ordinaria amministrazione le anticipazioni del corrispettivo della locazione per una durata superiore a un anno.
+{: data-comma="2" }

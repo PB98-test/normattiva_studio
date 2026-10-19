@@ -21,5 +21,7 @@ ordine: 401
 # Art. 326 - ***Inalienabilità dell'usufrutto legale. Esecuzione sui frutti.***
 
 L'usufrutto legale non può essere oggetto di alienazione, di pegno o di ipoteca nè di esecuzione da parte dei creditori.
+{: data-comma="1" }
 
 L'esecuzione sui frutti dei beni del figlio da parte dei creditori dei genitori o di quello di essi che ne è titolare esclusivo non può aver luogo per debiti che il creditore conosceva essere stati contratti per scopi estranei ai bisogni della famiglia.
+{: data-comma="2" }

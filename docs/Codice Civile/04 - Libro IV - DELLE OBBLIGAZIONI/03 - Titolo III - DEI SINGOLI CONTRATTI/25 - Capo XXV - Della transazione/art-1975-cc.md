@@ -21,5 +21,7 @@ ordine: 2096
 # Art. 1975 - ***Annullabilità per scoperta di documenti***
 
 La transazione che le parti hanno conclusa generalmente sopra tutti gli affari che potessero esservi tra loro non può impugnarsi per il fatto che posteriormente una di esse venga a conoscenza di documenti che le erano ignoti al tempo della transazione, salvo che questi siano stati occultati dall'altra parte.
+{: data-comma="1" }
 
 La transazione è annullabile, quando non riguarda che un affare determinato e con documenti posteriormente scoperti si prova che una delle parti non aveva alcun diritto.
+{: data-comma="2" }

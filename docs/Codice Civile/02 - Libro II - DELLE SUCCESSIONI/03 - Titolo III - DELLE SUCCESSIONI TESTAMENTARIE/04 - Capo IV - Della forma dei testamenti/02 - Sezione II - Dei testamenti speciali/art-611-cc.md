@@ -21,5 +21,7 @@ ordine: 698
 # Art. 611 - ***Testamento a bordo di nave***
 
 Durante il viaggio per mare il testamento può essere ricevuto a bordo della nave dal comandante di essa.
+{: data-comma="1" }
 
 Il testamento del comandante può essere ricevuto da colui che lo segue immediatamente in ordine di servizio.
+{: data-comma="2" }

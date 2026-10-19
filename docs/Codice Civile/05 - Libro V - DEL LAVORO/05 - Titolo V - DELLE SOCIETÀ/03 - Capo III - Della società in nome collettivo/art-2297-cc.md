@@ -21,5 +21,7 @@ ordine: 2419
 # Art. 2297 - ***Mancata registrazione***
 
 Fino a quando la società non è iscritta nel registro delle imprese, i rapporti tra la società e i terzi, ferma restando la responsabilità illimitata e solidale di tutti i soci, sono regolati dalle disposizioni relative alla società semplice.
+{: data-comma="1" }
 
 Tuttavia si presume che ciascun socio che agisce per la società abbia la rappresentanza sociale, anche in giudizio. I patti che attribuiscono la rappresentanza ad alcuno soltanto dei soci o che limitano i poteri di rappresentanza non sono opponibili ai terzi, a meno che si provi che questi ne erano a conoscenza.
+{: data-comma="2" }

@@ -21,7 +21,10 @@ ordine: 2759
 # Art. 2504 - ***Atto di fusione***
 
 La fusione deve risultare da atto pubblico.
+{: data-comma="1" }
 
 L'atto di fusione deve essere depositato per l'iscrizione, a cura del notaio o dei soggetti cui compete l'amministrazione della società risultante dalla fusione o di quella incorporante, entro trenta giorni, nell'ufficio del registro delle imprese dei luoghi ove è posta la sede delle società partecipanti alla fusione, di quella che ne risulta o della società incorporante.
+{: data-comma="2" }
 
 Il deposito relativo alla società risultante dalla fusione o di quella incorporante non può precedere quelli relativi alle altre società partecipanti alla fusione.
+{: data-comma="3" }

@@ -21,8 +21,10 @@ ordine: 577
 # Art. 490 - ***Effetti del beneficio d'inventario***
 
 L'effetto del beneficio d'inventario consiste nel tener distinto il patrimonio del defunto da quello dell'erede.
+{: data-comma="1" }
 
 Conseguentemente:
+{: data-comma="2" }
 
 - 1) l'erede conserva verso l'eredità tutti i diritti e tutti gli obblighi che aveva verso il defunto, tranne quelli che si sono estinti per effetto della morte;
 - 2) l'erede non è tenuto al pagamento dei debiti ereditari e dei legati oltre il valore dei beni a lui pervenuti;

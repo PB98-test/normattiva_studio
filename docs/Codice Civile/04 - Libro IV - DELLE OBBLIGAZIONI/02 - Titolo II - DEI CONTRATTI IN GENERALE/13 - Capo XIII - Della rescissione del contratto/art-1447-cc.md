@@ -21,5 +21,7 @@ ordine: 1549
 # Art. 1447 - ***Contratto concluso in stato di pericolo***
 
 Il contratto con cui una parte ha assunto obbligazioni a condizioni inique, per la necessità, nota alla controparte, di salvare sè o altri dal pericolo attuale di un danno grave alla persona, può essere rescisso sulla domanda della parte che si è obbligata.
+{: data-comma="1" }
 
 Il giudice nel pronunciare la rescissione, può, secondo le circostanze, assegnare un equo compenso all'altra parte per l'opera prestata.
+{: data-comma="2" }

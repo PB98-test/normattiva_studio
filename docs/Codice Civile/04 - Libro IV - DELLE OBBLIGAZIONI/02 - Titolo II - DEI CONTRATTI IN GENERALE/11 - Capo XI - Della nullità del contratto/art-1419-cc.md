@@ -21,5 +21,7 @@ ordine: 1521
 # Art. 1419 - ***Nullità parziale***
 
 La nullità parziale di un contratto o la nullità di singole clausole importa la nullità dell'intero contratto, se risulta che i contraenti non lo avrebbero concluso senza quella parte del suo contenuto che è colpita dalla nullità.
+{: data-comma="1" }
 
 La nullità di singole clausole non importa la nullità del contratto, quando le clausole nulle sono sostituite di diritto da norme imperative.
+{: data-comma="2" }

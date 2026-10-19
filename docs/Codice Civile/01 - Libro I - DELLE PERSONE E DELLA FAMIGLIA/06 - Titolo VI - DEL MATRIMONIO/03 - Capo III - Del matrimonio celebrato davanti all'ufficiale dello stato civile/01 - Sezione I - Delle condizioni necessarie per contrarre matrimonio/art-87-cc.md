@@ -21,6 +21,7 @@ ordine: 119
 # Art. 87 - ***Parentela, affinità, adozione ...***
 
 Non possono contrarre matrimonio fra loro:
+{: data-comma="1" }
 
 - 1) gli ascendenti e i discendenti in linea retta ...;
 - 2) i fratelli e le sorelle germani, consanguinei o uterini;
@@ -33,11 +34,16 @@ Non possono contrarre matrimonio fra loro:
 - 9) l'adottato e il coniuge dell'adottante, l'adottante e il coniuge dell'adottato.
 
 COMMA ABROGATO DAL D.LGS. 28 DICEMBRE 2013, N. 154.
+{: data-comma="2" }
 
 COMMA ABROGATO DAL D.LGS. 28 DICEMBRE 2013, N. 154.
+{: data-comma="3" }
 
 Il tribunale, su ricorso degli interessati, con decreto emesso in camera di consiglio, sentito il pubblico ministero, può autorizzare il matrimonio nei casi indicati dai numeri 3 e 5, anche se si tratti di affiliazione .... L'autorizzazione può essere accordata anche nel caso indicato dal numero 4, quando l'affinità deriva da matrimonio dichiarato nullo.
+{: data-comma="4" }
 
 Il decreto è notificato agli interessati e al pubblico ministero.
+{: data-comma="5" }
 
 Si applicano le disposizioni dei commi quarto, quinto e sesto dell'[articolo 84](art-84-cc.md).
+{: data-comma="6" }

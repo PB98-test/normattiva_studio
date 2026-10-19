@@ -21,5 +21,7 @@ ordine: 997
 # Art. 902 - ***Apertura priva dei requisiti prescritti per le luci***
 
 L'apertura che non ha i caratteri di veduta o di prospetto è considerata come luce, anche se non sono state osservate le prescrizioni indicate dall'[art. 901](art-901-cc.md).
+{: data-comma="1" }
 
 Il vicino ha sempre il diritto di esigere che essa sia resa conforme alle prescrizioni dell'articolo predetto.
+{: data-comma="2" }

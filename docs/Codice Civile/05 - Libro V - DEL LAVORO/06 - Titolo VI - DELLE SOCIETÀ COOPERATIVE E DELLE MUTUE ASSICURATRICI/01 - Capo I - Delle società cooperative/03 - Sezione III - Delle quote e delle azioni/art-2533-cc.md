@@ -21,6 +21,7 @@ ordine: 2807
 # Art. 2533 - ***Esclusione del socio***
 
 L'esclusione del socio, oltre che nel caso indicato all'[articolo 2531](art-2531-cc.md), può aver luogo:
+{: data-comma="1" }
 
 - 1) nei casi previsti dall'atto costitutivo;
 - 2) per gravi inadempienze delle obbligazioni che derivano dalla legge, dal contratto sociale, dal regolamento o dal rapporto mutualistico;
@@ -29,7 +30,10 @@ L'esclusione del socio, oltre che nel caso indicato all'[articolo 2531](art-2531
 - 5) nei casi previsti dell'[articolo 2288](../../../05%20-%20Titolo%20V%20-%20DELLE%20SOCIETÀ/02%20-%20Capo%20II%20-%20Della%20società%20semplice/05%20-%20Sezione%20V%20-%20Dello%20scioglimento%20del%20rapporto%20sociale%20limitatamente%20a%20un%20socio/art-2288-cc.md), primo comma.
 
 L'esclusione deve essere deliberata dagli amministratori o, se l'atto costitutivo lo prevede, dall'assemblea.
+{: data-comma="2" }
 
 Contro la deliberazione di esclusione il socio può proporre opposizione al tribunale, nel termine di sessanta giorni dalla comunicazione.
+{: data-comma="3" }
 
 Qualora l'atto costitutivo non preveda diversamente, lo scioglimento del rapporto sociale determina anche la risoluzione dei rapporti mutualistici pendenti.
+{: data-comma="4" }

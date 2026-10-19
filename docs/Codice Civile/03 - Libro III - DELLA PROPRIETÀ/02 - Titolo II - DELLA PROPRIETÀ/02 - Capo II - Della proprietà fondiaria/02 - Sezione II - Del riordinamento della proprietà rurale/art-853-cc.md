@@ -21,7 +21,10 @@ ordine: 947
 # Art. 853 - ***Trasferimento dei diritti reali***
 
 Nei trasferimenti coattivi le servitù prediali sono abolite, conservate o create in relazione alle esigenze della nuova sistemazione.
+{: data-comma="1" }
 
 Gli altri diritti reali di godimento sono trasferiti sui terreni assegnati in cambio e, qualora non siano costituiti su tutti i terreni dello stesso proprietario, sono trasferiti soltanto su una parte determinata del fondo assegnato in cambio, che corrisponda in valore ai terreni su cui esistevano.
+{: data-comma="2" }
 
 Le ipoteche che non siano costituite su tutti i terreni dello stesso proprietario sono trasferite sul fondo di nuova assegnazione per una quota corrispondente in valore ai terreni su cui erano costituite. In caso di espropriazione forzata dell'immobile gravato da ipoteca su una quota, l'immobile è espropriato per intero e il credito è collocato, secondo il grado dell'ipoteca, sulla parte del prezzo corrispondente alla quota soggetta all'ipoteca medesima.
+{: data-comma="3" }

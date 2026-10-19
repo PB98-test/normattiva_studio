@@ -21,5 +21,7 @@ ordine: 111
 # Art. 104 - ***Pluralità di domande contro la stessa parte***
 
 Contro la stessa parte possono proporsi nel medesimo processo più domande anche non altrimenti connesse, purchè sia osservata la norma dell'[art. 10](../01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/02%20-%20Sezione%20II%20-%20Della%20competenza%20per%20materia%20e%20valore/art-10-cpc.md) secondo comma.
+{: data-comma="1" }
 
 È applicabile la disposizione del secondo comma dell'articolo precedente.
+{: data-comma="2" }

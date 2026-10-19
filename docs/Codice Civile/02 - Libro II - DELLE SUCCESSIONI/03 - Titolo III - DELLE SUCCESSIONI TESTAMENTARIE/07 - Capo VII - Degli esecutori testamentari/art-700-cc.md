@@ -21,7 +21,10 @@ ordine: 787
 # Art. 700 - ***Facoltà di nomina e di sostituzione***
 
 Il testatore può nominare uno o più esecutori testamentari e, per il caso che alcuni o tutti non vogliano o non possano accettare, altro o altri in loro sostituzione.
+{: data-comma="1" }
 
 Se sono nominati più esecutori testamentari, essi devono agire congiuntamente, salvo che il testatore abbia diviso tra loro le attribuzioni, o si tratti di provvedimento urgente per la conservazione di un bene o di un diritto ereditario.
+{: data-comma="2" }
 
 Il testatore può autorizzare l'esecutore testamentario a sostituire altri a se stesso, qualora egli non possa continuare nell'ufficio.
+{: data-comma="3" }

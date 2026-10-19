@@ -21,5 +21,7 @@ ordine: 1433
 # Art. 1331 - ***Opzione***
 
 Quando le parti convengono che una di esse rimanga vincolata alla propria dichiarazione e l'altra abbia facoltà di accettarla o meno, la dichiarazione della prima si considera quale proposta irrevocabile per gli effetti previsti dall'[art. 1329](art-1329-cc.md).
+{: data-comma="1" }
 
 Se per l'accettazione non è stato fissato un termine, questo può essere stabilito dal giudice.
+{: data-comma="2" }

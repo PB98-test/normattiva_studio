@@ -21,5 +21,7 @@ ordine: 84
 # Art. 77 - ***Rappresentanza del procuratore e dell'institore***
 
 Il procuratore generale e quello preposto a determinati affari non possono stare in giudizio per il preponente, quando questo potere non è stato loro conferito espressamente per iscritto, tranne che per gli atti urgenti e per le misure cautelari.
+{: data-comma="1" }
 
 Tale potere si presume conferito al procuratore generale di chi non ha residenza o domicilio nella Repubblica e all'institore.
+{: data-comma="2" }

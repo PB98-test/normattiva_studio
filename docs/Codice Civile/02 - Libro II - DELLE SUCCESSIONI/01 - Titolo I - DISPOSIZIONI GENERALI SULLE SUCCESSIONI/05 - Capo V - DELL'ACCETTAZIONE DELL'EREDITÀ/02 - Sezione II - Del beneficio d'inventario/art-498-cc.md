@@ -21,7 +21,10 @@ ordine: 585
 # Art. 498 - ***Liquidazione dell'eredità in caso di opposizione***
 
 Qualora entro il termine indicato nell'[art. 495](art-495-cc.md) gli sia stata notificata opposizione da parte di creditori o di legatari, l'erede non può eseguire pagamenti, ma deve provvedere alla liquidazione dell'eredità nell'interesse di tutti i creditori e legatari.
+{: data-comma="1" }
 
 A tal fine egli, non oltre un mese dalla notificazione dell'opposizione, deve, a mezzo di un notaio del luogo dell'aperta successione, invitare i creditori e i legatari a presentare, entro un termine stabilito dal notaio stesso e non inferiore a giorni trenta, le dichiarazioni di credito.
+{: data-comma="2" }
 
 L'invito è spedito per raccomandata ai creditori e ai legatari dei quali è noto il domicilio o la residenza ed è pubblicato nel foglio degli annunzi legali della provincia.
+{: data-comma="3" }

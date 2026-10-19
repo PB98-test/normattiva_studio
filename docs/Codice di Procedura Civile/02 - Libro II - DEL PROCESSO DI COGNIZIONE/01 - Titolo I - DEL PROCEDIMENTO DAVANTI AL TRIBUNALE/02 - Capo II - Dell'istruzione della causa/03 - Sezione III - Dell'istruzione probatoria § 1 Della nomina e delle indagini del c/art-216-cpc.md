@@ -21,5 +21,7 @@ ordine: 239
 # Art. 216 - ***Istanza di verificazione***
 
 La parte che intende valersi della scrittura disconosciuta deve chiederne la verificazione, proponendo i mezzi di prova che ritiene utili e producendo o indicando le scritture che possono servire di comparazione.
+{: data-comma="1" }
 
 L'istanza per la verificazione può anche proporsi in via principale con citazione, quando la parte dimostra di avervi interesse; ma se il convenuto riconosce la scrittura, le spese sono poste a carico dell'attore.
+{: data-comma="2" }

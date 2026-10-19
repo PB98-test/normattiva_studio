@@ -21,5 +21,7 @@ ordine: 2248
 # Art. 2127 - ***Divieto d'interposizione nel lavoro a cottimo***
 
 È vietato all'imprenditore di affidare a propri dipendenti lavori a cottimo da eseguirsi da prestatori di lavoro assunti e retribuiti direttamente dai dipendenti medesimi.
+{: data-comma="1" }
 
 In caso di violazione di tale divieto, l'imprenditore risponde direttamente, nei confronti dei prestatori di lavoro assunti dal proprio dipendente, degli obblighi derivanti dai contratti di lavoro da essi stipulati.
+{: data-comma="2" }

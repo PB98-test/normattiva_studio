@@ -21,9 +21,13 @@ ordine: 315
 # Art. 270 - ***Legittimazione attiva e termine***
 
 L'azione per ottenere che sia dichiarata giudizialmente la paternità o la maternità ... è imprescrittibile riguardo al figlio.
+{: data-comma="1" }
 
 Se il figlio muore prima di avere iniziato l'azione, questa può essere promossa dai discendenti ..., entro due anni dalla morte.
+{: data-comma="2" }
 
 L'azione promossa dal figlio, se egli muore, può essere proseguita dai discendenti legittimi, legittimati o naturali riconosciuti.
+{: data-comma="3" }
 
 Si applica l'[articolo 245](../03%20-%20Capo%20III%20-%20Dell%27azione%20di%20disconoscimento%20e%20delle%20azioni%20di%20contestazione%20e%20di%20r/art-245-cc.md).
+{: data-comma="4" }

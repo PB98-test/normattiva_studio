@@ -21,7 +21,10 @@ ordine: 37
 # Art. 6 - ***Diritto al nome***
 
 Ogni persona ha diritto al nome che le è per legge attribuito.
+{: data-comma="1" }
 
 Nel nome si comprendono il prenome e il cognome.
+{: data-comma="2" }
 
 Non sono ammessi cambiamenti, aggiunte o rettifiche al nome, se non nei casi e con le formalità dalla legge indicati.
+{: data-comma="3" }

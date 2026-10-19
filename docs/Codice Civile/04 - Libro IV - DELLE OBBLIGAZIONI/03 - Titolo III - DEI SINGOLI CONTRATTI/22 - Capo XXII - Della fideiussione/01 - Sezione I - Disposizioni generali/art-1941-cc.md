@@ -21,7 +21,10 @@ ordine: 2062
 # Art. 1941 - ***Limiti della fideiussione***
 
 La fideiussione non può eccedere ciò che è dovuto dal debitore, nè può essere prestata a condizioni più onerose.
+{: data-comma="1" }
 
 Può prestarsi per una parte soltanto del debito o a condizioni meno onerose.
+{: data-comma="2" }
 
 La fideiussione eccedente il debito o contratta a condizioni più onerose è valida nei limiti dell'obbligazione principale.
+{: data-comma="3" }

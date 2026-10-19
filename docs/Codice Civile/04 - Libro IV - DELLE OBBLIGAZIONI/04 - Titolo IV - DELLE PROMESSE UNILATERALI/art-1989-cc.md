@@ -21,5 +21,7 @@ ordine: 2110
 # Art. 1989 - ***Promessa al pubblico***
 
 Colui che, rivolgendosi al pubblico, promette una prestazione a favore di chi si trovi in una determinata situazione o compia una determinata azione, è vincolato dalla promessa non appena questa è resa pubblica.
+{: data-comma="1" }
 
 Se alla promessa non è apposto un termine, o questo non risulta dalla natura o dallo scopo della medesima, il vincolo del promittente cessa, qualora entro l'anno dalla promessa non gli sia stato comunicato l'avveramento della situazione o il compimento dell'azione prevista nella promessa.
+{: data-comma="2" }

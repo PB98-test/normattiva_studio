@@ -21,5 +21,7 @@ ordine: 2643
 # Art. 2439 - ***Sottoscrizione e versamenti***
 
 Salvo quanto previsto nel quarto comma dell'[articolo 2342](../05%20-%20Sezione%20IV%20-%20Dei%20conferimenti/art-2342-cc.md), i sottoscrittori delle azioni di nuova emissione devono, all'atto della sottoscrizione, versare alla società almeno il venticinque per cento del valore nominale delle azioni sottoscritte. Se è previsto un soprapprezzo, questo deve essere interamente versato all'atto della sottoscrizione.
+{: data-comma="1" }
 
 Se l'aumento di capitale non è integralmente sottoscritto entro il termine che, nell'osservanza di quelli stabiliti dall'[articolo 2441](art-2441-cc.md), secondo e terzo comma, deve risultare dalla deliberazione, il capitale è aumentato di un importo pari alle sottoscrizioni raccolte soltanto se la deliberazione medesima lo abbia espressamente previsto.
+{: data-comma="2" }

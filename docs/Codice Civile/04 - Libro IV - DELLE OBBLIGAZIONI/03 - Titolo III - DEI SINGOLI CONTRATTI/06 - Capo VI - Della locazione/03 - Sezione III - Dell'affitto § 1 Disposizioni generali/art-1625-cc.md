@@ -21,5 +21,7 @@ ordine: 1740
 # Art. 1625 - ***Clausola di scioglimento del contratto in caso di alienazione***
 
 Se si è convenuto che l'affitto possa sciogliersi in caso di alienazione, l'acquirente che voglia dare licenza all'affittuario deve osservare la disposizione dell'[articolo 1616](art-1616-cc.md).
+{: data-comma="1" }
 
 Quando l'affitto ha per oggetto un fondo rustico, la licenza deve essere data col preavviso di sei mesi e ha effetto per la fine dell'anno agrario in corso alla scadenza del termine di preavviso.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 33
 # Art. 2 - ***Maggiore età. Capacità di agire***
 
 La maggiore età è fissata al compimento del diciottesimo anno. Con la maggiore età si acquista la capacità di compiere tutti gli atti per i quali non sia stabilita una età diversa.
+{: data-comma="1" }
 
 Sono salve le leggi speciali che stabiliscono un'età inferiore in materia di capacità a prestare il proprio lavoro. In tal caso il minore è abilitato all'esercizio dei diritti e delle azioni che dipendono dal contratto di lavoro.
+{: data-comma="2" }

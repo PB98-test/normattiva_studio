@@ -21,5 +21,7 @@ ordine: 811
 # Art. 608 - ***Abuso di autorità contro arrestati o detenuti***
 
 Il pubblico ufficiale, che sottopone a misure di rigore non consentite dalla legge una persona arrestata o detenuta di cui egli abbia la custodia, anche temporanea, o che sia a lui affidata in esecuzione di un provvedimento dell'Autorità competente, è punito con la reclusione fino a trenta mesi.
+{: data-comma="1" }
 
 La stessa pena si applica se il fatto è commesso da un altro pubblico ufficiale, rivestito, per ragione del suo ufficio, di una qualsiasi autorità sulla persona custodita.
+{: data-comma="2" }

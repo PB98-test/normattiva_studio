@@ -21,5 +21,7 @@ ordine: 454
 # Art. 402 - ***Decisione***
 
 Con la sentenza che pronuncia la revocazione il giudice decide il merito della causa e dispone l'eventuale restituzione di ciò che siasi conseguito con la sentenza revocata.
+{: data-comma="1" }
 
 Il giudice, se per la decisione del merito della causa ritiene di dover disporre nuovi mezzi istruttori, pronuncia, con sentenza, la revocazione della sentenza impugnata e rimette con ordinanza le parti davanti all'istruttore.
+{: data-comma="2" }

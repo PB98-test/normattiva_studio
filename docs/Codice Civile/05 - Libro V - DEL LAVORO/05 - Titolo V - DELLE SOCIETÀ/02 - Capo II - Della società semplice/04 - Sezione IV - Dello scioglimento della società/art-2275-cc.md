@@ -21,5 +21,7 @@ ordine: 2397
 # Art. 2275 - ***Liquidatori***
 
 Se il contratto non prevede il modo di liquidare il patrimonio sociale e i soci non sono d'accordo nel determinarlo, la liquidazione è fatta da uno o più liquidatori, nominati con il consenso di tutti i soci o, in caso di disaccordo, dal presidente del tribunale.
+{: data-comma="1" }
 
 I liquidatori possono essere revocati per volontà di tutti i soci e in ogni caso dal tribunale per giusta causa su domanda di uno o più soci.
+{: data-comma="2" }

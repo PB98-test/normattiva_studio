@@ -21,5 +21,7 @@ ordine: 2196
 # Art. 2075 - ***Efficacia nel caso di variazioni nell'inquadramento***
 
 Il contratto collettivo conserva efficacia nei confronti della categoria alla quale si riferisce, anche se la rappresentanza legale di questa, per effetto di variazioni nell'inquadramento, spetta ad altra associazione.
+{: data-comma="1" }
 
 Questa ha però facoltà di denunziare il contratto collettivo indipendentemente dal termine fissato per la scadenza di esso.
+{: data-comma="2" }

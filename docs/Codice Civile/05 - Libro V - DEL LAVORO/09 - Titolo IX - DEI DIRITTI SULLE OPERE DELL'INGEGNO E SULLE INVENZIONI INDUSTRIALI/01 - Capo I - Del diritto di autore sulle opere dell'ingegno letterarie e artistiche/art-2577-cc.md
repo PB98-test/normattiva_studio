@@ -21,5 +21,7 @@ ordine: 2868
 # Art. 2577 - ***Contenuto del diritto***
 
 L'autore ha il diritto esclusivo di pubblicare l'opera e di utilizzarla economicamente in ogni forma e modo, nei limiti e per gli effetti fissati dalla legge.
+{: data-comma="1" }
 
 L'autore, anche dopo la cessione dei diritti previsti dal comma precedente, può rivendicare la paternità dell'opera e può opporsi a qualsiasi deformazione, mutilazione o altra modificazione dell'opera stessa, che possa essere di pregiudizio al suo onore o alla sua reputazione.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 1856
 # Art. 1740 - ***Diritti dello spedizioniere***
 
 La misura della retribuzione dovuta allo spedizioniere per l'esecuzione dell'incarico si determina, in mancanza di convenzione, secondo le tariffe professionali o, in mancanza, secondo gli usi del luogo in cui avviene la spedizione.
+{: data-comma="1" }
 
 Le spese anticipate e i compensi per le prestazioni accessorie eseguite dallo spedizioniere sono liquidati sulla base dei documenti giustificativi, a meno che il rimborso e i compensi siano stati preventivamente convenuti in una somma globale unitaria.
+{: data-comma="2" }

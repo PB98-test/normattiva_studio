@@ -21,5 +21,7 @@ ordine: 641
 # Art. 502 - ***Termine per l'assegnazione o la vendita del pegno***
 
 Salve le disposizioni speciali del [codice civile](../../../../../Codice%20Civile/00%20-%20Indice%20%28cc%29.md), per l'espropriazione delle cose date in pegno e dei mobili soggetti ad ipoteca si seguono le norme del presente codice, ma l'assegnazione o la vendita può essere chiesta senza che sia stata preceduta da pignoramento.
+{: data-comma="1" }
 
 In tal caso il termine per la istanza di assegnazione o di vendita decorre dalla notificazione del precetto.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 1759
 # Art. 1644 - ***Accrescimenti e frutti del bestiame***
 
 L'affittuario fa suoi i parti e gli altri frutti del bestiame, l'accrescimento e ogni altro provento che ne deriva.
+{: data-comma="1" }
 
 Il letame però deve essere impiegato esclusivamente nella coltivazione del fondo.
+{: data-comma="2" }

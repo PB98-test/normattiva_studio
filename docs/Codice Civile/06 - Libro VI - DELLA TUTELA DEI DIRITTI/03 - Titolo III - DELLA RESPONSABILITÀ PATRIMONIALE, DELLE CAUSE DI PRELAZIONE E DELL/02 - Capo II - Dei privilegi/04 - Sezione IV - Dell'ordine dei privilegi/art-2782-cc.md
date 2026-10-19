@@ -21,5 +21,7 @@ ordine: 3089
 # Art. 2782 - ***Concorso di crediti egualmente privilegiati***
 
 I crediti egualmente privilegiati concorrono tra loro in proporzione del rispettivo importo.
+{: data-comma="1" }
 
 La stessa disposizione si osserva quando concorrono tra loro più crediti privilegiati ai quali le leggi speciali attribuiscono genericamente una prelazione su ogni altro credito.
+{: data-comma="2" }

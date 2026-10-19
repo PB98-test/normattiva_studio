@@ -21,5 +21,7 @@ ordine: 1843
 # Art. 1727 - ***Rinunzia del mandatario***
 
 Il mandatario che rinunzia senza giusta causa al mandato deve risarcire i danni al mandante. Se il mandato è a tempo indeterminato, il mandatario che rinunzia senza giusta causa è tenuto al risarcimento, qualora non abbia dato un congruo preavviso.
+{: data-comma="1" }
 
 In ogni caso la rinunzia deve essere fatta in modo e in tempo tali che il mandante possa provvedere altrimenti, salvo il caso d'impedimento grave da parte del mandatario.
+{: data-comma="2" }

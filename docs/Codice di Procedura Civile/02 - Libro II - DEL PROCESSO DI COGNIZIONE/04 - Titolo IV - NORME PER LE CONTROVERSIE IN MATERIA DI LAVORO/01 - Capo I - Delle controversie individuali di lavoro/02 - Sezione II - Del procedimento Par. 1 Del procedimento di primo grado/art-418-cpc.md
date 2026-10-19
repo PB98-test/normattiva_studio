@@ -21,11 +21,16 @@ ordine: 475
 # Art. 418 - ***Notificazione della domanda riconvenzionale***
 
 Il convenuto che abbia proposta una domanda in via riconvenzionale a norma del secondo comma dell'[articolo 416](art-416-cpc.md) deve, con istanza contenuta nella stessa memoria, a pena di decadenza dalla riconvenzionale medesima, chiedere al giudice che, a modifica del decreto di cui al secondo comma dell'[articolo 415](art-415-cpc.md), pronunci, non oltre cinque giorni, un nuovo decreto per la fissazione dell'udienza.
+{: data-comma="1" }
 
 Tra la proposizione della domanda riconvenzionale e l'udienza di discussione non devono decorrere più di cinquanta giorni.
+{: data-comma="2" }
 
 Il decreto che fissa l'udienza deve essere notificato all'attore, a cura dell'ufficio, unitamente alla memoria difensiva, entro dieci giorni dalla data in cui è stato pronunciato.
+{: data-comma="3" }
 
 Tra la data di notificazione all'attore del decreto pronunciato a norma del primo comma e quella dell'udienza di discussione deve intercorrere un termine non minore di venticinque giorni.
+{: data-comma="4" }
 
 Nel caso in cui la notificazione del decreto debba farsi all'estero il termine di cui al secondo comma è elevato a settanta giorni, e quello di cui al comma precedente è elevato a trentacinque giorni.
+{: data-comma="5" }

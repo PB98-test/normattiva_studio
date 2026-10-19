@@ -21,5 +21,7 @@ ordine: 1484
 # Art. 1382 - ***Effetti della clausola penale***
 
 La clausola, con cui si conviene che, in caso d'inadempimento o di ritardo nell'adempimento, uno dei contraenti è tenuto a una determinata prestazione, ha l'effetto di limitare il risarcimento alla prestazione promessa, se non è stata convenuta la risarcibilità del danno ulteriore.
+{: data-comma="1" }
 
 La penale è dovuta indipendentemente dalla prova del danno.
+{: data-comma="2" }

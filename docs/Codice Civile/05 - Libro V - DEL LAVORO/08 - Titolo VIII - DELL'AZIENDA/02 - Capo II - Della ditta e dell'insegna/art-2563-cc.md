@@ -21,5 +21,7 @@ ordine: 2854
 # Art. 2563 - ***Ditta***
 
 L'imprenditore ha diritto all'uso esclusivo della ditta da lui prescelta.
+{: data-comma="1" }
 
 La ditta, comunque sia formata, deve contenere almeno il cognome o la sigla dell'imprenditore, salvo quanto è disposto dall'[art. 2565](art-2565-cc.md).
+{: data-comma="2" }

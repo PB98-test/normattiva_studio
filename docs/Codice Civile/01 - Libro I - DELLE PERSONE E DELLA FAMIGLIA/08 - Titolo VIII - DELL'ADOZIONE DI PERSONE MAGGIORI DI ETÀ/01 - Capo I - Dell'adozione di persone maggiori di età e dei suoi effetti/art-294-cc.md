@@ -21,5 +21,7 @@ ordine: 339
 # Art. 294 - ***Pluralità di adottati o di adottanti***
 
 È ammessa l'adozione di più persone, anche con atti successivi.
+{: data-comma="1" }
 
 Nessuno può essere adottato da più d'una persona, salvo che i due adottanti siano marito e moglie.
+{: data-comma="2" }

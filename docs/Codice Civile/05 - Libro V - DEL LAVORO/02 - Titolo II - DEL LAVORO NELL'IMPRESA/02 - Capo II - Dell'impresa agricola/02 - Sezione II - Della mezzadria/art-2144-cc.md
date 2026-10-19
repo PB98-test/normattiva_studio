@@ -21,5 +21,7 @@ ordine: 2265
 # Art. 2144 - ***Mezzadria a tempo determinato***
 
 La mezzadria a tempo determinato non cessa di diritto alla scadenza del termine.
+{: data-comma="1" }
 
 Se non è comunicata disdetta a norma dell'articolo precedente, il contratto s'intende rinnovato di anno in anno.
+{: data-comma="2" }

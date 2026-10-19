@@ -21,9 +21,13 @@ ordine: 209
 # Art. 167 - ***Costituzione del fondo patrimoniale.***
 
 Ciascuno o ambedue i coniugi, per atto pubblico, o un terzo, anche per testamento, possono costituire un fondo patrimoniale, destinando determinati beni, immobili o mobili iscritti in pubblici registri, o titoli di credito, a far fronte ai bisogni della famiglia.
+{: data-comma="1" }
 
 La costituzione del fondo patrimoniale per atto tra vivi, effettuata dal terzo, si perfeziona con l'accettazione dei coniugi. L'accettazione può essere fatta con atto pubblico posteriore.
+{: data-comma="2" }
 
 La costituzione può essere fatta anche durante il matrimonio.
+{: data-comma="3" }
 
 I titoli di credito devono essere vincolati rendendoli nominativi con annotazione del vincolo o in altro modo idoneo.
+{: data-comma="4" }

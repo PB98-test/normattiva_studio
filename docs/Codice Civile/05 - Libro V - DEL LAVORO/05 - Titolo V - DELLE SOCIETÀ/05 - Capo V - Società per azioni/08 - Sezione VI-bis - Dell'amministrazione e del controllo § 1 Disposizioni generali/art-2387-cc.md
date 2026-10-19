@@ -21,5 +21,7 @@ ordine: 2533
 # Art. 2387 - ***Requisiti di onorabilità, professionalità e indipendenza***
 
 Lo statuto può subordinare l'assunzione della carica di amministratore al possesso di speciali requisiti di onorabilità, professionalità ed indipendenza, anche con riferimento ai requisiti al riguardo previsti da codici di comportamento redatti da associazioni di categoria o da società di gestione di mercati regolamentati. Si applica in tal caso l'[articolo 2382](art-2382-cc.md).
+{: data-comma="1" }
 
 Resta salvo quanto previsto da leggi speciali in relazione all'esercizio di particolari attività.
+{: data-comma="2" }

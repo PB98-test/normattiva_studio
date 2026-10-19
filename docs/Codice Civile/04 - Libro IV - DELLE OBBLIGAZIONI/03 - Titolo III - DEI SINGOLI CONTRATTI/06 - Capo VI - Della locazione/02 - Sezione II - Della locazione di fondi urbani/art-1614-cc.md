@@ -21,5 +21,7 @@ ordine: 1729
 # Art. 1614 - ***Morte dell'inquilino***
 
 Nel caso di morte dell'inquilino, se la locazione deve ancora durare per più di un anno ed è stata vietata la sublocazione, gli eredi possono recedere dal contratto entro tre mesi dalla morte.
+{: data-comma="1" }
 
 Il recesso si deve esercitare mediante disdetta comunicata con preavviso non inferiore a tre mesi.
+{: data-comma="2" }

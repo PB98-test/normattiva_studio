@@ -21,7 +21,10 @@ ordine: 47
 # Art. 16 - ***Atto costitutivo e statuto. Modificazioni***
 
 L'atto costitutivo e lo statuto devono contenere la denominazione dell'ente, l'indicazione dello scopo, del patrimonio e della sede, nonchè le norme sull'ordinamento e sull'amministrazione. Devono anche determinare, quando trattasi di associazioni, i diritti e gli obblighi degli associati e le condizioni della loro ammissione; e, quando trattasi di fondazioni, i criteri e le modalità di erogazione delle rendite.
+{: data-comma="1" }
 
 L'atto costitutivo e lo statuto possono inoltre contenere le norme relative alla estinzione dell'ente e alla devoluzione del patrimonio, e, per le fondazioni, anche quelle relative alla loro trasformazione.
+{: data-comma="2" }
 
 COMMA ABROGATO DAL D.P.R. 10 FEBBRAIO 2000, N. 361.
+{: data-comma="3" }

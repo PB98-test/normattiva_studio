@@ -21,5 +21,7 @@ ordine: 1287
 # Art. 1185 - ***Pendenza del termine***
 
 Il creditore non può esigere la prestazione prima della scadenza, salvo che il termine sia stabilito esclusivamente a suo favore.
+{: data-comma="1" }
 
 Tuttavia il debitore non può ripetere ciò che ha pagato anticipatamente, anche se ignorava l'esistenza del termine. In questo caso però egli può ripetere, nei limiti della perdita subita, ciò di cui il creditore si è arricchito per effetto del pagamento anticipato.
+{: data-comma="2" }

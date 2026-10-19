@@ -21,7 +21,10 @@ ordine: 773
 # Art. 686 - ***Alienazione e trasformazione della cosa legata***
 
 L'alienazione che il testatore faccia della cosa legata o di parte di essa, anche mediante vendita con patto di riscatto, revoca il legato riguardo a ciò che è stato alienato, anche quando l'alienazione è annullabile per cause diverse dai vizi del consenso, ovvero la cosa ritorna in proprietà del testatore.
+{: data-comma="1" }
 
 Lo stesso avviene se il testatore ha trasformato la cosa legata in un'altra, in guisa che quella abbia perduto la precedente forma e la primitiva denominazione.
+{: data-comma="2" }
 
 È ammessa la prova di una diversa volontà del testatore.
+{: data-comma="3" }

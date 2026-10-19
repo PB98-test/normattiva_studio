@@ -21,5 +21,7 @@ ordine: 2414
 # Art. 2292 - ***Ragione sociale***
 
 La società in nome collettivo agisce sotto una ragione sociale costituita dal nome di uno o più soci con l'indicazione del rapporto sociale.
+{: data-comma="1" }
 
 La società può conservare nella ragione sociale il nome del socio receduto o defunto, se il socio receduto o gli eredi del socio defunto vi consentono.
+{: data-comma="2" }

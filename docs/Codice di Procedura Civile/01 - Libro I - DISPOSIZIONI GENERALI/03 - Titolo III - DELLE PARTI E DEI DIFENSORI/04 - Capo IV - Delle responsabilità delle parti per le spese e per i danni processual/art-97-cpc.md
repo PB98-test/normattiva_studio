@@ -21,5 +21,7 @@ ordine: 104
 # Art. 97 - ***Responsabilità di più soccombenti***
 
 Se le parti soccombenti sono più, il giudice condanna ciascuna di esse alle spese e ai danni in proporzione del rispettivo interesse nella causa. Può anche pronunciare condanna solidale di tutte o di alcune tra esse, quando hanno interesse comune.
+{: data-comma="1" }
 
 Se la sentenza non statuisce sulla ripartizione delle spese e dei danni, questa si fa per quote uguali.
+{: data-comma="2" }

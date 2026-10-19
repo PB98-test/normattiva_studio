@@ -21,5 +21,7 @@ ordine: 162
 # Art. 152 - ***Termini legali e termini giudiziari***
 
 I termini per il compimento degli atti del processo sono stabiliti dalla legge; possono essere stabiliti dal giudice anche a pena di decadenza, soltanto se la legge lo permette espressamente.
+{: data-comma="1" }
 
 I termini stabiliti dalla legge sono ordinatori, tranne che la legge stessa li dichiari espressamente perentori.
+{: data-comma="2" }

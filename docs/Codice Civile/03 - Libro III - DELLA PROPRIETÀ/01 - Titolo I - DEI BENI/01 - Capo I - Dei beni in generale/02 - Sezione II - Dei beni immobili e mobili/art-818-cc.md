@@ -21,7 +21,10 @@ ordine: 912
 # Art. 818 - ***Regime delle pertinenze***
 
 Gli atti e i rapporti giuridici che hanno per oggetto la cosa principale comprendono anche le pertinenze, se non è diversamente disposto.
+{: data-comma="1" }
 
 Le pertinenze possono formare oggetto di separati atti o rapporti giuridici.
+{: data-comma="2" }
 
 La cessazione della qualità di pertinenza non è opponibile ai terzi i quali abbiano anteriormente acquistato diritti sulla cosa principale.
+{: data-comma="3" }

@@ -21,5 +21,7 @@ ordine: 152
 # Art. 137 - ***Carcerazione preventiva***
 
 La carcerazione sofferta prima che la sentenza sia divenuta irrevocabile si detrae dalla durata complessiva della pena temporanea detentiva o dall'ammontare della pena pecuniaria.
+{: data-comma="1" }
 
 La carcerazione preventiva è considerata, agli effetti della detrazione, come reclusione od arresto.
+{: data-comma="2" }

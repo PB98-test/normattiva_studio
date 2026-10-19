@@ -21,7 +21,10 @@ ordine: 244
 # Art. 221 - ***Modo di proposizione e contenuto della querela***
 
 La querela di falso può proporsi tanto in via principale quanto in corso di causa in qualunque stato e grado di giudizio, finchè la verità del documento non sia stata accertata con sentenza passata in giudicato.
+{: data-comma="1" }
 
 La querela deve contenere, a pena di nullità, l'indicazione degli elementi e delle prove della falsità, e deve essere proposta personalmente dalla parte oppure a mezzo di procuratore speciale, con atto di citazione o con dichiarazione da unirsi al verbale d'udienza.
+{: data-comma="2" }
 
 È obbligatorio l'intervento nel processo del pubblico ministero.
+{: data-comma="3" }

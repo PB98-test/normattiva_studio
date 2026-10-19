@@ -14,7 +14,7 @@ capo_label: "DISPOSIZIONI RELATIVE AL DIBATTIMENTO"
 sezione: null
 sezione_label: null
 rubrica: "Ricognizione in dibattimento delle persone che collaborano con la giustizia"
-dataVigenza: "20260925"
+dataVigenza: "20261016"
 ordine: 191
 ---
 
@@ -24,8 +24,8 @@ ordine: 191
 
 ----------------
 
-<small>*AGGIORNAMENTO (27)* La L. 7 gennaio 1998, n. 11 ha disposto (con l'[art. 6](../03%20-%20Capo%20III%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20POLIZIA%20GIUDIZIARIA/art-6-dlgs271-89.md), comma 1) che la suddetta modifica ha efficacia dal 31 dicembre 2000.</small>
+<small>*AGGIORNAMENTO (27)* La L. 7 gennaio 1998, n. 11 ha disposto (con l'art. 6, comma 1) che la suddetta modifica ha efficacia dal 31 dicembre 2000.</small>
 
 ----------------
 
-<small>*AGGIORNAMENTO (33)* La L. 7 gennaio 1998, n. 11, come modificata dal D.L. 24 novembre 2000, n. 341, convertito con modificazioni dalla L. 19 gennaio 2001, n. 4, ha disposto (con l'[art. 6](../03%20-%20Capo%20III%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20POLIZIA%20GIUDIZIARIA/art-6-dlgs271-89.md), comma 1) che le modifiche dalla stessa introdotte hanno efficacia dal 31 dicembre 2002.</small>
+<small>*AGGIORNAMENTO (33)* La L. 7 gennaio 1998, n. 11, come modificata dal D.L. 24 novembre 2000, n. 341, convertito con modificazioni dalla L. 19 gennaio 2001, n. 4, ha disposto (con l'art. 6, comma 1) che le modifiche dalla stessa introdotte hanno efficacia dal 31 dicembre 2002.</small>

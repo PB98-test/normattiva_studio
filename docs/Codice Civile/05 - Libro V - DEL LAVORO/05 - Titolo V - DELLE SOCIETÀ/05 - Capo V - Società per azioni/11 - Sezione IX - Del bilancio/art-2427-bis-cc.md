@@ -14,7 +14,7 @@ capo_label: "Società per azioni"
 sezione: "IX"
 sezione_label: "Del bilancio"
 rubrica: "Informazioni relative al fair value degli strumenti finanziari"
-dataVigenza: "20260930"
+dataVigenza: "20261016"
 ordine: 2621
 ---
 
@@ -35,4 +35,4 @@ ordine: 2621
 
 5\. COMMA ABROGATO DAL D.LGS. 3 NOVEMBRE 2008, N. 173.
 
-[^agg-246]: *AGGIORNAMENTO (246)* Il D.Lgs. 18 agosto 2015, n. 139 ha disposto (con l'[art. 12](../../../../01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/02%20-%20Titolo%20II%20-%20DELLE%20PERSONE%20GIURIDICHE/01%20-%20Capo%20I%20-%20Disposizioni%20generali/art-12-cc.md), comma 1) che le presenti modifiche si applicano ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
+[^agg-246]: *AGGIORNAMENTO (246)* Il D.Lgs. 18 agosto 2015, n. 139 ha disposto (con l'art. 12, comma 1) che le presenti modifiche si applicano ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.

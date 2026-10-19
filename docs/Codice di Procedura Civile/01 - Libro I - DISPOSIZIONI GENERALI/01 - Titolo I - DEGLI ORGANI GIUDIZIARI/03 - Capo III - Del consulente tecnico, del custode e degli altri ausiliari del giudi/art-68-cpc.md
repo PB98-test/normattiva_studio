@@ -21,7 +21,10 @@ ordine: 75
 # Art. 68 - ***Altri ausiliari***
 
 Nei casi previsti dalla legge o quando ne sorge necessità, il giudice, il cancelliere o l'ufficiale giudiziario si può fare assistere da esperti in una determinata arte o professione e, in generale, da persona idonea al compimento di atti che egli non è in grado di compiere da sè solo.
+{: data-comma="1" }
 
 Il giudice può commettere a un notaio il compimento di determinati atti nei casi previsti dalla legge.
+{: data-comma="2" }
 
 Il giudice può sempre richiedere l'assistenza della forza pubblica.
+{: data-comma="3" }

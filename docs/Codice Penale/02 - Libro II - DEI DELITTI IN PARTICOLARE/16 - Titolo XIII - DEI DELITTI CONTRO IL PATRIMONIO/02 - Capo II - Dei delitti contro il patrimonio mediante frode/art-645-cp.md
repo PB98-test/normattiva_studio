@@ -21,5 +21,7 @@ ordine: 895
 # Art. 645 - ***Frode in emigrazione***
 
 Chiunque, con mendaci asserzioni o con false notizie, eccitando taluno ad emigrare, o avviandolo a paese diverso da quello nel quale voleva recarsi, si fa consegnare o promettere, per sè o per altri, denaro o altra utilità, come compenso per farlo emigrare, è punito con la reclusione da uno a cinque anni e con la multa da lire tremila a diecimila.
+{: data-comma="1" }
 
 La pena è aumentata se il fatto è commesso a danno di due o più persone.
+{: data-comma="2" }

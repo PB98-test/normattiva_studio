@@ -21,5 +21,7 @@ ordine: 1987
 # Art. 1866 - ***Esercizio del riscatto***
 
 Il riscatto della rendita semplice e della rendita fondiaria si effettua mediante il pagamento della somma che risulta dalla capitalizzazione della rendita annua sulla base dell'interesse legale.
+{: data-comma="1" }
 
 Le modalità del riscatto sono stabilite dalle leggi speciali.
+{: data-comma="2" }

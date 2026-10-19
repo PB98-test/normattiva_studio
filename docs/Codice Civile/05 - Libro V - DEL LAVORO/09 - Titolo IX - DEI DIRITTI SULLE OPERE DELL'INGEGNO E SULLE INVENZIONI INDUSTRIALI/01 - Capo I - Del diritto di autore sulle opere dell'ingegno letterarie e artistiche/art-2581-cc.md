@@ -21,5 +21,7 @@ ordine: 2872
 # Art. 2581 - ***Trasferimento dei diritti di utilizzazione***
 
 I diritti di utilizzazione sono trasferibili.
+{: data-comma="1" }
 
 Il trasferimento per atto tra vivi deve essere provato per iscritto.
+{: data-comma="2" }

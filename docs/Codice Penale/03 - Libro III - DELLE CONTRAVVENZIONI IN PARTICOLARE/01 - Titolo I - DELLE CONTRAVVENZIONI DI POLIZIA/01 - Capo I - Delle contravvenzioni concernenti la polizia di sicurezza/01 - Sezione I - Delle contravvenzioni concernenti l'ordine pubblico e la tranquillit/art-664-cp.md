@@ -21,5 +21,7 @@ ordine: 920
 # Art. 664 - ***Distruzione o deterioramento di affissioni***
 
 Chiunque stacca, lacera o rende comunque inservibili o illeggibili scritti o disegni, fatti affiggere dalle Autorità civili o da quelle ecclesiastiche, è punito con la sanzione amministrativa pecuniaria da lire centocinquantamila a novecentomila.
+{: data-comma="1" }
 
 Se si tratta di scritti o disegni fatti affiggere da privati, nei luoghi e nei modi consentiti dalla legge o dall'Autorità, si applica la sanzione amministrativa pecuniaria da lire centomila a seicentomila.
+{: data-comma="2" }

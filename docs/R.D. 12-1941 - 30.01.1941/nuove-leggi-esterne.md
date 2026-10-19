@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da R.D. 12-1941 - 30.01.1941 ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di R.D. 12-1941 - 30.01.1941 — 107 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di R.D. 12-1941 - 30.01.1941 — 106 leggi trovate)*
 
 - [legge 24 dicembre 1925, n. 2260](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-12-24;2260)
 - [L. 21 novembre 1991, n. 374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374)
@@ -35,7 +35,6 @@ search:
 - [legge 22 dicembre 1973, n. 884](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-12-22;884)
 - [articolo 1, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:1989-09-25;327)
 - [legge 24 novembre 1989, n. 380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-11-24;380)
-- [D.L. 29 dicembre 2009, n. 193](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2009-12-29;193)
 - [L. 22 febbraio 2010, n. 24](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-02-22;24)
 - [legge 4 maggio 1983, n. 184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-05-04;184)
 - [decreto legislativo 25 luglio 1998, n. 286](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1998-07-25;286)

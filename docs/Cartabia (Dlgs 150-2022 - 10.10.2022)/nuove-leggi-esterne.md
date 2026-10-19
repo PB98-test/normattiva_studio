@@ -5,9 +5,8 @@ search:
 
 # Leggi citate da Cartabia (Dlgs 150-2022 - 10.10.2022) ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Cartabia (Dlgs 150-2022 - 10.10.2022) — 44 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Cartabia (Dlgs 150-2022 - 10.10.2022) — 39 leggi trovate)*
 
-- [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const)
 - [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400)
 - [regio decreto 19 ottobre 1930, n. 1398](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regiodecreto:1930-10-19;1398)
 - [regio decreto 20 febbraio 1941, n. 303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regiodecreto:1941-02-20;303)
@@ -19,7 +18,6 @@ search:
 - [articolo 14 della legge 24 novembre 1999, n. 468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-11-24;468)
 - [articolo 11 della legge 29 settembre 2000, n. 300](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-09-29;300)
 - [legge 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244)
-- [decreto-legge 18 ottobre 2012, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2012-10-18;179)
 - [legge 17 dicembre 2012, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-17;221)
 - [legge 28 aprile 2014, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-04-28;67)
 - [decreto legislativo 2 ottobre 2018, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2018-10-02;121)
@@ -34,7 +32,6 @@ search:
 - [articoli 5, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2000-03-10;74)
 - [legge n. 689 del 1981](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;689)
 - [articolo 7, comma 1, lettera b), del decreto legislativo 20 febbraio 2006, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2006-02-20;106)
-- [articolo 52 del decreto legislativo 30 giugno 2003, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2003-06-30;196)
 - [articolo 299 del decreto legislativo 30 maggio 2002, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2002-05-30;113)
 - [articolo 1, comma 2, della legge 20 maggio 2016, n. 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-05-20;76)
 - [legge 27 maggio 1991, n. 176](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-05-27;176)
@@ -48,6 +45,4 @@ search:
 - [art. 9 del decreto legislativo 19 marzo 2024, n. 31](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2024-03-19;31)
 - [d.lgs.n. 31 del 2024](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2024;31)
 - [art. 85, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2022;150)
-- [decreto del Ministro della giustizia 21 febbraio 2011, n. 44](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto:2011-02-21;44)
-- [commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2020-10-28;137)
 - [legge 18 dicembre 2020, n. 176](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-12-18;176)

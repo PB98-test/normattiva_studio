@@ -21,7 +21,10 @@ ordine: 1456
 # Art. 1354 - ***Condizioni illecite o impossibili***
 
 È nullo il contratto al quale è apposta una condizione, sospensiva o risolutiva, contraria a norme imperative, all'ordine pubblico o al buon costume.
+{: data-comma="1" }
 
 La condizione impossibile rende nullo il contratto se è sospensiva; se è risolutiva, si ha come non apposta.
+{: data-comma="2" }
 
 Se la condizione illecita o impossibile è apposta a un patto singolo del contratto, si osservano, riguardo all'efficacia del patto, le disposizioni dei commi precedenti, fermo quanto è disposto dall'[art. 1419](../11%20-%20Capo%20XI%20-%20Della%20nullità%20del%20contratto/art-1419-cc.md).
+{: data-comma="3" }

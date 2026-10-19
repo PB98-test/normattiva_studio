@@ -21,5 +21,7 @@ ordine: 1562
 # Art. 1460 - ***Eccezione d'inadempimento***
 
 Nei contratti con prestazioni corrispettive, ciascuno dei contraenti può rifiutarsi di adempiere la sua obbligazione, se l'altro non adempie o non offre di adempiere contemporaneamente la propria, salvo che termini diversi per l'adempimento siano stati stabiliti dalle parti o risultino dalla natura del contratto.
+{: data-comma="1" }
 
 Tuttavia non può rifiutarsi l'esecuzione se, avuto riguardo alle circostanze, il rifiuto è contrario alla buona fede.
+{: data-comma="2" }

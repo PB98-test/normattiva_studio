@@ -21,7 +21,10 @@ ordine: 797
 # Art. 643 - ***Notificazione del decreto***
 
 L'originale del ricorso e del decreto rimane depositato in cancelleria.
+{: data-comma="1" }
 
 Il ricorso e il decreto sono notificati per copia autentica a norma degli articoli 137 e seguenti.
+{: data-comma="2" }
 
 La notificazione determina la pendenza della lite.
+{: data-comma="3" }

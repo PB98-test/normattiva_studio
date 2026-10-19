@@ -21,5 +21,7 @@ ordine: 753
 # Art. 666 - ***Trasmissione all'erede della facoltà di scelta***
 
 Tanto nel legato di genere quanto in quello alternativo, se l'onerato o il legatario a cui compete la scelta non ha potuto farla, la facoltà di scegliere si trasmette al suo erede.
+{: data-comma="1" }
 
 La scelta fatta è irretrattabile.
+{: data-comma="2" }

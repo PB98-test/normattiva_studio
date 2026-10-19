@@ -21,5 +21,7 @@ ordine: 255
 # Art. 232 - ***Mancata risposta***
 
 Se la parte non si presenta o rifiuta di rispondere senza giustificato motivo, il collegio, valutato ogni altro elemento di prova, può ritenere come ammessi i fatti dedotti nell'interrogatorio.
+{: data-comma="1" }
 
 Il giudice istruttore, che riconosce giustificata la mancata presentazione della parte per rispondere all'interrogatorio, dispone per l'assunzione di esso anche fuori della sede giudiziaria.
+{: data-comma="2" }

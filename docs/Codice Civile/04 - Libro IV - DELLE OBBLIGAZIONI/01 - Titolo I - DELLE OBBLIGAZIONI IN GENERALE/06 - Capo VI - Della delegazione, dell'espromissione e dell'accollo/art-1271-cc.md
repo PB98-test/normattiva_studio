@@ -21,7 +21,10 @@ ordine: 1373
 # Art. 1271 - ***Eccezioni opponibili dal delegato***
 
 Il delegato può opporre al delegatario le eccezioni relative ai suoi rapporti con questo.
+{: data-comma="1" }
 
 Se le parti non hanno diversamente pattuito, il delegato non può opporre al delegatario, benchè questi ne fosse stato a conoscenza, le eccezioni che avrebbe potuto opporre al delegante, salvo che sia nullo il rapporto tra delegante e delegatario.
+{: data-comma="2" }
 
 Il delegato non può neppure opporre le eccezioni relative al rapporto tra il delegante e il delegatario, se ad esso le parti non hanno fatto espresso riferimento.
+{: data-comma="3" }

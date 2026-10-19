@@ -21,5 +21,7 @@ ordine: 2247
 # Art. 2126 - ***Prestazione di fatto con violazione di legge***
 
 La nullità o l'annullamento del contratto di lavoro non produce effetto per il periodo in cui il rapporto ha avuto esecuzione, salvo che la nullità derivi dall'illiceità dell'oggetto o della causa.
+{: data-comma="1" }
 
 Se il lavoro è stato prestato con violazione di norme poste a tutela del prestatore di lavoro, questi ha in ogni caso diritto alla retribuzione.
+{: data-comma="2" }

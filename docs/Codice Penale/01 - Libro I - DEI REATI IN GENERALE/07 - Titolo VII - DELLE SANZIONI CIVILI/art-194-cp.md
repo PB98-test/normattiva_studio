@@ -21,7 +21,10 @@ ordine: 215
 # Art. 194 - ***Atti a titolo oneroso o gratuito compiuti dal colpevole prima del reato***
 
 Gli atti a titolo gratuito, compiuti dal colpevole prima del reato, non sono efficaci rispetto ai crediti indicati nell'[articolo 189](art-189-cp.md), qualora si provi che furono da lui compiuti in frode.
+{: data-comma="1" }
 
 La stessa disposizione si applica agli atti a titolo oneroso eccedenti la semplice amministrazione ovvero la gestione dell'ordinario commercio; nondimeno, per la revoca dell'atto a titolo oneroso, è necessaria la prova anche della mala fede dell'altro contraente.
+{: data-comma="2" }
 
 Le disposizioni di questo articolo non si applicano per gli atti anteriori di un anno al commesso reato.
+{: data-comma="3" }

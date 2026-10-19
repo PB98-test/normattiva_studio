@@ -21,5 +21,7 @@ ordine: 1295
 # Art. 1193 - ***Imputazione del pagamento***
 
 Chi ha più debiti della medesima specie verso la stessa persona può dichiarare, quando paga, quale debito intende soddisfare.
+{: data-comma="1" }
 
 In mancanza di tale dichiarazione, il pagamento deve essere imputato al debito scaduto; tra più debiti scaduti, a quello meno garantito; tra più debiti ugualmente garantiti, al più oneroso per il debitore; tra più debiti ugualmente onerosi, al più antico. Se tali criteri non soccorrono, l'imputazione è fatta proporzionalmente ai vari debiti.
+{: data-comma="2" }

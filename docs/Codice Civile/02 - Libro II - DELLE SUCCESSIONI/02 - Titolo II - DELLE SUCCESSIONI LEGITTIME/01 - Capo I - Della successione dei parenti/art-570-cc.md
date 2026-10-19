@@ -21,5 +21,7 @@ ordine: 657
 # Art. 570 - ***Successione dei fratelli e delle sorelle***
 
 A colui che muore senza lasciare prole, nè genitori, nè altri ascendenti, succedono i fratelli e le sorelle in parti uguali.
+{: data-comma="1" }
 
 I fratelli e le sorelle unilaterali conseguono però la metà della quota che conseguono i germani.
+{: data-comma="2" }

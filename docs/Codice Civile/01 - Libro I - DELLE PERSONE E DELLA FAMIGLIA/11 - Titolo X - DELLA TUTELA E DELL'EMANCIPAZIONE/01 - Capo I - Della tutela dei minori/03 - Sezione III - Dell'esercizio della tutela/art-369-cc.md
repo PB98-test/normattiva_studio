@@ -21,5 +21,7 @@ ordine: 454
 # Art. 369 - ***Deposito di titoli e valori***
 
 Il tutore deve depositare il denaro, i titoli di credito al portatore e gli oggetti preziosi esistenti nel patrimonio del minore presso un istituto di credito designato dal giudice tutelare, salvo che questi disponga diversamente per la loro custodia.
+{: data-comma="1" }
 
 Non è tenuto a depositare le somme occorrenti per le spese urgenti di mantenimento e di educazione del minore e per le spese di amministrazione.
+{: data-comma="2" }

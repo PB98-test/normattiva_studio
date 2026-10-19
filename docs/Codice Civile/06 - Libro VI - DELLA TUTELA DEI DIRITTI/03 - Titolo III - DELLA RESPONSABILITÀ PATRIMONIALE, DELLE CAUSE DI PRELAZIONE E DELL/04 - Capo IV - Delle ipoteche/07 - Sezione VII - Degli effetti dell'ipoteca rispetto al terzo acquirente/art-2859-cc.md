@@ -21,5 +21,7 @@ ordine: 3169
 # Art. 2859 - ***Eccezioni opponibili dal terzo acquirente***
 
 Se la domanda diretta a ottenere la condanna del debitore è posteriore alla trascrizione del titolo del terzo acquirente, questi, ove non abbia preso parte al giudizio, può opporre al creditore procedente tutte le eccezioni non opposte dal debitore e quelle altresì che spetterebbero a questo dopo la condanna.
+{: data-comma="1" }
 
 Le eccezioni suddette però non sospendono il corso dei termini stabiliti per la liberazione del bene dalle ipoteche.
+{: data-comma="2" }

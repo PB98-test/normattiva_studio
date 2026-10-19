@@ -21,9 +21,13 @@ ordine: 2283
 # Art. 2162 - ***Efficacia probatoria del libretto colonico***
 
 Le annotazioni eseguite sui due esemplari del libretto colonico fanno prova a favore e contro ciascuno dei contraenti, se il mezzadro non ha reclamato entro novanta giorni dalla consegna del libretto fattagli dal concedente.
+{: data-comma="1" }
 
 Se una delle parti non presenta il proprio libretto, fa fede quello presentato.
+{: data-comma="2" }
 
 In ogni caso le annotazioni delle partite fanno prova contro chi le ha scritte.
+{: data-comma="3" }
 
 Con la sottoscrizione delle parti alla chiusura annuale del conto colonico, questo s'intende approvato. Le risultanze del conto possono essere impugnate soltanto per errori materiali, omissioni, falsità e duplicazioni di partite entro novanta giorni dalla consegna del libretto al mezzadro.
+{: data-comma="4" }

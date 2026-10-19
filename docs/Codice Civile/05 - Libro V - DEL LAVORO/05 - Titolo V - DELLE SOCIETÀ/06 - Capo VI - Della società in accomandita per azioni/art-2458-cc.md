@@ -21,5 +21,7 @@ ordine: 2675
 # Art. 2458 - ***Cessazione dall'ufficio di tutti i soci amministratori***
 
 In caso di cessazione dall'ufficio di tutti gli amministratori, la società si scioglie se nel termine di centottanta giorni non si è provveduto alla loro sostituzione e i sostituti non hanno accettato la carica.
+{: data-comma="1" }
 
 Per questo periodo il collegio sindacale nomina un amministratore provvisorio per il compimento degli atti di ordinaria amministrazione. L'amministratore provvisorio non assume la qualità di socio accomandatario.
+{: data-comma="2" }

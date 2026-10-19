@@ -21,5 +21,7 @@ ordine: 1059
 # Art. 964 - ***Imposte e altri pesi***
 
 Le imposte e gli altri pesi che gravano sul fondo sono a carico dell'enfiteuta, salve le disposizioni delle leggi speciali.
+{: data-comma="1" }
 
 Se in virtù del titolo costitutivo sono a carico del concedente, tale obbligo non può eccedere l'ammontare del canone.
+{: data-comma="2" }

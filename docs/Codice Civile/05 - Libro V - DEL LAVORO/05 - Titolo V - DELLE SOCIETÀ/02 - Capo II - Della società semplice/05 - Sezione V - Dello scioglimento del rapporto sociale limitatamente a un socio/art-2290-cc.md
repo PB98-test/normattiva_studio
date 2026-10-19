@@ -21,5 +21,7 @@ ordine: 2412
 # Art. 2290 - ***Responsabilità del socio uscente o dei suoi eredi***
 
 Nei casi in cui il rapporto sociale si scioglie limitatamente a un socio, questi o i suoi eredi sono responsabili verso i terzi per le obbligazioni sociali fino al giorno in cui si verifica lo scioglimento.
+{: data-comma="1" }
 
 Lo scioglimento deve essere portato a conoscenza dei terzi con mezzi idonei; in mancanza non è opponibile ai terzi che lo hanno senza colpa ignorato.
+{: data-comma="2" }

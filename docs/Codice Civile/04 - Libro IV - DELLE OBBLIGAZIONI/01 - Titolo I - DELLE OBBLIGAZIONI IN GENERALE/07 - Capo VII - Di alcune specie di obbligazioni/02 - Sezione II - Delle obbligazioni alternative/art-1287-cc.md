@@ -21,7 +21,10 @@ ordine: 1389
 # Art. 1287 - ***Decadenza dalla facoltà di scelta***
 
 Quando il debitore, condannato alternativamente a due prestazioni, non ne esegue alcuna nel termine assegnatogli dal giudice, la scelta spetta al creditore.
+{: data-comma="1" }
 
 Se la facoltà di scelta spetta al creditore e questi non l'esercita nel termine stabilito o in quello fissatogli dal debitore, la scelta passa a quest'ultimo.
+{: data-comma="2" }
 
 Se la scelta è rimessa a un terzo e questi non la fa nel termine assegnatogli, essa è fatta dal giudice.
+{: data-comma="3" }

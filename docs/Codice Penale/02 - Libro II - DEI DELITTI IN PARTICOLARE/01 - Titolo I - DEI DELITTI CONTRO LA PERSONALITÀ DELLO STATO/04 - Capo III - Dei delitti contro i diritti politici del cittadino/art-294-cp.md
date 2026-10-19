@@ -21,5 +21,7 @@ ordine: 343
 # Art. 294 - ***Attentati contro i diritti politici del cittadino***
 
 Chiunque con violenza, minaccia o inganno impedisce in tutto o in parte l'esercizio di un diritto politico, ovvero determina taluno a esercitarlo in senso difforme dalla sua volontà, è punito con la reclusione da uno a cinque anni.
+{: data-comma="1" }
 
 La pena è della reclusione da due a sei anni se l'inganno è posto in essere mediante l'impiego di sistemi di intelligenza artificiale.
+{: data-comma="2" }

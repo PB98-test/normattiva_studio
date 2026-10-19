@@ -21,7 +21,10 @@ ordine: 994
 # Art. 899 - ***Comunione di alberi***
 
 Gli alberi sorgenti nella siepe comune sono comuni.
+{: data-comma="1" }
 
 Gli alberi sorgenti sulla linea di confine si presumono comuni, salvo titolo o prova in contrario.
+{: data-comma="2" }
 
 Gli alberi che servono di limite o che si trovano nella siepe comune non possono essere tagliati, se non di comune consenso o dopo che l'autorità giudiziaria abbia riconosciuto la necessità o la convenienza del taglio.
+{: data-comma="3" }

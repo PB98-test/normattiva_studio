@@ -21,5 +21,7 @@ ordine: 2200
 # Art. 2079 - ***Rapporti di associazione agraria e di affitto a coltivatore diretto***
 
 La disciplina del contratto collettivo di lavoro si applica anche ai rapporti di associazione agraria regolati dal capo II del titolo II ed a quelli di affitto a coltivatore diretto del fondo.
+{: data-comma="1" }
 
 Tuttavia in questi rapporti il contratto collettivo non deve contenere norme relative al salario, all'orario di lavoro, alle ferie, al periodo di prova, od altre che contrastino con la natura dei rapporti medesimi.
+{: data-comma="2" }

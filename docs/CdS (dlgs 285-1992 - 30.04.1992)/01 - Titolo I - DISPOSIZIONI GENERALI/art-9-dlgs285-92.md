@@ -14,7 +14,7 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Competizioni sportive su strada"
-dataVigenza: "20260914"
+dataVigenza: "20261012"
 ordine: 9
 ---
 
@@ -50,32 +50,32 @@ ordine: 9
 
 9\. Chiunque non ottemperi agli obblighi, divieti o limitazioni a cui il presente articolo subordina l'effettuazione di una competizione sportiva, e risultanti dalla relativa autorizzazione, è soggetto alla sanzione amministrativa del pagamento di una somma da € 87 a € 344, se si tratta di competizione sportiva atletica, ciclistica o con animali, ovvero di una somma da € 173 a € 694, se si tratta di competizione sportiva con veicoli a motore. In caso di violazione del provvedimento di sospensione temporanea della circolazione di cui al comma 7-bis, si applicano le sanzioni amministrative previste dall'[articolo 6](art-6-dlgs285-92.md), comma 12. [^agg-19] [^agg-29] [^agg-43] [^agg-52] [^agg-64] [^agg-80] [^agg-89] [^agg-101] [^agg-114] [^agg-124] [^agg-133] [^agg-145] [^agg-163]
 
-[^agg-19]: *AGGIORNAMENTO (19)* Il Decreto 20 dicembre 1996 (in G.U. 28/12/1996, n. 303) ha disposto (con l'[art. 1](art-1-dlgs285-92.md), comma 1) che le presenti modifiche avranno effetto a decorrere dal 1 gennaio 1997.
+[^agg-19]: *AGGIORNAMENTO (19)* Il Decreto 20 dicembre 1996 (in G.U. 28/12/1996, n. 303) ha disposto (con l'art. 1, comma 1) che le presenti modifiche avranno effetto a decorrere dal 1 gennaio 1997.
 
-[^agg-29]: *AGGIORNAMENTO (29)* Il Decreto 22 dicembre 1998 (in G.U. 28/12/1998, n. 301) ha disposto (con l'[art. 1](art-1-dlgs285-92.md), comma 1) che le presenti modifiche avranno effetto a decorrere dal 1 gennaio 1999.
+[^agg-29]: *AGGIORNAMENTO (29)* Il Decreto 22 dicembre 1998 (in G.U. 28/12/1998, n. 301) ha disposto (con l'art. 1, comma 1) che le presenti modifiche avranno effetto a decorrere dal 1 gennaio 1999.
 
-[^agg-43]: *AGGIORNAMENTO (43)* Il Decreto 29 dicembre 2000 (in G.U. 30/12/2000, n. 303) ha disposto (con l'[art. 1](art-1-dlgs285-92.md), comma 1) che le presenti modifiche avranno effetto a decorrere dal 1 gennaio 2001.
+[^agg-43]: *AGGIORNAMENTO (43)* Il Decreto 29 dicembre 2000 (in G.U. 30/12/2000, n. 303) ha disposto (con l'art. 1, comma 1) che le presenti modifiche avranno effetto a decorrere dal 1 gennaio 2001.
 
-[^agg-52]: *AGGIORNAMENTO (52)* Il Decreto 24 dicembre 2002 (in G.U. 30/12/2002, n. 304) ha disposto (con l'[art. 1](art-1-dlgs285-92.md), comma 1) che le presenti modifiche avranno effetto a decorrere dal 1 gennaio 2003.
+[^agg-52]: *AGGIORNAMENTO (52)* Il Decreto 24 dicembre 2002 (in G.U. 30/12/2002, n. 304) ha disposto (con l'art. 1, comma 1) che le presenti modifiche avranno effetto a decorrere dal 1 gennaio 2003.
 
-[^agg-49]: *AGGIORNAMENTO (49)* Il D.L. 20 giugno 2002, n. 121, convertito con modificazioni dalla L. 1 agosto 2002, n. 168, nel modificare l'[art. 2](art-2-dlgs285-92.md), comma 1 del D.Lgs. 15 gennaio 2002, n. 9, ha conseguentemente disposto (con l'[art. 1](art-1-dlgs285-92.md), comma 1) che le presenti modifiche hanno effetto a decorrere dal 07/08/2002.
+[^agg-49]: *AGGIORNAMENTO (49)* Il D.L. 20 giugno 2002, n. 121, convertito con modificazioni dalla L. 1 agosto 2002, n. 168, nel modificare l'[art. 2](art-2-dlgs285-92.md), comma 1 del D.Lgs. 15 gennaio 2002, n. 9, ha conseguentemente disposto (con l'art. 1, comma 1) che le presenti modifiche hanno effetto a decorrere dal 07/08/2002.
 
-[^agg-64]: *AGGIORNAMENTO (64)* Il Decreto 22 dicembre 2004 (in G.U. 30/12/2004, n. 305) ha disposto (con l'[art. 1](art-1-dlgs285-92.md), comma 2) che le presenti modifiche avranno effetto a decorrere dal 1 gennaio 2005.
+[^agg-64]: *AGGIORNAMENTO (64)* Il Decreto 22 dicembre 2004 (in G.U. 30/12/2004, n. 305) ha disposto (con l'art. 1, comma 2) che le presenti modifiche avranno effetto a decorrere dal 1 gennaio 2005.
 
-[^agg-80]: *AGGIORNAMENTO (80)* Il Decreto 29 dicembre 2006 (in G.U. 30/12/2006, n. 302) ha disposto (con l'[art. 1](art-1-dlgs285-92.md), comma 2) che le presenti modifiche avranno effetto a decorrere dal 1 gennaio 2007.
+[^agg-80]: *AGGIORNAMENTO (80)* Il Decreto 29 dicembre 2006 (in G.U. 30/12/2006, n. 302) ha disposto (con l'art. 1, comma 2) che le presenti modifiche avranno effetto a decorrere dal 1 gennaio 2007.
 
-[^agg-89]: *AGGIORNAMENTO (89)* Il Decreto 17 dicembre 2008 (in G.U. 30/12/2008, n. 303) ha disposto (con l'[art. 1](art-1-dlgs285-92.md), comma 2) che le presenti modifiche avranno effetto a decorrere dal 1 gennaio 2009.
+[^agg-89]: *AGGIORNAMENTO (89)* Il Decreto 17 dicembre 2008 (in G.U. 30/12/2008, n. 303) ha disposto (con l'art. 1, comma 2) che le presenti modifiche avranno effetto a decorrere dal 1 gennaio 2009.
 
-[^agg-101]: *AGGIORNAMENTO (101)* Il Decreto 22 dicembre 2010 (in G.U. 31/12/2010 n. 305) ha disposto (con l'[art. 1](art-1-dlgs285-92.md), comma 2) che le presenti modifiche avranno effetto a decorrere dal 1 gennaio 2011.
+[^agg-101]: *AGGIORNAMENTO (101)* Il Decreto 22 dicembre 2010 (in G.U. 31/12/2010 n. 305) ha disposto (con l'art. 1, comma 2) che le presenti modifiche avranno effetto a decorrere dal 1 gennaio 2011.
 
-[^agg-114]: *AGGIORNAMENTO (114)* Il Decreto 19 dicembre 2012 (in G.U. 31/12/2012 n. 303) ha disposto (con l'[art. 1](art-1-dlgs285-92.md), comma 2) che le presenti modifiche avranno effetto a decorrere dal 1 gennaio 2013.
+[^agg-114]: *AGGIORNAMENTO (114)* Il Decreto 19 dicembre 2012 (in G.U. 31/12/2012 n. 303) ha disposto (con l'art. 1, comma 2) che le presenti modifiche avranno effetto a decorrere dal 1 gennaio 2013.
 
-[^agg-124]: *AGGIORNAMENTO (124)* Il Decreto 16 dicembre 2014 (in G.U. 31/12/2014, n. 302) ha disposto (con l'[art. 1](art-1-dlgs285-92.md), comma 2) che le presenti modifiche avranno effetto a decorrere dal 1 gennaio 2015.
+[^agg-124]: *AGGIORNAMENTO (124)* Il Decreto 16 dicembre 2014 (in G.U. 31/12/2014, n. 302) ha disposto (con l'art. 1, comma 2) che le presenti modifiche avranno effetto a decorrere dal 1 gennaio 2015.
 
-[^agg-133]: *AGGIORNAMENTO (133)* Il Decreto 20 dicembre 2016 (in G.U. 30/12/2016, n. 304) ha disposto (con l'[art. 1](art-1-dlgs285-92.md), comma 1) che le presenti modifiche avranno effetto a decorrere dal 1 gennaio 2017.
+[^agg-133]: *AGGIORNAMENTO (133)* Il Decreto 20 dicembre 2016 (in G.U. 30/12/2016, n. 304) ha disposto (con l'art. 1, comma 1) che le presenti modifiche avranno effetto a decorrere dal 1 gennaio 2017.
 
-[^agg-145]: *AGGIORNAMENTO (145)* Il Decreto 27 dicembre 2018 (in G.U. 29/12/2018, n. 301) ha disposto (con l'[art. 3](art-3-dlgs285-92.md), comma 1) che le presenti modifiche avranno effetto a decorrere dal 1° gennaio 2019.
+[^agg-145]: *AGGIORNAMENTO (145)* Il Decreto 27 dicembre 2018 (in G.U. 29/12/2018, n. 301) ha disposto (con l'art. 3, comma 1) che le presenti modifiche avranno effetto a decorrere dal 1° gennaio 2019.
 
-[^agg-163]: *AGGIORNAMENTO (163)* Il Decreto 31 dicembre 2020 (in G.U. 31/12/2020, n. 323) ha disposto (con l'[art. 3](art-3-dlgs285-92.md), comma 1) che le presenti modifiche avranno effetto a decorrere dal 1° gennaio 2021.
+[^agg-163]: *AGGIORNAMENTO (163)* Il Decreto 31 dicembre 2020 (in G.U. 31/12/2020, n. 323) ha disposto (con l'art. 3, comma 1) che le presenti modifiche avranno effetto a decorrere dal 1° gennaio 2021.
 
-[^agg-187]: *AGGIORNAMENTO (187)* Il D.Lgs. 22 novembre 2023, n. 184 ha disposto (con l'[art. 4](art-4-dlgs285-92.md), comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
+[^agg-187]: *AGGIORNAMENTO (187)* Il D.Lgs. 22 novembre 2023, n. 184 ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".

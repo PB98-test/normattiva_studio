@@ -21,5 +21,7 @@ ordine: 297
 # Art. 273 - ***Riunione di procedimenti relativi alla stessa causa***
 
 Se più procedimenti relativi alla stessa causa pendono davanti allo stesso giudice, questi, anche d'ufficio, ne ordina la riunione.
+{: data-comma="1" }
 
 Se il giudice istruttore o il presidente della sezione ha notizia che per la stessa causa pende procedimento davanti ad altro giudice o ad altra sezione dello stesso tribunale, ne riferisce al presidente, il quale, sentite le parti, ordina con decreto la riunione, determinando la sezione o designando il giudice davanti al quale il procedimento deve proseguire.
+{: data-comma="2" }

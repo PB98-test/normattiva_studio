@@ -21,5 +21,7 @@ ordine: 1601
 # Art. 1494 - ***Risarcimento del danno***
 
 In ogni caso il venditore è tenuto verso il compratore al risarcimento del danno, se non prova di avere ignorato senza colpa i vizi della cosa.
+{: data-comma="1" }
 
 Il venditore deve altresì risarcire al compratore i danni derivati dai vizi della cosa.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 2068
 # Art. 1947 - ***Beneficio della divisione***
 
 Se è stato stipulato il beneficio della divisione, ogni fideiussore che sia convenuto per il pagamento dell'intero debito può esigere che il creditore riduca l'azione alla parte da lui dovuta.
+{: data-comma="1" }
 
 Se alcuno dei fideiussori era insolvente al tempo in cui un altro ha fatto valere il beneficio della divisione, questi è obbligato per tale insolvenza in proporzione della sua quota, ma non risponde delle insolvenze sopravvenute.
+{: data-comma="2" }

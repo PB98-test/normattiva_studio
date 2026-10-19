@@ -21,5 +21,7 @@ ordine: 2794
 # Art. 2520 - ***Leggi speciali***
 
 Le cooperative regolate dalle leggi speciali sono soggette alle disposizioni del presente titolo, in quanto compatibili.
+{: data-comma="1" }
 
 La legge può prevedere la costituzione di cooperative destinate a procurare beni o servizi a soggetti appartenenti a particolari categorie anche di non soci.
+{: data-comma="2" }

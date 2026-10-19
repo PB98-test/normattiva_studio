@@ -21,11 +21,16 @@ ordine: 294
 # Art. 249 - ***Legittimazione all'azione di reclamo dello stato di figlio. Imprescrittibilità***
 
 L'azione per reclamare lo stato di figlio spetta al medesimo.
+{: data-comma="1" }
 
 L'azione è imprescrittibile.
+{: data-comma="2" }
 
 Quando l'azione è proposta nei confronti di persone premorte o minori o altrimenti incapaci, si osservano le disposizioni dell'[articolo 247](art-247-cc.md).
+{: data-comma="3" }
 
 Nel giudizio devono essere chiamati entrambi i genitori.
+{: data-comma="4" }
 
 Si applicano il sesto comma dell'[articolo 244](art-244-cc.md) e il secondo comma dell'[articolo 245](art-245-cc.md).
+{: data-comma="5" }

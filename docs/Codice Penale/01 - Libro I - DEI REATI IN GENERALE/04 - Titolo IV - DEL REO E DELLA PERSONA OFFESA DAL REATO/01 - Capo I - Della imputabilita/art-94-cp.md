@@ -21,7 +21,10 @@ ordine: 106
 # Art. 94 - ***Ubriachezza abituale***
 
 Quando il reato è commesso in stato di ubriachezza, e questa è abituale, la pena è aumentata.
+{: data-comma="1" }
 
 Agli effetti della legge penale, è considerato ubriaco abituale chi è dedito all'uso di bevande alcooliche e in stato frequente di ubriachezza.
+{: data-comma="2" }
 
 L'aggravamento di pena stabilito nella prima parte di questo articolo si applica anche quando il reato è commesso sotto l'azione di sostanze stupefacenti da chi è dedito all'uso di tali sostanze.
+{: data-comma="3" }

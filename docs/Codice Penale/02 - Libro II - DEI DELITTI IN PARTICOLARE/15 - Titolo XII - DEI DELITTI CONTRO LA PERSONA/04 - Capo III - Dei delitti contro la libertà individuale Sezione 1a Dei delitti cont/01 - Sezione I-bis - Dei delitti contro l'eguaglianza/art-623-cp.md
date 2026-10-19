@@ -21,9 +21,13 @@ ordine: 852
 # Art. 623 - ***Rivelazione di segreti scientifici o commerciali***
 
 Chiunque, venuto a cognizione per ragioni del suo stato o ufficio, o della sua professione o arte, di segreti commerciali o di notizie destinate a rimanere segrete, sopra scoperte o invenzioni scientifiche, li rivela o li impiega a proprio o altrui profitto, è punito con la reclusione fino a due anni.
+{: data-comma="1" }
 
 La stessa pena si applica a chiunque, avendo acquisito in modo abusivo segreti commerciali, li rivela o li impiega a proprio o altrui profitto.
+{: data-comma="2" }
 
 Se il fatto relativo ai segreti commerciali è commesso tramite qualsiasi strumento informatico la pena è aumentata.
+{: data-comma="3" }
 
 Il colpevole è punito a querela della persona offesa.
+{: data-comma="4" }

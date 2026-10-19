@@ -21,5 +21,7 @@ ordine: 2900
 # Art. 2609 - ***Recesso ed esclusione***
 
 Nei casi di recesso e di esclusione previsti dal contratto, la quota di partecipazione del consorziato receduto o escluso si accresce proporzionalmente a quelle degli altri.
+{: data-comma="1" }
 
 Il mandato conferito dai consorziati per l'attuazione degli scopi del consorzio, ancorchè dato con unico atto, cessa nei confronti del consorziato receduto o escluso.
+{: data-comma="2" }

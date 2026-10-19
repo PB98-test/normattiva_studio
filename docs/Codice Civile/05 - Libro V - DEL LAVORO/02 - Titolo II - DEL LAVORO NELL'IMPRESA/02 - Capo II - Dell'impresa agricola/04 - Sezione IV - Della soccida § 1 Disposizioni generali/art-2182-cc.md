@@ -21,5 +21,7 @@ ordine: 2303
 # Art. 2182 - ***Conferimento del bestiame***
 
 Nella soccida parziaria il bestiame è conferito da entrambi i contraenti nelle proporzioni convenute.
+{: data-comma="1" }
 
 Essi divengono comproprietari del bestiame in proporzione del rispettivo conferimento.
+{: data-comma="2" }

@@ -21,7 +21,10 @@ ordine: 715
 # Art. 556 - ***Bigamia***
 
 Chiunque, essendo legato da matrimonio avente effetti civili, ne contrae un altro, pur avente effetti civili, è punito con la reclusione da uno a cinque anni. Alla stessa pena soggiace chi, non essendo coniugato, contrae matrimonio con persona legata da matrimonio avente effetti civili.
+{: data-comma="1" }
 
 La pena è aumentata se il colpevole ha indotto in errore la persona, con la quale ha contratto matrimonio, sulla libertà dello stato proprio o di lei.
+{: data-comma="2" }
 
 Se il matrimonio, contratto precedentemente dal bigamo, è dichiarato nullo, ovvero è annullato il secondo matrimonio per causa diversa dalla bigamia, il reato è estinto, anche rispetto a coloro che sono concorsi nel reato, e, se vi è stata condanna, ne cessano l'esecuzione e gli effetti penali.
+{: data-comma="3" }

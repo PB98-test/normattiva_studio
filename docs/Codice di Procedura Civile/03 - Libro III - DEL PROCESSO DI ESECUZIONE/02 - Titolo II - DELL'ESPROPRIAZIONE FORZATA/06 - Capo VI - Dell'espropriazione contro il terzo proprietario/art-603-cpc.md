@@ -21,5 +21,7 @@ ordine: 752
 # Art. 603 - ***Notificazione del titolo esecutivo e del precetto***
 
 Il titolo esecutivo e il precetto debbono essere notificati anche al terzo.
+{: data-comma="1" }
 
 Nel precetto deve essere fatta espressa menzione del bene del terzo che si intende espropriare.
+{: data-comma="2" }

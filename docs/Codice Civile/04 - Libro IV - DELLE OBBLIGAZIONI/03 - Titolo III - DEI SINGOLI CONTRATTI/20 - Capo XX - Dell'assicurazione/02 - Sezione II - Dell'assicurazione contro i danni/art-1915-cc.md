@@ -21,5 +21,7 @@ ordine: 2036
 # Art. 1915 - ***Inadempimento dell'obbligo di avviso o di salvataggio***
 
 L'assicurato che dolosamente non adempie l'obbligo dell'avviso o del salvataggio perde il diritto all'indennità.
+{: data-comma="1" }
 
 Se l'assicurato omette colposamente di adempiere tale obbligo, l'assicuratore ha diritto di ridurre l'indennità in ragione del pregiudizio sofferto.
+{: data-comma="2" }

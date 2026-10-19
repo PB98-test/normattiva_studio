@@ -21,7 +21,10 @@ ordine: 2011
 # Art. 1890 - ***Assicurazione in nome altrui***
 
 Se il contraente stipula l'assicurazione in nome altrui senza averne il potere, l'interessato può ratificare il contratto anche dopo la scadenza o il verificarsi del sinistro.
+{: data-comma="1" }
 
 Il contraente è tenuto personalmente ad osservare gli obblighi derivanti dal contratto fino al momento in cui l'assicuratore ha avuto notizia della ratifica o del rifiuto di questa.
+{: data-comma="2" }
 
 Egli deve all'assicuratore i premi del periodo in corso nel momento in cui l'assicuratore ha avuto notizia del rifiuto della ratifica.
+{: data-comma="3" }

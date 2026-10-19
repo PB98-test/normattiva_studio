@@ -21,5 +21,7 @@ ordine: 901
 # Art. 807 - ***Effetti della revocazione***
 
 Revocata la donazione per ingratitudine o sopravvenienza di figli, il donatario deve restituire i beni in natura, se essi esistono ancora, e i frutti relativi, a partire dal giorno della domanda.
+{: data-comma="1" }
 
 Se il donatario ha alienato i beni, deve restituirne il valore, avuto riguardo al tempo della domanda, e i frutti relativi, a partire dal giorno della domanda stessa.
+{: data-comma="2" }

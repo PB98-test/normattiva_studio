@@ -21,5 +21,7 @@ ordine: 2026
 # Art. 1905 - ***Limiti del risarcimento***
 
 L'assicuratore è tenuto a risarcire, nei modi e nei limiti stabiliti dal contratto, il danno sofferto dall'assicurato in conseguenza del sinistro.
+{: data-comma="1" }
 
 L'assicuratore risponde del profitto sperato solo se si è espressamente obbligato.
+{: data-comma="2" }

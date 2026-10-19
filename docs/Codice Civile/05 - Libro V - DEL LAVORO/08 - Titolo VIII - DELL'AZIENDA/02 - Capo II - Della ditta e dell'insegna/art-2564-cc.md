@@ -21,5 +21,7 @@ ordine: 2855
 # Art. 2564 - ***Modificazione della ditta***
 
 Quando la ditta è uguale o simile a quella usata da altro imprenditore e può creare confusione per l'oggetto dell'impresa e per il luogo in cui questa è esercitata, deve essere integrata o modificata con indicazioni idonee a differenziarla.
+{: data-comma="1" }
 
 Per le imprese commerciali l'obbligo dell'integrazione o modificazione spetta a chi ha iscritto la propria ditta nel registro delle imprese in epoca posteriore.
+{: data-comma="2" }

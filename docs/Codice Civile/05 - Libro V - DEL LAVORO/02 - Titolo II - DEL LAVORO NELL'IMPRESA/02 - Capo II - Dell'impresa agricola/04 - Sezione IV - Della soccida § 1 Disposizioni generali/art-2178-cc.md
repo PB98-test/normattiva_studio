@@ -21,5 +21,7 @@ ordine: 2299
 # Art. 2178 - ***Accrescimenti, prodotti, utili e spese***
 
 Gli accrescimenti, i prodotti, gli utili e le spese si dividono tra le parti secondo le proporzioni stabilite dalle norme corporative, dalla convenzione o dagli usi.
+{: data-comma="1" }
 
 È nullo il patto per il quale il soccidario debba sopportare nella perdita una parte maggiore di quella spettantegli nel guadagno.
+{: data-comma="2" }

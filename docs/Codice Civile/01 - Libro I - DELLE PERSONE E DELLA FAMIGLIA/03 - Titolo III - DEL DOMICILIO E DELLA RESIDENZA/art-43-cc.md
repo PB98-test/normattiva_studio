@@ -21,5 +21,7 @@ ordine: 75
 # Art. 43 - ***Domicilio e residenza***
 
 Il domicilio di una persona è nel luogo in cui essa ha stabilito la sede principale dei suoi affari e interessi.
+{: data-comma="1" }
 
 La residenza è nel luogo in cui la persona ha la dimora abituale.
+{: data-comma="2" }

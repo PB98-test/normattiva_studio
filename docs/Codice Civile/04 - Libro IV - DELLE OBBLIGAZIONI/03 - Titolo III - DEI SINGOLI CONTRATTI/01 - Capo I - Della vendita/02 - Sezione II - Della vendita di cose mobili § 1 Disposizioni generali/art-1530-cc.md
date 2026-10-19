@@ -21,5 +21,7 @@ ordine: 1645
 # Art. 1530 - ***Pagamento contro documenti a mezzo di banca***
 
 Quando il pagamento del prezzo deve avvenire a mezzo di una banca, il venditore non può rivolgersi al compratore se non dopo il rifiuto opposto dalla banca stessa e constatato all'atto della presentazione dei documenti nelle forme stabilite dagli usi.
+{: data-comma="1" }
 
 La banca che ha confermato il credito al venditore può opporgli solo le eccezioni derivanti dall'incompletezza o irregolarità dei documenti e quelle relative al rapporto di conferma del credito.
+{: data-comma="2" }

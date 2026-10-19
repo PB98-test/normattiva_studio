@@ -21,12 +21,16 @@ ordine: 2037
 # Art. 1916 - ***Diritto di surrogazione dell'assicuratore***
 
 L'assicuratore che ha pagato l'indennità è surrogato, fino alla concorrenza dell'ammontare di essa, nei diritti dell'assicurato verso i terzi responsabili.
+{: data-comma="1" }
 
 Salvo il caso di dolo, la surrogazione non ha luogo se il danno è causato dai figli, ... dagli ascendenti, da altri parenti o da affini dell'assicurato stabilmente con lui conviventi o da domestici. [^agg-41]
+{: data-comma="2" }
 
 L'assicurato è responsabile verso l'assicuratore del pregiudizio arrecato al diritto di surrogazione.
+{: data-comma="3" }
 
 Le disposizioni di questo articolo si applicano anche alle assicurazioni contro gli infortuni sul lavoro e contro le disgrazie accidentali.   [^agg-79]
+{: data-comma="4" }
 
 [^agg-41]: *AGGIORNAMENTO (41)* La Corte Costituzionale, con sentenza 7 - 21 maggio 1975, n. 117 (in G.U. 1a s.s. 28/05/1975, n. 140), ha dichiarato "la illegittimità costituzionale dell'[art. 1916, comma secondo, del codice civile](art-1916-cc.md), nella parte in cui non annovera, tra le persone nei confronti delle quali non è ammessa surrogazione, il coniuge dell'assicurato".
 

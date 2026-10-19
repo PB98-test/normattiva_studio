@@ -21,5 +21,7 @@ ordine: 925
 # Art. 831 - ***Beni degli enti ecclesiastici ed edifici di culto***
 
 I beni degli enti ecclesiastici sono soggetti alle norme del presente codice, in quanto non è diversamente disposto dalle leggi speciali che li riguardano.
+{: data-comma="1" }
 
 Gli edifici destinati all'esercizio pubblico del culto cattolico, anche se appartengono a privati, non possono essere sottratti alla loro destinazione neppure per effetto di alienazione, fino a che la destinazione stessa non sia cessata in conformità delle leggi che li riguardano.
+{: data-comma="2" }

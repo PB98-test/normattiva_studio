@@ -21,5 +21,7 @@ ordine: 1075
 # Art. 980 - ***Cessione dell'usufrutto***
 
 L'usufruttuario può cedere il proprio diritto per un certo tempo o per tutta la sua durata, se ciò non è vietato dal titolo costitutivo.
+{: data-comma="1" }
 
 La cessione dev'essere notificata al proprietario; finchè non sia stata notificata, l'usufruttuario è solidalmente obbligato con il cessionario verso il proprietario.
+{: data-comma="2" }

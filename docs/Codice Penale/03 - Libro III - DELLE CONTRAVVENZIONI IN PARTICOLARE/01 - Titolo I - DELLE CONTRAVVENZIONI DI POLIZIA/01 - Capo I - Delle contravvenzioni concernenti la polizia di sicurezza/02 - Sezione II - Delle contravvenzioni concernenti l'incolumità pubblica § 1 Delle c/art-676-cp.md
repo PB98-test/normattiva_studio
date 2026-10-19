@@ -21,5 +21,7 @@ ordine: 933
 # Art. 676 - ***Rovina di edifici o di altre costruzioni***
 
 Chiunque ha avuto parte nel progetto o nei lavori concernenti un edificio o un'altra costruzione, che poi, per sua colpa, rovini, è punito con la sanzione amministrativa pecuniaria da lire trecentomila a un milione ottocentomila.
+{: data-comma="1" }
 
 Se dal fatto è derivato pericolo alle persone, la pena è dell'arresto fino a sei mesi ovvero dell'ammenda non inferiore a lire tremila.
+{: data-comma="2" }

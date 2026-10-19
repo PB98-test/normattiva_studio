@@ -21,7 +21,10 @@ ordine: 2119
 # Art. 1998 - ***Titoli con diritto a premi***
 
 Nel caso di usufrutto di titoli di credito il godimento dell'usufruttuario si estende ai premi e alle altre utilità aleatorie prodotte dal titolo.
+{: data-comma="1" }
 
 Il premio è investito a norma dell'[art. 1000](../../../03%20-%20Libro%20III%20-%20DELLA%20PROPRIETÀ/05%20-%20Titolo%20V%20-%20DELL%27USUFRUTTO,%20DELL%27USO%20E%20DELL%27ABITAZIONE/01%20-%20Capo%20I%20-%20Dell%27usufrutto/02%20-%20Sezione%20II%20-%20Dei%20diritti%20nascenti%20dall%27usufrutto/art-1000-cc.md).
+{: data-comma="2" }
 
 Nel pegno di titoli di credito la garanzia non si estende ai premi e alle altre utilità aleatorie prodotte dal titolo.
+{: data-comma="3" }

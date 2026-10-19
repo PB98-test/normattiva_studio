@@ -21,7 +21,10 @@ ordine: 3174
 # Art. 2864 - ***Danni causati dal terzo e miglioramenti***
 
 Il terzo è tenuto a risarcire i danni che da sua colpa grave sono derivati all'immobile in pregiudizio dei creditori iscritti.
+{: data-comma="1" }
 
 Egli non può ritenere l'immobile per causa di miglioramenti; ma ha il diritto di far separare dal prezzo di vendita la parte corrispondente ai miglioramenti eseguiti dopo la trascrizione del suo titolo, fino a concorrenza del valore dei medesimi al tempo della vendita.
+{: data-comma="2" }
 
 Se il prezzo non copre il valore dell'immobile nello stato in cui era prima dei miglioramenti e insieme quello dei miglioramenti, esso deve dividersi in due parti proporzionali ai detti valori.
+{: data-comma="3" }

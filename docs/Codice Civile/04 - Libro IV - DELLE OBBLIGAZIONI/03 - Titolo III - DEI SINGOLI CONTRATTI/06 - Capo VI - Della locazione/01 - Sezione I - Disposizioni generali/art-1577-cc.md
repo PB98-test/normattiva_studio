@@ -21,5 +21,7 @@ ordine: 1692
 # Art. 1577 - ***Necessità di riparazioni***
 
 Quando la cosa locata abbisogna di riparazioni che non sono a carico del conduttore, questi è tenuto a darne avviso al locatore.
+{: data-comma="1" }
 
 Se si tratta di riparazioni urgenti, il conduttore può eseguirle direttamente, salvo rimborso, purchè ne dia contemporaneamente avviso al locatore.
+{: data-comma="2" }

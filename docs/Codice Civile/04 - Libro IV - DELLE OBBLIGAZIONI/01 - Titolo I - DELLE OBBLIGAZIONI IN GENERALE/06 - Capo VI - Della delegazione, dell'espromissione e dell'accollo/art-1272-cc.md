@@ -21,7 +21,10 @@ ordine: 1374
 # Art. 1272 - ***Espromissione***
 
 Il terzo che, senza delegazione del debitore, ne assume verso il creditore il debito, è obbligato in solido col debitore originario, se il creditore non dichiara espressamente di liberare quest'ultimo.
+{: data-comma="1" }
 
 Se non si è convenuto diversamente, il terzo non può opporre al creditore le eccezioni relative ai suoi rapporti col debitore originario.
+{: data-comma="2" }
 
 Può opporgli invece le eccezioni che al creditore avrebbe potuto opporre il debitore originario, se non sono personali a quest'ultimo e non derivano da fatti successivi all'espromissione. Non può opporgli la compensazione che avrebbe potuto opporre il debitore originario, quantunque si sia verificata prima dell'espromissione.
+{: data-comma="3" }

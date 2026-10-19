@@ -21,7 +21,10 @@ ordine: 225
 # Art. 183 - ***Esclusione dall'amministrazione.***
 
 Se uno dei coniugi è minore o non può amministrare ovvero se ha male amministrato, l'altro coniuge può chiedere al giudice di escluderlo dall'amministrazione.
+{: data-comma="1" }
 
 Il coniuge privato dell'amministrazione può chiedere al giudice di esservi reintegrato, se sono venuti meno i motivi che hanno determinato l'esclusione.
+{: data-comma="2" }
 
 La esclusione opera di diritto riguardo al coniuge interdetto e permane sino a quando non sia cessato lo stato di interdizione.
+{: data-comma="3" }

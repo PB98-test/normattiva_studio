@@ -21,7 +21,10 @@ ordine: 689
 # Art. 602 - ***Testamento olografo***
 
 Il testamento olografo deve essere scritto per intero, datato e sottoscritto di mano del testatore.
+{: data-comma="1" }
 
 La sottoscrizione deve essere posta alla fine delle disposizioni. Se anche non è fatta indicando nome e cognome, è tuttavia valida quando designa con certezza la persona del testatore.
+{: data-comma="2" }
 
 La data deve contenere l'indicazione del giorno, mese e anno. La prova della non verità della data è ammessa soltanto quando si tratta di giudicare della capacità del testatore, della priorità di data tra più testamenti o di altra questione da decidersi in base al tempo del testamento.
+{: data-comma="3" }

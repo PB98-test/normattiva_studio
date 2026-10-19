@@ -21,5 +21,7 @@ ordine: 123
 # Art. 116 - ***Valutazione delle prove***
 
 Il giudice deve valutare le prove secondo il suo prudente apprezzamento, salvo che la legge disponga altrimenti.
+{: data-comma="1" }
 
 Il giudice può desumere argomenti di prova dalle risposte che le parti gli danno a norma dell'articolo seguente, dal loro rifiuto ingiustificato a consentire le ispezioni che egli ha ordinate e, in generale, dal contegno delle parti stesse nel processo.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 2997
 # Art. 2692 - ***Annotazione della trascrizione delle domande e degli atti***
 
 La trascrizione delle domande e degli atti indicati dai due articoli precedenti dev'essere anche annotata secondo le modalità stabilite dall'[art. 2654](../../01%20-%20Capo%20I%20-%20Della%20trascrizione%20degli%20atti%20relativi%20ai%20beni%20immobili/art-2654-cc.md).
+{: data-comma="1" }
 
 Si osservano inoltre le disposizioni del primo, terzo e quarto comma dell'[art. 2655](../../01%20-%20Capo%20I%20-%20Della%20trascrizione%20degli%20atti%20relativi%20ai%20beni%20immobili/art-2655-cc.md) e quelle dell'[art. 2656](../../01%20-%20Capo%20I%20-%20Della%20trascrizione%20degli%20atti%20relativi%20ai%20beni%20immobili/art-2656-cc.md).
+{: data-comma="2" }

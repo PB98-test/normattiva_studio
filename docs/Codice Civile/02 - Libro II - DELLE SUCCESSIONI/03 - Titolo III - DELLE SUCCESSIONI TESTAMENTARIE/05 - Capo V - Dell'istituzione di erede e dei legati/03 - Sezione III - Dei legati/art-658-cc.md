@@ -21,5 +21,7 @@ ordine: 745
 # Art. 658 - ***Legato di credito o di liberazione da debito***
 
 Il legato di un credito o di liberazione da un debito ha effetto per la sola parte del credito o del debito che sussiste al tempo della morte del testatore.
+{: data-comma="1" }
 
 L'erede è soltanto tenuto a consegnare al legatario i titoli del credito legato che si trovavano presso il testatore.
+{: data-comma="2" }

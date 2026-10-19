@@ -21,7 +21,10 @@ ordine: 1190
 # Art. 1095 - ***Usucapione della servitù attiva degli scoli***
 
 Nella servitù attiva degli scoli il termine per l'usucapione comincia a decorrere dal giorno in cui il proprietario del fondo dominante ha fatto sul fondo servente opere visibili e permanenti destinate a raccogliere e condurre i detti scoli a vantaggio del proprio fondo.
+{: data-comma="1" }
 
 Quando sul fondo servente è aperto un cavo destinato a raccogliere e condurre gli scoli, il regolare spurgo e la manutenzione delle sponde fanno presumere che il cavo sia opera del proprietario del fondo dominante, purchè non vi sia titolo, segno o prova in contrario.
+{: data-comma="2" }
 
 Si reputa segno contrario l'esistenza sul cavo di opere costruite o mantenute dal proprietario del fondo in cui il cavo è aperto.
+{: data-comma="3" }

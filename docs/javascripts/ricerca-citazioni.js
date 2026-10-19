@@ -61,7 +61,47 @@
     }
   }
 
-  var SUFFISSI = "bis|ter|quater|quinquies|sexies|septies|octies|novies|decies";
+  // Stessa lista del motore di conversione (motore_custom.py,
+  // _SUFFISSI_LATINI_LISTA), in ordine legale: serve anche a ordinare le
+  // card "correlate". Prima si fermava a "decies" e non aveva "nonies":
+  // "669 nonies cpc" e "669 novies cpc" non trovavano nulla, né undecies,
+  // duodecies, terdecies... (test/test_ricerca_citazioni.py controlla che
+  // le due liste restino uguali).
+  var SUFFISSI_LISTA = [
+    "bis", "ter", "quater", "quinquies", "sexies", "septies", "octies",
+    "novies", "nonies", "decies", "undecies", "duodecies",
+    "terdecies", "tredecies", "quaterdecies",
+    "quindecies", "quinquiesdecies",
+    "sedecies", "sexdecies", "sexiesdecies",
+    "septendecies", "septiesdecies",
+    "duodevicies", "octiesdecies",
+    "undevicies", "noviesdecies",
+    "vicies"
+  ];
+  // Per la regex, in ordine di lunghezza DECRESCENTE (come nel motore):
+  // "ter" non deve fermarsi prima di "terdecies".
+  var SUFFISSI = SUFFISSI_LISTA.slice().sort(function (a, b) {
+    return b.length - a.length;
+  }).join("|");
+  // Unità che nei testi si trovano anche staccate da "decies" ("ter
+  // decies"): riunite prima del riconoscimento, come fa il motore.
+  var RE_UNITA_DECIES = /(\d+\s*[\s-]?)(bis|ter|quater|quinquies|sexies|septies|octies|novies|nonies)\s+decies\b/;
+
+  // Le stesse uniformazioni del motore (_canonicalizza_ordinale_composto) e
+  // della struttura (genera_struttura.norm_art_key): nell'indice c'è solo
+  // la forma uniformata ("669-nonies"), chi cerca può scrivere l'altra.
+  var UNIFORMAZIONI = {
+    novies: "nonies",
+    quinquiesdecies: "quindecies",
+    sexdecies: "sedecies",
+    sexiesdecies: "sedecies",
+    octiesdecies: "duodevicies",
+    noviesdecies: "undevicies"
+  };
+  function uniforma(suffisso) {
+    var s = (suffisso || "").toLowerCase();
+    return UNIFORMAZIONI[s] || s;
+  }
   // Solo le sigle corte, tutte lettere, dei 4 codici fissi: le uniche
   // per cui riconoscere anche la forma SENZA spazio ("133cp") non è
   // ambiguo. Le sigle delle altre leggi possono contenere cifre (es.
@@ -69,14 +109,27 @@
   // nessuno scriverebbe mai, non è una rinuncia reale.
   var SIGLE_CORTE = "cp|cpp|cc|cpc";
 
+  // Numero, suffisso e sotto-numero ("416 bis.1", "2506.1"): tre gruppi.
+  var NUMERO = "(\\d+)\\s*[\\s-]?(" + SUFFISSI + ")?(\\.\\d+)?";
   var RE_NUM_ALIAS = new RegExp(
-    "^(?:art\\.?|articolo)?\\s*(\\d+)\\s*[\\s-]?(" + SUFFISSI + ")?\\s+(.+)$", "i");
+    "^(?:art\\.?|articolo)?\\s*" + NUMERO + "\\s+(.+)$", "i");
   var RE_ALIAS_NUM = new RegExp(
-    "^(.+?)\\s+(?:art\\.?|articolo)?\\s*(\\d+)\\s*[\\s-]?(" + SUFFISSI + ")?$", "i");
+    "^(.+?)\\s+(?:art\\.?|articolo)?\\s*" + NUMERO + "$", "i");
   var RE_NUM_SIGLA_UNITE = new RegExp(
-    "^(\\d+)(" + SUFFISSI + ")?(" + SIGLE_CORTE + ")$", "i");
+    "^(\\d+)(" + SUFFISSI + ")?(\\.\\d+)?(" + SIGLE_CORTE + ")$", "i");
   var RE_SIGLA_NUM_UNITE = new RegExp(
-    "^(" + SIGLE_CORTE + ")(\\d+)(" + SUFFISSI + ")?$", "i");
+    "^(" + SIGLE_CORTE + ")(\\d+)(" + SUFFISSI + ")?(\\.\\d+)?$", "i");
+  // Il punto del sotto-numero ("bis.1", "2506.1") va tenuto: normalizza()
+  // toglie tutti i punti, e "2506.1" diventerebbe "25061". Lo si protegge
+  // con un segnaposto prima e lo si rimette dopo.
+  var RE_PUNTO_SOTTONUMERO = new RegExp("(\\d|" + SUFFISSI + ")\\.(?=\\d)", "gi");
+  var SEGNAPOSTO_PUNTO = "§";
+
+  function citazione(numero, suffisso, sotto, alias) {
+    var s = uniforma(suffisso);
+    return { numero: numero, suffisso: s, sotto: sotto || "", alias: alias,
+             chiave: numero + (s ? "-" + s : "") + (sotto || "") };
+  }
 
   // Normalizza per il confronto: minuscolo, punti tolti (così "c.p.",
   // "C.d.S." funzionano come "cp"/"cds"), spazi ripetuti compattati —
@@ -89,11 +142,14 @@
 
   // Riconosce la query come "numero [suffisso] + sigla" (in un ordine o
   // nell'altro, con o senza spazio nel solo caso delle sigle corte) —
-  // restituisce {numero, suffisso, alias} o null se la query non ha
-  // affatto la FORMA di una citazione. Non dice se la citazione esiste
-  // davvero (serve l'indice, caricato altrove).
+  // restituisce {numero, suffisso, sotto, alias, chiave} o null se la
+  // query non ha affatto la FORMA di una citazione ('chiave' è quella
+  // dell'indice: "133", "669-nonies", "416-bis.1"). Non dice se la
+  // citazione esiste davvero (serve l'indice, caricato altrove).
   function riconosci(query) {
-    var q = normalizza(query);
+    var q = normalizza(query.replace(RE_PUNTO_SOTTONUMERO, "$1" + SEGNAPOSTO_PUNTO))
+      .split(SEGNAPOSTO_PUNTO).join(".")
+      .replace(RE_UNITA_DECIES, "$1$2decies");
     if (!q) { return null; }
 
     var m = RE_NUM_SIGLA_UNITE.exec(q) || RE_SIGLA_NUM_UNITE.exec(q);
@@ -101,18 +157,18 @@
       // Le due regex hanno i gruppi in ordine diverso — distinti dal
       // primo carattere: se è una cifra, il numero viene prima.
       if (/^\d/.test(q)) {
-        return { numero: m[1], suffisso: (m[2] || "").toLowerCase(), alias: m[3] };
+        return citazione(m[1], m[2], m[3], m[4]);
       }
-      return { numero: m[2], suffisso: (m[3] || "").toLowerCase(), alias: m[1] };
+      return citazione(m[2], m[3], m[4], m[1]);
     }
 
     m = RE_NUM_ALIAS.exec(q);
     if (m) {
-      return { numero: m[1], suffisso: (m[2] || "").toLowerCase(), alias: m[3] };
+      return citazione(m[1], m[2], m[3], m[4]);
     }
     m = RE_ALIAS_NUM.exec(q);
     if (m) {
-      return { numero: m[2], suffisso: (m[3] || "").toLowerCase(), alias: m[1] };
+      return citazione(m[2], m[3], m[4], m[1]);
     }
     return null;
   }
@@ -144,10 +200,7 @@
     if (!sigla) { return null; }
     var voci = indice.articoli[sigla];
     if (!voci) { return null; }
-    var chiave = riconosciuta.suffisso
-      ? riconosciuta.numero + "-" + riconosciuta.suffisso
-      : riconosciuta.numero;
-    return voci[chiave] || null;
+    return voci[riconosciuta.chiave] || null;
   }
 
   // Ultimo segmento del percorso di un URL (senza slash finale, senza
@@ -174,15 +227,19 @@
   // massimo come card "correlate": il Codice Penale arriva a decies,
   // qualche articolo di altre leggi ne ha più di una manciata.
   var LIMITE_CORRELATI = 8;
-  var ORDINE_SUFFISSI = SUFFISSI.split("|");
+  var ORDINE_SUFFISSI = SUFFISSI_LISTA;
 
   // Posizione di una chiave dell'indice ("133", "133-bis", ...) nell'ordine
-  // legale dei suffissi: prima il numero nudo, poi bis, ter, quater...
+  // legale dei suffissi: prima il numero nudo, poi bis, ter, quater...;
+  // il sotto-numero subito dopo la sua variante ("416-bis", "416-bis.1",
+  // "416-ter"; "2506", "2506.1").
   function ordineSuffisso(chiave) {
-    var suffisso = chiave.split("-").slice(1).join("-");
-    if (!suffisso) { return -1; }
+    var parti = chiave.split(".");
+    var sotto = parti.length > 1 ? parseInt(parti[1], 10) / 1000 : 0;
+    var suffisso = parti[0].split("-").slice(1).join("-");
+    if (!suffisso) { return -1 + sotto; }
     var i = ORDINE_SUFFISSI.indexOf(suffisso);
-    return i === -1 ? ORDINE_SUFFISSI.length : i;
+    return (i === -1 ? ORDINE_SUFFISSI.length : i) + sotto;
   }
 
   // Le altre varianti dello stesso numero (bis/ter/... di "133 cp"),
@@ -198,11 +255,9 @@
   // dall'ordine né dal caricamento a blocchi di Lunr.
   function correlati(indice, riconosciuta, sigla) {
     var voci = (indice && indice.articoli && indice.articoli[sigla]) || {};
-    var chiaveEsatta = riconosciuta.suffisso
-      ? riconosciuta.numero + "-" + riconosciuta.suffisso
-      : riconosciuta.numero;
+    var chiaveEsatta = riconosciuta.chiave;
     return Object.keys(voci)
-      .filter(function (k) { return k !== chiaveEsatta && k.split("-")[0] === riconosciuta.numero; })
+      .filter(function (k) { return k !== chiaveEsatta && k.split(/[-.]/)[0] === riconosciuta.numero; })
       .sort(function (a, b) { return ordineSuffisso(a) - ordineSuffisso(b); })
       .slice(0, LIMITE_CORRELATI)
       .map(function (k) { return { chiave: k, record: voci[k] }; });
@@ -243,6 +298,14 @@
     a.appendChild(article);
     li.appendChild(a);
     return li;
+  }
+
+  // Solo per le prove automatiche (Node, test/test_ricerca_citazioni.py):
+  // nel browser 'module' non esiste e questa riga non fa nulla.
+  if (typeof module === "object" && module.exports) {
+    module.exports = { riconosci: riconosci, trova: trova, correlati: correlati,
+                       uniforma: uniforma, SUFFISSI_LISTA: SUFFISSI_LISTA };
+    return;
   }
 
   pronto(function () {
@@ -334,7 +397,7 @@
       // non serve più — evita anche un ciclo con il MutationObserver (il
       // nostro stesso inserimento è anch'esso una mutazione della lista,
       // che altrimenti farebbe ripartire questa funzione all'infinito).
-      var chiaveRichiesta = riconosciuta.alias + "|" + riconosciuta.numero + "|" + riconosciuta.suffisso;
+      var chiaveRichiesta = riconosciuta.alias + "|" + riconosciuta.chiave;
       var prima = lista.querySelector(".ns-search-nostro");
       if (prima && prima.dataset.nsChiave === chiaveRichiesta) {
         return;
@@ -345,8 +408,7 @@
         // arrivo (fetch della primissima ricerca, rete lenta) —
         // riverifica sempre sul valore ATTUALE del campo.
         var ancoraValida = riconosci(input.value);
-        var stessa = ancoraValida && ancoraValida.numero === riconosciuta.numero
-          && ancoraValida.suffisso === riconosciuta.suffisso
+        var stessa = ancoraValida && ancoraValida.chiave === riconosciuta.chiave
           && ancoraValida.alias === riconosciuta.alias;
         var record = stessa ? trova(indice, riconosciuta) : null;
         var siglaQuery = (stessa && indice) ? indice.alias[riconosciuta.alias] : null;
@@ -355,8 +417,7 @@
         rimuoviNostre();
         var carte = [];
         if (record) {
-          var numeroVisibile = "Art. " + riconosciuta.numero
-            + (riconosciuta.suffisso ? "-" + riconosciuta.suffisso : "");
+          var numeroVisibile = "Art. " + riconosciuta.chiave;
           carte.push(creaCard(record, numeroVisibile, "ns-search-esatto", chiaveRichiesta, radice));
         }
         extra.forEach(function (c) {

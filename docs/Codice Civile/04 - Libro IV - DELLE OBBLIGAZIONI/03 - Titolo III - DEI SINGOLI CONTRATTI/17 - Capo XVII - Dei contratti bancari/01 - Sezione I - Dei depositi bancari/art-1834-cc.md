@@ -21,5 +21,7 @@ ordine: 1955
 # Art. 1834 - ***Depositi di danaro***
 
 Nei depositi di una somma di danaro presso una banca, questa ne acquista la proprietà ed è obbligata a restituirla nella stessa specie monetaria, alla scadenza del termine convenuto ovvero a richiesta del depositante, con l'osservanza del periodo di preavviso stabilito dalle parti o dagli usi.
+{: data-comma="1" }
 
 Salvo patto contrario, i versamenti e i prelevamenti si eseguono alla sede della banca presso la quale si è costituito il rapporto.
+{: data-comma="2" }

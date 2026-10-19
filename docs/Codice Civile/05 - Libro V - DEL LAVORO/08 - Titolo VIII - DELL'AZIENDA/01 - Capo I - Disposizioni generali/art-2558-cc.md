@@ -21,7 +21,10 @@ ordine: 2849
 # Art. 2558 - ***Successione nei contratti***
 
 Se non è pattuito diversamente, l'acquirente dell'azienda subentra nei contratti stipulati per l'esercizio dell'azienda stessa che non abbiano carattere personale.
+{: data-comma="1" }
 
 Il terzo contraente può tuttavia recedere dal contratto entro tre mesi dalla notizia del trasferimento, se sussiste una giusta causa, salvo in questo caso la responsabilità dell'alienante.
+{: data-comma="2" }
 
 Le stesse disposizioni si applicano anche nei confronti dell'usufruttuario e dell'affittuario per la durata dell'usufrutto e dell'affitto.
+{: data-comma="3" }

@@ -21,5 +21,7 @@ ordine: 1360
 # Art. 1258 - ***Impossibilità parziale***
 
 Se la prestazione è divenuta impossibile solo in parte, il debitore si libera dall'obbligazione eseguendo la prestazione per la parte che è rimasta possibile.
+{: data-comma="1" }
 
 La stessa disposizione si applica quando, essendo dovuta una cosa determinata, questa ha subito un deterioramento, o quando residua alcunchè dal perimento totale della cosa.
+{: data-comma="2" }

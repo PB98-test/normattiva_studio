@@ -21,11 +21,15 @@ ordine: 24
 # Art. 22 - ***Ergastolo***
 
 La pena dell'ergastolo è perpetua, ed è scontata in uno degli stabilimenti a ciò destinati, con l'obbligo del lavoro e con l'isolamento notturno.
+{: data-comma="1" }
 
 Il condannato all'ergastolo può essere ammesso al lavoro all'aperto.
+{: data-comma="2" }
 
 COMMA ABROGATO DALLA L. 25 NOVEMBRE 1962, N. 1634.
+{: data-comma="3" }
 
 COMMA ABROGATO DALLA L. 25 NOVEMBRE 1962, N. 1634.   [^agg-139]
+{: data-comma="4" }
 
 [^agg-139]: *AGGIORNAMENTO (139)* La Corte Costituzionale con sentenza 27-28 aprile 1994, n. 168 (in G.U. 1ª s.s. 04/05/1994, n. 19) ha dichiarato "l'illegittimità costituzionale degli [artt. 17](../01%20-%20Capo%20I%20-%20Delle%20specie%20di%20pene,%20in%20generale/art-17-cp.md) e [22 del codice penale](art-22-cp.md) nella parte in cui non escludono l'applicazione della pena dell'ergastolo al minore imputabile".

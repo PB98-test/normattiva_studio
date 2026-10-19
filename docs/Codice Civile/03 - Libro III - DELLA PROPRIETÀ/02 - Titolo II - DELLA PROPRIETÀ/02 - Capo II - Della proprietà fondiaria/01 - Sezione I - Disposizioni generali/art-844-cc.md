@@ -21,5 +21,7 @@ ordine: 938
 # Art. 844 - ***Immissioni***
 
 Il proprietario di un fondo non può impedire le immissioni di fumo o di calore, le esalazioni, i rumori, gli scuotimenti e simili propagazioni derivanti dal fondo del vicino, se non superano la normale tollerabilità, avuto anche riguardo alla condizione dei luoghi.
+{: data-comma="1" }
 
 Nell'applicare questa norma l'autorità giudiziaria deve contemperare le esigenze della produzione con le ragioni della proprietà. Può tener conto della priorità di un determinato uso.
+{: data-comma="2" }

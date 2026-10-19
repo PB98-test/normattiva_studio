@@ -21,9 +21,13 @@ ordine: 776
 # Art. 595 - ***Diffamazione***
 
 Chiunque, fuori dei casi indicati nell'articolo precedente, comunicando con più persone, offende l'altrui reputazione, è punito con la reclusione fino a un anno o con la multa fino a lire diecimila.
+{: data-comma="1" }
 
 Se l'offesa consiste nell'attribuzione di un fatto determinato, la pena è della reclusione fino a due anni, ovvero della multa fino a lire ventimila.
+{: data-comma="2" }
 
 Se l'offesa è recata col mezzo della stampa o con qualsiasi altro mezzo di pubblicità, ovvero in atto pubblico, la pena è della reclusione da sei mesi a tre anni o della multa non inferiore a lire cinquemila.
+{: data-comma="3" }
 
 Se l'offesa è recata a un Corpo politico, amministrativo o giudiziario, o ad una sua rappresentanza, o ad una Autorità costituita in collegio, le pene sono aumentate.
+{: data-comma="4" }

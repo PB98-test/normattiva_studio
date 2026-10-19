@@ -21,7 +21,10 @@ ordine: 1516
 # Art. 1414 - ***Effetti della simulazione tra le parti***
 
 Il contratto simulato non produce effetto tra le parti.
+{: data-comma="1" }
 
 Se le parti hanno voluto concludere un contratto diverso da quello apparente, ha effetto tra esse il contratto dissimulato, purchè ne sussistano i requisiti di sostanza e di forma.
+{: data-comma="2" }
 
 Le precedenti disposizioni si applicano anche agli atti unilaterali destinati a una persona determinata, che siano simulati per accordo tra il dichiarante e il destinatario.
+{: data-comma="3" }

@@ -21,5 +21,7 @@ ordine: 2435
 # Art. 2313 - ***Nozione***
 
 Nella società in accomandita semplice i soci accomandatari rispondono solidalmente e illimitatamente per le obbligazioni sociali, e i soci accomandanti rispondono limitatamente alla quota conferita.
+{: data-comma="1" }
 
 Le quote di partecipazione dei soci non possono essere rappresentate da azioni.
+{: data-comma="2" }

@@ -21,7 +21,10 @@ ordine: 355
 # Art. 306 - ***Banda armata: formazione e partecipazione***
 
 Quando, per commettere uno dei delitti indicati nell'[articolo 302](art-302-cp.md), si forma una banda armata, coloro che la promuovono o costituiscono od organizzano, soggiacciono, per ciò solo, alla pena della reclusione da cinque a quindici anni.
+{: data-comma="1" }
 
 Per il solo fatto di partecipare alla banda armata, la pena è della reclusione da tre a nove anni.
+{: data-comma="2" }
 
 I capi o i sovventori della banda armata soggiacciono alla stessa pena stabilita per i promotori.
+{: data-comma="3" }

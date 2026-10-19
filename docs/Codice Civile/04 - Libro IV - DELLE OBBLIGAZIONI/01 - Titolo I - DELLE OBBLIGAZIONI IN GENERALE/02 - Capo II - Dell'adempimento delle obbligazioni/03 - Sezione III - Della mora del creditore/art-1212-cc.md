@@ -21,6 +21,7 @@ ordine: 1314
 # Art. 1212 - ***Requisiti del deposito***
 
 Per la validità del deposito è necessario:
+{: data-comma="1" }
 
 - 1) che sia stato preceduto da un'intimazione notificata al creditore e contenente l'indicazione del giorno, dell'ora e del luogo in cui la cosa offerta sarà depositata;
 - 2) che il debitore abbia consegnato la cosa, con gli interessi e i frutti dovuti fino al giorno dell'offerta, nel luogo indicato dalla legge o, in mancanza, dal giudice;
@@ -28,3 +29,4 @@ Per la validità del deposito è necessario:
 - 4) che, in caso di non comparizione del creditore, il processo verbale di deposito gli sia notificato con l'invito a ritirare la cosa depositata.
 
 Il deposito che ha per oggetto somme di danaro può eseguirsi anche presso un istituto di credito.
+{: data-comma="2" }

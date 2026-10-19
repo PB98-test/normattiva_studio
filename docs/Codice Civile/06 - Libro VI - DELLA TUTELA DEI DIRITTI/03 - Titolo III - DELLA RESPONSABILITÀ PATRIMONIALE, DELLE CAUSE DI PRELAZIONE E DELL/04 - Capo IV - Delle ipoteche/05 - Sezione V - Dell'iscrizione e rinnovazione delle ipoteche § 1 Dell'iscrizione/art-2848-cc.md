@@ -21,5 +21,7 @@ ordine: 3158
 # Art. 2848 - ***Nuova iscrizione dell'ipoteca***
 
 Nonostante il decorso del termine indicato dall'articolo precedente, il creditore può procedere a nuova iscrizione; in tal caso l'ipoteca prende grado dalla data della nuova iscrizione.
+{: data-comma="1" }
 
 La nuova iscrizione non può essere presa contro i terzi acquirenti dell'immobile ipotecato che hanno trascritto il loro titolo.
+{: data-comma="2" }

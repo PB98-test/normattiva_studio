@@ -21,7 +21,10 @@ ordine: 210
 # Art. 168 - ***Impiego ed amministrazione del fondo.***
 
 La proprietà dei beni costituenti il fondo patrimoniale spetta ad entrambi i coniugi, salvo che sia diversamente stabilito nell'atto di costituzione.
+{: data-comma="1" }
 
 I frutti dei beni costituenti il fondo patrimoniale sono impiegati per i bisogni della famiglia.
+{: data-comma="2" }
 
 L'amministrazione dei beni costituenti il fondo patrimoniale è regolata dalle norme relative all'amministrazione della comunione legale.
+{: data-comma="3" }

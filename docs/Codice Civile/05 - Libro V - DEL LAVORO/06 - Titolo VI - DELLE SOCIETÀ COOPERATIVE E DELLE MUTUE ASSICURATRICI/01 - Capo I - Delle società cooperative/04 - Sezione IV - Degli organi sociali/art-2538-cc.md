@@ -21,13 +21,19 @@ ordine: 2812
 # Art. 2538 - ***Assemblea***
 
 Nelle assemblee hanno diritto di voto coloro che risultano iscritti da almeno novanta giorni nel libro dei soci.
+{: data-comma="1" }
 
 Ciascun socio cooperatore ha un voto, qualunque sia il valore della quota o il numero delle azioni possedute. L'atto costitutivo determina i limiti al diritto di voto degli strumenti finanziari offerti in sottoscrizione ai soci cooperatori.
+{: data-comma="2" }
 
 Ai soci cooperatori persone giuridiche l'atto costitutivo può attribuire più voti, ma non oltre cinque, in relazione all'ammontare della quota oppure al numero dei loro membri.
+{: data-comma="3" }
 
 Nelle cooperative in cui i soci realizzano lo scopo mutualistico attraverso l'integrazione delle rispettive imprese o di talune fasi di esse, l'atto costitutivo può prevedere che il diritto di voto sia attribuito in ragione della partecipazione allo scambio mutualistico. Lo statuto stabilisce un limite per il voto plurimo per tali categorie di soci, in modo che nessuno di essi possa esprimere più del decimo dei voti in ciascuna assemblea generale. In ogni caso, ad essi non può essere attribuito più di un terzo dei voti spettanti all'insieme dei soci presenti o rappresentati in ciascuna assemblea generale.
+{: data-comma="4" }
 
 Le maggioranze richieste per la costituzione delle assemblee e per la validità delle deliberazioni sono determinate dall'atto costitutivo e sono calcolate secondo il numero dei voti spettanti ai soci.
+{: data-comma="5" }
 
 L'atto costitutivo può prevedere che il voto venga espresso per corrispondenza, ovvero mediante altri mezzi di telecomunicazione. In tal caso l'avviso di convocazione deve contenere per esteso la deliberazione proposta. Se sono poste in votazione proposte diverse da quelle indicate nell'avviso di convocazione, i voti espressi per corrispondenza non si computano ai fini della regolare costituzione dell'assemblea.
+{: data-comma="6" }

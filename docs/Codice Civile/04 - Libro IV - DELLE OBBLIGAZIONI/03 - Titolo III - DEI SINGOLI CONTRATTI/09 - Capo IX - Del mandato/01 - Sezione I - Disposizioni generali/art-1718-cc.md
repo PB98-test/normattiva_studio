@@ -21,9 +21,13 @@ ordine: 1834
 # Art. 1718 - ***Custodia delle cose e tutela dei diritti del mandante***
 
 Il mandatario deve provvedere alla custodia delle cose che gli sono state spedite per conto del mandante e tutelare i diritti di quest'ultimo di fronte al vettore, se le cose presentano segni di deterioramento o sono giunte con ritardo.
+{: data-comma="1" }
 
 Se vi è urgenza, il mandatario può procedere alla vendita delle cose a norma dell'[art. 1515](../../01%20-%20Capo%20I%20-%20Della%20vendita/02%20-%20Sezione%20II%20-%20Della%20vendita%20di%20cose%20mobili%20§%201%20Disposizioni%20generali/art-1515-cc.md).
+{: data-comma="2" }
 
 Di questi fatti, come pure del mancato arrivo della merce, egli deve dare immediato avviso al mandante.
+{: data-comma="3" }
 
 Le disposizioni di questo articolo si applicano anche se il mandatario non accetta l'incarico conferitogli dal mandante, sempre che tale incarico rientri nell'attività professionale del mandatario.
+{: data-comma="4" }

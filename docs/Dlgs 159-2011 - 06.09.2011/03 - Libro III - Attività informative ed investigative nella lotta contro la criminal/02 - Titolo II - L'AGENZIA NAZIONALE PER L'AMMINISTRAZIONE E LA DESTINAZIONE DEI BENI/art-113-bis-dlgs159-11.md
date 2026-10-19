@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Disposizioni in materia di organico dell'Agenzia"
-dataVigenza: "20260930"
-ordine: 128
+dataVigenza: "20261016"
+ordine: 131
 ---
 
 # Art. 113-bis - ***Disposizioni in materia di organico dell'Agenzia***

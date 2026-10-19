@@ -21,7 +21,10 @@ ordine: 191
 # Art. 170 - ***Estinzione di un reato che sia presupposto, elemento costitutivo o circostanza aggravante di un altro reato***
 
 Quando un reato è il presupposto di un altro reato, la causa che lo estingue non si estende all'altro reato.
+{: data-comma="1" }
 
 La causa estintiva di un reato, che è elemento costitutivo o circostanza aggravante di un reato complesso, non si estende al reato complesso.
+{: data-comma="2" }
 
 L'estinzione di taluno fra più reati connessi non esclude, per gli altri, l'aggravamento di pena derivante dalla connessione.
+{: data-comma="3" }

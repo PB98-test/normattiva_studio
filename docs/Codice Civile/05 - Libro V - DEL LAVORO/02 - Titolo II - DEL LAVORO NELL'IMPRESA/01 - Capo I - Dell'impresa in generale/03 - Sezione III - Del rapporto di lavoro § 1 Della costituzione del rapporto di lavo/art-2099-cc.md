@@ -21,7 +21,10 @@ ordine: 2220
 # Art. 2099 - ***Retribuzione***
 
 La retribuzione del prestatore di lavoro può essere stabilita a tempo o a cottimo e deve essere corrisposta nella misura determinata dalle norme corporative, con le modalità e nei termini in uso nel luogo in cui il lavoro viene eseguito.
+{: data-comma="1" }
 
 In mancanza di norme corporative o di accordo tra le parti, la retribuzione è determinata dal giudice, tenuto conto, ove occorra, del parere delle associazioni professionali.
+{: data-comma="2" }
 
 Il prestatore di lavoro può anche essere retribuito in tutto o in parte con partecipazione agli utili o ai prodotti, con provvigione o con prestazioni in natura.
+{: data-comma="3" }

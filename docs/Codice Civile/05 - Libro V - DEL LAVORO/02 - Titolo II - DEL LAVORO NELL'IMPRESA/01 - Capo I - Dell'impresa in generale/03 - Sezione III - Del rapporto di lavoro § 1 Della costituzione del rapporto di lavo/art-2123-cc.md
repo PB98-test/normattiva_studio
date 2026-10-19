@@ -21,5 +21,7 @@ ordine: 2244
 # Art. 2123 - ***Forme di previdenza***
 
 Salvo patto contrario, l'imprenditore che ha compiuto volontariamente atti di previdenza può dedurre dalle somme da lui dovute a norma degli [articoli 2110](art-2110-cc.md), [2111](art-2111-cc.md) e [2120](art-2120-cc.md) quanto il prestatore di lavoro ha diritto di percepire per effetto degli atti medesimi.
+{: data-comma="1" }
 
 Se esistono fondi di previdenza formati con il contributo dei prestatori di lavoro, questi hanno diritto alla liquidazione della propria quota, qualunque sia la causa della cessazione del contratto.
+{: data-comma="2" }

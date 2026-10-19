@@ -21,7 +21,10 @@ ordine: 528
 # Art. 443 - ***Modo di somministrazione degli alimenti***
 
 Chi deve somministrare gli alimenti ha la scelta di adempiere questa obbligazione o mediante un assegno alimentare corrisposto in periodi anticipati, o accogliendo e mantenendo nella propria casa colui che vi ha diritto.
+{: data-comma="1" }
 
 L'autorità giudiziaria può però, secondo le circostanze, determinare il modo di somministrazione.
+{: data-comma="2" }
 
 In caso di urgente necessità l'autorità giudiziaria può altresì porre temporaneamente l'obbligazione degli alimenti a carico di uno solo tra quelli che vi sono obbligati, salvo il regresso verso gli altri.
+{: data-comma="3" }

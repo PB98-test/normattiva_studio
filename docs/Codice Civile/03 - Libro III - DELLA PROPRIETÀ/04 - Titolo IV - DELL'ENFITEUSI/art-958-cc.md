@@ -21,5 +21,7 @@ ordine: 1053
 # Art. 958 - ***Durata***
 
 L'enfiteusi può essere perpetua o a tempo.
+{: data-comma="1" }
 
 L'enfiteusi temporanea non può essere costituita per una durata inferiore ai venti anni.
+{: data-comma="2" }

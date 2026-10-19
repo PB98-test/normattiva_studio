@@ -21,5 +21,7 @@ ordine: 2207
 # Art. 2086 - ***Gestione dell'impresa***
 
 L'imprenditore è il capo dell'impresa e da lui dipendono gerarchicamente i suoi collaboratori.
+{: data-comma="1" }
 
 L'imprenditore, che operi in forma societaria o collettiva, ha il dovere di istituire un assetto organizzativo, amministrativo e contabile adeguato alla natura e alle dimensioni dell'impresa, anche in funzione della rilevazione tempestiva della crisi dell'impresa e della perdita della continuità aziendale, nonchè di attivarsi senza indugio per l'adozione e l'attuazione di uno degli strumenti previsti dall'ordinamento per il superamento della crisi e il recupero della continuità aziendale.
+{: data-comma="2" }

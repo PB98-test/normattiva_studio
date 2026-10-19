@@ -21,5 +21,7 @@ ordine: 945
 # Art. 851 - ***Trasferimenti coattivi***
 
 Il consorzio indicato dall'articolo precedente può predisporre il piano di riordinamento.
+{: data-comma="1" }
 
 Per la migliore sistemazione delle unità fondiarie può procedersi a espropriazioni e a trasferimenti coattivi; può anche procedersi a rettificazioni di confini e ad arrotondamento di fondi.
+{: data-comma="2" }

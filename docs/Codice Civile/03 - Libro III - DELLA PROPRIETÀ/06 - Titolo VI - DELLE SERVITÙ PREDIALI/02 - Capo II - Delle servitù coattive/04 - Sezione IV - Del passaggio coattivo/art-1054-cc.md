@@ -21,5 +21,7 @@ ordine: 1149
 # Art. 1054 - ***Interclusione per effetto di alienazione o di divisione***
 
 Se il fondo è divenuto da ogni parte chiuso per effetto di alienazione a titolo oneroso, il proprietario ha diritto di ottenere dall'altro contraente il passaggio senza alcuna indennità.
+{: data-comma="1" }
 
 La stessa norma si applica in caso di divisione.
+{: data-comma="2" }

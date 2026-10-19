@@ -21,7 +21,10 @@ ordine: 1712
 # Art. 1597 - ***Rinnovazione tacita del contratto***
 
 La locazione si ha per rinnovata se, scaduto il termine di essa, il conduttore rimane ed è lasciato nella detenzione della cosa locata o se, trattandosi di locazione a tempo indeterminato, non è stata comunicata la disdetta a norma dell'articolo precedente.
+{: data-comma="1" }
 
 La nuova locazione è regolata dalle stesse condizioni della precedente, ma la sua durata è quella stabilita per le locazioni a tempo indeterminato.
+{: data-comma="2" }
 
 Se è stata data licenza, il conduttore non può opporre la tacita rinnovazione, salvo che consti la volontà del locatore di rinnovare il contratto.
+{: data-comma="3" }

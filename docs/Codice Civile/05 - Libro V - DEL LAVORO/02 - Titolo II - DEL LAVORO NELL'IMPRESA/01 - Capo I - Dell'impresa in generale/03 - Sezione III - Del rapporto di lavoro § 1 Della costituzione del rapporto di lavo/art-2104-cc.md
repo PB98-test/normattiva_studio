@@ -21,5 +21,7 @@ ordine: 2225
 # Art. 2104 - ***Diligenza del prestatore di lavoro***
 
 Il prestatore di lavoro deve usare la diligenza richiesta dalla natura della prestazione dovuta, dall'interesse dell'impresa e da quello superiore della produzione nazionale.
+{: data-comma="1" }
 
 Deve inoltre osservare le disposizioni per l'esecuzione e per la disciplina del lavoro impartite dall'imprenditore e dai collaboratori di questo dai quali gerarchicamente dipende.
+{: data-comma="2" }

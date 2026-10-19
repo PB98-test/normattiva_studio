@@ -5,9 +5,8 @@ search:
 
 # Leggi citate da DPR 115-2002 - 30.05.2002 ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di DPR 115-2002 - 30.05.2002 — 202 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di DPR 115-2002 - 30.05.2002 — 199 leggi trovate)*
 
-- [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const)
 - [articoli 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400)
 - [articolo 7 della legge 8 marzo 1999, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-08;50)
 - [articolo 1, comma 6, lettere d)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-11-24;340)
@@ -43,10 +42,8 @@ search:
 - [D.L. 19 maggio 2020, n. 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2020-05-19;34)
 - [D.L. 2 marzo 2012, n. 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2012-03-02;16)
 - [L. 26 aprile 2012, n. 44](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-26;44)
-- [articolo 5, comma 2, del codice dell'amministrazione digitale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2005-03-07;82)
 - [regio decreto 18 dicembre 1941, n. 1368](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regiodecreto:1941-12-18;1368)
 - [articolo 10, della legge 11 agosto 1973, n. 533](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-08-11;533)
-- [articolo 16-bis, comma 9-bis, del decreto-legge 18 ottobre 2012, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2012-10-18;179)
 - [legge 17 dicembre 2012, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-17;221)
 - [articoli 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-12-15;1229)
 - [articolo 15 del decreto legislativo 30 marzo 2001, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2001-03-30;165)
@@ -82,7 +79,8 @@ search:
 - [decreto legislativo 18 agosto 2015, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2015-08-18;142)
 - [articoli da 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto:2000-03-27;264)
 - [articolo 57 del decreto legislativo 1° agosto 2003, n. 259](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2003-08-01;259)
-- [legge 11 novembre 2011, n. 180](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011-11-11;180)
+- [D.L. 7 AGOSTO 2026, N. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2026-08-07;144)
+- [decreto legislativo 9 ottobre 2002, n. 231](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2002-10-09;231)
 - [articolo 15 del decreto legislativo 1° settembre 2011, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2011-09-01;150)
 - [articolo 13, del decreto del Presidente della Repubblica 20 aprile 1994, n. 367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1994-04-20;367)
 - [articolo 6, comma quinto, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-10-26;633)
@@ -206,6 +204,5 @@ search:
 - [decreto del Presidente della Repubblica 11 dicembre 2001, n. 466; - l'articolo 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-12-11;466)
 - [decreto del Ministro della giustizia 6 aprile 2001, n. 204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto:2001-04-06;204)
 - [legge 28 novembre 1965, n. 1329](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-11-28;1329)
-- [D.L. 29 dicembre 2009, n. 193](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2009-12-29;193)
 - [L. 22 febbraio 2010, n. 24](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-02-22;24)
 - [art. 9 della Legge n. 488/1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999;488)

@@ -21,5 +21,7 @@ ordine: 3113
 # Art. 2804 - ***Assegnazione o vendita del credito dato in pegno***
 
 Il creditore pignoratizio non soddisfatto può in ogni caso chiedere che gli sia assegnato in pagamento il credito ricevuto in pegno, fino a concorrenza del suo credito.
+{: data-comma="1" }
 
 Se il credito non è ancora scaduto, egli può anche farlo vendere nelle forme stabilite dall'[art. 2797](../02%20-%20Sezione%20II%20-%20Del%20pegno%20dei%20beni%20mobili/art-2797-cc.md).
+{: data-comma="2" }

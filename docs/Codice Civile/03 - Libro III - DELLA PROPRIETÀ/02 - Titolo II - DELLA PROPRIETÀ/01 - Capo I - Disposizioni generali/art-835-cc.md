@@ -21,5 +21,7 @@ ordine: 929
 # Art. 835 - ***Requisizioni***
 
 Quando ricorrono gravi e urgenti necessità pubbliche, militari o civili, può essere disposta la requisizione dei beni mobili o immobili. Al proprietario è dovuta una giusta indennità.
+{: data-comma="1" }
 
 Le norme relative alle requisizioni sono determinate da leggi speciali.
+{: data-comma="2" }

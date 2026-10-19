@@ -21,5 +21,7 @@ ordine: 2079
 # Art. 1958 - ***Effetti del mandato di credito***
 
 Se una persona si obbliga verso un'altra, che le ha conferito l'incarico, a fare credito a un terzo, in nome e per conto proprio, quella che ha dato l'incarico risponde come fideiussore di un debito futuro.
+{: data-comma="1" }
 
 Colui che ha accettato l'incarico non può rinunziarvi, ma chi l'ha conferito può revocarlo, salvo l'obbligo di risarcire il danno all'altra parte.
+{: data-comma="2" }

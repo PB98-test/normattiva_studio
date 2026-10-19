@@ -21,7 +21,10 @@ ordine: 1641
 # Art. 1526 - ***Risoluzione del contratto***
 
 Se la risoluzione del contratto ha luogo per l'inadempimento del compratore, il venditore deve restituire le rate riscosse, salvo il diritto a un equo compenso per l'uso della cosa, oltre al risarcimento del danno.
+{: data-comma="1" }
 
 Qualora si sia convenuto che le rate pagate restino acquisite al venditore a titolo d'indennità, il giudice, secondo le circostanze, può ridurre l'indennità convenuta.
+{: data-comma="2" }
 
 La stessa disposizione si applica nel caso in cui il contratto sia configurato come locazione, e sia convenuto che, al termine di esso, la proprietà della cosa sia acquisita al conduttore per effetto del pagamento dei canoni pattuiti.
+{: data-comma="3" }

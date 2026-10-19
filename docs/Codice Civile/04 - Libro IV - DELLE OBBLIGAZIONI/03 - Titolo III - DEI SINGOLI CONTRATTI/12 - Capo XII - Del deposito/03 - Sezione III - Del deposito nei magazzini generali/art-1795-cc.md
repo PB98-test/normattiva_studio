@@ -21,5 +21,7 @@ ordine: 1916
 # Art. 1795 - ***Diritti del possessore della sola fede di deposito***
 
 Il possessore della sola fede di deposito può ritirare le cose depositate anche prima della scadenza del debito per cui furono costituite in pegno, depositando presso i magazzini generali la somma dovuta alla scadenza al creditore pignoratizio.
+{: data-comma="1" }
 
 Sotto la responsabilità dei magazzini generali, quando si tratta di merci fungibili, il possessore della sola fede di deposito può ritirare anche parte delle merci, depositando presso i magazzini generali una somma proporzionale all'ammontare del debito garantito dalla nota di pegno e alla quantità delle merci ritirate.
+{: data-comma="2" }

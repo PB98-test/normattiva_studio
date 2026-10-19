@@ -21,7 +21,10 @@ ordine: 1925
 # Art. 1804 - ***Obbligazioni del comodatario***
 
 Il comodatario è tenuto a custodire e a conservare la cosa con la diligenza del buon padre di famiglia. Egli non può servirsene che per l'uso determinato dal contratto o dalla natura della cosa.
+{: data-comma="1" }
 
 Non può concedere a un terzo il godimento della cosa senza il consenso del comodante.
+{: data-comma="2" }
 
 Se il comodatario non adempie gli obblighi suddetti, il comodante può chiedere l'immediata restituzione della cosa, oltre al risarcimento del danno.
+{: data-comma="3" }

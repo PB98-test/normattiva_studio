@@ -21,5 +21,7 @@ ordine: 1363
 # Art. 1261 - ***Divieti di cessione***
 
 I magistrati dell'ordine giudiziario, i funzionari delle cancellerie e segreterie giudiziarie, gli ufficiali giudiziari, gli avvocati, i procuratori, i patrocinatori e i notai non possono, neppure per interposta persona, rendersi cessionari di diritti sui quali è sorta contestazione davanti l'autorità giudiziaria di cui fanno parte o nella cui giurisdizione esercitano le loro funzioni, sotto pena di nullità e dei danni.
+{: data-comma="1" }
 
 La disposizione del comma precedente non si applica alle cessioni di azioni ereditarie tra coeredi, nè a quelle fatte in pagamento di debiti o per difesa di beni posseduti dal cessionario.
+{: data-comma="2" }

@@ -21,7 +21,10 @@ ordine: 2009
 # Art. 1888 - ***Prova del contratto***
 
 Il contratto di assicurazione deve essere provato per iscritto.
+{: data-comma="1" }
 
 L'assicuratore è obbligato a rilasciare al contraente la polizza di assicurazione o altro documento da lui sottoscritto.
+{: data-comma="2" }
 
 L'assicuratore è anche tenuto a rilasciare, a richiesta e a spese del contraente, duplicati o copie della polizza; ma in tal caso può esigere la presentazione o la restituzione dell'originale.
+{: data-comma="3" }

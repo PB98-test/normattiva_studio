@@ -21,9 +21,13 @@ ordine: 695
 # Art. 608 - ***Ritiro di testamento segreto od olografo***
 
 Il testamento segreto e il testamento olografo che è stato depositato possono dal testatore essere ritirati in ogni tempo dalle mani del notaio presso il quale si trovano.
+{: data-comma="1" }
 
 A cura del notaio si redige verbale della restituzione; il verbale è sottoscritto dal testatore, da due testimoni e dal notaio; se il testatore non può sottoscrivere, se ne fa menzione.
+{: data-comma="2" }
 
 Quando il testamento è depositato in un pubblico archivio, il verbale è redatto dall'archivista e sottoscritto dal testatore, dai testimoni e dall'archivista medesimo.
+{: data-comma="3" }
 
 Della restituzione del testamento si prende nota in margine o in calce all'atto di consegna o di deposito.
+{: data-comma="4" }

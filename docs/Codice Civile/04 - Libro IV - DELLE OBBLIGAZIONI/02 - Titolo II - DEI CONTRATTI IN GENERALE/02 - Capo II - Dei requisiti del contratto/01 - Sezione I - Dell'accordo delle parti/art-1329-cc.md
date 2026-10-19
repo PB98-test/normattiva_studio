@@ -21,5 +21,7 @@ ordine: 1431
 # Art. 1329 - ***Proposta irrevocabile***
 
 Se il proponente si è obbligato a mantenere ferma la proposta per un certo tempo, la revoca è senza effetto.
+{: data-comma="1" }
 
 Nell'ipotesi prevista dal comma precedente, la morte o la sopravvenuta incapacità del proponente non toglie efficacia alla proposta, salvo che la natura dell'affare o altre circostanze escludano tale efficacia.
+{: data-comma="2" }

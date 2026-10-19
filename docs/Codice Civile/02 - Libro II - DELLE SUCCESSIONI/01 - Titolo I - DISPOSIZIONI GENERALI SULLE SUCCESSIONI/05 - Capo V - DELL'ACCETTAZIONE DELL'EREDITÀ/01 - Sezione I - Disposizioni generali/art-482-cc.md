@@ -21,5 +21,7 @@ ordine: 569
 # Art. 482 - ***Impugnazione per violenza o dolo***
 
 L'accettazione dell'eredità si può impugnare quando è effetto di violenza o di dolo.
+{: data-comma="1" }
 
 L'azione si prescrive in cinque anni dal giorno in cui è cessata la violenza o è stato scoperto il dolo.
+{: data-comma="2" }

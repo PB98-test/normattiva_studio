@@ -21,6 +21,7 @@ ordine: 814
 # Art. 609-ter - ***Circostanze aggravanti***
 
 La pena stabilita dall'[articolo 609-bis](art-609-bis-cp.md) è aumentata di un terzo se i fatti ivi previsti sono commessi:
+{: data-comma="1" }
 
 - 1) nei confronti di persona della quale il colpevole sia l'ascendente, il genitore, anche adottivo, o il tutore;
 - 2) con l'uso di armi o di sostanze alcoliche, narcotiche o stupefacenti o di altri strumenti o sostanze gravemente lesivi della salute della persona offesa;
@@ -35,3 +36,4 @@ La pena stabilita dall'[articolo 609-bis](art-609-bis-cp.md) è aumentata di un 
 - 5-septies) se dal fatto deriva pericolo di vita per il minore.
 
 La pena stabilita dall'[articolo 609-bis](art-609-bis-cp.md) è aumentata della metà se i fatti ivi previsti sono commessi nei confronti di persona che non ha compiuto gli anni quattordici. La pena è raddoppiata se i fatti di cui all'[articolo 609-bis](art-609-bis-cp.md) sono commessi nei confronti di persona che non ha compiuto gli anni dieci.
+{: data-comma="2" }

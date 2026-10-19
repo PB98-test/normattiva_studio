@@ -21,5 +21,7 @@ ordine: 1301
 # Art. 1199 - ***Diritto del debitore alla quietanza***
 
 Il creditore che riceve il pagamento deve, a richiesta e a spese del debitore, rilasciare quietanza e farne annotazione sul titolo, se questo non è restituito al debitore.
+{: data-comma="1" }
 
 Il rilascio di una quietanza per il capitale fa presumere il pagamento degli interessi.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 89
 # Art. 57 - ***Prova della morte dell'assente***
 
 Se durante il possesso temporaneo è provata la morte dell'assente, la successione si apre a vantaggio di coloro che al momento della morte erano suoi eredi o legatari.
+{: data-comma="1" }
 
 Si applica anche in questo caso la disposizione del secondo comma dell'articolo precedente.
+{: data-comma="2" }

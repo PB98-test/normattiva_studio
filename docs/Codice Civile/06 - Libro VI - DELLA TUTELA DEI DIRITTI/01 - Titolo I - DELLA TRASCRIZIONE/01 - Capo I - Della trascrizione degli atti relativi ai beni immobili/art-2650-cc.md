@@ -21,7 +21,10 @@ ordine: 2952
 # Art. 2650 - ***Continuità delle trascrizioni***
 
 Nei casi in cui, per le disposizioni precedenti, un atto di acquisto è soggetto a trascrizione, le successive trascrizioni o iscrizioni a carico dell'acquirente non producono effetto, se non è stato trascritto l'atto anteriore di acquisto.
+{: data-comma="1" }
 
 Quando l'atto anteriore di acquisto è stato trascritto, le successive trascrizioni o iscrizioni producono effetto secondo il loro ordine rispettivo, salvo il disposto dell'[art. 2644](art-2644-cc.md).
+{: data-comma="2" }
 
 L'ipoteca legale a favore dell'alienante e quella a favore del condividente, iscritte contemporaneamente alla trascrizione del titolo di acquisto o della divisione, prevalgono sulle trascrizioni o iscrizioni eseguite anteriormente contro l'acquirente o il condividente tenuto al conguaglio.
+{: data-comma="3" }

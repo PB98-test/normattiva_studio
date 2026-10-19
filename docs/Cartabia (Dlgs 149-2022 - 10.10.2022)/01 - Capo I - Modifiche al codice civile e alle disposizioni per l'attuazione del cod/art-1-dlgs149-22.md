@@ -14,7 +14,7 @@ capo_label: "Modifiche al codice civile e alle disposizioni per l'attuazione del
 sezione: null
 sezione_label: null
 rubrica: "Modifiche al codice civile"
-dataVigenza: "20260930"
+dataVigenza: "20261016"
 ordine: 1
 ---
 
@@ -73,4 +73,4 @@ ordine: 1
 
 13\. Al Libro VI, Titolo I, Capo III, Sezione I, [articolo 2690, primo comma, del codice civile](../../Codice%20Civile/06%20-%20Libro%20VI%20-%20DELLA%20TUTELA%20DEI%20DIRITTI/01%20-%20Titolo%20I%20-%20DELLA%20TRASCRIZIONE/03%20-%20Capo%20III%20-%20Della%20trascrizione%20degli%20atti%20relativi%20ad%20alcuni%20beni%20mobili/01%20-%20Sezione%20I%20-%20Della%20trascrizione%20relativamente%20alle%20navi,%20agli%20aeromobili%20e%20agli%20a/art-2690-cc.md), dopo il numero 6), secondo periodo, è inserito il seguente: «6-bis) le domande indicate dal numero 9-bis dell'articolo 2652 per gli effetti ivi disposti. La trascrizione della sentenza che accoglie la domanda prevale sulle trascrizioni e iscrizioni eseguite contro il convenuto dopo la trascrizione della domanda.».
 
-[^agg-7]: *AGGIORNAMENTO (7)* Il [D.Lgs. 31 ottobre 2024, n. 164](../../Correttivo%20Cartabia%20%28Dlgs%20164-2024%20-%2031.10.2024%29/00%20-%20Indice%20%28dlgs164-24%29.md), ha disposto (con l'[art. 7](../04%20-%20Capo%20IV%20-%20Ulteriori%20interventi%20e%20modifiche%20alle%20leggi%20speciali/01%20-%20Sezione%20I%20-%20Modifiche%20in%20materia%20di%20Mediazione,%20Negoziazione%20assistita%20e%20Arbitra/art-7-dlgs149-22.md), comma 1) che "Ove non diversamente previsto, le disposizioni del presente decreto si applicano ai procedimenti introdotti successivamente al 28 febbraio 2023".
+[^agg-7]: *AGGIORNAMENTO (7)* Il [D.Lgs. 31 ottobre 2024, n. 164](../../Correttivo%20Cartabia%20%28Dlgs%20164-2024%20-%2031.10.2024%29/00%20-%20Indice%20%28dlgs164-24%29.md), ha disposto (con l'art. 7, comma 1) che "Ove non diversamente previsto, le disposizioni del presente decreto si applicano ai procedimenti introdotti successivamente al 28 febbraio 2023".

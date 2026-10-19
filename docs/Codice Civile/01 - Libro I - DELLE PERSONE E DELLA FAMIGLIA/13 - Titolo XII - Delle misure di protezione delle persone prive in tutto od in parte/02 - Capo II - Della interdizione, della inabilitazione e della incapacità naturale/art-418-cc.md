@@ -21,7 +21,10 @@ ordine: 503
 # Art. 418 - ***Poteri dell'autorità giudiziaria***
 
 Promosso il giudizio d'interdizione, può essere dichiarata anche d'ufficio l'inabilitazione per infermità di mente.
+{: data-comma="1" }
 
 Se nel corso del giudizio d'inabilitazione si rivela l'esistenza delle condizioni richieste per l'interdizione, il pubblico ministero fa istanza al tribunale di pronunziare l'interdizione, e il tribunale provvede nello stesso giudizio, premessa l'istruttoria necessaria.
+{: data-comma="2" }
 
 Se nel corso del giudizio di interdizione o di inabilitazione appare opportuno applicare l'amministrazione di sostegno, il giudice, d'ufficio o ad istanza di parte, dispone la trasmissione del procedimento al giudice tutelare. In tal caso il giudice competente per l'interdizione o per l'inabilitazione può adottare i provvedimenti urgenti di cui al quarto comma dell'[articolo 405](../01%20-%20Capo%20I%20-%20Dell%27amministrazione%20di%20sostegno/art-405-cc.md).
+{: data-comma="3" }

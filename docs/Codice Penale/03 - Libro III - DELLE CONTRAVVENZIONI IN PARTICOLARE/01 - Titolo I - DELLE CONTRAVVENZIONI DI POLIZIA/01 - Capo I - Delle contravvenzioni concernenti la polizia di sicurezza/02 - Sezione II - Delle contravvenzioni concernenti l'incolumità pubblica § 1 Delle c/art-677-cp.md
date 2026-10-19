@@ -21,7 +21,10 @@ ordine: 934
 # Art. 677 - ***Omissione di lavori in edifici o costruzioni che minacciano rovina***
 
 Il proprietario di un edificio o di una costruzione che minacci rovina ovvero chi è per lui obbligato alla conservazione o alla vigilanza dell'edificio o della costruzione, il quale omette di provvedere ai lavori necessari per rimuovere il pericolo, è punito con la sanzione amministrativa pecuniaria da lire trecentomila a un milione ottocentomila.
+{: data-comma="1" }
 
 La stessa sanzione si applica a chi, avendone l'obbligo, omette di rimuovere il pericolo cagionato dall'avvenuta rovina di un edificio o di una costruzione.
+{: data-comma="2" }
 
 Se dai fatti preveduti dalle disposizioni precedenti deriva pericolo per le persone, la pena è dell'arresto fino a sei mesi o dell'ammenda non inferiore a lire tremila.
+{: data-comma="3" }

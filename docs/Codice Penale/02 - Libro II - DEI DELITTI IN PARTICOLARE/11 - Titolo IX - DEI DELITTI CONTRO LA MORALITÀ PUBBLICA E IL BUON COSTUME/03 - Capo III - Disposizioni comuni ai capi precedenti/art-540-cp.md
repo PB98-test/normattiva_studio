@@ -21,5 +21,7 @@ ordine: 693
 # Art. 540 - ***Rapporto di parentela***
 
 Agli effetti della legge penale, quando il rapporto di parentela è considerato come elemento costitutivo o come circostanza aggravante o attenuante o come causa di non punibilità, la filiazione fuori del matrimonio è equiparata alla filiazione nel matrimonio.
+{: data-comma="1" }
 
 Il rapporto di filiazione fuori del matrimonio è stabilito osservando i limiti di prova indicati dalla legge civile, anche se per effetti diversi dall'accertamento dello stato delle persone.
+{: data-comma="2" }

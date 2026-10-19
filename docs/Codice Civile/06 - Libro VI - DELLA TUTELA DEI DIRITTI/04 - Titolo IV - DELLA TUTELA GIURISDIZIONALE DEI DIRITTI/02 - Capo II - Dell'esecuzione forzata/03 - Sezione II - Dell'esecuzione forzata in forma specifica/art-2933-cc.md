@@ -21,5 +21,7 @@ ordine: 3244
 # Art. 2933 - ***Esecuzione forzata degli obblighi di non fare***
 
 Se non è adempiuto un obbligo di non fare, l'avente diritto può ottenere che sia distrutto, a spese dell'obbligato, ciò che è stato fatto in violazione dell'obbligo.
+{: data-comma="1" }
 
 Non può essere ordinata la distruzione della cosa e l'avente diritto può conseguire solo il risarcimento dei danni, se la distruzione della cosa è di pregiudizio all'economia nazionale.
+{: data-comma="2" }

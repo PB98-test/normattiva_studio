@@ -21,7 +21,10 @@ ordine: 700
 # Art. 613 - ***Consegna***
 
 Se la nave approda a un porto estero in cui vi sia un'autorità consolare, il comandante è tenuto a consegnare all'autorità medesima uno degli originali del testamento e una copia dell'annotazione fatta sul giornale di bordo ovvero sul giornale nautico e sul ruolo d'equipaggio.
+{: data-comma="1" }
 
 Al ritorno della nave nel Regno, i due originali del testamento, o quello non depositato durante il viaggio, devono essere consegnati all'autorità marittima locale insieme con la copia della predetta annotazione.
+{: data-comma="2" }
 
 Della consegna si rilascia dichiarazione, di cui si fa cenno in margine all'annotazione sopraindicata.
+{: data-comma="3" }

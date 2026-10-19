@@ -14,7 +14,7 @@ capo_label: "DEGLI ILLECITI AMMINISTRATIVI E DELLE RELATIVE SANZIONI"
 sezione: "I"
 sezione_label: "Degli illeciti amministrativi importanti sanzioni amministrative pecuniarie ed applicazione di queste ultime"
 rubrica: "Ricorso in sede giurisdizionale"
-dataVigenza: "20260930"
+dataVigenza: "20261012"
 ordine: 222
 ---
 
@@ -24,4 +24,4 @@ ordine: 222
 
 [^agg-62]: *AGGIORNAMENTO (62)* La Corte Costituzionale, con sentenza 5-8 aprile 2004, n. 114 (in G.U. 1a s.s. 14/4/2004, n. 15) ha dichiarato l'illegittimità costituzionale del comma 3 del presente articolo.
 
-[^agg-105]: *AGGIORNAMENTO (105)* Il D.Lgs. 1 settembre 2011, n. 150 ha disposto (con l'[art. 36](../../../02%20-%20Titolo%20II%20-%20DELLA%20COSTRUZIONE%20E%20TUTELA%20DELLE%20STRADE/02%20-%20Capo%20II%20-%20ORGANIZZAZIONE%20DELLA%20CIRCOLAZIONE%20E%20SEGNALETICA%20STRADALE/art-36-dlgs285-92.md), commi 1 e 2) che "1. Le norme del presente decreto si applicano ai procedimenti instaurati successivamente alla data di entrata in vigore dello stesso. 2. Le norme abrogate o modificate dal presente decreto continuano ad applicarsi alle controversie pendenti alla data di entrata in vigore dello stesso."
+[^agg-105]: *AGGIORNAMENTO (105)* Il D.Lgs. 1 settembre 2011, n. 150 ha disposto (con l'art. 36, commi 1 e 2) che "1. Le norme del presente decreto si applicano ai procedimenti instaurati successivamente alla data di entrata in vigore dello stesso. 2. Le norme abrogate o modificate dal presente decreto continuano ad applicarsi alle controversie pendenti alla data di entrata in vigore dello stesso."

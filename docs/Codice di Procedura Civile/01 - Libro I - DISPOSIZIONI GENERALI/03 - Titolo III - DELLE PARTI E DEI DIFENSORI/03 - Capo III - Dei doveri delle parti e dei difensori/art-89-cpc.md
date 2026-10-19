@@ -21,5 +21,7 @@ ordine: 96
 # Art. 89 - ***Espressioni sconvenienti od offensive***
 
 Negli scritti presentati e nei discorsi pronunciati davanti al giudice, le parti e i loro difensori non debbono usare espressioni sconvenienti od offensive.
+{: data-comma="1" }
 
 Il giudice, in ogni stato dell'istruzione, può disporre con ordinanza che si cancellino le espressioni sconvenienti od offensive, e, con la sentenza che decide la causa, può inoltre assegnare alla persona offesa una somma a titolo di risarcimento del danno anche non patrimoniale sofferto, quando le espressioni offensive non riguardano l'oggetto della causa.
+{: data-comma="2" }

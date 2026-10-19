@@ -21,5 +21,7 @@ ordine: 19
 # Art. 18 - ***Foro generale delle persone fisiche***
 
 Salvo che la legge disponga altrimenti, è competente il giudice del luogo in cui il convenuto ha la residenza o il domicilio, e, se questi sono sconosciuti, quello del luogo in cui il convenuto ha la dimora.
+{: data-comma="1" }
 
 Se il convenuto non ha residenza, nè domicilio, nè dimora nel Regno o se la dimora è sconosciuta, è competente il giudice del luogo in cui risiede l'attore.
+{: data-comma="2" }

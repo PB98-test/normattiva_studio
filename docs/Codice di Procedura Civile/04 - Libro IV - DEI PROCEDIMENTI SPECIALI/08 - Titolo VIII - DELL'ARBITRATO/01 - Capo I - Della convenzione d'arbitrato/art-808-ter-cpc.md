@@ -21,8 +21,10 @@ ordine: 987
 # Art. 808-ter - ***Arbitrato irrituale***
 
 Le parti possono, con disposizione espressa per iscritto, stabilire che, in deroga a quanto disposto dall'[articolo 824-bis](../04%20-%20Capo%20IV%20-%20Del%20lodo/art-824-bis-cpc.md), la controversia sia definita dagli arbitri mediante determinazione contrattuale. Altrimenti si applicano le disposizioni del presente titolo.
+{: data-comma="1" }
 
 Il lodo contrattuale è annullabile dal giudice competente secondo le disposizioni del libro I:
+{: data-comma="2" }
 
 - 1) se la convenzione dell'arbitrato è invalida, o gli arbitri hanno pronunciato su conclusioni che esorbitano dai suoi limiti e la relativa eccezione è stata sollevata nel procedimento arbitrale;
 - 2) se gli arbitri non sono stati nominati con le forme e nei modi stabiliti dalla convenzione arbitrale;

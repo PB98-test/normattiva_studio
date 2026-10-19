@@ -21,5 +21,7 @@ ordine: 124
 # Art. 92 - ***Matrimonio del Re Imperatore e dei Principi Reali***
 
 Le disposizioni degli [articoli 84](art-84-cc.md), [87](art-87-cc.md), numeri 3, 5, 6, 7, 8, 9 e dell'[art. 90](art-90-cc.md), quarto comma, non sono applicabili al Re Imperatore e alla Famiglia Reale.
+{: data-comma="1" }
 
 Per la validità dei matrimoni dei Principi e delle Principesse Reali è richiesto l'assenso del Re Imperatore.
+{: data-comma="2" }

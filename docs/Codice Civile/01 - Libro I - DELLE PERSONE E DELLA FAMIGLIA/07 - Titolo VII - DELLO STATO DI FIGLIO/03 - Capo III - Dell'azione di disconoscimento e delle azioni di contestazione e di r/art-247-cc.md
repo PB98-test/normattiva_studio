@@ -21,9 +21,13 @@ ordine: 292
 # Art. 247 - ***Legittimazione passiva.***
 
 Il presunto padre, la madre ed il figlio sono litisconsorti necessari nel giudizio di disconoscimento.
+{: data-comma="1" }
 
 Se una delle parti è minore o interdetta, l'azione è proposta in contraddittorio con un curatore nominato dal giudice davanti al quale il giudizio deve essere promosso.
+{: data-comma="2" }
 
 Se una delle parti è un minore emancipato o un maggiore inabilitato, l'azione è proposta contro la stessa assistita da un curatore parimenti nominato dal giudice.
+{: data-comma="3" }
 
 Se il presunto padre o la madre o il figlio sono morti l'azione si propone nei confronti delle persone indicate nell'articolo precedente o, in loro mancanza, nei confronti di un curatore parimenti nominato dal giudice.
+{: data-comma="4" }

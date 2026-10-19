@@ -21,5 +21,7 @@ ordine: 10
 # Art. 10-preleggi - ***Inizio dell'obbligatorietà delle leggi e dei regolamenti***
 
 Le leggi e i regolamenti divengono obbligatori nel decimoquinto giorno successivo a quello della loro pubblicazione, salvo che sia altrimenti disposto.
+{: data-comma="1" }
 
 Le norme corporative divengono obbligatorie nel giorno successivo a quello della pubblicazione, salvo che in esse sia altrimenti disposto.
+{: data-comma="2" }

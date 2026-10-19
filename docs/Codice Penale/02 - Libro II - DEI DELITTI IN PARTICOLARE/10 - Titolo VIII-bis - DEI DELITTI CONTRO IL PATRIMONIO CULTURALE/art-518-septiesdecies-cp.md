@@ -21,5 +21,7 @@ ordine: 669
 # Art. 518-septiesdecies - ***Circostanze attenuanti***
 
 La pena è diminuita di un terzo quando un reato previsto dal presente titolo cagioni un danno di speciale tenuità ovvero comporti un lucro di speciale tenuità quando anche l'evento dannoso o pericoloso sia di speciale tenuità.
+{: data-comma="1" }
 
 La pena è diminuita da un terzo a due terzi nei confronti di chi abbia consentito l'individuazione dei correi o abbia fatto assicurare le prove del reato o si sia efficacemente adoperato per evitare che l'attività delittuosa fosse portata a conseguenze ulteriori o abbia recuperato o fatto recuperare i beni culturali oggetto del delitto.
+{: data-comma="2" }

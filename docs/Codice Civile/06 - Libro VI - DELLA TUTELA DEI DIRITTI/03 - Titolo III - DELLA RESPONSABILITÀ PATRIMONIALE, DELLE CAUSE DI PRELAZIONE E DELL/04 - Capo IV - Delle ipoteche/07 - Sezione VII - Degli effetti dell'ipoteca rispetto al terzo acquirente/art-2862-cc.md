@@ -21,7 +21,10 @@ ordine: 3172
 # Art. 2862 - ***Ipoteche e altri diritti reali a carico e a favore del terzo***
 
 Il rilascio non pregiudica le ipoteche, le servitù e gli altri diritti reali resi pubblici contro il terzo prima dell'annotazione del rilascio.
+{: data-comma="1" }
 
 Le ipoteche, le servitù e gli altri diritti reali che già spettavano al terzo prima dell'acquisto riprendono efficacia dopo il rilascio o dopo la vendita all'incanto eseguita contro di lui.
+{: data-comma="2" }
 
 Del pari riprendono efficacia le servitù che al momento dell'iscrizione dell'ipoteca esistevano a favore del fondo ipotecato e a carico di altro fondo del terzo. Esse sono comprese nell'espropriazione del fondo ipotecato.
+{: data-comma="3" }

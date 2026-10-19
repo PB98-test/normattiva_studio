@@ -21,7 +21,10 @@ ordine: 285
 # Art. 261 - ***Riproduzioni, copie ed esperimenti***
 
 Il giudice istruttore può disporre che siano eseguiti rilievi, calchi e riproduzioni anche fotografiche di oggetti, documenti e luoghi, e, quando occorre, rilevazioni cinematografiche o altre che richiedono l'impiego di mezzi, strumenti o procedimenti meccanici.
+{: data-comma="1" }
 
 Egualmente, per accertare se un fatto sia o possa essersi verificato in un dato modo, il giudice può ordinare di procedere alla riproduzione del fatto stesso, facendone eventualmente eseguire la rilevazione fotografica o cinematografica.
+{: data-comma="2" }
 
 Il giudice presiede all'esperimento e, quando occorre, ne affida l'esecuzione a un esperto che presta giuramento a norma dell'[articolo 193](art-193-cpc.md).
+{: data-comma="3" }

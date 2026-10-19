@@ -21,5 +21,7 @@ ordine: 2064
 # Art. 1943 - ***Obbligazione di prestare fideiussione***
 
 Il debitore obbligato a dare un fideiussore deve presentare persona capace, che possieda beni sufficienti a garantire l'obbligazione e che abbia o elegga domicilio nella giurisdizione della corte di appello in cui la fideiussione si deve prestare.
+{: data-comma="1" }
 
 Quando il fideiussore è divenuto insolvente, deve esserne dato un altro, tranne che la fideiussione sia stata prestata dalla persona voluta dal creditore.
+{: data-comma="2" }

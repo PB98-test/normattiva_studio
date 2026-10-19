@@ -21,5 +21,7 @@ ordine: 2595
 # Art. 2410 - ***Emissione***
 
 Se la legge o lo statuto non dispongono diversamente, l'emissione di obbligazioni è deliberata dagli amministratori.
+{: data-comma="1" }
 
 In ogni caso la deliberazione di emissione deve risultare da verbale redatto da notaio ed è depositata ed iscritta a norma dell'[articolo 2436](../12%20-%20Sezione%20X%20-%20Delle%20modificazioni%20dello%20statuto/art-2436-cc.md).
+{: data-comma="2" }

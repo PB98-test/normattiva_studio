@@ -21,7 +21,10 @@ ordine: 1248
 # Art. 1147 - ***Possesso di buona fede***
 
 È possessore di buona fede chi possiede ignorando di ledere l'altrui diritto.
+{: data-comma="1" }
 
 La buona fede non giova se l'ignoranza dipende da colpa grave.
+{: data-comma="2" }
 
 La buona fede è presunta e basta che vi sia stata al tempo dell'acquisto.
+{: data-comma="3" }

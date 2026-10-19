@@ -21,7 +21,10 @@ ordine: 2310
 # Art. 2189 - ***Modalità dell'iscrizione***
 
 Le iscrizioni nel registro sono eseguite su domanda sottoscritta dall'interessato.
+{: data-comma="1" }
 
 Prima di procedere all'iscrizione, l'ufficio del registro deve accertare l'autenticità della sottoscrizione e il concorso delle condizioni richieste dalla legge per l'iscrizione.
+{: data-comma="2" }
 
 Il rifiuto dell'iscrizione deve essere comunicato con raccomandata al richiedente. Questi può ricorrere entro otto giorni al giudice del registro, che provvede con decreto.
+{: data-comma="3" }

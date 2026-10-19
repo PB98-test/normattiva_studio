@@ -21,7 +21,10 @@ ordine: 25
 # Art. 23 - ***Reclusione***
 
 La pena della reclusione si estende da quindici giorni a ventiquattro anni, ed è scontata in uno degli stabilimenti a ciò destinati, con l'obbligo del lavoro e con l'isolamento notturno.
+{: data-comma="1" }
 
 Il condannato alla reclusione, che ha scontato almeno un anno della pena, può essere ammesso al lavoro all'aperto.
+{: data-comma="2" }
 
 Sono applicabili alla pena della reclusione le disposizioni degli ultimi due capoversi dell'articolo precedente.
+{: data-comma="3" }

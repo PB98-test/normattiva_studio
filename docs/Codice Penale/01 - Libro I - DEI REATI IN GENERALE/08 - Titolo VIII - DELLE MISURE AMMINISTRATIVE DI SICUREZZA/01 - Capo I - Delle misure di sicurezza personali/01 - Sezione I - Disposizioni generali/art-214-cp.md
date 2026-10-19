@@ -21,5 +21,7 @@ ordine: 236
 # Art. 214 - ***Inosservanza delle misure di sicurezza detentive***
 
 Nel caso in cui la persona sottoposta a misura di sicurezza detentiva si sottrae volontariamente alla esecuzione di essa, ricomincia a decorrere il periodo minimo di durata della misura di sicurezza dal giorno in cui a questa è data nuovamente esecuzione.
+{: data-comma="1" }
 
 Tale disposizione non si applica nel caso di persona ricoverata in un manicomio giudiziario o in una casa di cura e di custodia.
+{: data-comma="2" }

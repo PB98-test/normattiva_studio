@@ -21,11 +21,16 @@ ordine: 2541
 # Art. 2393 - ***Azione sociale di responsabilità***
 
 L'azione di responsabilità contro gli amministratori è promossa in seguito a deliberazione dell'assemblea, anche se la società è in liquidazione.
+{: data-comma="1" }
 
 La deliberazione concernente la responsabilità degli amministratori può essere presa in occasione della discussione del bilancio, anche se non è indicata nell'elenco delle materie da trattare, quando si tratta di fatti di competenza dell'esercizio cui si riferisce il bilancio.
+{: data-comma="2" }
 
 L'azione può essere esercitata entro cinque anni dalla cessazione dell'amministratore dalla carica.
+{: data-comma="3" }
 
 La deliberazione dell'azione di responsabilità importa la revoca dall'ufficio degli amministratori contro cui è proposta, purchè sia presa con il voto favorevole di almeno un quinto del capitale sociale. In questo caso, l'assemblea provvede alla sostituzione degli amministratori.
+{: data-comma="4" }
 
 La società può rinunziare all'esercizio dell'azione di responsabilità e può transigere, purchè la rinunzia e la transazione siano approvate con espressa deliberazione dell'assemblea, e purchè non vi sia il voto contrario di una minoranza di soci che rappresenti almeno il quinto del capitale sociale o, nelle società che fanno ricorso al mercato del capitale di rischio, almeno un ventesimo del capitale sociale, ovvero la misura prevista nello statuto per l'esercizio dell'azione sociale di responsabilità ai sensi dei commi primo e secondo dell'[articolo 2393-bis](art-2393-bis-cc.md).
+{: data-comma="5" }

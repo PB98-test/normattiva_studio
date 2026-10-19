@@ -21,5 +21,7 @@ ordine: 163
 # Art. 153 - ***Improrogabilità dei termini perentori***
 
 I termini perentori non possono essere abbreviati o prorogati, nemmeno sull'accordo delle parti.
+{: data-comma="1" }
 
 La parte che dimostra di essere incorsa in decadenze per causa ad essa non imputabile può chiedere al giudice di essere rimessa in termini. Il giudice provvede a norma dell'[articolo 294](../../../02%20-%20Libro%20II%20-%20DEL%20PROCESSO%20DI%20COGNIZIONE/01%20-%20Titolo%20I%20-%20DEL%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE/09%20-%20Capo%20VI%20-%20Del%20procedimento%20in%20contumacia/art-294-cpc.md), secondo e terzo comma.
+{: data-comma="2" }

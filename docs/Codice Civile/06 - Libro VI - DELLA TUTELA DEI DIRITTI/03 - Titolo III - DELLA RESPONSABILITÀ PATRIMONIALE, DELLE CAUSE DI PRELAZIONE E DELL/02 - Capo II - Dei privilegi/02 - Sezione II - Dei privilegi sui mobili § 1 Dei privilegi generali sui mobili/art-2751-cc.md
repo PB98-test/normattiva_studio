@@ -14,7 +14,7 @@ capo_label: "Dei privilegi"
 sezione: "II"
 sezione_label: "Dei privilegi sui mobili § 1 Dei privilegi generali sui mobili"
 rubrica: "Crediti per spese funebri, d'infermità, alimenti."
-dataVigenza: "20260914"
+dataVigenza: "20261016"
 ordine: 3056
 ---
 
@@ -22,8 +22,7 @@ ordine: 3056
 
 Hanno privilegio generale sui mobili, nell'ordine che segue, i crediti riguardanti:
 
-1) le spese funebri necessarie secondo gli usi;
-
+- 1) le spese funebri necessarie secondo gli usi;
 - 2) le spese d'infermità fatte negli ultimi sei mesi della vita del debitore;
 - 3) le somministrazioni di vitto, vesti e alloggio, nei limiti della stretta necessità, fatte al debitore per lui e per la sua famiglia negli ultimi sei mesi;
 - 4) i crediti di alimenti per gli ultimi tre mesi a favore delle persone alle quali gli alimenti sono dovuti per legge

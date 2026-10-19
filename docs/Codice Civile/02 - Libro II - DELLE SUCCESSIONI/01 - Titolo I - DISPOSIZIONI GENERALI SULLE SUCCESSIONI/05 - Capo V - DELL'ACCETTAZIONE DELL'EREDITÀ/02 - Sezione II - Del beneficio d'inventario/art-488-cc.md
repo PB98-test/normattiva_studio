@@ -21,5 +21,7 @@ ordine: 575
 # Art. 488 - ***Dichiarazione in caso di termine fissato dall'autorità giudiziaria***
 
 Il chiamato all'eredità,che non è nel possesso di beni ereditari, qualora gli sia stato assegnato un termine a norma dell'[art. 481](../01%20-%20Sezione%20I%20-%20Disposizioni%20generali/art-481-cc.md), deve, entro detto termine, compiere anche l'inventario; se fa la dichiarazione e non l'inventario, è considerato erede puro e semplice.
+{: data-comma="1" }
 
 L'autorità giudiziaria può accordare una dilazione.
+{: data-comma="2" }

@@ -21,7 +21,10 @@ ordine: 2065
 # Art. 1944 - ***Obbligazione del fideiussore***
 
 Il fideiussore è obbligato in solido col debitore principale al pagamento del debito.
+{: data-comma="1" }
 
 Le parti però possono convenire che il fideiussore non sia tenuto a pagare prima dell'escussione del debitore principale. In tal caso, il fideiussore, che sia convenuto dal creditore e intenda valersi del beneficio dell'escussione, deve indicare i beni del debitore principale da sottoporre ad esecuzione.
+{: data-comma="2" }
 
 Salvo patto contrario, il fideiussore è tenuto ad anticipare le spese necessarie.
+{: data-comma="3" }

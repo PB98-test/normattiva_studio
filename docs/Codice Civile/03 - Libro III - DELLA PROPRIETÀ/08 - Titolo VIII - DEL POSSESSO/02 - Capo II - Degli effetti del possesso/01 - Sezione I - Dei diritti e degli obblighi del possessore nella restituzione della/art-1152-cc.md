@@ -21,5 +21,7 @@ ordine: 1253
 # Art. 1152 - ***Ritenzione a favore del possessore di buona fede***
 
 Il possessore di buona fede può ritenere la cosa finchè non gli siano corrisposte le indennità dovute, purchè queste siano state domandate nel corso del giudizio di rivendicazione e sia stata fornita una prova generica della sussistenza delle riparazioni e dei miglioramenti.
+{: data-comma="1" }
 
 Egli ha lo stesso diritto finchè non siano prestate le garanzie ordinate dall'autorità giudiziaria nel caso previsto dall'articolo precedente.
+{: data-comma="2" }

@@ -21,7 +21,10 @@ ordine: 2073
 # Art. 1952 - ***Divieto di agire contro il debitore principale***
 
 Il fideiussore non ha regresso contro il debitore principale se, per avere omesso di denunziargli il pagamento fatto, il debitore ha pagato ugualmente il debito.
+{: data-comma="1" }
 
 Se il fideiussore ha pagato senza averne dato avviso al debitore principale, questi può opporgli le eccezioni che avrebbe potuto opporre al creditore principale all'atto del pagamento.
+{: data-comma="2" }
 
 In entrambi i casi è fatta salva al fideiussore l'azione per la ripetizione contro il creditore.
+{: data-comma="3" }

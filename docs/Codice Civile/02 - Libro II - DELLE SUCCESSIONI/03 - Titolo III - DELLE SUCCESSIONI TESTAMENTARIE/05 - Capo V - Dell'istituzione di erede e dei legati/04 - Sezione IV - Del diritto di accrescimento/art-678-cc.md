@@ -21,5 +21,7 @@ ordine: 765
 # Art. 678 - ***Accrescimento nel legato di usufrutto***
 
 Quando a più persone è legato un usufrutto in modo che tra di loro vi sia il diritto di accrescimento, l'accrescimento ha luogo anche quando una di esse viene a mancare dopo conseguito il possesso della cosa su cui cade l'usufrutto.
+{: data-comma="1" }
 
 Se non vi è diritto di accrescimento, la porzione del legatario mancante si consolida con la proprietà.
+{: data-comma="2" }

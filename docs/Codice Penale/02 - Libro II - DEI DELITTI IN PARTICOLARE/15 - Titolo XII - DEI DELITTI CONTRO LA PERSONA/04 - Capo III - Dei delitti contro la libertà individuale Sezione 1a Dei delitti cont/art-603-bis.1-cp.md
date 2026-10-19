@@ -21,7 +21,10 @@ ordine: 802
 # Art. 603-bis.1 - ***Circostanza attenuante***
 
 Per i delitti previsti dall'[articolo 603-bis](art-603-bis-cp.md), la pena è diminuita da un terzo a due terzi nei confronti di chi, nel rendere dichiarazioni su quanto a sua conoscenza, si adopera per evitare che l'attività delittuosa sia portata a conseguenze ulteriori ovvero aiuta concretamente l'autorità di polizia o l'autorità giudiziaria nella raccolta di prove decisive per l'individuazione o la cattura dei concorrenti o per il sequestro delle somme o altre utilità trasferite.
+{: data-comma="1" }
 
 Nel caso di dichiarazioni false o reticenti si applicano le disposizioni dell'articolo 16-septies del decreto-legge 15 gennaio 1991, n. 8, convertito, con modificazioni, dalla legge 15 marzo 1991, n. 82.
+{: data-comma="2" }
 
 Non si applicano le disposizioni dell'[articolo 600-septies.1](art-600-septies.1-cp.md).
+{: data-comma="3" }

@@ -21,5 +21,7 @@ ordine: 2104
 # Art. 1983 - ***Controllo del debitore***
 
 Il debitore ha diritto di controllare la gestione e di averne il rendiconto alla fine della liquidazione, o alla fine di ogni anno se la gestione dura più di un anno.
+{: data-comma="1" }
 
 Se è stato nominato un liquidatore, questi deve rendere il conto anche al debitore.
+{: data-comma="2" }

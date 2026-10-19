@@ -21,7 +21,10 @@ ordine: 2423
 # Art. 2301 - ***Divieto di concorrenza***
 
 Il socio non può, senza il consenso degli altri soci, esercitare per conto proprio o altrui un'attività concorrente con quella della società, nè partecipare come socio illimitatamente responsabile ad altra società concorrente.
+{: data-comma="1" }
 
 Il consenso si presume, se l'esercizio dell'attività o la partecipazione ad altra società preesisteva al contratto sociale, e gli altri soci ne erano a conoscenza.
+{: data-comma="2" }
 
 In caso d'inosservanza delle disposizioni del primo comma la società ha diritto al risarcimento del danno, salva l'applicazione dell'[art. 2286](../02%20-%20Capo%20II%20-%20Della%20società%20semplice/05%20-%20Sezione%20V%20-%20Dello%20scioglimento%20del%20rapporto%20sociale%20limitatamente%20a%20un%20socio/art-2286-cc.md).
+{: data-comma="3" }

@@ -21,5 +21,7 @@ ordine: 280
 # Art. 257 - ***Assunzione di nuovi testimoni e rinnovazione dell'esame***
 
 Se alcuno dei testimoni si riferisce, per la conoscenza dei fatti, ad altre persone, il giudice istruttore può disporre d'ufficio che esse siano chiamate a deporre.
+{: data-comma="1" }
 
 Il giudice può anche disporre che siano sentiti i testimoni dei quali ha ritenuto l'audizione superflua a norma dell'[articolo 245](art-245-cpc.md) o dei quali ha consentito la rinuncia; e del pari può disporre che siano nuovamente esaminati i testimoni già interrogati, al fine di chiarire la loro deposizione o di correggere irregolarità avveratesi nel precedente esame.
+{: data-comma="2" }

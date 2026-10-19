@@ -21,5 +21,7 @@ ordine: 304
 # Art. 278 - ***Condanna generica - Provvisionale***
 
 Quando è già accertata la sussistenza di un diritto, ma è ancora controversa la quantità della prestazione dovuta, il collegio, su istanza di parte, può limitarsi a pronunciare con sentenza la condanna generica alla prestazione, disponendo con ordinanza che il processo prosegua per la liquidazione.
+{: data-comma="1" }
 
 In tal caso il collegio, con la stessa sentenza e sempre su istanza di parte, può altresì condannare il debitore al pagamento di una provvisionale, nei limiti della quantità per cui ritiene già raggiunta la prova.
+{: data-comma="2" }

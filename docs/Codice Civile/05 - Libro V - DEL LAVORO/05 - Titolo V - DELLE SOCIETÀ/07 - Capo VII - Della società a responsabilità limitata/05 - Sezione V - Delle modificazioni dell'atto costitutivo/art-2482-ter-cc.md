@@ -21,5 +21,7 @@ ordine: 2711
 # Art. 2482-ter - ***Riduzione del capitale al disotto del minimo legale***
 
 Se, per la perdita di oltre un terzo del capitale, questo si riduce al disotto del minimo stabilito dal numero 4) dell'[articolo 2463](../01%20-%20Sezione%20I%20-%20Disposizioni%20generali/art-2463-cc.md), gli amministratori devono senza indugio convocare l'assemblea per deliberare la riduzione del capitale ed il contemporaneo aumento del medesimo ad una cifra non inferiore al detto minimo.
+{: data-comma="1" }
 
 È fatta salva la possibilità di deliberare la trasformazione della società.
+{: data-comma="2" }

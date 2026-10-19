@@ -21,7 +21,10 @@ ordine: 1482
 # Art. 1380 - ***Conflitto tra più diritti personali di godimento***
 
 Se, con successivi contratti, una persona concede a diversi contraenti un diritto personale di godimento relativo alla stessa cosa, il godimento spetta al contraente che per primo lo ha conseguito.
+{: data-comma="1" }
 
 Se nessuno dei contraenti ha conseguito il godimento, è preferito quello che ha il titolo di data certa anteriore.
+{: data-comma="2" }
 
 Sono salve le norme relative agli effetti della trascrizione.
+{: data-comma="3" }

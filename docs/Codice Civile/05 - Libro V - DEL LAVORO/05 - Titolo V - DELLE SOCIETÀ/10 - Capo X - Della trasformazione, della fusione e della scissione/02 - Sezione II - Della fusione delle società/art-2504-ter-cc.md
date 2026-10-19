@@ -21,5 +21,7 @@ ordine: 2761
 # Art. 2504-ter - ***Divieto di assegnazione di azioni o quote***
 
 La società che risulta dalla fusione non può assegnare azioni o quote in sostituzione di quelle delle società partecipanti alla fusione possedute, anche per il tramite di società fiduciarie o di interposta persona, dalle società medesime.
+{: data-comma="1" }
 
 La società incorporante non può assegnare azioni o quote in sostituzione di quelle delle società incorporate possedute, anche per il tramite di società fiduciaria o di interposta persona, dalle incorporate medesime o dalla società incorporante.
+{: data-comma="2" }

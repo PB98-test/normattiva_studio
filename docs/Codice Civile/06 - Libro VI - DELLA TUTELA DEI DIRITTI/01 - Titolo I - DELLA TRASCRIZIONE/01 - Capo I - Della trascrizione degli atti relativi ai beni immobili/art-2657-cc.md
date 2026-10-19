@@ -21,5 +21,7 @@ ordine: 2959
 # Art. 2657 - ***Titolo per la trascrizione***
 
 La trascrizione non si può eseguire se non in forza di sentenza, di atto pubblico o di scrittura privata con sottoscrizione autenticata o accertata giudizialmente.
+{: data-comma="1" }
 
 Le sentenze e gli atti seguiti in paese estero devono essere legalizzati.
+{: data-comma="2" }

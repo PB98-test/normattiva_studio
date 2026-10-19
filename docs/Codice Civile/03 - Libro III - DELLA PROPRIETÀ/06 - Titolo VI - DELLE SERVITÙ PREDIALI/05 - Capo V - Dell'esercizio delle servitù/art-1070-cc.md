@@ -21,5 +21,7 @@ ordine: 1165
 # Art. 1070 - ***Abbandono del fondo servente***
 
 Il proprietario del fondo servente, quando è tenuto in forza del titolo o della legge alle spese necessarie per l'uso o per la conservazione della servitù, può sempre liberarsene, rinunziando alla proprietà del fondo servente a favore del proprietario del fondo dominante.
+{: data-comma="1" }
 
 Nel caso in cui l'esercizio della servitù sia limitato a una parte del fondo, la rinunzia può limitarsi alla parte stessa.
+{: data-comma="2" }

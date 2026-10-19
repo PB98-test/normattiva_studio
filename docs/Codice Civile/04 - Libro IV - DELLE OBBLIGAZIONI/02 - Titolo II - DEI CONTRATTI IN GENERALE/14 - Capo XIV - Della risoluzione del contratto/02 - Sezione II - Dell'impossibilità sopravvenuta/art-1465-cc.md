@@ -21,9 +21,13 @@ ordine: 1567
 # Art. 1465 - ***Contratto con effetti traslativi o costitutivi***
 
 Nei contratti che trasferiscono la proprietà di una cosa determinata ovvero costituiscono o trasferiscono diritti reali, il perimento della cosa per una causa non imputabile all'alienante non libera l'acquirente dall'obbligo di eseguire la controprestazione, ancorchè la cosa non gli sia stata consegnata.
+{: data-comma="1" }
 
 La stessa disposizione si applica nel caso in cui l'effetto traslativo o costitutivo sia differito fino allo scadere di un termine.
+{: data-comma="2" }
 
 Qualora oggetto del trasferimento sia una cosa determinata solo nel genere, l'acquirente non è liberato dall'obbligo di eseguire la controprestazione, se l'alienante ha fatto la consegna o se la cosa è stata individuata.
+{: data-comma="3" }
 
 L'acquirente è in ogni caso liberato dalla sua obbligazione, se il trasferimento era sottoposto a condizione sospensiva e l'impossibilità è sopravvenuta prima che si verifichi la condizione.
+{: data-comma="4" }

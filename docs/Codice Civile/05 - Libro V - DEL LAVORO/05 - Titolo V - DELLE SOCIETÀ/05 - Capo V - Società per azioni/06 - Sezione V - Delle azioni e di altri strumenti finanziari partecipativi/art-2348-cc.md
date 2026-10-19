@@ -21,7 +21,10 @@ ordine: 2478
 # Art. 2348 - ***Categorie di azioni***
 
 Le azioni devono essere di uguale valore e conferiscono ai loro possessori uguali diritti.
+{: data-comma="1" }
 
 Si possono tuttavia creare, con lo statuto o con successive modificazioni di questo, categorie di azioni fornite di diritti diversi anche per quanto concerne la incidenza delle perdite. In tal caso la società, nei limiti imposti dalla legge, può liberamente determinare il contenuto delle azioni delle varie categorie.
+{: data-comma="2" }
 
 Tutte le azioni appartenenti ad una medesima categoria conferiscono uguali diritti.
+{: data-comma="3" }

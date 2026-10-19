@@ -21,5 +21,7 @@ ordine: 611
 # Art. 524 - ***Impugnazione della rinunzia da parte dei creditori***
 
 Se taluno rinunzia, benchè senza frode, a un'eredità con danno dei suoi creditori, questi possono farsi autorizzare ad accettare l'eredità in nome e luogo del rinunziante, al solo scopo di soddisfarsi sui beni ereditari fino alla concorrenza dei loro crediti.
+{: data-comma="1" }
 
 Il diritto dei creditori si prescrive in cinque anni dalla rinunzia.
+{: data-comma="2" }

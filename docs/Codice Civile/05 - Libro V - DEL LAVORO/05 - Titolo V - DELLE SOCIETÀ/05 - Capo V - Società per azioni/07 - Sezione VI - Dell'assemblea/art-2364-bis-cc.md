@@ -21,6 +21,7 @@ ordine: 2503
 # Art. 2364-bis - ***Assemblea ordinaria nelle società con consiglio di sorveglianza***
 
 Nelle società ove è previsto il consiglio di sorveglianza, l'assemblea ordinaria:
+{: data-comma="1" }
 
 - 1) nomina e revoca i consiglieri di sorveglianza;
 - 2) determina il compenso ad essi spettante, se non è stabilito nello statuto;
@@ -29,3 +30,4 @@ Nelle società ove è previsto il consiglio di sorveglianza, l'assemblea ordinar
 - 5) nomina il soggetto incaricato di effettuare la revisione legale dei conti.
 
 Si applica il secondo comma dell'[articolo 2364](art-2364-cc.md).
+{: data-comma="2" }

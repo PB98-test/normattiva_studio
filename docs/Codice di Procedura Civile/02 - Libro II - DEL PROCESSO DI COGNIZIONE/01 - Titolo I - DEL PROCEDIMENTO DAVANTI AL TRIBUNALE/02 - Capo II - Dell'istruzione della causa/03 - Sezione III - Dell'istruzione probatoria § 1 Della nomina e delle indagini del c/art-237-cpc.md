@@ -21,5 +21,7 @@ ordine: 260
 # Art. 237 - ***Risoluzione delle contestazioni***
 
 Le contestazioni sorte tra le parti circa l'ammissione del giuramento decisorio sono decise dal collegio.
+{: data-comma="1" }
 
 L'ordinanza del collegio che ammette il giuramento deve essere notificata personalmente alla parte.
+{: data-comma="2" }

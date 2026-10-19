@@ -14,7 +14,7 @@ capo_label: "Della società in accomandita per azioni"
 sezione: null
 sezione_label: null
 rubrica: null
-dataVigenza: "20260914"
+dataVigenza: "20261016"
 ordine: 2673
 ---
 
@@ -22,4 +22,4 @@ ordine: 2673
 
 ARTICOLO ABROGATO DALLA L. 24 NOVEMBRE 2000, N. 340 [^agg-141]
 
-[^agg-141]: *AGGIORNAMENTO (141)* Il D.Lgs. 17 gennaio 2003, n. 6, disponendo (con l'[art. 2](../../../01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/01%20-%20Titolo%20I%20-%20DELLE%20PERSONE%20FISICHE/art-2-cc.md), comma 1) la sostituzione del Libro V, Titolo V, Capo VI, non ha più previsto il presente articolo.
+[^agg-141]: *AGGIORNAMENTO (141)* Il D.Lgs. 17 gennaio 2003, n. 6, disponendo (con l'art. 2, comma 1) la sostituzione del Libro V, Titolo V, Capo VI, non ha più previsto il presente articolo.

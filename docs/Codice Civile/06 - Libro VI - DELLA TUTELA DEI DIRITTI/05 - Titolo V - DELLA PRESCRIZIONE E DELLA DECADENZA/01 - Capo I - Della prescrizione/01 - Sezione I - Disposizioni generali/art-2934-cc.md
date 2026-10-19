@@ -21,5 +21,7 @@ ordine: 3245
 # Art. 2934 - ***Estinzione dei diritti***
 
 Ogni diritto si estingue per prescrizione, quando il titolare non lo esercita per il tempo determinato dalla legge.
+{: data-comma="1" }
 
 Non sono soggetti alla prescrizione i diritti indisponibili e gli altri diritti indicati dalla legge.
+{: data-comma="2" }

@@ -21,8 +21,10 @@ ordine: 1304
 # Art. 1202 - ***Surrogazione per volontà del debitore***
 
 Il debitore, che prende a mutuo una somma di danaro o altra cosa fungibile al fine di pagare il debito, può surrogare il mutuante nei diritti del creditore, anche senza il consenso di questo.
+{: data-comma="1" }
 
 La surrogazione ha effetto quando concorrono le seguenti condizioni:
+{: data-comma="2" }
 
 - 1) che il mutuo e la quietanza risultino da atto avente data certa;
 - 2) che nell'atto di mutuo sia indicata espressamente la specifica destinazione della somma mutuata;

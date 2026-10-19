@@ -21,5 +21,7 @@ ordine: 2878
 # Art. 2587 - ***Brevetto dipendente da brevetto altrui***
 
 Il brevetto per invenzione industriale, la cui attuazione implica quella d'invenzioni protette da precedenti brevetti per invenzioni industriali ancora in vigore, non pregiudica i diritti dei titolari di questi ultimi, e non può essere attuato nè utilizzato senza il consenso di essi.
+{: data-comma="1" }
 
 Sono salve le disposizioni delle leggi speciali.
+{: data-comma="2" }

@@ -21,9 +21,13 @@ ordine: 483
 # Art. 425 - ***Richiesta di informazioni e osservazioni alle associazioni sindacali***
 
 Su istanza di parte, l'associazione sindacale indicata dalla stessa ha facoltà di rendere in giudizio, tramite un suo rappresentante, informazioni e osservazioni orali o scritte.
+{: data-comma="1" }
 
 Tali informazioni e osservazioni possono essere rese anche nel luogo di lavoro ove sia stato disposto l'accesso ai sensi del terzo comma dell'[articolo 421](art-421-cpc.md).
+{: data-comma="2" }
 
 A tal fine, il giudice può disporre ai sensi del sesto comma dell'[articolo 420](art-420-cpc.md).
+{: data-comma="3" }
 
 Il giudice può richiedere alle associazioni sindacali il testo dei contratti e accordi collettivi di lavoro, anche aziendali, da applicare nella causa.
+{: data-comma="4" }

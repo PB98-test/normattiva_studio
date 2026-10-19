@@ -5,9 +5,8 @@ search:
 
 # Leggi citate da Antiriciclaggio (Dlgs 231-2007 - 21.11.2007) ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Antiriciclaggio (Dlgs 231-2007 - 21.11.2007) — 111 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Antiriciclaggio (Dlgs 231-2007 - 21.11.2007) — 108 leggi trovate)*
 
-- [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const)
 - [direttiva 91/308/CEE del Consiglio, del 10 giugno 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:direttivaue:1991;308)
 - [decreto-legge 3 maggio 1991, n. 143](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:1991-05-03;143)
 - [legge 5 luglio 1991, n. 197](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-05;197)
@@ -19,7 +18,6 @@ search:
 - [decreto legislativo 25 settembre 1999, n. 374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1999-09-25;374)
 - [direttiva 2001/97/CE del Parlamento europeo e del Consiglio, del 4 dicembre 2001](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:direttivaue:2001;97)
 - [legge 3 febbraio 2003, n. 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-02-03;14)
-- [decreto legislativo 30 giugno 2003, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2003-06-30;196)
 - [decreto legislativo 20 febbraio 2004, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2004-02-20;56)
 - [direttiva 2005/60/CE del Parlamento europeo e del Consiglio, del 26 ottobre 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:direttivaue:2005;60)
 - [legge 25 gennaio 2006, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-01-25;29)
@@ -76,7 +74,6 @@ search:
 - [direttiva 2011/16/UE del Consiglio, del 15 febbraio 2011](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:direttivaue:2011;16)
 - [direttiva 77/799/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:direttivaue:1977;799)
 - [articolo 2, comma 1, della legge 11 gennaio 1979, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-01-11;12)
-- [articolo 24 del decreto legislativo 7 marzo 2005, n. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2005-03-07;82)
 - [decreto legislativo n. 82 del 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2005;82)
 - [decreto legislativo 11 aprile 2011, n. 64](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2011-04-11;64)
 - [decreto del Presidente della Repubblica 10 febbraio 2000, n. 361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-02-10;361)

@@ -21,7 +21,10 @@ ordine: 2385
 # Art. 2263 - ***Ripartizione dei guadagni e delle perdite***
 
 Le parti spettanti ai soci nei guadagni e nelle perdite si presumono proporzionali ai conferimenti. Se il valore dei conferimenti non è determinato dal contratto, esse si presumono eguali.
+{: data-comma="1" }
 
 La parte spettante al socio che ha conferito la propria opera, se non è determinata dal contratto, è fissata dal giudice secondo equità.
+{: data-comma="2" }
 
 Se il contratto determina soltanto la parte di ciascun socio nei guadagni, nella stessa misura si presume che debba determinarsi la partecipazione alle perdite.
+{: data-comma="3" }

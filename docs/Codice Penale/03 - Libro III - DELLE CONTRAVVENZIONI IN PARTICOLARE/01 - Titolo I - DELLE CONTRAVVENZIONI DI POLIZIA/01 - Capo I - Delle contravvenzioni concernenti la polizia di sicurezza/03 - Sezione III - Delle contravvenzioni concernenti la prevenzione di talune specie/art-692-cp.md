@@ -21,5 +21,7 @@ ordine: 951
 # Art. 692 - ***Detenzione di misure e pesi illegali***
 
 Chiunque, nell'esercizio di un'attività commerciale, e in uno spaccio aperto al pubblico, detiene misure o pesi diversi da quelli stabiliti dalla legge, ovvero usa misure o pesi senza osservare le prescrizioni di legge, è punito con la sanzione amministrativa pecuniaria da lire duecentomila a un milione duecentomila.
+{: data-comma="1" }
 
 COMMA ABROGATO DALLA L. 25 GIUGNO 1999, N. 205.
+{: data-comma="2" }

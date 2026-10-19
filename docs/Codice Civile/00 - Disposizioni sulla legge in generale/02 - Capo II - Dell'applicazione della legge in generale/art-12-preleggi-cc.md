@@ -21,5 +21,7 @@ ordine: 12
 # Art. 12-preleggi - ***Interpretazione della legge***
 
 Nell'applicare la legge non si può ad essa attribuire altro senso che quello fatto palese dal significato proprio delle parole secondo la connessione di esse, e dalla intenzione del legislatore.
+{: data-comma="1" }
 
 Se una controversia non può essere decisa con una precisa disposizione, si ha riguardo alle disposizioni che regolano casi simili o materie analoghe; se il caso rimane ancora dubbio, si decide secondo i principi generali dell'ordinamento giuridico dello Stato.
+{: data-comma="2" }

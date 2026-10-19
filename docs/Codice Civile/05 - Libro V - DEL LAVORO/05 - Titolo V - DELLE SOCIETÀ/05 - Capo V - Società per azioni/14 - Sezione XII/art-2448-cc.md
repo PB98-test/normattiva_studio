@@ -21,5 +21,7 @@ ordine: 2662
 # Art. 2448 - ***Effetti della pubblicazione nel registro delle imprese***
 
 Gli atti per i quali il codice prescrive l'iscrizione o il deposito nel registro delle imprese sono opponibili ai terzi soltanto dopo tale pubblicazione, a meno che la società provi che i terzi ne erano a conoscenza.
+{: data-comma="1" }
 
 Per le operazioni compiute entro il quindicesimo giorno dalla pubblicazione di cui al comma precedente, gli atti non sono opponibili ai terzi che provino di essere stati nella impossibilità di averne conoscenza.
+{: data-comma="2" }

@@ -21,7 +21,10 @@ ordine: 714
 # Art. 627 - ***Disposizione fiduciaria***
 
 Non è ammessa azione in giudizio per accertare che le disposizioni fatte a favore di persona dichiarata nel testamento sono soltanto apparenti e che in realtà riguardano altra persona, anche se espressioni del testamento possono indicare o far presumere che si tratta di persona interposta.
+{: data-comma="1" }
 
 Tuttavia la persona dichiarata nel testamento, se ha spontaneamente eseguito la disposizione fiduciaria trasferendo i beni alla persona voluta dal testatore, non può agire per la ripetizione, salvo che sia un incapace.
+{: data-comma="2" }
 
 Le disposizioni di questo articolo non si applicano al caso in cui l'istituzione o il legato sono impugnati come fatti per interposta persona a favore d'incapaci a ricevere.
+{: data-comma="3" }

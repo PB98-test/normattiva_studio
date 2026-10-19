@@ -21,7 +21,10 @@ ordine: 1710
 # Art. 1595 - ***Rapporti tra il locatore e il subconduttore***
 
 Il locatore, senza pregiudizio dei suoi diritti verso il conduttore, ha azione diretta contro il subconduttore per esigere il prezzo della sublocazione, di cui questi sia ancora debitore al momento della domanda giudiziale, e per costringerlo ad adempiere tutte le altre obbligazioni derivanti dal contratto di sublocazione.
+{: data-comma="1" }
 
 Il subconduttore non può opporgli pagamenti anticipati, salvo che siano stati fatti secondo gli usi locali.
+{: data-comma="2" }
 
 Senza pregiudizio delle ragioni del subconduttore verso il sublocatore, la nullità o la risoluzione del contratto di locazione ha effetto anche nei confronti del subconduttore, e la sentenza pronunciata tra locatore e conduttore ha effetto anche contro di lui.
+{: data-comma="3" }

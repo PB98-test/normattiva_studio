@@ -21,9 +21,13 @@ ordine: 2839
 # Art. 2548 - ***Conferimenti per la costituzione di fondi di garanzia***
 
 L'atto costitutivo può prevedere la costituzione di fondi di garanzia per il pagamento delle indennità, mediante speciali conferimenti da parte di assicurati o di terzi, attribuendo anche a questi ultimi la qualità di socio.
+{: data-comma="1" }
 
 L'atto costitutivo può attribuire a ciascuno dei soci sovventori più voti, ma non oltre cinque, in relazione all'ammontare del conferimento.
+{: data-comma="2" }
 
 I voti attribuiti ai soci sovventori, come tali, devono in ogni caso essere inferiori al numero dei voti spettanti ai soci assicurati.
+{: data-comma="3" }
 
 I soci sovventori possono essere nominati amministratori. La maggioranza degli amministratori deve essere costituita da soci assicurati.
+{: data-comma="4" }

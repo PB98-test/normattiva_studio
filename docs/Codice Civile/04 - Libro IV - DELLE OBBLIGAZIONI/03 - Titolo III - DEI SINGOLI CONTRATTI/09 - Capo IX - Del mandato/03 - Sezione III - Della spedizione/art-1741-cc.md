@@ -21,5 +21,7 @@ ordine: 1857
 # Art. 1741 - ***Spedizioniere vettore***
 
 Lo spedizioniere che con mezzi propri o altrui assume l'esecuzione del trasporto, in tutto o in parte, ha gli obblighi e i diritti del vettore.
+{: data-comma="1" }
 
 Nell'ipotesi di perdita o avaria delle cose spedite, si applica l'[articolo 1696](../../08%20-%20Capo%20VIII%20-%20Del%20trasporto/03%20-%20Sezione%20III%20-%20Del%20trasporto%20di%20cose/art-1696-cc.md).
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 1942
 # Art. 1821 - ***Danni al mutuatario per vizi delle cose***
 
 Il mutuante è responsabile del danno cagionato al mutuatario per i vizi delle cose date a prestito, se non prova di averli ignorati senza colpa.
+{: data-comma="1" }
 
 Se il mutuo è gratuito, il mutuante è responsabile solo nel caso in cui, conoscendo i vizi, non ne abbia avvertito il mutuatario.
+{: data-comma="2" }

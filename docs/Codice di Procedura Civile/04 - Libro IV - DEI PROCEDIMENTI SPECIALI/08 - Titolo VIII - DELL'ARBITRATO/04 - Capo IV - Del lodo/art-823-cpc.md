@@ -21,8 +21,10 @@ ordine: 1019
 # Art. 823 - ***Deliberazione e requisiti del lodo***
 
 Il lodo è deliberato a maggioranza di voti con la partecipazione di tutti gli arbitri ed è quindi redatto per iscritto. Ciascun arbitro può chiedere che il lodo, o una parte di esso, sia deliberato dagli arbitri riuniti in conferenza personale.
+{: data-comma="1" }
 
 Il lodo deve contenere:
+{: data-comma="2" }
 
 - 1) il nome degli arbitri;
 - 2) l'indicazione della sede dell'arbitrato;

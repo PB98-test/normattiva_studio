@@ -21,7 +21,10 @@ ordine: 682
 # Art. 540 - ***Pagamento del prezzo e rivendita***
 
 COMMA ABROGATO DAL D.L. 29 DICEMBRE 2009, N. 193, CONVERTITO CON MODIFICAZIONI DALLA L. 22 FEBBRAIO 2010, N. 24.
+{: data-comma="1" }
 
 Se il prezzo non è pagato, si procede immediatamente a nuovo incanto, a spese e sotto la responsabilità dell'aggiudicatario inadempiente.
+{: data-comma="2" }
 
 La somma ricavata dalla vendita è immediatamente consegnata al cancelliere per essere depositata con le forme dei depositi giudiziari.
+{: data-comma="3" }

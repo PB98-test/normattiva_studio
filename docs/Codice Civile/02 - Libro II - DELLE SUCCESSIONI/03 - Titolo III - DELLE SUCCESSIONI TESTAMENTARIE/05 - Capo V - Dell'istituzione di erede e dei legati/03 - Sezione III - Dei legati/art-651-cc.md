@@ -21,5 +21,7 @@ ordine: 738
 # Art. 651 - ***Legato di cosa dell'onerato o di un terzo***
 
 II legato di cosa dell'onerato o di un terzo è nullo, salvo che dal testamento o da altra dichiarazione scritta dal testatore risulti che questi sapeva che la cosa legata apparteneva all'onerato o al terzo. In quest'ultimo caso l'onerato è obbligato ad acquistare la proprietà della cosa dal terzo e a trasferirla al legatario, ma è in sua facoltà di pagarne al legatario il giusto prezzo.
+{: data-comma="1" }
 
 Se però la cosa legata, pur appartenendo ad altri al tempo del testamento, si trova in proprietà del testatore al momento della sua morte, il legato è valido.
+{: data-comma="2" }

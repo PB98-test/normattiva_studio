@@ -21,9 +21,13 @@ ordine: 493
 # Art. 408 - ***Scelta dell'amministratore di sostegno***
 
 La scelta dell'amministratore di sostegno avviene con esclusivo riguardo alla cura ed agli interessi della persona del beneficiario. L'amministratore di sostegno può essere designato dallo stesso interessato, in previsione della propria eventuale futura incapacità, mediante atto pubblico o scrittura privata autenticata. In mancanza, ovvero in presenza di gravi motivi, il giudice tutelare può designare con decreto motivato un amministratore di sostegno diverso. Nella scelta, il giudice tutelare preferisce, ove possibile, il coniuge che non sia separato legalmente, la persona stabilmente convivente, il padre, la madre, il figlio o il fratello o la sorella, il parente entro il quarto grado ovvero il soggetto designato dal genitore superstite con testamento, atto pubblico o scrittura privata autenticata.
+{: data-comma="1" }
 
 Le designazioni di cui al primo comma possono essere revocate dall'autore con le stesse forme.
+{: data-comma="2" }
 
 Non possono ricoprire le funzioni di amministratore di sostegno gli operatori dei servizi pubblici o privati che hanno in cura o in carico il beneficiario.
+{: data-comma="3" }
 
 Il giudice tutelare, quando ne ravvisa l'opportunità, e nel caso di designazione dell'interessato quando ricorrano gravi motivi, può chiamare all'incarico di amministratore di sostegno anche altra persona idonea, ovvero uno dei soggetti di cui al titolo II al cui legale rappresentante ovvero alla persona che questi ha facoltà di delegare con atto depositato presso l'ufficio del giudice tutelare, competono tutti i doveri e tutte le facoltà previste nel presente capo.
+{: data-comma="4" }

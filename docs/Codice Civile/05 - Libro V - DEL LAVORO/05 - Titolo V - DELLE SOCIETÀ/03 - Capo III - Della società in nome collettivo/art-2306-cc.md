@@ -21,5 +21,7 @@ ordine: 2428
 # Art. 2306 - ***Riduzione di capitale***
 
 La deliberazione di riduzione di capitale, mediante rimborso ai soci delle quote pagate o mediante liberazione di essi dall'obbligo di ulteriori versamenti, può essere eseguita soltanto dopo tre mesi dal giorno della iscrizione nel registro delle imprese, purchè entro questo termine nessun creditore sociale anteriore all'iscrizione abbia fatto opposizione.
+{: data-comma="1" }
 
 Il tribunale, nonostante l'opposizione, può disporre che l'esecuzione abbia luogo, previa prestazione da parte della società di un'idonea garanzia.
+{: data-comma="2" }

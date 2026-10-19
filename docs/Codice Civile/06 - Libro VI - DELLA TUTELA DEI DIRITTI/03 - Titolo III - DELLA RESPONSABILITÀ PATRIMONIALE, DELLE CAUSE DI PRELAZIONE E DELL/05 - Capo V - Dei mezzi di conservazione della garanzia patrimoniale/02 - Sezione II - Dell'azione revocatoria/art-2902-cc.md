@@ -21,5 +21,7 @@ ordine: 3212
 # Art. 2902 - ***Effetti***
 
 Il creditore, ottenuta la dichiarazione di inefficacia, può promuovere nei confronti dei terzi acquirenti le azioni esecutive o conservative sui beni che formano oggetto dell'atto impugnato.
+{: data-comma="1" }
 
 Il terzo contraente, che abbia verso il debitore ragioni di credito dipendenti dall'esercizio dell'azione revocatoria, non può concorrere sul ricavato dei beni che sono stati oggetto dell'atto dichiarato inefficace, se non dopo che il creditore è stato soddisfatto.
+{: data-comma="2" }

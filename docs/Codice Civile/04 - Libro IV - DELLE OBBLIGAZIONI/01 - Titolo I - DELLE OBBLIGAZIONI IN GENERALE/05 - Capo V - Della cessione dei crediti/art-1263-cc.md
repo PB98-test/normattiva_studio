@@ -21,7 +21,10 @@ ordine: 1365
 # Art. 1263 - ***Accessori del credito***
 
 Per effetto della cessione, il credito è trasferito al cessionario con i privilegi, con le garanzie personali e reali e con gli altri accessori.
+{: data-comma="1" }
 
 Il cedente non può trasferire al cessionario, senza il consenso del costituente, il possesso della cosa ricevuta in pegno; in caso di dissenso, il cedente rimane custode del pegno.
+{: data-comma="2" }
 
 Salvo patto contrario, la cessione non comprende i frutti scaduti.
+{: data-comma="3" }

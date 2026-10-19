@@ -21,5 +21,7 @@ ordine: 910
 # Art. 816 - ***Universalità di mobili***
 
 È considerata universalità di mobili la pluralità di cose che appartengono alla stessa persona e hanno una destinazione unitaria.
+{: data-comma="1" }
 
 Le singole cose componenti l'universalità possono formare oggetto di separati atti e rapporti giuridici.
+{: data-comma="2" }

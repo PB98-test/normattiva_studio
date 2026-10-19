@@ -21,5 +21,7 @@ ordine: 1069
 # Art. 974 - ***Diritti dei creditori dell'enfiteuta***
 
 I creditori dell'enfiteuta possono intervenire nel giudizio di devoluzione per conservare le loro ragioni, valendosi all'uopo anche del diritto di affrancazione che spetti all'enfiteuta; possono offrire il risarcimento dei danni e dare cauzione per l'avvenire.
+{: data-comma="1" }
 
 I creditori, che hanno iscritto ipoteca contro l'enfiteuta anteriormente alla trascrizione della domanda di devoluzione e ai quali questa non è stata notificata in tempo utile per poter intervenire, conservano il diritto di affrancazione anche dopo avvenuta la devoluzione.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 51
 # Art. 20 - ***Convocazione dell'assemblea delle associazioni***
 
 L'assemblea delle associazioni deve essere convocata dagli amministratori una volta l'anno per l'approvazione del bilancio.
+{: data-comma="1" }
 
 L'assemblea deve essere inoltre convocata quando se ne ravvisa la necessità o quando ne è fatta richiesta motivata da almeno un decimo degli associati. In quest'ultimo caso, se gli amministratori non vi provvedono, la convocazione può essere ordinata dal presidente del tribunale.
+{: data-comma="2" }

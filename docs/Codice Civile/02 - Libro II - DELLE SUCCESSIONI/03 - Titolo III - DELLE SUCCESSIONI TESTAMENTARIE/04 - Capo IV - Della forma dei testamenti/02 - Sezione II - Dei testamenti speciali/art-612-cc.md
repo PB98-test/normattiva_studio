@@ -21,5 +21,7 @@ ordine: 699
 # Art. 612 - ***Forme***
 
 Il testamento indicato dall'articolo precedente è redatto in doppio originale alla presenza di due testimoni e deve essere sottoscritto dal testatore, dalla persona che lo ha ricevuto e dai testimoni; se il testatore o i testimoni non possono sottoscrivere, si deve indicare il motivo che ha impedito la sottoscrizione.
+{: data-comma="1" }
 
 Il testamento è conservato tra i documenti di bordo ed è annotato sul giornale di bordo ovvero sul giornale nautico e sul ruolo d'equipaggio.
+{: data-comma="2" }

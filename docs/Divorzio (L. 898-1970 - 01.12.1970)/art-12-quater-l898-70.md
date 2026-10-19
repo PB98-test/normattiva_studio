@@ -14,8 +14,10 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: null
-dataVigenza: "20260930"
+dataVigenza: "20261016"
 ordine: 16
 ---
 
 # Art. 12-quater
+
+*(testo non presente nella fonte)*

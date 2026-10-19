@@ -21,5 +21,7 @@ ordine: 2420
 # Art. 2298 - ***Rappresentanza della società***
 
 L'amministratore che ha la rappresentanza della società può compiere tutti gli atti che rientrano nell'oggetto sociale, salve le limitazioni che risultano dall'atto costitutivo o dalla procura. Le limitazioni non sono opponibili ai terzi, se non sono iscritte nel registro delle imprese o se non si prova che i terzi ne hanno avuto conoscenza.
+{: data-comma="1" }
 
 COMMA ABROGATO DALLA L. 24 NOVEMBRE 2000, N. 340.
+{: data-comma="2" }

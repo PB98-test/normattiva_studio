@@ -21,5 +21,7 @@ ordine: 984
 # Art. 807 - ***Compromesso).***
 
 Il compromesso deve, a pena di nullità, essere fatto per iscritto e determinare l'oggetto della controversia.
+{: data-comma="1" }
 
 La forma scritta s'intende rispettata anche quando la volontà delle parti è espressa per telegrafo, telescrivente, telefacsimile o messaggio telematico nel rispetto della normativa, anche regolamentare, concernente la trasmissione e la ricezione dei documenti teletrasmessi.
+{: data-comma="2" }

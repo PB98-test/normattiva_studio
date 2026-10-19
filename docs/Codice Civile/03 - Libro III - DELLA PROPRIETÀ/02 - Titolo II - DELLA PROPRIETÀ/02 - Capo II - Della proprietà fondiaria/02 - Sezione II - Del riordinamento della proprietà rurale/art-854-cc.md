@@ -21,5 +21,7 @@ ordine: 948
 # Art. 854 - ***Notifica e trascrizione del piano di riordinamento***
 
 Il piano di riordinamento dev'essere preventivamente portato a cognizione degli interessati, e contro di esso è ammesso reclamo in via amministrativa, nelle forme e nei termini stabiliti da leggi speciali.
+{: data-comma="1" }
 
 Il provvedimento amministrativo di approvazione definitiva del piano dev'essere trascritto presso l'ufficio dei registri immobiliari nella cui circoscrizione sono situati i beni.
+{: data-comma="2" }

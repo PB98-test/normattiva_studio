@@ -21,5 +21,7 @@ ordine: 1096
 # Art. 1001 - ***Obbligo di restituzione. Misura della diligenza***
 
 L'usufruttuario deve restituire le cose che formano oggetto del suo diritto, al termine dell'usufrutto, salvo quanto è disposto dall'[art. 995](../02%20-%20Sezione%20II%20-%20Dei%20diritti%20nascenti%20dall%27usufrutto/art-995-cc.md).
+{: data-comma="1" }
 
 Nel godimento della cosa egli deve usare la diligenza del buon padre di famiglia.
+{: data-comma="2" }

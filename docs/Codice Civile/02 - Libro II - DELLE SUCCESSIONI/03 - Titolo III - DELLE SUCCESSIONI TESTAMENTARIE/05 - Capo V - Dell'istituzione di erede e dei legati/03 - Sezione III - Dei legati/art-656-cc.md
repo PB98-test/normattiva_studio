@@ -21,5 +21,7 @@ ordine: 743
 # Art. 656 - ***Legato di cosa del legatario***
 
 Il legato di cosa che al tempo in cui fu fatto il testamento era già di proprietà del legatario è nullo, se la cosa si trova in proprietà di lui anche al tempo dell'apertura della successione.
+{: data-comma="1" }
 
 Se al tempo dell'apertura della successione la cosa si trova in proprietà del testatore, il legato è valido, ed è altresì valido se in questo tempo la cosa si trova in proprietà dell'onerato o di un terzo, e dal testamento risulta che essa fu legata in previsione di tale avvenimento.
+{: data-comma="2" }

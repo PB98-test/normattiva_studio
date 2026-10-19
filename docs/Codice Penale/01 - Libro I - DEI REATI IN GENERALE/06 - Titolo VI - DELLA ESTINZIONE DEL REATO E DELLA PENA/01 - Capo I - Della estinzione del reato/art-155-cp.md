@@ -21,9 +21,13 @@ ordine: 170
 # Art. 155 - ***Accettazione della remissione***
 
 La remissione non produce effetto, se il querelato l'ha espressamente o tacitamente ricusata. Vi è ricusa tacita, quando il querelato ha compiuto fatti incompatibili con la volontà di accettare la remissione.
+{: data-comma="1" }
 
 La remissione fatta a favore anche di uno soltanto fra coloro che hanno commesso il reato si estende a tutti, ma non produce effetto per chi l'abbia ricusata.
+{: data-comma="2" }
 
 Per quanto riguarda la capacità di accettare la remissione, si osservano le disposizioni dell'[articolo 153](art-153-cp.md).
+{: data-comma="3" }
 
 Se il querelato è un minore o un infermo di mente, e nessuno ne ha la rappresentanza, ovvero chi la esercita si trova con esso in conflitto di interessi, la facoltà di accettare la remissione è esercitata da un curatore speciale.
+{: data-comma="4" }

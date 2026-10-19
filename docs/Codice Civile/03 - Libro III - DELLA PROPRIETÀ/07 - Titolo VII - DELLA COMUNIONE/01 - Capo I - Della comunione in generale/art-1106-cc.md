@@ -21,5 +21,7 @@ ordine: 1201
 # Art. 1106 - ***Regolamento della comunione e nomina di amministratore***
 
 Con la maggioranza calcolata nel modo indicato dall'articolo precedente, può essere formato un regolamento per l'ordinaria amministrazione e per il miglior godimento della cosa comune.
+{: data-comma="1" }
 
 Nello stesso modo l'amministrazione può essere delegata ad uno o più partecipanti, o anche a un estraneo, determinandosi i poteri e gli obblighi dell'amministratore.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 2364
 # Art. 2242 - ***Vitto, alloggio e assistenza***
 
 Il prestatore di lavoro ammesso alla convivenza familiare ha diritto, oltre alla retribuzione in danaro, al vitto, all'alloggio e, per le infermità di breve durata, alla cura e all'assistenza medica.
+{: data-comma="1" }
 
 Le parti devono contribuire alle istituzioni di previdenza e di assistenza, nei casi e nei modi stabiliti dalla legge.
+{: data-comma="2" }

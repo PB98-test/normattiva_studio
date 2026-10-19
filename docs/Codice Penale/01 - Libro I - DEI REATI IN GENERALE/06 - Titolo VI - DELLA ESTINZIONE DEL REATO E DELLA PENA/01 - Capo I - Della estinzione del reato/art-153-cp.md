@@ -21,9 +21,13 @@ ordine: 168
 # Art. 153 - ***Esercizio del diritto di remissione. Incapaci***
 
 Per i minori degli anni quattordici e per gli interdetti a cagione di infermità di mente, il diritto di remissione è esercitato dal loro legale rappresentante.
+{: data-comma="1" }
 
 I minori, che hanno compiuto gli anni quattordici, e gli inabilitati possono esercitare il diritto di remissione, anche quando la querela è stata proposta dal rappresentante, ma, in ogni caso , la remissione non ha effetto senza l'approvazione di questo.
+{: data-comma="2" }
 
 Il rappresentante può rimettere la querela proposta da lui o dal rappresentato, ma la remissione non ha effetto, se questi manifesta volontà contraria.
+{: data-comma="3" }
 
 Le disposizioni dei capoversi precedenti si applicano anche nel caso in cui il minore raggiunge gli anni quattordici, dopo che è stata proposta la querela.
+{: data-comma="4" }

@@ -21,5 +21,7 @@ ordine: 944
 # Art. 850 - ***Consorzi a scopo di ricomposizione fondiaria***
 
 Quando più terreni contigui e inferiori alla minima unità colturale appartengono a diversi proprietari, può, su istanza di alcuno degli interessati o per iniziativa dell'autorità amministrativa, essere costituito un consorzio tra gli stessi proprietari, allo scopo di provvedere a una ricomposizione fondiaria idonea alla migliore utilizzazione dei terreni stessi.
+{: data-comma="1" }
 
 Per la costituzione del consorzio si applicano le norme stabilite per i consorzi di bonifica.
+{: data-comma="2" }

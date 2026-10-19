@@ -21,5 +21,7 @@ ordine: 877
 # Art. 783 - ***Donazioni di modico valore***
 
 La donazione di modico valore che ha per oggetto beni mobili è valida anche se manca l'atto pubblico, purchè vi sia stata la tradizione.
+{: data-comma="1" }
 
 La modicità deve essere valutata anche in rapporto alle condizioni economiche del donante.
+{: data-comma="2" }

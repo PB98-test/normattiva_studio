@@ -21,5 +21,7 @@ ordine: 3148
 # Art. 2838 - ***Somma per cui l'iscrizione è eseguita***
 
 Se la somma di danaro non è altrimenti determinata negli atti in base ai quali è eseguita l'iscrizione o in atto successivo, essa è determinata dal creditore nella nota per l'iscrizione.
+{: data-comma="1" }
 
 Qualora tra la somma enunciata nell'atto e quella enunciata nella nota vi sia divergenza, l'iscrizione ha efficacia per la somma minore.
+{: data-comma="2" }

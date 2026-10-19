@@ -21,5 +21,7 @@ ordine: 32
 # Art. 30 - ***Interdizione da una professione o da un'arte***
 
 L'interdizione da una professione o da un'arte priva il condannato della capacità di esercitare, durante l'interdizione, una professione, arte, industria, o un commercio o mestiere, per cui è richiesto uno speciale permesso o una speciale abilitazione, autorizzazione o licenza dell'Autorità, e importa la decadenza dal permesso o dall'abilitazione, autorizzazione, o licenza anzidetti.
+{: data-comma="1" }
 
 L'interdizione da una professione o da un'arte non può avere una durata inferiore a un mese, nè superiore a cinque anni, salvi i casi espressamente stabiliti dalla legge.
+{: data-comma="2" }

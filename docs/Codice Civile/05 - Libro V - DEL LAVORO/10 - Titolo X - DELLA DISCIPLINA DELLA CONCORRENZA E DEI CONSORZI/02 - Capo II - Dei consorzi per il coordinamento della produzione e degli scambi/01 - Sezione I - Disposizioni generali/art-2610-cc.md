@@ -21,5 +21,7 @@ ordine: 2901
 # Art. 2610 - ***Trasferimento dell'azienda***
 
 Salvo patto contrario, in caso di trasferimento a qualunque titolo dell'azienda l'acquirente subentra nel contratto di consorzio.
+{: data-comma="1" }
 
 Tuttavia, se sussiste una giusta causa, in caso di trasferimento dell'azienda per atto fra vivi, gli altri consorziati possono deliberare, entro un mese dalla notizia dell'avvenuto trasferimento, l'esclusione dell'acquirente dal consorzio.
+{: data-comma="2" }

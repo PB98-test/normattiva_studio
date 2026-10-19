@@ -21,5 +21,7 @@ ordine: 1444
 # Art. 1342 - ***Contratto concluso mediante moduli o formulari***
 
 Nei contratti conclusi mediante la sottoscrizione di moduli o formulari, predisposti per disciplinare in maniera uniforme determinati rapporti contrattuali, le clausole aggiunte al modulo o al formulario prevalgono su quelle del modulo o del formulario qualora siano incompatibili con esse, anche se queste ultime non sono state cancellate.
+{: data-comma="1" }
 
 Si osserva inoltre la disposizione del secondo comma dell'articolo precedente.
+{: data-comma="2" }

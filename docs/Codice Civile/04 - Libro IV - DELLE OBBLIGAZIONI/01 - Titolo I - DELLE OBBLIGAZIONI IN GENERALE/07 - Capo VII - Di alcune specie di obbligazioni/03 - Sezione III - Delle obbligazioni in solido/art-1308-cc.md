@@ -21,5 +21,7 @@ ordine: 1410
 # Art. 1308 - ***Costituzione in mora***
 
 La costituzione in mora di uno dei debitori in solido non ha effetto riguardo agli altri, salvo il disposto dell'[art. 1310](art-1310-cc.md).
+{: data-comma="1" }
 
 La costituzione in mora del debitore da parte di uno dei creditori in solido giova agli altri.
+{: data-comma="2" }

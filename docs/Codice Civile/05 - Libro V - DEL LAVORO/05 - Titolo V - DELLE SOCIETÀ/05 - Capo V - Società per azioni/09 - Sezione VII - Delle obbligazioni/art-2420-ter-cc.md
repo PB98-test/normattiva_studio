@@ -21,7 +21,10 @@ ordine: 2608
 # Art. 2420-ter - ***Delega agli amministratori***
 
 Lo statuto può attribuire agli amministratori la facoltà di emettere in una o più volte obbligazioni convertibili, fino ad un ammontare determinato e per il periodo massimo di cinque anni dalla data di iscrizione della società nel registro delle imprese. In tal caso la delega comprende anche quella relativa al corrispondente aumento del capitale sociale.
+{: data-comma="1" }
 
 Tale facoltà può essere attribuita anche mediante modificazione dello statuto, per il periodo massimo di cinque anni dalla data della deliberazione.
+{: data-comma="2" }
 
 Si applica il secondo comma dell'[articolo 2410](art-2410-cc.md).
+{: data-comma="3" }

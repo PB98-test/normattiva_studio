@@ -21,5 +21,7 @@ ordine: 859
 # Art. 768-quinquies - ***Vizi del consenso***
 
 Il patto può essere impugnato dai partecipanti ai sensi degli articoli 1427 e seguenti.
+{: data-comma="1" }
 
 L'azione si prescrive nel termine di un anno.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 3181
 # Art. 2871 - ***Diritti del terzo datore che ha pagato i creditori iscritti o ha sofferto l'espropriazione***
 
 Il terzo datore che ha pagato i creditori iscritti o ha sofferto l'espropriazione ha regresso contro il debitore. Se vi sono più debitori obbligati in solido, il terzo che ha costituito l'ipoteca a garanzia di tutti ha regresso contro ciascuno per l'intero.
+{: data-comma="1" }
 
 Il terzo datore ha regresso contro i fideiussori del debitore. Ha inoltre regresso contro gli altri terzi datori per la loro rispettiva porzione e può esercitare, anche nei confronti dei terzi acquirenti, il subingresso previsto dal secondo comma dell'[art. 2866](../07%20-%20Sezione%20VII%20-%20Degli%20effetti%20dell%27ipoteca%20rispetto%20al%20terzo%20acquirente/art-2866-cc.md).
+{: data-comma="2" }

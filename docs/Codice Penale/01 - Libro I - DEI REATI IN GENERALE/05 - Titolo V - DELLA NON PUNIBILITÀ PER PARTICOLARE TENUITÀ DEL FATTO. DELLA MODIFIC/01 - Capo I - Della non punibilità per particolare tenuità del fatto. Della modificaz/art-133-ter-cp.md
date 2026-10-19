@@ -21,5 +21,7 @@ ordine: 148
 # Art. 133-ter - ***Pagamento rateale della multa o dell'ammenda***
 
 Il giudice, con la sentenza di condanna o con il decreto penale, può disporre, in relazione alle condizioni economiche e patrimoniali del condannato, che la multa o l'ammenda venga pagata in rate mensili da sei a sessanta. Ciascuna rata tuttavia non può essere inferiore a lire trentamila. Non sono dovuti interessi per la rateizzazione.
+{: data-comma="1" }
 
 In ogni momento il condannato può estinguere la pena mediante un unico pagamento.
+{: data-comma="2" }

@@ -14,7 +14,7 @@ capo_label: "Del concorso di reati"
 sezione: null
 sezione_label: null
 rubrica: "Limiti degli aumenti delle pene accessorie"
-dataVigenza: "20260914"
+dataVigenza: "20261016"
 ordine: 91
 ---
 
@@ -22,6 +22,5 @@ ordine: 91
 
 La durata massima delle pene accessorie temporanee non può superare, nel complesso, i limiti seguenti:
 
-1° dieci anni, se si tratta dell'interdizione dai pubblici uffici o dell'interdizione da una professione o da un'arte;
-
-2° cinque anni, se si tratta della sospensione dall'esercizio di una professione o di un'arte.
+- 1° dieci anni, se si tratta dell'interdizione dai pubblici uffici o dell'interdizione da una professione o da un'arte;
+- 2° cinque anni, se si tratta della sospensione dall'esercizio di una professione o di un'arte.

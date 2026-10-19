@@ -21,7 +21,10 @@ ordine: 278
 # Art. 234 - ***Nascita del figlio dopo i trecento giorni***
 
 Ciascuno dei coniugi e i loro eredi possono provare che il figlio, nato dopo i trecento giorni dall'annullamento, dallo scioglimento o dalla cessazione degli effetti civili del matrimonio, è stato concepito durante il matrimonio.
+{: data-comma="1" }
 
 Possono analogamente provare il concepimento durante la convivenza quando il figlio sia nato dopo i trecento giorni dalla pronuncia di separazione giudiziale, o dalla omologazione di separazione consensuale, ovvero dalla data di comparizione dei coniugi avanti al giudice quando gli stessi sono stati autorizzati a vivere separatamente nelle more del giudizio di separazione o dei giudizi previsti nel comma precedente.
+{: data-comma="2" }
 
 In ogni caso il figlio può provare di essere stato concepito durante il matrimonio.
+{: data-comma="3" }

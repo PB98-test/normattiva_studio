@@ -21,5 +21,7 @@ ordine: 1646
 # Art. 1531 - ***Interessi, dividendi e diritto di voto***
 
 Nella vendita a termine di titoli di credito, gli interessi e i dividendi esigibili dopo la conclusione del contratto e prima della scadenza del termine, se riscossi dal venditore, sono accreditati al compratore.
+{: data-comma="1" }
 
 Qualora la vendita abbia per oggetto titoli azionari, il diritto di voto spetta al venditore fino al momento della consegna.
+{: data-comma="2" }

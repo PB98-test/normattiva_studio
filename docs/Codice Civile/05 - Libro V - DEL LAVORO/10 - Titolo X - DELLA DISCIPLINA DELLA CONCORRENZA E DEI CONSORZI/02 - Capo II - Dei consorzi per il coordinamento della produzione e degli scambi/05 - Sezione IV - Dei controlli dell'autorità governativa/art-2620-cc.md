@@ -21,5 +21,7 @@ ordine: 2913
 # Art. 2620 - ***Estensione delle norme di controllo alle società***
 
 Le disposizioni di questa sezione si applicano anche alle società che si costituiscono per raggiungere gli scopi indicati nell'[art. 2602](../01%20-%20Sezione%20I%20-%20Disposizioni%20generali/art-2602-cc.md).
+{: data-comma="1" }
 
 L'autorità governativa può sempre disporre lo scioglimento della società, quando la costituzione di questa non abbia avuto l'approvazione prevista nell'[art. 2618](art-2618-cc.md).
+{: data-comma="2" }

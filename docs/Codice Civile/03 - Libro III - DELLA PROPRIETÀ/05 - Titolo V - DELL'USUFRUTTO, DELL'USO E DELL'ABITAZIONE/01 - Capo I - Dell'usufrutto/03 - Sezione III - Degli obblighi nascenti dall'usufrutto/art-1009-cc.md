@@ -21,5 +21,7 @@ ordine: 1104
 # Art. 1009 - ***Imposte e altri pesi a carico del proprietario***
 
 Al pagamento dei carichi imposti sulla proprietà durante l'usufrutto, salvo diverse disposizioni di legge, è tenuto il proprietario, ma l'usufruttuario gli deve corrispondere l'interesse della somma pagata.
+{: data-comma="1" }
 
 Se l'usufruttuario ne anticipa il pagamento, ha diritto di essere rimborsato del capitale alla fine dell'usufrutto.
+{: data-comma="2" }

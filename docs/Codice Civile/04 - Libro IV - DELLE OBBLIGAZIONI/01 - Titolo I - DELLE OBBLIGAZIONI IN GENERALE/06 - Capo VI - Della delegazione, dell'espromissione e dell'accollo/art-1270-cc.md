@@ -21,5 +21,7 @@ ordine: 1372
 # Art. 1270 - ***Estinzione della delegazione***
 
 Il delegante può revocare la delegazione, fino a quando il delegato non abbia assunto l'obbligazione in confronto del delegatario o non abbia eseguito il pagamento a favore di questo.
+{: data-comma="1" }
 
 Il delegato può assumere l'obbligazione o eseguire il pagamento a favore del delegatario anche dopo la morte o la sopravvenuta incapacità del delegante.
+{: data-comma="2" }

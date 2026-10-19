@@ -21,5 +21,7 @@ ordine: 2216
 # Art. 2095 - ***Categorie dei prestatori di lavoro***
 
 I prestatori di lavoro subordinato si distinguono in dirigenti, quadri, impiegati e operai.
+{: data-comma="1" }
 
 Le leggi speciali e le norme corporative, in relazione a ciascun ramo di produzione e alla particolare struttura dell'impresa, determinano i requisiti di appartenenza alle indicate categorie.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 1982
 # Art. 1861 - ***Nozione***
 
 Col contratto di rendita perpetua una parte conferisce all'altra il diritto di esigere in perpetuo la prestazione periodica di una somma di danaro o di una certa quantità di altre cose fungibili, quale corrispettivo dell'alienazione di un immobile o della cessione di un capitale.
+{: data-comma="1" }
 
 La rendita perpetua può essere costituita anche quale onere dell'alienazione gratuita di un immobile o della cessione gratuita di un capitale.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 1721
 # Art. 1606 - ***Estinzione del diritto del locatore***
 
 Nei casi in cui il diritto del locatore sulla cosa locata si estingue con effetto retroattivo, le locazioni da lui concluse aventi data certa sono mantenute, purchè siano state fatte senza frode e non eccedano il triennio.
+{: data-comma="1" }
 
 Sono salve le diverse disposizioni di legge.
+{: data-comma="2" }

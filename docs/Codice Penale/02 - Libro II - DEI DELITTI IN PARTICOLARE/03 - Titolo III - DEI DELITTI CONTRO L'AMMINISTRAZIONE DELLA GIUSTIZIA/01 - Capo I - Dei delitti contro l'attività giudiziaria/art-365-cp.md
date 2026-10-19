@@ -21,5 +21,7 @@ ordine: 434
 # Art. 365 - ***Omissione di referto***
 
 Chiunque, avendo nell'esercizio di una professione sanitaria prestato la propria assistenza od opera in casi che possono presentare i caratteri di un delitto pel quale si debba procedere d'ufficio, omette o ritarda di riferirne all'Autorità indicata nell'[articolo 361](art-361-cp.md), è punito con la multa fino a lire cinquemila.
+{: data-comma="1" }
 
 Questa disposizione non si applica quando il referto esporrebbe la persona assistita a procedimento penale.
+{: data-comma="2" }

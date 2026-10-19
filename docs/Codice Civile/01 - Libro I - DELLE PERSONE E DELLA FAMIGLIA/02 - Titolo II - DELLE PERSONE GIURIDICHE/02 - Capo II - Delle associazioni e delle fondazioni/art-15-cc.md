@@ -21,5 +21,7 @@ ordine: 46
 # Art. 15 - ***Revoca dell'atto costitutivo della fondazione***
 
 L'atto di fondazione può essere revocato dal fondatore fino a quando non sia intervenuto il riconoscimento ovvero il fondatore non abbia fatto iniziare l'attività dell'opera da lui disposta.
+{: data-comma="1" }
 
 La facoltà di revoca non si trasmette agli eredi.
+{: data-comma="2" }

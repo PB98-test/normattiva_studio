@@ -21,7 +21,10 @@ ordine: 88
 # Art. 76 - ***Pene concorrenti considerate come pena unica ovvero come pene distinte***
 
 Salvo che la legge stabilisca altrimenti, le pene della stessa specie concorrenti a norma dell'[articolo 73](art-73-cp.md) si considerano come pena unica per ogni effetto giuridico.
+{: data-comma="1" }
 
 Le pene di specie diversa concorrenti a norma degli [articoli 74](art-74-cp.md) e [75](art-75-cp.md) si considerano egualmente, per ogni effetto giuridico, come pena unica della specie più grave. Nondimeno si considerano come pene distinte, agli effetti della loro esecuzione, dell'applicazione delle misure di sicurezza e in ogni altro caso stabilito dalla legge.
+{: data-comma="2" }
 
 Se una pena pecuniaria concorre con un'altra pena di specie diversa, le pene si considerano distinte per qualsiasi effetto giuridico.
+{: data-comma="3" }

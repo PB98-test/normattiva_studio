@@ -21,5 +21,7 @@ ordine: 465
 # Art. 380 - ***Contabilità dell'amministrazione***
 
 Il tutore deve tenere regolare contabilità della sua amministrazione e renderne conto ogni anno al giudice tutelare.
+{: data-comma="1" }
 
 Il giudice può sottoporre il conto annuale all'esame del protutore e di qualche prossimo parente o affine del minore.
+{: data-comma="2" }

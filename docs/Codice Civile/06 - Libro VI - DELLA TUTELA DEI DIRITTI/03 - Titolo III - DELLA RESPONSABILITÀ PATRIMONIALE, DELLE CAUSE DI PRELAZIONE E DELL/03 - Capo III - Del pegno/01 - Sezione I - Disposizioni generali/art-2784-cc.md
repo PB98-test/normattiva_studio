@@ -21,5 +21,7 @@ ordine: 3093
 # Art. 2784 - ***Nozione***
 
 Il pegno è costituito a garanzia dell'obbligazione dal debitore o da un terzo per il debitore.
+{: data-comma="1" }
 
 Possono essere dati in pegno i beni mobili, le universalità di mobili, i crediti e altri diritti aventi per oggetto beni mobili.
+{: data-comma="2" }

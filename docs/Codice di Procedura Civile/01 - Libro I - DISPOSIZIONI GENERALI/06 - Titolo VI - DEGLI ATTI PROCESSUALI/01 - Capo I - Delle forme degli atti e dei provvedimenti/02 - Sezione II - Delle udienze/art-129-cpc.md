@@ -21,5 +21,7 @@ ordine: 138
 # Art. 129 - ***Doveri di chi interviene o assiste all'udienza***
 
 Chi interviene o assiste all'udienza non può portare armi o bastoni e deve stare a capo scoperto e in silenzio.
+{: data-comma="1" }
 
 È vietato fare segni di approvazione o di disapprovazione o cagionare in qualsiasi modo disturbo.
+{: data-comma="2" }

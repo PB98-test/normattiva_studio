@@ -21,5 +21,7 @@ ordine: 2568
 # Art. 2405 - ***Intervento alle adunanze del consiglio di amministrazione e alle assemblee***
 
 I sindaci devono assistere alle adunanze del consiglio di amministrazione, alle assemblee e alle riunioni del comitato esecutivo.
+{: data-comma="1" }
 
 I sindaci, che non assistono senza giustificato motivo alle assemblee o, durante un esercizio sociale, a due adunanze consecutive del consiglio d'amministrazione o del comitato esecutivo, decadono dall'ufficio.
+{: data-comma="2" }

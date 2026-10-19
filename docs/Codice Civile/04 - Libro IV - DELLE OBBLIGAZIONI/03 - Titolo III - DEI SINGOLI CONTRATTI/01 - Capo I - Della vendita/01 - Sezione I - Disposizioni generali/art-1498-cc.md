@@ -21,7 +21,10 @@ ordine: 1605
 # Art. 1498 - ***Pagamento del prezzo***
 
 Il compratore è tenuto a pagare il prezzo nel termine e nel luogo fissati dal contratto.
+{: data-comma="1" }
 
 In mancanza di pattuizione e salvi gli usi diversi, il pagamento deve avvenire al momento della consegna e nel luogo dove questa si esegue.
+{: data-comma="2" }
 
 Se il prezzo non si deve pagare al momento della consegna, il pagamento si fa al domicilio del venditore.
+{: data-comma="3" }

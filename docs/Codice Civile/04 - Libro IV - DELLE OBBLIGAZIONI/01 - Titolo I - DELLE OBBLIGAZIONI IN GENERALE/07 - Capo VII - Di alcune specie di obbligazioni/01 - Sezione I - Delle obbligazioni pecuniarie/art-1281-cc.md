@@ -21,5 +21,7 @@ ordine: 1383
 # Art. 1281 - ***Leggi speciali***
 
 Le norme che precedono si osservano in quanto non siano in contrasto con i principi derivanti da leggi speciali.
+{: data-comma="1" }
 
 Sono salve le disposizioni particolari concernenti i pagamenti da farsi fuori del territorio dello Stato.
+{: data-comma="2" }

@@ -21,7 +21,10 @@ ordine: 1309
 # Art. 1207 - ***Effetti***
 
 Quando il creditore è in mora, è a suo carico l'impossibilità della prestazione sopravvenuta per causa non imputabile al debitore. Non sono più dovuti gli interessi nè i frutti della cosa che non siano stati percepiti dal debitore.
+{: data-comma="1" }
 
 Il creditore è pure tenuto a risarcire i danni derivati dalla sua mora e a sostenere le spese per la custodia e la conservazione della cosa dovuta.
+{: data-comma="2" }
 
 Gli effetti della mora si verificano dal giorno dell'offerta, se questa è successivamente dichiarata valida con sentenza passata in giudicato o se è accettata dal creditore.
+{: data-comma="3" }

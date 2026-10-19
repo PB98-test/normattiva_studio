@@ -21,5 +21,7 @@ ordine: 1354
 # Art. 1252 - ***Compensazione volontaria***
 
 Per volontà delle parti può aver luogo compensazione anche se non ricorrono le condizioni previste dagli articoli precedenti.
+{: data-comma="1" }
 
 Le parti possono anche stabilire preventivamente le condizioni di tale compensazione.
+{: data-comma="2" }

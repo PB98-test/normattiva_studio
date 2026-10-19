@@ -21,5 +21,7 @@ ordine: 826
 # Art. 739 - ***Donazioni ai discendenti o al coniuge dell'erede. Donazioni a coniugi***
 
 L'erede non è tenuto a conferire le donazioni fatte ai suoi discendenti o al coniuge, ancorchè succedendo a costoro ne abbia conseguito il vantaggio.
+{: data-comma="1" }
 
 Se le donazioni sono state fatte congiuntamente a coniugi di cui uno è discendente del donante, la sola porzione a questo donata è soggetta a collazione.
+{: data-comma="2" }

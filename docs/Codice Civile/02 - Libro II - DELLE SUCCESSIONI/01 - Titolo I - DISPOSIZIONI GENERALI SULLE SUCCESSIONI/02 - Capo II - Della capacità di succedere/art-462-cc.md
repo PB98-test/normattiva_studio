@@ -21,7 +21,10 @@ ordine: 548
 # Art. 462 - ***Capacità delle persone fisiche***
 
 Sono capaci di succedere tutti coloro che sono nati o concepiti al tempo dell'apertura della successione.
+{: data-comma="1" }
 
 Salvo prova contraria, si presume concepito al tempo dell'apertura della successione chi è nato entro i trecento giorni dalla morte della persona della cui successione si tratta.
+{: data-comma="2" }
 
 Possono inoltre ricevere per testamento i figli di una determinata persona vivente al tempo della morte del testatore, benchè non ancora concepiti.
+{: data-comma="3" }

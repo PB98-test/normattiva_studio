@@ -21,5 +21,7 @@ ordine: 656
 # Art. 569 - ***Successione degli ascendenti***
 
 A colui che muore senza lasciare prole, nè genitori, nè fratelli o sorelle o loro discendenti, succedono per una metà gli ascendenti della linea paterna e per l'altra metà gli ascendenti della linea materna.
+{: data-comma="1" }
 
 Se però gli ascendenti non sono di eguale grado, l'eredità è devoluta al più vicino senza distinzione di linea.
+{: data-comma="2" }

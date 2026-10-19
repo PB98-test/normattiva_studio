@@ -21,13 +21,19 @@ ordine: 2804
 # Art. 2530 - ***Trasferibilità della quota o delle azioni***
 
 La quota o le azioni dei soci cooperatori non possono essere cedute con effetto verso la società, se la cessione non è autorizzata dagli amministratori.
+{: data-comma="1" }
 
 Il socio che intende trasferire la propria quota o le proprie azioni deve darne comunicazione agli amministratori con lettera raccomandata.
+{: data-comma="2" }
 
 Il provvedimento che concede o nega l'autorizzazione deve essere comunicato al socio entro sessanta giorni dal ricevimento della richiesta.
+{: data-comma="3" }
 
 Decorso tale termine, il socio è libero di trasferire la propria partecipazione e la società deve iscrivere nel libro dei soci l'acquirente che abbia i requisiti previsti per divenire socio.
+{: data-comma="4" }
 
 Il provvedimento che nega al socio l'autorizzazione deve essere motivato. Contro il diniego il socio entro sessanta giorni dal ricevimento della comunicazione può proporre opposizione al tribunale.
+{: data-comma="5" }
 
 Qualora l'atto costitutivo vieti la cessione della quota o delle azioni il socio può recedere dalla società con preavviso di novanta giorni. Il diritto di recesso, in caso di divieto statutario di trasferimento della partecipazione, non può essere esercitato prima che siano decorsi due anni dall'ingresso del socio nella società.
+{: data-comma="6" }

@@ -21,5 +21,7 @@ ordine: 1331
 # Art. 1229 - ***Clausole di esonero da responsabilità***
 
 È nullo qualsiasi patto che esclude o limita preventivamente la responsabilità del debitore per dolo o per colpa grave.
+{: data-comma="1" }
 
 È nullo altresì qualsiasi patto preventivo di esonero o di limitazione di responsabilità per i casi in cui il fatto del debitore o dei suoi ausiliari costituisca violazione di obblighi derivanti da norme di ordine pubblico.
+{: data-comma="2" }

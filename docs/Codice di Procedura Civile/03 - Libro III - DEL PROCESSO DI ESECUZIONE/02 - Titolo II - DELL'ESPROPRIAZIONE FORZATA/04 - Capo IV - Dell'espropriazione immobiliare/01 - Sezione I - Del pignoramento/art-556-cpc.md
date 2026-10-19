@@ -21,5 +21,7 @@ ordine: 700
 # Art. 556 - ***Espropriazione di mobili insieme con immobili***
 
 Il creditore può fare pignorare insieme coll'immobile anche i mobili che lo arredano, quando appare opportuno che l'espropriazione avvenga unitamente.
+{: data-comma="1" }
 
 In tal caso l'ufficiale giudiziario forma atti separati per l'immobile e per i mobili, ma li deposita insieme nella cancelleria del tribunale.
+{: data-comma="2" }

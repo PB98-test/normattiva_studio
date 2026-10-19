@@ -21,5 +21,7 @@ ordine: 24
 # Art. 23 - ***Foro per le cause tra soci e tra condomini***
 
 Per le cause tra soci è competente il giudice del luogo dove ha sede la società; per le cause tra condomini , ovvero tra condomini e condominio,, il giudice del luogo dove si trovano i beni comuni o la maggior parte di essi.
+{: data-comma="1" }
 
 Tale norma si applica anche dopo lo scioglimento della società o del condominio, purchè la domanda sia proposta entro un biennio dalla divisione.
+{: data-comma="2" }

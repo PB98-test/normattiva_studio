@@ -21,5 +21,7 @@ ordine: 1607
 # Art. 1500 - ***Patto di riscatto***
 
 Il venditore può riservarsi il diritto di riavere la proprietà della cosa venduta mediante la restituzione del prezzo e i rimborsi stabiliti dalle disposizioni che seguono.
+{: data-comma="1" }
 
 Il patto di restituire un prezzo superiore a quello stipulato per la vendita è nullo per l'eccedenza.
+{: data-comma="2" }

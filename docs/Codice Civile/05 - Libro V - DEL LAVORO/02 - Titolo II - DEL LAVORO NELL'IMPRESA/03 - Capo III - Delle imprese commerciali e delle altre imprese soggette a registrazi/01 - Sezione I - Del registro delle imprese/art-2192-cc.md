@@ -21,5 +21,7 @@ ordine: 2313
 # Art. 2192 - ***Ricorso contro il decreto del giudice del registro***
 
 Contro il decreto del giudice del registro emesso a norma degli articoli precedenti, l'interessato, entro quindici giorni dalla comunicazione, può ricorrere al tribunale dal quale dipende l'ufficio del registro.
+{: data-comma="1" }
 
 Il decreto che pronunzia sul ricorso deve essere iscritto d'ufficio nel registro.
+{: data-comma="2" }

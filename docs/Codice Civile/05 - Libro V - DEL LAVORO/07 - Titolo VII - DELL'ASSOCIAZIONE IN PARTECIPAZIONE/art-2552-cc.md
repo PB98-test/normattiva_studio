@@ -21,7 +21,10 @@ ordine: 2843
 # Art. 2552 - ***Diritti dell'associante e dell'associato***
 
 La gestione dell'impresa o dell'affare spetta all'associante.
+{: data-comma="1" }
 
 Il contratto può determinare quale controllo possa esercitare l'associato sull'impresa o sullo svolgimento dell'affare per cui l'associazione è stata contratta.
+{: data-comma="2" }
 
 In ogni caso l'associato ha diritto al rendiconto dell'affare compiuto, o a quello annuale della gestione se questa si protrae per più di un anno.
+{: data-comma="3" }

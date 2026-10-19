@@ -21,11 +21,16 @@ ordine: 50
 # Art. 43 - ***Elemento psicologico del reato***
 
 Il delitto:
+{: data-comma="1" }
 
 è doloso, o secondo l'intenzione, quando l'evento dannoso o pericoloso, che è il risultato dell'azione od omissione e da cui la legge fa dipendere l'esistenza del delitto, è dall'agente preveduto e voluto come conseguenza della propria azione od omissione;
+{: data-comma="" }
 
 è preterintenzionale, o oltre l'intenzione, quando dall'azione od omissione deriva un evento dannoso o pericoloso più grave di quello voluto dall'agente;
+{: data-comma="" }
 
 è colposo, o contro l'intenzione, quando l'evento, anche se preveduto, non è voluto dall'agente e si verifica a causa di negligenza o imprudenza o imperizia, ovvero per inosservanza di leggi, regolamenti, ordini o discipline.
+{: data-comma="" }
 
 La distinzione tra reato doloso e reato colposo, stabilita da questo articolo per i delitti, si applica altresì alle contravvenzioni, ogni qualvolta per queste la legge penale faccia dipendere da tale distinzione un qualsiasi effetto giuridico.
+{: data-comma="2" }

@@ -21,11 +21,16 @@ ordine: 2035
 # Art. 1914 - ***Obbligo di salvataggio***
 
 L'assicurato deve fare quanto gli è possibile per evitare o diminuire il danno.
+{: data-comma="1" }
 
 Le spese fatte a questo scopo dall'assicurato sono a carico dell'assicuratore, in proporzione del valore assicurato rispetto a quello che la cosa aveva nel tempo del sinistro, anche se il loro ammontare, unitamente a quello del danno, supera la somma assicurata, e anche se non si è raggiunto lo scopo, salvo che l'assicuratore provi che le spese sono state fatte inconsideratamente.
+{: data-comma="2" }
 
 L'assicuratore risponde dei danni materiali direttamente derivati alle cose assicurate dai mezzi adoperati dall'assicurato per evitare o diminuire i danni del sinistro, salvo che egli provi che tali mezzi sono stati adoperati inconsideratamente.
+{: data-comma="3" }
 
 L'intervento dell'assicuratore per il salvataggio delle cose assicurate e per la loro conservazione non pregiudica i suoi diritti.
+{: data-comma="4" }
 
 L'assicuratore che interviene al salvataggio deve, se richiesto dall'assicurato, anticiparne le spese o concorrere in proporzione del valore assicurato.
+{: data-comma="5" }

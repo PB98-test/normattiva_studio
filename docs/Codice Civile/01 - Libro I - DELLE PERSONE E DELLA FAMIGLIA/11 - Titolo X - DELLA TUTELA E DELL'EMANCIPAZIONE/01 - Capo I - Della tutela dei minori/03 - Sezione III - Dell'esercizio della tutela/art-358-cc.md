@@ -21,5 +21,7 @@ ordine: 443
 # Art. 358 - ***Doveri del minore***
 
 Il minore deve rispetto e obbedienza al tutore. Egli non può abbandonare la casa o l'istituto al quale è stato destinato, senza il permesso del tutore.
+{: data-comma="1" }
 
 Qualora se ne allontani senza permesso, il tutore ha diritto di richiamarvelo, ricorrendo, se è necessario, al giudice tutelare.
+{: data-comma="2" }

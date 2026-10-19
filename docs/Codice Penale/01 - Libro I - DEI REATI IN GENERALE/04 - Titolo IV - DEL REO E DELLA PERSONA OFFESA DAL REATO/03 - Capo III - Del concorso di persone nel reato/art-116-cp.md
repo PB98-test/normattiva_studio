@@ -21,5 +21,7 @@ ordine: 128
 # Art. 116 - ***Reato diverso da quello voluto da taluno dei concorrenti***
 
 Qualora il reato commesso sia diverso da quello voluto da taluno dei concorrenti, anche questi ne risponde, se l'evento è conseguenza della sua azione od omissione.
+{: data-comma="1" }
 
 Se il reato commesso è più grave di quello voluto, la pena è diminuita riguardo a chi volle il reato meno grave.
+{: data-comma="2" }

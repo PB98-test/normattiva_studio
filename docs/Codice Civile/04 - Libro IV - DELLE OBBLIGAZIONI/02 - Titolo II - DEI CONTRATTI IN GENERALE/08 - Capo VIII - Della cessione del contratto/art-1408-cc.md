@@ -21,7 +21,10 @@ ordine: 1510
 # Art. 1408 - ***Rapporti fra contraente ceduto e cedente***
 
 Il cedente è liberato dalle sue obbligazioni verso il contraente ceduto dal momento in cui la sostituzione diviene efficace nei confronti di questo.
+{: data-comma="1" }
 
 Tuttavia il contraente ceduto, se ha dichiarato di non liberare il cedente, può agire contro di lui qualora il cessionario non adempia le obbligazioni assunte.
+{: data-comma="2" }
 
 Nel caso previsto dal comma precedente, il contraente ceduto deve dare notizia al cedente dell'inadempimento del cessionario, entro quindici giorni da quello in cui l'inadempimento si è verificato; in mancanza è tenuto al risarcimento del danno.
+{: data-comma="3" }

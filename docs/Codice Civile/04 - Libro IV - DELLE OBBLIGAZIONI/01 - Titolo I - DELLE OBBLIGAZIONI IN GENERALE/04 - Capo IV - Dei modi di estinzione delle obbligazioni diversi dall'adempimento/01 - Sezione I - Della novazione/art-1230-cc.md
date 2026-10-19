@@ -21,5 +21,7 @@ ordine: 1332
 # Art. 1230 - ***Novazione oggettiva***
 
 L'obbligazione si estingue quando le parti sostituiscono all'obbligazione originaria una nuova obbligazione con oggetto o titolo diverso.
+{: data-comma="1" }
 
 La volontà di estinguere l'obbligazione precedente deve risultare in modo non equivoco.
+{: data-comma="2" }

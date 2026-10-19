@@ -16,19 +16,20 @@ theme:
   - search.suggest
   - search.highlight
 extra_css:
-- stylesheets/normativa.css?v=73bd270f
+- stylesheets/normativa.css?v=9ecefb8a
 extra_javascript:
 - javascripts/segnalazioni.js?v=1d8dd674
 - javascripts/articoli.js?v=bbea3eba
 - javascripts/ricerca.js?v=2fd43db5
-- javascripts/ricerca-citazioni.js?v=49da0ea5
-- javascripts/navigazione.js?v=772f77d9
+- javascripts/ricerca-citazioni.js?v=b78e3473
+- javascripts/navigazione.js?v=43872c48
 - javascripts/interfaccia.js?v=cbc047e9
 - javascripts/sw-registra.js?v=cc658d8a
 markdown_extensions:
 - footnotes
 - tables
 - attr_list
+- admonition
 nav:
 - Home: index.md
 - Codici:
@@ -39,7 +40,8 @@ nav:
 - Altre leggi:
   - Disp. att. cpc (RD 1368-1941 - 25.08.1941): Disp. att. cpc (RD 1368-1941 - 25.08.1941)/00 - Indice (rd1368-41).md
   - R.D. 12-1941 - 30.01.1941: R.D. 12-1941 - 30.01.1941/00 - Indice (rd12-41).md
-  - Legge fallimentare (RD 267-1942 - 16.03.1942): Legge fallimentare (RD 267-1942 - 16.03.1942)/00 - Indice (rd267-42).md
+  - L. fallimentare (RD 267-1942 - 16.03.1942): L. fallimentare (RD 267-1942 - 16.03.1942)/00 - Indice (rd267-42).md
+  - Costituzione (27.12.1947): Costituzione (27.12.1947)/00 - Indice (cost).md
   - L. 260-1949 - 27.05.1949: L. 260-1949 - 27.05.1949/00 - Indice (l260-49).md
   - L. 742-1969 - 07.10.1969: L. 742-1969 - 07.10.1969/00 - Indice (l742-69).md
   - Divorzio (L. 898-1970 - 01.12.1970): Divorzio (L. 898-1970 - 01.12.1970)/00 - Indice (l898-70).md
@@ -55,24 +57,36 @@ nav:
   - L 477-1992 - 04.12.1992: L 477-1992 - 04.12.1992/00 - Indice (l477-92).md
   - Dl 571-1994 - 07.10.1994: Dl 571-1994 - 07.10.1994/00 - Indice (dl571-94).md
   - L 673-1994 - 06.12.1994: L 673-1994 - 06.12.1994/00 - Indice (l673-94).md
-  - Legge 254-1997 - 16.07.1997: Legge 254-1997 - 16.07.1997/00 - Indice (l254-97).md
+  - L 254-1997 - 16.07.1997: L 254-1997 - 16.07.1997/00 - Indice (l254-97).md
   - Dlgs 51-1998 - 19.02.1998: Dlgs 51-1998 - 19.02.1998/00 - Indice (dlgs51-98).md
   - L. 188-1998 - 16.06.1998: L. 188-1998 - 16.06.1998/00 - Indice (l188-98).md
   - Dlgs 274-2000 - 28.08.2000: Dlgs 274-2000 - 28.08.2000/00 - Indice (dlgs274-00).md
   - Dlgs 231-2001 - 08.06.2001: Dlgs 231-2001 - 08.06.2001/00 - Indice (dlgs231-01).md
   - DPR 115-2002 - 30.05.2002: DPR 115-2002 - 30.05.2002/00 - Indice (dpr115-02).md
+  - Codice Privacy (Dlgs 196-2003 - 30.06.2003): Codice Privacy (Dlgs 196-2003 - 30.06.2003)/00 - Indice (dlgs196-03).md
+  - D.P.R. 68-2005 - 11.02.2005: D.P.R. 68-2005 - 11.02.2005/00 - Indice (dpr68-05).md
   - Dl 35-2005 - 14.03.2005: Dl 35-2005 - 14.03.2005/00 - Indice (dl35-05).md
+  - Dlgs 82-2005 - 07.03.2005: Dlgs 82-2005 - 07.03.2005/00 - Indice (dlgs82-05).md
   - L. 80-2005 - 14.05.2005: L. 80-2005 - 14.05.2005/00 - Indice (l80-05).md
   - Antiriciclaggio (Dlgs 231-2007 - 21.11.2007): Antiriciclaggio (Dlgs 231-2007 - 21.11.2007)/00 - Indice (dlgs231-07).md
+  - Dl 193-2009 - 29.12.2009: Dl 193-2009 - 29.12.2009/00 - Indice (dl193-09).md
   - Mediazione (Dlgs 28-2010 - 04.03.2010): Mediazione (Dlgs 28-2010 - 04.03.2010)/00 - Indice (dlgs28-10).md
+  - D MdG 44-2011 - 21.02.2011: D MdG 44-2011 - 21.02.2011/00 - Indice (decre44-11).md
   - Dlgs 150-2011 - 09.01.2011: Dlgs 150-2011 - 09.01.2011/00 - Indice (dlgs150-11).md
   - Dlgs 159-2011 - 06.09.2011: Dlgs 159-2011 - 06.09.2011/00 - Indice (dlgs159-11).md
+  - Dl 179-2012 - 18.10.2012: Dl 179-2012 - 18.10.2012/00 - Indice (dl179-12).md
   - Negoziazione assistita (Dl 132-2014 - 12.09.2014): Negoziazione assistita (Dl 132-2014 - 12.09.2014)/00 - Indice (dl132-14).md
   - Rif. Orlando (L 103-2017 - 23.06.2017): Rif. Orlando (L 103-2017 - 23.06.2017)/00 - Indice (l103-17).md
   - Crisi d'impresa e insolvenza (Dlgs 14-2019 - 12.01.2019): Crisi d'impresa e insolvenza (Dlgs 14-2019 - 12.01.2019)/00 - Indice (dlgs14-19).md
   - L 3-2019 - 09.01.2019: L 3-2019 - 09.01.2019/00 - Indice (l3-19).md
+  - Dl 137-2020 - 28.10.2020: Dl 137-2020 - 28.10.2020/00 - Indice (dl137-20).md
   - L 134-2021 - 27.09.2021: L 134-2021 - 27.09.2021/00 - Indice (l134-21).md
   - Cartabia (Dlgs 149-2022 - 10.10.2022): Cartabia (Dlgs 149-2022 - 10.10.2022)/00 - Indice (dlgs149-22).md
   - Cartabia (Dlgs 150-2022 - 10.10.2022): Cartabia (Dlgs 150-2022 - 10.10.2022)/00 - Indice (dlgs150-22).md
   - L. 197-2022 - 29.12.2022: L. 197-2022 - 29.12.2022/00 - Indice (l197-22).md
+  - D MdG 217-2023 - 29.12.2023: D MdG 217-2023 - 29.12.2023/00 - Indice (decre217-23).md
+  - Prov. DGSIA - 11.07.2023 (Portale deposito atti penali PDP): Prov. DGSIA - 11.07.2023 (Portale deposito atti penali PDP)/00 - Indice (dgsia23).md
   - Correttivo Cartabia (Dlgs 164-2024 - 31.10.2024): Correttivo Cartabia (Dlgs 164-2024 - 31.10.2024)/00 - Indice (dlgs164-24).md
+  - D MdG 206-2024 - 27.12.2024: D MdG 206-2024 - 27.12.2024/00 - Indice (decre206-24).md
+  - Prov. DGSIA - 07.08.2024 (Specifiche tecniche art. 34 DM 44-2011): Prov. DGSIA - 07.08.2024 (Specifiche tecniche art. 34 DM 44-2011)/00 - Indice (dgsia24).md
+  - D MdG 114-2026 - 26.06.2026: D MdG 114-2026 - 26.06.2026/00 - Indice (decre114-26).md

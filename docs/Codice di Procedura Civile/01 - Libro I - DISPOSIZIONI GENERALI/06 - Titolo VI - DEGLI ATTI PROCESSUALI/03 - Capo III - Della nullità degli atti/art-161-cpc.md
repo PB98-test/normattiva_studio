@@ -21,5 +21,7 @@ ordine: 171
 # Art. 161 - ***Nullità della sentenza***
 
 La nullità delle sentenze soggette ad appello o a ricorso per cassazione può essere fatta valere soltanto nei limiti e secondo le regole proprie di questi mezzi di impugnazione.
+{: data-comma="1" }
 
 Questa disposizione non si applica quando la sentenza manca della sottoscrizione del giudice.
+{: data-comma="2" }

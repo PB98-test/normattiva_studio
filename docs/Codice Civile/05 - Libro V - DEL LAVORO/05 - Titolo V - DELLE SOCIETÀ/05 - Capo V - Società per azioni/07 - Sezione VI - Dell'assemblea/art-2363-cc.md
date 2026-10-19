@@ -21,5 +21,7 @@ ordine: 2501
 # Art. 2363 - ***Luogo di convocazione dell'assemblea***
 
 L'assemblea è convocata nel comune dove ha sede la società, se lo statuto non dispone diversamente.
+{: data-comma="1" }
 
 L'assemblea è ordinaria o straordinaria.
+{: data-comma="2" }

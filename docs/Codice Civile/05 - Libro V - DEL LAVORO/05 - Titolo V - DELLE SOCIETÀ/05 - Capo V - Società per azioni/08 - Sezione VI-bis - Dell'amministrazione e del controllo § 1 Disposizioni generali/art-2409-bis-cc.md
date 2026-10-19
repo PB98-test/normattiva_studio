@@ -21,5 +21,7 @@ ordine: 2573
 # Art. 2409-bis - ***Revisione legale dei conti***
 
 COMMA ABROGATO DAL D.LGS. 27 MARZO 2026, N. 47.
+{: data-comma="1" }
 
 Lo statuto delle società che non siano tenute alla redazione del bilancio consolidato può prevedere che la revisione legale dei conti sia esercitata dal collegio sindacale. In tal caso il collegio sindacale è costituito da revisori legali iscritti nell'apposito registro.
+{: data-comma="2" }

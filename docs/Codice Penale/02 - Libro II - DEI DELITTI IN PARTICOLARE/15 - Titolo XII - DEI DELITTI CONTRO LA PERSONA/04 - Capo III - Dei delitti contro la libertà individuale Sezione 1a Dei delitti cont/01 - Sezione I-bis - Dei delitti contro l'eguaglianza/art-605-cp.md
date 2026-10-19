@@ -14,34 +14,39 @@ capo_label: "Dei delitti contro la libertà individuale Sezione 1a Dei delitti c
 sezione: "I-bis"
 sezione_label: "Dei delitti contro l'eguaglianza"
 rubrica: "Sequestro di persona"
-dataVigenza: "20260930"
+dataVigenza: "20261016"
 ordine: 808
 ---
 
 # Art. 605 - ***Sequestro di persona***
 
 Chiunque priva taluno della libertà personale è punito con la reclusione da sei mesi a otto anni.
+{: data-comma="1" }
 
 La pena è della reclusione da uno a dieci anni, se il fatto è commesso:
+{: data-comma="2" }
 
-1° in danno di un ascendente, di un discendente o del coniuge;
-
-2° da un pubblico ufficiale, con abuso dei poteri inerenti alle sue funzioni.
+- 1° in danno di un ascendente, di un discendente o del coniuge;
+- 2° da un pubblico ufficiale, con abuso dei poteri inerenti alle sue funzioni.
 
 Se il fatto di cui al primo comma è commesso in danno di un minore, si applica la pena della reclusione da tre a dodici anni. Se il fatto è commesso in presenza di taluna delle circostanze di cui al secondo comma, ovvero in danno di minore di anni quattordici o se il minore sequestrato è condotto o trattenuto all'estero, si applica la pena della reclusione da tre a quindici anni.
+{: data-comma="3" }
 
 Se il colpevole cagiona la morte del minore sequestrato si applica la pena dell'ergastolo.
+{: data-comma="4" }
 
 Le pene previste dal terzo comma sono altresì diminuite fino alla metà nei confronti dell'imputato che si adopera concretamente:
+{: data-comma="5" }
 
 - 1) affinchè il minore riacquisti la propria libertà;
 - 2) per evitare che l'attività delittuosa sia portata a conseguenze ulteriori, aiutando concretamente l'autorità di polizia o l'autorità giudiziaria nella raccolta di elementi di prova decisivi per la ricostruzione dei fatti e per l'individuazione o la cattura di uno o più autori di reati;
 - 3) per evitare la commissione di ulte-riori fatti di sequestro di minore.
 
 Nell'ipotesi prevista dal primo comma, il delitto è punibile a querela della persona offesa, salvo che il fatto sia commesso nei confronti di persona incapace, per età o per infermità.   [^agg-96] [^agg-125] [^agg-233]
+{: data-comma="6" }
 
-[^agg-96]: *AGGIORNAMENTO (96)* La L. 31 maggio 1965, n. 575 come modificata dalla L. 13 settembre 1982, n. 646 ha disposto: - (con l'[art. 7](../../../../01%20-%20Libro%20I%20-%20DEI%20REATI%20IN%20GENERALE/01%20-%20Titolo%20I%20-%20DELLA%20LEGGE%20PENALE/art-7-cp.md), comma 1) che le pene stabilite per il delitto previsto nel presente articolo sono aumentate se il fatto è commesso da persona già sottoposta con provvedimento definitivo a misura di prevenzione; -(con l'[art. 7](../../../../01%20-%20Libro%20I%20-%20DEI%20REATI%20IN%20GENERALE/01%20-%20Titolo%20I%20-%20DELLA%20LEGGE%20PENALE/art-7-cp.md), comma 3) che alla pena è aggiunta una misura di sicurezza detentiva.
+[^agg-96]: *AGGIORNAMENTO (96)* La L. 31 maggio 1965, n. 575 come modificata dalla L. 13 settembre 1982, n. 646 ha disposto: - (con l'art. 7, comma 1) che le pene stabilite per il delitto previsto nel presente articolo sono aumentate se il fatto è commesso da persona già sottoposta con provvedimento definitivo a misura di prevenzione; -(con l'art. 7, comma 3) che alla pena è aggiunta una misura di sicurezza detentiva.
 
-[^agg-125]: *AGGIORNAMENTO (125)* La L. 31 maggio 1965, n. 575 come modificata dal D.L. 13 maggio 1991, n. 152 convertito con modificazioni dalla L. 12 luglio 1991, n. 203 ha disposto (con l'[art. 7](../../../../01%20-%20Libro%20I%20-%20DEI%20REATI%20IN%20GENERALE/01%20-%20Titolo%20I%20-%20DELLA%20LEGGE%20PENALE/art-7-cp.md), comma 1) che le pene stabilite per il delitto previsto nel presente articolo sono aumentate da un terzo alla metà se il fatto è commesso da persona sottoposta con provvedimento definitivo ad una misura di prevenzione durante il periodo previsto di applicazione e sino a tre anni dal momento in cui ne è cessata l'esecuzione.
+[^agg-125]: *AGGIORNAMENTO (125)* La L. 31 maggio 1965, n. 575 come modificata dal D.L. 13 maggio 1991, n. 152 convertito con modificazioni dalla L. 12 luglio 1991, n. 203 ha disposto (con l'art. 7, comma 1) che le pene stabilite per il delitto previsto nel presente articolo sono aumentate da un terzo alla metà se il fatto è commesso da persona sottoposta con provvedimento definitivo ad una misura di prevenzione durante il periodo previsto di applicazione e sino a tre anni dal momento in cui ne è cessata l'esecuzione.
 
-[^agg-233]: *AGGIORNAMENTO (233)* Il [D.Lgs. 6 settembre 2011, n. 159](../../../../../Dlgs%20159-2011%20-%2006.09.2011/00%20-%20Indice%20%28dlgs159-11%29.md) ha disposto: - (con l'[art. 71](../../../../01%20-%20Libro%20I%20-%20DEI%20REATI%20IN%20GENERALE/03%20-%20Titolo%20III%20-%20DEL%20REATO/03%20-%20Capo%20III%20-%20Del%20concorso%20di%20reati/art-71-cp.md), comma 1) che le pene stabilite per il delitto previsto dal presente articolo sono aumentate da un terzo alla metà se il fatto è commesso da persona sottoposta con provvedimento definitivo ad una misura di prevenzione personale durante il periodo previsto di applicazione e sino a tre anni dal momento in cui ne è cessata l'esecuzione; - (con l'[art. 71](../../../../01%20-%20Libro%20I%20-%20DEI%20REATI%20IN%20GENERALE/03%20-%20Titolo%20III%20-%20DEL%20REATO/03%20-%20Capo%20III%20-%20Del%20concorso%20di%20reati/art-71-cp.md), comma 3) che alla pena è aggiunta una misura di sicurezza detentiva.
+[^agg-233]: *AGGIORNAMENTO (233)* Il [D.Lgs. 6 settembre 2011, n. 159](../../../../../Dlgs%20159-2011%20-%2006.09.2011/00%20-%20Indice%20%28dlgs159-11%29.md) ha disposto: - (con l'[art. 71](../../../../../Dlgs%20159-2011%20-%2006.09.2011/01%20-%20Libro%20I%20-%20Le%20misure%20di%20prevenzione/05%20-%20Titolo%20V%20-%20EFFETTI,%20SANZIONI%20E%20DISPOSIZIONI%20FINALI/03%20-%20Capo%20III%20-%20Le%20sanzioni/art-71-dlgs159-11.md), comma 1) che le pene stabilite per il delitto previsto dal presente articolo sono aumentate da un terzo alla metà se il fatto è commesso da persona sottoposta con provvedimento definitivo ad una misura di prevenzione personale durante il periodo previsto di applicazione e sino a tre anni dal momento in cui ne è cessata l'esecuzione; - (con l'[art. 71](../../../../../Dlgs%20159-2011%20-%2006.09.2011/01%20-%20Libro%20I%20-%20Le%20misure%20di%20prevenzione/05%20-%20Titolo%20V%20-%20EFFETTI,%20SANZIONI%20E%20DISPOSIZIONI%20FINALI/03%20-%20Capo%20III%20-%20Le%20sanzioni/art-71-dlgs159-11.md), comma 3) che alla pena è aggiunta una misura di sicurezza detentiva.

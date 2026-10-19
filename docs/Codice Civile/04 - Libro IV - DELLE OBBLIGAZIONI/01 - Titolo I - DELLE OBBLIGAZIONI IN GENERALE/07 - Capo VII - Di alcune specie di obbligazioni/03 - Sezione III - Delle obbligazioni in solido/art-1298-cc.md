@@ -21,5 +21,7 @@ ordine: 1400
 # Art. 1298 - ***Rapporti interni tra debitori o creditori solidali***
 
 Nei rapporti interni l'obbligazione in solido si divide tra i diversi debitori o tra i diversi creditori, salvo che sia stata contratta nell'interesse esclusivo di alcuno di essi.
+{: data-comma="1" }
 
 Le parti di ciascuno si presumono uguali, se non risulta diversamente.
+{: data-comma="2" }

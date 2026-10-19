@@ -21,5 +21,7 @@ ordine: 1116
 # Art. 1021 - ***Uso***
 
 Chi ha il diritto d'uso di una cosa può servirsi di essa e, se è fruttifera, può raccogliere i frutti per quanto occorre ai bisogni suoi e della sua famiglia.
+{: data-comma="1" }
 
 I bisogni si devono valutare secondo la condizione sociale del titolare del diritto.
+{: data-comma="2" }

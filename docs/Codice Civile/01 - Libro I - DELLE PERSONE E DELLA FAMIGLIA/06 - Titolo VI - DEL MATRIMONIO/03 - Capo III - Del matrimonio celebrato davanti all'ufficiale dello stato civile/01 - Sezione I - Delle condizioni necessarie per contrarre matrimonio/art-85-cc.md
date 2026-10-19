@@ -21,5 +21,7 @@ ordine: 117
 # Art. 85 - ***Interdizione per infermità di mente***
 
 Non può contrarre matrimonio l'interdetto per infermità di mente.
+{: data-comma="1" }
 
 Se l'istanza di interdizione è soltanto promossa, il pubblico ministero può chiedere che si sospenda la celebrazione del matrimonio; in tal caso la celebrazione non può aver luogo finchè la sentenza che ha pronunziato sull'istanza non sia passata in giudicato.
+{: data-comma="2" }

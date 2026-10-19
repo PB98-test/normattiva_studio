@@ -21,7 +21,10 @@ ordine: 562
 # Art. 475 - ***Accettazione espressa***
 
 L'accettazione è espressa quando, in un atto pubblico o in una scrittura privata, il chiamato all'eredità ha dichiarato di accettarla oppure ha assunto il titolo di erede.
+{: data-comma="1" }
 
 È nulla la dichiarazione di accettare sotto condizione o a termine.
+{: data-comma="2" }
 
 Parimenti è nulla la dichiarazione di accettazione parziale di eredità.
+{: data-comma="3" }

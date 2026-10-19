@@ -21,5 +21,7 @@ ordine: 2124
 # Art. 2003 - ***Trasferimento del titolo e legittimazione del possessore***
 
 Il trasferimento del titolo al portatore si opera con la consegna del titolo.
+{: data-comma="1" }
 
 Il possessore del titolo al portatore è legittimato all'esercizio del diritto in esso menzionato in base alla presentazione del titolo.
+{: data-comma="2" }

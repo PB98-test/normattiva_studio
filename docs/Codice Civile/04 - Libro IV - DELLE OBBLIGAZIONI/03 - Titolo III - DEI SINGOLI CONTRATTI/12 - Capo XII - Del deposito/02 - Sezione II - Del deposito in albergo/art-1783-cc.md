@@ -21,11 +21,14 @@ ordine: 1900
 # Art. 1783 - ***Responsabilità per le cose portate in albergo***
 
 Gli albergatori sono responsabili di ogni deterioramento, distruzione o sottrazione delle cose portate dal cliente in albergo.
+{: data-comma="1" }
 
 Sono considerate cose portate in albergo:
+{: data-comma="2" }
 
 - 1) le cose che vi si trovano durante il tempo nel quale il cliente dispone dell'alloggio;
 - 2) le cose di cui l'albergatore, un membro della sua famiglia o un suo ausiliario assumono la custodia, fuori dell'albergo, durante il periodo di tempo in cui il cliente dispone dell'alloggio;
 - 3) le cose di cui l'albergatore, un membro della sua famiglia o un suo ausiliario assumono la custodia sia nell'albergo, sia fuori dell'albergo, durante un periodo di tempo ragionevole, precedente o successivo a quello in cui il cliente dispone dell'alloggio.
 
 La responsabilità di cui al presente articolo è limitata al valore di quanto sia deteriorato, distrutto o sottratto, sino all'equivalente di cento volte il prezzo di locazione dell'alloggio per giornata.
+{: data-comma="3" }

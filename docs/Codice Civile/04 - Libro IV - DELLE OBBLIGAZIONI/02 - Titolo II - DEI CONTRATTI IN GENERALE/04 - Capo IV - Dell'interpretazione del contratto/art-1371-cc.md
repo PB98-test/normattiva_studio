@@ -21,5 +21,7 @@ ordine: 1473
 # Art. 1371 - ***Regole finali***
 
 Qualora, nonostante l'applicazione delle norme contenute in questo capo, il contratto rimanga oscuro, esso deve essere inteso nel senso meno gravoso per l'obbligato, se è a titolo gratuito, e nel senso che realizzi l'equo contemperamento degli interessi delle parti, se è a titolo oneroso.
+{: data-comma="1" }
 
 COMMA ABROGATO DAL D.LGS. LUOGOTENENZIALE 14 SETTEMBRE 1944, N. 287.
+{: data-comma="2" }

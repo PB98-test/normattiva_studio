@@ -21,5 +21,7 @@ ordine: 1424
 # Art. 1322 - ***Autonomia contrattuale***
 
 Le parti possono liberamente determinare il contenuto del contratto nei limiti imposti dalla legge e dalle norme corporative.
+{: data-comma="1" }
 
 Le parti possono anche concludere contratti che non appartengano ai tipi aventi una disciplina particolare, purchè siano diretti a realizzare interessi meritevoli di tutela secondo l'ordinamento giuridico.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 240
 # Art. 218 - ***Esecuzione***
 
 Nelle colonie agricole e nelle case di lavoro i delinquenti abituali o professionali e quelli per tendenza sono assegnati a sezioni speciali.
+{: data-comma="1" }
 
 Il giudice stabilisce se la misura di sicurezza debba essere eseguita in una colonia agricola, ovvero in una casa di lavoro, tenuto conto delle condizioni e attitudini della persona a cui il provvedimento si riferisce. Il provvedimento può essere modificato nel corso della esecuzione.
+{: data-comma="2" }

@@ -21,7 +21,10 @@ ordine: 2041
 # Art. 1920 - ***Assicurazione a favore di un terzo***
 
 È valida l'assicurazione sulla vita a favore di un terzo.
+{: data-comma="1" }
 
 La designazione del beneficiario può essere fatta nel contratto di assicurazione, o con successiva dichiarazione scritta comunicata all'assicuratore, o per testamento; essa è efficace anche se il beneficiario è determinato solo genericamente. Equivale a designazione l'attribuzione della somma assicurata fatta nel testamento a favore di una determinata persona.
+{: data-comma="2" }
 
 Per effetto della designazione il terzo acquista un diritto proprio ai vantaggi dell'assicurazione.
+{: data-comma="3" }

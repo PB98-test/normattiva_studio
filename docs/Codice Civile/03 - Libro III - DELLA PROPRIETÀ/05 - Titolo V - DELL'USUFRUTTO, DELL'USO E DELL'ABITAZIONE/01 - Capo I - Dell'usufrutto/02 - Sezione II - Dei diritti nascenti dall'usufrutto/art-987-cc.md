@@ -21,7 +21,10 @@ ordine: 1082
 # Art. 987 - ***Miniere, cave e torbiere***
 
 L'usufruttuario gode delle cave e torbiere già aperte e in esercizio all'inizio dell'usufrutto. Non ha facoltà di aprirne altre senza il consenso del proprietario.
+{: data-comma="1" }
 
 Per le ricerche e le coltivazioni minerarie, di cui abbia ottenuto il permesso, l'usufruttuario deve indennizzare il proprietario dei danni che saranno accertati alla fine dell'usufrutto.
+{: data-comma="2" }
 
 Se il permesso è stato ottenuto dal proprietario o da un terzo, questi devono all'usufruttuario un'indennità corrispondente al diminuito godimento del fondo durante l'usufrutto.
+{: data-comma="3" }

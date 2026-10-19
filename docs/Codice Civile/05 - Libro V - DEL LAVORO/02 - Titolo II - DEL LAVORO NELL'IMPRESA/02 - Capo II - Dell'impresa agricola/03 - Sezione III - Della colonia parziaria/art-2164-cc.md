@@ -21,5 +21,7 @@ ordine: 2285
 # Art. 2164 - ***Nozione***
 
 Nella colonia parziaria il concedente ed uno o più coloni si associano per la coltivazione di un fondo e per l'esercizio delle attività connesse, al fine di dividerne i prodotti e gli utili.
+{: data-comma="1" }
 
 La misura della ripartizione dei prodotti e degli utili è stabilita dalle norme corporative, dalla convenzione o dagli usi.
+{: data-comma="2" }

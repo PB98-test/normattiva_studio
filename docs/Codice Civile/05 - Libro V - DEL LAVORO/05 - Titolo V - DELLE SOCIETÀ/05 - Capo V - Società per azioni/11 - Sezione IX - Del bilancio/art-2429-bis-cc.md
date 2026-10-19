@@ -15,7 +15,7 @@ sezione: "IX"
 sezione_label: "Del bilancio"
 rubrica: null
 abrogato: true
-dataVigenza: "20260930"
+dataVigenza: "20261016"
 ordine: 2624
 ---
 
@@ -23,4 +23,4 @@ ordine: 2624
 
 ----------------
 
-<small>*AGGIORNAMENTO (141)*   Il D.Lgs. 17 gennaio 2003, n. 6, disponendo (con l'[art. 1](../../../../01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/01%20-%20Titolo%20I%20-%20DELLE%20PERSONE%20FISICHE/art-1-cc.md), comma 1) la sostituzione del Libro V, Titolo V, Capo V, non ha più previsto il presente articolo.</small>
+<small>*AGGIORNAMENTO (141)*   Il D.Lgs. 17 gennaio 2003, n. 6, disponendo (con l'art. 1, comma 1) la sostituzione del Libro V, Titolo V, Capo V, non ha più previsto il presente articolo.</small>

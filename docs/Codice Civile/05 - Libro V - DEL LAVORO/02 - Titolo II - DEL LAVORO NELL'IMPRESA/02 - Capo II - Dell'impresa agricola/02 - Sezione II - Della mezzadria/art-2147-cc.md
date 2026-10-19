@@ -21,5 +21,7 @@ ordine: 2268
 # Art. 2147 - ***Obblighi del mezzadro***
 
 Il mezzadro è obbligato a prestare, secondo le direttive del concedente e le necessità della coltivazione, il lavoro proprio e quello della famiglia colonica.
+{: data-comma="1" }
 
 È a carico del mezzadro, salvo diverse disposizioni delle norme corporative, della convenzione o degli usi, la spesa della mano d'opera eventualmente necessaria per la normale coltivazione del podere.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 464
 # Art. 387 - ***Colpa del custode***
 
 Chiunque, preposto per ragione del suo ufficio alla custodia, anche temporanea, di una persona arrestata o detenuta per un reato, ne cagiona, per colpa, l'evasione, è punito con la reclusione fino a tre anni o con la multa da lire mille a diecimila.
+{: data-comma="1" }
 
 Il colpevole non è punibile se nel termine di tre mesi dall'evasione procura la cattura della persona evasa o la presentazione di lei all'Autorità.
+{: data-comma="2" }

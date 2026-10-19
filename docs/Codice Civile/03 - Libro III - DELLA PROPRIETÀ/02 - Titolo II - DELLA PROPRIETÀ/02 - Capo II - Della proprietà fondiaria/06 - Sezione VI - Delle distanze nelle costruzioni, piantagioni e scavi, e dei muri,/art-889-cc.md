@@ -21,7 +21,10 @@ ordine: 983
 # Art. 889 - ***Distanze per pozzi, cisterne, fosse e tubi***
 
 Chi vuole aprire pozzi, cisterne, fosse di latrina o di concime presso il confine, anche se su questo si trova un muro divisorio, deve osservare la distanza di almeno due metri tra il confine e il punto più vicino del perimetro interno delle opere predette.
+{: data-comma="1" }
 
 Per i tubi d'acqua pura o lurida, per quelli di gas e simili e loro diramazioni deve osservarsi la distanza di almeno un metro dal confine.
+{: data-comma="2" }
 
 Sono salve in ogni caso le disposizioni dei regolamenti locali.
+{: data-comma="3" }

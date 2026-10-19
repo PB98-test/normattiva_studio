@@ -21,7 +21,10 @@ ordine: 1233
 # Art. 1132 - ***Dissenso dei condomini rispetto alle liti***
 
 Qualora l'assemblea dei condomini abbia deliberato di promuovere una lite o di resistere a una domanda, il condomino dissenziente, con atto notificato all'amministratore, può separare la propria responsabilità in ordine alle conseguenze della lite per il caso di soccombenza. L'atto deve essere notificato entro trenta giorni da quello in cui il condomino ha avuto notizia della deliberazione.
+{: data-comma="1" }
 
 Il condomino dissenziente ha diritto di rivalsa per ciò che abbia dovuto pagare alla parte vittoriosa.
+{: data-comma="2" }
 
 Se l'esito della lite è stato favorevole al condominio, il condomino dissenziente che ne abbia tratto vantaggio è tenuto a concorrere nelle spese del giudizio che non sia stato possibile ripetere dalla parte soccombente.
+{: data-comma="3" }

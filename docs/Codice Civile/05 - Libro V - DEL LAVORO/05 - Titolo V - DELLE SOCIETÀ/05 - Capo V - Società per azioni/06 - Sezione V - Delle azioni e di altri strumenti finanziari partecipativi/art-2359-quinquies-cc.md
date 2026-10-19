@@ -21,7 +21,10 @@ ordine: 2497
 # Art. 2359-quinquies - ***Sottoscrizione di azioni o quote della società controllante***
 
 La società controllata non può sottoscrivere azioni o quote della società controllante.
+{: data-comma="1" }
 
 Le azioni o quote sottoscritte in violazione del comma precedente si intendono sottoscritte e devono essere liberate dagli amministratori, che non dimostrino di essere esenti da colpa.
+{: data-comma="2" }
 
 Chiunque abbia sottoscritto in nome proprio, ma per conto della società controllata, azioni o quote della società controllante è considerato a tutti gli effetti sottoscrittore per conto proprio. Della liberazione delle azioni o quote rispondono solidalmente gli amministratori della società controllata che non dimostrino di essere esenti da colpa.
+{: data-comma="3" }

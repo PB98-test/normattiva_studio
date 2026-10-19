@@ -14,7 +14,7 @@ capo_label: "DEL PROCEDIMENTO DI MEDIAZIONE"
 sezione: null
 sezione_label: null
 rubrica: "Efficacia esecutiva ed esecuzione"
-dataVigenza: "20260925"
+dataVigenza: "20261016"
 ordine: 20
 ---
 
@@ -24,10 +24,10 @@ ordine: 20
 
 1-bis. Quando le parti aderenti alla mediazione non sono tutte assistite dagli avvocati, l'accordo allegato al verbale è omologato, su istanza di parte, con decreto del presidente del tribunale del luogo dove ha sede l'organismo di mediazione avanti al quale l'accordo è stato raggiunto, previo accertamento della regolarità formale e del rispetto delle norme imperative e dell'ordine pubblico.
 
-1-ter. Nelle controversie transfrontaliere di cui all'[articolo 2](../01%20-%20Capo%20I%20-%20DISPOSIZIONI%20GENERALI/art-2-dlgs28-10.md) della direttiva 2008/52/CE del Parlamento europeo e del Consiglio, del 21 maggio 2008, l'accordo allegato al verbale è omologato, su istanza di parte, in conformità al comma 1-bis.
+1-ter. Nelle controversie transfrontaliere di cui all'articolo 2 della direttiva 2008/52/CE del Parlamento europeo e del Consiglio, del 21 maggio 2008, l'accordo allegato al verbale è omologato, su istanza di parte, in conformità al comma 1-bis.
 
 2\. Con l'omologazione l'accordo costituisce titolo esecutivo per l'espropriazione forzata, per l'esecuzione in forma specifica e per l'iscrizione di ipoteca giudiziale. [^agg-9] [^agg-10]
 
-[^agg-9]: *AGGIORNAMENTO (9)* Il [D.Lgs. 10 ottobre 2022, n. 149](../../Cartabia%20%28Dlgs%20149-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs149-22%29.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'[articolo 7](art-7-dlgs28-10.md) si applicano a decorrere dal 30 giugno 2023".
+[^agg-9]: *AGGIORNAMENTO (9)* Il [D.Lgs. 10 ottobre 2022, n. 149](../../Cartabia%20%28Dlgs%20149-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs149-22%29.md) ha disposto (con l'[art. 41](../../Cartabia%20%28Dlgs%20149-2022%20-%2010.10.2022%29/05%20-%20Capo%20V%20-%20Diposizioni%20transitorie,%20finanziarie%20e%20finali/02%20-%20Sezione%20II%20-%20Disposizioni%20in%20materia%20di%20mediazione%20e%20negoziazione%20assistita/art-41-dlgs149-22.md), comma 1) che "Le disposizioni di cui all'[articolo 7](art-7-dlgs28-10.md) si applicano a decorrere dal 30 giugno 2023".
 
-[^agg-10]: *AGGIORNAMENTO (10)* Il [D.Lgs. 10 ottobre 2022, n. 149](../../Cartabia%20%28Dlgs%20149-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs149-22%29.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../../L.%20197-2022%20-%2029.12.2022/00%20-%20Indice%20%28l197-22%29.md), non prevede più (con l'art. 41, comma 1) che le modifiche di cui ai commi 1, 1-bis e 2 del presente articolo si applicano a decorrere dal 30 giugno 2023.
+[^agg-10]: *AGGIORNAMENTO (10)* Il [D.Lgs. 10 ottobre 2022, n. 149](../../Cartabia%20%28Dlgs%20149-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs149-22%29.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../../L.%20197-2022%20-%2029.12.2022/00%20-%20Indice%20%28l197-22%29.md), non prevede più (con l'[art. 41](../../Cartabia%20%28Dlgs%20149-2022%20-%2010.10.2022%29/05%20-%20Capo%20V%20-%20Diposizioni%20transitorie,%20finanziarie%20e%20finali/02%20-%20Sezione%20II%20-%20Disposizioni%20in%20materia%20di%20mediazione%20e%20negoziazione%20assistita/art-41-dlgs149-22.md), comma 1) che le modifiche di cui ai commi 1, 1-bis e 2 del presente articolo si applicano a decorrere dal 30 giugno 2023.

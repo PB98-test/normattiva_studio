@@ -21,5 +21,7 @@ ordine: 3220
 # Art. 2910 - ***Oggetto dell'espropriazione***
 
 Il creditore, per conseguire quanto gli è dovuto, può fare espropriare i beni del debitore, secondo le regole stabilite dal [codice di procedura civile](../../../../../Codice%20di%20Procedura%20Civile/00%20-%20Indice%20%28cpc%29.md).
+{: data-comma="1" }
 
 Possono essere espropriati anche i beni di un terzo quando sono vincolati a garanzia del credito o quando sono oggetto di un atto che è stato revocato perchè compiuto in pregiudizio del creditore.
+{: data-comma="2" }

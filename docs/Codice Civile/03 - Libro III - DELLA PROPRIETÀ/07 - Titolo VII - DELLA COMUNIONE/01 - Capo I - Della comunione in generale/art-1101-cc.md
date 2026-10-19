@@ -21,5 +21,7 @@ ordine: 1196
 # Art. 1101 - ***Quote dei partecipanti***
 
 Le quote dei partecipanti alla comunione si presumono eguali.
+{: data-comma="1" }
 
 Il concorso dei partecipanti, tanto nei vantaggi quanto nei pesi della comunione, è in proporzione delle rispettive quote.
+{: data-comma="2" }

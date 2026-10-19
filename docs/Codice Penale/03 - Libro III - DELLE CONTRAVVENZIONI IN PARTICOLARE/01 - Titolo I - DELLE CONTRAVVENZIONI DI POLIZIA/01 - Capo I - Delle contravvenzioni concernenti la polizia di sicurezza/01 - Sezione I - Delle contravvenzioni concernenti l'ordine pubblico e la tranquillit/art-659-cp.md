@@ -21,7 +21,10 @@ ordine: 914
 # Art. 659 - ***Disturbo delle occupazioni o del riposo delle persone***
 
 Chiunque, mediante schiamazzi o rumori, ovvero abusando di strumenti sonori o di segnalazioni acustiche, ovvero suscitando o non impedendo strepiti di animali, disturba le occupazioni o il riposo delle persone, ovvero gli spettacoli, i ritrovi o i trattenimenti pubblici, è punito con l'arresto fino a tre mesi o con l'ammenda fino a lire tremila.
+{: data-comma="1" }
 
 Si applica l'ammenda da lire mille a cinquemila a chi esercita una professione o un mestiere rumoroso contro le disposizioni della legge o le prescrizioni dell'Autorità.
+{: data-comma="2" }
 
 Nell'ipotesi prevista dal primo comma, la contravvenzione è punibile a querela della persona offesa, salvo che il fatto abbia ad oggetto spettacoli, ritrovi o trattenimenti pubblici, ovvero sia commesso nei confronti di persona incapace, per età o per infermità.
+{: data-comma="3" }

@@ -21,7 +21,10 @@ ordine: 879
 # Art. 785 - ***Donazione in riguardo di matrimonio***
 
 La donazione fatta in riguardo di un determinato futuro matrimonio, sia dagli sposi tra loro, sia da altri a favore di uno o di entrambi gli sposi o dei figli nascituri da questi, si perfeziona senza bisogno che sia accettata, ma non produce effetto finchè non segua il matrimonio.
+{: data-comma="1" }
 
 L'annullamento del matrimonio importa la nullità della donazione. Restano tuttavia salvi i diritti acquistati dai terzi di buona fede tra il giorno del matrimonio e il passaggio in giudicato della sentenza che dichiara la nullità del matrimonio. Il coniuge di buona fede non è tenuto a restituire i frutti percepiti anteriormente alla domanda di annullamento del matrimonio.
+{: data-comma="2" }
 
 La donazione in favore di figli nascituri rimane efficace per i figli rispetto ai quali si verificano gli effetti del matrimonio putativo.
+{: data-comma="3" }

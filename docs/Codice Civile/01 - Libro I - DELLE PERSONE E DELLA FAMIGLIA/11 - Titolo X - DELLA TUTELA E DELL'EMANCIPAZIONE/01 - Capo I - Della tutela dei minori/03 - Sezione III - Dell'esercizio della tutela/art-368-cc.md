@@ -21,5 +21,7 @@ ordine: 453
 # Art. 368 - ***Omissione della dichiarazione***
 
 Se il tutore, conoscendo il suo credito o le sue ragioni, espressamente interpellato non li ha dichiarati, decade da ogni suo diritto.
+{: data-comma="1" }
 
 Qualora, sapendo di essere debitore, non abbia dichiarato fedelmente il proprio debito, può essere rimosso dalla tutela.
+{: data-comma="2" }

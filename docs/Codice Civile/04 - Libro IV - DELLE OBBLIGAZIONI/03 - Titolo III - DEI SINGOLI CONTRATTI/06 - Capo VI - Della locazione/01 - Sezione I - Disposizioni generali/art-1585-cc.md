@@ -21,5 +21,7 @@ ordine: 1700
 # Art. 1585 - ***Garanzia per molestie***
 
 Il locatore è tenuto a garantire il conduttore dalle molestie che diminuiscono l'uso o il godimento della cosa, arrecate da terzi che pretendono di avere diritti sulla cosa medesima.
+{: data-comma="1" }
 
 Non è tenuto a garantirlo dalle molestie di terzi che non pretendono di avere diritti, salva al conduttore la facoltà di agire contro di essi in nome proprio.
+{: data-comma="2" }

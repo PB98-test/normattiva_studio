@@ -21,10 +21,13 @@ ordine: 2484
 # Art. 2354 - ***Titoli azionari***
 
 I titoli possono essere nominativi o al portatore, a scelta del socio, se lo statuto o le leggi speciali non stabiliscono diversamente.
+{: data-comma="1" }
 
 Finchè le azioni non siano interamente liberate, non possono essere emessi titoli al portatore.
+{: data-comma="2" }
 
 I titoli azionari devono indicare:
+{: data-comma="3" }
 
 - 1) la denominazione e la sede della società;
 - 2) la data dell'atto costitutivo e della sua iscrizione e l'ufficio del registro delle imprese dove la società è iscritta;
@@ -33,9 +36,13 @@ I titoli azionari devono indicare:
 - 5) i diritti e gli obblighi particolari ad essi inerenti.
 
 I titoli azionari devono essere sottoscritti da uno degli amministratori. È valida la sottoscrizione mediante riproduzione meccanica della firma.
+{: data-comma="4" }
 
 Le disposizioni di questo articolo si applicano anche ai certificati provvisori che si distribuiscono ai soci prima dell'emissione dei titoli definitivi.
+{: data-comma="5" }
 
 Sono salve le disposizioni delle leggi speciali in tema di strumenti finanziari negoziati o destinati alla negoziazione nelle sedi di negoziazione.
+{: data-comma="6" }
 
 Lo statuto può assoggettare le azioni alla disciplina prevista dalle leggi speciali di cui al precedente comma.
+{: data-comma="7" }

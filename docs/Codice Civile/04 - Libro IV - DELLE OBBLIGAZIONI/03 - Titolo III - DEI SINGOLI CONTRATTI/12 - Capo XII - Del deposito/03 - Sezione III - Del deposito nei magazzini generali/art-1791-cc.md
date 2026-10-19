@@ -21,5 +21,7 @@ ordine: 1912
 # Art. 1791 - ***Nota di pegno***
 
 Alla fede di deposito è unita la nota di pegno, sulla quale sono ripetute le indicazioni richieste dall'articolo precedente.
+{: data-comma="1" }
 
 La fede di deposito e la nota di pegno devono essere staccate da un unico registro a matrice, da conservarsi presso i magazzini.
+{: data-comma="2" }

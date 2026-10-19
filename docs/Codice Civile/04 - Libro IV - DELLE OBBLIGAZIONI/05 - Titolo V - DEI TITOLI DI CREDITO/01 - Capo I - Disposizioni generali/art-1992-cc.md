@@ -21,5 +21,7 @@ ordine: 2113
 # Art. 1992 - ***Adempimento della prestazione***
 
 Il possessore di un titolo di credito ha diritto alla prestazione in esso indicata verso presentazione del titolo, purchè sia legittimato nelle forme prescritte dalla legge.
+{: data-comma="1" }
 
 Il debitore, che senza dolo o colpa grave adempie la prestazione nei confronti del possessore, è liberato anche se questi non è il titolare del diritto.
+{: data-comma="2" }

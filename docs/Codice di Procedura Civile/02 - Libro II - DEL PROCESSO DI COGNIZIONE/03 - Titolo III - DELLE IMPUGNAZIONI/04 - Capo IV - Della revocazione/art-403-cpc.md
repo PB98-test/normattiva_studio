@@ -21,5 +21,7 @@ ordine: 455
 # Art. 403 - ***Impugnazione della sentenza di revocazione***
 
 Non può essere impugnata per revocazione la sentenza pronunciata nel giudizio di revocazione.
+{: data-comma="1" }
 
 Contro di essa sono ammessi i mezzi d'impugnazione ai quali era originariamente soggetta la sentenza impugnata per revocazione.
+{: data-comma="2" }

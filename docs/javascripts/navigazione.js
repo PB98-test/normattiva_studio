@@ -65,7 +65,10 @@
     // legge stessa, "TU Stupefacenti (Dpr 309-1990 - 09.10.1990)", che
     // ha un suo "-" dentro la data e si romperebbe tagliando al primo)
     // resta intero: nessuna regola generica "taglia al primo trattino".
-    var RE_BREVE = /^((?:Libro|Titolo|Capo|Sezione)\s+[IVXLCDM\d]+|Art\.\s*\d+(?:-[a-z]+)?)\b/i;
+    // 12/10/2026: anche "Parte" (DPR 115/2002, Codice Privacy, Costituzione...),
+    // il numero con lo zero "0.I" (Codice Privacy) e il suffisso "VI-bis"
+    // (prima mostrato come "Titolo VI").
+    var RE_BREVE = /^((?:Parte|Libro|Titolo|Capo|Sezione)\s+[IVXLCDM\d]+(?:\.[IVXLCDM]+)?(?:-[a-z]+)?|Art\.\s*\d+(?:-[a-z]+)?)\b/i;
     function etichettaBreve(testo) {
       var m = RE_BREVE.exec(testo);
       return m ? m[1] : testo;

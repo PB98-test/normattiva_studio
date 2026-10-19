@@ -21,5 +21,7 @@ ordine: 1074
 # Art. 979 - ***Durata***
 
 La durata dell'usufrutto non può eccedere la vita dell'usufruttuario.
+{: data-comma="1" }
 
 L'usufrutto costituito a favore di una persona giuridica non può durare più di trent'anni.
+{: data-comma="2" }

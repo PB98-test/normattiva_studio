@@ -21,5 +21,7 @@ ordine: 349
 # Art. 304 - ***Diritti di successione***
 
 L'adozione non attribuisce all'adottante alcun diritto di successione.
+{: data-comma="1" }
 
 I diritti dell'adottato nella successione dell'adottante sono regolati dalle norme contenute nel libro II.
+{: data-comma="2" }

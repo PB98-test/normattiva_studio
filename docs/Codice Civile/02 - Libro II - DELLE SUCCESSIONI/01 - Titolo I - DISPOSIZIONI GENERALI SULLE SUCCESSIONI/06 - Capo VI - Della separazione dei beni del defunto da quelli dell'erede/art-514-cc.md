@@ -21,9 +21,13 @@ ordine: 601
 # Art. 514 - ***Rapporti tra creditori separatisti e non separatisti***
 
 I creditori e i legatari che hanno esercitato la separazione hanno diritto di soddisfarsi sui beni separati a preferenza dei creditori e dei legatari che non l'hanno esercitata, quando il valore della parte di patrimonio non separata sarebbe stato sufficiente a soddisfare i creditori e i legatari non separatisti.
+{: data-comma="1" }
 
 Fuori di questo caso, i creditori e i legatari non separatisti possono concorrere con coloro che hanno esercitato la separazione; ma, se parte del patrimonio non è stata separata, il valore di questa si aggiunge al prezzo dei beni separati per determinare quanto spetterebbe a ciascuno dei concorrenti, e quindi si considera come attribuito integralmente ai creditori e ai legatari non separatisti.
+{: data-comma="2" }
 
 Quando la separazione è esercitata da creditori e legatari, i creditori sono preferiti ai legatari. La preferenza è anche accordata, nel caso previsto dal comma precedente, ai creditori non separatisti di fronte ai legatari separatisti.
+{: data-comma="3" }
 
 Restano salve in ogni caso le cause di prelazione.
+{: data-comma="4" }

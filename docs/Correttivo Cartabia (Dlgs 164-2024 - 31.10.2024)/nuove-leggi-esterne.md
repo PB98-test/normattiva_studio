@@ -5,9 +5,8 @@ search:
 
 # Leggi citate da Correttivo Cartabia (Dlgs 164-2024 - 31.10.2024) ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Correttivo Cartabia (Dlgs 164-2024 - 31.10.2024) — 25 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Correttivo Cartabia (Dlgs 164-2024 - 31.10.2024) — 22 leggi trovate)*
 
-- [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const)
 - [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400)
 - [legge 26 novembre 2021, n. 206](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-11-26;206)
 - [regio decreto 19 ottobre 1930, n. 1398](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regiodecreto:1930-10-19;1398)
@@ -24,9 +23,7 @@ search:
 - [decreto legislativo 7 settembre 2005, n. 209](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2005-09-07;209)
 - [decreto legislativo 1° settembre 2011, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2011-09-01;150)
 - [articolo 54 della legge 18 giugno 2009, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-06-18;69)
-- [decreto-legge 18 ottobre 2012, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2012-10-18;179)
 - [legge 17 dicembre 2012, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-17;221)
-- [articolo 3-bis, comma 4-quinquies, del codice dell'amministrazione digitale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2005-03-07;82)
 - [articolo 46 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445)
 - [articolo 19, comma 5, del decreto legislativo 18 agosto 2015, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2015-08-18;142)
 - [legge 12 aprile 2019, n. 31](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-04-12;31)

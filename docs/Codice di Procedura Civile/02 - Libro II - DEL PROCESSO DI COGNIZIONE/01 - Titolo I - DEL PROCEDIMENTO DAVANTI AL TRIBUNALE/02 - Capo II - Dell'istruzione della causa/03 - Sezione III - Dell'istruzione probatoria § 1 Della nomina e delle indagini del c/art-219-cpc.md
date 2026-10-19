@@ -21,5 +21,7 @@ ordine: 242
 # Art. 219 - ***Redazione di scritture di comparazione***
 
 Il giudice istruttore può ordinare alla parte di scrivere sotto dettatura, anche alla presenza del consulente tecnico.
+{: data-comma="1" }
 
 Se la parte invitata a comparire personalmente non si presenta o rifiuta di scrivere senza giustificato motivo, la scrittura si può ritenere riconosciuta.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 1038
 # Art. 943 - ***Laghi e stagni***
 
 Il terreno che l'acqua copre quando essa è all'altezza dello sbocco del lago o dello stagno appartiene al proprietario del lago o dello stagno, ancorchè il volume dell'acqua venga a scemare.
+{: data-comma="1" }
 
 Il proprietario non acquista alcun diritto sopra la terra lungo la riva che l'acqua ricopre nei casi di piena straordinaria.
+{: data-comma="2" }

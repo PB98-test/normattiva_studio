@@ -21,8 +21,10 @@ ordine: 783
 # Art. 600-bis - ***Prostituzione minorile***
 
 È punito con la reclusione da sei a dodici anni e con la multa da euro 15.000 a euro 150.000 chiunque:
+{: data-comma="1" }
 
 - 1) recluta o induce alla prostituzione una persona di età inferiore agli anni diciotto;
 - 2) favorisce, sfrutta, gestisce, organizza o controlla la prostituzione di una persona di età inferiore agli anni diciotto, ovvero altrimenti ne trae profitto.
 
 Salvo che il fatto costituisca più grave reato, chiunque compie atti sessuali con un minore di età compresa tra i quattordici e i diciotto anni, in cambio di un corrispettivo in denaro o altra utilità, anche solo promessi, è punito con la reclusione da uno a sei anni e con la multa da euro 1.500 a euro 6.000.
+{: data-comma="2" }

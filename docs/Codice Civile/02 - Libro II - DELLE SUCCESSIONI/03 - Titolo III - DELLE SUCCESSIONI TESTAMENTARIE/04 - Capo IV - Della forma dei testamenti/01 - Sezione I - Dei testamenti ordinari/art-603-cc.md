@@ -21,9 +21,13 @@ ordine: 690
 # Art. 603 - ***Testamento pubblico***
 
 Il testamento pubblico è ricevuto dal notaio in presenza di due testimoni.
+{: data-comma="1" }
 
 Il testatore, in presenza dei testimoni, dichiara al notaio la sua volontà, la quale è ridotta in iscritto a cura del notaio stesso. Questi dà lettura del testamento al testatore in presenza dei testimoni. Di ciascuna di tali formalità è fatta menzione nel testamento.
+{: data-comma="2" }
 
 Il testamento deve indicare il luogo, la data del ricevimento e l'ora della sottoscrizione, ed essere sottoscritto dal testatore, dai testimoni e dal notaio. Se il testatore non può sottoscrivere, o può farlo solo con grave difficoltà, deve dichiararne la causa, e il notaio deve menzionare questa dichiarazione prima della lettura dell'atto.
+{: data-comma="3" }
 
 Per il testamento del muto, sordo o sordomuto si osservano le norme stabilite dalla legge notarile per gli atti pubblici di queste persone. Qualora il testatore sia incapace anche di leggere, devono intervenire quattro testimoni.
+{: data-comma="4" }

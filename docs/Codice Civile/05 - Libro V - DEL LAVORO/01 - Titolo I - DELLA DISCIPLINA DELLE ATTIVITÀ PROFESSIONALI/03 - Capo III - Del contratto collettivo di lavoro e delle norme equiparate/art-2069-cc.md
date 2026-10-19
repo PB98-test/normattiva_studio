@@ -21,5 +21,7 @@ ordine: 2190
 # Art. 2069 - ***Efficacia***
 
 Il contratto collettivo deve contenere l'indicazione della categoria d'imprenditori e di prestatori di lavoro, ovvero delle imprese o dell'impresa, a cui si riferisce, e del territorio dove ha efficacia.
+{: data-comma="1" }
 
 In mancanza di tali indicazioni il contratto collettivo è obbligatorio per tutti gli imprenditori e i prestatori di lavoro rappresentati dalle associazioni stipulanti.
+{: data-comma="2" }

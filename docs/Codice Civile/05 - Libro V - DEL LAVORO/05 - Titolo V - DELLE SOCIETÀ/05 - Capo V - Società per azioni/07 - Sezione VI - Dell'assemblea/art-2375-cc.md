@@ -21,7 +21,10 @@ ordine: 2515
 # Art. 2375 - ***Verbale delle deliberazioni dell'assemblea***
 
 Le deliberazioni dell'assemblea devono constare da verbale sottoscritto dal presidente e dal segretario o dal notaio. Il verbale deve indicare la data dell'assemblea e, anche in allegato, l'identità dei partecipanti e il capitale rappresentato da ciascuno; deve altresì indicare le modalità e il risultato delle votazioni e deve consentire, anche per allegato, l'identificazione dei soci favorevoli, astenuti o dissenzienti. Nel verbale devono essere riassunte, su richiesta dei soci, le loro dichiarazioni pertinenti all'ordine del giorno.
+{: data-comma="1" }
 
 Il verbale dell'assemblea straordinaria deve essere redatto da un notaio.
+{: data-comma="2" }
 
 Il verbale deve essere redatto senza ritardo, nei tempi necessari per la tempestiva esecuzione degli obblighi di deposito o di pubblicazione.
+{: data-comma="3" }

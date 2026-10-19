@@ -21,7 +21,10 @@ ordine: 1199
 # Art. 1104 - ***Obblighi dei partecipanti***
 
 Ciascun partecipante deve contribuire nelle spese necessarie per la conservazione e per il godimento della cosa comune e nelle spese deliberate dalla maggioranza a norma delle disposizioni seguenti, salva la facoltà di liberarsene con la rinunzia al suo diritto.
+{: data-comma="1" }
 
 La rinunzia non giova al partecipante che abbia anche tacitamente approvato la spesa.
+{: data-comma="2" }
 
 Il cessionario del partecipante è tenuto in solido con il cedente a pagare i contributi da questo dovuti e non versati.
+{: data-comma="3" }

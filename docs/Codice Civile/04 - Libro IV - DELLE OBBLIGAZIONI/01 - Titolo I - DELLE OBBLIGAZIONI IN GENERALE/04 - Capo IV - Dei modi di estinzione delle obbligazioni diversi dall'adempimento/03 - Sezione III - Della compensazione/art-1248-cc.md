@@ -21,5 +21,7 @@ ordine: 1350
 # Art. 1248 - ***Inopponibilità della compensazione***
 
 Il debitore, se ha accettato puramente e semplicemente la cessione che il creditore ha fatta delle sue ragioni a un terzo, non può opporre al cessionario la compensazione che avrebbe potuto opporre al cedente.
+{: data-comma="1" }
 
 La cessione non accettata dal debitore, ma a questo notificata, impedisce la compensazione dei crediti sorti posteriormente alla notificazione.
+{: data-comma="2" }

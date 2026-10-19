@@ -21,5 +21,7 @@ ordine: 1822
 # Art. 1706 - ***Acquisti del mandatario***
 
 Il mandante può rivendicare le cose mobili acquistate per suo conto dal mandatario che ha agito in nome proprio, salvi i diritti acquistati dai terzi per effetto del possesso di buona fede.
+{: data-comma="1" }
 
 Se le cose acquistate dal mandatario sono beni immobili o beni mobili iscritti in pubblici registri, il mandatario è obbligato a ritrasferirle al mandante. In caso d'inadempimento, si osservano le norme relative all'esecuzione dell'obbligo di contrarre.
+{: data-comma="2" }

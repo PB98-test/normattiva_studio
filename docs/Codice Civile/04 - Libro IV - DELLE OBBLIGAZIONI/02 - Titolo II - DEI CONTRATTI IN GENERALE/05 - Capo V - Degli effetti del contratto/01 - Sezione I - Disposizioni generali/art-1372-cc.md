@@ -21,5 +21,7 @@ ordine: 1474
 # Art. 1372 - ***Efficacia del contratto***
 
 Il contratto ha forza di legge tra le parti. Non può essere sciolto che per mutuo consenso o per cause ammesse dalla legge.
+{: data-comma="1" }
 
 Il contratto non produce effetto rispetto ai terzi che nei casi previsti dalla legge.
+{: data-comma="2" }

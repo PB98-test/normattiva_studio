@@ -14,7 +14,7 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Disposizioni in materia di patenti di guida e di abilitazioni professionali rilasciate da Stati dell'Unione europea o dello Spazio economico europeo)."
-dataVigenza: "20260914"
+dataVigenza: "20261012"
 ordine: 148
 ---
 
@@ -38,4 +38,4 @@ ordine: 148
 
 9\. Il titolare di patente di guida o altra abilitazione professionale, rilasciata da uno Stato dell'Unione europea o dello Spazio economico europeo, non residente in Italia ai sensi dell'[articolo 118-bis](art-118-bis-dlgs285-92.md), che circola con i predetti documenti scaduti di validità, è soggetto alla sanzione amministrativa pecuniaria di cui all'[articolo 126](art-126-dlgs285-92.md), comma 11. Si applicano le disposizioni dell'[articolo 135](art-135-dlgs285-92.md), comma 13, terzo periodo. [^agg-102]
 
-[^agg-102]: *AGGIORNAMENTO (102)* Il D.Lgs. 18 aprile 2011, n. 59 ha disposto (con l'[art. 28](../02%20-%20Titolo%20II%20-%20DELLA%20COSTRUZIONE%20E%20TUTELA%20DELLE%20STRADE/01%20-%20Capo%20I%20-%20COSTRUZIONE%20E%20TUTELA%20DELLE%20STRADE%20ED%20AREE%20PUBBLICHE/art-28-dlgs285-92.md), comma 1) che "Le disposizioni del presente decreto legislativo si applicano a decorrere dal 19 gennaio 2013, ad eccezione di quelle contenute negli [articoli 9](../01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-9-dlgs285-92.md), comma 2, 22, comma 1, e 23, nonchè nell'allegato III, con riferimento alle patenti per le categorie A, A1, B, BE, C, CE, D, DE, KA e KB".
+[^agg-102]: *AGGIORNAMENTO (102)* Il D.Lgs. 18 aprile 2011, n. 59 ha disposto (con l'art. 28, comma 1) che "Le disposizioni del presente decreto legislativo si applicano a decorrere dal 19 gennaio 2013, ad eccezione di quelle contenute negli [articoli 9](../01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-9-dlgs285-92.md), comma 2, 22, comma 1, e 23, nonchè nell'allegato III, con riferimento alle patenti per le categorie A, A1, B, BE, C, CE, D, DE, KA e KB".

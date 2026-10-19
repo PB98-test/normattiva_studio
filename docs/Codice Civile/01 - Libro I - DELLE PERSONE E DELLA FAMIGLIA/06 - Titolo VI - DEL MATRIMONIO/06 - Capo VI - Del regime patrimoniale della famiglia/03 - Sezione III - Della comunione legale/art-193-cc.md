@@ -21,11 +21,16 @@ ordine: 235
 # Art. 193 - ***Separazione giudiziale dei beni.***
 
 La separazione giudiziale dei beni può essere pronunziata in caso di interdizione o di inabilitazione di uno dei coniugi o di cattiva amministrazione della comunione.
+{: data-comma="1" }
 
 Può altresì essere pronunziata quando il disordine degli affari di uno dei coniugi o la condotta da questi tenuta nell'amministrazione dei beni mette in pericolo gli interessi dell'altro o della comunione o della famiglia, oppure quando uno dei coniugi non contribuisce ai bisogni di questa in misura proporzionale alle proprie sostanze e capacità di lavoro.
+{: data-comma="2" }
 
 La separazione può essere chiesta da uno dei coniugi o dal suo legale rappresentante.
+{: data-comma="3" }
 
 La sentenza che pronunzia la separazione retroagisce al giorno in cui è stata proposta la domanda ed ha lo effetto di instaurare il regime di separazione dei beni regolato nella sezione V del presente capo, salvi i diritti dei terzi.
+{: data-comma="4" }
 
 La sentenza è annotata a margine dell'atto di matrimonio e sull'originale delle convenzioni matrimoniali.
+{: data-comma="5" }

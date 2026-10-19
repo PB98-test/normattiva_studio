@@ -21,15 +21,22 @@ ordine: 2814
 # Art. 2540 - ***Assemblee separate***
 
 L'atto costitutivo delle società cooperative può prevedere lo svolgimento di assemblee separate, anche rispetto a specifiche materie ovvero in presenza di particolari categorie di soci.
+{: data-comma="1" }
 
 Lo svolgimento di assemblee separate deve essere previsto quando la società cooperativa ha più di tremila soci e svolge la propria attività in più province ovvero se ha più di cinquecento soci e si realizzano più gestioni mutualistiche.
+{: data-comma="2" }
 
 L'atto costitutivo stabilisce il luogo, i criteri e le modalità di convocazione e di partecipazione all'assemblea generale dei soci delegati e assicura in ogni caso la proporzionale rappresentanza delle minoranze espresse dalle assemblee separate.
+{: data-comma="3" }
 
 I delegati debbono essere soci. Alla assemblea generale possono assistere anche i soci che hanno preso parte alle assemblee separate.
+{: data-comma="4" }
 
 Le deliberazioni della assemblea generale possono essere impugnate ai sensi dell'[articolo 2377](../../../05%20-%20Titolo%20V%20-%20DELLE%20SOCIETÀ/05%20-%20Capo%20V%20-%20Società%20per%20azioni/07%20-%20Sezione%20VI%20-%20Dell%27assemblea/art-2377-cc.md) anche dai soci assenti e dissenzienti nelle assemblee separate quando, senza i voti espressi dai delegati delle assemblee separate irregolarmente tenute, verrebbe meno la maggioranza richiesta per la validità della deliberazione.
+{: data-comma="5" }
 
 Le deliberazioni delle assemblee separate non possono essere autonomamente impugnate.
+{: data-comma="6" }
 
 Le disposizioni del presente articolo non si applicano alle società cooperative con azioni ammesse alla quotazione in mercati regolamentati.
+{: data-comma="7" }

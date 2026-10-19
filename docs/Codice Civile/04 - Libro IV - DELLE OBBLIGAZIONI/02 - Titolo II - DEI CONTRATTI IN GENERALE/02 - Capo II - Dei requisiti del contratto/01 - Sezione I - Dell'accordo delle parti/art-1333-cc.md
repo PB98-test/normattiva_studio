@@ -21,5 +21,7 @@ ordine: 1435
 # Art. 1333 - ***Contratto con obbligazioni del solo proponente***
 
 La proposta diretta a concludere un contratto da cui derivino obbligazioni solo per il proponente è irrevocabile appena giunge a conoscenza della parte alla quale è destinata.
+{: data-comma="1" }
 
 Il destinatario può rifiutare la proposta nel termine richiesto dalla natura dell'affare o dagli usi. In mancanza di tale rifiuto il contratto è concluso.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 1488
 # Art. 1386 - ***Caparra penitenziale***
 
 Se nel contratto è stipulato il diritto di recesso per una o per entrambe le parti, la caparra ha la sola funzione di corrispettivo del recesso.
+{: data-comma="1" }
 
 In questo caso, il recedente perde la caparra data o deve restituire il doppio di quella che ha ricevuta.
+{: data-comma="2" }

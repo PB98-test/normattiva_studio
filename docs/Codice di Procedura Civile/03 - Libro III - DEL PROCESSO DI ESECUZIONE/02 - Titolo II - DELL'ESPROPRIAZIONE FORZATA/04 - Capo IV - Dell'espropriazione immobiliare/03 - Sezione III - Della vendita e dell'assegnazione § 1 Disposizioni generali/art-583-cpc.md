@@ -21,5 +21,7 @@ ordine: 729
 # Art. 583 - ***Aggiudicazione per persona da nominare***
 
 Il procuratore legale, che è rimasto aggiudicatario per persona da nominare, deve dichiarare in cancelleria nei tre giorni dall'incanto il nome della persona per la quale ha fatto l'offerta, depositando il mandato.
+{: data-comma="1" }
 
 In mancanza, l'aggiudicazione diviene definitiva al nome del procuratore.
+{: data-comma="2" }

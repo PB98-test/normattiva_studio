@@ -21,5 +21,7 @@ ordine: 2671
 # Art. 2456 - ***Revoca degli amministratori***
 
 La revoca degli amministratori deve essere deliberata con la maggioranza prescritta per le deliberazioni dell'assemblea straordinaria della società per azioni.
+{: data-comma="1" }
 
 Se la revoca avviene senza giusta causa, l'amministratore revocato ha diritto al risarcimento dei danni.
+{: data-comma="2" }

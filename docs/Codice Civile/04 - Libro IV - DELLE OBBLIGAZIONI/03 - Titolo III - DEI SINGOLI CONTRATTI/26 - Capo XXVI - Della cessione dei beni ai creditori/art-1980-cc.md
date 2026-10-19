@@ -21,7 +21,10 @@ ordine: 2101
 # Art. 1980 - ***Effetti della cessione***
 
 Il debitore non può disporre dei beni ceduti.
+{: data-comma="1" }
 
 I creditori anteriori alla cessione che non vi hanno partecipato possono agire esecutivamente anche su tali beni.
+{: data-comma="2" }
 
 I creditori cessionari, se la cessione ha avuto per oggetto solo alcune attività del debitore, non possono agire esecutivamente sulle altre attività prima di aver liquidato quelle cedute.
+{: data-comma="3" }

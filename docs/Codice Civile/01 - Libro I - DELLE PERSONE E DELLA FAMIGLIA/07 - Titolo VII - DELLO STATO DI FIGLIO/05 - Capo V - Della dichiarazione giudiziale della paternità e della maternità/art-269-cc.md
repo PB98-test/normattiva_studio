@@ -21,9 +21,13 @@ ordine: 314
 # Art. 269 - ***Dichiarazione giudiziale di paternità e maternità***
 
 La paternità e la maternità ... possono essere giudizialmente dichiarate nei casi in cui il riconoscimento è ammesso.
+{: data-comma="1" }
 
 La prova della paternità e della maternità può essere data con ogni mezzo.
+{: data-comma="2" }
 
 La maternità è dimostrata provando la identità di colui che si pretende essere figlio e di colui che fu partorito dalla donna, la quale si assume essere madre.
+{: data-comma="3" }
 
 La sola dichiarazione della madre e la sola esistenza di rapporti tra la madre e il preteso padre all'epoca del concepimento non costituiscono prova della paternità ....
+{: data-comma="4" }

@@ -21,5 +21,7 @@ ordine: 1399
 # Art. 1297 - ***Eccezioni personali***
 
 Uno dei debitori in solido non può opporre al creditore le eccezioni personali agli altri debitori.
+{: data-comma="1" }
 
 A uno dei creditori in solido il debitore non può opporre le eccezioni personali agli altri creditori.
+{: data-comma="2" }

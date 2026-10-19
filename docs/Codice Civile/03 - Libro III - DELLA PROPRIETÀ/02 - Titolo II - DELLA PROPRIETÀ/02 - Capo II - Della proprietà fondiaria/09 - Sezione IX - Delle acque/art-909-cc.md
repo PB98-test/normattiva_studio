@@ -21,5 +21,7 @@ ordine: 1004
 # Art. 909 - ***Diritto sulle acque esistenti nel fondo***
 
 Il proprietario del suolo ha il diritto di utilizzare le acque in esso esistenti, salve le disposizioni delle leggi speciali per le acque pubbliche e per le acque sotterranee.
+{: data-comma="1" }
 
 Egli può anche disporne a favore d'altri, qualora non osti il diritto di terzi; ma, dopo essersi servito delle acque, non può divertirle in danno d'altri fondi.
+{: data-comma="2" }

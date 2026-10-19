@@ -21,7 +21,10 @@ ordine: 232
 # Art. 211 - ***Esecuzione delle misure di sicurezza***
 
 Le misure di sicurezza aggiunte a una pena detentiva sono eseguite dopo che la pena è stata scontata o è altrimenti estinta.
+{: data-comma="1" }
 
 Le misure di sicurezza, aggiunte a pena non detentiva, sono eseguite dopo che la sentenza di condanna è divenuta irrevocabile.
+{: data-comma="2" }
 
 L'esecuzione delle misure di sicurezza temporanee non detentive, aggiunte a misure di sicurezza detentive, ha luogo dopo la esecuzione di queste ultime.
+{: data-comma="3" }

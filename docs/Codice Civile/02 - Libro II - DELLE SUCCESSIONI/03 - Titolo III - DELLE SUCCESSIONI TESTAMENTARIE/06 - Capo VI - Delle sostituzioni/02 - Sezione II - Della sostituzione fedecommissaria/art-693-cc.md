@@ -21,7 +21,10 @@ ordine: 780
 # Art. 693 - ***Diritti e obblighi dell'istituito***
 
 L'istituito ha il godimento e la libera amministrazione dei beni che formano oggetto della sostituzione, e può stare in giudizio per tutte le azioni relative ai beni medesimi. Egli può altresì compiere tutte le innovazioni dirette ad una migliore utilizzazione dei beni.
+{: data-comma="1" }
 
 All'istituito sono comuni, in quanto applicabili, le norme concernenti l'usufruttuario.
+{: data-comma="2" }
 
 COMMA ABROGATO DALLA L. 19 MAGGIO 1975, N. 151.
+{: data-comma="3" }

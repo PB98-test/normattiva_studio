@@ -21,5 +21,7 @@ ordine: 1464
 # Art. 1362 - ***Intenzione dei contraenti***
 
 Nell'interpretare il contratto si deve indagare quale sia stata la comune intenzione delle parti e non limitarsi al senso letterale delle parole.
+{: data-comma="1" }
 
 Per determinare la comune intenzione delle parti, si deve valutare il loro comportamento complessivo anche posteriore alla conclusione del contratto.
+{: data-comma="2" }

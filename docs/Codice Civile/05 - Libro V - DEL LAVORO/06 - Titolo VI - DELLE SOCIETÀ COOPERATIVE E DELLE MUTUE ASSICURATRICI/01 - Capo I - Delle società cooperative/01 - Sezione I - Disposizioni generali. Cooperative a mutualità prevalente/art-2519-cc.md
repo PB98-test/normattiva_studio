@@ -21,5 +21,7 @@ ordine: 2793
 # Art. 2519 - ***Norme applicabili***
 
 Alle società cooperative, per quanto non previsto dal presente titolo, si applicano in quanto compatibili le disposizioni sulla società per azioni.
+{: data-comma="1" }
 
 L'atto costitutivo può prevedere che trovino applicazione, in quanto compatibili, le norme sulla società a responsabilità limitata nelle cooperative con un numero di soci cooperatori inferiore a venti ovvero con un attivo dello stato patrimoniale non superiore ad un milione di euro.
+{: data-comma="2" }

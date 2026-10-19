@@ -21,5 +21,7 @@ ordine: 38
 # Art. 7 - ***Tutela del diritto al nome***
 
 La persona, alla quale si contesti il diritto all'uso del proprio nome o che possa risentire pregiudizio dall'uso che altri indebitamente ne faccia, può chiedere giudizialmente la cessazione del fatto lesivo, salvo il risarcimento dei danni.
+{: data-comma="1" }
 
 L'autorità giudiziaria può ordinare che la sentenza sia pubblicata in uno o più giornali.
+{: data-comma="2" }

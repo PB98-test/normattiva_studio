@@ -21,11 +21,16 @@ ordine: 1501
 # Art. 1399 - ***Ratifica***
 
 Nell'ipotesi prevista dall'articolo precedente, il contratto può essere ratificato dall'interessato, con l'osservanza delle forme prescritte per la conclusione di esso.
+{: data-comma="1" }
 
 La ratifica ha effetto retroattivo, ma sono salvi i diritti dei terzi.
+{: data-comma="2" }
 
 Il terzo e colui che ha contrattato come rappresentante possono d'accordo sciogliere il contratto prima della ratifica.
+{: data-comma="3" }
 
 Il terzo contraente può invitare l'interessato a pronunziarsi sulla ratifica assegnandogli un termine, scaduto il quale, nel silenzio, la ratifica s'intende negata.
+{: data-comma="4" }
 
 La facoltà di ratifica si trasmette agli eredi.
+{: data-comma="5" }

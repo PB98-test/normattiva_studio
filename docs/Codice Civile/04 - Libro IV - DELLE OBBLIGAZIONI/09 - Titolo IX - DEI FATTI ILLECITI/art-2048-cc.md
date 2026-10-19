@@ -21,7 +21,10 @@ ordine: 2169
 # Art. 2048 - ***Responsabilità dei genitori, dei tutori, dei precettori e dei maestri d'arte***
 
 Il padre e la madre, o il tutore, sono responsabili del danno cagionato dal fatto illecito dei figli minori non emancipati o delle persone soggette alla tutela, che abitano con essi. La stessa disposizione si applica all'affiliante.
+{: data-comma="1" }
 
 I precettori e coloro che insegnano un mestiere o un'arte sono responsabili del danno cagionato dal fatto illecito dei loro allievi e apprendisti nel tempo in cui sono sotto la loro vigilanza.
+{: data-comma="2" }
 
 Le persone indicate dai commi precedenti sono liberate dalla responsabilità soltanto se provano di non aver potuto impedire il fatto.
+{: data-comma="3" }

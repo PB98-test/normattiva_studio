@@ -21,10 +21,13 @@ ordine: 1901
 # Art. 1784 - ***Responsabilità per le cose consegnate e obblighi dell'albergatore***
 
 La responsabilità dell'albergatore è illimitata:
+{: data-comma="1" }
 
 - 1) quando le cose gli sono state consegnate in custodia;
 - 2) quando ha rifiutato di ricevere in custodia cose che aveva l'obbligo di accettare.
 
 L'albergatore ha l'obbligo di accettare le carte-valori, il danaro contante e gli oggetti di valore; egli può rifiutarsi di riceverli soltanto se si tratti di oggetti pericolosi o che, tenuto conto della importanza e delle condizioni di gestione dell'albergo, abbiano valore eccessivo o natura ingombrante.
+{: data-comma="2" }
 
 L'albergatore può esigere che la cosa consegnatagli sia contenuta in un involucro chiuso o sigillato.
+{: data-comma="3" }

@@ -21,9 +21,13 @@ ordine: 1227
 # Art. 1127 - ***Costruzione sopra l'ultimo piano dell'edificio***
 
 Il proprietario dell'ultimo piano dell'edificio può elevare nuovi piani o nuove fabbriche, salvo che risulti altrimenti dal titolo. La stessa facoltà spetta a chi è proprietario esclusivo del lastrico solare.
+{: data-comma="1" }
 
 La sopraelevazione non è ammessa se le condizioni statiche dell'edificio non la consentono.
+{: data-comma="2" }
 
 I condomini possono altresì opporsi alla sopraelevazione, se questa pregiudica l'aspetto architettonico dell'edificio ovvero diminuisce notevolmente l'aria o la luce dei piani sottostanti.
+{: data-comma="3" }
 
 Chi fa la sopraelevazione deve corrispondere agli altri condomini un'indennità pari al valore attuale dell'area da occuparsi con la nuova fabbrica, diviso per il numero dei piani, ivi compreso quello da edificare, e detratto l'importo della quota a lui spettante. Egli è inoltre tenuto a ricostruire il lastrico solare di cui tutti o parte dei condomini avevano il diritto di usare.
+{: data-comma="4" }

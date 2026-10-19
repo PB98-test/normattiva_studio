@@ -21,5 +21,7 @@ ordine: 2691
 # Art. 2472 - ***Responsabilità dell'alienante per i versamenti ancora dovuti***
 
 Nel caso di cessione della partecipazione l'alienante è obbligato solidalmente con l'acquirente, per il periodo di tre anni dall'iscrizione del trasferimento nel registro delle imprese, per i versamenti ancora dovuti.
+{: data-comma="1" }
 
 Il pagamento non può essere domandato all'alienante se non quando la richiesta al socio moroso è rimasta infruttuosa.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 1078
 # Art. 983 - ***Accessioni***
 
 L'usufrutto si estende a tutte le accessioni della cosa.
+{: data-comma="1" }
 
 Se il proprietario dopo l'inizio dell'usufrutto, con il consenso dell'usufruttuario, ha fatto nel fondo costruzioni o piantagioni, l'usufruttuario è tenuto a corrispondere gli interessi sulle somme impiegate. La norma si applica anche nel caso in cui le costruzioni o piantagioni sono state fatte per disposizione della pubblica autorità.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 1678
 # Art. 1563 - ***Scadenza delle singole prestazioni***
 
 Il termine stabilito per le singole prestazioni si presume pattuito nell'interesse di entrambe le parti.
+{: data-comma="1" }
 
 Se l'avente diritto alla somministrazione ha la facoltà di fissare la scadenza delle singole prestazioni, egli deve comunicarne la data al somministrante con un congruo preavviso.
+{: data-comma="2" }

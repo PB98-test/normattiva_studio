@@ -21,5 +21,7 @@ ordine: 840
 # Art. 753 - ***Immobili gravati da rendita redimibile***
 
 Ogni coerede, quando i beni immobili dell'eredità sono gravati con ipoteca da una prestazione di rendita redimibile, può chiedere che gli immobili ne siano affrancati e resi liberi prima che si proceda alla formazione delle quote ereditarie. Se uno dei coeredi si oppone, decide l'autorità giudiziaria. Se i coeredi dividono l'eredità nello stato in cui si trova, l'immobile gravato deve stimarsi con gli stessi criteri con cui si stimano gli altri beni immobili, detratto dal valore di esso il capitale corrispondente alla prestazione, secondo le norme relative al riscatto della rendita, salvo che esista un patto speciale intorno al capitale da corrispondersi per l'affrancazione.
+{: data-comma="1" }
 
 Alla prestazione della rendita è tenuto solo l'erede, nella cui quota cade detto immobile, con l'obbligo di garantire i coeredi.
+{: data-comma="2" }

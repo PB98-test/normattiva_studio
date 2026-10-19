@@ -21,14 +21,19 @@ ordine: 196
 # Art. 175 - ***Non menzione della condanna nel certificato del casellario giudiziale***
 
 Se, con una prima condanna, è inflitta una pena detentiva non superiore a due anni, ovvero una pena pecuniaria non superiore a un milione, il giudice, avuto riguardo alle circostanze indicate nell'[articolo 133](../../05%20-%20Titolo%20V%20-%20DELLA%20NON%20PUNIBILITÀ%20PER%20PARTICOLARE%20TENUITÀ%20DEL%20FATTO.%20DELLA%20MODIFIC/01%20-%20Capo%20I%20-%20Della%20non%20punibilità%20per%20particolare%20tenuità%20del%20fatto.%20Della%20modificaz/art-133-cp.md), può ordinare in sentenza che non sia fatta menzione della condanna nel certificato del casellario giudiziale, spedito a richiesta di privati, non per ragione di diritto elettorale. [^agg-100] [^agg-108]
+{: data-comma="1" }
 
 La non menzione della condanna può essere altresì concessa quando è inflitta congiuntamente una pena detentiva non superiore a due anni ed una pena pecuniaria che, ragguagliata a norma dell'[articolo 135](../../05%20-%20Titolo%20V%20-%20DELLA%20NON%20PUNIBILITÀ%20PER%20PARTICOLARE%20TENUITÀ%20DEL%20FATTO.%20DELLA%20MODIFIC/01%20-%20Capo%20I%20-%20Della%20non%20punibilità%20per%20particolare%20tenuità%20del%20fatto.%20Della%20modificaz/art-135-cp.md) e cumulata alla pena detentiva, priverebbe complessivamente il condannato della libertà personale per un tempo non superiore a trenta mesi.
+{: data-comma="2" }
 
 La non menzione della condanna può essere concessa anche in caso di condanna a pena sostitutiva di una pena detentiva, entro i limiti di pena di cui al primo e al secondo comma.
+{: data-comma="3" }
 
 Se il condannato commette successivamente un delitto, l'ordine di non fare menzione della condanna precedente è revocato.
+{: data-comma="4" }
 
 COMMA ABROGATO DALLA L. 7 FEBBRAIO 1990, N. 19.
+{: data-comma="5" }
 
 [^agg-70]: *AGGIORNAMENTO (70)* La Corte Costituzionale con sentenza 8-17 luglio 1975, n. 225 (in G.U. 1ª s.s. 23/07/1975, n. 195), ha dichiarato l'illegittimità costituzionale del primo comma del presente articolo nella parte che esclude possano concedersi ulteriori non menzioni di condanne nel certificato del casellario giudiziale spedito a richiesta di privati, nel caso di condanne per reati anteriormente commessi a pene che, cumulate con quelle già irrogate, non superino i limiti di applicabilità del beneficio.
 

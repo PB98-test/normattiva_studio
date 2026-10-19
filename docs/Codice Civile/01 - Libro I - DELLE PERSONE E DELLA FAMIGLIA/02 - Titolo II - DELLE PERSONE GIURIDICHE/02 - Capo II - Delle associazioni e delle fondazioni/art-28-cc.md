@@ -21,7 +21,10 @@ ordine: 59
 # Art. 28 - ***Trasformazione delle fondazioni***
 
 Quando lo scopo è esaurito o divenuto impossibile o di scarsa utilità, o il patrimonio è divenuto insufficiente, l'autorità governativa, anzichè dichiarare estinta la fondazione, può provvedere alla sua trasformazione, allontanandosi il meno possibile dalla volontà del fondatore.
+{: data-comma="1" }
 
 La trasformazione non è ammessa quando i fatti che vi darebbero luogo sono considerati nell'atto di fondazione come causa di estinzione della persona giuridica e di devoluzione dei beni a terze persone.
+{: data-comma="2" }
 
 Le disposizioni del primo comma di questo articolo e dell'[art. 26](art-26-cc.md) non si applicano alle fondazioni destinate a vantaggio soltanto di una o più famiglie determinate.
+{: data-comma="3" }

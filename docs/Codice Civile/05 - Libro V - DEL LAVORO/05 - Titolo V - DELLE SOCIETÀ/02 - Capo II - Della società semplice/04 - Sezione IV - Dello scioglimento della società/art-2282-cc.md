@@ -21,5 +21,7 @@ ordine: 2404
 # Art. 2282 - ***Ripartizione dell'attivo***
 
 Estinti i debiti sociali, l'attivo residuo è destinato al rimborso dei conferimenti. L'eventuale eccedenza è ripartita tra i soci in proporzione della parte di ciascuno nei guadagni.
+{: data-comma="1" }
 
 L'ammontare dei conferimenti non aventi per oggetto somme di danaro è determinato secondo la valutazione che ne è stata fatta nel contratto o, in mancanza, secondo il valore che essi avevano nel momento in cui furono eseguiti.
+{: data-comma="2" }

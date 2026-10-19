@@ -21,5 +21,7 @@ ordine: 2054
 # Art. 1933 - ***Mancanza di azione***
 
 Non compete azione per il pagamento di un debito di giuoco o di scommessa, anche se si tratta di giuoco o di scommessa non proibiti.
+{: data-comma="1" }
 
 Il perdente tuttavia non può ripetere quanto abbia spontaneamente pagato dopo l'esito di un giuoco o di una scommessa in cui non vi sia stata alcuna frode. La ripetizione è ammessa in ogni caso se il perdente è un incapace.
+{: data-comma="2" }

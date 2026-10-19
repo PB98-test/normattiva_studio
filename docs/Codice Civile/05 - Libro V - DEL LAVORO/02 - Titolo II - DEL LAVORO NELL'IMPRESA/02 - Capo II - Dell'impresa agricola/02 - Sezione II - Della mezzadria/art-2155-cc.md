@@ -21,7 +21,10 @@ ordine: 2276
 # Art. 2155 - ***Raccolta e divisione dei prodotti***
 
 Il mezzadro non può iniziare le operazioni di raccolta senza il consenso del concedente ed è obbligato a custodire i prodotti sino alla divisione.
+{: data-comma="1" }
 
 I prodotti sono divisi in natura sul fondo con l'intervento delle parti.
+{: data-comma="2" }
 
 Salvo diverse disposizioni delle norme corporative, della convenzione o degli usi, il mezzadro deve trasportare ai magazzini del concedente la quota a questo assegnata nella divisione.
+{: data-comma="3" }

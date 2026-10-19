@@ -21,5 +21,7 @@ ordine: 2877
 # Art. 2586 - ***Brevetto per nuovi metodi o processi di fabbricazione***
 
 Il brevetto concernente un nuovo metodo o processo di fabbricazione industriale ne attribuisce al titolare l'uso esclusivo.
+{: data-comma="1" }
 
 COMMA ABROGATO DAL D.LGS. 19 MARZO 1996, N. 198.
+{: data-comma="2" }

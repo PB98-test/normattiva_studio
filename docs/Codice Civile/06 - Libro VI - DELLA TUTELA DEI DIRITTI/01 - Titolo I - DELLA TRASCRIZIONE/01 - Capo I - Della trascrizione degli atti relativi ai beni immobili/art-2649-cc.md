@@ -21,5 +21,7 @@ ordine: 2951
 # Art. 2649 - ***Cessione dei beni ai creditori***
 
 Deve essere trascritta, qualora comprenda beni immobili, la cessione che il debitore fa dei suoi beni ai creditori, perchè questi procedano alla liquidazione dei medesimi e alla ripartizione del ricavato.
+{: data-comma="1" }
 
 Non hanno effetto, rispetto ai creditori, le trascrizioni o iscrizioni di diritti acquistati verso il debitore, se eseguite dopo che la cessione è stata trascritta.
+{: data-comma="2" }

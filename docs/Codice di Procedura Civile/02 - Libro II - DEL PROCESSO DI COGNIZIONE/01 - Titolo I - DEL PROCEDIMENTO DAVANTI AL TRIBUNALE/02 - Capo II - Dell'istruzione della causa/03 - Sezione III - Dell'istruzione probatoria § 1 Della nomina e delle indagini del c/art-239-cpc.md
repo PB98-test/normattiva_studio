@@ -21,5 +21,7 @@ ordine: 262
 # Art. 239 - ***Mancata prestazione***
 
 La parte alla quale il giuramento decisorio è deferito, se non si presenta senza giustificato motivo all'udienza all'uopo fissata, o, comparendo, rifiuta di prestarlo o non lo riferisce all'avversario, soccombe rispetto alla domanda o al punto di fatto relativamente al quale il giuramento è stato ammesso; e del pari soccombe la parte avversaria, se rifiuta di prestare il giuramento che le è riferito.
+{: data-comma="1" }
 
 Il giudice istruttore, se ritiene giustificata la mancata comparizione della parte che deve prestare il giuramento, provvede a norma dell'[articolo 232](art-232-cpc.md) secondo comma.
+{: data-comma="2" }

@@ -21,5 +21,7 @@ ordine: 473
 # Art. 388 - ***Divieto di convenzioni prima che sia decorso un anno dall'approvazione del conto***
 
 Nessuna convenzione tra il tutore e il minore divenuto maggiore può aver luogo prima che sia decorso un anno dall'approvazione del conto della tutela.
+{: data-comma="1" }
 
 La convenzione può essere annullata su istanza del minore o dei suoi eredi o aventi causa.
+{: data-comma="2" }

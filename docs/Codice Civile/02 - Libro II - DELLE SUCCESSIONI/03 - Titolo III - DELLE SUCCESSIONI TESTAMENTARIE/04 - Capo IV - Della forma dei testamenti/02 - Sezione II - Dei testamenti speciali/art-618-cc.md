@@ -21,5 +21,7 @@ ordine: 705
 # Art. 618 - ***Casi e termini d'efficacia***
 
 Nella forma speciale stabilita dall'articolo precedente possono testare soltanto coloro i quali, appartenendo a corpi o servizi mobilitati o comunque impegnati in guerra, si trovano in zona di operazioni belliche o sono prigionieri presso il nemico, e coloro che sono acquartierati o di presidio fuori del Regno o in luoghi dove siano interrotte le comunicazioni.
+{: data-comma="1" }
 
 Il testamento perde la sua efficacia tre mesi dopo il ritorno del testatore in un luogo dove è possibile far testamento nelle forme ordinarie.
+{: data-comma="2" }

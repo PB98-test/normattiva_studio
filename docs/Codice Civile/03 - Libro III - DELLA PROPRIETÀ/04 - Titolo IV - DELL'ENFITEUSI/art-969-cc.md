@@ -21,5 +21,7 @@ ordine: 1064
 # Art. 969 - ***Ricognizione***
 
 Il concedente può richiedere la ricognizione del proprio diritto da chi si trova nel possesso del fondo enfiteutico, un anno prima del compimento del ventennio.
+{: data-comma="1" }
 
 Per l'atto di ricognizione non è dovuta alcuna prestazione. Le spese dell'atto sono a carico del concedente.
+{: data-comma="2" }

@@ -21,9 +21,13 @@ ordine: 727
 # Art. 581 - ***Modalità dell'incanto***
 
 L'incanto ha luogo davanti al giudice dell'esecuzione, nella sala delle udienze pubbliche.
+{: data-comma="1" }
 
 Le offerte non sono efficaci se non superano il prezzo base o l'offerta precedente nella misura indicata nelle condizioni di vendita.
+{: data-comma="2" }
 
 Allorchè siano trascorsi tre minuti dall'ultima offerta senza che ne segua un'altra maggiore, l'immobile è aggiudicato all'ultimo offerente.
+{: data-comma="3" }
 
 Ogni offerente cessa di essere tenuto per la sua offerta quando essa è superata da un'altra, anche se poi questa è dichiarata nulla.
+{: data-comma="4" }

@@ -21,5 +21,7 @@ ordine: 1282
 # Art. 1180 - ***Adempimento del terzo***
 
 L'obbligazione può essere adempiuta da un terzo, anche contro la volontà del creditore, se questi non ha interesse a che il debitore esegua personalmente la prestazione.
+{: data-comma="1" }
 
 Tuttavia il creditore può rifiutare l'adempimento offertogli dal terzo, se il debitore gli ha manifestato la sua opposizione.
+{: data-comma="2" }

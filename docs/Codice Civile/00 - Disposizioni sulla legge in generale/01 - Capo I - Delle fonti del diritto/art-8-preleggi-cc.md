@@ -21,5 +21,7 @@ ordine: 8
 # Art. 8-preleggi - ***Usi***
 
 Nelle materie regolate dalle leggi e dai regolamenti gli usi hanno efficacia solo in quanto sono da essi richiamati.
+{: data-comma="1" }
 
 Le norme corporative prevalgono sugli usi, anche se richiamati dalle leggi e dai regolamenti, salvo che in esse sia diversamente disposto.
+{: data-comma="2" }

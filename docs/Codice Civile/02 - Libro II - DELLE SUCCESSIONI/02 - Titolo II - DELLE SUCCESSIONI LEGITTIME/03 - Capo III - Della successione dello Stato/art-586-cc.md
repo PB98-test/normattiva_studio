@@ -21,5 +21,7 @@ ordine: 673
 # Art. 586 - ***Acquisto dei beni da parte dello Stato***
 
 In mancanza di altri successibili, l'eredità è devoluta allo Stato. L'acquisto si opera di diritto senza bisogno di accettazione e non può farsi luogo a rinunzia.
+{: data-comma="1" }
 
 Lo Stato non risponde dei debiti ereditari e dei legati oltre il valore dei beni acquistati.
+{: data-comma="2" }

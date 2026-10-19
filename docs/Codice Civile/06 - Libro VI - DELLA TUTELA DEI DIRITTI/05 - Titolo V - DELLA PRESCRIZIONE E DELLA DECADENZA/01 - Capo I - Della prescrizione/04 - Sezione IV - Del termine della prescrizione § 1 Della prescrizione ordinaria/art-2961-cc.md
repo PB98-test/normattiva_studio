@@ -21,9 +21,13 @@ ordine: 3272
 # Art. 2961 - ***Restituzione di documenti***
 
 I cancellieri, gli arbitri, gli avvocati, i procuratori e i patrocinatori legali sono esonerati dal rendere conto degli incartamenti relativi alle liti dopo tre anni da che queste sono state decise o sono altrimenti terminate.
+{: data-comma="1" }
 
 Tale esonero si verifica, per gli ufficiali giudiziari, dopo due anni dal compimento degli atti ad essi affidati.
+{: data-comma="2" }
 
 Anche alle persone designate in questo articolo può essere deferito il giuramento perchè dichiarino se ritengono o sanno dove si trovano gli atti o le carte.
+{: data-comma="3" }
 
 Si applica in questo caso il disposto dell'[art. 2959](art-2959-cc.md).
+{: data-comma="4" }

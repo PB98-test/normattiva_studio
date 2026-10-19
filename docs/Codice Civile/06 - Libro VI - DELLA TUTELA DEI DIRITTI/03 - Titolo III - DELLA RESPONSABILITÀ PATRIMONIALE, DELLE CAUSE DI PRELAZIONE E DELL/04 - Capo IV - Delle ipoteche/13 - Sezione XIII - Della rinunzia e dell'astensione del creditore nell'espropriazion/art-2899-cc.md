@@ -21,5 +21,7 @@ ordine: 3209
 # Art. 2899 - ***Divieto di rinunzia a un'ipoteca a danno di altro creditore***
 
 Il creditore, che ha ipoteca su vari immobili, dopo che gli è stata fatta la notificazione indicata dall'[articolo 2890](../12%20-%20Sezione%20XII%20-%20Del%20modo%20di%20liberare%20i%20beni%20dalle%20ipoteche/art-2890-cc.md), se si tratta del processo di liberazione dalle ipoteche, o dopo la notificazione del provvedimento che dispone la vendita, in caso di espropriazione, non può rinunziare alla sua ipoteca sopra uno di quegli immobili nè astenersi dall'intervenire nel giudizio di espropriazione, qualora sia con ciò favorito un creditore a danno di altro creditore anteriormente iscritto; se egli rinunzia o si astiene, è responsabile dei danni, a meno che vi siano giusti motivi.
+{: data-comma="1" }
 
 La stessa disposizione si applica nel caso in cui la rinunzia o l'astensione favorisca un terzo acquirente a danno di un creditore con ipoteca anteriore o di un altro terzo acquirente che abbia un titolo anteriormente trascritto.
+{: data-comma="2" }

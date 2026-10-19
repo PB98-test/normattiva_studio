@@ -21,7 +21,10 @@ ordine: 990
 # Art. 809 - ***Numero degli arbitri***
 
 Gli arbitri possono essere uno o più, purchè in numero dispari.
+{: data-comma="1" }
 
 La convenzione d'arbitrato deve contenere la nomina degli arbitri oppure stabilire il numero di essi e il modo di nominarli.
+{: data-comma="2" }
 
 In caso d'indicazione di un numero pari di arbitri, un ulteriore arbitro, se le parti non hanno diversamente convenuto, è nominato dal presidente del tribunale nei modi previsti dall'[articolo 810](art-810-cpc.md). Se manca l'indicazione del numero degli arbitri e le parti non si accordano al riguardo, gli arbitri sono tre e, in mancanza di nomina, se le parti non hanno diversamente convenuto, provvede il presidente del tribunale nei modi previsti dall'[articolo 810](art-810-cpc.md).
+{: data-comma="3" }

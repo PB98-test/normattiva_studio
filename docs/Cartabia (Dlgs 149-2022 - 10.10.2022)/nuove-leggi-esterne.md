@@ -5,9 +5,8 @@ search:
 
 # Leggi citate da Cartabia (Dlgs 149-2022 - 10.10.2022) ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Cartabia (Dlgs 149-2022 - 10.10.2022) — 85 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Cartabia (Dlgs 149-2022 - 10.10.2022) — 79 leggi trovate)*
 
-- [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const)
 - [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400)
 - [articolo 1 della legge 26 novembre 2021, n. 206](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-11-26;206)
 - [regio decreto 16 marzo 1942, n. 262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regiodecreto:1942-03-16;262)
@@ -30,7 +29,6 @@ search:
 - [articolo 1, comma 1, lettera a), della legge 25 luglio 2005, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-07-25;150)
 - [legge 24 marzo 2001, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-03-24;89)
 - [legge 8 marzo 2017, n. 24](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24)
-- [articolo 3-bis, comma 1-bis, del codice dell'amministrazione digitale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2005-03-07;82)
 - [articolo 5 del decreto del Presidente della Repubblica 17 ottobre 1950, n. 857](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-17;857)
 - [articoli 25 e seguenti del regio decreto-legge 20 luglio 1934, n. 1404](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regiodecretolegge:1934-07-20;1404)
 - [legge 27 maggio 1935, n. 835, agli articoli 31](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-05-27;835)
@@ -38,7 +36,6 @@ search:
 - [legge 18 agosto 2015, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-08-18;142)
 - [articolo 8 della legge 1° aprile 1981, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121)
 - [articolo 7 della legge 14 gennaio 2013, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-01-14;4)
-- [articolo 51 del decreto legislativo 30 giugno 2003, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2003-06-30;196)
 - [decreto del Ministro della giustizia 12 agosto 2015, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto:2015-08-12;144)
 - [articolo 35, comma 1, lettera s), della legge 31 dicembre 2012, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-31;247)
 - [articolo 4-bis, comma 6, del decreto-legge n. 132 del 2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2014;132)
@@ -58,10 +55,8 @@ search:
 - [legge 13 novembre 2008, n. 181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-11-13;181)
 - [articolo 76 del decreto legislativo 10 settembre 2003, n. 276](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2003-09-10;276)
 - [legge 6 maggio 2004, n. 129, l'articolo 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-05-06;129)
-- [decreto-legge 18 ottobre 2012, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2012-10-18;179)
 - [legge 17 dicembre 2012, n. 221, gli articoli 16-bis](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-17;221)
 - [regio decreto 30 ottobre 1933, n. 1611](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regiodecreto:1933-10-30;1611)
-- [articolo 4, comma 9, del decreto-legge 29 dicembre 2009, n. 193](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2009-12-29;193)
 - [legge 22 febbraio 2010, n. 24](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-02-22;24)
 - [decreto del Ministro dell'economia e delle finanze 9 ottobre 2006, n. 293](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto:2006-10-09;293)
 - [decreto-legge 4 ottobre 2018, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2018-10-04;113)
@@ -71,7 +66,6 @@ search:
 - [decreto legislativo 2 luglio 2010, n. 104](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2010-07-02;104)
 - [articolo 17, comma 4, della legge n. 108 del 1996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996;108)
 - [decreto legislativo 26 agosto 2016, n. 174, l'articolo 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2016-08-26;174)
-- [articolo 23 del decreto-legge 28 ottobre 2020, n. 137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2020-10-28;137)
 - [legge 18 dicembre 2020, n. 176, il comma 9-bis](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-12-18;176)
 - [legge 4 aprile 2001, n. 154, l'articolo 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-04-04;154)
 - [legge 10 dicembre 2012, n. 219, articolo 3, il comma 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-10;219)

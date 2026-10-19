@@ -21,9 +21,13 @@ ordine: 2029
 # Art. 1908 - ***Valore della cosa assicurata***
 
 Nell'accertare il danno non si può attribuire alle cose perite o danneggiate un valore superiore a quello che avevano al tempo del sinistro.
+{: data-comma="1" }
 
 Il valore delle cose assicurate può essere tuttavia stabilito al tempo della conclusione del contratto, mediante stima accettata per iscritto dalle parti.
+{: data-comma="2" }
 
 Non equivale a stima la dichiarazione di valore delle cose assicurate contenuta nella polizza o in altri documenti.
+{: data-comma="3" }
 
 Nell'assicurazione dei prodotti del suolo il danno si determina in relazione al valore che i prodotti avrebbero avuto al tempo della maturazione o al tempo in cui ordinariamente si raccolgono.
+{: data-comma="4" }

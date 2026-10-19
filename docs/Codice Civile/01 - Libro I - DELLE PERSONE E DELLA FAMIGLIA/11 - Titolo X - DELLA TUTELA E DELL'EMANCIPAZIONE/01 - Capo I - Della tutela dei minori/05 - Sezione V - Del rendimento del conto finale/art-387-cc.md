@@ -21,5 +21,7 @@ ordine: 472
 # Art. 387 - ***Prescrizione delle azioni relative alla tutela***
 
 Le azioni del minore contro il tutore e quelle del tutore contro il minore relative alla tutela si prescrivono in cinque anni dal compimento della maggiore età o dalla morte del minore. Se il tutore ha cessato dall'ufficio e ha presentato il conto prima della maggiore età o della morte del minore, il termine decorre dalla data del provvedimento col quale il giudice tutelare pronunzia sul conto stesso.
+{: data-comma="1" }
 
 Le disposizioni di quest'articolo non si applicano all'azione per il pagamento del residuo che risulta dal conto definitivo.
+{: data-comma="2" }

@@ -21,7 +21,10 @@ ordine: 1774
 # Art. 1659 - ***Variazioni concordate del progetto***
 
 L'appaltatore non può apportare variazioni alle modalità convenute dell'opera se il committente non le ha autorizzate.
+{: data-comma="1" }
 
 L'autorizzazione si deve provare per iscritto.
+{: data-comma="2" }
 
 Anche quando le modificazioni sono state autorizzate, l'appaltatore, se il prezzo dell'intera opera è stato determinato globalmente, non ha diritto a compenso per le variazioni o per le aggiunte, salvo diversa pattuizione.
+{: data-comma="3" }

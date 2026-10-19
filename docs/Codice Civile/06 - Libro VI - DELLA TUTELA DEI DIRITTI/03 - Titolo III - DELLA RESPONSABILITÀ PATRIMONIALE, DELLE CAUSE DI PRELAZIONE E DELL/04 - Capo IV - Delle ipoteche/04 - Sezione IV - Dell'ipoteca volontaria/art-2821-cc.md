@@ -21,5 +21,7 @@ ordine: 3130
 # Art. 2821 - ***Concessione d'ipoteca***
 
 L'ipoteca può essere concessa anche mediante dichiarazione unilaterale. La concessione deve farsi per atto pubblico o per scrittura privata, sotto pena di nullità.
+{: data-comma="1" }
 
 Non può essere concessa per testamento.
+{: data-comma="2" }

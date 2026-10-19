@@ -21,5 +21,7 @@ ordine: 1708
 # Art. 1593 - ***Addizioni***
 
 Il conduttore che ha eseguito addizioni sulla cosa locata ha diritto di toglierle alla fine della locazione qualora ciò possa avvenire senza nocumento della cosa, salvo che il proprietario preferisca ritenere le addizioni stesse. In tal caso questi deve pagare al conduttore un'indennità pari alla minor somma tra l'importo della spesa e il valore delle addizioni al tempo della riconsegna.
+{: data-comma="1" }
 
 Se le addizioni non sono separabili senza nocumento della cosa e ne costituiscono un miglioramento, si osservano le norme dell'articolo precedente.
+{: data-comma="2" }

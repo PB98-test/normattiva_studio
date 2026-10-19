@@ -21,13 +21,19 @@ ordine: 764
 # Art. 590 - ***Lesioni personali colpose***
 
 Chiunque cagiona ad altri per colpa una lesione personale è punito con la reclusione fino a tre mesi o con la multa fino a lire duecentomila.
+{: data-comma="1" }
 
 Se la lesione è grave la pena è della reclusione da uno a sei mesi o della multa da lire ottantamila a quattrocentomila; se è gravissima, della reclusione da tre mesi a due anni o della multa da lire duecentomila a ottocentomila.
+{: data-comma="2" }
 
 Se i fatti di cui al secondo comma sono commessi con violazione delle norme per la prevenzione degli infortuni sul lavoro la pena per le lesioni gravi è della reclusione da tre mesi a un anno o della multa da euro 500 a euro 2.000 e la pena per le lesioni gravissime è della reclusione da uno a tre anni. PERIODO SOPPRESSO DALLA L. 23 MARZO 2016, N. 41.
+{: data-comma="3" }
 
 Se i fatti di cui al secondo comma sono commessi nell'esercizio abusivo di una professione per la quale è richiesta una speciale abilitazione dello Stato o di un'arte sanitaria, la pena per lesioni gravi è della reclusione da sei mesi a due anni e la pena per lesioni gravissime è della reclusione da un anno e sei mesi a quattro anni.
+{: data-comma="4" }
 
 Nel caso di lesioni di più persone si applica la pena che dovrebbe infliggersi per la più grave delle violazioni commesse, aumentata fino al triplo; ma la pena della reclusione non può superare gli anni cinque.
+{: data-comma="5" }
 
 Il delitto è punibile a querela della persona offesa, salvo nei casi previsti nel primo e secondo capoverso, limitatamente ai fatti commessi con violazione delle norme per la prevenzione degli infortuni sul lavoro o relative all'igiene del lavoro o che abbiano determinato una malattia professionale.
+{: data-comma="6" }

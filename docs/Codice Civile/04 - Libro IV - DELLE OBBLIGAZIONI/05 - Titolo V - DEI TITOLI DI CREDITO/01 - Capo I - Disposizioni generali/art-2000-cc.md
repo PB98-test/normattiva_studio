@@ -21,5 +21,7 @@ ordine: 2121
 # Art. 2000 - ***Riunione e frazionamento dei titoli***
 
 I titoli di credito emessi in serie possono essere riuniti in un titolo multiplo, su richiesta e a spese del possessore.
+{: data-comma="1" }
 
 I titoli di credito multipli possono essere frazionati in più titoli di taglio minore.
+{: data-comma="2" }

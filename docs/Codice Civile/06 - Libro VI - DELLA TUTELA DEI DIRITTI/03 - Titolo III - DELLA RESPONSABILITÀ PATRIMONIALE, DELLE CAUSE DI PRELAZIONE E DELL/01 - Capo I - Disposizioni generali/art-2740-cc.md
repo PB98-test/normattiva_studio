@@ -21,5 +21,7 @@ ordine: 3045
 # Art. 2740 - ***Responsabilità patrimoniale***
 
 Il debitore risponde dell'adempimento delle obbligazioni con tutti i suoi beni presenti e futuri.
+{: data-comma="1" }
 
 Le limitazioni della responsabilità non sono ammesse se non nei casi stabiliti dalla legge.
+{: data-comma="2" }

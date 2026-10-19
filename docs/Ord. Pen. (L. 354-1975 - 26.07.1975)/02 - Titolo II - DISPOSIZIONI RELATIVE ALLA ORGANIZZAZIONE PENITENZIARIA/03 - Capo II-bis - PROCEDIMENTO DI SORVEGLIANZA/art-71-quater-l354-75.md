@@ -14,10 +14,10 @@ capo_label: "PROCEDIMENTO DI SORVEGLIANZA"
 sezione: null
 sezione_label: null
 rubrica: "Comunicazioni"
-dataVigenza: "20260930"
+dataVigenza: "20261016"
 ordine: 115
 ---
 
 # Art. 71-quater - ***Comunicazioni***
 
-Le comunicazioni all'interessato degli avvisi e dei provvedimenti previsti negli articoli precedenti sono effettuati ai sensi dell'[articolo 645](../../../Codice%20di%20Procedura%20Penale/09%20-%20Libro%20IX%20-%20IMPUGNAZIONI/05%20-%20Titolo%20IV%20-%20REVISIONE/art-645-cpp.md) del codice di procedura penale
+Le comunicazioni all'interessato degli avvisi e dei provvedimenti previsti negli articoli precedenti sono effettuati ai sensi dell'[articolo 645](../../../Codice%20di%20Procedura%20Penale/02%20-%20Parte%20II/05%20-%20Libro%20IX%20-%20IMPUGNAZIONI/05%20-%20Titolo%20IV%20-%20REVISIONE/art-645-cpp.md) del codice di procedura penale

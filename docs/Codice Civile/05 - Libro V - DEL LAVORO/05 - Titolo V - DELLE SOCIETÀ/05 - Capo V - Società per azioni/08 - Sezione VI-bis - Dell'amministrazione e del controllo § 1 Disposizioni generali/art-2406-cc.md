@@ -21,5 +21,7 @@ ordine: 2569
 # Art. 2406 - ***Omissioni degli amministratori***
 
 In caso di omissione o di ingiustificato ritardo da parte degli amministratori, il collegio sindacale deve convocare l'assemblea ed eseguire le pubblicazioni prescritte dalla legge.
+{: data-comma="1" }
 
 COMMA ABROGATO DAL D.LGS. 27 MARZO 2026, N. 47.
+{: data-comma="2" }

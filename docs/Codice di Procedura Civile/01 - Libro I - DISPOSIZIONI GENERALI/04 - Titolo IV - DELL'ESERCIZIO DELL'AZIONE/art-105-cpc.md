@@ -21,5 +21,7 @@ ordine: 112
 # Art. 105 - ***Intervento volontario***
 
 Ciascuno può intervenire in un processo tra altre persone per far valere, in confronto di tutte le parti o di alcune di esse, un diritto relativo all'oggetto o dipendente dal titolo dedotto nel processo medesimo.
+{: data-comma="1" }
 
 Può altresì intervenire per sostenere le ragioni di alcuna delle parti, quando vi ha un proprio interesse.
+{: data-comma="2" }

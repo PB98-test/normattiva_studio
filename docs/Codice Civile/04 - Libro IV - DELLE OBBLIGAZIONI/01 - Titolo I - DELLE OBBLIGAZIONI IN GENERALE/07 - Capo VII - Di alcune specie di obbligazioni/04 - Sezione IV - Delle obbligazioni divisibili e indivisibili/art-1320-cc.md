@@ -21,5 +21,7 @@ ordine: 1422
 # Art. 1320 - ***Estinzione parziale***
 
 Se uno dei creditori ha fatto remissione del debito o ha consentito a ricevere un'altra prestazione in luogo di quella dovuta, il debitore non è liberato verso gli altri creditori. Questi tuttavia non possono domandare la prestazione indivisibile se non addebitandosi ovvero rimborsando il valore della parte di colui che ha fatto la remissione o che ha ricevuto la prestazione diversa.
+{: data-comma="1" }
 
 La medesima disposizione si applica in caso di transazione, novazione, compensazione e confusione.
+{: data-comma="2" }

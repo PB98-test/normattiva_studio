@@ -21,11 +21,16 @@ ordine: 972
 # Art. 795 - ***Espropriazione***
 
 Se è fatta istanza di espropriazione, il giudice, verificate le condizioni stabilite dalla legge per l'ammissibilità di essa, dispone con decreto che si proceda a norma degli articoli 567 e seguenti.
+{: data-comma="1" }
 
 La vendita non può essere fatta che all'incanto a norma degli articoli 576 e seguenti.
+{: data-comma="2" }
 
 L'incanto si apre sul prezzo offerto dal creditore istante.
+{: data-comma="3" }
 
 Alla distribuzione della somma ricavata partecipano, oltre ai creditori privilegiati e ipotecari, i creditori dell'acquirente.
+{: data-comma="4" }
 
 Quest'ultimo ha diritto di essere collocato nella graduazione con privilegio per le spese sopportate per la dichiarazione di liberazione.
+{: data-comma="5" }

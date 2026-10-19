@@ -21,5 +21,7 @@ ordine: 2334
 # Art. 2213 - ***Poteri dei commessi preposti alla vendita***
 
 I commessi preposti alla vendita nei locali dell'impresa possono esigere il prezzo delle merci da essi vendute, salvo che alla riscossione sia palesemente destinata una cassa speciale.
+{: data-comma="1" }
 
 Fuori dei locali dell'impresa non possono esigere il prezzo, se non sono autorizzati o se non consegnano quietanza firmata dall'imprenditore.
+{: data-comma="2" }

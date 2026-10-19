@@ -21,5 +21,7 @@ ordine: 1538
 # Art. 1436 - ***Violenza diretta contro terzi***
 
 La violenza è causa di annullamento del contratto anche quando il male minacciato riguarda la persona o i beni del coniuge del contraente o di un discendente o ascendente di lui.
+{: data-comma="1" }
 
 Se il male minacciato riguarda altre persone, l'annullamento del contratto è rimesso alla prudente valutazione delle circostanze da parte del giudice.
+{: data-comma="2" }

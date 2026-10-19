@@ -21,7 +21,10 @@ ordine: 910
 # Art. 655 - ***Radunata sediziosa***
 
 Chiunque fa parte di una radunata sediziosa di dieci o più persone è punito, per il solo fatto della partecipazione, con l'arresto fino a un anno.
+{: data-comma="1" }
 
 Se chi fa parte della radunata è armato, la pena è dell'arresto non inferiore a sei mesi.
+{: data-comma="2" }
 
 Non è punibile chi, prima dell'ingiunzione dell'Autorità, o per obbedire ad essa, si ritira dalla radunata.
+{: data-comma="3" }

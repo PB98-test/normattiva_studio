@@ -21,5 +21,7 @@ ordine: 864
 # Art. 770 - ***Donazione rimuneratoria***
 
 È donazione anche la liberalità fatta per riconoscenza o in considerazione dei meriti del donatario o per speciale rimunerazione.
+{: data-comma="1" }
 
 Non costituisce donazione la liberalità che si suole fare in occasione di servizi resi o comunque in conformità agli usi.
+{: data-comma="2" }

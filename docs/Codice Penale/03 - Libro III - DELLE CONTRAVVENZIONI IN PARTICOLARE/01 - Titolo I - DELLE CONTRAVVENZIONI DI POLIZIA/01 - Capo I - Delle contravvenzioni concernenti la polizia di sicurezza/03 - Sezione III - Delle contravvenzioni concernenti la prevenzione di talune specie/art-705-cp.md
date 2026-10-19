@@ -21,5 +21,7 @@ ordine: 964
 # Art. 705 - ***Commercio non autorizzato di cose preziose***
 
 Chiunque, senza la licenza dell'Autorità o senza osservare le prescrizioni della legge, fabbrica o pone in commercio cose preziose, o compie su esse operazioni di mediazione o esercita altre simili industrie, arti o attività, è punito con la sanzione amministrativa pecuniaria da lire cinquecentomila a tre milioni.
+{: data-comma="1" }
 
 Si applicano le disposizioni di cui al terzo e quarto comma dell'[articolo 686](art-686-cp.md).
+{: data-comma="2" }

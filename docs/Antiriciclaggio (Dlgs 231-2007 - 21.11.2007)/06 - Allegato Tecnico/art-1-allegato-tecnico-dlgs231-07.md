@@ -1,0 +1,26 @@
+---
+type: "Articolo di legge"
+title: "Art. 1-allegato-tecnico - (abrogato)"
+articolo: "Art. 1-allegato-tecnico"
+codice: dlgs231-07
+aliases:
+  - "art-1-allegato-tecnico-dlgs231-07"
+libro: "allegato-tecnico"
+libro_label: "Allegato Tecnico"
+titolo: null
+titolo_label: null
+capo: null
+capo_label: null
+sezione: null
+sezione_label: null
+rubrica: null
+abrogato: true
+dataVigenza: "20261016"
+ordine: 89
+---
+
+# Art. 1-allegato-tecnico - *(Omissis)*
+
+[^agg-23]
+
+[^agg-23]: *AGGIORNAMENTO (23)* Il D.Lgs. 25 maggio 2017, n. 90, ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorità di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".

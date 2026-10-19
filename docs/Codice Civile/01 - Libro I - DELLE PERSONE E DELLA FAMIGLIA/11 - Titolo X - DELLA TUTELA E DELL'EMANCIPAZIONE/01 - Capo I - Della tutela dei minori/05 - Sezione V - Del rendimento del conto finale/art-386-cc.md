@@ -21,7 +21,10 @@ ordine: 471
 # Art. 386 - ***Approvazione del conto***
 
 Il giudice tutelare invita il protutore, il minore divenuto maggiore o emancipato, ovvero, secondo le circostanze, il nuovo rappresentante legale a esaminare il conto e a presentare le loro osservazioni.
+{: data-comma="1" }
 
 Se non vi sono osservazioni, il giudice che non trova nel conto irregolarità o lacune lo approva; in caso contrario nega l'approvazione.
+{: data-comma="2" }
 
 Qualora il conto non sia stato presentato o sia impugnata la decisione del giudice tutelare, provvede l'autorità giudiziaria nel contraddittorio degli interessati.
+{: data-comma="3" }

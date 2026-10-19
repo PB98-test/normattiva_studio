@@ -21,5 +21,7 @@ ordine: 275
 # Art. 252 - ***Identificazione dei testimoni***
 
 Il giudice istruttore richiede al testimone il nome, il cognome, la paternità, l'età e la professione, lo invita a dichiarare se ha rapporti di parentela, affinità, affiliazione o dipendenza con alcuna delle parti, oppure interesse nella causa.
+{: data-comma="1" }
 
 Le parti possono fare osservazioni sull'attendibilità del testimone, e questi deve fornire in proposito i chiarimenti necessari. Delle osservazioni e dei chiarimenti si fa menzione nel processo verbale prima dell'audizione del testimone.
+{: data-comma="2" }
