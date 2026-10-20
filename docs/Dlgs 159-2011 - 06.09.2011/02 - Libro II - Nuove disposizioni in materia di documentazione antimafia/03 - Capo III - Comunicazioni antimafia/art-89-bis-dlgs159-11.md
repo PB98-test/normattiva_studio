@@ -14,10 +14,12 @@ capo_label: "Comunicazioni antimafia"
 sezione: null
 sezione_label: null
 rubrica: "Accertamento di tentativi di infiltrazione mafiosa in esito alla richiesta di comunicazione antimafia"
-dataVigenza: "20261016"
+dataVigenza: "20261020"
 ordine: 103
 ---
 
 # Art. 89-bis - ***Accertamento di tentativi di infiltrazione mafiosa in esito alla richiesta di comunicazione antimafia***
 
-1.Quando in esito alle verifiche di cui all'[articolo 88](art-88-dlgs159-11.md), comma 2, venga accertata la sussistenza di tentativi di infiltrazione mafiosa, il prefetto adotta comunque un'informazione antimafia interdittiva e ne dà comunicazione ai soggetti richiedenti di cui all'[articolo 83](../01%20-%20Capo%20I%20-%20Disposizioni%20di%20carattere%20generale/art-83-dlgs159-11.md), commi 1 e 2, senza emettere la comunicazione antimafia. 2. L'informazione antimafia adottata ai sensi del comma 1 tiene luogo della comunicazione antimafia richiesta.
+1\. Quando in esito alle verifiche di cui all'[articolo 88](art-88-dlgs159-11.md), comma 2, venga accertata la sussistenza di tentativi di infiltrazione mafiosa, il prefetto adotta comunque un'informazione antimafia interdittiva e ne dà comunicazione ai soggetti richiedenti di cui all'[articolo 83](../01%20-%20Capo%20I%20-%20Disposizioni%20di%20carattere%20generale/art-83-dlgs159-11.md), commi 1 e 2, senza emettere la comunicazione antimafia.
+
+2\. L'informazione antimafia adottata ai sensi del comma 1 tiene luogo della comunicazione antimafia richiesta.

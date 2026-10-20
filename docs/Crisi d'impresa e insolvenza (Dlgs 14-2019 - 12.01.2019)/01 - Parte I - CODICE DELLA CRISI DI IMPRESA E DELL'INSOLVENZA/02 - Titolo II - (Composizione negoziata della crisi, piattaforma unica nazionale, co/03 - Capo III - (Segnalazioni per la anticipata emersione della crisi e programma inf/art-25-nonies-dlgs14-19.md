@@ -16,7 +16,7 @@ capo_label: "(Segnalazioni per la anticipata emersione della crisi e programma i
 sezione: null
 sezione_label: null
 rubrica: "Segnalazioni dei creditori pubblici qualificati"
-dataVigenza: "20261016"
+dataVigenza: "20261020"
 ordine: 34
 ---
 
@@ -28,7 +28,10 @@ ordine: 34
 - b) per l'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro, l'esistenza di un debito per premi assicurativi scaduto da oltre novanta giorni e non versato superiore all'importo di euro 5.000;
 - d) per l'Agenzia delle entrate-Riscossione, l'esistenza di crediti affidati per la riscossione, autodichiarati o definitivamente accertati e scaduti da oltre novanta giorni, superiori, per le imprese individuali, all'importo di euro 100.000, per le società di persone, all'importo di euro 200.000 e, per le altre società, all'importo di euro 500.000.
 
-2\. Le segnalazioni di cui al comma 1 sono inviate: a) dall'Agenzia delle entrate, contestualmente alla comunicazione di irregolarità di cui all'articolo 54-bis del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e, comunque, non oltre centocinquanta giorni dal termine di presentazione delle comunicazioni di cui all'articolo 21-bis del decreto-legge n. 78 del 2010; b) dall'Istituto nazionale della previdenza sociale, dall'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro e dall'Agenzia delle entrate-Riscossione, entro sessanta giorni decorrenti dal verificarsi delle condizioni o dal superamento degli importi indicati nel medesimo comma 1.
+2\. Le segnalazioni di cui al comma 1 sono inviate:
+
+- a) dall'Agenzia delle entrate, contestualmente alla comunicazione di irregolarità di cui all'articolo 54-bis del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e, comunque, non oltre centocinquanta giorni dal termine di presentazione delle comunicazioni di cui all'articolo 21-bis del decreto-legge n. 78 del 2010;
+- b) dall'Istituto nazionale della previdenza sociale, dall'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro e dall'Agenzia delle entrate-Riscossione, entro sessanta giorni decorrenti dal verificarsi delle condizioni o dal superamento degli importi indicati nel medesimo comma 1.
 
 3\. Le segnalazioni di cui al comma 1 contengono l'invito alla presentazione dell'istanza di cui all'[articolo 17](../01%20-%20Capo%20I%20-%20%28Composizione%20negoziata%20della%20crisi%29/art-17-dlgs14-19.md), comma 1, se ne ricorrono i presupposti.
 

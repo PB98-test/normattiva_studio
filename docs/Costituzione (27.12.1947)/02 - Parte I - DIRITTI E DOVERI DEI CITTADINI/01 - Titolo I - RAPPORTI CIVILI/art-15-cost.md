@@ -16,10 +16,14 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: null
-dataVigenza: "20261016"
+dataVigenza: "20261020"
 ordine: 15
 ---
 
 # Art. 15
 
-La libertà e la segretezza della corrispondenza e di ogni altra forma di comunicazione sono inviolabili. La loro limitazione può avvenire soltanto per atto motivato dell'autorità giudiziaria con le garanzie stabilite dalla legge.
+La libertà e la segretezza della corrispondenza e di ogni altra forma di comunicazione sono inviolabili.
+{: data-comma="1" }
+
+La loro limitazione può avvenire soltanto per atto motivato dell'autorità giudiziaria con le garanzie stabilite dalla legge.
+{: data-comma="2" }

@@ -16,10 +16,23 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: null
-dataVigenza: "20261016"
+dataVigenza: "20261020"
 ordine: 38
 ---
 
 # Art. 38
 
-Ogni cittadino inabile al lavoro e sprovvisto dei mezzi necessari per vivere ha diritto al mantenimento e all'assistenza sociale. I lavoratori hanno diritto che siano preveduti ed assicurati mezzi adeguati alle loro esigenze di vita in caso di infortunio, malattia, invalidità e vecchiaia, disoccupazione involontaria. Gli inabili ed i minorati hanno diritto all'educazione e all'avviamento professionale. Ai compiti previsti in questo articolo provvedono organi ed istituti predisposti o integrati dallo Stato. L'assistenza privata è libera.
+Ogni cittadino inabile al lavoro e sprovvisto dei mezzi necessari per vivere ha diritto al mantenimento e all'assistenza sociale.
+{: data-comma="1" }
+
+I lavoratori hanno diritto che siano preveduti ed assicurati mezzi adeguati alle loro esigenze di vita in caso di infortunio, malattia, invalidità e vecchiaia, disoccupazione involontaria.
+{: data-comma="2" }
+
+Gli inabili ed i minorati hanno diritto all'educazione e all'avviamento professionale.
+{: data-comma="3" }
+
+Ai compiti previsti in questo articolo provvedono organi ed istituti predisposti o integrati dallo Stato.
+{: data-comma="4" }
+
+L'assistenza privata è libera.
+{: data-comma="5" }

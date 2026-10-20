@@ -16,10 +16,20 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: null
-dataVigenza: "20261016"
+dataVigenza: "20261020"
 ordine: 42
 ---
 
 # Art. 42
 
-La proprietà è pubblica o privata. I beni economici appartengono allo Stato, ad enti o a privati. La proprietà privata è riconosciuta e garantita dalla legge, che ne determina i modi di acquisto, di godimento e i limiti allo scopo di assicurarne la funzione sociale e di renderla accessibile a tutti. La proprietà privata può essere, nei casi preveduti dalla legge, e salvo indennizzo, espropriata per motivi d'interesse generale. La legge stabilisce le norme ed i limiti della successione legittima e testamentaria e i diritti dello Stato sulle eredità.
+La proprietà è pubblica o privata. I beni economici appartengono allo Stato, ad enti o a privati.
+{: data-comma="1" }
+
+La proprietà privata è riconosciuta e garantita dalla legge, che ne determina i modi di acquisto, di godimento e i limiti allo scopo di assicurarne la funzione sociale e di renderla accessibile a tutti.
+{: data-comma="2" }
+
+La proprietà privata può essere, nei casi preveduti dalla legge, e salvo indennizzo, espropriata per motivi d'interesse generale.
+{: data-comma="3" }
+
+La legge stabilisce le norme ed i limiti della successione legittima e testamentaria e i diritti dello Stato sulle eredità.
+{: data-comma="4" }

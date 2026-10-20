@@ -16,10 +16,20 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: null
-dataVigenza: "20261016"
+dataVigenza: "20261020"
 ordine: 35
 ---
 
 # Art. 35
 
-La Repubblica tutela il lavoro in tutte le sue forme ed applicazioni. Cura la formazione e l'elevazione professionale dei lavoratori. Promuove e favorisce gli accordi e le organizzazioni internazionali intesi ad affermare e regolare i diritti del lavoro. Riconosce la libertà di emigrazione, salvo gli obblighi stabiliti dalla legge nell'interesse generale, e tutela il lavoro italiano all'estero.
+La Repubblica tutela il lavoro in tutte le sue forme ed applicazioni.
+{: data-comma="1" }
+
+Cura la formazione e l'elevazione professionale dei lavoratori.
+{: data-comma="2" }
+
+Promuove e favorisce gli accordi e le organizzazioni internazionali intesi ad affermare e regolare i diritti del lavoro.
+{: data-comma="3" }
+
+Riconosce la libertà di emigrazione, salvo gli obblighi stabiliti dalla legge nell'interesse generale, e tutela il lavoro italiano all'estero.
+{: data-comma="4" }

@@ -16,10 +16,14 @@ capo_label: null
 sezione: "I"
 sezione_label: "Il Consiglio dei ministri"
 rubrica: null
-dataVigenza: "20261016"
+dataVigenza: "20261020"
 ordine: 92
 ---
 
 # Art. 92
 
-Il Governo della Repubblica è composto del Presidente del Consiglio e dei ministri, che costituiscono insieme il Consiglio dei ministri. Il Presidente della Repubblica nomina il Presidente del Consiglio dei ministri e, su proposta di questo, i ministri.
+Il Governo della Repubblica è composto del Presidente del Consiglio e dei ministri, che costituiscono insieme il Consiglio dei ministri.
+{: data-comma="1" }
+
+Il Presidente della Repubblica nomina il Presidente del Consiglio dei ministri e, su proposta di questo, i ministri.
+{: data-comma="2" }

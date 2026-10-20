@@ -14,13 +14,14 @@ capo_label: null
 sezione: "II"
 sezione_label: "Amministrazione digitale e dati di tipo aperto"
 rubrica: "Acquisizione di software da parte della pubblica amministrazione"
-dataVigenza: "20261002"
+dataVigenza: "20261020"
 ordine: 11
 ---
 
 # Art. 9-bis - ***Acquisizione di software da parte della pubblica amministrazione***
 
-- 1. All'[articolo 68](../../Dlgs%2082-2005%20-%2007.03.2005/06%20-%20Capo%20VI%20-%20SVILUPPO,%20ACQUISIZIONE%20E%20RIUSO%20DI%20SISTEMI%20INFORMATICI%20NELLE%20PUBBLICHE/art-68-dlgs82-05.md) del decreto legislativo 7 marzo 2005, n. 82, il comma 1 è sostituito dai seguenti: "1. Le pubbliche amministrazioni acquisiscono programmi informatici o parti di essi nel rispetto dei principi di economicità e di efficienza, tutela degli investimenti, riuso e neutralità tecnologica, a seguito di una valutazione comparativa di tipo tecnico ed economico tra le seguenti soluzioni disponibili sul mercato:
+1\. All'[articolo 68](../../Dlgs%2082-2005%20-%2007.03.2005/06%20-%20Capo%20VI%20-%20SVILUPPO,%20ACQUISIZIONE%20E%20RIUSO%20DI%20SISTEMI%20INFORMATICI%20NELLE%20PUBBLICHE/art-68-dlgs82-05.md) del decreto legislativo 7 marzo 2005, n. 82, il comma 1 è sostituito dai seguenti: "1. Le pubbliche amministrazioni acquisiscono programmi informatici o parti di essi nel rispetto dei principi di economicità e di efficienza, tutela degli investimenti, riuso e neutralità tecnologica, a seguito di una valutazione comparativa di tipo tecnico ed economico tra le seguenti soluzioni disponibili sul mercato:
+
 - a) software sviluppato per conto della pubblica amministrazione;
 - b) riutilizzo di software o parti di esso sviluppati per conto della pubblica amministrazione;
 - c) software libero o a codice sorgente aperto;

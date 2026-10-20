@@ -16,10 +16,17 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: null
-dataVigenza: "20261016"
+dataVigenza: "20261020"
 ordine: 36
 ---
 
 # Art. 36
 
-Il lavoratore ha diritto ad una retribuzione proporzionata alla quantità e qualità del suo lavoro e in ogni caso sufficiente ad assicurare a sè e alla famiglia un'esistenza libera e dignitosa. La durata massima della giornata lavorativa è stabilita dalla legge. Il lavoratore ha diritto al riposo settimanale e a ferie annuali retribuite, e non può rinunziarvi.
+Il lavoratore ha diritto ad una retribuzione proporzionata alla quantità e qualità del suo lavoro e in ogni caso sufficiente ad assicurare a sè e alla famiglia un'esistenza libera e dignitosa.
+{: data-comma="1" }
+
+La durata massima della giornata lavorativa è stabilita dalla legge.
+{: data-comma="2" }
+
+Il lavoratore ha diritto al riposo settimanale e a ferie annuali retribuite, e non può rinunziarvi.
+{: data-comma="3" }

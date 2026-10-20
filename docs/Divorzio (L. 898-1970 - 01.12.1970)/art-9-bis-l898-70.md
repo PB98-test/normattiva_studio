@@ -14,10 +14,14 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: null
-dataVigenza: "20260930"
+dataVigenza: "20261020"
 ordine: 10
 ---
 
 # Art. 9-bis
 
-A colui al quale è stato riconosciuto il diritto alla corresponsione periodica di somme di denaro a norma dell'[articolo 5](art-5-l898-70.md), qualora versi in stato di bisogno, il tribunale, dopo il decesso dell'obbligato, può attribuire un assegno periodico a carico dell'eredità tenendo conto dell'importo di quelle somme, della entità del bisogno, dell'eventuale pensione di reversibilità, delle sostanze ereditarie, del numero e della qualità degli eredi e delle loro condizioni economiche. L'assegno non spetta se gli obblighi patrimoniali previsti dall'[articolo 5](art-5-l898-70.md) sono stati soddisfatti in unica soluzione. Su accordo delle parti la corresponsione dell'assegno può avvenire in unica soluzione. Il diritto all'assegno si estingue se il beneficiario passa a nuove nozze o viene meno il suo stato di bisogno. Qualora risorga lo stato di bisogno l'assegno può essere nuovamente attribuito.
+A colui al quale è stato riconosciuto il diritto alla corresponsione periodica di somme di denaro a norma dell'[articolo 5](art-5-l898-70.md), qualora versi in stato di bisogno, il tribunale, dopo il decesso dell'obbligato, può attribuire un assegno periodico a carico dell'eredità tenendo conto dell'importo di quelle somme, della entità del bisogno, dell'eventuale pensione di reversibilità, delle sostanze ereditarie, del numero e della qualità degli eredi e delle loro condizioni economiche. L'assegno non spetta se gli obblighi patrimoniali previsti dall'[articolo 5](art-5-l898-70.md) sono stati soddisfatti in unica soluzione.
+{: data-comma="1" }
+
+Su accordo delle parti la corresponsione dell'assegno può avvenire in unica soluzione. Il diritto all'assegno si estingue se il beneficiario passa a nuove nozze o viene meno il suo stato di bisogno. Qualora risorga lo stato di bisogno l'assegno può essere nuovamente attribuito.
+{: data-comma="2" }

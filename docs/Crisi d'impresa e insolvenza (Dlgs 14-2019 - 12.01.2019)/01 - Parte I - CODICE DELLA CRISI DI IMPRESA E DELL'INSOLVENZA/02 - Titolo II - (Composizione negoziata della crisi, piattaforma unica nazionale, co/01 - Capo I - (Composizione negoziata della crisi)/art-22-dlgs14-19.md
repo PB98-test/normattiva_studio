@@ -16,14 +16,15 @@ capo_label: "(Composizione negoziata della crisi)"
 sezione: null
 sezione_label: null
 rubrica: "Autorizzazioni del tribunale"
-dataVigenza: "20261016"
+dataVigenza: "20261020"
 ordine: 23
 ---
 
 # Art. 22 - ***Autorizzazioni del tribunale***
 
-1\. Su richiesta dell'imprenditore il tribunale, verificata la funzionalità degli atti rispetto alla continuità aziendale e alla migliore soddisfazione dei creditori, può: a) autorizzare l'imprenditore, ai fini del riconoscimento della prededuzione, a contrarre finanziamenti in qualsiasi forma, compresa la richiesta di emissione di garanzie, oppure autorizzare l'accordo con la banca e l'intermediario finanziario alla riattivazione di linee di credito sospese;
+1\. Su richiesta dell'imprenditore il tribunale, verificata la funzionalità degli atti rispetto alla continuità aziendale e alla migliore soddisfazione dei creditori, può:
 
+- a) autorizzare l'imprenditore, ai fini del riconoscimento della prededuzione, a contrarre finanziamenti in qualsiasi forma, compresa la richiesta di emissione di garanzie, oppure autorizzare l'accordo con la banca e l'intermediario finanziario alla riattivazione di linee di credito sospese;
 - b) autorizzare l'imprenditore a contrarre finanziamenti dai soci prededucibili ...;
 - c) autorizzare una o più società appartenenti ad un gruppo di imprese di cui all'[articolo 25](art-25-dlgs14-19.md) a contrarre finanziamenti prededucibili ...;
 - d) autorizzare l'imprenditore a trasferire in qualunque forma l'azienda o uno o più suoi rami senza gli effetti di cui all'[articolo 2560, secondo comma, del codice civile](../../../../Codice%20Civile/05%20-%20Libro%20V%20-%20DEL%20LAVORO/08%20-%20Titolo%20VIII%20-%20DELL%27AZIENDA/01%20-%20Capo%20I%20-%20Disposizioni%20generali/art-2560-cc.md), dettando le misure ritenute opportune, tenuto conto delle istanze delle parti interessate al fine di tutelare gli interessi coinvolti; resta fermo l'[articolo 2112 del codice civile](../../../../Codice%20Civile/05%20-%20Libro%20V%20-%20DEL%20LAVORO/02%20-%20Titolo%20II%20-%20DEL%20LAVORO%20NELL%27IMPRESA/01%20-%20Capo%20I%20-%20Dell%27impresa%20in%20generale/03%20-%20Sezione%20III%20-%20Del%20rapporto%20di%20lavoro%20§%201%20Della%20costituzione%20del%20rapporto%20di%20lavo/art-2112-cc.md). Il tribunale verifica altresì il rispetto del principio di competitività nella selezione dell'acquirente.

@@ -16,10 +16,14 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: null
-dataVigenza: "20261016"
+dataVigenza: "20261020"
 ordine: 53
 ---
 
 # Art. 53
 
-Tutti sono tenuti a concorrere alle spese pubbliche in ragione della loro capacità contributiva. Il sistema tributario è informato a criteri di progressività.
+Tutti sono tenuti a concorrere alle spese pubbliche in ragione della loro capacità contributiva.
+{: data-comma="1" }
+
+Il sistema tributario è informato a criteri di progressività.
+{: data-comma="2" }

@@ -16,10 +16,14 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: null
-dataVigenza: "20261016"
+dataVigenza: "20261020"
 ordine: 90
 ---
 
 # Art. 90
 
-Il Presidente della Repubblica non è responsabile degli atti compiuti nell'esercizio delle sue funzioni, tranne che per alto tradimento o per attentato alla Costituzione. In tali casi è messo in stato di accusa dal Parlamento in seduta comune, a maggioranza assoluta dei suoi membri.
+Il Presidente della Repubblica non è responsabile degli atti compiuti nell'esercizio delle sue funzioni, tranne che per alto tradimento o per attentato alla Costituzione.
+{: data-comma="1" }
+
+In tali casi è messo in stato di accusa dal Parlamento in seduta comune, a maggioranza assoluta dei suoi membri.
+{: data-comma="2" }

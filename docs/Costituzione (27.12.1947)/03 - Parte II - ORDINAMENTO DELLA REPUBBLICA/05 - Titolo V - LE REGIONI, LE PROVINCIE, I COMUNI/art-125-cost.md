@@ -16,10 +16,14 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: null
-dataVigenza: "20261016"
+dataVigenza: "20261020"
 ordine: 125
 ---
 
 # Art. 125
 
-COMMA ABROGATO DALLA L. COSTITUZIONALE 18 OTTOBRE 2001, N. 3. Nella Regione sono istituiti organi di giustizia amministrativa di primo grado, secondo l'ordinamento stabilito da legge della Repubblica. Possono istituirsi sezioni con sede diversa dal capoluogo della Regione.
+COMMA ABROGATO DALLA L. COSTITUZIONALE 18 OTTOBRE 2001, N. 3.
+{: data-comma="1" }
+
+Nella Regione sono istituiti organi di giustizia amministrativa di primo grado, secondo l'ordinamento stabilito da legge della Repubblica. Possono istituirsi sezioni con sede diversa dal capoluogo della Regione.
+{: data-comma="2" }

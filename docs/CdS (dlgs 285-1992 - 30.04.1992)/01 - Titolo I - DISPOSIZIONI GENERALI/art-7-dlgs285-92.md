@@ -14,7 +14,7 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Regolamentazione della circolazione nei centri abitati"
-dataVigenza: "20261012"
+dataVigenza: "20261020"
 ordine: 7
 ---
 
@@ -90,7 +90,9 @@ ordine: 7
 
 - a) nel caso in cui l'accertamento della violazione avvenga entro il 10 per cento del tempo per cui è stata corrisposta la tariffa, non si applica alcuna sanzione;
 - b) nel caso in cui l'accertamento della violazione avvenga oltre il 10 per cento ed entro il 50 per cento del tempo per cui è stata corrisposta la tariffa, si applica la sanzione di cui al comma 14, primo periodo, ridotta nella misura del 50 per cento;
-- c) nel caso in cui l'accertamento della violazione avvenga oltre il 50 per cento del tempo per cui è stata corrisposta la tariffa, si applica la sanzione di cui al comma 14, primo periodo. 15.1. Allo scopo di consentire il recupero della tariffa non corrisposta, nei casi indicati dal comma 15, lettere b) e c), le sanzioni previste sono maggiorate di un importo corrispondente all'intero periodo tariffato nel giorno di calendario in cui avviene l'accertamento. Quando la sosta senza pagamento o con pagamento insufficiente si protragga oltre le ore 24 del giorno dell'accertamento, le sanzioni e le relative maggiorazioni si applicano per ogni periodo di ventiquattro ore in cui si protrae la violazione. Nei casi in cui la sosta tariffata sia anche limitata nella durata massima, si applicano le sanzioni di cui al comma 14, quarto periodo, secondo le disposizioni e nei modi indicati nel quinto periodo del medesimo comma.
+- c) nel caso in cui l'accertamento della violazione avvenga oltre il 50 per cento del tempo per cui è stata corrisposta la tariffa, si applica la sanzione di cui al comma 14, primo periodo.
+
+15.1. Allo scopo di consentire il recupero della tariffa non corrisposta, nei casi indicati dal comma 15, lettere b) e c), le sanzioni previste sono maggiorate di un importo corrispondente all'intero periodo tariffato nel giorno di calendario in cui avviene l'accertamento. Quando la sosta senza pagamento o con pagamento insufficiente si protragga oltre le ore 24 del giorno dell'accertamento, le sanzioni e le relative maggiorazioni si applicano per ogni periodo di ventiquattro ore in cui si protrae la violazione. Nei casi in cui la sosta tariffata sia anche limitata nella durata massima, si applicano le sanzioni di cui al comma 14, quarto periodo, secondo le disposizioni e nei modi indicati nel quinto periodo del medesimo comma.
 
 15-bis. Salvo che il fatto costituisca reato, coloro che esercitano senza autorizzazione, anche avvalendosi di altre persone, ovvero determinano altri ad esercitare senza autorizzazione l'attività di parcheggiatore o guardiamacchine sono puniti con la sanzione amministrativa del pagamento di una somma da euro 769 ad euro 3.095. Se il soggetto è già stato sanzionato per la medesima violazione con provvedimento definitivo, la sanzione amministrativa pecuniaria è raddoppiata. Salvo che il fatto costituisca più grave reato, se nell'attività sono impiegati minori ovvero se il soggetto già sanzionato con provvedimento definitivo ai sensi del secondo periodo pone ulteriormente in essere le medesime condotte, si applica la pena dell'arresto da otto mesi a un anno e sei mesi e dell'ammenda da 3.000 a 8.000 euro. È sempre disposta la confisca delle somme percepite, secondo le modalità indicate al titolo VI, capo I, sezione II.
 

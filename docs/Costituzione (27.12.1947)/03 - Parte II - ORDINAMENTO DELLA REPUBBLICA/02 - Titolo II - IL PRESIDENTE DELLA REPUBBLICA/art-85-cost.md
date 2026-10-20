@@ -16,10 +16,17 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: null
-dataVigenza: "20261016"
+dataVigenza: "20261020"
 ordine: 85
 ---
 
 # Art. 85
 
-Il Presidente della Repubblica è eletto per sette anni. Trenta giorni prima che scada il termine, il Presidente della Camera dei deputati convoca in seduta comune il Parlamento e i delegati regionali, per eleggere il nuovo Presidente della Repubblica. Se le Camere sono sciolte, o manca meno di tre mesi alla loro cessazione, la elezione ha luogo entro quindici giorni dalla riunione delle Camere nuove. Nel frattempo sono prorogati i poteri del Presidente in carica.
+Il Presidente della Repubblica è eletto per sette anni.
+{: data-comma="1" }
+
+Trenta giorni prima che scada il termine, il Presidente della Camera dei deputati convoca in seduta comune il Parlamento e i delegati regionali, per eleggere il nuovo Presidente della Repubblica.
+{: data-comma="2" }
+
+Se le Camere sono sciolte, o manca meno di tre mesi alla loro cessazione, la elezione ha luogo entro quindici giorni dalla riunione delle Camere nuove. Nel frattempo sono prorogati i poteri del Presidente in carica.
+{: data-comma="3" }

@@ -14,7 +14,7 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Sistema nazionale di allerta rapida per le droghe - NEWS-D"
-dataVigenza: "20261016"
+dataVigenza: "20261020"
 ordine: 15
 ---
 
@@ -28,8 +28,7 @@ ordine: 15
 
 - a) l'Istituto superiore di sanità, di cui all'articolo 9 del decreto legislativo 29 ottobre 1999, n. 419, per la raccolta di dati e informazioni provenienti dai centri collaborativi di secondo livello su aspetti bio-tossicologici;
 - b) i centri antiveleno, pubblici o privati, per la raccolta di dati e informazioni provenienti dai centri collaborativi di secondo livello, su aspetti clinico-tossicologici, in grado di assicurare una disponibilità per l'intera giornata, con laboratori interni e capacità analitiche nel settore delle nuove sostanze psicoattive, da individuare a cura del Dipartimento per le politiche antidroga della Presidenza del Consiglio dei ministri;
-- c) la Direzione centrale per i servizi antidroga del Dipartimento della pubblica sicurezza del Ministero dell'interno, di cui all'articolo 1 della legge 15 gennaio 1991, n. 16, per il concorso allo sviluppo del Sistema di cui al comma 1, per il coordinamento delle Forze di polizia nell'alimentazione informativa del predetto Sistema nonchè per la raccolta di dati e informazioni, utili per la formulazione di allerta o informative, emergenti dagli esami tossicologici condotti dai centri collaborativi di secondo livello di cui al comma 4, lettera
-- e), sulle sostanze stupefacenti sequestrate.
+- c) la Direzione centrale per i servizi antidroga del Dipartimento della pubblica sicurezza del Ministero dell'interno, di cui all'articolo 1 della legge 15 gennaio 1991, n. 16, per il concorso allo sviluppo del Sistema di cui al comma 1, per il coordinamento delle Forze di polizia nell'alimentazione informativa del predetto Sistema nonchè per la raccolta di dati e informazioni, utili per la formulazione di allerta o informative, emergenti dagli esami tossicologici condotti dai centri collaborativi di secondo livello di cui al comma 4, lettera e), sulle sostanze stupefacenti sequestrate.
 
 4\. Possono essere centri collaborativi di secondo livello:
 

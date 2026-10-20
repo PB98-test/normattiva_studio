@@ -16,10 +16,20 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: null
-dataVigenza: "20261016"
+dataVigenza: "20261020"
 ordine: 39
 ---
 
 # Art. 39
 
-L'organizzazione sindacale è libera. Ai sindacati non può essere imposto altro obbligo se non la loro registrazione presso uffici locali o centrali, secondo le norme di legge. È condizione per la registrazione che gli statuti dei sindacati sanciscano un ordinamento interno a base democratica. I sindacati registrati hanno personalità giuridica. Possono, rappresentati unitariamente in proporzione dei loro iscritti, stipulare contratti collettivi di lavoro con efficacia obbligatoria per tutti gli appartenenti alle categorie alle quali il contratto si riferisce.
+L'organizzazione sindacale è libera.
+{: data-comma="1" }
+
+Ai sindacati non può essere imposto altro obbligo se non la loro registrazione presso uffici locali o centrali, secondo le norme di legge.
+{: data-comma="2" }
+
+È condizione per la registrazione che gli statuti dei sindacati sanciscano un ordinamento interno a base democratica.
+{: data-comma="3" }
+
+I sindacati registrati hanno personalità giuridica. Possono, rappresentati unitariamente in proporzione dei loro iscritti, stipulare contratti collettivi di lavoro con efficacia obbligatoria per tutti gli appartenenti alle categorie alle quali il contratto si riferisce.
+{: data-comma="4" }

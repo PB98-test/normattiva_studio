@@ -16,10 +16,17 @@ capo_label: null
 sezione: "II"
 sezione_label: "La Pubblica Amministrazione"
 rubrica: null
-dataVigenza: "20261016"
+dataVigenza: "20261020"
 ordine: 98
 ---
 
 # Art. 98
 
-I pubblici impiegati sono al servizio esclusivo della Nazione. Se sono membri del Parlamento, non possono conseguire promozioni se non per anzianità. Si possono con legge stabilire limitazioni al diritto d'iscriversi ai partiti politici per i magistrati, i militari di carriera in servizio attivo, i funzionari ed agenti di polizia, i rappresentanti diplomatici e consolari all'estero.
+I pubblici impiegati sono al servizio esclusivo della Nazione.
+{: data-comma="1" }
+
+Se sono membri del Parlamento, non possono conseguire promozioni se non per anzianità.
+{: data-comma="2" }
+
+Si possono con legge stabilire limitazioni al diritto d'iscriversi ai partiti politici per i magistrati, i militari di carriera in servizio attivo, i funzionari ed agenti di polizia, i rappresentanti diplomatici e consolari all'estero.
+{: data-comma="3" }

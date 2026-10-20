@@ -16,10 +16,14 @@ capo_label: null
 sezione: "II"
 sezione_label: "La formazione delle leggi"
 rubrica: null
-dataVigenza: "20261016"
+dataVigenza: "20261020"
 ordine: 82
 ---
 
 # Art. 82
 
-Ciascuna Camera può disporre inchieste su materie di pubblico interesse. A tale scopo nomina fra i propri componenti una commissione formata in modo da rispecchiare la proporzione dei vari gruppi. La commissione d'inchiesta procede alle indagini e agli esami con gli stessi poteri e le stesse limitazioni dell'autorità giudiziaria.
+Ciascuna Camera può disporre inchieste su materie di pubblico interesse.
+{: data-comma="1" }
+
+A tale scopo nomina fra i propri componenti una commissione formata in modo da rispecchiare la proporzione dei vari gruppi. La commissione d'inchiesta procede alle indagini e agli esami con gli stessi poteri e le stesse limitazioni dell'autorità giudiziaria.
+{: data-comma="2" }

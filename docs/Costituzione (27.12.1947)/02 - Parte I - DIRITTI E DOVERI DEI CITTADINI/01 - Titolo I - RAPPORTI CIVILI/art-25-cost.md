@@ -16,10 +16,17 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: null
-dataVigenza: "20261016"
+dataVigenza: "20261020"
 ordine: 25
 ---
 
 # Art. 25
 
-Nessuno può essere distolto dal giudice naturale precostituito per legge. Nessuno può essere punito se non in forza di una legge che sia entrata in vigore prima del fatto commesso. Nessuno può essere sottoposto a misure di sicurezza se non nei casi previsti dalla legge.
+Nessuno può essere distolto dal giudice naturale precostituito per legge.
+{: data-comma="1" }
+
+Nessuno può essere punito se non in forza di una legge che sia entrata in vigore prima del fatto commesso.
+{: data-comma="2" }
+
+Nessuno può essere sottoposto a misure di sicurezza se non nei casi previsti dalla legge.
+{: data-comma="3" }

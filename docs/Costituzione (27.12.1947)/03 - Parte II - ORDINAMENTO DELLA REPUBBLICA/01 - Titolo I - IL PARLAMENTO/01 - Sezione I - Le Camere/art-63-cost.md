@@ -16,10 +16,14 @@ capo_label: null
 sezione: "I"
 sezione_label: "Le Camere"
 rubrica: null
-dataVigenza: "20261016"
+dataVigenza: "20261020"
 ordine: 63
 ---
 
 # Art. 63
 
-Ciascuna Camera elegge fra i suoi componenti il Presidente e l'Ufficio di presidenza. Quando il Parlamento si riunisce in seduta comune, il Presidente e l'Ufficio di presidenza sono quelli della Camera dei deputati.
+Ciascuna Camera elegge fra i suoi componenti il Presidente e l'Ufficio di presidenza.
+{: data-comma="1" }
+
+Quando il Parlamento si riunisce in seduta comune, il Presidente e l'Ufficio di presidenza sono quelli della Camera dei deputati.
+{: data-comma="2" }

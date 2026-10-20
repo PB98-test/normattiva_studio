@@ -16,7 +16,7 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Restituzione nel termine"
-dataVigenza: "20261016"
+dataVigenza: "20261020"
 ordine: 207
 ---
 
@@ -24,7 +24,9 @@ ordine: 207
 
 1\. Il pubblico ministero, le parti private e i difensori sono restituiti nel termine stabilito a pena di decadenza, se provano di non averlo potuto osservare per caso fortuito o per forza maggiore. La richiesta per la restituzione nel termine è presentata, a pena di decadenza, entro dieci giorni da quello nel quale è cessato il fatto costituente caso fortuito o forza maggiore.
 
-2\. L'imputato condannato con decreto penale, che non ha avuto tempestivamente effettiva conoscenza del provvedimento, è restituito, a sua richiesta, nel termine per proporre opposizione, salvo che vi abbia volontariamente rinunciato. [^agg-215] 2.1. L'imputato giudicato in assenza è restituito, a sua richiesta, nel termine per proporre impugnazione, salvo che vi abbia volontariamente rinunciato, se, nei casi previsti dall'[articolo 420-bis](../../../02%20-%20Parte%20II/01%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/10%20-%20Titolo%20IX%20-%20UDIENZA%20PRELIMINARE/art-420-bis-cpp.md), commi 2 e 3, fornisce la prova di non aver avuto effettiva conoscenza della pendenza del processo e di non aver potuto proporre impugnazione nei termini senza sua colpa.
+2\. L'imputato condannato con decreto penale, che non ha avuto tempestivamente effettiva conoscenza del provvedimento, è restituito, a sua richiesta, nel termine per proporre opposizione, salvo che vi abbia volontariamente rinunciato. [^agg-215]
+
+2.1. L'imputato giudicato in assenza è restituito, a sua richiesta, nel termine per proporre impugnazione, salvo che vi abbia volontariamente rinunciato, se, nei casi previsti dall'[articolo 420-bis](../../../02%20-%20Parte%20II/01%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/10%20-%20Titolo%20IX%20-%20UDIENZA%20PRELIMINARE/art-420-bis-cpp.md), commi 2 e 3, fornisce la prova di non aver avuto effettiva conoscenza della pendenza del processo e di non aver potuto proporre impugnazione nei termini senza sua colpa.
 
 2-bis. La richiesta indicata ai commi 2 e 2.1 è presentata, a pena di decadenza, nel termine di trenta giorni da quello in cui l'imputato ha avuto effettiva conoscenza del provvedimento. In caso di estradizione dall'estero, il termine per la presentazione della richiesta decorre dalla consegna del condannato.
 

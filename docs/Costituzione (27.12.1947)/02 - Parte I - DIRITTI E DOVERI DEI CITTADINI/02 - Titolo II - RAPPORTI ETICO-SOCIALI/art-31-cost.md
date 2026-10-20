@@ -16,10 +16,14 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: null
-dataVigenza: "20261016"
+dataVigenza: "20261020"
 ordine: 31
 ---
 
 # Art. 31
 
-La Repubblica agevola con misure economiche e altre provvidenze la formazione della famiglia e l'adempimento dei compiti relativi, con particolare riguardo alle famiglie numerose. Protegge la maternità, l'infanzia e la gioventù, favorendo gli istituti necessari a tale scopo.
+La Repubblica agevola con misure economiche e altre provvidenze la formazione della famiglia e l'adempimento dei compiti relativi, con particolare riguardo alle famiglie numerose.
+{: data-comma="1" }
+
+Protegge la maternità, l'infanzia e la gioventù, favorendo gli istituti necessari a tale scopo.
+{: data-comma="2" }

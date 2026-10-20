@@ -16,7 +16,7 @@ capo_label: "(Composizione negoziata della crisi)"
 sezione: null
 sezione_label: null
 rubrica: "Imprese sotto soglia"
-dataVigenza: "20261016"
+dataVigenza: "20261020"
 ordine: 29
 ---
 
@@ -26,8 +26,9 @@ ordine: 29
 
 2\. L'istanza è presentata al segretario generale della camera di commercio nel cui ambito territoriale si trova la sede legale dell'impresa unitamente ai documenti di cui all'[articolo 17](art-17-dlgs14-19.md), comma 3, lettere a), c), d), e), f), g) e h), e nelle forme previste dall'[articolo 17](art-17-dlgs14-19.md), comma 1. La dichiarazione di cui all'[articolo 17](art-17-dlgs14-19.md), comma 3, lettera d), riguarda la pendenza di una procedura di liquidazione controllata e contiene l'attestazione di non avere depositato ricorso ai sensi dell'[articolo 74](../../04%20-%20Titolo%20IV%20-%20Strumenti%20di%20regolazione%20della%20crisi%20e%20dell%27insolvenza/03%20-%20Capo%20II%20-%20Procedure%20di%20composizione%20delle%20crisi%20da%20sovraindebitamento/03%20-%20Sezione%20III%20-%20Concordato%20minore/art-74-dlgs14-19.md) e, per le imprese agricole, anche ai sensi dell'[articolo 57](../../04%20-%20Titolo%20IV%20-%20Strumenti%20di%20regolazione%20della%20crisi%20e%20dell%27insolvenza/01%20-%20Capo%20I%20-%20Accordi/02%20-%20Sezione%20II%20-%20Accordi%20di%20ristrutturazione,%20convenzione%20di%20moratoria%20e%20accordi%20su/art-57-dlgs14-19.md). La nomina dell'esperto avviene ad opera del segretario generale al quale è presentata l'istanza.
 
-3\. Se all'esito delle trattative è individuata una soluzione idonea al superamento della situazione di cui al comma 1, le parti possono, alternativamente: a) concludere un contratto con uno o più creditori oppure con una o più parti interessate all'operazione di risanamento, idoneo ad assicurare la continuità aziendale;
+3\. Se all'esito delle trattative è individuata una soluzione idonea al superamento della situazione di cui al comma 1, le parti possono, alternativamente:
 
+- a) concludere un contratto con uno o più creditori oppure con una o più parti interessate all'operazione di risanamento, idoneo ad assicurare la continuità aziendale;
 - b) concludere un accordo avente il contenuto dell'[articolo 62](../../04%20-%20Titolo%20IV%20-%20Strumenti%20di%20regolazione%20della%20crisi%20e%20dell%27insolvenza/01%20-%20Capo%20I%20-%20Accordi/02%20-%20Sezione%20II%20-%20Accordi%20di%20ristrutturazione,%20convenzione%20di%20moratoria%20e%20accordi%20su/art-62-dlgs14-19.md);
 - c) concludere un accordo sottoscritto dall'imprenditore, dai creditori aderenti e dalle altre parti interessate all'operazione di risanamento che vi hanno aderito nonchè dall'esperto, idoneo a produrre gli effetti di cui all'[articolo 25-bis](art-25-bis-dlgs14-19.md), comma 5. Con la sottoscrizione dell'accordo l'esperto dà atto che il piano di risanamento appare coerente con la regolazione della crisi o dell'insolvenza.
 

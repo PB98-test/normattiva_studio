@@ -16,10 +16,14 @@ capo_label: null
 sezione: "II"
 sezione_label: "La formazione delle leggi"
 rubrica: null
-dataVigenza: "20261016"
+dataVigenza: "20261020"
 ordine: 74
 ---
 
 # Art. 74
 
-Il Presidente della Repubblica, prima di promulgare la legge, può con messaggio motivato alle Camere chiedere una nuova deliberazione. Se le Camere approvano nuovamente la legge, questa deve essere promulgata.
+Il Presidente della Repubblica, prima di promulgare la legge, può con messaggio motivato alle Camere chiedere una nuova deliberazione.
+{: data-comma="1" }
+
+Se le Camere approvano nuovamente la legge, questa deve essere promulgata.
+{: data-comma="2" }

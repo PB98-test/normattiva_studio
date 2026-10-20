@@ -16,10 +16,17 @@ capo_label: null
 sezione: "II"
 sezione_label: "La formazione delle leggi"
 rubrica: null
-dataVigenza: "20261016"
+dataVigenza: "20261020"
 ordine: 73
 ---
 
 # Art. 73
 
-Le leggi sono promulgate dal Presidente della Repubblica entro un mese dall'approvazione. Se le Camere, ciascuna a maggioranza assoluta dei propri componenti, ne dichiarano l'urgenza, la legge è promulgata nel termine da essa stabilito. Le leggi sono pubblicate subito dopo la promulgazione ed entrano in vigore il quindicesimo giorno successivo alla loro pubblicazione, salvo che le leggi stesse stabiliscano un termine diverso.
+Le leggi sono promulgate dal Presidente della Repubblica entro un mese dall'approvazione.
+{: data-comma="1" }
+
+Se le Camere, ciascuna a maggioranza assoluta dei propri componenti, ne dichiarano l'urgenza, la legge è promulgata nel termine da essa stabilito.
+{: data-comma="2" }
+
+Le leggi sono pubblicate subito dopo la promulgazione ed entrano in vigore il quindicesimo giorno successivo alla loro pubblicazione, salvo che le leggi stesse stabiliscano un termine diverso.
+{: data-comma="3" }

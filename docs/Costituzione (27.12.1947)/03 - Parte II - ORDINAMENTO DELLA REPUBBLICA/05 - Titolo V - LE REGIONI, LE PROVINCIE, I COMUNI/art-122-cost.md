@@ -16,10 +16,23 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: null
-dataVigenza: "20261016"
+dataVigenza: "20261020"
 ordine: 122
 ---
 
 # Art. 122
 
-Il sistema di elezione e i casi di ineleggibilità e di incompatibilità del Presidente e degli altri componenti della Giunta regionale nonchè dei consiglieri regionali sono disciplinati con legge della Regione nei limiti dei principi fondamentali stabiliti con legge della Repubblica, che stabilisce anche la durata degli organi elettivi. Nessuno può appartenere contemporaneamente a un Consiglio o a una Giunta regionale e ad una delle Camere del Parlamento, ad un altro Consiglio o ad altra Giunta regionale, ovvero al Parlamento europeo. Il Consiglio elegge tra i suoi componenti un Presidente e un ufficio di presidenza. I consiglieri regionali non possono essere chiamati a rispondere delle opinioni espresse e dei voti dati nell'esercizio delle loro funzioni. Il Presidente della Giunta regionale, salvo che lo statuto regionale disponga diversamente, è eletto a suffragio universale e diretto. Il Presidente eletto nomina e revoca i componenti della Giunta.
+Il sistema di elezione e i casi di ineleggibilità e di incompatibilità del Presidente e degli altri componenti della Giunta regionale nonchè dei consiglieri regionali sono disciplinati con legge della Regione nei limiti dei principi fondamentali stabiliti con legge della Repubblica, che stabilisce anche la durata degli organi elettivi.
+{: data-comma="1" }
+
+Nessuno può appartenere contemporaneamente a un Consiglio o a una Giunta regionale e ad una delle Camere del Parlamento, ad un altro Consiglio o ad altra Giunta regionale, ovvero al Parlamento europeo.
+{: data-comma="2" }
+
+Il Consiglio elegge tra i suoi componenti un Presidente e un ufficio di presidenza.
+{: data-comma="3" }
+
+I consiglieri regionali non possono essere chiamati a rispondere delle opinioni espresse e dei voti dati nell'esercizio delle loro funzioni.
+{: data-comma="4" }
+
+Il Presidente della Giunta regionale, salvo che lo statuto regionale disponga diversamente, è eletto a suffragio universale e diretto. Il Presidente eletto nomina e revoca i componenti della Giunta.
+{: data-comma="5" }

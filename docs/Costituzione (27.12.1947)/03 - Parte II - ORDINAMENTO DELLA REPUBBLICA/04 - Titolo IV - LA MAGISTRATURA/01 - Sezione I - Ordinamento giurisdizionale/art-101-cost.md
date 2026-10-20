@@ -16,10 +16,14 @@ capo_label: null
 sezione: "I"
 sezione_label: "Ordinamento giurisdizionale"
 rubrica: null
-dataVigenza: "20261016"
+dataVigenza: "20261020"
 ordine: 101
 ---
 
 # Art. 101
 
-La giustizia è amministrata in nome del popolo. I giudici sono soggetti soltanto alla legge.
+La giustizia è amministrata in nome del popolo.
+{: data-comma="1" }
+
+I giudici sono soggetti soltanto alla legge.
+{: data-comma="2" }

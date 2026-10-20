@@ -16,10 +16,14 @@ capo_label: null
 sezione: "I"
 sezione_label: "Le Camere"
 rubrica: null
-dataVigenza: "20261016"
+dataVigenza: "20261020"
 ordine: 55
 ---
 
 # Art. 55
 
-Il Parlamento si compone della Camera dei deputati e del Senato della Repubblica. Il Parlamento si riunisce in seduta comune dei membri delle due Camere nei soli casi stabiliti dalla Costituzione.
+Il Parlamento si compone della Camera dei deputati e del Senato della Repubblica.
+{: data-comma="1" }
+
+Il Parlamento si riunisce in seduta comune dei membri delle due Camere nei soli casi stabiliti dalla Costituzione.
+{: data-comma="2" }

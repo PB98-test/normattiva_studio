@@ -16,10 +16,17 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: null
-dataVigenza: "20261016"
+dataVigenza: "20261020"
 ordine: 114
 ---
 
 # Art. 114
 
-La Repubblica è costituita dai Comuni, dalle Province, dalle Città metropolitane, dalle Regioni e dallo Stato. I Comuni, le Province, le Città metropolitane e le Regioni sono enti autonomi con propri statuti, poteri e funzioni secondo i principi fissati dalla Costituzione. Roma è la capitale della Repubblica. La legge dello Stato disciplina il suo ordinamento.
+La Repubblica è costituita dai Comuni, dalle Province, dalle Città metropolitane, dalle Regioni e dallo Stato.
+{: data-comma="1" }
+
+I Comuni, le Province, le Città metropolitane e le Regioni sono enti autonomi con propri statuti, poteri e funzioni secondo i principi fissati dalla Costituzione.
+{: data-comma="2" }
+
+Roma è la capitale della Repubblica. La legge dello Stato disciplina il suo ordinamento.
+{: data-comma="3" }

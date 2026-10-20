@@ -16,10 +16,17 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: null
-dataVigenza: "20261016"
+dataVigenza: "20261020"
 ordine: 84
 ---
 
 # Art. 84
 
-Può essere eletto Presidente della Repubblica ogni cittadino che abbia compiuto cinquanta anni d'età e goda dei diritti civili e politici. L'ufficio di Presidente della Repubblica è incompatibile con qualsiasi altra carica. L'assegno e la dotazione del Presidente sono determinati per legge.
+Può essere eletto Presidente della Repubblica ogni cittadino che abbia compiuto cinquanta anni d'età e goda dei diritti civili e politici.
+{: data-comma="1" }
+
+L'ufficio di Presidente della Repubblica è incompatibile con qualsiasi altra carica.
+{: data-comma="2" }
+
+L'assegno e la dotazione del Presidente sono determinati per legge.
+{: data-comma="3" }

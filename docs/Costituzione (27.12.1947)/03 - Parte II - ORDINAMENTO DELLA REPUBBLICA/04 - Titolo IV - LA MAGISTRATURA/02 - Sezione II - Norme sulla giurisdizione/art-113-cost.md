@@ -16,10 +16,17 @@ capo_label: null
 sezione: "II"
 sezione_label: "Norme sulla giurisdizione"
 rubrica: null
-dataVigenza: "20261016"
+dataVigenza: "20261020"
 ordine: 113
 ---
 
 # Art. 113
 
-Contro gli atti della pubblica amministrazione è sempre ammessa la tutela giurisdizionale dei diritti e degli interessi legittimi dinanzi agli organi di giurisdizione ordinaria o amministrativa. Tale tutela giurisdizionale non può essere esclusa o limitata a particolari mezzi di impugnazione o per determinate categorie di atti. La legge determina quali organi di giurisdizione possono annullare gli atti della pubblica amministrazione nei casi e con gli effetti previsti dalla legge stessa.
+Contro gli atti della pubblica amministrazione è sempre ammessa la tutela giurisdizionale dei diritti e degli interessi legittimi dinanzi agli organi di giurisdizione ordinaria o amministrativa.
+{: data-comma="1" }
+
+Tale tutela giurisdizionale non può essere esclusa o limitata a particolari mezzi di impugnazione o per determinate categorie di atti.
+{: data-comma="2" }
+
+La legge determina quali organi di giurisdizione possono annullare gli atti della pubblica amministrazione nei casi e con gli effetti previsti dalla legge stessa.
+{: data-comma="3" }

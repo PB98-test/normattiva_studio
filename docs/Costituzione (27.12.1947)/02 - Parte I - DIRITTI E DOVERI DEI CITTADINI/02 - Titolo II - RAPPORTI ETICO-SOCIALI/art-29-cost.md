@@ -16,10 +16,14 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: null
-dataVigenza: "20261016"
+dataVigenza: "20261020"
 ordine: 29
 ---
 
 # Art. 29
 
-La Repubblica riconosce i diritti della famiglia come società naturale fondata sul matrimonio. Il matrimonio è ordinato sull'eguaglianza morale e giuridica dei coniugi, con i limiti stabiliti dalla legge a garanzia dell'unità familiare.
+La Repubblica riconosce i diritti della famiglia come società naturale fondata sul matrimonio.
+{: data-comma="1" }
+
+Il matrimonio è ordinato sull'eguaglianza morale e giuridica dei coniugi, con i limiti stabiliti dalla legge a garanzia dell'unità familiare.
+{: data-comma="2" }

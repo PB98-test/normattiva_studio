@@ -16,10 +16,14 @@ capo_label: null
 sezione: "I"
 sezione_label: "Le Camere"
 rubrica: null
-dataVigenza: "20261016"
+dataVigenza: "20261020"
 ordine: 61
 ---
 
 # Art. 61
 
-Le elezioni delle nuove Camere hanno luogo entro settanta giorni dalla fine delle precedenti. La prima riunione ha luogo non oltre il ventesimo giorno dalle elezioni. Finchè non siano riunite le nuove Camere sono prorogati i poteri delle precedenti.
+Le elezioni delle nuove Camere hanno luogo entro settanta giorni dalla fine delle precedenti. La prima riunione ha luogo non oltre il ventesimo giorno dalle elezioni.
+{: data-comma="1" }
+
+Finchè non siano riunite le nuove Camere sono prorogati i poteri delle precedenti.
+{: data-comma="2" }

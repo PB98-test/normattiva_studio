@@ -16,10 +16,20 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: null
-dataVigenza: "20261016"
+dataVigenza: "20261020"
 ordine: 27
 ---
 
 # Art. 27
 
-La responsabilità penale è personale. L'imputato non è considerato colpevole sino alla condanna definitiva. Le pene non possono consistere in trattamenti contrari al senso di umanità e devono tendere alla rieducazione del condannato. Non è ammessa la pena di morte . . ..
+La responsabilità penale è personale.
+{: data-comma="1" }
+
+L'imputato non è considerato colpevole sino alla condanna definitiva.
+{: data-comma="2" }
+
+Le pene non possono consistere in trattamenti contrari al senso di umanità e devono tendere alla rieducazione del condannato.
+{: data-comma="3" }
+
+Non è ammessa la pena di morte . . ..
+{: data-comma="4" }

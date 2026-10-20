@@ -16,10 +16,17 @@ capo_label: null
 sezione: "I"
 sezione_label: "Ordinamento giurisdizionale"
 rubrica: null
-dataVigenza: "20261016"
+dataVigenza: "20261020"
 ordine: 106
 ---
 
 # Art. 106
 
-Le nomine dei magistrati hanno luogo per concorso. La legge sull'ordinamento giudiziario può ammettere la nomina, anche elettiva, di magistrati onorari per tutte le funzioni attribuite a giudici singoli. Su designazione del Consiglio superiore della magistratura possono essere chiamati all'ufficio di consiglieri di cassazione, per meriti insigni, professori ordinari di università in materie giuridiche e avvocati che abbiano quindici anni d'esercizio e siano iscritti negli albi speciali per le giurisdizioni superiori.
+Le nomine dei magistrati hanno luogo per concorso.
+{: data-comma="1" }
+
+La legge sull'ordinamento giudiziario può ammettere la nomina, anche elettiva, di magistrati onorari per tutte le funzioni attribuite a giudici singoli.
+{: data-comma="2" }
+
+Su designazione del Consiglio superiore della magistratura possono essere chiamati all'ufficio di consiglieri di cassazione, per meriti insigni, professori ordinari di università in materie giuridiche e avvocati che abbiano quindici anni d'esercizio e siano iscritti negli albi speciali per le giurisdizioni superiori.
+{: data-comma="3" }

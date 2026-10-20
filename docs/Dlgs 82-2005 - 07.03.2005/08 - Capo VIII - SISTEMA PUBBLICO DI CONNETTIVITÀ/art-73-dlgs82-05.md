@@ -14,7 +14,7 @@ capo_label: "SISTEMA PUBBLICO DI CONNETTIVITÀ"
 sezione: null
 sezione_label: null
 rubrica: "Sistema pubblico di connettività (SPC)"
-dataVigenza: "20261016"
+dataVigenza: "20261020"
 ordine: 103
 ---
 
@@ -24,9 +24,11 @@ ordine: 103
 
 2\. Il SPC garantisce la sicurezza e la riservatezza delle informazioni, nonchè la salvaguardia e l'autonomia del patrimonio informativo di ciascun soggetto aderente.
 
-3\. La realizzazione del SPC avviene nel rispetto dei seguenti principi: a) sviluppo architetturale e organizzativo atto a garantire la federabilità dei sistemi;
+3\. La realizzazione del SPC avviene nel rispetto dei seguenti principi:
 
-- b) economicità nell'utilizzo dei servizi di rete, di interoperabilità e di supporto alla cooperazione applicativa; b-bis) aggiornamento continuo del sistema e aderenza alle migliori pratiche internazionali;
+- a) sviluppo architetturale e organizzativo atto a garantire la federabilità dei sistemi;
+- b) economicità nell'utilizzo dei servizi di rete, di interoperabilità e di supporto alla cooperazione applicativa;
+- b-bis) aggiornamento continuo del sistema e aderenza alle migliori pratiche internazionali;
 - c) sviluppo del mercato e della concorrenza nel settore delle tecnologie dell'informazione e della comunicazione. [^agg-1]
 
 3-bis. COMMA ABROGATO DAL D.LGS. 26 AGOSTO 2016, N. 179.

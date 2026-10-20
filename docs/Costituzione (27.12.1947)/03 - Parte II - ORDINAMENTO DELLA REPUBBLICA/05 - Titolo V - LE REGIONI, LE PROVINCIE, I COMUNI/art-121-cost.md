@@ -16,10 +16,20 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: null
-dataVigenza: "20261016"
+dataVigenza: "20261020"
 ordine: 121
 ---
 
 # Art. 121
 
-Sono organi della Regione: il Consiglio regionale, la Giunta e il suo presidente. Il Consiglio regionale esercita le potestà legislative . . . attribuite alla Regione e le altre funzioni conferitegli dalla Costituzione e dalle leggi. Può fare proposte di legge alle Camere. La Giunta regionale è l'organo esecutivo delle Regioni. Il Presidente della Giunta rappresenta la Regione; dirige la politica della Giunta e ne è responsabile; promulga le leggi ed emana i regolamenti regionali; dirige le funzioni amministrative delegate dallo Stato alla Regione, conformandosi alle istruzioni del Governo della Repubblica.
+Sono organi della Regione: il Consiglio regionale, la Giunta e il suo presidente.
+{: data-comma="1" }
+
+Il Consiglio regionale esercita le potestà legislative . . . attribuite alla Regione e le altre funzioni conferitegli dalla Costituzione e dalle leggi. Può fare proposte di legge alle Camere.
+{: data-comma="2" }
+
+La Giunta regionale è l'organo esecutivo delle Regioni.
+{: data-comma="3" }
+
+Il Presidente della Giunta rappresenta la Regione; dirige la politica della Giunta e ne è responsabile; promulga le leggi ed emana i regolamenti regionali; dirige le funzioni amministrative delegate dallo Stato alla Regione, conformandosi alle istruzioni del Governo della Repubblica.
+{: data-comma="4" }

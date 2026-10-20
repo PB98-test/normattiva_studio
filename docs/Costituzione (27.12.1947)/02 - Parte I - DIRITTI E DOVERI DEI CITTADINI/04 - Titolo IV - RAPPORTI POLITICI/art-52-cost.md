@@ -16,10 +16,17 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: null
-dataVigenza: "20261016"
+dataVigenza: "20261020"
 ordine: 52
 ---
 
 # Art. 52
 
-La difesa della Patria è sacro dovere del cittadino. Il servizio militare è obbligatorio nei limiti e modi stabiliti dalla legge. Il suo adempimento non pregiudica la posizione di lavoro del cittadino, nè l'esercizio dei diritti politici. L'ordinamento delle Forze armate si informa allo spirito democratico della Repubblica.
+La difesa della Patria è sacro dovere del cittadino.
+{: data-comma="1" }
+
+Il servizio militare è obbligatorio nei limiti e modi stabiliti dalla legge. Il suo adempimento non pregiudica la posizione di lavoro del cittadino, nè l'esercizio dei diritti politici.
+{: data-comma="2" }
+
+L'ordinamento delle Forze armate si informa allo spirito democratico della Repubblica.
+{: data-comma="3" }

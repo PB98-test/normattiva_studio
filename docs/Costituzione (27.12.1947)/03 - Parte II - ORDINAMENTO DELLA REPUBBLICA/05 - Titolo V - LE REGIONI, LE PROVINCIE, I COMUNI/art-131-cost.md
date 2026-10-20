@@ -16,10 +16,41 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: null
-dataVigenza: "20261016"
+dataVigenza: "20261020"
 ordine: 131
 ---
 
 # Art. 131
 
-Sono costituite le seguenti Regioni: Piemonte; Marche; Valle d'Aosta; Lazio; Lombardia; Abruzzi; Trentino-Alto Adige; Molise; Veneto; Campania; Friuli-Venezia Giulia; Puglia; Liguria; Basilicata; Emilia-Romagna; Calabria; Toscana; Sicilia; Umbria; Sardegna.
+Sono costituite le seguenti Regioni:
+{: data-comma="1" }
+
+Piemonte; Marche;
+{: data-comma="2" }
+
+Valle d'Aosta; Lazio;
+{: data-comma="3" }
+
+Lombardia; Abruzzi;
+{: data-comma="4" }
+
+Trentino-Alto Adige; Molise;
+{: data-comma="5" }
+
+Veneto; Campania;
+{: data-comma="6" }
+
+Friuli-Venezia Giulia; Puglia;
+{: data-comma="7" }
+
+Liguria; Basilicata;
+{: data-comma="8" }
+
+Emilia-Romagna; Calabria;
+{: data-comma="9" }
+
+Toscana; Sicilia;
+{: data-comma="10" }
+
+Umbria; Sardegna.
+{: data-comma="11" }

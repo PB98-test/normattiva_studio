@@ -16,10 +16,14 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: null
-dataVigenza: "20261016"
+dataVigenza: "20261020"
 ordine: 16
 ---
 
 # Art. 16
 
-Ogni cittadino può circolare e soggiornare liberamente in qualsiasi parte del territorio nazionale, salvo le limitazioni che la legge stabilisce in via generale per motivi di sanità o di sicurezza. Nessuna restrizione può essere determinata da ragioni politiche. Ogni cittadino è libero di uscire dal territorio della Repubblica e di rientrarvi, salvo gli obblighi di legge.
+Ogni cittadino può circolare e soggiornare liberamente in qualsiasi parte del territorio nazionale, salvo le limitazioni che la legge stabilisce in via generale per motivi di sanità o di sicurezza. Nessuna restrizione può essere determinata da ragioni politiche.
+{: data-comma="1" }
+
+Ogni cittadino è libero di uscire dal territorio della Repubblica e di rientrarvi, salvo gli obblighi di legge.
+{: data-comma="2" }

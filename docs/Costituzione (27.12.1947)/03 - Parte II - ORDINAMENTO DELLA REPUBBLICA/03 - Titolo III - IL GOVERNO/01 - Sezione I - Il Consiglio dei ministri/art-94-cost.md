@@ -16,10 +16,23 @@ capo_label: null
 sezione: "I"
 sezione_label: "Il Consiglio dei ministri"
 rubrica: null
-dataVigenza: "20261016"
+dataVigenza: "20261020"
 ordine: 94
 ---
 
 # Art. 94
 
-Il Governo deve avere la fiducia delle due Camere. Ciascuna Camera accorda o revoca la fiducia mediante mozione motivata e votata per appello nominale. Entro dieci giorni dalla sua formazione il Governo si presenta alle Camere per ottenerne la fiducia. Il voto contrario di una o d'entrambe le Camere su una proposta del Governo non importa obbligo di dimissioni. La mozione di sfiducia deve essere firmata da almeno un decimo dei componenti della Camera e non può essere messa in discussione prima di tre giorni dalla sua presentazione.
+Il Governo deve avere la fiducia delle due Camere.
+{: data-comma="1" }
+
+Ciascuna Camera accorda o revoca la fiducia mediante mozione motivata e votata per appello nominale.
+{: data-comma="2" }
+
+Entro dieci giorni dalla sua formazione il Governo si presenta alle Camere per ottenerne la fiducia.
+{: data-comma="3" }
+
+Il voto contrario di una o d'entrambe le Camere su una proposta del Governo non importa obbligo di dimissioni.
+{: data-comma="4" }
+
+La mozione di sfiducia deve essere firmata da almeno un decimo dei componenti della Camera e non può essere messa in discussione prima di tre giorni dalla sua presentazione.
+{: data-comma="5" }

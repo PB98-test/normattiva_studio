@@ -16,10 +16,17 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: null
-dataVigenza: "20261016"
+dataVigenza: "20261020"
 ordine: 8
 ---
 
 # Art. 8
 
-Tutte le confessioni religiose sono egualmente libere davanti alla legge. Le confessioni religiose diverse dalla cattolica hanno diritto di organizzarsi secondo i propri statuti, in quanto non contrastino con l'ordinamento giuridico italiano. I loro rapporti con lo Stato sono regolati per legge sulla base di intese con le relative rappresentanze.
+Tutte le confessioni religiose sono egualmente libere davanti alla legge.
+{: data-comma="1" }
+
+Le confessioni religiose diverse dalla cattolica hanno diritto di organizzarsi secondo i propri statuti, in quanto non contrastino con l'ordinamento giuridico italiano.
+{: data-comma="2" }
+
+I loro rapporti con lo Stato sono regolati per legge sulla base di intese con le relative rappresentanze.
+{: data-comma="3" }

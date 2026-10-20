@@ -16,10 +16,14 @@ capo_label: null
 sezione: "I"
 sezione_label: "Le Camere"
 rubrica: null
-dataVigenza: "20261016"
+dataVigenza: "20261020"
 ordine: 65
 ---
 
 # Art. 65
 
-La legge determina i casi di ineleggibilità e di incompatibilità con l'ufficio di deputato o di senatore. Nessuno può appartenere contemporaneamente alle due Camere.
+La legge determina i casi di ineleggibilità e di incompatibilità con l'ufficio di deputato o di senatore.
+{: data-comma="1" }
+
+Nessuno può appartenere contemporaneamente alle due Camere.
+{: data-comma="2" }

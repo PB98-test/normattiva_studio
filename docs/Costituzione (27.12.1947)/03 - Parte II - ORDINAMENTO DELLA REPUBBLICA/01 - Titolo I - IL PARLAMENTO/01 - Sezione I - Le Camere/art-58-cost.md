@@ -16,10 +16,14 @@ capo_label: null
 sezione: "I"
 sezione_label: "Le Camere"
 rubrica: null
-dataVigenza: "20261016"
+dataVigenza: "20261020"
 ordine: 58
 ---
 
 # Art. 58
 
-I senatori sono eletti a suffragio universale e diretto .... Sono eleggibili a senatori gli elettori che hanno compiuto il quarantesimo anno.
+I senatori sono eletti a suffragio universale e diretto ....
+{: data-comma="1" }
+
+Sono eleggibili a senatori gli elettori che hanno compiuto il quarantesimo anno.
+{: data-comma="2" }

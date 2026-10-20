@@ -14,7 +14,7 @@ capo_label: "TRASMISSIONE DI ATTI E DOCUMENTI INFORMATICI"
 sezione: null
 sezione_label: null
 rubrica: "Trasmissione dei documenti da parte dei soggetti abilitati esterni nel procedimento civile"
-dataVigenza: "20261016"
+dataVigenza: "20261020"
 ordine: 14
 ---
 
@@ -24,6 +24,18 @@ ordine: 14
 
 2\. I documenti informatici di cui al comma 1 si intendono ricevuti dal dominio giustizia nel momento in cui viene generata la conferma della trasmissione, secondo le specifiche tecniche stabilite dall'[articolo 34](../06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20FINALI%20E%20TRANSITORIE/art-34-decre44-11.md),. [^agg-3]
 
-3\. Nel caso previsto dal comma 2 la conferma attesta ... l'avvenuto deposito dell'atto o del documento presso l'ufficio giudiziario competente. PERIODO SOPPRESSO DAL DECRETO 29 DICEMBRE 2023, N. 217. 4.Nei procedimenti civili di volontaria giurisdizione si osservano le apposite specifiche tecniche previste dall'articolo 36, comma 1, del decreto-legge 24 febbraio 2023, n. 13, convertito con modificazioni dalla legge 21 aprile 2023, n. 41. 5. La certificazione ... dei soggetti abilitati esterni ... è effettuata dal gestore dei servizi telematici sulla base dei dati presenti nel registro generale degli indirizzi elettronici, secondo le specifiche tecniche stabilite ai sensi dell'[articolo 34](../06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20FINALI%20E%20TRANSITORIE/art-34-decre44-11.md). 6. Al fine di garantire la riservatezza dei documenti da trasmettere, il soggetto abilitato esterno utilizza un meccanismo di crittografia, secondo le specifiche tecniche stabilite ai sensi dell'[articolo 34](../06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20FINALI%20E%20TRANSITORIE/art-34-decre44-11.md). 7. Il gestore dei servizi telematici restituisce al mittente l'esito dei controlli effettuati dal dominio giustizia ..., secondo le specifiche tecniche stabilite ai sensi dell'[articolo 34](../06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20FINALI%20E%20TRANSITORIE/art-34-decre44-11.md). 8. La dimensione massima del messaggio è stabilita nelle specifiche tecniche di cui all'[articolo 34](../06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20FINALI%20E%20TRANSITORIE/art-34-decre44-11.md). Se il messaggio eccede tale dimensione, il gestore dei servizi telematici genera e invia automaticamente al mittente un messaggio di errore, contenente l'avviso del rifiuto del messaggio, secondo le specifiche tecniche stabilite ai sensi dell'[articolo 34](../06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20FINALI%20E%20TRANSITORIE/art-34-decre44-11.md). 9. I soggetti abilitati esterni possono avvalersi dei servizi del punto di accesso, di cui all'[articolo 23](../04%20-%20Capo%20IV%20-%20CONSULTAZIONE%20DELLE%20INFORMAZIONI%20DEL%20DOMINIO%20GIUSTIZIA/art-23-decre44-11.md), per la trasmissione dei documenti; in tale caso il punto di accesso si attiene alle modalità di trasmissione dei documenti di cui al presente articolo.
+3\. Nel caso previsto dal comma 2 la conferma attesta ... l'avvenuto deposito dell'atto o del documento presso l'ufficio giudiziario competente. PERIODO SOPPRESSO DAL DECRETO 29 DICEMBRE 2023, N. 217.
+
+4\. Nei procedimenti civili di volontaria giurisdizione si osservano le apposite specifiche tecniche previste dall'articolo 36, comma 1, del decreto-legge 24 febbraio 2023, n. 13, convertito con modificazioni dalla legge 21 aprile 2023, n. 41.
+
+5\. La certificazione ... dei soggetti abilitati esterni ... è effettuata dal gestore dei servizi telematici sulla base dei dati presenti nel registro generale degli indirizzi elettronici, secondo le specifiche tecniche stabilite ai sensi dell'[articolo 34](../06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20FINALI%20E%20TRANSITORIE/art-34-decre44-11.md).
+
+6\. Al fine di garantire la riservatezza dei documenti da trasmettere, il soggetto abilitato esterno utilizza un meccanismo di crittografia, secondo le specifiche tecniche stabilite ai sensi dell'[articolo 34](../06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20FINALI%20E%20TRANSITORIE/art-34-decre44-11.md).
+
+7\. Il gestore dei servizi telematici restituisce al mittente l'esito dei controlli effettuati dal dominio giustizia ..., secondo le specifiche tecniche stabilite ai sensi dell'[articolo 34](../06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20FINALI%20E%20TRANSITORIE/art-34-decre44-11.md).
+
+8\. La dimensione massima del messaggio è stabilita nelle specifiche tecniche di cui all'[articolo 34](../06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20FINALI%20E%20TRANSITORIE/art-34-decre44-11.md). Se il messaggio eccede tale dimensione, il gestore dei servizi telematici genera e invia automaticamente al mittente un messaggio di errore, contenente l'avviso del rifiuto del messaggio, secondo le specifiche tecniche stabilite ai sensi dell'[articolo 34](../06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20FINALI%20E%20TRANSITORIE/art-34-decre44-11.md).
+
+9\. I soggetti abilitati esterni possono avvalersi dei servizi del punto di accesso, di cui all'[articolo 23](../04%20-%20Capo%20IV%20-%20CONSULTAZIONE%20DELLE%20INFORMAZIONI%20DEL%20DOMINIO%20GIUSTIZIA/art-23-decre44-11.md), per la trasmissione dei documenti; in tale caso il punto di accesso si attiene alle modalità di trasmissione dei documenti di cui al presente articolo.
 
 [^agg-3]: *AGGIORNAMENTO (3)* Il Decreto 29 dicembre 2023, n. 217 ha disposto (con l'art. 2, comma 1, lettera g)) che al comma 2 del presente articolo "dopo le parole «della giustizia» sono aggiunte le seguenti: «, senza l'intervento degli operatori della cancelleria, salvo il caso di anomalie bloccanti»".

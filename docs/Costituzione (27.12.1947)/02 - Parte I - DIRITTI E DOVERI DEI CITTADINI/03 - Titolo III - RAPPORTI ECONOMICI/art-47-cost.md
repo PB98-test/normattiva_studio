@@ -16,10 +16,14 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: null
-dataVigenza: "20261016"
+dataVigenza: "20261020"
 ordine: 47
 ---
 
 # Art. 47
 
-La Repubblica incoraggia e tutela il risparmio in tutte le sue forme; disciplina, coordina e controlla l'esercizio del credito. Favorisce l'accesso del risparmio popolare alla proprietà dell'abitazione, alla proprietà diretta coltivatrice e al diretto e indiretto investimento azionario nei grandi complessi produttivi del Paese.
+La Repubblica incoraggia e tutela il risparmio in tutte le sue forme; disciplina, coordina e controlla l'esercizio del credito.
+{: data-comma="1" }
+
+Favorisce l'accesso del risparmio popolare alla proprietà dell'abitazione, alla proprietà diretta coltivatrice e al diretto e indiretto investimento azionario nei grandi complessi produttivi del Paese.
+{: data-comma="2" }
