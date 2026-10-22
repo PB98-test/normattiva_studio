@@ -14,7 +14,7 @@ capo_label: "Società per azioni"
 sezione: "IX"
 sezione_label: "Del bilancio"
 rubrica: "Bilancio delle micro-imprese"
-dataVigenza: "20261016"
+dataVigenza: "20261022"
 ordine: 2634
 ---
 
@@ -32,8 +32,7 @@ Fatte salve le norme del presente articolo, gli schemi di bilancio e i criteri d
 
 - 1) del rendiconto finanziario;
 - 2) della nota integrativa quando in calce allo stato patrimoniale risultino le informazioni previste dal primo comma dell'[articolo 2427](art-2427-cc.md), numeri 9) e 16);
-- 3) della relazione sulla gestione: quando in calce allo stato patrimoniale risultino le informazioni richieste dai numeri 3) e
-- 4) dell'[articolo 2428](art-2428-cc.md).
+- 3) della relazione sulla gestione: quando in calce allo stato patrimoniale risultino le informazioni richieste dai numeri 3) e 4) dell'[articolo 2428](art-2428-cc.md).
 
 Non sono applicabili le disposizioni di cui al quinto comma dell'[articolo 2423](art-2423-cc.md) e al numero 11-bis del primo comma dell'[articolo 2426](art-2426-cc.md).
 {: data-comma="3" }

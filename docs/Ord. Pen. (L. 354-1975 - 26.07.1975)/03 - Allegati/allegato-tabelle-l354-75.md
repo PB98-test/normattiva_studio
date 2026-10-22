@@ -12,7 +12,7 @@ capo: null
 capo_label: null
 sezione: null
 sezione_label: null
-dataVigenza: "20261016"
+dataVigenza: "20261022"
 ordine: 138
 ---
 
@@ -168,6 +168,4 @@ Tabella A ((
 
 )) TABELLA B RUOLO ORGANICO DELLA CARRIERA DIRETTIVA DEGLI ASSISTENTI SOCIALI Parte di provvedimento in formato grafico TABELLA C RUOLO DEGLI EDUCATORI PER ADULTI DELLA CARRIERA DI CONCETTO Parte di provvedimento in formato grafico TABELLA D RUOLO DEGLI ASSISTENTI SOCIALI PER ADULTI DELLA CARRIERA DI CONCETTO Parte di provvedimento in formato grafico
 
-<small>*AGGIORNAMENTO (93)*</small>
-
-Il D.Lgs. 7 settembre 2012, n. 155 ha disposto (con l'art. 11, comma 2) che "Salvo quanto previsto al comma 3, le disposizioni di cui agli articoli 1, 2, 3, 4, 5 e 7 acquistano efficacia decorsi dodici mesi dalla data di entrata in vigore del presente decreto".
+[^agg-93]: *AGGIORNAMENTO (93)* Il D.Lgs. 7 settembre 2012, n. 155 ha disposto (con l'art. 11, comma 2) che "Salvo quanto previsto al comma 3, le disposizioni di cui agli articoli 1, 2, 3, 4, 5 e 7 acquistano efficacia decorsi dodici mesi dalla data di entrata in vigore del presente decreto".

@@ -97,7 +97,7 @@ aliases:
 - [Art. 65](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-65-dlgs271-89.md) — *(abrogato)*
 
 #### Capo VI - DISPOSIZIONI RELATIVE ALLE PROVE
-- [Art. 66](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-66-dlgs271-89.md)
+- [Art. 66](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-66-dlgs271-89.md) — Procedimento di esclusione del segreto
 - [Art. 67](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-67-dlgs271-89.md) — Albo dei periti presso il tribunale
 - [Art. 67-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-67-bis-dlgs271-89.md) — Elenco nazionale degli interpreti e traduttori
 - [Art. 68](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-68-dlgs271-89.md) — Formazione e revisione dell'albo dei periti
@@ -213,7 +213,7 @@ aliases:
 - [Art. 141-ter](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/11%20-%20Capo%20X-bis%20-%20DISPOSIZIONI%20IN%20MATERIA%20DI%20MESSA%20ALLA%20PROVA/art-141-ter-dlgs271-89.md) — Attività dei servizi sociali nei confronti degli adulti ammessi alla prova
 
 #### Capo XI - DISPOSIZIONI RELATIVE AL DIBATTIMENTO
-- [Art. 142](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/12%20-%20Capo%20XI%20-%20DISPOSIZIONI%20RELATIVE%20AL%20DIBATTIMENTO/art-142-dlgs271-89.md)
+- [Art. 142](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/12%20-%20Capo%20XI%20-%20DISPOSIZIONI%20RELATIVE%20AL%20DIBATTIMENTO/art-142-dlgs271-89.md) — Citazione di testimoni, periti, interpreti, consulenti tecnici e imputati di un procedimento connesso
 - [Art. 143](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/12%20-%20Capo%20XI%20-%20DISPOSIZIONI%20RELATIVE%20AL%20DIBATTIMENTO/art-143-dlgs271-89.md) — Rinnovazione della citazione a giudizio
 - [Art. 143-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/12%20-%20Capo%20XI%20-%20DISPOSIZIONI%20RELATIVE%20AL%20DIBATTIMENTO/art-143-bis-dlgs271-89.md) — Adempimenti in caso di sentenza di non doversi procedere per mancata conoscenza della pendenza del processo da parte dell'imputato
 - [Art. 144](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/12%20-%20Capo%20XI%20-%20DISPOSIZIONI%20RELATIVE%20AL%20DIBATTIMENTO/art-144-dlgs271-89.md) — *(abrogato)*

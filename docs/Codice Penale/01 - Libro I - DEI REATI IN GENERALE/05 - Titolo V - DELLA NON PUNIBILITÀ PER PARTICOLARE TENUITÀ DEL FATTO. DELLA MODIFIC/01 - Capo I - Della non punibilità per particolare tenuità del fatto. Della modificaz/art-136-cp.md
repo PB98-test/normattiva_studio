@@ -14,7 +14,7 @@ capo_label: "Della non punibilità per particolare tenuità del fatto. Della mod
 sezione: null
 sezione_label: null
 rubrica: "Conversione delle pene pecuniarie non eseguite"
-dataVigenza: "20261016"
+dataVigenza: "20261022"
 ordine: 151
 ---
 
@@ -22,8 +22,6 @@ ordine: 151
 
 Le pene principali della multa e dell'ammenda, non eseguite entro il termine di cui all'[articolo 660](../../../../Codice%20di%20Procedura%20Penale/02%20-%20Parte%20II/06%20-%20Libro%20X%20-%20ESECUZIONE/02%20-%20Titolo%20II%20-%20ESECUZIONE%20DEI%20PROVVEDIMENTI%20GIURISDIZIONALI/art-660-cpp.md) del codice di procedura penale indicato nell'ordine di esecuzione, si convertono a norma degli [articoli 102](../../../../L%20689-1981%20-%2024.11.1981/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20IN%20MATERIA%20DI%20PENE%20PECUNIARIE/art-102-l689-81.md) e [103](../../../../L%20689-1981%20-%2024.11.1981/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20IN%20MATERIA%20DI%20PENE%20PECUNIARIE/art-103-l689-81.md) della legge 24 novembre 1981, n. 689. La pena pecuniaria sostitutiva della reclusione o dell'arresto, non eseguita entro lo stesso termine, si converte a norma dell'[articolo 71](../../../../L%20689-1981%20-%2024.11.1981/03%20-%20Capo%20III%20-%20PENE%20SOSTITUTIVE%20DELLE%20PENE%20DETENTIVE%20BREVI/01%20-%20Sezione%20I%20-%20APPLICAZIONE%20DELLE%20SANZIONI%20SOSTITUTIVE/art-71-l689-81.md) della legge 24 novembre 1981, n. 689..
 
-----------------
-
-<small>*AGGIORNAMENTO (55)*   La Corte Costituzionale con sentenza 18-30 giugno 1971, n. 149 (in G.U. 1ª s.s. 07/07/1971, n. 170) ha dichiarato "l'illegittimità costituzionale dell'[art. 136, primo comma, del codice penale](art-136-cp.md), nella parte in cui ammette, per i reati commessi dal fallito in epoca anteriore alla dichiarazione di fallimento, la conversione della pena pecuniaria in pena detentiva, prima della chiusura della procedura  fallimentare".</small>
+[^agg-55]: *AGGIORNAMENTO (55)* La Corte Costituzionale con sentenza 18-30 giugno 1971, n. 149 (in G.U. 1ª s.s. 07/07/1971, n. 170) ha dichiarato "l'illegittimità costituzionale dell'[art. 136, primo comma, del codice penale](art-136-cp.md), nella parte in cui ammette, per i reati commessi dal fallito in epoca anteriore alla dichiarazione di fallimento, la conversione della pena pecuniaria in pena detentiva, prima della chiusura della procedura  fallimentare".
 
 [^agg-84]: *AGGIORNAMENTO (84)* La Corte Costituzionale con sentenza 16-21 novembre 1979, n. 131 (in G.U. 1ª s.s. 28/11/1979, n. 325) ha dichiarato "l'illegittimità costituzionale dell'[art. 136 del codice penale](art-136-cp.md)".

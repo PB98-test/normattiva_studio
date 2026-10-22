@@ -14,7 +14,7 @@ capo_label: "DATI DELLE PUBBLICHE AMMINISTRAZIONI , IDENTITÀ DIGITALI, ISTANZE 
 sezione: "I"
 sezione_label: "Dati delle pubbliche amministrazioni"
 rubrica: "Accesso telematico e riutilizzo dei dati ..."
-dataVigenza: "20261016"
+dataVigenza: "20261022"
 ordine: 73
 ---
 
@@ -22,10 +22,7 @@ ordine: 73
 
 1\. COMMA ABROGATO DAL D.LGS. 26 AGOSTO 2016, N. 179.
 
-2\. I dati e i documenti che i soggetti di cui all'[articolo 2](../../01%20-%20Capo%20I%20-%20PRINCIPI%20GENERALI/01%20-%20Sezione%20I%20-%20Definizioni,%20finalità%20e%20ambito%20di%20applicazione/art-2-dlgs82-05.md), comma 2, pubblicano, con qualsiasi modalità, senza l'espressa adozione di una licenza di cui all'articolo 2, comma 1, lettera
-
-- h), del decreto legislativo 24 gennaio 2006, n. 36, si intendono rilasciati come dati di tipo aperto ai sensi all'[articolo 1](../../01%20-%20Capo%20I%20-%20PRINCIPI%20GENERALI/01%20-%20Sezione%20I%20-%20Definizioni,%20finalità%20e%20ambito%20di%20applicazione/art-1-dlgs82-05.md), comma 1, lettere l-bis) e
-- l-ter), del presente Codice, ad eccezione dei casi in cui la pubblicazione riguardi dati personali del presente Codice. PERIODO SOPPRESSO DAL D.LGS. 13 DICEMBRE 2017, N. 217.
+2\. I dati e i documenti che i soggetti di cui all'[articolo 2](../../01%20-%20Capo%20I%20-%20PRINCIPI%20GENERALI/01%20-%20Sezione%20I%20-%20Definizioni,%20finalità%20e%20ambito%20di%20applicazione/art-2-dlgs82-05.md), comma 2, pubblicano, con qualsiasi modalità, senza l'espressa adozione di una licenza di cui all'articolo 2, comma 1, lettera h), del decreto legislativo 24 gennaio 2006, n. 36, si intendono rilasciati come dati di tipo aperto ai sensi all'[articolo 1](../../01%20-%20Capo%20I%20-%20PRINCIPI%20GENERALI/01%20-%20Sezione%20I%20-%20Definizioni,%20finalità%20e%20ambito%20di%20applicazione/art-1-dlgs82-05.md), comma 1, lettere l-bis) e l-ter), del presente Codice, ad eccezione dei casi in cui la pubblicazione riguardi dati personali del presente Codice. PERIODO SOPPRESSO DAL D.LGS. 13 DICEMBRE 2017, N. 217.
 
 3\. Nella definizione dei capitolati o degli schemi dei contratti di appalto relativi a prodotti e servizi che comportino la formazione, la raccolta e la gestione di dati, i soggetti di cui all'[articolo 2](../../01%20-%20Capo%20I%20-%20PRINCIPI%20GENERALI/01%20-%20Sezione%20I%20-%20Definizioni,%20finalità%20e%20ambito%20di%20applicazione/art-2-dlgs82-05.md), comma 2, prevedono clausole idonee a consentirne l'utilizzazione in conformità a quanto previsto dall'[articolo 50](art-50-dlgs82-05.md).
 

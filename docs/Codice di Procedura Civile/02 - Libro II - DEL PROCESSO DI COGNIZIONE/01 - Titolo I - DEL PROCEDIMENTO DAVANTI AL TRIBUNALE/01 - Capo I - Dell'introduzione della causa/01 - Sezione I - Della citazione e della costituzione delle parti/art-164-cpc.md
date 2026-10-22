@@ -14,17 +14,14 @@ capo_label: "Dell'introduzione della causa"
 sezione: "I"
 sezione_label: "Della citazione e della costituzione delle parti"
 rubrica: "Nullità della citazione"
-dataVigenza: "20261016"
+dataVigenza: "20261022"
 ordine: 175
 ---
 
 # Art. 164 - ***Nullità della citazione***
 
-La citazione è nulla se è omesso o risulta assolutamente incerto alcuno dei requisiti stabiliti nei numeri 1) e
+La citazione è nulla se è omesso o risulta assolutamente incerto alcuno dei requisiti stabiliti nei numeri 1) e 2) dell'[articolo 163](art-163-cpc.md), se manca l'indicazione della data dell'udienza di comparizione, se è stato assegnato un termine a comparire inferiore a quello stabilito dalla legge ovvero se manca l'avvertimento previsto dal numero 7) dell'[articolo 163](art-163-cpc.md).
 {: data-comma="1" }
-
-- 2) dell'[articolo 163](art-163-cpc.md), se manca l'indicazione della data dell'udienza di comparizione, se è stato assegnato un termine a comparire inferiore a quello stabilito dalla legge ovvero se manca l'avvertimento previsto dal numero
-- 7) dell'[articolo 163](art-163-cpc.md).
 
 Se il convenuto non si costituisce in giudizio, il giudice, rilevata la nullità della citazione ai sensi del primo comma, ne dispone d'ufficio la rinnovazione entro un termine perentorio. Questa sana i vizi e gli effetti sostanziali e processuali della domanda si producono sin dal momento della prima notificazione. Se la rinnovazione non viene eseguita, il giudice ordina la cancellazione della causa dal ruolo e il processo si estingue a norma dell'[articolo 307](../../10%20-%20Capo%20VII%20-%20Della%20sospensione,%20interruzione%20ed%20estinzione%20del%20processo/03%20-%20Sezione%20III%20-%20Dell%27estinzione%20del%20processo/art-307-cpc.md), comma terzo.
 {: data-comma="2" }
@@ -32,11 +29,8 @@ Se il convenuto non si costituisce in giudizio, il giudice, rilevata la nullità
 La costituzione del conventuo sana i vizi della citazione e restano salvi gli effetti sostanziali e processuali di cui al secondo comma; tuttavia, se il convenuto deduce l'inosservanza dei termini a comparire o la mancanza dell'avvertimento previsto dal numero 7) dell'[articolo 163](art-163-cpc.md), il giudice fissa una nuova udienza nel rispetto dei termini.
 {: data-comma="3" }
 
-La citazione è altresì nulla se è omesso o risulta assolutamente incerto il requisito stabilito nel numero
+La citazione è altresì nulla se è omesso o risulta assolutamente incerto il requisito stabilito nel numero 3) dell'[articolo 163](art-163-cpc.md) ovvero se manca l'esposizione dei fatti di cui al numero 4) dello stesso articolo.
 {: data-comma="4" }
-
-- 3) dell'[articolo 163](art-163-cpc.md) ovvero se manca l'esposizione dei fatti di cui al numero
-- 4) dello stesso articolo.
 
 Il giudice, rilevata la nullità ai sensi del comma precedente, fissa all'attore un termine perentorio per rinnovare la citazione o, se il convenuto si è costituito, per integrare la domanda. Restano ferme le decadenze maturate e salvi i diritti quesiti anteriormente alla rinnovazione o alla integrazione.
 {: data-comma="5" }

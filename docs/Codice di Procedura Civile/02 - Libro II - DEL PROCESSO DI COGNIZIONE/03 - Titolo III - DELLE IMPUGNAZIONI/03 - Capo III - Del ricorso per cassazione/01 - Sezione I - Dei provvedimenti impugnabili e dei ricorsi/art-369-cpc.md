@@ -14,7 +14,7 @@ capo_label: "Del ricorso per cassazione"
 sezione: "I"
 sezione_label: "Dei provvedimenti impugnabili e dei ricorsi"
 rubrica: "Deposito del ricorso"
-dataVigenza: "20261016"
+dataVigenza: "20261022"
 ordine: 414
 ---
 
@@ -28,7 +28,7 @@ Insieme col ricorso debbono essere depositati, sempre a pena d'improcedibilità:
 
 - 1) il decreto di concessione del gratuito patrocinio;
 - 2) copia autentica della sentenza o della decisione impugnata con la relazione di notificazione, se questa è avvenuta, tranne che nei casi di cui ai due articoli precedenti; oppure copia autentica dei provvedimenti dai quali risulta il conflitto nei casi di cui ai numeri 1 e 2 dell'[articolo 362](art-362-cpc.md);
-- 3) la procura speciale, se questa è conferita con atto separato ;   4. Gli atti processuali, i documenti, i contratti o accordi collettivi sui quali il ricorso si fonda.
+- 3) la procura speciale, se questa è conferita con atto separato ; 4. Gli atti processuali, i documenti, i contratti o accordi collettivi sui quali il ricorso si fonda.
 
 COMMA ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 149, COME MODIFICATO DALLA L. 29 DICEMBRE 2022, N. 197. [^agg-173]
 {: data-comma="3" }

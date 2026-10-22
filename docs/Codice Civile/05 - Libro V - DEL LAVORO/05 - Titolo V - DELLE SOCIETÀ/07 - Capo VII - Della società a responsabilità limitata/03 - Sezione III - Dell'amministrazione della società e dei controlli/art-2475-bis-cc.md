@@ -14,7 +14,7 @@ capo_label: "Della società a responsabilità limitata"
 sezione: "III"
 sezione_label: "Dell'amministrazione della società e dei controlli"
 rubrica: "Rappresentanza della società"
-dataVigenza: "20261016"
+dataVigenza: "20261022"
 ordine: 2696
 ---
 
@@ -26,6 +26,4 @@ Gli amministratori hanno la rappresentanza generale della società.
 Le limitazioni ai poteri degli amministratori che risultano dall'atto costitutivo o dall'atto di nomina, anche se pubblicate, non sono opponibili ai terzi, salvo che si provi che questi abbiano intenzionalmente agito a danno della società.
 {: data-comma="2" }
 
----------------------
-
-<small>*AGGIORNAMENTO (91)*   Il D.Lgs. 3 marzo 1993, n. 88, ha disposto (con l'art. 8, comma 1) che "Per le società a responsabilità limitata che hanno un unico socio alla data di entrata in vigore del presente decreto, i termini stabiliti dagli [articoli 2475- bis](art-2475-bis-cc.md) [2476, terzo comma, del codice civile](art-2476-cc.md) decorrono da tale data."</small>
+[^agg-91]: *AGGIORNAMENTO (91)* Il D.Lgs. 3 marzo 1993, n. 88, ha disposto (con l'art. 8, comma 1) che "Per le società a responsabilità limitata che hanno un unico socio alla data di entrata in vigore del presente decreto, i termini stabiliti dagli [articoli 2475- bis](art-2475-bis-cc.md) [2476, terzo comma, del codice civile](art-2476-cc.md) decorrono da tale data."

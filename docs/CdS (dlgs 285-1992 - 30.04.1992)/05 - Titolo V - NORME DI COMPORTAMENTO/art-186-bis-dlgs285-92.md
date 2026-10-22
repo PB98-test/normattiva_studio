@@ -14,7 +14,7 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Guida sotto l'influenza dell'alcool per conducenti di età inferiore a ventuno anni, per i neo-patentati e per chi esercita professionalmente l'attività di trasporto di persone o di cose)."
-dataVigenza: "20261012"
+dataVigenza: "20261022"
 ordine: 200
 ---
 
@@ -29,10 +29,7 @@ ordine: 200
 
 2\. I conducenti di cui al comma 1 che guidino dopo aver assunto bevande alcoliche e sotto l'influenza di queste sono puniti con la sanzione amministrativa del pagamento di una somma da € 168 a € 672, qualora sia stato accertato un valore corrispondente ad un tasso alcolemico superiore a O (zero) e non superiore a 0,5 grammi per litro (gli). Nel caso in cui il conducente, nelle condizioni di cui al periodo precedente, provochi un incidente, le sanzioni di cui al medesimo periodo sono raddoppiate. [^agg-114] [^agg-124] [^agg-133] [^agg-145] [^agg-163]
 
-3\. Per i conducenti di cui al comma 1 del presente articolo, ove incorrano negli illeciti di cui all'[articolo 186](art-186-dlgs285-92.md), comma 2, lettera
-
-- a), le sanzioni ivi previste sono aumentate di un terzo; ove incorrano negli illeciti di cui all'[articolo 186](art-186-dlgs285-92.md), comma 2, lettere b) e
-- c), le sanzioni ivi previste sono aumentate da un terzo alla metà.
+3\. Per i conducenti di cui al comma 1 del presente articolo, ove incorrano negli illeciti di cui all'[articolo 186](art-186-dlgs285-92.md), comma 2, lettera a), le sanzioni ivi previste sono aumentate di un terzo; ove incorrano negli illeciti di cui all'[articolo 186](art-186-dlgs285-92.md), comma 2, lettere b) e c), le sanzioni ivi previste sono aumentate da un terzo alla metà.
 
 4\. Le circostanze attenuanti concorrenti con le aggravanti di cui al comma 3 non possono essere ritenute equivalenti o prevalenti rispetto a queste. Le diminuzioni di pena si operano sulla quantità della stessa risultante dall'aumento conseguente alla predetta aggravante.
 

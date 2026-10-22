@@ -14,7 +14,7 @@ capo_label: "Società per azioni"
 sezione: "IX"
 sezione_label: "Del bilancio"
 rubrica: "Informazioni relative al fair value degli strumenti finanziari"
-dataVigenza: "20261016"
+dataVigenza: "20261022"
 ordine: 2621
 ---
 
@@ -24,8 +24,8 @@ ordine: 2621
 
 1\. Nella nota integrativa sono indicati:
 
-- 1) per ciascuna categoria di strumenti finanziari derivati:   a) il loro fair value;   b) informazioni sulla loro entità e sulla loro natura , compresi i termini e le condizioni significative che possono influenzare l'importo, le scadenze e la certezza dei flussi finanziari futuri;  [^agg-246]  b-bis) gli assunti fondamentali su cui si basano i modelli e le tecniche di valutazione, qualora il fair value non sia stato determinato sulla base di evidenze di mercato;  [^agg-246]  b-ter) le variazioni di valore iscritte direttamente nel conto economico, nonchè quelle imputate alle riserve di patrimonio netto;  [^agg-246]  b-quater) una tabella che indichi i movimenti delle riserve di fair value avvenuti nell'esercizio.  [^agg-246]
-- 2) per le immobilizzazioni finanziarie iscritte a un valore superiore al loro fair value, con esclusione delle partecipazioni in società controllate e collegate ai sensi dell'[articolo 2359](../06%20-%20Sezione%20V%20-%20Delle%20azioni%20e%20di%20altri%20strumenti%20finanziari%20partecipativi/art-2359-cc.md) e delle partecipazioni in joint venture:   a) il valore contabile e il fair value delle singole attività, o di appropriati raggruppamenti di tali attività;   b) i motivi per i quali il valore contabile non è stato ridotto, inclusa la natura degli elementi sostanziali sui quali si basa il convincimento che tale valore possa essere recuperato.
+- 1) per ciascuna categoria di strumenti finanziari derivati: a) il loro fair value; b) informazioni sulla loro entità e sulla loro natura , compresi i termini e le condizioni significative che possono influenzare l'importo, le scadenze e la certezza dei flussi finanziari futuri;  [^agg-246]  b-bis) gli assunti fondamentali su cui si basano i modelli e le tecniche di valutazione, qualora il fair value non sia stato determinato sulla base di evidenze di mercato;  [^agg-246]  b-ter) le variazioni di valore iscritte direttamente nel conto economico, nonchè quelle imputate alle riserve di patrimonio netto;  [^agg-246]  b-quater) una tabella che indichi i movimenti delle riserve di fair value avvenuti nell'esercizio.  [^agg-246]
+- 2) per le immobilizzazioni finanziarie iscritte a un valore superiore al loro fair value, con esclusione delle partecipazioni in società controllate e collegate ai sensi dell'[articolo 2359](../06%20-%20Sezione%20V%20-%20Delle%20azioni%20e%20di%20altri%20strumenti%20finanziari%20partecipativi/art-2359-cc.md) e delle partecipazioni in joint venture: a) il valore contabile e il fair value delle singole attività, o di appropriati raggruppamenti di tali attività; b) i motivi per i quali il valore contabile non è stato ridotto, inclusa la natura degli elementi sostanziali sui quali si basa il convincimento che tale valore possa essere recuperato.
 
 2\. COMMA ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 139. [^agg-246]
 

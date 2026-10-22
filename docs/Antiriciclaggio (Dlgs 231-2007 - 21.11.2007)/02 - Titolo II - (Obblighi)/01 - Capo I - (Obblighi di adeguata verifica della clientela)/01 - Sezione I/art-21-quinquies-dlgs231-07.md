@@ -14,7 +14,7 @@ capo_label: "(Obblighi di adeguata verifica della clientela)"
 sezione: "I"
 sezione_label: "..."
 rubrica: "Procedura per la verifica e il riconoscimento di un legittimo interesse all'accesso"
-dataVigenza: "20261016"
+dataVigenza: "20261022"
 ordine: 29
 ---
 
@@ -48,10 +48,7 @@ ordine: 29
 - c) nei casi di cui all'[articolo 21-sexies](art-21-sexies-dlgs231-07.md), nei termini e secondo le procedure ivi previsti;
 - d) nei casi di cui al comma 3, quando il legittimo interesse ad accedere alle informazioni sulla titolarità effettiva, accertato dall'organismo responsabile della tenuta del registro in un altro Stato membro, non si estende agli scopi di cui all'[articolo 21-quater](art-21-quater-dlgs231-07.md), comma 2, per i quali sono chieste le informazioni.
 
-11\. Prima di respingere una richiesta di accesso per uno dei motivi di cui al comma 10, lettere
-
-- a), numeri 1) e 3), b), e
-- d), la Camera di commercio territorialmente competente può chiedere al richiedente informazioni o documenti supplementari. In tal caso, il termine di cui al comma 4, primo periodo, è prorogato di sette giorni.
+11\. Prima di respingere una richiesta di accesso per uno dei motivi di cui al comma 10, lettere a), numeri 1) e 3), b), e d), la Camera di commercio territorialmente competente può chiedere al richiedente informazioni o documenti supplementari. In tal caso, il termine di cui al comma 4, primo periodo, è prorogato di sette giorni.
 
 12\. La Camera di commercio territorialmente competente documenta, tramite il sistema informativo predisposto dal gestore del sistema informativo nazionale di cui all'articolo 8 della legge 29 dicembre 1993, n. 580, le misure adottate per la valutazione delle richieste di accesso e per ottenere le informazioni o i documenti supplementari ai sensi del comma 11.
 

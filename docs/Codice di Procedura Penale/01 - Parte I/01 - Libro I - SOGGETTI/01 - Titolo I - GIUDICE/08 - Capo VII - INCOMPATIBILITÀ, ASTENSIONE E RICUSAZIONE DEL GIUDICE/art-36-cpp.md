@@ -16,7 +16,7 @@ capo_label: "INCOMPATIBILITÀ, ASTENSIONE E RICUSAZIONE DEL GIUDICE"
 sezione: null
 sezione_label: null
 rubrica: "Astensione"
-dataVigenza: "20261016"
+dataVigenza: "20261022"
 ordine: 46
 ---
 
@@ -33,10 +33,7 @@ ordine: 46
 - g) se si trova in taluna delle situazioni di incompatibilità stabilite dagli [articoli 34](art-34-cpp.md) e [35](art-35-cpp.md) e dalle leggi di ordinamento giudiziario;
 - h) se esistono altre gravi ragioni di convenienza.
 
-2\. I motivi di astensione indicati nel comma 1 lettera
-
-- b) seconda ipotesi e lettera
-- e) o derivanti da incompatibilità per ragioni di coniugio o affinità, sussistono anche dopo l'annullamento, lo scioglimento o la cessazione degli effetti civili del matrimonio.
+2\. I motivi di astensione indicati nel comma 1 lettera b) seconda ipotesi e lettera e) o derivanti da incompatibilità per ragioni di coniugio o affinità, sussistono anche dopo l'annullamento, lo scioglimento o la cessazione degli effetti civili del matrimonio.
 
 3\. La dichiarazione di astensione è presentata al presidente della corte o del tribunale che decide con decreto senza formalità di procedura.
 

@@ -16,16 +16,13 @@ capo_label: "ESTINZIONE DELLE MISURE"
 sezione: null
 sezione_label: null
 rubrica: "Estinzione di misure disposte per esigenze probatorie"
-dataVigenza: "20261016"
+dataVigenza: "20261022"
 ordine: 359
 ---
 
 # Art. 301 - ***Estinzione di misure disposte per esigenze probatorie***
 
-1\. Le misure disposte per le esigenze cautelari previste dall'[articolo 274](../01%20-%20Capo%20I%20-%20DISPOSIZIONI%20GENERALI/art-274-cpp.md) comma 1 lettera
-
-- a) perdono immediatamente efficacia se alla scadenza del termine previsto dall'[articolo 292](../04%20-%20Capo%20IV%20-%20FORMA%20ED%20ESECUZIONE%20DEI%20PROVVEDIMENTI/art-292-cpp.md) comma 2 lettera
-- d), non ne è ordinata la rinnovazione.
+1\. Le misure disposte per le esigenze cautelari previste dall'[articolo 274](../01%20-%20Capo%20I%20-%20DISPOSIZIONI%20GENERALI/art-274-cpp.md) comma 1 lettera a) perdono immediatamente efficacia se alla scadenza del termine previsto dall'[articolo 292](../04%20-%20Capo%20IV%20-%20FORMA%20ED%20ESECUZIONE%20DEI%20PROVVEDIMENTI/art-292-cpp.md) comma 2 lettera d), non ne è ordinata la rinnovazione.
 
 2\. La rinnovazione è disposta dal giudice con ordinanza, su richiesta del pubblico ministero, anche per più di una volta, entro i limiti previsti dagli [articoli 305](art-305-cpp.md) e [308](art-308-cpp.md). [^agg-55]
 

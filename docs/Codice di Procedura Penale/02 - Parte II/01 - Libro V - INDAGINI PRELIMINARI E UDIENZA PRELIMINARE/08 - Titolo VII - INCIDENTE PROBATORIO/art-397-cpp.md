@@ -16,7 +16,7 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Differimento dell'incidente probatorio"
-dataVigenza: "20261016"
+dataVigenza: "20261022"
 ordine: 481
 ---
 
@@ -31,7 +31,4 @@ ordine: 481
 
 3\. Il giudice, se non dichiara inammissibile o rigetta la richiesta di incidente probatorio, provvede entro due giorni con ordinanza con la quale accoglie, dichiara inammissibile o rigetta la richiesta di differimento. L'ordinanza di inammissibilità o di rigetto è immediatamente comunicata al pubblico ministero.
 
-4\. Nell'accogliere la richiesta di differimento il giudice fissa l'udienza per l'incidente probatorio non oltre il termine strettamente necessario al compimento dell'atto o degli atti di indagine preliminare indicati nel comma 2 lettera
-
-- a). L'ordinanza è immediatamente comunicata al pubblico ministero e notificata per estratto alle persone indicate nell'[articolo 393](art-393-cpp.md) comma 1 lettera
-- b). La richiesta di differimento e l'ordinanza sono depositate alla udienza.
+4\. Nell'accogliere la richiesta di differimento il giudice fissa l'udienza per l'incidente probatorio non oltre il termine strettamente necessario al compimento dell'atto o degli atti di indagine preliminare indicati nel comma 2 lettera a). L'ordinanza è immediatamente comunicata al pubblico ministero e notificata per estratto alle persone indicate nell'[articolo 393](art-393-cpp.md) comma 1 lettera b). La richiesta di differimento e l'ordinanza sono depositate alla udienza.

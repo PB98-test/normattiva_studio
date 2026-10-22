@@ -16,7 +16,7 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Formalità della costituzione di parte civile"
-dataVigenza: "20261016"
+dataVigenza: "20261022"
 ordine: 93
 ---
 
@@ -34,4 +34,6 @@ ordine: 93
 
 2\. Se è presentata fuori udienza, la dichiarazione deve essere notificata, a cura della parte civile, alle altre parti e produce effetto per ciascuna di esse dal giorno nel quale è eseguita la notificazione.
 
-<small>3. Se la procura non è apposta in calce o a margine della dichiarazione di parte civile, ed è conferita nelle altre forme previste dall'[articolo 100](../07%20-%20Titolo%20VII%20-%20DIFENSORE/art-100-cpp.md), commi 1 e 2, essa è depositata nella cancelleria o presentata in udienza unitamente alla dichiarazione di costituzione della parte civile. (110) *AGGIORNAMENTO (110)* La L. 16 dicembre 1999, n. 479, ha disposto (con l'art. 13, comma 4) che " La deposizione di cui al comma 2 si applica anche alle procure conferite prima della data di entrata in vigore della presente legge."</small>
+3\. Se la procura non è apposta in calce o a margine della dichiarazione di parte civile, ed è conferita nelle altre forme previste dall'[articolo 100](../07%20-%20Titolo%20VII%20-%20DIFENSORE/art-100-cpp.md), commi 1 e 2, essa è depositata nella cancelleria o presentata in udienza unitamente alla dichiarazione di costituzione della parte civile. [^agg-110]
+
+[^agg-110]: *AGGIORNAMENTO (110)* La L. 16 dicembre 1999, n. 479, ha disposto (con l'art. 13, comma 4) che " La deposizione di cui al comma 2 si applica anche alle procure conferite prima della data di entrata in vigore della presente legge."

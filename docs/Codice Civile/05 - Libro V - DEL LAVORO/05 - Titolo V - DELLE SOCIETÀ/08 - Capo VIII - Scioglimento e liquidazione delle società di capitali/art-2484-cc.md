@@ -14,7 +14,7 @@ capo_label: "Scioglimento e liquidazione delle società di capitali"
 sezione: null
 sezione_label: null
 rubrica: "Cause di scioglimento"
-dataVigenza: "20261016"
+dataVigenza: "20261022"
 ordine: 2714
 ---
 
@@ -34,11 +34,8 @@ Le società per azioni, in accomandita per azioni e a responsabilità limitata s
 La società inoltre si scioglie per le altre cause previste dalla legge; in queste ipotesi le disposizioni dei seguenti articoli si applicano in quanto compatibili.
 {: data-comma="2" }
 
-Gli effetti dello scioglimento si determinano, nelle ipotesi previste dai numeri 1), 2), 3), 4) e
+Gli effetti dello scioglimento si determinano, nelle ipotesi previste dai numeri 1), 2), 3), 4) e 5) del primo comma, alla data dell'iscrizione presso l'ufficio del registro delle imprese della dichiarazione con cui gli amministratori ne accertano la causa e, nell'ipotesi prevista dal numero 6) del medesimo comma, alla data dell'iscrizione della relativa deliberazione.
 {: data-comma="3" }
-
-- 5) del primo comma, alla data dell'iscrizione presso l'ufficio del registro delle imprese della dichiarazione con cui gli amministratori ne accertano la causa e, nell'ipotesi prevista dal numero
-- 6) del medesimo comma, alla data dell'iscrizione della relativa deliberazione.
 
 Quando l'atto costitutivo o lo statuto prevedono altre cause di scioglimento, essi devono determinare la competenza a deciderle od accertarle, e ad effettuare gli adempimenti pubblicitari di cui al precedente comma.
 {: data-comma="4" }

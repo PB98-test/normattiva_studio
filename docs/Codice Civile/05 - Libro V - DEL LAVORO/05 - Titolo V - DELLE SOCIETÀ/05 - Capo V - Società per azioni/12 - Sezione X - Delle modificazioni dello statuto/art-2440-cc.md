@@ -14,7 +14,7 @@ capo_label: "Società per azioni"
 sezione: "X"
 sezione_label: "Delle modificazioni dello statuto"
 rubrica: "Conferimenti di beni in natura e di crediti"
-dataVigenza: "20260914"
+dataVigenza: "20261022"
 ordine: 2644
 ---
 
@@ -29,11 +29,8 @@ L'aumento di capitale mediante conferimento di beni in natura o di crediti può 
 Ai fini dell'applicazione dell'[articolo 2343-ter](../05%20-%20Sezione%20IV%20-%20Dei%20conferimenti/art-2343-ter-cc.md), primo comma, rileva il periodo di negoziazione di sei mesi precedenti la data alla quale si riferisce la relazione degli amministratori redatta ai sensi dell'[articolo 2441](art-2441-cc.md), sesto comma. Il conferimento è eseguito entro sessanta giorni da tale data, ovvero entro novanta giorni qualora l'aumento sia deliberato da una società che fa ricorso al mercato del capitale di rischio.
 {: data-comma="3" }
 
-Qualora trovi applicazione l'[articolo 2343-ter](../05%20-%20Sezione%20IV%20-%20Dei%20conferimenti/art-2343-ter-cc.md), secondo comma, il conferimento è eseguito, nel caso di cui alla lettera
+Qualora trovi applicazione l'[articolo 2343-ter](../05%20-%20Sezione%20IV%20-%20Dei%20conferimenti/art-2343-ter-cc.md), secondo comma, il conferimento è eseguito, nel caso di cui alla lettera a), entro il termine dell'esercizio successivo a quello cui si riferisce il bilancio, ovvero, nel caso di cui alla lettera b), entro sei mesi dalla data cui si riferisce la valutazione.
 {: data-comma="4" }
-
-- a), entro il termine dell'esercizio successivo a quello cui si riferisce il bilancio, ovvero, nel caso di cui alla lettera
-- b), entro sei mesi dalla data cui si riferisce la valutazione.
 
 La verifica prevista dall'[articolo 2343-quater](../05%20-%20Sezione%20IV%20-%20Dei%20conferimenti/art-2343-quater-cc.md), primo comma, è eseguita dagli amministratori nel termine di trenta giorni dall'esecuzione del conferimento ovvero, se successiva, dalla data di iscrizione nel registro delle imprese della deliberazione di aumento del capitale. La dichiarazione di cui all'[articolo 2343-quater](../05%20-%20Sezione%20IV%20-%20Dei%20conferimenti/art-2343-quater-cc.md), terzo comma, è allegata all'attestazione prevista dall'[articolo 2444](art-2444-cc.md).
 {: data-comma="5" }

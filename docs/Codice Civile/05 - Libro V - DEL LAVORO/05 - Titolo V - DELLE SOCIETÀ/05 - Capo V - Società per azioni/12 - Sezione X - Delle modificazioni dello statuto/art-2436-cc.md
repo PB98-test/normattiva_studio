@@ -14,7 +14,7 @@ capo_label: "Società per azioni"
 sezione: "X"
 sezione_label: "Delle modificazioni dello statuto"
 rubrica: "Deposito, iscrizione e pubblicazione delle modificazioni"
-dataVigenza: "20261016"
+dataVigenza: "20261022"
 ordine: 2635
 ---
 
@@ -38,6 +38,4 @@ La deliberazione non produce effetti se non dopo l'iscrizione.
 Dopo ogni modifica dello statuto deve esserne depositato nel registro delle imprese il testo integrale nella sua redazione aggiornata.
 {: data-comma="6" }
 
------------------
-
-<small>*AGGIORNAMENTO (16)*   Il D.P.R. 29 dicembre 1969, n. 1127, ha disposto (con l'art. 21, comma 1) che "La disposizione dell'[art. 2436, comma secondo, del codice civile](art-2436-cc.md) si applica alle modificazioni dell'atto costitutivo o dello statuto successive alla data di entrata in vigore del presente decreto. In mancanza di tali modifiche la disposizione predetta deve essere osservata entro il 31 dicembre 1970."</small>
+[^agg-16]: *AGGIORNAMENTO (16)* Il D.P.R. 29 dicembre 1969, n. 1127, ha disposto (con l'art. 21, comma 1) che "La disposizione dell'[art. 2436, comma secondo, del codice civile](art-2436-cc.md) si applica alle modificazioni dell'atto costitutivo o dello statuto successive alla data di entrata in vigore del presente decreto. In mancanza di tali modifiche la disposizione predetta deve essere osservata entro il 31 dicembre 1970."

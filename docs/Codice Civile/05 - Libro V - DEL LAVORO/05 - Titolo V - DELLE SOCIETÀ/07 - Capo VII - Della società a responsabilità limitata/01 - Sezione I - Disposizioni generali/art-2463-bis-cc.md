@@ -14,7 +14,7 @@ capo_label: "Della società a responsabilità limitata"
 sezione: "I"
 sezione_label: "Disposizioni generali"
 rubrica: "Società a responsabilità limitata semplificata"
-dataVigenza: "20260914"
+dataVigenza: "20261022"
 ordine: 2681
 ---
 
@@ -28,9 +28,10 @@ L'atto costitutivo deve essere redatto per atto pubblico in conformità al model
 
 - 1) il cognome, il nome, la data, il luogo di nascita, il domicilio, la cittadinanza di ciascun socio;
 - 2) la denominazione sociale contenente l'indicazione di società a responsabilità limitata semplificata e il comune ove sono poste la sede della società e le eventuali sedi secondarie;
-- 3) l'ammontare del capitale sociale, pari almeno ad 1 euro e inferiore all'importo di 10.000 euro previsto all'[articolo 2463](art-2463-cc.md), secondo comma, numero
-- 4), sottoscritto e interamente versato alla data della costituzione. Il conferimento deve farsi in denaro ed essere versato all'organo amministrativo;   4) i requisiti previsti dai numeri 3), 6), 7) e
-- 8) del secondo comma dell'[articolo 2463](art-2463-cc.md);   5) luogo e data di sottoscrizione;   6) gli amministratori ....
+- 3) l'ammontare del capitale sociale, pari almeno ad 1 euro e inferiore all'importo di 10.000 euro previsto all'[articolo 2463](art-2463-cc.md), secondo comma, numero 4), sottoscritto e interamente versato alla data della costituzione. Il conferimento deve farsi in denaro ed essere versato all'organo amministrativo;
+- 4) i requisiti previsti dai numeri 3), 6), 7) e 8) del secondo comma dell'[articolo 2463](art-2463-cc.md);
+- 5) luogo e data di sottoscrizione;
+- 6) gli amministratori ....
 
 Le clausole del modello standard tipizzato sono inderogabili.
 {: data-comma="3" }

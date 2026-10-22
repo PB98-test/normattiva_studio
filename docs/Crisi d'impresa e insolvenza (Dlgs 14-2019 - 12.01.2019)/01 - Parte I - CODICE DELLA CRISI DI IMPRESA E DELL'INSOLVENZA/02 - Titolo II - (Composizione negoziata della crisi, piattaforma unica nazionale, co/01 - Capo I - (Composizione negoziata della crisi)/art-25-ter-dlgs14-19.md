@@ -16,7 +16,7 @@ capo_label: "(Composizione negoziata della crisi)"
 sezione: null
 sezione_label: null
 rubrica: "Compenso dell'esperto"
-dataVigenza: "20261016"
+dataVigenza: "20261022"
 ordine: 28
 ---
 
@@ -60,4 +60,6 @@ ordine: 28
 
 12\. Il compenso dell'esperto è prededucibile ....
 
-<small>13. Dopo almeno sessanta giorni dall'accettazione dell'incarico, su richiesta dell'esperto, può essere disposto in suo favore un acconto in misura non superiore ad un terzo del presumibile compenso finale, tenendo conto dei risultati ottenuti e dell'attività prestata. (14) *AGGIORNAMENTO (14)* Il D.Lgs. 17 giugno 2022, n. 83, ha disposto (con l'art. 50, comma 2) che "Le disposizioni previste dall'[articolo 25-ter del decreto legislativo 12 gennaio 2019, n. 14](art-25-ter-dlgs14-19.md), si applicano alle liquidazioni disposte successivamente all'entrata in vigore del presente decreto, anche relative all'attività svolta dall'esperto nell'ambito della composizione negoziata prevista dal decreto-legge 24 agosto 2021, n. 118, convertito, con modificazioni, dalla legge 21 ottobre 2021, n. 147".</small>
+13\. Dopo almeno sessanta giorni dall'accettazione dell'incarico, su richiesta dell'esperto, può essere disposto in suo favore un acconto in misura non superiore ad un terzo del presumibile compenso finale, tenendo conto dei risultati ottenuti e dell'attività prestata. [^agg-14]
+
+[^agg-14]: *AGGIORNAMENTO (14)* Il D.Lgs. 17 giugno 2022, n. 83, ha disposto (con l'art. 50, comma 2) che "Le disposizioni previste dall'[articolo 25-ter del decreto legislativo 12 gennaio 2019, n. 14](art-25-ter-dlgs14-19.md), si applicano alle liquidazioni disposte successivamente all'entrata in vigore del presente decreto, anche relative all'attività svolta dall'esperto nell'ambito della composizione negoziata prevista dal decreto-legge 24 agosto 2021, n. 118, convertito, con modificazioni, dalla legge 21 ottobre 2021, n. 147".

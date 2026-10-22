@@ -14,7 +14,7 @@ capo_label: "Dei delitti contro la libertà individuale Sezione 1a Dei delitti c
 sezione: null
 sezione_label: null
 rubrica: "Circostanze aggravanti"
-dataVigenza: "20260930"
+dataVigenza: "20261022"
 ordine: 798
 ---
 
@@ -25,7 +25,7 @@ La pena per i reati previsti dagli [articoli 600](art-600-cp.md), [601](art-601-
 
 - a) se la persona offesa è minore degli anni diciotto;
 - b) se i fatti sono diretti allo sfrutta-mento della prostituzione o al fine di sottoporre la persona offesa al prelievo di organi;
-- c) se dal fatto deriva un grave pericolo per la vita o l'integrità fisica o psichica della persona offesa;   c-bis) se l'autore del reato ha diffuso o ha agevolato la diffusione, mediante l'utilizzo della rete internet o di altre reti o mezzi di comunicazione, di immagini, video o analogo materiale di natura sessuale relativo alla vittima.
+- c) se dal fatto deriva un grave pericolo per la vita o l'integrità fisica o psichica della persona offesa; c-bis) se l'autore del reato ha diffuso o ha agevolato la diffusione, mediante l'utilizzo della rete internet o di altre reti o mezzi di comunicazione, di immagini, video o analogo materiale di natura sessuale relativo alla vittima.
 
 Se i fatti previsti dal titolo VII, capo III, del presente libro sono commessi al fine di realizzare od agevolare i delitti di cui agli [articoli 600](art-600-cp.md), [601](art-601-cp.md) e [602](art-602-cp.md), le pene ivi previste sono aumentate da un terzo alla metà.
 {: data-comma="2" }
@@ -50,7 +50,7 @@ Nei casi previsti dagli [articoli 600-bis](art-600-bis-cp.md), [600-ter](art-600
 
 - a) se il reato è commesso da più persone riunite;
 - b) se il reato è commesso da persona che fa parte di un'associazione per delinquere e al fine di agevolarne l'attività;
-- c) se il reato è commesso con violenze gravi o se dal fatto deriva al minore, a causa della reiterazione delle condotte, un pregiudizio grave.   c-bis) se dal fatto deriva pericolo di vita per il minore.
+- c) se il reato è commesso con violenze gravi o se dal fatto deriva al minore, a causa della reiterazione delle condotte, un pregiudizio grave. c-bis) se dal fatto deriva pericolo di vita per il minore.
 
 Le pene previste per i reati di cui al comma precedente sono aumentate in misura non eccedente i due terzi nei casi in cui gli stessi siano compiuti con l'utilizzo di mezzi atti ad impedire l'identificazione dei dati di accesso alle reti telematiche.
 {: data-comma="9" }

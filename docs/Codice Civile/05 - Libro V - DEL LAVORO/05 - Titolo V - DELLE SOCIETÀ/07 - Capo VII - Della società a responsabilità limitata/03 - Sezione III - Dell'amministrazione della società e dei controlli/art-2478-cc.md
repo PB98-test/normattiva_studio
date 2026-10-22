@@ -14,7 +14,7 @@ capo_label: "Della società a responsabilità limitata"
 sezione: "III"
 sezione_label: "Dell'amministrazione della società e dei controlli"
 rubrica: "Libri sociali obbligatori"
-dataVigenza: "20260914"
+dataVigenza: "20261022"
 ordine: 2700
 ---
 
@@ -28,11 +28,8 @@ Oltre i libri e le altre scritture contabili prescritti nell'[articolo 2214](../
 - 3) il libro delle decisioni degli amministratori;
 - 4) il libro delle decisioni del collegio sindacale nominato ai sensi dell'[articolo 2477](art-2477-cc.md).
 
-I libri indicati nei numeri 2) e
+I libri indicati nei numeri 2) e 3) del primo comma devono essere tenuti a cura degli amministratori; il libro indicato nel numero 4) del primo comma deve essere tenuto a cura dei sindaci. . ..
 {: data-comma="2" }
-
-- 3) del primo comma devono essere tenuti a cura degli amministratori; il libro indicato nel numero
-- 4) del primo comma deve essere tenuto a cura dei sindaci. . ..
 
 I contratti della società con l'unico socio o le operazioni a favore dell'unico socio sono opponibili ai creditori della società solo se risultano dal libro indicato nel numero 3 del primo comma o da atto scritto avente data certa anteriore al pignoramento.
 {: data-comma="3" }

@@ -16,7 +16,7 @@ capo_label: "Accesso agli strumenti di regolazione della crisi e dell'insolvenza
 sezione: "II"
 sezione_label: "Procedimento unitario per l'accesso agli strumenti di regolazione della crisi e dell'insolvenza e alla liquidazione giudiziale"
 rubrica: "Accesso a uno strumento di regolazione della crisi e dell'insolvenza con riserva di deposito di documentazione"
-dataVigenza: "20261020"
+dataVigenza: "20261022"
 ordine: 55
 ---
 
@@ -35,10 +35,6 @@ ordine: 55
 
 1-quater. In deroga a quanto previsto dal comma 1-bis, primo periodo, il debitore può chiedere di giovarsi del regime dello strumento di regolazione della crisi e dell'insolvenza di cui intende avvalersi se, unitamente alla domanda di cui al comma 1 o anche successivamente, deposita un progetto di regolazione della crisi e dell'insolvenza redatto in conformità alle disposizioni che disciplinano lo strumento prescelto.
 
-2\. Il tribunale, su segnalazione di un creditore, del commissario giudiziale o del pubblico ministero, con decreto non soggetto a reclamo, sentiti il debitore e i creditori che hanno proposto ricorso per l'apertura della liquidazione giudiziale e omessa ogni formalità non essenziale al contraddittorio, revoca il provvedimento di concessione dei termini adottato ai sensi del comma 1, lettera
-
-- a), quando accerta una delle situazioni di cui al comma 1, lettera
-- b) o quando vi è stata grave violazione degli obblighi informativi di cui al comma 1, lettera
-- c). Nello stesso modo il tribunale provvede in caso di violazione dell'obbligo di cui al comma 1, lettera d).
+2\. Il tribunale, su segnalazione di un creditore, del commissario giudiziale o del pubblico ministero, con decreto non soggetto a reclamo, sentiti il debitore e i creditori che hanno proposto ricorso per l'apertura della liquidazione giudiziale e omessa ogni formalità non essenziale al contraddittorio, revoca il provvedimento di concessione dei termini adottato ai sensi del comma 1, lettera a), quando accerta una delle situazioni di cui al comma 1, lettera b) o quando vi è stata grave violazione degli obblighi informativi di cui al comma 1, lettera c). Nello stesso modo il tribunale provvede in caso di violazione dell'obbligo di cui al comma 1, lettera d).
 
 3\. I termini di cui al comma 1, lettere a), c) e d) non sono soggetti a sospensione feriale dei termini.

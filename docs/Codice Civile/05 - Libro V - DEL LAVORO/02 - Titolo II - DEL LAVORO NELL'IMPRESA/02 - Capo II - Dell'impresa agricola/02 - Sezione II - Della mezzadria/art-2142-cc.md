@@ -14,14 +14,12 @@ capo_label: "Dell'impresa agricola"
 sezione: "II"
 sezione_label: "Della mezzadria"
 rubrica: "Famiglia colonica"
-dataVigenza: "20261016"
+dataVigenza: "20261022"
 ordine: 2263
 ---
 
 # Art. 2142 - ***Famiglia colonica***
 
-La composizione della famiglia colonica non può volontariamente essere modificata senza il consenso del concedente, salvi i casi di matrimonio, di adozione e di riconoscimento di figli. La composizione e le variazioni della famiglia colonica devono risultare dal libretto colonico.(6a)
+La composizione della famiglia colonica non può volontariamente essere modificata senza il consenso del concedente, salvi i casi di matrimonio, di adozione e di riconoscimento di figli. La composizione e le variazioni della famiglia colonica devono risultare dal libretto colonico.[^agg-6a]
 
-----------------
-
-<small>*AGGIORNAMENTO (6a)*   La L. 15 settembre 1964, n. 756 ha disposto (con l'art. 7, comma 1) che "La composizione della famiglia colonica può essere modificata senza il consenso del concedente anche fuori dei casi previsti dall'[articolo 2142 del Codice civile](art-2142-cc.md), purchè non ne risulti compromessa la normale conduzione del fondo. Ai fini della presente legge, il lavoro della donna è considerato equivalente a quello dell'uomo."</small>
+[^agg-6a]: *AGGIORNAMENTO (6a)* La L. 15 settembre 1964, n. 756 ha disposto (con l'art. 7, comma 1) che "La composizione della famiglia colonica può essere modificata senza il consenso del concedente anche fuori dei casi previsti dall'[articolo 2142 del Codice civile](art-2142-cc.md), purchè non ne risulti compromessa la normale conduzione del fondo. Ai fini della presente legge, il lavoro della donna è considerato equivalente a quello dell'uomo."

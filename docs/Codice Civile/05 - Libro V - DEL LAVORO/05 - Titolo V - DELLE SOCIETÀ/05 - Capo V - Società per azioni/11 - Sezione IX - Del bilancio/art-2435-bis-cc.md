@@ -14,7 +14,7 @@ capo_label: "Società per azioni"
 sezione: "IX"
 sezione_label: "Del bilancio"
 rubrica: "Bilancio in forma abbreviata"
-dataVigenza: "20261016"
+dataVigenza: "20261022"
 ordine: 2633
 ---
 
@@ -36,10 +36,9 @@ Nel conto economico del bilancio in forma abbreviata le seguenti voci previste d
 COMMA ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 139. [^agg-246]
 {: data-comma="4" }
 
-Fermo restando le indicazioni richieste dal terzo, quarto e quinto comma dell'[articolo 2423](art-2423-cc.md), dal secondo, quinto e sesto comma dell'[articolo 2423-ter](art-2423-ter-cc.md), dal secondo comma dell'[articolo 2424](art-2424-cc.md), dal primo comma, numeri 4) e
+Fermo restando le indicazioni richieste dal terzo, quarto e quinto comma dell'[articolo 2423](art-2423-cc.md), dal secondo, quinto e sesto comma dell'[articolo 2423-ter](art-2423-ter-cc.md), dal secondo comma dell'[articolo 2424](art-2424-cc.md), dal primo comma, numeri 4) e 6), dell'[articolo 2426](art-2426-cc.md), la nota integrativa fornisce le indicazioni richieste dal primo comma dell'[articolo 2427](art-2427-cc.md), numeri 1), 2), 6), per quest'ultimo limitatamente ai soli debiti senza indicazione della ripartizione geografica, 8), 9), 13),
 {: data-comma="5" }
 
-- 6), dell'[articolo 2426](art-2426-cc.md), la nota integrativa fornisce le indicazioni richieste dal primo comma dell'[articolo 2427](art-2427-cc.md), numeri 1), 2), 6), per quest'ultimo limitatamente ai soli debiti senza indicazione della ripartizione geografica, 8), 9), 13),
 - 15), per quest'ultimo anche omettendo la ripartizione per categoria, 16), 22-bis),
 - 22-ter), per quest'ultimo anche omettendo le indicazioni riguardanti gli effetti patrimoniali, finanziari ed economici, 22-quater),
 - 22-sexies), per quest'ultimo anche omettendo l'indicazione del luogo in cui è disponibile la copia del bilancio consolidato, nonchè dal primo comma dell'[articolo 2427-bis](art-2427-bis-cc.md), numero 1). [^agg-246] [^agg-315]

@@ -16,7 +16,7 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Documentazione degli atti"
-dataVigenza: "20261016"
+dataVigenza: "20261022"
 ordine: 445
 ---
 
@@ -35,10 +35,7 @@ ordine: 445
 
 2-bis. Alla documentazione degli interrogatori di cui al comma 1, lettere b) e d-bis), si procede anche con mezzi di riproduzione audiovisiva o, se ciò non è possibile a causa della contingente indisponibilità di mezzi di riproduzione audiovisiva o di personale tecnico, con mezzi di riproduzione fonografica.
 
-2-ter. Quando le indagini riguardano taluno dei delitti di cui all'[articolo 407](../09%20-%20Titolo%20VIII%20-%20CHIUSURA%20DELLE%20INDAGINI%20PRELIMINARI/art-407-cpp.md), comma 2, lettera
-
-- a), oppure quando la persona informata sui fatti ne faccia richiesta, alla documentazione delle informazioni di cui al comma 1, lettera
-- d), si procede altresì mediante riproduzione fonografica, salva la contingente indisponibilità di strumenti di riproduzione o di personale tecnico.
+2-ter. Quando le indagini riguardano taluno dei delitti di cui all'[articolo 407](../09%20-%20Titolo%20VIII%20-%20CHIUSURA%20DELLE%20INDAGINI%20PRELIMINARI/art-407-cpp.md), comma 2, lettera a), oppure quando la persona informata sui fatti ne faccia richiesta, alla documentazione delle informazioni di cui al comma 1, lettera d), si procede altresì mediante riproduzione fonografica, salva la contingente indisponibilità di strumenti di riproduzione o di personale tecnico.
 
 2-quater. Le dichiarazioni della persona minorenne, inferma di mente o in condizioni di particolare vulnerabilità sono documentate integralmente, a pena di inutilizzabilità, con mezzi di riproduzione audiovisiva o fonografica, salvo che si verifichi una contingente indisponibilità di strumenti di riproduzione o di personale tecnico e sussistano particolari ragioni di urgenza che non consentano di rinviare l'atto.
 

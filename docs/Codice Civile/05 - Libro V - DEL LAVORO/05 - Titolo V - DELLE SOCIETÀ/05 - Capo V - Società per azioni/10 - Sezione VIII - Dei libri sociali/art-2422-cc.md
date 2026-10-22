@@ -14,7 +14,7 @@ capo_label: "Società per azioni"
 sezione: "VIII"
 sezione_label: "Dei libri sociali"
 rubrica: "Diritto d'ispezione dei libri sociali"
-dataVigenza: "20260914"
+dataVigenza: "20261022"
 ordine: 2610
 ---
 
@@ -23,8 +23,5 @@ ordine: 2610
 I soci hanno diritto di esaminare i libri indicati nel primo comma, numeri 1) e 3) dell'[articolo 2421](art-2421-cc.md) e di ottenerne estratti a proprie spese.
 {: data-comma="1" }
 
-Eguale diritto spetta al rappresentante comune degli obbligazionisti per i libri indicati nei numeri 2) e
+Eguale diritto spetta al rappresentante comune degli obbligazionisti per i libri indicati nei numeri 2) e 3) dell'[articolo 2421](art-2421-cc.md), e al rappresentante comune dei possessori di strumenti finanziari ed ai singoli possessori per il libro indicato al numero 8), ai singoli obbligazionisti per il libro indicato nel numero 7) dell'articolo medesimo.
 {: data-comma="2" }
-
-- 3) dell'[articolo 2421](art-2421-cc.md), e al rappresentante comune dei possessori di strumenti finanziari ed ai singoli possessori per il libro indicato al numero
-- 8), ai singoli obbligazionisti per il libro indicato nel numero 7) dell'articolo medesimo.

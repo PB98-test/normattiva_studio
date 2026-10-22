@@ -14,7 +14,7 @@ capo_label: "Società per azioni"
 sezione: "VII"
 sezione_label: "Delle obbligazioni"
 rubrica: "Obbligazioni convertibili in azioni"
-dataVigenza: "20261016"
+dataVigenza: "20261022"
 ordine: 2607
 ---
 
@@ -38,6 +38,4 @@ Nei casi di aumento del capitale mediante imputazione di riserve e di riduzione 
 Le obbligazioni convertibili in azioni devono indicare in aggiunta a quanto stabilito nell'[articolo 2414](art-2414-cc.md), il rapporto di cambio e le modalità della conversione.
 {: data-comma="6" }
 
------------------
-
-<small>*AGGIORNAMENTO (35)*   Il D.L. 8 aprile 1974, n. 95, convertito con modificazioni dalla L. 7 giugno 1974, n. 216, ha disposto (con l'art. 9, comma 2) che " Gli amministratori che emettono obbligazioni convertibili senza le indicazioni prescritte nell'ultimo comma dell'[articolo 2420-bis del codice civile](art-2420-bis-cc.md), sono puniti con l'ammenda da lire 1 milione a lire 5 milioni."</small>
+[^agg-35]: *AGGIORNAMENTO (35)* Il D.L. 8 aprile 1974, n. 95, convertito con modificazioni dalla L. 7 giugno 1974, n. 216, ha disposto (con l'art. 9, comma 2) che " Gli amministratori che emettono obbligazioni convertibili senza le indicazioni prescritte nell'ultimo comma dell'[articolo 2420-bis del codice civile](art-2420-bis-cc.md), sono puniti con l'ammenda da lire 1 milione a lire 5 milioni."

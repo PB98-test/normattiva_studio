@@ -14,7 +14,7 @@ capo_label: "Dei delitti contro il patrimonio mediante violenza alle cose o alle
 sezione: null
 sezione_label: null
 rubrica: "Danneggiamento"
-dataVigenza: "20261016"
+dataVigenza: "20261022"
 ordine: 872
 ---
 
@@ -35,11 +35,8 @@ Chiunque, all'interno o nelle pertinenze di strutture sanitarie o socio-sanitari
 Per i reati di cui, di cui ai commi precedenti, la sospensione condizionale della pena è subordinata all'eliminazione delle conseguenze dannose o pericolose del reato, ovvero, se il condannato non si oppone, alla prestazione di attività non retribuita a favore della collettività per un tempo determinato, comunque non superiore alla durata della pena sospesa, secondo le modalità indicate dal giudice nella sentenza di condanna.
 {: data-comma="5" }
 
-Nei casi previsti dal primo comma , nonchè dal secondo comma, numero
+Nei casi previsti dal primo comma , nonchè dal secondo comma, numero 1), limitatamente ai fatti commessi su cose esposte per necessità o per consuetudine o per destinazione alla pubblica fede, ai sensi dell'[articolo 625](art-625-cp.md), primo comma, numero 7), il delitto è punibile a querela della persona offesa. Si procede tuttavia d'ufficio se il fatto è commesso in occasione del delitto previsto dall'[articolo 331](../../02%20-%20Titolo%20II%20-%20DEI%20DELITTI%20CONTRO%20LA%20PUBBLICA%20AMMINISTRAZIONE/01%20-%20Capo%20I%20-%20Dei%20delitti%20dei%20pubblici%20ufficiali%20contro%20la%20pubblica%20Amministrazione/art-331-cp.md) ovvero se la persona offesa è incapace, per età o per infermità.
 {: data-comma="6" }
-
-- 1), limitatamente ai fatti commessi su cose esposte per necessità o per consuetudine o per destinazione alla pubblica fede, ai sensi dell'[articolo 625](art-625-cp.md), primo comma, numero
-- 7), il delitto è punibile a querela della persona offesa. Si procede tuttavia d'ufficio se il fatto è commesso in occasione del delitto previsto dall'[articolo 331](../../02%20-%20Titolo%20II%20-%20DEI%20DELITTI%20CONTRO%20LA%20PUBBLICA%20AMMINISTRAZIONE/01%20-%20Capo%20I%20-%20Dei%20delitti%20dei%20pubblici%20ufficiali%20contro%20la%20pubblica%20Amministrazione/art-331-cp.md) ovvero se la persona offesa è incapace, per età o per infermità.
 
 [^agg-355]
 

@@ -16,7 +16,7 @@ capo_label: "ESTINZIONE DELLE MISURE"
 sezione: null
 sezione_label: null
 rubrica: "Sospensione dei termini di durata massima della custodia cautelare"
-dataVigenza: "20261016"
+dataVigenza: "20261022"
 ordine: 362
 ---
 
@@ -35,10 +35,7 @@ ordine: 362
 
 3\. Nei casi previsti dal comma 2, la sospensione è disposta dal giudice, su richiesta del pubblico ministero, con ordinanza appellabile a norma dell'[articolo 310](../06%20-%20Capo%20VI%20-%20IMPUGNAZIONI/art-310-cpp.md).
 
-4\. I termini previsti dall'[articolo 303](art-303-cpp.md), comma 1, lettera
-
-- a), sono sospesi, con ordinanza appellabile a norma dell'[articolo 310](../06%20-%20Capo%20VI%20-%20IMPUGNAZIONI/art-310-cpp.md), se l'udienza preliminare è sospesa o rinviata per taluno dei casi indicati nel comma 1, lettere a) e
-- b), del presente articolo.
+4\. I termini previsti dall'[articolo 303](art-303-cpp.md), comma 1, lettera a), sono sospesi, con ordinanza appellabile a norma dell'[articolo 310](../06%20-%20Capo%20VI%20-%20IMPUGNAZIONI/art-310-cpp.md), se l'udienza preliminare è sospesa o rinviata per taluno dei casi indicati nel comma 1, lettere a) e b), del presente articolo.
 
 5\. Le disposizioni di cui alle lettere a) e b) del comma 1, anche se riferite al giudizio abbreviato e di cui al comma 4 non si applicano ai coimputati ai quali i casi di sospensione non si riferiscono e che chiedono che si proceda nei loro confronti previa separazione dei processi. [^agg-63]
 

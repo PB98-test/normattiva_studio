@@ -14,16 +14,13 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Individuazione dei soggetti esenti dal versamento dell'IMU e disposizioni per il sostegno delle imprese di pubblico esercizio"
-dataVigenza: "20261016"
+dataVigenza: "20261022"
 ordine: 25
 ---
 
 # Art. 9-ter - ***Individuazione dei soggetti esenti dal versamento dell'IMU e disposizioni per il sostegno delle imprese di pubblico esercizio***
 
-1\. Le disposizioni di cui all'articolo 177, comma 1, lettera
-
-- b), del decreto-legge 19 maggio 2020, n. 34, convertito, con modificazioni, dalla legge 17 luglio 2020, n. 77, all'articolo 78, comma 1, lettere b), d) ed
-- e), del decreto-legge 14 agosto 2020, n. 104, convertito, con modificazioni, dalla legge 13 ottobre 2020, n. 126, e agli [articoli 9](art-9-dl137-20.md), comma 1, e 9-bis, comma 1, del presente decreto si applicano ai soggetti passivi dell'imposta municipale propria (IMU), come individuati dal comma 743 dell'articolo 1 della legge 27 dicembre 2019, n. 160, che siano anche gestori delle attività economiche indicate dalle predette disposizioni.
+1\. Le disposizioni di cui all'articolo 177, comma 1, lettera b), del decreto-legge 19 maggio 2020, n. 34, convertito, con modificazioni, dalla legge 17 luglio 2020, n. 77, all'articolo 78, comma 1, lettere b), d) ed e), del decreto-legge 14 agosto 2020, n. 104, convertito, con modificazioni, dalla legge 13 ottobre 2020, n. 126, e agli [articoli 9](art-9-dl137-20.md), comma 1, e 9-bis, comma 1, del presente decreto si applicano ai soggetti passivi dell'imposta municipale propria (IMU), come individuati dal comma 743 dell'articolo 1 della legge 27 dicembre 2019, n. 160, che siano anche gestori delle attività economiche indicate dalle predette disposizioni.
 
 2\. Al fine di promuovere la ripresa delle attività turistiche, danneggiate dall'emergenza epidemiologica da COVID-19, le imprese di pubblico esercizio di cui all'articolo 5 della legge 25 agosto 1991, n. 287, titolari di concessioni o di autorizzazioni concernenti l'utilizzazione del suolo pubblico, tenuto conto di quanto stabilito dall'articolo 4, comma 3-quater, del decreto-legge 30 dicembre 2019, n. 162, convertito, con modificazioni, dalla legge 28 febbraio 2020, n. 8, già esonerate dal 1° maggio 2020 al 31 dicembre 2020, ai sensi dell'articolo 181, comma 1, del decreto-legge 19 maggio 2020, n. 34, convertito, con modificazioni, dalla legge 17 luglio 2020, n. 77, sono esonerate, dal 1° gennaio 2021 al 31 dicembre 2021, dal pagamento del canone di cui all'articolo 1, commi 816 e seguenti, della legge 27 dicembre 2019, n. 160. [^agg-21]
 

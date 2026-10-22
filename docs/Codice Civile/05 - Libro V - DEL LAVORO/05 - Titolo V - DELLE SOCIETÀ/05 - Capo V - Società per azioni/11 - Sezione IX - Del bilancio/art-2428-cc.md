@@ -14,7 +14,7 @@ capo_label: "Società per azioni"
 sezione: "IX"
 sezione_label: "Del bilancio"
 rubrica: "Relazione sulla gestione"
-dataVigenza: "20261016"
+dataVigenza: "20261022"
 ordine: 2622
 ---
 
@@ -35,7 +35,7 @@ Dalla relazione devono in ogni caso risultare:
 - 4) il numero e il valore nominale sia delle azioni proprie sia delle azioni o quote di società controllanti acquistate o alienate dalla società, nel corso dell'esercizio, anche per tramite di società fiduciaria o per interposta persona, con l'indicazione della corrispondente parte di capitale, dei corrispettivi e dei motivi degli acquisti e delle alienazioni;
 - 5) NUMERO ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 139; [^agg-246]
 - 6) l'evoluzione prevedibile della gestione.
-- 6-bis) in relazione all'uso da parte della società di strumenti finanziari e se rilevanti per la valutazione della situazione patrimoniale e finanziaria e del risultato economico dell'esercizio:   a) gli obiettivi e le politiche della società in materia di gestione del rischio finanziario, compresa la politica di copertura per ciascuna principale categoria di operazioni previste;   b) l'esposizione della società al rischio di prezzo, al rischio di credito, al rischio di liquidità e al rischio di variazione dei flussi finanziari.
+- 6-bis) in relazione all'uso da parte della società di strumenti finanziari e se rilevanti per la valutazione della situazione patrimoniale e finanziaria e del risultato economico dell'esercizio: a) gli obiettivi e le politiche della società in materia di gestione del rischio finanziario, compresa la politica di copertura per ciascuna principale categoria di operazioni previste; b) l'esposizione della società al rischio di prezzo, al rischio di credito, al rischio di liquidità e al rischio di variazione dei flussi finanziari.
 
 COMMA ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 195.
 {: data-comma="4" }

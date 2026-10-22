@@ -14,7 +14,7 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Regolamentazione della circolazione nei centri abitati"
-dataVigenza: "20261020"
+dataVigenza: "20261022"
 ordine: 7
 ---
 
@@ -37,10 +37,7 @@ ordine: 7
 
 2\. I divieti di sosta si intendono imposti dalle ore 8 alle ore 20, salvo che sia diversamente indicato nel relativo segnale.
 
-3\. Per i tratti di strade non comunali che attraversano centri abitati, i provvedimenti indicati nell'[art. 6](art-6-dlgs285-92.md), commi 1 e 2, sono di competenza del prefetto e quelli indicati nello stesso articolo, comma 4, lettera
-
-- a), sono di competenza dell'ente proprietario della strada. I provvedimenti indicati nello stesso comma 4, lettere b), c), d), e) ed
-- f) sono di competenza del comune, che li adotta sentito il parere dell'ente proprietario della strada.
+3\. Per i tratti di strade non comunali che attraversano centri abitati, i provvedimenti indicati nell'[art. 6](art-6-dlgs285-92.md), commi 1 e 2, sono di competenza del prefetto e quelli indicati nello stesso articolo, comma 4, lettera a), sono di competenza dell'ente proprietario della strada. I provvedimenti indicati nello stesso comma 4, lettere b), c), d), e) ed f) sono di competenza del comune, che li adotta sentito il parere dell'ente proprietario della strada.
 
 4\. Nel caso di sospensione della circolazione per motivi di sicurezza pubblica o di sicurezza della circolazione o per esigenze di carattere militare, ovvero laddove siano stati stabiliti obblighi, divieti o limitazioni di carattere temporaneo o permanente, possono essere accordati, per accertate necessità, permessi subordinati a speciali condizioni e cautele. Nei casi in cui sia stata vietata o limitata la sosta, possono essere accordati permessi subordinati a speciali condizioni e cautele ai veicoli riservati a servizi di polizia e a quelli utilizzati dagli esercenti la professione sanitaria, nell'espletamento delle proprie mansioni, nonchè dalle persone con limitata o impedita capacità motoria, muniti del contrassegno speciale.
 

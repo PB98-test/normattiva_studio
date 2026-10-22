@@ -14,7 +14,7 @@ capo_label: "Delle impugnazioni"
 sezione: null
 sezione_label: null
 rubrica: "Casi di nullità"
-dataVigenza: "20260930"
+dataVigenza: "20261022"
 ordine: 1026
 ---
 
@@ -27,8 +27,9 @@ L'impugnazione per nullità è ammessa, nonostante qualunque preventiva rinuncia
 - 2) se gli arbitri non sono stati nominati con le forme e nei modi prescritti nei capi II e VI del presente titolo, purchè la nullità sia stata dedotta nel giudizio arbitrale;
 - 3) se il lodo è stato pronunciato da chi non poteva essere nominato arbitro a norma dell'[articolo 812](../02%20-%20Capo%20II%20-%20Degli%20arbitri/art-812-cpc.md);
 - 4) se il lodo ha pronunciato fuori dei limiti della convenzione d'arbitrato, ferma la disposizione dell'[articolo 817](../03%20-%20Capo%20III%20-%20Del%20procedimento/art-817-cpc.md), quarto comma, o ha deciso il merito della controversia in ogni altro caso in cui il merito non poteva essere deciso;
-- 5) se il lodo non ha i requisiti indicati nei numeri 5), 6),
-- 7) dell'[articolo 823](../04%20-%20Capo%20IV%20-%20Del%20lodo/art-823-cpc.md); 6) se il lodo è stato pronunciato dopo la scadenza del termine stabilito, salvo il disposto dell'[articolo 821](../04%20-%20Capo%20IV%20-%20Del%20lodo/art-821-cpc.md); 7) se nel procedimento non sono state osservate le forme prescritte dalle parti sotto espressa sanzione di nullità e la nullità non è stata sanata;
+- 5) se il lodo non ha i requisiti indicati nei numeri 5), 6), 7) dell'[articolo 823](../04%20-%20Capo%20IV%20-%20Del%20lodo/art-823-cpc.md);
+- 6) se il lodo è stato pronunciato dopo la scadenza del termine stabilito, salvo il disposto dell'[articolo 821](../04%20-%20Capo%20IV%20-%20Del%20lodo/art-821-cpc.md);
+- 7) se nel procedimento non sono state osservate le forme prescritte dalle parti sotto espressa sanzione di nullità e la nullità non è stata sanata;
 - 8) se il lodo è contrario ad altro precedente lodo non più impugnabile o a precedente sentenza passata in giudicato tra le parti purchè tale lodo o tale sentenza sia stata prodotta nel procedimento;
 - 9) se non è stato osservato nel procedimento arbitrale il principio del contraddittorio;
 - 10) se il lodo conclude il procedimento senza decidere il merito della controversia e il merito della controversia doveva essere deciso dagli arbitri;

@@ -14,7 +14,7 @@ capo_label: "Società per azioni"
 sezione: "VI"
 sezione_label: "Dell'assemblea"
 rubrica: "Assemblea ordinaria nelle società prive di consiglio di sorveglianza"
-dataVigenza: "20261016"
+dataVigenza: "20261022"
 ordine: 2502
 ---
 
@@ -33,6 +33,4 @@ Nelle società prive di consiglio di sorveglianza, l'assemblea ordinaria:
 L'assemblea ordinaria deve essere convocata almeno una volta l'anno, entro il termine stabilito dallo statuto e comunque non superiore a centoventi giorni dalla chiusura dell'esercizio sociale. Lo statuto può prevedere un maggior termine, comunque non superiore a centottanta giorni, nel caso di società tenute alla redazione del bilancio consolidato ovvero quando lo richiedono particolari esigenze relative alla struttura ed all'oggetto della società; in questi casi gli amministratori segnalano nella relazione prevista dall'[articolo 2428](../11%20-%20Sezione%20IX%20-%20Del%20bilancio/art-2428-cc.md) le ragioni della dilazione.
 {: data-comma="2" }
 
------------------
-
-<small>*AGGIORNAMENTO (4)*   Il D.P.R. 13 febbraio 1959, n. 449 ha disposto (con l'art. 55, commi 1 e 2) che "L'esercizio sociale delle imprese private di assicurazione regolate dal presente testo unico ha inizio il 1 gennaio e finisce il 31 dicembre di ogni anno.   In deroga all'[art. 2364 del codice civile](art-2364-cc.md), il termine entro il quale dette imprese debbono approvare il loro bilancio è fissato al 30 giugno dell'anno successivo a quello cui si riferisce il bilancio stesso. Per le imprese che esercitano la riassicurazione detto termine può essere protratto fino al 30 novembre dal Ministero della industria e del commercio su domanda delle società interessate".</small>
+[^agg-4]: *AGGIORNAMENTO (4)* Il D.P.R. 13 febbraio 1959, n. 449 ha disposto (con l'art. 55, commi 1 e 2) che "L'esercizio sociale delle imprese private di assicurazione regolate dal presente testo unico ha inizio il 1 gennaio e finisce il 31 dicembre di ogni anno.   In deroga all'[art. 2364 del codice civile](art-2364-cc.md), il termine entro il quale dette imprese debbono approvare il loro bilancio è fissato al 30 giugno dell'anno successivo a quello cui si riferisce il bilancio stesso. Per le imprese che esercitano la riassicurazione detto termine può essere protratto fino al 30 novembre dal Ministero della industria e del commercio su domanda delle società interessate".

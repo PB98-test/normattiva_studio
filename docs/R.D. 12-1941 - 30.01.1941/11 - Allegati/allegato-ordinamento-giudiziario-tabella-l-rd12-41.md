@@ -12,7 +12,7 @@ capo: null
 capo_label: null
 sezione: null
 sezione_label: null
-dataVigenza: "20261016"
+dataVigenza: "20261022"
 ordine: 334
 ---
 
@@ -43,6 +43,4 @@ Bari | 1| 1| 1| 1 Bologna | 1| 1| 1| 1 Catania | 1| 1| 1| 1 Firenze | 1| 1| 1| 1
 
 Totali| 12| 12| 12| 18 Visto, il Ministro per la grazia e giustizia Bosco))
 
-<small>*AGGIORNAMENTO (51)*</small>
-
-La L. 23 maggio 1956, n. 490, ha disposto (con l'art. 3, comma 1) che "La presente legge avrà completa attuazione entro 90 giorni dalla sua pubblicazione nella Gazzetta Ufficiale".
+[^agg-51]: *AGGIORNAMENTO (51)* La L. 23 maggio 1956, n. 490, ha disposto (con l'art. 3, comma 1) che "La presente legge avrà completa attuazione entro 90 giorni dalla sua pubblicazione nella Gazzetta Ufficiale".

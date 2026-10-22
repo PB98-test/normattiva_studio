@@ -16,7 +16,7 @@ capo_label: "FORMA ED ESECUZIONE DEI PROVVEDIMENTI"
 sezione: null
 sezione_label: null
 rubrica: "Procedimento applicativo"
-dataVigenza: "20261016"
+dataVigenza: "20261022"
 ordine: 349
 ---
 
@@ -28,10 +28,7 @@ ordine: 349
 
 1-ter. - Quando è necessario, nella richiesta sono riprodotti soltanto i brani essenziali delle comunicazioni e conversazioni intercettate , in ogni caso senza indicare i dati personali dei soggetti diversi dalle parti, salvo che ciò sia indispensabile per la compiuta esposizione. [^agg-253] [^agg-260] [^agg-263] [^agg-270] [^agg-275]
 
-1-quater. Fermo il disposto dell'[articolo 289](../03%20-%20Capo%20III%20-%20MISURE%20INTERDITTIVE/art-289-cpp.md), comma 2, secondo periodo, prima di disporre la misura, il giudice procede all'interrogatorio della persona sottoposta alle indagini preliminari con le modalità indicate agli [articoli 64](../../../01%20-%20Libro%20I%20-%20SOGGETTI/04%20-%20Titolo%20IV%20-%20IMPUTATO/art-64-cpp.md) e [65](../../../01%20-%20Libro%20I%20-%20SOGGETTI/04%20-%20Titolo%20IV%20-%20IMPUTATO/art-65-cpp.md), salvo che sussista taluna delle esigenze cautelari di cui all'[articolo 274](../01%20-%20Capo%20I%20-%20DISPOSIZIONI%20GENERALI/art-274-cpp.md), comma 1, lettere a) e
-
-- b), oppure l'esigenza cautelare di cui all'[articolo 274](../01%20-%20Capo%20I%20-%20DISPOSIZIONI%20GENERALI/art-274-cpp.md), comma 1, lettera
-- c), in relazione ad uno dei delitti indicati all'[articolo 407](../../../../02%20-%20Parte%20II/01%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/09%20-%20Titolo%20VIII%20-%20CHIUSURA%20DELLE%20INDAGINI%20PRELIMINARI/art-407-cpp.md), comma 2, lettera a), o all'[articolo 362](../../../../02%20-%20Parte%20II/01%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/05%20-%20Titolo%20V%20-%20ATTIVITÀ%20DEL%20PUBBLICO%20MINISTERO/art-362-cpp.md), comma 1-ter, ovvero a gravi delitti commessi con uso di armi o con altri mezzi di violenza personale.
+1-quater. Fermo il disposto dell'[articolo 289](../03%20-%20Capo%20III%20-%20MISURE%20INTERDITTIVE/art-289-cpp.md), comma 2, secondo periodo, prima di disporre la misura, il giudice procede all'interrogatorio della persona sottoposta alle indagini preliminari con le modalità indicate agli [articoli 64](../../../01%20-%20Libro%20I%20-%20SOGGETTI/04%20-%20Titolo%20IV%20-%20IMPUTATO/art-64-cpp.md) e [65](../../../01%20-%20Libro%20I%20-%20SOGGETTI/04%20-%20Titolo%20IV%20-%20IMPUTATO/art-65-cpp.md), salvo che sussista taluna delle esigenze cautelari di cui all'[articolo 274](../01%20-%20Capo%20I%20-%20DISPOSIZIONI%20GENERALI/art-274-cpp.md), comma 1, lettere a) e b), oppure l'esigenza cautelare di cui all'[articolo 274](../01%20-%20Capo%20I%20-%20DISPOSIZIONI%20GENERALI/art-274-cpp.md), comma 1, lettera c), in relazione ad uno dei delitti indicati all'[articolo 407](../../../../02%20-%20Parte%20II/01%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/09%20-%20Titolo%20VIII%20-%20CHIUSURA%20DELLE%20INDAGINI%20PRELIMINARI/art-407-cpp.md), comma 2, lettera a), o all'[articolo 362](../../../../02%20-%20Parte%20II/01%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/05%20-%20Titolo%20V%20-%20ATTIVITÀ%20DEL%20PUBBLICO%20MINISTERO/art-362-cpp.md), comma 1-ter, ovvero a gravi delitti commessi con uso di armi o con altri mezzi di violenza personale.
 
 1-quinquies. Nel caso di cui all'[articolo 328](../../../../02%20-%20Parte%20II/01%20-%20Libro%20V%20-%20INDAGINI%20PRELIMINARI%20E%20UDIENZA%20PRELIMINARE/01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-328-cpp.md), comma 1-quinquies, all'interrogatorio procede il presidente del collegio o uno dei componenti da lui delegato. [^agg-318] [^agg-344]
 

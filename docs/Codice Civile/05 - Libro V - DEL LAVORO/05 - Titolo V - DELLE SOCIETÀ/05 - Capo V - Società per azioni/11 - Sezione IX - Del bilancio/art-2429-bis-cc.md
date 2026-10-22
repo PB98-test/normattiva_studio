@@ -15,12 +15,10 @@ sezione: "IX"
 sezione_label: "Del bilancio"
 rubrica: null
 abrogato: true
-dataVigenza: "20261016"
+dataVigenza: "20261022"
 ordine: 2624
 ---
 
 # Art. 2429-bis - *(Omissis)*
 
-----------------
-
-<small>*AGGIORNAMENTO (141)*   Il D.Lgs. 17 gennaio 2003, n. 6, disponendo (con l'art. 1, comma 1) la sostituzione del Libro V, Titolo V, Capo V, non ha più previsto il presente articolo.</small>
+[^agg-141]: *AGGIORNAMENTO (141)* Il D.Lgs. 17 gennaio 2003, n. 6, disponendo (con l'art. 1, comma 1) la sostituzione del Libro V, Titolo V, Capo V, non ha più previsto il presente articolo.

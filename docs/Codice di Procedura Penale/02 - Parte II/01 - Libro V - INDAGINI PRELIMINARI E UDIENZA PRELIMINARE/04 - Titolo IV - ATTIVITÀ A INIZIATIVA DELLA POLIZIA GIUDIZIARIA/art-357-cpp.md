@@ -16,7 +16,7 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Documentazione dell'attività di polizia giudiziaria"
-dataVigenza: "20261016"
+dataVigenza: "20261022"
 ordine: 424
 ---
 
@@ -35,10 +35,7 @@ ordine: 424
 
 3\. Il verbale è redatto da ufficiali o agenti di polizia giudiziaria nelle forme e con le modalità previste dall'[articolo 373](../05%20-%20Titolo%20V%20-%20ATTIVITÀ%20DEL%20PUBBLICO%20MINISTERO/art-373-cpp.md).
 
-3-bis. Quando le indagini riguardano taluno dei delitti di cui all'[articolo 407](../09%20-%20Titolo%20VIII%20-%20CHIUSURA%20DELLE%20INDAGINI%20PRELIMINARI/art-407-cpp.md), comma 2, lettera
-
-- a), oppure quando la persona informata sui fatti ne faccia richiesta, alla documentazione delle informazioni di cui al comma 2, lettera
-- c), si procede altresì mediante riproduzione fonografica a mezzo di strumenti tecnici idonei ad opera della polizia giudiziaria, salva la contingente indisponibilità di strumenti di riproduzione o di personale tecnico.
+3-bis. Quando le indagini riguardano taluno dei delitti di cui all'[articolo 407](../09%20-%20Titolo%20VIII%20-%20CHIUSURA%20DELLE%20INDAGINI%20PRELIMINARI/art-407-cpp.md), comma 2, lettera a), oppure quando la persona informata sui fatti ne faccia richiesta, alla documentazione delle informazioni di cui al comma 2, lettera c), si procede altresì mediante riproduzione fonografica a mezzo di strumenti tecnici idonei ad opera della polizia giudiziaria, salva la contingente indisponibilità di strumenti di riproduzione o di personale tecnico.
 
 3-ter. Le dichiarazioni della persona minorenne, inferma di mente o in condizioni di particolare vulnerabilità sono documentate integralmente, a pena di inutilizzabilità, con mezzi di riproduzione audiovisiva o fonografica, salvo che si verifichi una contingente indisponibilità di strumenti di riproduzione o di personale tecnico e sussistano particolari ragioni di urgenza che non consentano di rinviare l'atto.
 

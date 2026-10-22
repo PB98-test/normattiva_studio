@@ -14,7 +14,7 @@ capo_label: "DISPOSIZIONI RELATIVE ALLE IMPUGNAZIONI"
 sezione: null
 sezione_label: null
 rubrica: "Adempimenti connessi alla trasmissione degli atti al giudice dell'impugnazione"
-dataVigenza: "20260925"
+dataVigenza: "20261022"
 ordine: 216
 ---
 
@@ -25,5 +25,4 @@ ordine: 216
 - a) i nominativi dei difensori, di fiducia o d'ufficio, con indicazione della data di nomina;
 - b) le dichiarazioni o elezioni o determinazioni di domicilio, con indicazione delle relative date;
 - c) i termini di prescrizione riferiti a ciascun reato, con indicazione degli atti interruttivi e delle specifiche cause di sospensione del relativo corso, ovvero eventuali dichiarazioni di rinuncia alla prescrizione;
-- d) i termini di scadenza delle misure cautelari in atto, con indicazione della data di inizio e di eventuali periodi di sospensione o proroga. 2. Nel caso di ricorso per cassazione, a cura della cancelleria del giudice che ha emesso il provvedimento impugnato, è inserita in separato fascicolo allegato al ricorso, qualora non già contenuta negli atti trasmessi, copia degli atti specificamente indicati da chi ha proposto l'impugnazione ai sensi dell'articolo 606, comma 1, lettera
-- e), del codice; della loro mancanza è fatta attestazione.
+- d) i termini di scadenza delle misure cautelari in atto, con indicazione della data di inizio e di eventuali periodi di sospensione o proroga. 2. Nel caso di ricorso per cassazione, a cura della cancelleria del giudice che ha emesso il provvedimento impugnato, è inserita in separato fascicolo allegato al ricorso, qualora non già contenuta negli atti trasmessi, copia degli atti specificamente indicati da chi ha proposto l'impugnazione ai sensi dell'articolo 606, comma 1, lettera e), del codice; della loro mancanza è fatta attestazione.

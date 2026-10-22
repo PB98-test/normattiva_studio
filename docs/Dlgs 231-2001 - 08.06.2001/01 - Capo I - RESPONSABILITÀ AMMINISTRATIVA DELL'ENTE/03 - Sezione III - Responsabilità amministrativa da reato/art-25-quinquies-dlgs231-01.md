@@ -14,7 +14,7 @@ capo_label: "RESPONSABILITÀ AMMINISTRATIVA DELL'ENTE"
 sezione: "III"
 sezione_label: "Responsabilità amministrativa da reato"
 rubrica: "Delitti contro la personalità individuale"
-dataVigenza: "20260928"
+dataVigenza: "20261022"
 ordine: 33
 ---
 
@@ -27,9 +27,6 @@ ordine: 33
 - c) per i delitti di cui agli articoli 600-bis, secondo comma, 600-ter, terzo e quarto comma, e 600-quater, anche se relativi al materiale pornografico di cui all'articolo 600-quater.1, nonchè per il delitto di cui all'articolo 609-undecies la sanzione pecuniaria da duecento a settecento quote.
 - c-bis) per il delitto di cui all'articolo 601.1 la sanzione pecuniaria da cento a seicento quote.
 
-2\. Nei casi di condanna per uno dei delitti indicati nel comma 1, lettere a) e
-
-- b), si applicano le sanzioni interdittive previste dall'[articolo 9](../02%20-%20Sezione%20II%20-%20Sanzioni%20in%20generale/art-9-dlgs231-01.md), comma 2, per una durata non inferiore ad un anno ; nei casi di condanna per il delitto indicato nel comma 1, lettera
-- c-bis), si applicano le sanzioni interdittive previste dall'[articolo 9](../02%20-%20Sezione%20II%20-%20Sanzioni%20in%20generale/art-9-dlgs231-01.md), comma 2, per una durata non inferiore a sei mesi.
+2\. Nei casi di condanna per uno dei delitti indicati nel comma 1, lettere a) e b), si applicano le sanzioni interdittive previste dall'[articolo 9](../02%20-%20Sezione%20II%20-%20Sanzioni%20in%20generale/art-9-dlgs231-01.md), comma 2, per una durata non inferiore ad un anno ; nei casi di condanna per il delitto indicato nel comma 1, lettera c-bis), si applicano le sanzioni interdittive previste dall'[articolo 9](../02%20-%20Sezione%20II%20-%20Sanzioni%20in%20generale/art-9-dlgs231-01.md), comma 2, per una durata non inferiore a sei mesi.
 
 3\. Se l'ente o una sua unità organizzativa viene stabilmente utilizzato allo scopo unico o prevalente di consentire o agevolare la commissione dei reati indicati nel comma 1, si applica la sanzione dell'interdizione definitiva dall'esercizio dell'attività ai sensi dell'[articolo 16](../02%20-%20Sezione%20II%20-%20Sanzioni%20in%20generale/art-16-dlgs231-01.md), comma 3.

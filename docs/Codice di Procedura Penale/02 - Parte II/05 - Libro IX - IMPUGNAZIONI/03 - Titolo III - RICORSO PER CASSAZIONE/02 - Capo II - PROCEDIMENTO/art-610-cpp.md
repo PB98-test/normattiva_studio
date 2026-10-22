@@ -16,7 +16,7 @@ capo_label: "PROCEDIMENTO"
 sezione: null
 sezione_label: null
 rubrica: "Atti preliminari"
-dataVigenza: "20261016"
+dataVigenza: "20261022"
 ordine: 733
 ---
 
@@ -34,9 +34,8 @@ ordine: 733
 
 5\. Almeno trenta giorni prima della data dell'udienza, la cancelleria ne dà avviso al procuratore generale e ai difensori, indicando che il ricorso sarà deciso in camera di consiglio, senza la presenza delle parti, salvo il disposto dell'[articolo 611](art-611-cpp.md). Nei procedimenti da trattare con le forme previste dall'[articolo 127](../../../../01%20-%20Parte%20I/02%20-%20Libro%20II%20-%20ATTI/02%20-%20Titolo%20II%20-%20ATTI%20E%20PROVVEDIMENTI%20DEL%20GIUDICE/art-127-cpp.md) il termine è ridotto ad almeno venti giorni prima dell'udienza. PERIODO SOPPRESSO DALLA L. 26 MARZO 2001, N. 128. [^agg-314]
 
-5-bis. Nei casi previsti dall'[articolo 591](../../01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-591-cpp.md), comma 1, lettere
+5-bis. Nei casi previsti dall'[articolo 591](../../01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-591-cpp.md), comma 1, lettere a), limitatamente al difetto di legittimazione, b),
 
-- a), limitatamente al difetto di legittimazione, b),
 - c), esclusa l'inosservanza delle disposizioni dell'[articolo 581](../../01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-581-cpp.md), e
 - d), la corte dichiara senza formalità di procedura l'inammissibilità del ricorso. Allo stesso modo la corte dichiara l'inammissibilità del ricorso contro la sentenza di applicazione della pena su richiesta delle parti e contro la sentenza pronunciata a norma dell'[articolo 599-bis](../../02%20-%20Titolo%20II%20-%20APPELLO/art-599-bis-cpp.md). Contro tale provvedimento è ammesso il ricorso straordinario a norma dell'[articolo 625-bis](../03%20-%20Capo%20III%20-%20SENTENZA/art-625-bis-cpp.md).
 

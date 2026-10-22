@@ -14,18 +14,18 @@ capo_label: "DISPOSIZIONI RELATIVE AL DIBATTIMENTO"
 sezione: null
 sezione_label: null
 rubrica: "Ricognizione in dibattimento delle persone che collaborano con la giustizia"
-dataVigenza: "20261016"
+dataVigenza: "20261022"
 ordine: 191
 ---
 
 # Art. 147-ter - ***Ricognizione in dibattimento delle persone che collaborano con la giustizia***
 
-1\. Quando nel dibattimento occorre procedere a ricognizione della persona nei cui confronti è stato emesso il decreto di cambiamento delle generalità di cui all'articolo 3 del decreto legislativo 29 marzo 1993, n. 119, ovvero ad altro atto che implica l'osservazione del corpo della medesima, il giudice, ove lo ritenga indispensabile, ne autorizza o ordina la citazione o ne dispone l'accompagnamento coattivo per il tempo necessario al compimento dell'atto.   2. Durante tutto il tempo in cui la persona è presente nell'aula di udienza, il dibattimento si svolge a porte chiuse a norma dell'articolo 473, comma 2, del codice.   3. Se l'atto da assumere non ne rende necessaria l'osservazione, il giudice dispone le cautele idonee ad evitare che il volto della persona sia visibile. (27) (33)
+1\. Quando nel dibattimento occorre procedere a ricognizione della persona nei cui confronti è stato emesso il decreto di cambiamento delle generalità di cui all'articolo 3 del decreto legislativo 29 marzo 1993, n. 119, ovvero ad altro atto che implica l'osservazione del corpo della medesima, il giudice, ove lo ritenga indispensabile, ne autorizza o ordina la citazione o ne dispone l'accompagnamento coattivo per il tempo necessario al compimento dell'atto.
 
-----------------
+2\. Durante tutto il tempo in cui la persona è presente nell'aula di udienza, il dibattimento si svolge a porte chiuse a norma dell'articolo 473, comma 2, del codice.
 
-<small>*AGGIORNAMENTO (27)* La L. 7 gennaio 1998, n. 11 ha disposto (con l'art. 6, comma 1) che la suddetta modifica ha efficacia dal 31 dicembre 2000.</small>
+3\. Se l'atto da assumere non ne rende necessaria l'osservazione, il giudice dispone le cautele idonee ad evitare che il volto della persona sia visibile. [^agg-27] [^agg-33]
 
-----------------
+[^agg-27]: *AGGIORNAMENTO (27)* La L. 7 gennaio 1998, n. 11 ha disposto (con l'art. 6, comma 1) che la suddetta modifica ha efficacia dal 31 dicembre 2000.
 
-<small>*AGGIORNAMENTO (33)* La L. 7 gennaio 1998, n. 11, come modificata dal D.L. 24 novembre 2000, n. 341, convertito con modificazioni dalla L. 19 gennaio 2001, n. 4, ha disposto (con l'art. 6, comma 1) che le modifiche dalla stessa introdotte hanno efficacia dal 31 dicembre 2002.</small>
+[^agg-33]: *AGGIORNAMENTO (33)* La L. 7 gennaio 1998, n. 11, come modificata dal D.L. 24 novembre 2000, n. 341, convertito con modificazioni dalla L. 19 gennaio 2001, n. 4, ha disposto (con l'art. 6, comma 1) che le modifiche dalla stessa introdotte hanno efficacia dal 31 dicembre 2002.

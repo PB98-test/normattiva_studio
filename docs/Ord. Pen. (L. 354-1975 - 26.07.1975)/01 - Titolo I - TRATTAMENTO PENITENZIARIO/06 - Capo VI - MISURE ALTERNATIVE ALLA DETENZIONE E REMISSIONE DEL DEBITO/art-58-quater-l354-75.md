@@ -14,7 +14,7 @@ capo_label: "MISURE ALTERNATIVE ALLA DETENZIONE E REMISSIONE DEL DEBITO"
 sezione: null
 sezione_label: null
 rubrica: "Divieto di concessione di benefici"
-dataVigenza: "20261016"
+dataVigenza: "20261022"
 ordine: 93
 ---
 
@@ -22,7 +22,7 @@ ordine: 93
 
 1\. L'assegnazione al lavoro all'esterno, i permessi premio, l'affidamento in prova al servizio sociale, nei casi previsti dall'[articolo 47](art-47-l354-75.md), la detenzione domiciliare e la semilibertà non possono essere concessi al condannato che sia stato riconosciuto colpevole di una condotta punibile a norma dell'[articolo 385 del codice penale](../../../Codice%20Penale/02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/03%20-%20Titolo%20III%20-%20DEI%20DELITTI%20CONTRO%20L%27AMMINISTRAZIONE%20DELLA%20GIUSTIZIA/02%20-%20Capo%20II%20-%20Dei%20delitti%20contro%20l%27autorità%20delle%20decisioni%20giudiziarie/art-385-cp.md). [^agg-62][^agg-97]
 
-2\. La disposizione del comma 1 si applica anche al condannato nei cui confronti è stata disposta la revoca di una misura alternativa ai sensi dell'[articolo 47](art-47-l354-75.md), comma 11, dell'[articolo 47-ter](art-47-ter-l354-75.md), comma 6, o dell'[articolo 51](art-51-l354-75.md), primo comma. (39 A) [^agg-97]
+2\. La disposizione del comma 1 si applica anche al condannato nei cui confronti è stata disposta la revoca di una misura alternativa ai sensi dell'[articolo 47](art-47-l354-75.md), comma 11, dell'[articolo 47-ter](art-47-ter-l354-75.md), comma 6, o dell'[articolo 51](art-51-l354-75.md), primo comma. [^agg-39A] [^agg-97]
 
 3\. Il divieto di concessione dei benefici opera per un periodo di tre anni dal momento in cui è ripresa l'esecuzione della custodia o della pena o è stato emesso il provvedimento di revoca indicato nel comma 2. [^agg-97] [^agg-131]
 
@@ -34,7 +34,9 @@ ordine: 93
 
 7\. Il divieto di concessione dei benefici di cui al comma 5 opera per un periodo di cinque anni dal momento in cui è ripresa l'esecuzione della custodia o della pena o è stato emesso il provvedimento di revoca della misura.
 
-<small>7-bis. L'affidamento in prova al servizio sociale nei casi previsti dall'[articolo 47](art-47-l354-75.md), la detenzione domiciliare e la semilibertà non possono essere concessi più di una volta al condannato al quale sia stata applicata la recidiva prevista dall'[articolo 99, quarto comma, del codice penale](../../../Codice%20Penale/01%20-%20Libro%20I%20-%20DEI%20REATI%20IN%20GENERALE/04%20-%20Titolo%20IV%20-%20DEL%20REO%20E%20DELLA%20PERSONA%20OFFESA%20DAL%20REATO/02%20-%20Capo%20II%20-%20Della%20recidiva,%20dell%27abitualità%20e%20professionalità%20nel%20reato%20e%20della%20te/art-99-cp.md). [^agg-62] *AGGIORNAMENTO (39 A)* La Corte Costituzionale con sentenza 22 novembre-1 dicembre 1999, n. 436 (in G.U. 1a s.s.09/12/1999, n. 49) ha dichiarato l'illegittimità costituzionale dell'art. dell'[art. 58-quater, comma 2, della legge 26 luglio 1975, n. 354](art-58-quater-l354-75.md) (Norme sull'ordinamento penitenziario e sull'esecuzione delle misure privative e limitative della libertà), nella parte in cui si riferisce ai minorenni.</small>
+7-bis. L'affidamento in prova al servizio sociale nei casi previsti dall'[articolo 47](art-47-l354-75.md), la detenzione domiciliare e la semilibertà non possono essere concessi più di una volta al condannato al quale sia stata applicata la recidiva prevista dall'[articolo 99, quarto comma, del codice penale](../../../Codice%20Penale/01%20-%20Libro%20I%20-%20DEI%20REATI%20IN%20GENERALE/04%20-%20Titolo%20IV%20-%20DEL%20REO%20E%20DELLA%20PERSONA%20OFFESA%20DAL%20REATO/02%20-%20Capo%20II%20-%20Della%20recidiva,%20dell%27abitualità%20e%20professionalità%20nel%20reato%20e%20della%20te/art-99-cp.md). [^agg-62]
+
+[^agg-39A]: *AGGIORNAMENTO (39 A)* La Corte Costituzionale con sentenza 22 novembre-1 dicembre 1999, n. 436 (in G.U. 1a s.s.09/12/1999, n. 49) ha dichiarato l'illegittimità costituzionale dell'art. dell'[art. 58-quater, comma 2, della legge 26 luglio 1975, n. 354](art-58-quater-l354-75.md) (Norme sull'ordinamento penitenziario e sull'esecuzione delle misure privative e limitative della libertà), nella parte in cui si riferisce ai minorenni.
 
 [^agg-62]: *AGGIORNAMENTO (62)* La Corte Costituzionale, con sentenza 5-16 marzo 2007, n.79 (in G.U. 1a s.s. 21/03/2007, n. 12) come modificata dal Comunicato 5-16 marzo 2007, n. 79 (in G.U. 1a s.s. 28/03/2007, n. 13) ha dichiarato l'illegittimità costituzionale dei [commi 1](art-58-quater-l354-75.md) e [7-bis dell'art. 58-quater della legge 26 luglio 1975, n. 354](art-58-quater-l354-75.md) (Norme sull'ordinamento penitenziario e sull'esecuzione delle misure privative e limitative della liberta), introdotti dall'art. 7, commi 6 e 7, della legge 5 dicembre 2005, n. 251 (Modifiche al [codice penale](../../../Codice%20Penale/00%20-%20Indice%20%28cp%29.md) e alla [legge 26 luglio 1975, n. 354](../../00%20-%20Indice%20%28l354-75%29.md), in materia di attenuanti generiche, di recidiva, di giudizio di comparazione delle circostanze di reato per i recidivi, di usura e di prescrizione), nella parte in cui non prevedono che i benefici in essi indicati possano essere concessi, sulla base della normativa previgente, nei confronti dei condannati che, prima della entrata in vigore della citata legge n. 251 del 2005, abbiano raggiunto un grado di rieducazione adeguato ai benefici richiesti.
 
