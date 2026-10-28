@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da Codice di Procedura Penale ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Codice di Procedura Penale — 124 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Codice di Procedura Penale - 124 leggi trovate)*
 
 - [legge 16 febbraio 1987, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-02-16;81)
 - [legge n. 81 del 1987](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987;81)

@@ -14,7 +14,7 @@ capo_label: "PRINCIPI GENERALI"
 sezione: "II"
 sezione_label: "Carta della cittadinanza digitale"
 rubrica: "Indice nazionale dei domicili digitali delle imprese e dei professionisti"
-dataVigenza: "20261002"
+dataVigenza: "20261028"
 ordine: 10
 ---
 
@@ -22,7 +22,7 @@ ordine: 10
 
 1\. Al fine di favorire la presentazione di istanze, dichiarazioni e dati, nonchè lo scambio di informazioni e documenti tra i soggetti di cui all'[articolo 2](../01%20-%20Sezione%20I%20-%20Definizioni,%20finalità%20e%20ambito%20di%20applicazione/art-2-dlgs82-05.md), comma 2 e le imprese e i professionisti in modalità telematica, è istituito il pubblico elenco denominato Indice nazionale dei domicili digitali (INI-PEC) delle imprese e dei professionisti, presso il Ministero per lo sviluppo economico.
 
-2\. L'Indice nazionale di cui al comma 1 è realizzato a partire dagli elenchi di indirizzi PEC costituiti presso il registro delle imprese e gli ordini o collegi professionali, in attuazione di quanto previsto dall'articolo 16 del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2. Nell'Indice nazionale sono inseriti anche i domicili digitali dei professionisti diversi da quelli di cui al primo periodo, iscritti in elenchi o registri detenuti dalle pubbliche amministrazioni e istituiti con legge dello Stato. I domicili digitali inseriti in tale Indice costituiscono mezzo esclusivo di comunicazione e notifica con i soggetti di cui all'[articolo 2](../01%20-%20Sezione%20I%20-%20Definizioni,%20finalità%20e%20ambito%20di%20applicazione/art-2-dlgs82-05.md), comma 2.
+2\. L'Indice nazionale di cui al comma 1 è realizzato a partire dagli elenchi di indirizzi PEC costituiti presso il registro delle imprese e gli ordini o collegi professionali, in attuazione di quanto previsto dall'[articolo 16 del decreto-legge 29 novembre 2008, n. 185](../../../Dl%20185-2008%20-%2029.11.2008/02%20-%20Titolo%20II%20-%20Sostegno%20all%27economia/art-16-dl185-08.md), convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2. Nell'Indice nazionale sono inseriti anche i domicili digitali dei professionisti diversi da quelli di cui al primo periodo, iscritti in elenchi o registri detenuti dalle pubbliche amministrazioni e istituiti con legge dello Stato. I domicili digitali inseriti in tale Indice costituiscono mezzo esclusivo di comunicazione e notifica con i soggetti di cui all'[articolo 2](../01%20-%20Sezione%20I%20-%20Definizioni,%20finalità%20e%20ambito%20di%20applicazione/art-2-dlgs82-05.md), comma 2.
 
 2-bis. L'INI-PEC acquisisce dagli ordini e dai collegi professionali gli attributi qualificati dell'identità digitale ai fini di quanto previsto dal decreto di cui all'[articolo 64](../../05%20-%20Capo%20V%20-%20DATI%20DELLE%20PUBBLICHE%20AMMINISTRAZIONI%20,%20IDENTITÀ%20DIGITALI,%20ISTANZE%20E%20SER/03%20-%20Sezione%20III%20-%20Identità%20digitali,%20istanze%20e%20servizi%20on-line/art-64-dlgs82-05.md), comma 2-sexies.
 

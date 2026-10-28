@@ -5,10 +5,10 @@ search:
 
 # Leggi citate da Mediazione (Dlgs 28-2010 - 04.03.2010) ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Mediazione (Dlgs 28-2010 - 04.03.2010) — 34 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Mediazione (Dlgs 28-2010 - 04.03.2010) - 34 leggi trovate)*
 
 - [articolo 60 della legge 19 giugno 2009, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-06-19;69)
-- [direttiva 2008/52/CE del Parlamento europeo e del Consiglio, del 21 maggio 2008](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:direttivaue:2008;52)
+- [direttiva 2008/52/CE del Parlamento europeo e del Consiglio, del 21 maggio 2008](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32008L0052)
 - [decreto del Ministro della giustizia 23 luglio 2004, n. 222](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto:2004-07-23;222)
 - [art. 27 della legge 11 marzo 1953, n. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-03-11;87)
 - [art. 4, comma 3, del decreto legislativo n. 28 del 2010](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2010;28)
@@ -22,8 +22,8 @@ search:
 - [articolo 60 della legge 18 giugno 2009, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-06-18;69)
 - [D.Lgs. 6 agosto 2015, n. 130](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2015-08-06;130)
 - [D.Lgs. 21 maggio 2018, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2018-05-21;68)
-- [direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:direttivaue:2018;411)
-- [direttiva (UE) 2016/97](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:direttivaue:2016;97)
+- [direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32018L0411)
+- [direttiva (UE) 2016/97](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32016L0097)
 - [D.Lgs. 10 marzo 2023, n. 28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2023-03-10;28)
 - [legge 31 luglio 1997, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-07-31;249)
 - [articolo 11 del decreto legislativo 5 aprile 2006, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2006-04-05;160)

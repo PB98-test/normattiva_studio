@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da L. 197-2022 - 29.12.2022 ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di L. 197-2022 - 29.12.2022 — 487 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di L. 197-2022 - 29.12.2022 - 487 leggi trovate)*
 
 - [articolo 21, comma 1-ter, lettera a), della legge 31 dicembre 2009, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196)
 - [articolo 17 del decreto legislativo 9 luglio 1997, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1997-07-09;241)
@@ -25,7 +25,6 @@ search:
 - [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-10-26;633)
 - [decreto legislativo 26 ottobre 1995, n. 504](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1995-10-26;504)
 - [articolo 16, comma 4, del decreto legislativo 30 maggio 2008, n. 115](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2008-05-30;115)
-- [articolo 3, comma 9, del decreto-legge 29 novembre 2008, n. 185](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2008-11-29;185)
 - [legge 28 gennaio 2009, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-01-28;2)
 - [articolo 6, comma 1, del decreto-legge 21 marzo 2022, n. 21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2022-03-21;21)
 - [legge 20 maggio 2022, n. 51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-05-20;51)
@@ -35,6 +34,7 @@ search:
 - [legge 24 dicembre 2003, n. 368](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-12-24;368)
 - [articolo 15-bis del decreto-legge 27 gennaio 2022, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2022-01-27;4)
 - [legge 28 marzo 2022, n. 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-03-28;25)
+- [articolo 7, comma 1, del regolamento (UE) 2022/1854](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32022R1854)
 - [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445)
 - [articolo 5-bis del decreto-legge 25 febbraio 2022, n. 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2022-02-25;14)
 - [legge 5 aprile 2022, n. 28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-04-05;28)
@@ -47,7 +47,7 @@ search:
 - [articolo 1, comma 702, della legge 30 dicembre 2021, n. 234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-12-30;234)
 - [articolo 1 della legge 23 dicembre 2014, n. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190)
 - [articolo 5 della legge 25 agosto 1991, n. 287](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-08-25;287)
-- [direttiva (UE) 2024/2831 del Parlamento europeo e del Consiglio, del 23 ottobre 2024](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:direttivaue:2024;2831)
+- [direttiva (UE) 2024/2831 del Parlamento europeo e del Consiglio, del 23 ottobre 2024](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32024L2831)
 - [articolo 1, comma 182, della legge 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208)
 - [articolo 1 della legge 27 dicembre 2019, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160)
 - [legge 27 dicembre 2013, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-12-27;147)
@@ -79,7 +79,7 @@ search:
 - [articolo 1, comma 2, del decreto-legge 24 settembre 2002, n. 209](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2002-09-24;209)
 - [legge 22 novembre 2002, n. 265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-11-22;265)
 - [decreto-legge n. 21 del 2022 dal comma 120](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2022;21)
-- [articolo 7, paragrafo 4, della direttiva 2011/64/UE del Consiglio, del 21 giugno 2011](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:direttivaue:2011;64)
+- [articolo 7, paragrafo 4, della direttiva 2011/64/UE del Consiglio, del 21 giugno 2011](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32011L0064)
 - [decreto del Ministro delle finanze 22 febbraio 1999, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto:1999-02-22;67)
 - [decreto legislativo 6 settembre 2005, n. 206](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2005-09-06;206)
 - [articolo 24, comma 13, lettera a), della legge 7 luglio 2009, n. 88](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-07;88)
@@ -273,9 +273,9 @@ search:
 - [legge 25 febbraio 2022, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-02-25;15)
 - [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1992-12-16;495)
 - [articolo 2, commi 232](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-23;191)
-- [direttive 2014/23/UE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:direttivaue:2014;23)
-- [2014/24/UE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:direttivaue:2014;24)
-- [2014/ 25/UE del Parlamento europeo e del Consiglio, del 26 febbraio 2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:direttivaue:2014;25)
+- [direttive 2014/23/UE](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32014L0023)
+- [2014/24/UE](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32014L0024)
+- [2014/ 25/UE del Parlamento europeo e del Consiglio, del 26 febbraio 2014](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32014L0025)
 - [decreto legislativo 29 dicembre 2011, n. 229](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2011-12-29;229)
 - [decreto-legge 10 settembre 2021, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2021-09-10;121)
 - [legge 9 novembre 2021, n. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-11-09;156)

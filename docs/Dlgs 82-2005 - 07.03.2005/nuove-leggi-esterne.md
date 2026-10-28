@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da Dlgs 82-2005 - 07.03.2005 ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Dlgs 82-2005 - 07.03.2005 — 121 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Dlgs 82-2005 - 07.03.2005 - 120 leggi trovate)*
 
 - [articolo 14 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400)
 - [articolo 10 della legge 29 luglio 2003, n. 229](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-07-29;229)
@@ -16,12 +16,12 @@ search:
 - [testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445)
 - [decreto legislativo 30 marzo 2001, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2001-03-30;165)
 - [decreto legislativo 23 gennaio 2002, n. 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2002-01-23;10)
-- [direttiva 1999/93/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:direttivaue:1999;93)
+- [direttiva 1999/93/CE](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31999L0093)
 - [legge 9 gennaio 2004, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-01-09;4)
 - [decreto legislativo 20 febbraio 2004, n. 52](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2004-02-20;52)
-- [direttiva 2001/115/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:direttivaue:2001;115)
-- [direttiva 98/34/CE del Parlamento europeo e del Consiglio, del 22 giugno 1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:direttivaue:1998;34)
-- [direttiva 98/48/CE del Parlamento europeo e del Consiglio, del 20 luglio 1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:direttivaue:1998;48)
+- [direttiva 2001/115/CE](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32001L0115)
+- [direttiva 98/34/CE del Parlamento europeo e del Consiglio, del 22 giugno 1998](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31998L0034)
+- [direttiva 98/48/CE del Parlamento europeo e del Consiglio, del 20 luglio 1998](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31998L0048)
 - [legge 21 giugno 1986, n. 317](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-06-21;317)
 - [decreto legislativo 23 novembre 2000, n. 427](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2000-11-23;427)
 - [articolo 8, del decreto legislativo 28 agosto 1997, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1997-08-28;281)
@@ -55,7 +55,6 @@ search:
 - [D.L. 30 dicembre 2019, n. 162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2019-12-30;162)
 - [D.L. 16 luglio 2020, n. 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2020-07-16;76)
 - [articolo 2 del regio decreto 14 aprile 1910, n. 639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regiodecreto:1910-04-14;639)
-- [articolo 16 del decreto-legge 29 novembre 2008, n. 185](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2008-11-29;185)
 - [legge 28 gennaio 2009, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-01-28;2)
 - [articolo 1, commi 209](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244)
 - [decreto legislativo 27 dicembre 2018, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2018-12-27;148)
@@ -84,7 +83,7 @@ search:
 - [decreto legislativo 22 gennaio 2004, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2004-01-22;42)
 - [L. 29 luglio 2021, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-07-29;108)
 - [decreto legislativo n. 196 del 2003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2003;196)
-- [direttiva 2007/2/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:direttivaue:2007;2)
+- [direttiva 2007/2/CE](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32007L0002)
 - [articolo 27, comma 2, della legge 16 gennaio 2003, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-01-16;3)
 - [decreto legislativo 6 settembre 1989, n. 322](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1989-09-06;322)
 - [articolo 2, comma 2, del decreto del Presidente della Repubblica 27 luglio 2004, n. 242](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2004-07-27;242)

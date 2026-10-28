@@ -14,7 +14,7 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Utilizzo della posta elettronica certificata"
-dataVigenza: "20261002"
+dataVigenza: "20261028"
 ordine: 4
 ---
 
@@ -26,7 +26,7 @@ ordine: 4
 
 3\. COMMA ABROGATO DAL D.LGS. 30 DICEMBRE 2010, N. 235.
 
-4\. COMMA ABROGATO DAL D.L. 29 NOVEMBRE 2008, N. 185, CONVERTITO CON MODIFICAZIONI DALLA L. 28 GENNAIO 2009, N. 2.
+4\. COMMA ABROGATO DAL [D.L. 29 NOVEMBRE 2008, N. 185](../Dl%20185-2008%20-%2029.11.2008/00%20-%20Indice%20%28dl185-08%29.md), CONVERTITO CON MODIFICAZIONI DALLA L. 28 GENNAIO 2009, N. 2.
 
 5\. Le modalità attraverso le quali il privato comunica la disponibilità all'utilizzo della posta elettronica certificata, il proprio indirizzo di posta elettronica certificata, il mutamento del medesimo o l'eventuale cessazione della disponibilità, nonchè le modalità di conservazione, da parte dei gestori del servizio, della documentazione relativa sono definite nelle regole tecniche di cui all'[articolo 17](art-17-dpr68-05.md).
 

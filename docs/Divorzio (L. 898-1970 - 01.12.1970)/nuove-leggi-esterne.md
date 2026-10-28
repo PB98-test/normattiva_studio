@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da Divorzio (L. 898-1970 - 01.12.1970) ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Divorzio (L. 898-1970 - 01.12.1970) — 8 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Divorzio (L. 898-1970 - 01.12.1970) - 8 leggi trovate)*
 
 - [legge 14 aprile 1982, n. 164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-04-14;164)
 - [L. 10 novembre 2014, n. 162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-11-10;162)

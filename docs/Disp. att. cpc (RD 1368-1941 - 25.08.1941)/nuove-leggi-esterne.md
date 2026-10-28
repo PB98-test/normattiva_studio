@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da Disp. att. cpc (RD 1368-1941 - 25.08.1941) ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Disp. att. cpc (RD 1368-1941 - 25.08.1941) — 41 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Disp. att. cpc (RD 1368-1941 - 25.08.1941) - 40 leggi trovate)*
 
 - [legge 30 dicembre 1923, n. 2814](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-12-30;2814)
 - [articolo 7 della legge 14 gennaio 2013, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-01-14;4)
@@ -47,4 +47,3 @@ search:
 - [D.L. 9 novembre 2020, n. 149](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2020-11-09;149)
 - [L. 18 dicembre 2020, n. 176](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-12-18;176)
 - [D.L. 24 febbraio 2023, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2023-02-24;13)
-- [legge 21 gennaio 1994, n. 53](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-21;53)

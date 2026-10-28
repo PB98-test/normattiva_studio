@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da Dlgs 150-2011 - 09.01.2011 ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Dlgs 150-2011 - 09.01.2011 — 64 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Dlgs 150-2011 - 09.01.2011 - 64 leggi trovate)*
 
 - [articolo 54 della legge 18 giugno 2009, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-06-18;69)
 - [articolo 14 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400)

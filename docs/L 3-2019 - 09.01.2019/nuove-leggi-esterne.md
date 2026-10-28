@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da L 3-2019 - 09.01.2019 ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di L 3-2019 - 09.01.2019 — 22 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di L 3-2019 - 09.01.2019 - 22 leggi trovate)*
 
 - [articolo 9 della legge 16 marzo 2006, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-03-16;146)
 - [comma 2 dell'articolo 6 del decreto legislativo 29 dicembre 2017, n. 216](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2017-12-29;216)

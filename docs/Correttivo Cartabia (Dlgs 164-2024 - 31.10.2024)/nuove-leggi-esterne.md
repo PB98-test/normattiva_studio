@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da Correttivo Cartabia (Dlgs 164-2024 - 31.10.2024) ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Correttivo Cartabia (Dlgs 164-2024 - 31.10.2024) — 22 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Correttivo Cartabia (Dlgs 164-2024 - 31.10.2024) - 21 leggi trovate)*
 
 - [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400)
 - [legge 26 novembre 2021, n. 206](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-11-26;206)
@@ -16,7 +16,6 @@ search:
 - [regio decreto 16 marzo 1942, n. 262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regiodecreto:1942-03-16;262)
 - [regio decreto 30 marzo 1942, n. 318](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regiodecreto:1942-03-30;318)
 - [legge 4 maggio 1983, n. 184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-05-04;184)
-- [legge 21 gennaio 1994, n. 53](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-21;53)
 - [legge 4 aprile 2001, n. 154](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-04-04;154)
 - [decreto legislativo 17 gennaio 2003, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2003-01-17;5)
 - [articolo 12 della legge 3 ottobre 2001, n. 366](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-10-03;366)

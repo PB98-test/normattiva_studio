@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da DPR 115-2002 - 30.05.2002 ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di DPR 115-2002 - 30.05.2002 — 199 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di DPR 115-2002 - 30.05.2002 - 198 leggi trovate)*
 
 - [articoli 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400)
 - [articolo 7 della legge 8 marzo 1999, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-08;50)
@@ -27,7 +27,7 @@ search:
 - [articoli 116](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2010-07-02;104)
 - [legge n. 241 del 1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;241)
 - [decreto legislativo 19 agosto 2005, n. 195](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2005-08-19;195)
-- [direttiva 2003/4/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:direttivaue:2003;4)
+- [direttiva 2003/4/CE](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32003L0004)
 - [D.L. 13 AGOSTO 2011, N. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2011-08-13;138)
 - [L. 14 SETTEMBRE 2011, N. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011-09-14;148)
 - [L. 12 novembre 2011, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011-11-12;183)
@@ -204,5 +204,4 @@ search:
 - [decreto del Presidente della Repubblica 11 dicembre 2001, n. 466; - l'articolo 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-12-11;466)
 - [decreto del Ministro della giustizia 6 aprile 2001, n. 204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto:2001-04-06;204)
 - [legge 28 novembre 1965, n. 1329](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-11-28;1329)
-- [L. 22 febbraio 2010, n. 24](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-02-22;24)
 - [art. 9 della Legge n. 488/1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999;488)

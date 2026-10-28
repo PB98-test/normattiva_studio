@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da Cartabia (Dlgs 150-2022 - 10.10.2022) ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Cartabia (Dlgs 150-2022 - 10.10.2022) — 39 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Cartabia (Dlgs 150-2022 - 10.10.2022) - 39 leggi trovate)*
 
 - [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400)
 - [regio decreto 19 ottobre 1930, n. 1398](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regiodecreto:1930-10-19;1398)

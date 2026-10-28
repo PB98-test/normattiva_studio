@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da Dlgs 274-2000 - 28.08.2000 ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Dlgs 274-2000 - 28.08.2000 — 40 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Dlgs 274-2000 - 28.08.2000 - 40 leggi trovate)*
 
 - [articolo 14 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400)
 - [articolo 14 e seguenti della legge 24 novembre 1999, n. 468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-11-24;468)
@@ -21,14 +21,14 @@ search:
 - [articoli 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-02;528)
 - [articolo 17, comma 3, della legge 4 maggio 1990, n. 107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-05-04;107)
 - [articolo 15, comma 3, del decreto legislativo 27 settembre 1991, n. 311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1991-09-27;311)
-- [direttive n. 87/404/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:direttivaue:1987;404)
-- [n. 90/488/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:direttivaue:1990;488)
+- [direttive n. 87/404/CEE](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31987L0404)
+- [n. 90/488/CEE](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31990L0488)
 - [articolo 56 della legge 29 dicembre 1990, n. 428](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-29;428)
 - [articolo 11, comma 1, del decreto legislativo 27 settembre 1991, n. 313](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1991-09-27;313)
-- [direttiva n. 88/378/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:direttivaue:1988;378)
+- [direttiva n. 88/378/CEE](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31988L0378)
 - [L. 6 APRILE 2005, N. 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-04-06;49)
 - [articolo 10, comma 1, del decreto legislativo 14 dicembre 1992, n. 507](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1992-12-14;507)
-- [direttiva n. 90/385/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:direttivaue:1990;385)
+- [direttiva n. 90/385/CEE](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31990L0385)
 - [articolo 23, comma 2, del decreto legislativo 24 febbraio 1997, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1997-02-24;46)
 - [decreto legislativo 25 luglio 1998, n. 286](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1998-07-25;286)
 - [articoli 1 del decreto-legge 15 dicembre 1979, n. 625](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:1979-12-15;625)

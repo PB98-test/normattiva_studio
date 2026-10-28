@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da Codice Penale ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Codice Penale — 145 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Codice Penale - 145 leggi trovate)*
 
 - [legge 24 dicembre 1925, n. 2260](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-12-24;2260)
 - [D.P.R. 19 dicembre 1953, n. 922](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-12-19;922)
@@ -27,7 +27,7 @@ search:
 - [l. 7 GIUGNO 1974, N. 220](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-06-07;220)
 - [art. 3, comma 3, della legge 15 dicembre 2014, n. 186](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-15;186)
 - [art. 1, comma 1, lettera f), numero 3), del decreto legislativo 8 novembre 2021, n. 195](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2021-11-08;195)
-- [direttiva (UE) 2018/1673 del Parlamento europeo e del Consiglio, del 23 ottobre 2018](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:direttivaue:2018;1673)
+- [direttiva (UE) 2018/1673 del Parlamento europeo e del Consiglio, del 23 ottobre 2018](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32018L1673)
 - [D.L. 2 aprile 2001, n. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2001-04-02;91)
 - [L. 3 maggio 2001, n. 163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-05-03;163)
 - [D.P.R. 27 dicembre 1948, n. 1464](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-12-27;1464)
@@ -146,8 +146,8 @@ search:
 - [art. 2, comma 6, del decreto legislativo 15 gennaio 2016, n. 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2016-01-15;8)
 - [articolo 8, comma 2, del decreto del Presidente della Repubblica 8 settembre 1997, n. 357](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1997-09-08;357)
 - [D.Lgs. 7 luglio 2011, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2011-07-07;121)
-- [direttiva 92/43/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:direttivaue:1992;43)
-- [direttiva 2009/147/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:direttivaue:2009;147)
+- [direttiva 92/43/CE](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31992L0043)
+- [direttiva 2009/147/CE](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32009L0147)
 - [L. 22 giugno 1956, n. 586](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-06-22;586)
 - [legge 1 giugno 1939, n. 1089](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-01;1089)
 - [decreto legislativo 21 ottobre 1947, n. 1250](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1947-10-21;1250)

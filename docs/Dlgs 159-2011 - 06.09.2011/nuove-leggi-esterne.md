@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da Dlgs 159-2011 - 06.09.2011 ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Dlgs 159-2011 - 06.09.2011 — 119 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Dlgs 159-2011 - 06.09.2011 - 119 leggi trovate)*
 
 - [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-08-13;136)
 - [articolo 12-quinquies, comma 1, del decreto-legge 8 giugno 1992, n. 306](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:1992-06-08;306)

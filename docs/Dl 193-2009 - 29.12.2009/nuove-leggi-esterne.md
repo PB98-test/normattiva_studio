@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da Dl 193-2009 - 29.12.2009 ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Dl 193-2009 - 29.12.2009 — 25 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Dl 193-2009 - 29.12.2009 - 24 leggi trovate)*
 
 - [articolo 7, comma 1, della legge 21 novembre 1991, n. 374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374)
 - [legge 4 maggio 1998, n. 133](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-05-04;133)
@@ -24,7 +24,6 @@ search:
 - [articolo 17 comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400)
 - [articolo 51, del decreto-legge 25 giugno 2008, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2008-06-25;112)
 - [legge 6 agosto 2008, n. 133](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)
-- [articolo 16 del decreto-legge 29 novembre 2008, n. 185](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2008-11-29;185)
 - [legge 28 gennaio 2009, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-01-28;2)
 - [secondo comma dell'articolo 16 del regio decreto-legge 27 novembre 1933, n. 1578](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regiodecretolegge:1933-11-27;1578)
 - [legge 22 gennaio 1934, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-01-22;36)

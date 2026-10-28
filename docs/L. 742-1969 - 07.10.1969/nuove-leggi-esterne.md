@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da L. 742-1969 - 07.10.1969 ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di L. 742-1969 - 07.10.1969 — 7 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di L. 742-1969 - 07.10.1969 - 7 leggi trovate)*
 
 - [art. 51, commi primo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359)
 - [art. 19, comma primo, della legge 22 ottobre 1971, n. 865](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-22;865)

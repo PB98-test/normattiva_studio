@@ -5,11 +5,11 @@ search:
 
 # Leggi citate da Dlgs 231-2001 - 08.06.2001 ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Dlgs 231-2001 - 08.06.2001 — 37 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Dlgs 231-2001 - 08.06.2001 - 37 leggi trovate)*
 
 - [articolo 14 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400)
 - [articoli 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-09-29;300)
-- [direttiva (UE) 2019/1937 del Parlamento europeo e del Consiglio del 23 ottobre 2019](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:direttivaue:2019;1937)
+- [direttiva (UE) 2019/1937 del Parlamento europeo e del Consiglio del 23 ottobre 2019](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32019L1937)
 - [articolo 6, comma 3, del decreto legislativo n. 231 del 2001](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2001;231)
 - [D.Lgs. 10 marzo 2023, n. 24](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2023-03-10;24)
 - [articolo 1 del decreto-legge 3 dicembre 2012, n. 207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2012-12-03;207)

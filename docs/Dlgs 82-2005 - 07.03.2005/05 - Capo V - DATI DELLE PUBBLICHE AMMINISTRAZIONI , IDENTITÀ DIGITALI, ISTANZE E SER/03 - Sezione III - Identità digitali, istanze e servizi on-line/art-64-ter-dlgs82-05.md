@@ -14,7 +14,7 @@ capo_label: "DATI DELLE PUBBLICHE AMMINISTRAZIONI , IDENTITÀ DIGITALI, ISTANZE 
 sezione: "III"
 sezione_label: "Identità digitali, istanze e servizi on-line"
 rubrica: "Piattaforma di gestione deleghe"
-dataVigenza: "20261002"
+dataVigenza: "20261028"
 ordine: 93
 ---
 
@@ -30,6 +30,6 @@ ordine: 93
 
 5\. Ai fini di cui al comma 1, l'Istituto Poligrafico e Zecca dello Stato S.p.A. realizza, gestisce e cura la manutenzione della piattaforma per la gestione delle deleghe. L'accesso ai dati attraverso la piattaforma non modifica la disciplina relativa alla titolarità del trattamento, ferme restando le specifiche responsabilità ai sensi dell'articolo 28 del regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016, in capo all'Istituto Poligrafico e Zecca dello Stato S.p.A., nonchè le responsabilità dei soggetti che trattano i dati in qualità di titolari autonomi del trattamento. La realizzazione della piattaforma di cui al primo periodo rientra nel programma «Servizi digitali e cittadinanza digitale» del PNC di cui all'[articolo 1](../../01%20-%20Capo%20I%20-%20PRINCIPI%20GENERALI/01%20-%20Sezione%20I%20-%20Definizioni,%20finalità%20e%20ambito%20di%20applicazione/art-1-dlgs82-05.md), comma 2, lettera a), numero 1), del decreto-legge 6 maggio 2021, n. 59, convertito, con modificazioni, dalla legge 1° luglio 2021, n. 101.
 
-6\. Con decreto del Presidente del Consiglio dei ministri ovvero dell'Autorità politica delegata in materia di innovazione tecnologica, ove nominata, adottato di concerto con il Ministro della giustizia, sentiti il Garante per la protezione dei dati personali e l'Agenzia per la cybersicurezza nazionale, sono definiti le caratteristiche tecniche, l'architettura generale, i requisiti di sicurezza, le modalità di funzionamento della piattaforma di cui al comma 5, nonchè le tipologie di dati oggetto di trattamento e, in generale, le modalità e le procedure per assicurare il rispetto dell'articolo 5 del regolamento (UE) 2016/679.
+6\. Con decreto del Presidente del Consiglio dei ministri ovvero dell'Autorità politica delegata in materia di innovazione tecnologica, ove nominata, adottato di concerto con il Ministro della giustizia, sentiti il Garante per la protezione dei dati personali e l'Agenzia per la cybersicurezza nazionale, sono definiti le caratteristiche tecniche, l'architettura generale, i requisiti di sicurezza, le modalità di funzionamento della piattaforma di cui al comma 5, nonchè le tipologie di dati oggetto di trattamento e, in generale, le modalità e le procedure per assicurare il rispetto dell'[articolo 5 del regolamento (UE) 2016/679](../../../GDPR%20%28Regolamento%20UE%202016-679%20-%2027.04.2016%29/02%20-%20Capo%20II%20-%20Principi/art-5-reg679-16.md).
 
 7\. Agli oneri derivanti dalla progettazione, realizzazione e graduale messa a disposizione della piattaforma di cui al comma 5, pari a 1.589.784 euro per l'anno 2024 ed a 3.070.216 euro per l'anno 2025, si provvede a valere sulle risorse assegnate, nell'ambito del Fondo complementare al PNRR, per l'Investimento 1.4 della Missione 1, Componente 1 , di titolarità della struttura della Presidenza del Consiglio dei ministri competente per l'innovazione tecnologica e la transizione digitale.

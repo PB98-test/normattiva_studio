@@ -1,0 +1,31 @@
+---
+type: "Articolo di legge"
+title: "Art. 31 - Principi generali in materia di trasferimento di dati personali"
+articolo: "Art. 31"
+codice: dlgs51-18
+aliases:
+  - "art-31-dlgs51-18"
+libro: null
+libro_label: null
+titolo: null
+titolo_label: null
+capo: "IV"
+capo_label: "Trasferimento di dati personali verso paesi terzi o organizzazioni internazionali"
+sezione: null
+sezione_label: null
+rubrica: "Principi generali in materia di trasferimento di dati personali"
+dataVigenza: "20261022"
+ordine: 31
+---
+
+# Art. 31 - ***Principi generali in materia di trasferimento di dati personali***
+
+1\. Il trasferimento di dati personali oggetto di un trattamento o destinati a essere oggetto di un trattamento dopo il trasferimento verso un Paese terzo o un'organizzazione internazionale, compresi trasferimenti successivi verso un altro Paese terzo o un'altra organizzazione internazionale è consentito se:
+
+- a) il trasferimento è necessario per le finalità di cui all'[articolo 1](../01%20-%20Capo%20I%20-%20Disposizioni%20generali/art-1-dlgs51-18.md), comma 2;
+- b) i dati personali sono trasferiti al titolare del trattamento in un Paese terzo o a un'organizzazione internazionale che sia un'autorità competente per le finalità di cui all'[articolo 1](../01%20-%20Capo%20I%20-%20Disposizioni%20generali/art-1-dlgs51-18.md), comma 2;
+- c) qualora i dati personali siano trasmessi o resi disponibili da uno Stato membro, tale Stato ha fornito la propria autorizzazione preliminare al trasferimento conformemente al proprio diritto nazionale;
+- d) la Commissione europea ha adottato una decisione di adeguatezza, a norma dell'[articolo 32](art-32-dlgs51-18.md) o, in mancanza, sono state fornite o esistono garanzie adeguate ai sensi dell'[articolo 33](art-33-dlgs51-18.md); in assenza di una decisione di adeguatezza e di garanzie adeguate, si applicano deroghe per situazioni specifiche ai sensi dell'[articolo 34](art-34-dlgs51-18.md); e
+- e) in caso di trasferimento successivo a un altro Paese terzo o a un'altra organizzazione internazionale, l'autorità competente che ha effettuato il trasferimento originario o un'altra autorità competente dello stesso Stato membro autorizza il trasferimento successivo dopo avere valutato tutti i fattori pertinenti, tra cui la gravità del reato, la finalità per la quale i dati personali sono stati trasferiti e il livello di protezione dei dati personali previsto nel Paese terzo o nell'organizzazione internazionale verso i quali i dati personali sono successivamente trasferiti.
+
+2\. In assenza dell'autorizzazione preliminare di un altro Stato membro di cui al comma 1, lettera c), il trasferimento di dati personali è consentito solo se necessario per prevenire una minaccia grave e immediata alla sicurezza pubblica di uno Stato membro o di un Paese terzo o agli interessi vitali di uno Stato membro e l'autorizzazione preliminare non può essere ottenuta tempestivamente. L'autorità competente a rilasciare l'autorizzazione preliminare è informata senza ritardo.

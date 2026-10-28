@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da CdS (dlgs 285-1992 - 30.04.1992) ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di CdS (dlgs 285-1992 - 30.04.1992) — 253 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di CdS (dlgs 285-1992 - 30.04.1992) - 253 leggi trovate)*
 
 - [art. 4, comma 2, della legge 13 giugno 1991, n. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-13;190)
 - [D.LGS. 15 MARZO 2010, N. 66](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2010-03-15;66)
@@ -130,7 +130,7 @@ search:
 - [L. 27 febbraio 2015, n. 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-02-27;11)
 - [D.L. 16 giugno 2022, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2022-06-16;68)
 - [L. 5 agosto 2022, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-08-05;108)
-- [direttiva 96/53/CE del Consiglio del 25 luglio 1996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:direttivaue:1996;53)
+- [direttiva 96/53/CE del Consiglio del 25 luglio 1996](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31996L0053)
 - [D.L. 3 agosto 2007, n. 117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2007-08-03;117)
 - [L. 2 ottobre 2007, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-10-02;160)
 - [art. 22, comma 1 del D.L. 31 dicembre 2007, n. 248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2007-12-31;248)
@@ -147,15 +147,15 @@ search:
 - [legge 3 agosto 1988, n. 327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-03;327)
 - [L. 15 luglio 2009, n. 94](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-15;94)
 - [legge n. 94 del 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009;94)
-- [direttive 2006/126/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:direttivaue:2006;126)
-- [2009/113/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:direttivaue:2009;113)
+- [direttive 2006/126/CE](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32006L0126)
+- [2009/113/CE](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32009L0113)
 - [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-08-13;136)
 - [D.L. 31 GENNAIO 2007, N. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2007-01-31;7)
 - [L. 2 APRILE 2007, N. 40](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-04-02;40)
 - [articolo 53, comma 2, del decreto-legge 30 agosto 1993, n. 331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:1993-08-30;331)
 - [legge 29 ottobre 1993, n. 427](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
 - [articolo 39 del decreto del Presidente della Repubblica 22 marzo 1974, n. 381](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-03-22;381)
-- [paragrafo 3, lettera b), della direttiva 2002/24/CE del Parlamento europeo e del Consiglio, del 18 marzo 2002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:direttivaue:2002;24)
+- [paragrafo 3, lettera b), della direttiva 2002/24/CE del Parlamento europeo e del Consiglio, del 18 marzo 2002](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32002L0024)
 - [articolo 2, comma 1, lettera e), del decreto legislativo 16 dicembre 2016, n. 257](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2016-12-16;257)
 - [art. 15 del decreto del Presidente della Repubblica 10 settembre 1982, n. 915](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-09-10;915)
 - [legge 28 gennaio 1994, n. 84](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-28;84)
@@ -164,8 +164,8 @@ search:
 - [art. 2 del decreto del Presidente della Repubblica 30 dicembre 1965, n. 1704](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-12-30;1704)
 - [D.Lgs. 27 gennaio 2010, n. 35](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2010-01-27;35)
 - [art. 38 del decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-02-08;320)
-- [direttiva 2003/20/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:direttivaue:2003;20)
-- [articolo 5 della direttiva 91/671/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:direttivaue:1991;671)
+- [direttiva 2003/20/CE](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32003L0020)
+- [articolo 5 della direttiva 91/671/CEE](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31991L0671)
 - [L. 1 ottobre 2018, n. 117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-10-01;117)
 - [comma 6 dell'articolo 5 del decreto legislativo 22 dicembre 2000, n. 395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2000-12-22;395)
 - [legge 28 marzo 1991, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-03-28;112)

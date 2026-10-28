@@ -59,7 +59,7 @@
     banner.className = "ns-connessione-banner";
     banner.setAttribute("role", "status");
     banner.hidden = true;
-    banner.textContent = "Sei offline — solo le pagine già disponibili si apriranno.";
+    banner.textContent = "Sei offline - solo le pagine già disponibili si apriranno.";
     document.body.insertBefore(banner, document.body.firstChild);
 
     function aggiornaBanner() {

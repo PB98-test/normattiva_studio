@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da Dl 35-2005 - 14.03.2005 ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Dl 35-2005 - 14.03.2005 — 169 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Dl 35-2005 - 14.03.2005 - 169 leggi trovate)*
 
 - [decreto legislativo 22 gennaio 2004, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2004-01-22;42)
 - [comma 380 dell'articolo 1 della legge 30 dicembre 2004, n. 311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-12-30;311)

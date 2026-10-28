@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da Rif. Orlando (L 103-2017 - 23.06.2017) ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Rif. Orlando (L 103-2017 - 23.06.2017) — 9 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Rif. Orlando (L 103-2017 - 23.06.2017) - 9 leggi trovate)*
 
 - [decreto del Presidente della Repubblica 14 novembre 2002, n. 313](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-11-14;313)
 - [articolo 15, comma 1, della legge 16 aprile 2015, n. 47](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-04-16;47)

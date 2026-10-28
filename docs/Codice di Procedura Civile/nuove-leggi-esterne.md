@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da Codice di Procedura Civile ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Codice di Procedura Civile — 97 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Codice di Procedura Civile - 97 leggi trovate)*
 
 - [legge 30 dicembre 1923, n. 2814](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-12-30;2814)
 - [art. 3 della legge 2 dicembre 1925, n. 2260](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-12-02;2260)

@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da TU Stupefacenti (Dpr 309-1990 - 09.10.1990) ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di TU Stupefacenti (Dpr 309-1990 - 09.10.1990) — 63 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di TU Stupefacenti (Dpr 309-1990 - 09.10.1990) - 64 leggi trovate)*
 
 - [art. 37 della legge 26 giugno 1990, n. 162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-26;162)
 - [legge 22 dicembre 1975, n. 685](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-12-22;685)
@@ -34,6 +34,7 @@ search:
 - [legge n. 12 del 2001](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001;12)
 - [decreto del Presidente della Repubblica 19 marzo 1956, n. 303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-03-19;303)
 - [L. 15 MARZO 2010, N. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-03-15;38)
+- [regolamento n. 111/2005](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32005R0111)
 - [articolo 4 della legge 4 giugno 2010, n. 96](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-06-04;96)
 - [D.Lgs. 7 ottobre 2024, n. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2024-10-07;156)
 - [decreto legislativo 24 aprile 2006, n. 219](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2006-04-24;219)

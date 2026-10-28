@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da Ord. Pen. (L. 354-1975 - 26.07.1975) ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Ord. Pen. (L. 354-1975 - 26.07.1975) — 58 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Ord. Pen. (L. 354-1975 - 26.07.1975) - 58 leggi trovate)*
 
 - [decreto legislativo 25 luglio 1998, n. 286](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1998-07-25;286)
 - [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43, e all'articolo 74](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)

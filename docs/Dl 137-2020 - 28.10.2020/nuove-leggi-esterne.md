@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da Dl 137-2020 - 28.10.2020 ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Dl 137-2020 - 28.10.2020 — 206 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Dl 137-2020 - 28.10.2020 - 205 leggi trovate)*
 
 - [decreto-legge 17 marzo 2020, n.18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2020-03-17;18)
 - [legge 24 aprile 2020, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-04-24;27)
@@ -150,7 +150,6 @@ search:
 - [articolo 2, comma 7, lettere a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2008-09-16;143)
 - [legge 13 novembre 2008, n. 181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-11-13;181)
 - [legge n. 77 del 2020](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020;77)
-- [legge 22 febbraio 2010, n. 24](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-02-22;24)
 - [decreto legislativo 2 luglio 2010, n. 104](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2010-07-02;104)
 - [articolo 4 del decreto-legge n. 28 del 2020](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2020;28)
 - [articolo 16 del decreto-legge 23 ottobre 2018, n. 119](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2018-10-23;119)
@@ -178,7 +177,7 @@ search:
 - [decreto-legge 31 maggio 2010, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2010-05-31;78)
 - [legge 30 luglio 2010, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-07-30;122)
 - [legge 22 marzo 1993, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-22;99)
-- [direttiva (UE) 2017/1852 del Consiglio, del 10 ottobre 2017](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:direttivaue:2017;1852)
+- [direttiva (UE) 2017/1852 del Consiglio, del 10 ottobre 2017](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32017L1852)
 - [decreto legislativo 10 giugno 2020, n. 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2020-06-10;49)
 - [D.L. 27 dicembre 2024, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2024-12-27;202)
 - [L. 21 febbraio 2025, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-02-21;15)

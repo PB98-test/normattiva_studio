@@ -11,370 +11,370 @@ aliases:
 ### Titolo I - NORME DI ATTUAZIONE
 
 #### Capo I - DISPOSIZIONI RELATIVE AL GIUDICE
-- [Art. 1](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/01%20-%20Capo%20I%20-%20DISPOSIZIONI%20RELATIVE%20AL%20GIUDICE/art-1-dlgs271-89.md) — Modalità di determinazione della competenza per i procedimenti riguardanti i magistrati
-- [Art. 2](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/01%20-%20Capo%20I%20-%20DISPOSIZIONI%20RELATIVE%20AL%20GIUDICE/art-2-dlgs271-89.md) — Riunione di processi
+- [Art. 1](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/01%20-%20Capo%20I%20-%20DISPOSIZIONI%20RELATIVE%20AL%20GIUDICE/art-1-dlgs271-89.md) - Modalità di determinazione della competenza per i procedimenti riguardanti i magistrati
+- [Art. 2](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/01%20-%20Capo%20I%20-%20DISPOSIZIONI%20RELATIVE%20AL%20GIUDICE/art-2-dlgs271-89.md) - Riunione di processi
 
 #### Capo II - DISPOSIZIONI RELATIVE AL PUBBLICO MINISTERO
-- [Art. 3](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/02%20-%20Capo%20II%20-%20DISPOSIZIONI%20RELATIVE%20AL%20PUBBLICO%20MINISTERO/art-3-dlgs271-89.md) — *(abrogato)*
-- [Art. 3-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/02%20-%20Capo%20II%20-%20DISPOSIZIONI%20RELATIVE%20AL%20PUBBLICO%20MINISTERO/art-3-bis-dlgs271-89.md) — Priorità nella trattazione delle notizie di reato e nell'esercizio dell'azione penale
-- [Art. 4](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/02%20-%20Capo%20II%20-%20DISPOSIZIONI%20RELATIVE%20AL%20PUBBLICO%20MINISTERO/art-4-dlgs271-89.md) — Contrasto tra pubblici ministeri
-- [Art. 4-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/02%20-%20Capo%20II%20-%20DISPOSIZIONI%20RELATIVE%20AL%20PUBBLICO%20MINISTERO/art-4-bis-dlgs271-89.md) — Formalità delle richieste per la trasmissione a un diverso ufficio del pubblico ministero
-- [Art. 4-ter](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/02%20-%20Capo%20II%20-%20DISPOSIZIONI%20RELATIVE%20AL%20PUBBLICO%20MINISTERO/art-4-ter-dlgs271-89.md) — Nucleo di polizia penitenziaria a supporto delle funzioni del procuratore nazionale antimafia
+- [Art. 3](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/02%20-%20Capo%20II%20-%20DISPOSIZIONI%20RELATIVE%20AL%20PUBBLICO%20MINISTERO/art-3-dlgs271-89.md) - *(abrogato)*
+- [Art. 3-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/02%20-%20Capo%20II%20-%20DISPOSIZIONI%20RELATIVE%20AL%20PUBBLICO%20MINISTERO/art-3-bis-dlgs271-89.md) - Priorità nella trattazione delle notizie di reato e nell'esercizio dell'azione penale
+- [Art. 4](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/02%20-%20Capo%20II%20-%20DISPOSIZIONI%20RELATIVE%20AL%20PUBBLICO%20MINISTERO/art-4-dlgs271-89.md) - Contrasto tra pubblici ministeri
+- [Art. 4-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/02%20-%20Capo%20II%20-%20DISPOSIZIONI%20RELATIVE%20AL%20PUBBLICO%20MINISTERO/art-4-bis-dlgs271-89.md) - Formalità delle richieste per la trasmissione a un diverso ufficio del pubblico ministero
+- [Art. 4-ter](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/02%20-%20Capo%20II%20-%20DISPOSIZIONI%20RELATIVE%20AL%20PUBBLICO%20MINISTERO/art-4-ter-dlgs271-89.md) - Nucleo di polizia penitenziaria a supporto delle funzioni del procuratore nazionale antimafia
 
 #### Capo III - DISPOSIZIONI RELATIVE ALLA POLIZIA GIUDIZIARIA
-- [Art. 5](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/03%20-%20Capo%20III%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20POLIZIA%20GIUDIZIARIA/art-5-dlgs271-89.md) — Composizione delle sezioni di polizia giudiziaria
-- [Art. 6](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/03%20-%20Capo%20III%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20POLIZIA%20GIUDIZIARIA/art-6-dlgs271-89.md) — Costituzione dell'organico delle sezioni
-- [Art. 7](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/03%20-%20Capo%20III%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20POLIZIA%20GIUDIZIARIA/art-7-dlgs271-89.md) — Ripianamento organico e posti vacanti
-- [Art. 8](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/03%20-%20Capo%20III%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20POLIZIA%20GIUDIZIARIA/art-8-dlgs271-89.md) — Assegnazione alle sezioni
-- [Art. 9](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/03%20-%20Capo%20III%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20POLIZIA%20GIUDIZIARIA/art-9-dlgs271-89.md) — Direzione e coordinamento delle sezioni
-- [Art. 10](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/03%20-%20Capo%20III%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20POLIZIA%20GIUDIZIARIA/art-10-dlgs271-89.md) — Stato giuridico e carriera del personale delle sezioni
-- [Art. 11](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/03%20-%20Capo%20III%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20POLIZIA%20GIUDIZIARIA/art-11-dlgs271-89.md) — Trasferimenti del personale delle sezioni
-- [Art. 12](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/03%20-%20Capo%20III%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20POLIZIA%20GIUDIZIARIA/art-12-dlgs271-89.md) — Servizi di polizia giudiziaria
-- [Art. 13](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/03%20-%20Capo%20III%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20POLIZIA%20GIUDIZIARIA/art-13-dlgs271-89.md) — Servizi operanti in ambito più vasto del circondario
-- [Art. 14](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/03%20-%20Capo%20III%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20POLIZIA%20GIUDIZIARIA/art-14-dlgs271-89.md) — Allontanamento dei dirigenti dei servizi
-- [Art. 15](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/03%20-%20Capo%20III%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20POLIZIA%20GIUDIZIARIA/art-15-dlgs271-89.md) — Promozioni
-- [Art. 16](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/03%20-%20Capo%20III%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20POLIZIA%20GIUDIZIARIA/art-16-dlgs271-89.md) — Sanzioni disciplinari
-- [Art. 17](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/03%20-%20Capo%20III%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20POLIZIA%20GIUDIZIARIA/art-17-dlgs271-89.md) — Procedimento disciplinare
-- [Art. 18](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/03%20-%20Capo%20III%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20POLIZIA%20GIUDIZIARIA/art-18-dlgs271-89.md) — Ricorso
-- [Art. 19](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/03%20-%20Capo%20III%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20POLIZIA%20GIUDIZIARIA/art-19-dlgs271-89.md) — Sospensione cautelare
-- [Art. 20](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/03%20-%20Capo%20III%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20POLIZIA%20GIUDIZIARIA/art-20-dlgs271-89.md) — Disposizione transitoria
+- [Art. 5](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/03%20-%20Capo%20III%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20POLIZIA%20GIUDIZIARIA/art-5-dlgs271-89.md) - Composizione delle sezioni di polizia giudiziaria
+- [Art. 6](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/03%20-%20Capo%20III%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20POLIZIA%20GIUDIZIARIA/art-6-dlgs271-89.md) - Costituzione dell'organico delle sezioni
+- [Art. 7](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/03%20-%20Capo%20III%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20POLIZIA%20GIUDIZIARIA/art-7-dlgs271-89.md) - Ripianamento organico e posti vacanti
+- [Art. 8](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/03%20-%20Capo%20III%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20POLIZIA%20GIUDIZIARIA/art-8-dlgs271-89.md) - Assegnazione alle sezioni
+- [Art. 9](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/03%20-%20Capo%20III%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20POLIZIA%20GIUDIZIARIA/art-9-dlgs271-89.md) - Direzione e coordinamento delle sezioni
+- [Art. 10](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/03%20-%20Capo%20III%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20POLIZIA%20GIUDIZIARIA/art-10-dlgs271-89.md) - Stato giuridico e carriera del personale delle sezioni
+- [Art. 11](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/03%20-%20Capo%20III%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20POLIZIA%20GIUDIZIARIA/art-11-dlgs271-89.md) - Trasferimenti del personale delle sezioni
+- [Art. 12](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/03%20-%20Capo%20III%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20POLIZIA%20GIUDIZIARIA/art-12-dlgs271-89.md) - Servizi di polizia giudiziaria
+- [Art. 13](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/03%20-%20Capo%20III%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20POLIZIA%20GIUDIZIARIA/art-13-dlgs271-89.md) - Servizi operanti in ambito più vasto del circondario
+- [Art. 14](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/03%20-%20Capo%20III%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20POLIZIA%20GIUDIZIARIA/art-14-dlgs271-89.md) - Allontanamento dei dirigenti dei servizi
+- [Art. 15](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/03%20-%20Capo%20III%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20POLIZIA%20GIUDIZIARIA/art-15-dlgs271-89.md) - Promozioni
+- [Art. 16](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/03%20-%20Capo%20III%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20POLIZIA%20GIUDIZIARIA/art-16-dlgs271-89.md) - Sanzioni disciplinari
+- [Art. 17](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/03%20-%20Capo%20III%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20POLIZIA%20GIUDIZIARIA/art-17-dlgs271-89.md) - Procedimento disciplinare
+- [Art. 18](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/03%20-%20Capo%20III%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20POLIZIA%20GIUDIZIARIA/art-18-dlgs271-89.md) - Ricorso
+- [Art. 19](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/03%20-%20Capo%20III%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20POLIZIA%20GIUDIZIARIA/art-19-dlgs271-89.md) - Sospensione cautelare
+- [Art. 20](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/03%20-%20Capo%20III%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20POLIZIA%20GIUDIZIARIA/art-20-dlgs271-89.md) - Disposizione transitoria
 
 #### Capo IV - DISPOSIZIONI RELATIVE ALLE PARTI PRIVATE E AI DIFENSORI
-- [Art. 21](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/04%20-%20Capo%20IV%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PARTI%20PRIVATE%20E%20AI%20DIFENSORI/art-21-dlgs271-89.md) — Notizie da chiedere all'imputato nel primo atto cui egli è presente
-- [Art. 22](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/04%20-%20Capo%20IV%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PARTI%20PRIVATE%20E%20AI%20DIFENSORI/art-22-dlgs271-89.md) — Comparizione delle persone in stato di arresto o detenzione domiciliare
-- [Art. 23](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/04%20-%20Capo%20IV%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PARTI%20PRIVATE%20E%20AI%20DIFENSORI/art-23-dlgs271-89.md) — Assenza delle parti private diverse dall'imputato
-- [Art. 24](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/04%20-%20Capo%20IV%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PARTI%20PRIVATE%20E%20AI%20DIFENSORI/art-24-dlgs271-89.md) — Nomina di più difensori
-- [Art. 25](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/04%20-%20Capo%20IV%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PARTI%20PRIVATE%20E%20AI%20DIFENSORI/art-25-dlgs271-89.md) — Divieto di consigli circa la scelta del difensore di fiducia
-- [Art. 26](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/04%20-%20Capo%20IV%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PARTI%20PRIVATE%20E%20AI%20DIFENSORI/art-26-dlgs271-89.md) — Nomina del difensore nei casi di uso di lingua diversa dall'italiano
-- [Art. 27](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/04%20-%20Capo%20IV%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PARTI%20PRIVATE%20E%20AI%20DIFENSORI/art-27-dlgs271-89.md) — Documentazione della qualità di difensore
-- [Art. 28](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/04%20-%20Capo%20IV%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PARTI%20PRIVATE%20E%20AI%20DIFENSORI/art-28-dlgs271-89.md) — Comunicazione del nominativo del difensore di ufficio
-- [Art. 29](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/04%20-%20Capo%20IV%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PARTI%20PRIVATE%20E%20AI%20DIFENSORI/art-29-dlgs271-89.md) — Elenchi e tabelle dei difensori di ufficio
-- [Art. 30](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/04%20-%20Capo%20IV%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PARTI%20PRIVATE%20E%20AI%20DIFENSORI/art-30-dlgs271-89.md) — Comunicazione al difensore di ufficio
-- [Art. 31](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/04%20-%20Capo%20IV%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PARTI%20PRIVATE%20E%20AI%20DIFENSORI/art-31-dlgs271-89.md) — Diritto alla retribuzione del difensore di ufficio
-- [Art. 32](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/04%20-%20Capo%20IV%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PARTI%20PRIVATE%20E%20AI%20DIFENSORI/art-32-dlgs271-89.md) — Recupero dei crediti professionali
-- [Art. 32-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/04%20-%20Capo%20IV%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PARTI%20PRIVATE%20E%20AI%20DIFENSORI/art-32-bis-dlgs271-89.md) — *(abrogato)*
-- [Art. 33](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/04%20-%20Capo%20IV%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PARTI%20PRIVATE%20E%20AI%20DIFENSORI/art-33-dlgs271-89.md) — Domicilio della persona offesa
-- [Art. 34](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/04%20-%20Capo%20IV%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PARTI%20PRIVATE%20E%20AI%20DIFENSORI/art-34-dlgs271-89.md) — Designazione del sostituto del difensore
-- [Art. 35](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/04%20-%20Capo%20IV%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PARTI%20PRIVATE%20E%20AI%20DIFENSORI/art-35-dlgs271-89.md) — Corrispondenza e colloqui telefonici del difensore con l'imputato
-- [Art. 36](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/04%20-%20Capo%20IV%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PARTI%20PRIVATE%20E%20AI%20DIFENSORI/art-36-dlgs271-89.md) — Accesso del difensore al luogo di custodia
-- [Art. 37](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/04%20-%20Capo%20IV%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PARTI%20PRIVATE%20E%20AI%20DIFENSORI/art-37-dlgs271-89.md) — Procura speciale rilasciata in via preventiva
-- [Art. 38](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/04%20-%20Capo%20IV%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PARTI%20PRIVATE%20E%20AI%20DIFENSORI/art-38-dlgs271-89.md) — *(abrogato)*
+- [Art. 21](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/04%20-%20Capo%20IV%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PARTI%20PRIVATE%20E%20AI%20DIFENSORI/art-21-dlgs271-89.md) - Notizie da chiedere all'imputato nel primo atto cui egli è presente
+- [Art. 22](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/04%20-%20Capo%20IV%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PARTI%20PRIVATE%20E%20AI%20DIFENSORI/art-22-dlgs271-89.md) - Comparizione delle persone in stato di arresto o detenzione domiciliare
+- [Art. 23](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/04%20-%20Capo%20IV%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PARTI%20PRIVATE%20E%20AI%20DIFENSORI/art-23-dlgs271-89.md) - Assenza delle parti private diverse dall'imputato
+- [Art. 24](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/04%20-%20Capo%20IV%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PARTI%20PRIVATE%20E%20AI%20DIFENSORI/art-24-dlgs271-89.md) - Nomina di più difensori
+- [Art. 25](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/04%20-%20Capo%20IV%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PARTI%20PRIVATE%20E%20AI%20DIFENSORI/art-25-dlgs271-89.md) - Divieto di consigli circa la scelta del difensore di fiducia
+- [Art. 26](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/04%20-%20Capo%20IV%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PARTI%20PRIVATE%20E%20AI%20DIFENSORI/art-26-dlgs271-89.md) - Nomina del difensore nei casi di uso di lingua diversa dall'italiano
+- [Art. 27](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/04%20-%20Capo%20IV%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PARTI%20PRIVATE%20E%20AI%20DIFENSORI/art-27-dlgs271-89.md) - Documentazione della qualità di difensore
+- [Art. 28](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/04%20-%20Capo%20IV%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PARTI%20PRIVATE%20E%20AI%20DIFENSORI/art-28-dlgs271-89.md) - Comunicazione del nominativo del difensore di ufficio
+- [Art. 29](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/04%20-%20Capo%20IV%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PARTI%20PRIVATE%20E%20AI%20DIFENSORI/art-29-dlgs271-89.md) - Elenchi e tabelle dei difensori di ufficio
+- [Art. 30](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/04%20-%20Capo%20IV%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PARTI%20PRIVATE%20E%20AI%20DIFENSORI/art-30-dlgs271-89.md) - Comunicazione al difensore di ufficio
+- [Art. 31](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/04%20-%20Capo%20IV%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PARTI%20PRIVATE%20E%20AI%20DIFENSORI/art-31-dlgs271-89.md) - Diritto alla retribuzione del difensore di ufficio
+- [Art. 32](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/04%20-%20Capo%20IV%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PARTI%20PRIVATE%20E%20AI%20DIFENSORI/art-32-dlgs271-89.md) - Recupero dei crediti professionali
+- [Art. 32-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/04%20-%20Capo%20IV%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PARTI%20PRIVATE%20E%20AI%20DIFENSORI/art-32-bis-dlgs271-89.md) - *(abrogato)*
+- [Art. 33](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/04%20-%20Capo%20IV%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PARTI%20PRIVATE%20E%20AI%20DIFENSORI/art-33-dlgs271-89.md) - Domicilio della persona offesa
+- [Art. 34](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/04%20-%20Capo%20IV%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PARTI%20PRIVATE%20E%20AI%20DIFENSORI/art-34-dlgs271-89.md) - Designazione del sostituto del difensore
+- [Art. 35](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/04%20-%20Capo%20IV%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PARTI%20PRIVATE%20E%20AI%20DIFENSORI/art-35-dlgs271-89.md) - Corrispondenza e colloqui telefonici del difensore con l'imputato
+- [Art. 36](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/04%20-%20Capo%20IV%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PARTI%20PRIVATE%20E%20AI%20DIFENSORI/art-36-dlgs271-89.md) - Accesso del difensore al luogo di custodia
+- [Art. 37](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/04%20-%20Capo%20IV%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PARTI%20PRIVATE%20E%20AI%20DIFENSORI/art-37-dlgs271-89.md) - Procura speciale rilasciata in via preventiva
+- [Art. 38](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/04%20-%20Capo%20IV%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PARTI%20PRIVATE%20E%20AI%20DIFENSORI/art-38-dlgs271-89.md) - *(abrogato)*
 
 #### Capo V - DISPOSIZIONI RELATIVE AGLI ATTI
-- [Art. 39](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-39-dlgs271-89.md) — Autenticazione della sottoscrizione di atti
-- [Art. 40](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-40-dlgs271-89.md) — Copia dell'atto che surroga l'originale mancante
-- [Art. 41](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-41-dlgs271-89.md) — Atto ricostituito
-- [Art. 42](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-42-dlgs271-89.md) — Trasmissione a distanza di copia di atti
-- [Art. 43](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-43-dlgs271-89.md) — Autorizzazione al rilascio di copia di atti
-- [Art. 44](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-44-dlgs271-89.md) — Comunicazione delle dichiarazioni e richieste di persone detenute o internate
-- [Art. 45](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-45-dlgs271-89.md) — Relazione nel procedimento in camera di consiglio
-- [Art. 45-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-45-bis-dlgs271-89.md) — Partecipazione al procedimento in camera di consiglio a distanza
-- [Art. 45-ter](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-45-ter-dlgs271-89.md) — Giudice competente in ordine all'accesso alla giustizia riparativa
-- [Art. 46](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-46-dlgs271-89.md) — Esecuzione dell'accompagnamento coattivo
-- [Art. 47](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-47-dlgs271-89.md) — Revoca della condanna pecuniaria inflitta alle persone non comparse
-- [Art. 48](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-48-dlgs271-89.md) — Cancellature, variazioni e aggiunte negli atti
-- [Art. 49](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-49-dlgs271-89.md) — Conservazione dei nastri e dei supporti fonografici e audiovisivi
-- [Art. 50](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-50-dlgs271-89.md) — Redazione del verbale in forma stenotipica o con altro strumento meccanico
-- [Art. 51](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-51-dlgs271-89.md) — Personale tecnico impiegato per la documentazione degli atti
-- [Art. 51-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-51-bis-dlgs271-89.md) — Assistenza dell'interprete e traduzione degli atti
-- [Art. 52](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-52-dlgs271-89.md) — Citazione dell'interprete
-- [Art. 53](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-53-dlgs271-89.md) — Sanzione pecuniaria inflitta all'interprete nel corso delle indagini preliminari
-- [Art. 54](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-54-dlgs271-89.md) — Copie degli atti da notificare
-- [Art. 55](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-55-dlgs271-89.md) — Modalità di attuazione delle notificazioni urgenti a mezzo del telefono o del telegrafo
-- [Art. 56](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-56-dlgs271-89.md) — Notificazione a mezzo posta effettuata dal difensore
-- [Art. 56-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-56-bis-dlgs271-89.md) — Notificazione con modalità telematiche eseguita dal difensore
-- [Art. 57](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-57-dlgs271-89.md) — Rifiuto di ricezione dell'atto notificato all'imputato detenuto
-- [Art. 58](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-58-dlgs271-89.md) — Informazione all'imputato detenuto legittimamente assente
-- [Art. 59](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-59-dlgs271-89.md) — Secondo accesso per la prima notificazione all'imputato non detenuto
-- [Art. 60](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-60-dlgs271-89.md) — Informazione dell'avvenuta notificazione all'imputato in servizio militare
-- [Art. 61](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-61-dlgs271-89.md) — Documentazione delle nuove ricerche dell'imputato
-- [Art. 62](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-62-dlgs271-89.md) — Indicazione delle generalità del domiciliatario
-- [Art. 63](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-63-dlgs271-89.md) — Traduzione dell'avviso inviato all'imputato straniero all'estero
-- [Art. 63-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-63-bis-dlgs271-89.md) — Comunicazione di cortesia
-- [Art. 64](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-64-dlgs271-89.md) — Comunicazione di atti
-- [Art. 64-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-64-bis-dlgs271-89.md) — Comunicazioni e trasmissione di atti ad altre autorità giudiziarie
-- [Art. 64-ter](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-64-ter-dlgs271-89.md) — Diritto all'oblio degli imputati e delle persone sottoposte ad indagini
-- [Art. 65](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-65-dlgs271-89.md) — *(abrogato)*
+- [Art. 39](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-39-dlgs271-89.md) - Autenticazione della sottoscrizione di atti
+- [Art. 40](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-40-dlgs271-89.md) - Copia dell'atto che surroga l'originale mancante
+- [Art. 41](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-41-dlgs271-89.md) - Atto ricostituito
+- [Art. 42](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-42-dlgs271-89.md) - Trasmissione a distanza di copia di atti
+- [Art. 43](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-43-dlgs271-89.md) - Autorizzazione al rilascio di copia di atti
+- [Art. 44](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-44-dlgs271-89.md) - Comunicazione delle dichiarazioni e richieste di persone detenute o internate
+- [Art. 45](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-45-dlgs271-89.md) - Relazione nel procedimento in camera di consiglio
+- [Art. 45-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-45-bis-dlgs271-89.md) - Partecipazione al procedimento in camera di consiglio a distanza
+- [Art. 45-ter](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-45-ter-dlgs271-89.md) - Giudice competente in ordine all'accesso alla giustizia riparativa
+- [Art. 46](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-46-dlgs271-89.md) - Esecuzione dell'accompagnamento coattivo
+- [Art. 47](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-47-dlgs271-89.md) - Revoca della condanna pecuniaria inflitta alle persone non comparse
+- [Art. 48](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-48-dlgs271-89.md) - Cancellature, variazioni e aggiunte negli atti
+- [Art. 49](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-49-dlgs271-89.md) - Conservazione dei nastri e dei supporti fonografici e audiovisivi
+- [Art. 50](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-50-dlgs271-89.md) - Redazione del verbale in forma stenotipica o con altro strumento meccanico
+- [Art. 51](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-51-dlgs271-89.md) - Personale tecnico impiegato per la documentazione degli atti
+- [Art. 51-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-51-bis-dlgs271-89.md) - Assistenza dell'interprete e traduzione degli atti
+- [Art. 52](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-52-dlgs271-89.md) - Citazione dell'interprete
+- [Art. 53](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-53-dlgs271-89.md) - Sanzione pecuniaria inflitta all'interprete nel corso delle indagini preliminari
+- [Art. 54](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-54-dlgs271-89.md) - Copie degli atti da notificare
+- [Art. 55](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-55-dlgs271-89.md) - Modalità di attuazione delle notificazioni urgenti a mezzo del telefono o del telegrafo
+- [Art. 56](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-56-dlgs271-89.md) - Notificazione a mezzo posta effettuata dal difensore
+- [Art. 56-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-56-bis-dlgs271-89.md) - Notificazione con modalità telematiche eseguita dal difensore
+- [Art. 57](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-57-dlgs271-89.md) - Rifiuto di ricezione dell'atto notificato all'imputato detenuto
+- [Art. 58](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-58-dlgs271-89.md) - Informazione all'imputato detenuto legittimamente assente
+- [Art. 59](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-59-dlgs271-89.md) - Secondo accesso per la prima notificazione all'imputato non detenuto
+- [Art. 60](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-60-dlgs271-89.md) - Informazione dell'avvenuta notificazione all'imputato in servizio militare
+- [Art. 61](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-61-dlgs271-89.md) - Documentazione delle nuove ricerche dell'imputato
+- [Art. 62](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-62-dlgs271-89.md) - Indicazione delle generalità del domiciliatario
+- [Art. 63](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-63-dlgs271-89.md) - Traduzione dell'avviso inviato all'imputato straniero all'estero
+- [Art. 63-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-63-bis-dlgs271-89.md) - Comunicazione di cortesia
+- [Art. 64](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-64-dlgs271-89.md) - Comunicazione di atti
+- [Art. 64-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-64-bis-dlgs271-89.md) - Comunicazioni e trasmissione di atti ad altre autorità giudiziarie
+- [Art. 64-ter](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-64-ter-dlgs271-89.md) - Diritto all'oblio degli imputati e delle persone sottoposte ad indagini
+- [Art. 65](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/05%20-%20Capo%20V%20-%20DISPOSIZIONI%20RELATIVE%20AGLI%20ATTI/art-65-dlgs271-89.md) - *(abrogato)*
 
 #### Capo VI - DISPOSIZIONI RELATIVE ALLE PROVE
-- [Art. 66](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-66-dlgs271-89.md) — Procedimento di esclusione del segreto
-- [Art. 67](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-67-dlgs271-89.md) — Albo dei periti presso il tribunale
-- [Art. 67-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-67-bis-dlgs271-89.md) — Elenco nazionale degli interpreti e traduttori
-- [Art. 68](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-68-dlgs271-89.md) — Formazione e revisione dell'albo dei periti
-- [Art. 69](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-69-dlgs271-89.md) — Requisiti per la iscrizione nell'albo dei periti
-- [Art. 70](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-70-dlgs271-89.md) — Sanzioni applicabili agli iscritti nell'albo dei periti
-- [Art. 71](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-71-dlgs271-89.md) — Procedimento per l'applicazione delle sanzioni
-- [Art. 72](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-72-dlgs271-89.md) — Reclamo avverso le decisioni del comitato
-- [Art. 72-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-72-bis-dlgs271-89.md) — Prelievo di campioni biologici e accertamenti medici su minori e su persone incapaci o interdette
-- [Art. 72-ter](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-72-ter-dlgs271-89.md) — Redazione del verbale delle operazioni
-- [Art. 72-quater](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-72-quater-dlgs271-89.md) — Distruzione dei campioni biologici
-- [Art. 73](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-73-dlgs271-89.md) — Consulente tecnico del pubblico ministero
-- [Art. 74](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-74-dlgs271-89.md) — Consulenza o Perizia nummaria
-- [Art. 75](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-75-dlgs271-89.md) — Scritture di comparazione
-- [Art. 76](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-76-dlgs271-89.md) — Consegna al perito di documenti o di altri oggetti
-- [Art. 77](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-77-dlgs271-89.md) — Attività di investigazione della polizia in materia di armi e di sostanze stupefacenti
-- [Art. 78](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-78-dlgs271-89.md) — Acquisizione di atti di un procedimento penale straniero
-- [Art. 79](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-79-dlgs271-89.md) — Esecuzione di perquisizioni e ispezioni personali
-- [Art. 80](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-80-dlgs271-89.md) — Esecuzione di perquisizioni locali
-- [Art. 81](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-81-dlgs271-89.md) — Redazione del verbale di sequestro
-- [Art. 82](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-82-dlgs271-89.md) — Attività per il deposito e la custodia delle cose sequestrate
-- [Art. 83](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-83-dlgs271-89.md) — Vendita o distruzione delle cose deperibili
-- [Art. 84](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-84-dlgs271-89.md) — *(abrogato)*
-- [Art. 85](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-85-dlgs271-89.md) — Restituzione con imposizione di prescrizioni
-- [Art. 86](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-86-dlgs271-89.md) — Vendita o distruzione delle cose confiscate
-- [Art. 86-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-86-bis-dlgs271-89.md) — Destinazione dei beni informatici o telematici sequestrati o confiscati in quanto utilizzati per la commissione dei reati di cui agli articoli 473, 474, 615-ter, 615-quater, 615-quinquies, 617-bis, 617-ter, 617-quater, 617-quinquies, 617-sexies, 635-bis, 635-ter, 635-quater, 635-quinquies, 640-ter e 640-quinquies del codice penale
-- [Art. 86-ter](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-86-ter-dlgs271-89.md) — Destinazione dei beni confiscati in quanto utilizzati per la commissione del reato di esercizio abusivo della professione sanitaria
-- [Art. 86-quater](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-86-quater-dlgs271-89.md) — Destinazione a scopi benefici dei prodotti alimentari confiscati
-- [Art. 87](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-87-dlgs271-89.md) — *(abrogato)*
-- [Art. 88](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-88-dlgs271-89.md) — Destinazione delle monete metalliche e dei biglietti di banca confiscati
-- [Art. 89](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-89-dlgs271-89.md) — Verbale e registrazioni delle intercettazioni
-- [Art. 89-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-89-bis-dlgs271-89.md) — Archivio delle intercettazioni
-- [Art. 90](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-90-dlgs271-89.md) — *(abrogato)*
+- [Art. 66](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-66-dlgs271-89.md) - Procedimento di esclusione del segreto
+- [Art. 67](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-67-dlgs271-89.md) - Albo dei periti presso il tribunale
+- [Art. 67-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-67-bis-dlgs271-89.md) - Elenco nazionale degli interpreti e traduttori
+- [Art. 68](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-68-dlgs271-89.md) - Formazione e revisione dell'albo dei periti
+- [Art. 69](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-69-dlgs271-89.md) - Requisiti per la iscrizione nell'albo dei periti
+- [Art. 70](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-70-dlgs271-89.md) - Sanzioni applicabili agli iscritti nell'albo dei periti
+- [Art. 71](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-71-dlgs271-89.md) - Procedimento per l'applicazione delle sanzioni
+- [Art. 72](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-72-dlgs271-89.md) - Reclamo avverso le decisioni del comitato
+- [Art. 72-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-72-bis-dlgs271-89.md) - Prelievo di campioni biologici e accertamenti medici su minori e su persone incapaci o interdette
+- [Art. 72-ter](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-72-ter-dlgs271-89.md) - Redazione del verbale delle operazioni
+- [Art. 72-quater](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-72-quater-dlgs271-89.md) - Distruzione dei campioni biologici
+- [Art. 73](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-73-dlgs271-89.md) - Consulente tecnico del pubblico ministero
+- [Art. 74](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-74-dlgs271-89.md) - Consulenza o Perizia nummaria
+- [Art. 75](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-75-dlgs271-89.md) - Scritture di comparazione
+- [Art. 76](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-76-dlgs271-89.md) - Consegna al perito di documenti o di altri oggetti
+- [Art. 77](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-77-dlgs271-89.md) - Attività di investigazione della polizia in materia di armi e di sostanze stupefacenti
+- [Art. 78](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-78-dlgs271-89.md) - Acquisizione di atti di un procedimento penale straniero
+- [Art. 79](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-79-dlgs271-89.md) - Esecuzione di perquisizioni e ispezioni personali
+- [Art. 80](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-80-dlgs271-89.md) - Esecuzione di perquisizioni locali
+- [Art. 81](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-81-dlgs271-89.md) - Redazione del verbale di sequestro
+- [Art. 82](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-82-dlgs271-89.md) - Attività per il deposito e la custodia delle cose sequestrate
+- [Art. 83](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-83-dlgs271-89.md) - Vendita o distruzione delle cose deperibili
+- [Art. 84](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-84-dlgs271-89.md) - *(abrogato)*
+- [Art. 85](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-85-dlgs271-89.md) - Restituzione con imposizione di prescrizioni
+- [Art. 86](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-86-dlgs271-89.md) - Vendita o distruzione delle cose confiscate
+- [Art. 86-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-86-bis-dlgs271-89.md) - Destinazione dei beni informatici o telematici sequestrati o confiscati in quanto utilizzati per la commissione dei reati di cui agli articoli 473, 474, 615-ter, 615-quater, 615-quinquies, 617-bis, 617-ter, 617-quater, 617-quinquies, 617-sexies, 635-bis, 635-ter, 635-quater, 635-quinquies, 640-ter e 640-quinquies del codice penale
+- [Art. 86-ter](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-86-ter-dlgs271-89.md) - Destinazione dei beni confiscati in quanto utilizzati per la commissione del reato di esercizio abusivo della professione sanitaria
+- [Art. 86-quater](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-86-quater-dlgs271-89.md) - Destinazione a scopi benefici dei prodotti alimentari confiscati
+- [Art. 87](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-87-dlgs271-89.md) - *(abrogato)*
+- [Art. 88](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-88-dlgs271-89.md) - Destinazione delle monete metalliche e dei biglietti di banca confiscati
+- [Art. 89](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-89-dlgs271-89.md) - Verbale e registrazioni delle intercettazioni
+- [Art. 89-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-89-bis-dlgs271-89.md) - Archivio delle intercettazioni
+- [Art. 90](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/06%20-%20Capo%20VI%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20PROVE/art-90-dlgs271-89.md) - *(abrogato)*
 
 #### Capo VII - DISPOSIZIONI RELATIVE ALLE MISURE CAUTELARI
-- [Art. 91](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/07%20-%20Capo%20VII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20MISURE%20CAUTELARI/art-91-dlgs271-89.md) — Giudice competente in ordine alle misure cautelari
-- [Art. 92](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/07%20-%20Capo%20VII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20MISURE%20CAUTELARI/art-92-dlgs271-89.md) — Trasmissione dell'ordinanza che dispone la misura cautelare
-- [Art. 93](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/07%20-%20Capo%20VII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20MISURE%20CAUTELARI/art-93-dlgs271-89.md) — Deposito del verbale di interrogatorio
-- [Art. 94](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/07%20-%20Capo%20VII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20MISURE%20CAUTELARI/art-94-dlgs271-89.md) — Ingresso in istituti penitenziari
-- [Art. 95](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/07%20-%20Capo%20VII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20MISURE%20CAUTELARI/art-95-dlgs271-89.md) — Esecuzione della custodia cautelare nei confronti dell'internato per misura di sicurezza
-- [Art. 96](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/07%20-%20Capo%20VII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20MISURE%20CAUTELARI/art-96-dlgs271-89.md) — Separazione degli imputati detenuti
-- [Art. 97](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/07%20-%20Capo%20VII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20MISURE%20CAUTELARI/art-97-dlgs271-89.md) — Comunicazioni al servizio informatico
-- [Art. 97-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/07%20-%20Capo%20VII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20MISURE%20CAUTELARI/art-97-bis-dlgs271-89.md) — Modalità di esecuzione del provvedimento che applica gli arresti domiciliari
-- [Art. 97-ter](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/07%20-%20Capo%20VII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20MISURE%20CAUTELARI/art-97-ter-dlgs271-89.md) — Modalità di accertamento della fattibilità tecnica, ivi inclusa quella operativa, delle particolari modalità di controllo di cui agli articoli 275-bis, 282-bis e 282-ter del codice
-- [Art. 98](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/07%20-%20Capo%20VII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20MISURE%20CAUTELARI/art-98-dlgs271-89.md) — Cessazione delle misure cautelari estinte
-- [Art. 99](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/07%20-%20Capo%20VII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20MISURE%20CAUTELARI/art-99-dlgs271-89.md) — Inammissibilità della richiesta di riesame
-- [Art. 100](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/07%20-%20Capo%20VII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20MISURE%20CAUTELARI/art-100-dlgs271-89.md) — Trasmissione degli atti in caso di impugnazione
-- [Art. 101](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/07%20-%20Capo%20VII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20MISURE%20CAUTELARI/art-101-dlgs271-89.md) — Termine per la decisione sulla richiesta di riesame
-- [Art. 102](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/07%20-%20Capo%20VII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20MISURE%20CAUTELARI/art-102-dlgs271-89.md) — Domanda di riparazione per l'ingiusta detenzione
-- [Art. 102-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/07%20-%20Capo%20VII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20MISURE%20CAUTELARI/art-102-bis-dlgs271-89.md) — Reintegrazione nel posto di lavoro perduto per ingiusta detenzione
-- [Art. 103](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/07%20-%20Capo%20VII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20MISURE%20CAUTELARI/art-103-dlgs271-89.md) — Trascrizione e cancellazione del sequestro conservativo
-- [Art. 104](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/07%20-%20Capo%20VII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20MISURE%20CAUTELARI/art-104-dlgs271-89.md) — Esecuzione del sequestro preventivo
-- [Art. 104-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/07%20-%20Capo%20VII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20MISURE%20CAUTELARI/art-104-bis-dlgs271-89.md) — Amministrazione dei beni sottoposti a sequestro e confisca. Tutela dei terzi nel giudizio
+- [Art. 91](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/07%20-%20Capo%20VII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20MISURE%20CAUTELARI/art-91-dlgs271-89.md) - Giudice competente in ordine alle misure cautelari
+- [Art. 92](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/07%20-%20Capo%20VII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20MISURE%20CAUTELARI/art-92-dlgs271-89.md) - Trasmissione dell'ordinanza che dispone la misura cautelare
+- [Art. 93](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/07%20-%20Capo%20VII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20MISURE%20CAUTELARI/art-93-dlgs271-89.md) - Deposito del verbale di interrogatorio
+- [Art. 94](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/07%20-%20Capo%20VII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20MISURE%20CAUTELARI/art-94-dlgs271-89.md) - Ingresso in istituti penitenziari
+- [Art. 95](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/07%20-%20Capo%20VII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20MISURE%20CAUTELARI/art-95-dlgs271-89.md) - Esecuzione della custodia cautelare nei confronti dell'internato per misura di sicurezza
+- [Art. 96](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/07%20-%20Capo%20VII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20MISURE%20CAUTELARI/art-96-dlgs271-89.md) - Separazione degli imputati detenuti
+- [Art. 97](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/07%20-%20Capo%20VII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20MISURE%20CAUTELARI/art-97-dlgs271-89.md) - Comunicazioni al servizio informatico
+- [Art. 97-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/07%20-%20Capo%20VII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20MISURE%20CAUTELARI/art-97-bis-dlgs271-89.md) - Modalità di esecuzione del provvedimento che applica gli arresti domiciliari
+- [Art. 97-ter](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/07%20-%20Capo%20VII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20MISURE%20CAUTELARI/art-97-ter-dlgs271-89.md) - Modalità di accertamento della fattibilità tecnica, ivi inclusa quella operativa, delle particolari modalità di controllo di cui agli articoli 275-bis, 282-bis e 282-ter del codice
+- [Art. 98](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/07%20-%20Capo%20VII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20MISURE%20CAUTELARI/art-98-dlgs271-89.md) - Cessazione delle misure cautelari estinte
+- [Art. 99](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/07%20-%20Capo%20VII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20MISURE%20CAUTELARI/art-99-dlgs271-89.md) - Inammissibilità della richiesta di riesame
+- [Art. 100](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/07%20-%20Capo%20VII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20MISURE%20CAUTELARI/art-100-dlgs271-89.md) - Trasmissione degli atti in caso di impugnazione
+- [Art. 101](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/07%20-%20Capo%20VII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20MISURE%20CAUTELARI/art-101-dlgs271-89.md) - Termine per la decisione sulla richiesta di riesame
+- [Art. 102](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/07%20-%20Capo%20VII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20MISURE%20CAUTELARI/art-102-dlgs271-89.md) - Domanda di riparazione per l'ingiusta detenzione
+- [Art. 102-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/07%20-%20Capo%20VII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20MISURE%20CAUTELARI/art-102-bis-dlgs271-89.md) - Reintegrazione nel posto di lavoro perduto per ingiusta detenzione
+- [Art. 103](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/07%20-%20Capo%20VII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20MISURE%20CAUTELARI/art-103-dlgs271-89.md) - Trascrizione e cancellazione del sequestro conservativo
+- [Art. 104](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/07%20-%20Capo%20VII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20MISURE%20CAUTELARI/art-104-dlgs271-89.md) - Esecuzione del sequestro preventivo
+- [Art. 104-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/07%20-%20Capo%20VII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20MISURE%20CAUTELARI/art-104-bis-dlgs271-89.md) - Amministrazione dei beni sottoposti a sequestro e confisca. Tutela dei terzi nel giudizio
 
 #### Capo VIII - DISPOSIZIONI RELATIVE ALLE INDAGINI PRELIMINARI
-- [Art. 105](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-105-dlgs271-89.md) — Registrazione e conservazione dei provvedimenti del giudice per le indagini preliminari
-- [Art. 106](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-106-dlgs271-89.md) — Informativa al giudice civile o amministrativo che ha redatto denuncia di reato
-- [Art. 107](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-107-dlgs271-89.md) — Attestazione della presentazione di denuncia o querela ovvero della mancata identificazione dell'autore del reato
-- [Art. 107-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-107-bis-dlgs271-89.md) — Denunce a carico di ignoti
-- [Art. 107-ter](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-107-ter-dlgs271-89.md) — Assistenza dell'interprete per la proposizione o presentazione di denuncia o querela
-- [Art. 108](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-108-dlgs271-89.md) — Denunce e altri documenti anonimi
-- [Art. 108-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-108-bis-dlgs271-89.md) — Modalità particolari di trasmissione della notizia di reato
-- [Art. 108-ter](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-108-ter-dlgs271-89.md) — Denunce e querele per reati commessi in altro Stato dell'Unione europea
-- [Art. 109](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-109-dlgs271-89.md) — Ricezione della notizia di reato
-- [Art. 110](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-110-dlgs271-89.md) — Richiesta dei certificati
-- [Art. 110-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-110-bis-dlgs271-89.md) — Richiesta di comunicazione delle iscrizioni
-- [Art. 110-ter](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-110-ter-dlgs271-89.md) — Informazione sulle iscrizioni
-- [Art. 110-quater](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-110-quater-dlgs271-89.md) — Riferimenti alla persona iscritta nel registro delle notizie di reato contenuti nelle disposizioni civili e amministrative
-- [Art. 111](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-111-dlgs271-89.md) — Requisiti della richiesta di autorizzazione a procedere
-- [Art. 112](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-112-dlgs271-89.md) — Attività della polizia giudiziaria in mancanza di una condizione di procedibilita
-- [Art. 113](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-113-dlgs271-89.md) — Accertamenti urgenti della polizia giudiziaria
-- [Art. 114](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-114-dlgs271-89.md) — Avvertimento del diritto all'assistenza del difensore
-- [Art. 115](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-115-dlgs271-89.md) — Annotazioni e verbali della polizia giudiziaria
-- [Art. 116](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-116-dlgs271-89.md) — Indagini sulla morte di una persona per la quale sorge sospetto di reato
-- [Art. 117](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-117-dlgs271-89.md) — Accertamenti tecnici che modificano lo stato dei luoghi, delle cose o delle persone
-- [Art. 118](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-118-dlgs271-89.md) — Deposito di atti compiuti nel corso delle indagini preliminari
-- [Art. 118-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-118-bis-dlgs271-89.md) — Coordinamento delle indagini
-- [Art. 119](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-119-dlgs271-89.md) — Annotazione di atti del pubblico ministero
-- [Art. 120](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-120-dlgs271-89.md) — Adempimenti conseguenti all'arresto o al fermo
-- [Art. 121](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-121-dlgs271-89.md) — Liberazione dell'arrestato o del fermato
-- [Art. 122](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-122-dlgs271-89.md) — Trasmissione della richiesta di convalida
-- [Art. 123](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-123-dlgs271-89.md) — Luogo di svolgimento dell'udienza di convalida e dell'interrogatorio del detenuto
-- [Art. 124](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-124-dlgs271-89.md) — Ordinanza che accoglie la richiesta di incidente probatorio
-- [Art. 125](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-125-dlgs271-89.md) — *(abrogato)*
-- [Art. 126](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-126-dlgs271-89.md) — Avviso alla persona offesa della richiesta di archiviazione
-- [Art. 127](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-127-dlgs271-89.md) — Comunicazione delle notizie di reato al procuratore generale
-- [Art. 127-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-127-bis-dlgs271-89.md) — Avocazione e criteri di priorità
-- [Art. 128](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-128-dlgs271-89.md) — Fissazione della udienza preliminare nel caso di mancato   accoglimento della richiesta di archiviazione
-- [Art. 129](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-129-dlgs271-89.md) — Informazioni sul procedimento penale
-- [Art. 130](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-130-dlgs271-89.md) — Contenuto del fascicolo trasmesso dal pubblico ministero con la richiesta di rinvio a giudizio
-- [Art. 130-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-130-bis-dlgs271-89.md) — Separazione dei procedimenti in fase di indagine
-- [Art. 131](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-131-dlgs271-89.md) — Deposito degli atti per l'udienza preliminare
-- [Art. 131-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-131-bis-dlgs271-89.md) — Liberazione dell'imputato prosciolto
-- [Art. 132](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-132-dlgs271-89.md) — Decreto che dispone il giudizio davanti alla corte di assise o al tribunale
-- [Art. 132-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-132-bis-dlgs271-89.md) — Formazione dei ruoli di udienza e trattazione dei processi
-- [Art. 132-ter](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-132-ter-dlgs271-89.md) — Fissazione dell'udienza per la riapertura del processo
-- [Art. 133](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-133-dlgs271-89.md) — Notificazione del decreto che dispone il giudizio
+- [Art. 105](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-105-dlgs271-89.md) - Registrazione e conservazione dei provvedimenti del giudice per le indagini preliminari
+- [Art. 106](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-106-dlgs271-89.md) - Informativa al giudice civile o amministrativo che ha redatto denuncia di reato
+- [Art. 107](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-107-dlgs271-89.md) - Attestazione della presentazione di denuncia o querela ovvero della mancata identificazione dell'autore del reato
+- [Art. 107-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-107-bis-dlgs271-89.md) - Denunce a carico di ignoti
+- [Art. 107-ter](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-107-ter-dlgs271-89.md) - Assistenza dell'interprete per la proposizione o presentazione di denuncia o querela
+- [Art. 108](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-108-dlgs271-89.md) - Denunce e altri documenti anonimi
+- [Art. 108-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-108-bis-dlgs271-89.md) - Modalità particolari di trasmissione della notizia di reato
+- [Art. 108-ter](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-108-ter-dlgs271-89.md) - Denunce e querele per reati commessi in altro Stato dell'Unione europea
+- [Art. 109](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-109-dlgs271-89.md) - Ricezione della notizia di reato
+- [Art. 110](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-110-dlgs271-89.md) - Richiesta dei certificati
+- [Art. 110-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-110-bis-dlgs271-89.md) - Richiesta di comunicazione delle iscrizioni
+- [Art. 110-ter](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-110-ter-dlgs271-89.md) - Informazione sulle iscrizioni
+- [Art. 110-quater](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-110-quater-dlgs271-89.md) - Riferimenti alla persona iscritta nel registro delle notizie di reato contenuti nelle disposizioni civili e amministrative
+- [Art. 111](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-111-dlgs271-89.md) - Requisiti della richiesta di autorizzazione a procedere
+- [Art. 112](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-112-dlgs271-89.md) - Attività della polizia giudiziaria in mancanza di una condizione di procedibilita
+- [Art. 113](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-113-dlgs271-89.md) - Accertamenti urgenti della polizia giudiziaria
+- [Art. 114](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-114-dlgs271-89.md) - Avvertimento del diritto all'assistenza del difensore
+- [Art. 115](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-115-dlgs271-89.md) - Annotazioni e verbali della polizia giudiziaria
+- [Art. 116](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-116-dlgs271-89.md) - Indagini sulla morte di una persona per la quale sorge sospetto di reato
+- [Art. 117](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-117-dlgs271-89.md) - Accertamenti tecnici che modificano lo stato dei luoghi, delle cose o delle persone
+- [Art. 118](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-118-dlgs271-89.md) - Deposito di atti compiuti nel corso delle indagini preliminari
+- [Art. 118-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-118-bis-dlgs271-89.md) - Coordinamento delle indagini
+- [Art. 119](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-119-dlgs271-89.md) - Annotazione di atti del pubblico ministero
+- [Art. 120](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-120-dlgs271-89.md) - Adempimenti conseguenti all'arresto o al fermo
+- [Art. 121](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-121-dlgs271-89.md) - Liberazione dell'arrestato o del fermato
+- [Art. 122](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-122-dlgs271-89.md) - Trasmissione della richiesta di convalida
+- [Art. 123](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-123-dlgs271-89.md) - Luogo di svolgimento dell'udienza di convalida e dell'interrogatorio del detenuto
+- [Art. 124](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-124-dlgs271-89.md) - Ordinanza che accoglie la richiesta di incidente probatorio
+- [Art. 125](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-125-dlgs271-89.md) - *(abrogato)*
+- [Art. 126](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-126-dlgs271-89.md) - Avviso alla persona offesa della richiesta di archiviazione
+- [Art. 127](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-127-dlgs271-89.md) - Comunicazione delle notizie di reato al procuratore generale
+- [Art. 127-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-127-bis-dlgs271-89.md) - Avocazione e criteri di priorità
+- [Art. 128](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-128-dlgs271-89.md) - Fissazione della udienza preliminare nel caso di mancato   accoglimento della richiesta di archiviazione
+- [Art. 129](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-129-dlgs271-89.md) - Informazioni sul procedimento penale
+- [Art. 130](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-130-dlgs271-89.md) - Contenuto del fascicolo trasmesso dal pubblico ministero con la richiesta di rinvio a giudizio
+- [Art. 130-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-130-bis-dlgs271-89.md) - Separazione dei procedimenti in fase di indagine
+- [Art. 131](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-131-dlgs271-89.md) - Deposito degli atti per l'udienza preliminare
+- [Art. 131-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-131-bis-dlgs271-89.md) - Liberazione dell'imputato prosciolto
+- [Art. 132](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-132-dlgs271-89.md) - Decreto che dispone il giudizio davanti alla corte di assise o al tribunale
+- [Art. 132-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-132-bis-dlgs271-89.md) - Formazione dei ruoli di udienza e trattazione dei processi
+- [Art. 132-ter](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-132-ter-dlgs271-89.md) - Fissazione dell'udienza per la riapertura del processo
+- [Art. 133](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/08%20-%20Capo%20VIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20INDAGINI%20PRELIMINARI/art-133-dlgs271-89.md) - Notificazione del decreto che dispone il giudizio
 
 #### Capo IX - DISPOSIZIONI RELATIVE AI PROCEDIMENTI SPECIALI
-- [Art. 134](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/09%20-%20Capo%20IX%20-%20DISPOSIZIONI%20RELATIVE%20AI%20PROCEDIMENTI%20SPECIALI/art-134-dlgs271-89.md) — *(abrogato)*
-- [Art. 134-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/09%20-%20Capo%20IX%20-%20DISPOSIZIONI%20RELATIVE%20AI%20PROCEDIMENTI%20SPECIALI/art-134-bis-dlgs271-89.md) — Partecipazione a distanza nel giudizio abbreviato
-- [Art. 135](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/09%20-%20Capo%20IX%20-%20DISPOSIZIONI%20RELATIVE%20AI%20PROCEDIMENTI%20SPECIALI/art-135-dlgs271-89.md) — Decisione nel giudizio sulla richiesta di applicazione della pena
-- [Art. 136](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/09%20-%20Capo%20IX%20-%20DISPOSIZIONI%20RELATIVE%20AI%20PROCEDIMENTI%20SPECIALI/art-136-dlgs271-89.md) — Limiti all'effetto estintivo
-- [Art. 137](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/09%20-%20Capo%20IX%20-%20DISPOSIZIONI%20RELATIVE%20AI%20PROCEDIMENTI%20SPECIALI/art-137-dlgs271-89.md) — Concorso formale e continuazione
-- [Art. 138](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/09%20-%20Capo%20IX%20-%20DISPOSIZIONI%20RELATIVE%20AI%20PROCEDIMENTI%20SPECIALI/art-138-dlgs271-89.md) — Formazione del fascicolo per il dibattimento nel giudizio direttissimo
-- [Art. 139](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/09%20-%20Capo%20IX%20-%20DISPOSIZIONI%20RELATIVE%20AI%20PROCEDIMENTI%20SPECIALI/art-139-dlgs271-89.md) — Facoltà dei difensori di prendere visione del fascicolo trasmesso con la richiesta di giudizio immediato
-- [Art. 140](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/09%20-%20Capo%20IX%20-%20DISPOSIZIONI%20RELATIVE%20AI%20PROCEDIMENTI%20SPECIALI/art-140-dlgs271-89.md) — Facoltà dei difensori di prendere visione del fascicolo trasmesso con la richiesta di decreto penale di condanna
+- [Art. 134](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/09%20-%20Capo%20IX%20-%20DISPOSIZIONI%20RELATIVE%20AI%20PROCEDIMENTI%20SPECIALI/art-134-dlgs271-89.md) - *(abrogato)*
+- [Art. 134-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/09%20-%20Capo%20IX%20-%20DISPOSIZIONI%20RELATIVE%20AI%20PROCEDIMENTI%20SPECIALI/art-134-bis-dlgs271-89.md) - Partecipazione a distanza nel giudizio abbreviato
+- [Art. 135](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/09%20-%20Capo%20IX%20-%20DISPOSIZIONI%20RELATIVE%20AI%20PROCEDIMENTI%20SPECIALI/art-135-dlgs271-89.md) - Decisione nel giudizio sulla richiesta di applicazione della pena
+- [Art. 136](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/09%20-%20Capo%20IX%20-%20DISPOSIZIONI%20RELATIVE%20AI%20PROCEDIMENTI%20SPECIALI/art-136-dlgs271-89.md) - Limiti all'effetto estintivo
+- [Art. 137](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/09%20-%20Capo%20IX%20-%20DISPOSIZIONI%20RELATIVE%20AI%20PROCEDIMENTI%20SPECIALI/art-137-dlgs271-89.md) - Concorso formale e continuazione
+- [Art. 138](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/09%20-%20Capo%20IX%20-%20DISPOSIZIONI%20RELATIVE%20AI%20PROCEDIMENTI%20SPECIALI/art-138-dlgs271-89.md) - Formazione del fascicolo per il dibattimento nel giudizio direttissimo
+- [Art. 139](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/09%20-%20Capo%20IX%20-%20DISPOSIZIONI%20RELATIVE%20AI%20PROCEDIMENTI%20SPECIALI/art-139-dlgs271-89.md) - Facoltà dei difensori di prendere visione del fascicolo trasmesso con la richiesta di giudizio immediato
+- [Art. 140](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/09%20-%20Capo%20IX%20-%20DISPOSIZIONI%20RELATIVE%20AI%20PROCEDIMENTI%20SPECIALI/art-140-dlgs271-89.md) - Facoltà dei difensori di prendere visione del fascicolo trasmesso con la richiesta di decreto penale di condanna
 
 #### Capo X - DISPOSIZIONI RELATIVE AL PROCEDIMENTO DI OBLAZIONE
-- [Art. 141](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/10%20-%20Capo%20X%20-%20DISPOSIZIONI%20RELATIVE%20AL%20PROCEDIMENTO%20DI%20OBLAZIONE/art-141-dlgs271-89.md) — Procedimento di oblazione
+- [Art. 141](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/10%20-%20Capo%20X%20-%20DISPOSIZIONI%20RELATIVE%20AL%20PROCEDIMENTO%20DI%20OBLAZIONE/art-141-dlgs271-89.md) - Procedimento di oblazione
 
 #### Capo X-bis - DISPOSIZIONI IN MATERIA DI MESSA ALLA PROVA
-- [Art. 141-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/11%20-%20Capo%20X-bis%20-%20DISPOSIZIONI%20IN%20MATERIA%20DI%20MESSA%20ALLA%20PROVA/art-141-bis-dlgs271-89.md) — Avviso del pubblico ministero per la richiesta di ammissione alla messa alla prova . Proposta di messa alla prova formulata dal pubblico ministero
-- [Art. 141-ter](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/11%20-%20Capo%20X-bis%20-%20DISPOSIZIONI%20IN%20MATERIA%20DI%20MESSA%20ALLA%20PROVA/art-141-ter-dlgs271-89.md) — Attività dei servizi sociali nei confronti degli adulti ammessi alla prova
+- [Art. 141-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/11%20-%20Capo%20X-bis%20-%20DISPOSIZIONI%20IN%20MATERIA%20DI%20MESSA%20ALLA%20PROVA/art-141-bis-dlgs271-89.md) - Avviso del pubblico ministero per la richiesta di ammissione alla messa alla prova . Proposta di messa alla prova formulata dal pubblico ministero
+- [Art. 141-ter](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/11%20-%20Capo%20X-bis%20-%20DISPOSIZIONI%20IN%20MATERIA%20DI%20MESSA%20ALLA%20PROVA/art-141-ter-dlgs271-89.md) - Attività dei servizi sociali nei confronti degli adulti ammessi alla prova
 
 #### Capo XI - DISPOSIZIONI RELATIVE AL DIBATTIMENTO
-- [Art. 142](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/12%20-%20Capo%20XI%20-%20DISPOSIZIONI%20RELATIVE%20AL%20DIBATTIMENTO/art-142-dlgs271-89.md) — Citazione di testimoni, periti, interpreti, consulenti tecnici e imputati di un procedimento connesso
-- [Art. 143](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/12%20-%20Capo%20XI%20-%20DISPOSIZIONI%20RELATIVE%20AL%20DIBATTIMENTO/art-143-dlgs271-89.md) — Rinnovazione della citazione a giudizio
-- [Art. 143-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/12%20-%20Capo%20XI%20-%20DISPOSIZIONI%20RELATIVE%20AL%20DIBATTIMENTO/art-143-bis-dlgs271-89.md) — Adempimenti in caso di sentenza di non doversi procedere per mancata conoscenza della pendenza del processo da parte dell'imputato
-- [Art. 144](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/12%20-%20Capo%20XI%20-%20DISPOSIZIONI%20RELATIVE%20AL%20DIBATTIMENTO/art-144-dlgs271-89.md) — *(abrogato)*
-- [Art. 145](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/12%20-%20Capo%20XI%20-%20DISPOSIZIONI%20RELATIVE%20AL%20DIBATTIMENTO/art-145-dlgs271-89.md) — Comparizione dei testimoni, periti, consulenti tecnici e interpreti
-- [Art. 145-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/12%20-%20Capo%20XI%20-%20DISPOSIZIONI%20RELATIVE%20AL%20DIBATTIMENTO/art-145-bis-dlgs271-89.md) — Aule di udienza protette
-- [Art. 146](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/12%20-%20Capo%20XI%20-%20DISPOSIZIONI%20RELATIVE%20AL%20DIBATTIMENTO/art-146-dlgs271-89.md) — Aula di udienza dibattimentale
-- [Art. 146-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/12%20-%20Capo%20XI%20-%20DISPOSIZIONI%20RELATIVE%20AL%20DIBATTIMENTO/art-146-bis-dlgs271-89.md) — Partecipazione al dibattimento a distanza
-- [Art. 147](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/12%20-%20Capo%20XI%20-%20DISPOSIZIONI%20RELATIVE%20AL%20DIBATTIMENTO/art-147-dlgs271-89.md) — Riprese audiovisive dei dibattimenti
-- [Art. 147-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/12%20-%20Capo%20XI%20-%20DISPOSIZIONI%20RELATIVE%20AL%20DIBATTIMENTO/art-147-bis-dlgs271-89.md) — Esame degli operatori sotto copertura, delle persone che collaborano con la giustizia e degli imputati di reato connesso
-- [Art. 147-ter](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/12%20-%20Capo%20XI%20-%20DISPOSIZIONI%20RELATIVE%20AL%20DIBATTIMENTO/art-147-ter-dlgs271-89.md) — Ricognizione in dibattimento delle persone che collaborano con la giustizia
-- [Art. 147-quater](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/12%20-%20Capo%20XI%20-%20DISPOSIZIONI%20RELATIVE%20AL%20DIBATTIMENTO/art-147-quater-dlgs271-89.md) — Requisiti tecnici di sicurezza in caso di partecipazione a distanza
-- [Art. 148](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/12%20-%20Capo%20XI%20-%20DISPOSIZIONI%20RELATIVE%20AL%20DIBATTIMENTO/art-148-dlgs271-89.md) — Eliminazione di atti dal fascicolo   per il dibattimento
-- [Art. 149](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/12%20-%20Capo%20XI%20-%20DISPOSIZIONI%20RELATIVE%20AL%20DIBATTIMENTO/art-149-dlgs271-89.md) — Regole da osservare prima dell'esame testimoniale
-- [Art. 150](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/12%20-%20Capo%20XI%20-%20DISPOSIZIONI%20RELATIVE%20AL%20DIBATTIMENTO/art-150-dlgs271-89.md) — Esame delle parti private
-- [Art. 151](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/12%20-%20Capo%20XI%20-%20DISPOSIZIONI%20RELATIVE%20AL%20DIBATTIMENTO/art-151-dlgs271-89.md) — Assunzione di nuove prove
-- [Art. 152](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/12%20-%20Capo%20XI%20-%20DISPOSIZIONI%20RELATIVE%20AL%20DIBATTIMENTO/art-152-dlgs271-89.md) — Facoltà delle parti nel caso di perizia   disposta nel dibattimento
-- [Art. 153](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/12%20-%20Capo%20XI%20-%20DISPOSIZIONI%20RELATIVE%20AL%20DIBATTIMENTO/art-153-dlgs271-89.md) — Liquidazione delle spese processuali in favore   della parte civile
-- [Art. 154](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/12%20-%20Capo%20XI%20-%20DISPOSIZIONI%20RELATIVE%20AL%20DIBATTIMENTO/art-154-dlgs271-89.md) — Redazione non immediata dei motivi della sentenza
-- [Art. 154-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/12%20-%20Capo%20XI%20-%20DISPOSIZIONI%20RELATIVE%20AL%20DIBATTIMENTO/art-154-bis-dlgs271-89.md) — Liberazione dell'imputato prosciolto
-- [Art. 154-ter](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/12%20-%20Capo%20XI%20-%20DISPOSIZIONI%20RELATIVE%20AL%20DIBATTIMENTO/art-154-ter-dlgs271-89.md) — Comunicazione della sentenza
-- [Art. 154-quater](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/12%20-%20Capo%20XI%20-%20DISPOSIZIONI%20RELATIVE%20AL%20DIBATTIMENTO/art-154-quater-dlgs271-89.md) — Sentenza che dispone una misura di sicurezza da eseguire presso una struttura sanitaria
+- [Art. 142](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/12%20-%20Capo%20XI%20-%20DISPOSIZIONI%20RELATIVE%20AL%20DIBATTIMENTO/art-142-dlgs271-89.md) - Citazione di testimoni, periti, interpreti, consulenti tecnici e imputati di un procedimento connesso
+- [Art. 143](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/12%20-%20Capo%20XI%20-%20DISPOSIZIONI%20RELATIVE%20AL%20DIBATTIMENTO/art-143-dlgs271-89.md) - Rinnovazione della citazione a giudizio
+- [Art. 143-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/12%20-%20Capo%20XI%20-%20DISPOSIZIONI%20RELATIVE%20AL%20DIBATTIMENTO/art-143-bis-dlgs271-89.md) - Adempimenti in caso di sentenza di non doversi procedere per mancata conoscenza della pendenza del processo da parte dell'imputato
+- [Art. 144](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/12%20-%20Capo%20XI%20-%20DISPOSIZIONI%20RELATIVE%20AL%20DIBATTIMENTO/art-144-dlgs271-89.md) - *(abrogato)*
+- [Art. 145](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/12%20-%20Capo%20XI%20-%20DISPOSIZIONI%20RELATIVE%20AL%20DIBATTIMENTO/art-145-dlgs271-89.md) - Comparizione dei testimoni, periti, consulenti tecnici e interpreti
+- [Art. 145-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/12%20-%20Capo%20XI%20-%20DISPOSIZIONI%20RELATIVE%20AL%20DIBATTIMENTO/art-145-bis-dlgs271-89.md) - Aule di udienza protette
+- [Art. 146](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/12%20-%20Capo%20XI%20-%20DISPOSIZIONI%20RELATIVE%20AL%20DIBATTIMENTO/art-146-dlgs271-89.md) - Aula di udienza dibattimentale
+- [Art. 146-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/12%20-%20Capo%20XI%20-%20DISPOSIZIONI%20RELATIVE%20AL%20DIBATTIMENTO/art-146-bis-dlgs271-89.md) - Partecipazione al dibattimento a distanza
+- [Art. 147](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/12%20-%20Capo%20XI%20-%20DISPOSIZIONI%20RELATIVE%20AL%20DIBATTIMENTO/art-147-dlgs271-89.md) - Riprese audiovisive dei dibattimenti
+- [Art. 147-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/12%20-%20Capo%20XI%20-%20DISPOSIZIONI%20RELATIVE%20AL%20DIBATTIMENTO/art-147-bis-dlgs271-89.md) - Esame degli operatori sotto copertura, delle persone che collaborano con la giustizia e degli imputati di reato connesso
+- [Art. 147-ter](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/12%20-%20Capo%20XI%20-%20DISPOSIZIONI%20RELATIVE%20AL%20DIBATTIMENTO/art-147-ter-dlgs271-89.md) - Ricognizione in dibattimento delle persone che collaborano con la giustizia
+- [Art. 147-quater](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/12%20-%20Capo%20XI%20-%20DISPOSIZIONI%20RELATIVE%20AL%20DIBATTIMENTO/art-147-quater-dlgs271-89.md) - Requisiti tecnici di sicurezza in caso di partecipazione a distanza
+- [Art. 148](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/12%20-%20Capo%20XI%20-%20DISPOSIZIONI%20RELATIVE%20AL%20DIBATTIMENTO/art-148-dlgs271-89.md) - Eliminazione di atti dal fascicolo   per il dibattimento
+- [Art. 149](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/12%20-%20Capo%20XI%20-%20DISPOSIZIONI%20RELATIVE%20AL%20DIBATTIMENTO/art-149-dlgs271-89.md) - Regole da osservare prima dell'esame testimoniale
+- [Art. 150](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/12%20-%20Capo%20XI%20-%20DISPOSIZIONI%20RELATIVE%20AL%20DIBATTIMENTO/art-150-dlgs271-89.md) - Esame delle parti private
+- [Art. 151](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/12%20-%20Capo%20XI%20-%20DISPOSIZIONI%20RELATIVE%20AL%20DIBATTIMENTO/art-151-dlgs271-89.md) - Assunzione di nuove prove
+- [Art. 152](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/12%20-%20Capo%20XI%20-%20DISPOSIZIONI%20RELATIVE%20AL%20DIBATTIMENTO/art-152-dlgs271-89.md) - Facoltà delle parti nel caso di perizia   disposta nel dibattimento
+- [Art. 153](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/12%20-%20Capo%20XI%20-%20DISPOSIZIONI%20RELATIVE%20AL%20DIBATTIMENTO/art-153-dlgs271-89.md) - Liquidazione delle spese processuali in favore   della parte civile
+- [Art. 154](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/12%20-%20Capo%20XI%20-%20DISPOSIZIONI%20RELATIVE%20AL%20DIBATTIMENTO/art-154-dlgs271-89.md) - Redazione non immediata dei motivi della sentenza
+- [Art. 154-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/12%20-%20Capo%20XI%20-%20DISPOSIZIONI%20RELATIVE%20AL%20DIBATTIMENTO/art-154-bis-dlgs271-89.md) - Liberazione dell'imputato prosciolto
+- [Art. 154-ter](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/12%20-%20Capo%20XI%20-%20DISPOSIZIONI%20RELATIVE%20AL%20DIBATTIMENTO/art-154-ter-dlgs271-89.md) - Comunicazione della sentenza
+- [Art. 154-quater](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/12%20-%20Capo%20XI%20-%20DISPOSIZIONI%20RELATIVE%20AL%20DIBATTIMENTO/art-154-quater-dlgs271-89.md) - Sentenza che dispone una misura di sicurezza da eseguire presso una struttura sanitaria
 
 #### Capo XII - DISPOSIZIONI RELATIVE AL PROCEDIMENTO DAVANTI AL TRIBUNALE IN COMPOSIZIONE MONOCRATICA
-- [Art. 155](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/13%20-%20Capo%20XII%20-%20DISPOSIZIONI%20RELATIVE%20AL%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSI/art-155-dlgs271-89.md) — *(abrogato)*
-- [Art. 156](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/13%20-%20Capo%20XII%20-%20DISPOSIZIONI%20RELATIVE%20AL%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSI/art-156-dlgs271-89.md) — *(abrogato)*
-- [Art. 157](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/13%20-%20Capo%20XII%20-%20DISPOSIZIONI%20RELATIVE%20AL%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSI/art-157-dlgs271-89.md) — Ulteriori indagini. Avocazione
-- [Art. 158](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/13%20-%20Capo%20XII%20-%20DISPOSIZIONI%20RELATIVE%20AL%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSI/art-158-dlgs271-89.md) — *(abrogato)*
-- [Art. 159](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/13%20-%20Capo%20XII%20-%20DISPOSIZIONI%20RELATIVE%20AL%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSI/art-159-dlgs271-89.md) — Indicazione dei procedimenti speciali nel decreto   di citazione a giudizio
-- [Art. 160](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/13%20-%20Capo%20XII%20-%20DISPOSIZIONI%20RELATIVE%20AL%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSI/art-160-dlgs271-89.md) — Determinazione della data dell'udienza dibattimentale o del procedimento speciale
-- [Art. 161](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/13%20-%20Capo%20XII%20-%20DISPOSIZIONI%20RELATIVE%20AL%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSI/art-161-dlgs271-89.md) — *(abrogato)*
-- [Art. 162](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/13%20-%20Capo%20XII%20-%20DISPOSIZIONI%20RELATIVE%20AL%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSI/art-162-dlgs271-89.md) — Delega delle funzioni di pubblico ministero   in udienza dibattimentale
-- [Art. 163](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/13%20-%20Capo%20XII%20-%20DISPOSIZIONI%20RELATIVE%20AL%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSI/art-163-dlgs271-89.md) — Presentazione dell'arrestato per la convalida
+- [Art. 155](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/13%20-%20Capo%20XII%20-%20DISPOSIZIONI%20RELATIVE%20AL%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSI/art-155-dlgs271-89.md) - *(abrogato)*
+- [Art. 156](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/13%20-%20Capo%20XII%20-%20DISPOSIZIONI%20RELATIVE%20AL%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSI/art-156-dlgs271-89.md) - *(abrogato)*
+- [Art. 157](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/13%20-%20Capo%20XII%20-%20DISPOSIZIONI%20RELATIVE%20AL%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSI/art-157-dlgs271-89.md) - Ulteriori indagini. Avocazione
+- [Art. 158](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/13%20-%20Capo%20XII%20-%20DISPOSIZIONI%20RELATIVE%20AL%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSI/art-158-dlgs271-89.md) - *(abrogato)*
+- [Art. 159](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/13%20-%20Capo%20XII%20-%20DISPOSIZIONI%20RELATIVE%20AL%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSI/art-159-dlgs271-89.md) - Indicazione dei procedimenti speciali nel decreto   di citazione a giudizio
+- [Art. 160](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/13%20-%20Capo%20XII%20-%20DISPOSIZIONI%20RELATIVE%20AL%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSI/art-160-dlgs271-89.md) - Determinazione della data dell'udienza dibattimentale o del procedimento speciale
+- [Art. 161](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/13%20-%20Capo%20XII%20-%20DISPOSIZIONI%20RELATIVE%20AL%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSI/art-161-dlgs271-89.md) - *(abrogato)*
+- [Art. 162](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/13%20-%20Capo%20XII%20-%20DISPOSIZIONI%20RELATIVE%20AL%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSI/art-162-dlgs271-89.md) - Delega delle funzioni di pubblico ministero   in udienza dibattimentale
+- [Art. 163](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/13%20-%20Capo%20XII%20-%20DISPOSIZIONI%20RELATIVE%20AL%20PROCEDIMENTO%20DAVANTI%20AL%20TRIBUNALE%20IN%20COMPOSI/art-163-dlgs271-89.md) - Presentazione dell'arrestato per la convalida
 
 #### Capo XII-bis - DISPOSIZIONI RELATIVE ALLE SEZIONI DISTACCATE DEL TRIBUNALE
-- [Art. 163-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/14%20-%20Capo%20XII-bis%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20SEZIONI%20DISTACCATE%20DEL%20TRIBUNALE/art-163-bis-dlgs271-89.md) — Inosservanza delle disposizioni sulle attribuzioni delle sezioni distaccate del tribunale
-- [Art. 163-ter](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/14%20-%20Capo%20XII-bis%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20SEZIONI%20DISTACCATE%20DEL%20TRIBUNALE/art-163-ter-dlgs271-89.md) — Presentazione dell'atto di impugnazione presso la sezione distaccata
+- [Art. 163-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/14%20-%20Capo%20XII-bis%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20SEZIONI%20DISTACCATE%20DEL%20TRIBUNALE/art-163-bis-dlgs271-89.md) - Inosservanza delle disposizioni sulle attribuzioni delle sezioni distaccate del tribunale
+- [Art. 163-ter](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/14%20-%20Capo%20XII-bis%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20SEZIONI%20DISTACCATE%20DEL%20TRIBUNALE/art-163-ter-dlgs271-89.md) - Presentazione dell'atto di impugnazione presso la sezione distaccata
 
 #### Capo XIII - DISPOSIZIONI RELATIVE ALLE IMPUGNAZIONI
-- [Art. 164](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/15%20-%20Capo%20XIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20IMPUGNAZIONI/art-164-dlgs271-89.md) — *(abrogato)*
-- [Art. 165](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/15%20-%20Capo%20XIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20IMPUGNAZIONI/art-165-dlgs271-89.md) — Annotazione della impugnazione in calce   al provvedimento impugnato
-- [Art. 165-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/15%20-%20Capo%20XIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20IMPUGNAZIONI/art-165-bis-dlgs271-89.md) — Adempimenti connessi alla trasmissione degli atti al giudice dell'impugnazione
-- [Art. 165-ter](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/15%20-%20Capo%20XIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20IMPUGNAZIONI/art-165-ter-dlgs271-89.md) — Monitoraggio dei termini di cui all'articolo 344-bis del codice
-- [Art. 166](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/15%20-%20Capo%20XIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20IMPUGNAZIONI/art-166-dlgs271-89.md) — *(abrogato)*
-- [Art. 166-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/15%20-%20Capo%20XIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20IMPUGNAZIONI/art-166-bis-dlgs271-89.md) — Poteri del procuratore generale in materia di impugnazione delle sentenze di primo grado
-- [Art. 167](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/15%20-%20Capo%20XIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20IMPUGNAZIONI/art-167-dlgs271-89.md) — Nuovi motivi della impugnazione già proposta
-- [Art. 167-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/15%20-%20Capo%20XIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20IMPUGNAZIONI/art-167-bis-dlgs271-89.md) — Adempimenti connessi all'udienza di cui all'articolo 598-bis del codice
-- [Art. 168](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/15%20-%20Capo%20XIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20IMPUGNAZIONI/art-168-dlgs271-89.md) — Disposizione di rinvio
-- [Art. 169](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/15%20-%20Capo%20XIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20IMPUGNAZIONI/art-169-dlgs271-89.md) — Riduzione dei termini nel giudizio di cassazione
-- [Art. 169-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/15%20-%20Capo%20XIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20IMPUGNAZIONI/art-169-bis-dlgs271-89.md) — Sezione della corte di cassazione per l'esame dell'inammissibilità dei ricorsi
-- [Art. 170](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/15%20-%20Capo%20XIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20IMPUGNAZIONI/art-170-dlgs271-89.md) — Sezioni unite
-- [Art. 171](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/15%20-%20Capo%20XIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20IMPUGNAZIONI/art-171-dlgs271-89.md) — Questione dedotta nel corso della discussione
-- [Art. 172](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/15%20-%20Capo%20XIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20IMPUGNAZIONI/art-172-dlgs271-89.md) — Restituzione alla sezione di ricorsi già rimessi   alle sezioni unite
-- [Art. 173](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/15%20-%20Capo%20XIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20IMPUGNAZIONI/art-173-dlgs271-89.md) — Motivazione della sentenza. Enunciazione   del principio di diritto
-- [Art. 174](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/15%20-%20Capo%20XIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20IMPUGNAZIONI/art-174-dlgs271-89.md) — Rettifiche e integrazioni alla motivazione
-- [Art. 175](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/15%20-%20Capo%20XIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20IMPUGNAZIONI/art-175-dlgs271-89.md) — Determinazione del giudice di rinvio
-- [Art. 175-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/15%20-%20Capo%20XIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20IMPUGNAZIONI/art-175-bis-dlgs271-89.md) — Decisione sulla improcedibilità ai sensi dell'articolo 344-bis del codice
-- [Art. 176](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/15%20-%20Capo%20XIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20IMPUGNAZIONI/art-176-dlgs271-89.md) — Rilascio dei documenti da unire alla domanda   di riparazione dell'errore giudiziario
+- [Art. 164](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/15%20-%20Capo%20XIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20IMPUGNAZIONI/art-164-dlgs271-89.md) - *(abrogato)*
+- [Art. 165](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/15%20-%20Capo%20XIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20IMPUGNAZIONI/art-165-dlgs271-89.md) - Annotazione della impugnazione in calce   al provvedimento impugnato
+- [Art. 165-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/15%20-%20Capo%20XIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20IMPUGNAZIONI/art-165-bis-dlgs271-89.md) - Adempimenti connessi alla trasmissione degli atti al giudice dell'impugnazione
+- [Art. 165-ter](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/15%20-%20Capo%20XIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20IMPUGNAZIONI/art-165-ter-dlgs271-89.md) - Monitoraggio dei termini di cui all'articolo 344-bis del codice
+- [Art. 166](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/15%20-%20Capo%20XIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20IMPUGNAZIONI/art-166-dlgs271-89.md) - *(abrogato)*
+- [Art. 166-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/15%20-%20Capo%20XIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20IMPUGNAZIONI/art-166-bis-dlgs271-89.md) - Poteri del procuratore generale in materia di impugnazione delle sentenze di primo grado
+- [Art. 167](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/15%20-%20Capo%20XIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20IMPUGNAZIONI/art-167-dlgs271-89.md) - Nuovi motivi della impugnazione già proposta
+- [Art. 167-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/15%20-%20Capo%20XIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20IMPUGNAZIONI/art-167-bis-dlgs271-89.md) - Adempimenti connessi all'udienza di cui all'articolo 598-bis del codice
+- [Art. 168](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/15%20-%20Capo%20XIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20IMPUGNAZIONI/art-168-dlgs271-89.md) - Disposizione di rinvio
+- [Art. 169](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/15%20-%20Capo%20XIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20IMPUGNAZIONI/art-169-dlgs271-89.md) - Riduzione dei termini nel giudizio di cassazione
+- [Art. 169-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/15%20-%20Capo%20XIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20IMPUGNAZIONI/art-169-bis-dlgs271-89.md) - Sezione della corte di cassazione per l'esame dell'inammissibilità dei ricorsi
+- [Art. 170](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/15%20-%20Capo%20XIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20IMPUGNAZIONI/art-170-dlgs271-89.md) - Sezioni unite
+- [Art. 171](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/15%20-%20Capo%20XIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20IMPUGNAZIONI/art-171-dlgs271-89.md) - Questione dedotta nel corso della discussione
+- [Art. 172](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/15%20-%20Capo%20XIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20IMPUGNAZIONI/art-172-dlgs271-89.md) - Restituzione alla sezione di ricorsi già rimessi   alle sezioni unite
+- [Art. 173](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/15%20-%20Capo%20XIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20IMPUGNAZIONI/art-173-dlgs271-89.md) - Motivazione della sentenza. Enunciazione   del principio di diritto
+- [Art. 174](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/15%20-%20Capo%20XIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20IMPUGNAZIONI/art-174-dlgs271-89.md) - Rettifiche e integrazioni alla motivazione
+- [Art. 175](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/15%20-%20Capo%20XIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20IMPUGNAZIONI/art-175-dlgs271-89.md) - Determinazione del giudice di rinvio
+- [Art. 175-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/15%20-%20Capo%20XIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20IMPUGNAZIONI/art-175-bis-dlgs271-89.md) - Decisione sulla improcedibilità ai sensi dell'articolo 344-bis del codice
+- [Art. 176](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/15%20-%20Capo%20XIII%20-%20DISPOSIZIONI%20RELATIVE%20ALLE%20IMPUGNAZIONI/art-176-dlgs271-89.md) - Rilascio dei documenti da unire alla domanda   di riparazione dell'errore giudiziario
 
 #### Capo XIV - DISPOSIZIONI RELATIVE AL GIURÌ D'ONORE
-- [Art. 177](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/16%20-%20Capo%20XIV%20-%20DISPOSIZIONI%20RELATIVE%20AL%20GIURÌ%20D%27ONORE/art-177-dlgs271-89.md) — Deferimento del giudizio a un giurì d'onore
-- [Art. 178](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/16%20-%20Capo%20XIV%20-%20DISPOSIZIONI%20RELATIVE%20AL%20GIURÌ%20D%27ONORE/art-178-dlgs271-89.md) — Componenti del giurì d'onore.   Termine per la pronuncia del verdetto
-- [Art. 179](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/16%20-%20Capo%20XIV%20-%20DISPOSIZIONI%20RELATIVE%20AL%20GIURÌ%20D%27ONORE/art-179-dlgs271-89.md) — Procedimento davanti al giurì d'onore
-- [Art. 180](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/16%20-%20Capo%20XIV%20-%20DISPOSIZIONI%20RELATIVE%20AL%20GIURÌ%20D%27ONORE/art-180-dlgs271-89.md) — Sanzioni pecuniarie
+- [Art. 177](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/16%20-%20Capo%20XIV%20-%20DISPOSIZIONI%20RELATIVE%20AL%20GIURÌ%20D%27ONORE/art-177-dlgs271-89.md) - Deferimento del giudizio a un giurì d'onore
+- [Art. 178](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/16%20-%20Capo%20XIV%20-%20DISPOSIZIONI%20RELATIVE%20AL%20GIURÌ%20D%27ONORE/art-178-dlgs271-89.md) - Componenti del giurì d'onore.   Termine per la pronuncia del verdetto
+- [Art. 179](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/16%20-%20Capo%20XIV%20-%20DISPOSIZIONI%20RELATIVE%20AL%20GIURÌ%20D%27ONORE/art-179-dlgs271-89.md) - Procedimento davanti al giurì d'onore
+- [Art. 180](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/16%20-%20Capo%20XIV%20-%20DISPOSIZIONI%20RELATIVE%20AL%20GIURÌ%20D%27ONORE/art-180-dlgs271-89.md) - Sanzioni pecuniarie
 
 #### Capo XV - DISPOSIZIONI RELATIVE ALLA ESECUZIONE
-- [Art. 181](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/17%20-%20Capo%20XV%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20ESECUZIONE/art-181-dlgs271-89.md) — *(abrogato)*
-- [Art. 181-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/17%20-%20Capo%20XV%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20ESECUZIONE/art-181-bis-dlgs271-89.md) — Modalità di pagamento delle pene pecuniarie
-- [Art. 182](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/17%20-%20Capo%20XV%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20ESECUZIONE/art-182-dlgs271-89.md) — *(abrogato)*
-- [Art. 183](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/17%20-%20Capo%20XV%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20ESECUZIONE/art-183-dlgs271-89.md) — Richiesta di applicazione di pena accessoria
-- [Art. 183-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/17%20-%20Capo%20XV%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20ESECUZIONE/art-183-bis-dlgs271-89.md) — Esecuzione della misura di sicurezza dell'espulsione del cittadino di uno Stato non appartenente all'Unione europea e dell'apolide
-- [Art. 183-ter](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/17%20-%20Capo%20XV%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20ESECUZIONE/art-183-ter-dlgs271-89.md) — Esecuzione della misura di sicurezza dell'allontanamento del cittadino di uno Stato membro dell'Unione europea e di un suo familiare
-- [Art. 183-quater](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/17%20-%20Capo%20XV%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20ESECUZIONE/art-183-quater-dlgs271-89.md) — Esecuzione della confisca in casi particolari
-- [Art. 184](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/17%20-%20Capo%20XV%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20ESECUZIONE/art-184-dlgs271-89.md) — Forma dei provvedimenti che applicano   altre sanzioni pecuniarie
-- [Art. 185](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/17%20-%20Capo%20XV%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20ESECUZIONE/art-185-dlgs271-89.md) — Assunzione delle prove nel procedimento   di esecuzione
-- [Art. 186](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/17%20-%20Capo%20XV%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20ESECUZIONE/art-186-dlgs271-89.md) — Applicazione della disciplina del concorso   formale e del reato continuato
-- [Art. 187](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/17%20-%20Capo%20XV%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20ESECUZIONE/art-187-dlgs271-89.md) — Determinazione del reato più grave
-- [Art. 188](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/17%20-%20Capo%20XV%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20ESECUZIONE/art-188-dlgs271-89.md) — Concorso formale e reato continuato nel caso di più sentenze di applicazione della pena su richiesta delle parti
-- [Art. 189](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/17%20-%20Capo%20XV%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20ESECUZIONE/art-189-dlgs271-89.md) — Comunicazione dei provvedimenti del giudice   di sorveglianza
-- [Art. 190](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/17%20-%20Capo%20XV%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20ESECUZIONE/art-190-dlgs271-89.md) — Prescrizioni per la persona sottoposta   a libertà vigilata
-- [Art. 191](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/17%20-%20Capo%20XV%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20ESECUZIONE/art-191-dlgs271-89.md) — Applicazione del divieto di soggiorno
-- [Art. 192](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/17%20-%20Capo%20XV%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20ESECUZIONE/art-192-dlgs271-89.md) — Annotazione del decreto di grazia
-- [Art. 193](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/17%20-%20Capo%20XV%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20ESECUZIONE/art-193-dlgs271-89.md) — Annotazione del provvedimento di riabilitazione e di revoca delle sentenze di condanna
-- [Art. 194](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/17%20-%20Capo%20XV%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20ESECUZIONE/art-194-dlgs271-89.md) — *(abrogato)*
-- [Art. 195](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/17%20-%20Capo%20XV%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20ESECUZIONE/art-195-dlgs271-89.md) — *(abrogato)*
-- [Art. 196](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/17%20-%20Capo%20XV%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20ESECUZIONE/art-196-dlgs271-89.md) — *(abrogato)*
-- [Art. 197](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/17%20-%20Capo%20XV%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20ESECUZIONE/art-197-dlgs271-89.md) — *(abrogato)*
-- [Art. 198](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/17%20-%20Capo%20XV%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20ESECUZIONE/art-198-dlgs271-89.md) — ARTICOLO SOPPRESSO DAL D.LGS. 14 GENNAIO 1991, N. 12
-- [Art. 199](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/17%20-%20Capo%20XV%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20ESECUZIONE/art-199-dlgs271-89.md) — *(abrogato)*
-- [Art. 200](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/17%20-%20Capo%20XV%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20ESECUZIONE/art-200-dlgs271-89.md) — *(abrogato)*
+- [Art. 181](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/17%20-%20Capo%20XV%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20ESECUZIONE/art-181-dlgs271-89.md) - *(abrogato)*
+- [Art. 181-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/17%20-%20Capo%20XV%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20ESECUZIONE/art-181-bis-dlgs271-89.md) - Modalità di pagamento delle pene pecuniarie
+- [Art. 182](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/17%20-%20Capo%20XV%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20ESECUZIONE/art-182-dlgs271-89.md) - *(abrogato)*
+- [Art. 183](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/17%20-%20Capo%20XV%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20ESECUZIONE/art-183-dlgs271-89.md) - Richiesta di applicazione di pena accessoria
+- [Art. 183-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/17%20-%20Capo%20XV%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20ESECUZIONE/art-183-bis-dlgs271-89.md) - Esecuzione della misura di sicurezza dell'espulsione del cittadino di uno Stato non appartenente all'Unione europea e dell'apolide
+- [Art. 183-ter](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/17%20-%20Capo%20XV%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20ESECUZIONE/art-183-ter-dlgs271-89.md) - Esecuzione della misura di sicurezza dell'allontanamento del cittadino di uno Stato membro dell'Unione europea e di un suo familiare
+- [Art. 183-quater](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/17%20-%20Capo%20XV%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20ESECUZIONE/art-183-quater-dlgs271-89.md) - Esecuzione della confisca in casi particolari
+- [Art. 184](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/17%20-%20Capo%20XV%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20ESECUZIONE/art-184-dlgs271-89.md) - Forma dei provvedimenti che applicano   altre sanzioni pecuniarie
+- [Art. 185](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/17%20-%20Capo%20XV%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20ESECUZIONE/art-185-dlgs271-89.md) - Assunzione delle prove nel procedimento   di esecuzione
+- [Art. 186](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/17%20-%20Capo%20XV%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20ESECUZIONE/art-186-dlgs271-89.md) - Applicazione della disciplina del concorso   formale e del reato continuato
+- [Art. 187](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/17%20-%20Capo%20XV%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20ESECUZIONE/art-187-dlgs271-89.md) - Determinazione del reato più grave
+- [Art. 188](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/17%20-%20Capo%20XV%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20ESECUZIONE/art-188-dlgs271-89.md) - Concorso formale e reato continuato nel caso di più sentenze di applicazione della pena su richiesta delle parti
+- [Art. 189](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/17%20-%20Capo%20XV%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20ESECUZIONE/art-189-dlgs271-89.md) - Comunicazione dei provvedimenti del giudice   di sorveglianza
+- [Art. 190](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/17%20-%20Capo%20XV%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20ESECUZIONE/art-190-dlgs271-89.md) - Prescrizioni per la persona sottoposta   a libertà vigilata
+- [Art. 191](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/17%20-%20Capo%20XV%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20ESECUZIONE/art-191-dlgs271-89.md) - Applicazione del divieto di soggiorno
+- [Art. 192](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/17%20-%20Capo%20XV%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20ESECUZIONE/art-192-dlgs271-89.md) - Annotazione del decreto di grazia
+- [Art. 193](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/17%20-%20Capo%20XV%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20ESECUZIONE/art-193-dlgs271-89.md) - Annotazione del provvedimento di riabilitazione e di revoca delle sentenze di condanna
+- [Art. 194](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/17%20-%20Capo%20XV%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20ESECUZIONE/art-194-dlgs271-89.md) - *(abrogato)*
+- [Art. 195](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/17%20-%20Capo%20XV%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20ESECUZIONE/art-195-dlgs271-89.md) - *(abrogato)*
+- [Art. 196](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/17%20-%20Capo%20XV%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20ESECUZIONE/art-196-dlgs271-89.md) - *(abrogato)*
+- [Art. 197](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/17%20-%20Capo%20XV%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20ESECUZIONE/art-197-dlgs271-89.md) - *(abrogato)*
+- [Art. 198](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/17%20-%20Capo%20XV%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20ESECUZIONE/art-198-dlgs271-89.md) - ARTICOLO SOPPRESSO DAL D.LGS. 14 GENNAIO 1991, N. 12
+- [Art. 199](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/17%20-%20Capo%20XV%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20ESECUZIONE/art-199-dlgs271-89.md) - *(abrogato)*
+- [Art. 200](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/17%20-%20Capo%20XV%20-%20DISPOSIZIONI%20RELATIVE%20ALLA%20ESECUZIONE/art-200-dlgs271-89.md) - *(abrogato)*
 
 #### Capo XVI - DISPOSIZIONI RELATIVE AI RAPPORTI GIURISDIZIONALI CON AUTORITÀ STRANIERE
-- [Art. 201](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/18%20-%20Capo%20XVI%20-%20DISPOSIZIONI%20RELATIVE%20AI%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANI/art-201-dlgs271-89.md) — Traduzione delle domande provenienti   da un'autorità straniera
-- [Art. 202](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/18%20-%20Capo%20XVI%20-%20DISPOSIZIONI%20RELATIVE%20AI%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANI/art-202-dlgs271-89.md) — Consenso dell'interessato alla estradizione   per l'estero
-- [Art. 203](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/18%20-%20Capo%20XVI%20-%20DISPOSIZIONI%20RELATIVE%20AI%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANI/art-203-dlgs271-89.md) — Comunicazioni al ministro di grazia e giustizia   in merito alla estradizione
-- [Art. 204](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/18%20-%20Capo%20XVI%20-%20DISPOSIZIONI%20RELATIVE%20AI%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANI/art-204-dlgs271-89.md) — Comunicazioni all'autorità giudiziaria   che ha trasmesso la rogatoria all'estero
-- [Art. 204-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/18%20-%20Capo%20XVI%20-%20DISPOSIZIONI%20RELATIVE%20AI%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANI/art-204-bis-dlgs271-89.md) — Comunicazioni dell'autorità giudiziaria in tema di rogatoria
-- [Art. 205](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/18%20-%20Capo%20XVI%20-%20DISPOSIZIONI%20RELATIVE%20AI%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANI/art-205-dlgs271-89.md) — Richiesta del testo di leggi straniere
-- [Art. 205-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/18%20-%20Capo%20XVI%20-%20DISPOSIZIONI%20RELATIVE%20AI%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANI/art-205-bis-dlgs271-89.md) — Irrevocabilità del consenso nell'ambito di procedure di cooperazione giudiziaria
-- [Art. 205-ter](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/18%20-%20Capo%20XVI%20-%20DISPOSIZIONI%20RELATIVE%20AI%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANI/art-205-ter-dlgs271-89.md) — Partecipazione al processo a distanza per l'imputato detenuto all'estero
+- [Art. 201](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/18%20-%20Capo%20XVI%20-%20DISPOSIZIONI%20RELATIVE%20AI%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANI/art-201-dlgs271-89.md) - Traduzione delle domande provenienti   da un'autorità straniera
+- [Art. 202](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/18%20-%20Capo%20XVI%20-%20DISPOSIZIONI%20RELATIVE%20AI%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANI/art-202-dlgs271-89.md) - Consenso dell'interessato alla estradizione   per l'estero
+- [Art. 203](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/18%20-%20Capo%20XVI%20-%20DISPOSIZIONI%20RELATIVE%20AI%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANI/art-203-dlgs271-89.md) - Comunicazioni al ministro di grazia e giustizia   in merito alla estradizione
+- [Art. 204](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/18%20-%20Capo%20XVI%20-%20DISPOSIZIONI%20RELATIVE%20AI%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANI/art-204-dlgs271-89.md) - Comunicazioni all'autorità giudiziaria   che ha trasmesso la rogatoria all'estero
+- [Art. 204-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/18%20-%20Capo%20XVI%20-%20DISPOSIZIONI%20RELATIVE%20AI%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANI/art-204-bis-dlgs271-89.md) - Comunicazioni dell'autorità giudiziaria in tema di rogatoria
+- [Art. 205](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/18%20-%20Capo%20XVI%20-%20DISPOSIZIONI%20RELATIVE%20AI%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANI/art-205-dlgs271-89.md) - Richiesta del testo di leggi straniere
+- [Art. 205-bis](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/18%20-%20Capo%20XVI%20-%20DISPOSIZIONI%20RELATIVE%20AI%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANI/art-205-bis-dlgs271-89.md) - Irrevocabilità del consenso nell'ambito di procedure di cooperazione giudiziaria
+- [Art. 205-ter](01%20-%20Titolo%20I%20-%20NORME%20DI%20ATTUAZIONE/18%20-%20Capo%20XVI%20-%20DISPOSIZIONI%20RELATIVE%20AI%20RAPPORTI%20GIURISDIZIONALI%20CON%20AUTORITÀ%20STRANI/art-205-ter-dlgs271-89.md) - Partecipazione al processo a distanza per l'imputato detenuto all'estero
 
 #### Capo XVII - DISPOSIZIONE FINALE
-- [Art. 206](01%20-%20Titolo%20I/19%20-%20Capo%20XVII%20-%20DISPOSIZIONE%20FINALE/art-206-dlgs271-89.md) — Regolamento ministeriale
+- [Art. 206](01%20-%20Titolo%20I/19%20-%20Capo%20XVII%20-%20DISPOSIZIONE%20FINALE/art-206-dlgs271-89.md) - Regolamento ministeriale
 
 ### Titolo II - NORME DI COORDINAMENTO
-- [Art. 207](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-207-dlgs271-89.md) — Ambito di applicazione delle disposizioni   del codice
-- [Art. 208](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-208-dlgs271-89.md) — *(abrogato)*
-- [Art. 209](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-209-dlgs271-89.md) — *(abrogato)*
-- [Art. 210](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-210-dlgs271-89.md) — Competenza
-- [Art. 211](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-211-dlgs271-89.md) — Rapporti tra azione civile e azione penale
-- [Art. 212](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-212-dlgs271-89.md) — Costituzione di parte civile e intervento   nel processo
-- [Art. 213](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-213-dlgs271-89.md) — Responsabilità civile derivante dalla circolazione dei veicoli a motore e dei natanti e provvisoria esecuzione
-- [Art. 214](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-214-dlgs271-89.md) — Arresto o cattura da parte di organi   che non esercitano funzioni penali
-- [Art. 215](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-215-dlgs271-89.md) — Rilascio del passaporto
-- [Art. 216](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-216-dlgs271-89.md) — Modalità di esecuzione della custodia cautelare,   delle pene e delle misure di sicurezza
-- [Art. 217](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-217-dlgs271-89.md) — Applicazione provvisoria di pene accessorie
-- [Art. 218](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-218-dlgs271-89.md) — Ipoteca legale
-- [Art. 219](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-219-dlgs271-89.md) — Associazioni segrete
-- [Art. 220](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-220-dlgs271-89.md) — Attività ispettive e di vigilanza
-- [Art. 221](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-221-dlgs271-89.md) — Modalità particolari per la denuncia   delle notizie di reato
-- [Art. 222](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-222-dlgs271-89.md) — Investigatori privati
-- [Art. 223](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-223-dlgs271-89.md) — Analisi di campioni e garanzie per l'interessato
-- [Art. 224](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-224-dlgs271-89.md) — Violazione del foglio di via da parte dello straniero
-- [Art. 225](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-225-dlgs271-89.md) — Perquisizioni domiciliari
-- [Art. 226](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-226-dlgs271-89.md) — Intercettazione e controlli preventivi sulle comunicazioni
-- [Art. 227](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-227-dlgs271-89.md) — *(abrogato)*
-- [Art. 228](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-228-dlgs271-89.md) — *(abrogato)*
-- [Art. 229](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-229-dlgs271-89.md) — Disposizioni speciali in tema di sequestri
-- [Art. 230](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-230-dlgs271-89.md) — Fermo, arresto e cattura
-- [Art. 231](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-231-dlgs271-89.md) — Esercizio dell'azione penale da parte di organi   diversi dal pubblico ministero
-- [Art. 232](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-232-dlgs271-89.md) — Corrispondenza tra sentenza istruttoria, sentenza di non luogo a procedere e provvedimento di archiviazione
-- [Art. 233](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-233-dlgs271-89.md) — Giudizio direttissimo
-- [Art. 234](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-234-dlgs271-89.md) — Richiesta di sanzioni sostitutive   da parte dell'imputato
-- [Art. 235](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-235-dlgs271-89.md) — Violazioni di leggi finanziarie
-- [Art. 236](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-236-dlgs271-89.md) — Disposizioni concernenti il tribunale di sorveglianza
-- [Art. 237](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-237-dlgs271-89.md) — *(abrogato)*
-- [Art. 238](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-238-dlgs271-89.md) — Individuazione del pubblico ministero e del giudice per le   indagini preliminari nei procedimenti di assise
-- [Art. 239](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-239-dlgs271-89.md) — Interruzione della prescrizione
-- [Art. 240](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-240-dlgs271-89.md) — *(abrogato)*
-- [Art. 240-bis](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-240-bis-dlgs271-89.md) — Sospensione dei termini processuali nel periodo feriale
+- [Art. 207](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-207-dlgs271-89.md) - Ambito di applicazione delle disposizioni   del codice
+- [Art. 208](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-208-dlgs271-89.md) - *(abrogato)*
+- [Art. 209](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-209-dlgs271-89.md) - *(abrogato)*
+- [Art. 210](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-210-dlgs271-89.md) - Competenza
+- [Art. 211](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-211-dlgs271-89.md) - Rapporti tra azione civile e azione penale
+- [Art. 212](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-212-dlgs271-89.md) - Costituzione di parte civile e intervento   nel processo
+- [Art. 213](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-213-dlgs271-89.md) - Responsabilità civile derivante dalla circolazione dei veicoli a motore e dei natanti e provvisoria esecuzione
+- [Art. 214](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-214-dlgs271-89.md) - Arresto o cattura da parte di organi   che non esercitano funzioni penali
+- [Art. 215](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-215-dlgs271-89.md) - Rilascio del passaporto
+- [Art. 216](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-216-dlgs271-89.md) - Modalità di esecuzione della custodia cautelare,   delle pene e delle misure di sicurezza
+- [Art. 217](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-217-dlgs271-89.md) - Applicazione provvisoria di pene accessorie
+- [Art. 218](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-218-dlgs271-89.md) - Ipoteca legale
+- [Art. 219](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-219-dlgs271-89.md) - Associazioni segrete
+- [Art. 220](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-220-dlgs271-89.md) - Attività ispettive e di vigilanza
+- [Art. 221](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-221-dlgs271-89.md) - Modalità particolari per la denuncia   delle notizie di reato
+- [Art. 222](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-222-dlgs271-89.md) - Investigatori privati
+- [Art. 223](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-223-dlgs271-89.md) - Analisi di campioni e garanzie per l'interessato
+- [Art. 224](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-224-dlgs271-89.md) - Violazione del foglio di via da parte dello straniero
+- [Art. 225](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-225-dlgs271-89.md) - Perquisizioni domiciliari
+- [Art. 226](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-226-dlgs271-89.md) - Intercettazione e controlli preventivi sulle comunicazioni
+- [Art. 227](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-227-dlgs271-89.md) - *(abrogato)*
+- [Art. 228](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-228-dlgs271-89.md) - *(abrogato)*
+- [Art. 229](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-229-dlgs271-89.md) - Disposizioni speciali in tema di sequestri
+- [Art. 230](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-230-dlgs271-89.md) - Fermo, arresto e cattura
+- [Art. 231](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-231-dlgs271-89.md) - Esercizio dell'azione penale da parte di organi   diversi dal pubblico ministero
+- [Art. 232](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-232-dlgs271-89.md) - Corrispondenza tra sentenza istruttoria, sentenza di non luogo a procedere e provvedimento di archiviazione
+- [Art. 233](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-233-dlgs271-89.md) - Giudizio direttissimo
+- [Art. 234](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-234-dlgs271-89.md) - Richiesta di sanzioni sostitutive   da parte dell'imputato
+- [Art. 235](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-235-dlgs271-89.md) - Violazioni di leggi finanziarie
+- [Art. 236](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-236-dlgs271-89.md) - Disposizioni concernenti il tribunale di sorveglianza
+- [Art. 237](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-237-dlgs271-89.md) - *(abrogato)*
+- [Art. 238](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-238-dlgs271-89.md) - Individuazione del pubblico ministero e del giudice per le   indagini preliminari nei procedimenti di assise
+- [Art. 239](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-239-dlgs271-89.md) - Interruzione della prescrizione
+- [Art. 240](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-240-dlgs271-89.md) - *(abrogato)*
+- [Art. 240-bis](02%20-%20Titolo%20II%20-%20NORME%20DI%20COORDINAMENTO/art-240-bis-dlgs271-89.md) - Sospensione dei termini processuali nel periodo feriale
 
 ### Titolo III - NORME TRANSITORIE
-- [Art. 241](03%20-%20Titolo%20III%20-%20NORME%20TRANSITORIE/art-241-dlgs271-89.md) — Procedimenti in corso che si trovano in una fase   diversa da quella istruttoria
-- [Art. 242](03%20-%20Titolo%20III%20-%20NORME%20TRANSITORIE/art-242-dlgs271-89.md) — Procedimenti in fase istruttoria che proseguono con le norme anteriormente vigenti
-- [Art. 243](03%20-%20Titolo%20III%20-%20NORME%20TRANSITORIE/art-243-dlgs271-89.md) — Revoca delle sentenze di proscioglimento
-- [Art. 244](03%20-%20Titolo%20III%20-%20NORME%20TRANSITORIE/art-244-dlgs271-89.md) — Disciplina applicabile in caso di regressione   dei procedimenti alla fase istruttoria
-- [Art. 245](03%20-%20Titolo%20III%20-%20NORME%20TRANSITORIE/art-245-dlgs271-89.md) — Disposizioni del codice applicabili ai procedimenti   che proseguono con le norme anteriormente vigenti
-- [Art. 246](03%20-%20Titolo%20III%20-%20NORME%20TRANSITORIE/art-246-dlgs271-89.md) — Questioni pregiudiziali
-- [Art. 247](03%20-%20Titolo%20III%20-%20NORME%20TRANSITORIE/art-247-dlgs271-89.md) — Giudizio abbreviato
-- [Art. 248](03%20-%20Titolo%20III%20-%20NORME%20TRANSITORIE/art-248-dlgs271-89.md) — Applicazione della pena su richiesta delle parti
-- [Art. 249](03%20-%20Titolo%20III%20-%20NORME%20TRANSITORIE/art-249-dlgs271-89.md) — Procedimento per decreto
-- [Art. 250](03%20-%20Titolo%20III%20-%20NORME%20TRANSITORIE/art-250-dlgs271-89.md) — Disciplina delle misure cautelari, del fermo,   dell'arresto e delle pene accessorie
-- [Art. 251](03%20-%20Titolo%20III%20-%20NORME%20TRANSITORIE/art-251-dlgs271-89.md) — Durata delle misure cautelari e restituzione   della cauzione
-- [Art. 252](03%20-%20Titolo%20III%20-%20NORME%20TRANSITORIE/art-252-dlgs271-89.md) — Infermità di mente sopravvenuta all'imputato
-- [Art. 253](03%20-%20Titolo%20III%20-%20NORME%20TRANSITORIE/art-253-dlgs271-89.md) — Trasferimento delle funzioni della sezione   istruttoria
-- [Art. 254](03%20-%20Titolo%20III%20-%20NORME%20TRANSITORIE/art-254-dlgs271-89.md) — Formule di proscioglimento
-- [Art. 255](03%20-%20Titolo%20III%20-%20NORME%20TRANSITORIE/art-255-dlgs271-89.md) — Ricorso immediato per cassazione
-- [Art. 256](03%20-%20Titolo%20III%20-%20NORME%20TRANSITORIE/art-256-dlgs271-89.md) — Criteri per il rinvio a giudizio
-- [Art. 257](03%20-%20Titolo%20III%20-%20NORME%20TRANSITORIE/art-257-dlgs271-89.md) — Criteri per l'emissione delle sentenze   di proscioglimento
-- [Art. 258](03%20-%20Titolo%20III%20-%20NORME%20TRANSITORIE/art-258-dlgs271-89.md) — Procedimenti che proseguono secondo le disposizioni del codice
-- [Art. 259](03%20-%20Titolo%20III%20-%20NORME%20TRANSITORIE/art-259-dlgs271-89.md) — Disciplina della competenza e della riunione   dei procedimenti
-- [Art. 260](03%20-%20Titolo%20III%20-%20NORME%20TRANSITORIE/art-260-dlgs271-89.md) — Esecuzione
+- [Art. 241](03%20-%20Titolo%20III%20-%20NORME%20TRANSITORIE/art-241-dlgs271-89.md) - Procedimenti in corso che si trovano in una fase   diversa da quella istruttoria
+- [Art. 242](03%20-%20Titolo%20III%20-%20NORME%20TRANSITORIE/art-242-dlgs271-89.md) - Procedimenti in fase istruttoria che proseguono con le norme anteriormente vigenti
+- [Art. 243](03%20-%20Titolo%20III%20-%20NORME%20TRANSITORIE/art-243-dlgs271-89.md) - Revoca delle sentenze di proscioglimento
+- [Art. 244](03%20-%20Titolo%20III%20-%20NORME%20TRANSITORIE/art-244-dlgs271-89.md) - Disciplina applicabile in caso di regressione   dei procedimenti alla fase istruttoria
+- [Art. 245](03%20-%20Titolo%20III%20-%20NORME%20TRANSITORIE/art-245-dlgs271-89.md) - Disposizioni del codice applicabili ai procedimenti   che proseguono con le norme anteriormente vigenti
+- [Art. 246](03%20-%20Titolo%20III%20-%20NORME%20TRANSITORIE/art-246-dlgs271-89.md) - Questioni pregiudiziali
+- [Art. 247](03%20-%20Titolo%20III%20-%20NORME%20TRANSITORIE/art-247-dlgs271-89.md) - Giudizio abbreviato
+- [Art. 248](03%20-%20Titolo%20III%20-%20NORME%20TRANSITORIE/art-248-dlgs271-89.md) - Applicazione della pena su richiesta delle parti
+- [Art. 249](03%20-%20Titolo%20III%20-%20NORME%20TRANSITORIE/art-249-dlgs271-89.md) - Procedimento per decreto
+- [Art. 250](03%20-%20Titolo%20III%20-%20NORME%20TRANSITORIE/art-250-dlgs271-89.md) - Disciplina delle misure cautelari, del fermo,   dell'arresto e delle pene accessorie
+- [Art. 251](03%20-%20Titolo%20III%20-%20NORME%20TRANSITORIE/art-251-dlgs271-89.md) - Durata delle misure cautelari e restituzione   della cauzione
+- [Art. 252](03%20-%20Titolo%20III%20-%20NORME%20TRANSITORIE/art-252-dlgs271-89.md) - Infermità di mente sopravvenuta all'imputato
+- [Art. 253](03%20-%20Titolo%20III%20-%20NORME%20TRANSITORIE/art-253-dlgs271-89.md) - Trasferimento delle funzioni della sezione   istruttoria
+- [Art. 254](03%20-%20Titolo%20III%20-%20NORME%20TRANSITORIE/art-254-dlgs271-89.md) - Formule di proscioglimento
+- [Art. 255](03%20-%20Titolo%20III%20-%20NORME%20TRANSITORIE/art-255-dlgs271-89.md) - Ricorso immediato per cassazione
+- [Art. 256](03%20-%20Titolo%20III%20-%20NORME%20TRANSITORIE/art-256-dlgs271-89.md) - Criteri per il rinvio a giudizio
+- [Art. 257](03%20-%20Titolo%20III%20-%20NORME%20TRANSITORIE/art-257-dlgs271-89.md) - Criteri per l'emissione delle sentenze   di proscioglimento
+- [Art. 258](03%20-%20Titolo%20III%20-%20NORME%20TRANSITORIE/art-258-dlgs271-89.md) - Procedimenti che proseguono secondo le disposizioni del codice
+- [Art. 259](03%20-%20Titolo%20III%20-%20NORME%20TRANSITORIE/art-259-dlgs271-89.md) - Disciplina della competenza e della riunione   dei procedimenti
+- [Art. 260](03%20-%20Titolo%20III%20-%20NORME%20TRANSITORIE/art-260-dlgs271-89.md) - Esecuzione
 
 ## Allegati
 

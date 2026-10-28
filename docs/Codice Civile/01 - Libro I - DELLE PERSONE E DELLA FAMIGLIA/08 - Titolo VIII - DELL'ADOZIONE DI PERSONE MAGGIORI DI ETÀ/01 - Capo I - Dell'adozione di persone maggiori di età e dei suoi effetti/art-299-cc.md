@@ -14,7 +14,7 @@ capo_label: "Dell'adozione di persone maggiori di età e dei suoi effetti"
 sezione: null
 sezione_label: null
 rubrica: "Cognome dell'adottato"
-dataVigenza: "20260930"
+dataVigenza: "20261028"
 ordine: 344
 ---
 
@@ -26,14 +26,11 @@ L'adottato assume il cognome dell'adottante e lo antepone al proprio. [^agg-325]
 Nel caso in cui la filiazione sia stata accertata o riconosciuta successivamente all'adozione si applica il primo comma.
 {: data-comma="2" }
 
-Il figlio naturale che sia stato riconosciuto dai propri genitori e sia successivamente adottato, assume il cognome dell'adottante. [^agg-263] [^agg-317]
+Se l'adozione è compiuta da coniugi, l'adottato assume il cognome del marito. [^agg-263] [^agg-317]
 {: data-comma="3" }
 
-Se l'adozione è compiuta da coniugi, l'adottato assume il cognome del marito.
-{: data-comma="4" }
-
 Se l'adozione è compiuta da una donna maritata, l'adottato, che non sia figlio del marito, assume il cognome della famiglia di lei. [^agg-263]
-{: data-comma="5" }
+{: data-comma="4" }
 
 [^agg-133]: *AGGIORNAMENTO (133)* La Corte Costituzionale, con sentenza 7-11 maggio 2001, n. 120 (in G.U. 1a s.s. 16/5/2001, n. 19) ha dichiarato "l'illegittimità costituzionale dell'[art. 299, secondo comma, del codice civile](art-299-cc.md), nella parte in cui nonprevede che, qualora sia figlio naturale non riconosciuto dai propri genitori, l'adottato possa aggiungere al cognome dell'adottante anche quello originariamente attribuitogli".
 

@@ -14,7 +14,7 @@ capo_label: "(Obblighi di adeguata verifica della clientela)"
 sezione: "I"
 sezione_label: "..."
 rubrica: "Accesso da parte delle autorità"
-dataVigenza: "20261016"
+dataVigenza: "20261028"
 ordine: 26
 ---
 
@@ -32,7 +32,7 @@ ordine: 26
 - h) all'ufficio europeo per la lotta antifrode (OLAF);
 - i) all'Europol e all'Eurojust quando forniscono sostegno operativo alle autorità di cui alle lettere a), b) e c) del presente comma.
 
-2\. Fermo restando quanto disposto dall'articolo 47 del decreto legislativo 18 maggio 2018, n. 51, le modalità tecniche e operative dell'accesso di cui al comma 1 sono disciplinate con apposita convenzione stipulata tra l'Unione italiana delle Camere di commercio, industria, artigianato e agricoltura - Unioncamere, il gestore del sistema informativo nazionale di cui all'articolo 8 della legge 29 dicembre 1993, n. 580, e:
+2\. Fermo restando quanto disposto dall'[articolo 47](../../../../Attuazione%20GDPR%20%28Dl%2051-2018%20-%2018.05.2018%29/07%20-%20Capo%20VII%20-%20Disposizioni%20integrative%20sui%20trattamenti%20delle%20Forze%20di%20polizia/art-47-dlgs51-18.md) del decreto legislativo 18 maggio 2018, n. 51, le modalità tecniche e operative dell'accesso di cui al comma 1 sono disciplinate con apposita convenzione stipulata tra l'Unione italiana delle Camere di commercio, industria, artigianato e agricoltura - Unioncamere, il gestore del sistema informativo nazionale di cui all'articolo 8 della legge 29 dicembre 1993, n. 580, e:
 
 - a) ciascuna autorità di cui al comma 1, lettere a), b), d), f), g), h) e i);
 - b) il Ministero della giustizia per l'accesso da parte dell'autorità giudiziaria di cui al comma 1, lettera c), conformemente alle proprie attribuzioni istituzionali;

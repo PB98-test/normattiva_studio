@@ -83,7 +83,7 @@ aliases:
 ##### Sezione VI - Disposizioni particolari in materia di sezioni distaccate del tribunale
 - [Art. 44](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO/07%20-%20Capo%20VII%20-%20Norme%20di%20coordinamento%20e%20transitorie/07%20-%20Sezione%20VI%20-%20Disposizioni%20particolari%20in%20materia%20di%20sezioni%20distaccate%20del%20tribu/art-44-dlgs51-98.md)
 - [Art. 45](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO/07%20-%20Capo%20VII%20-%20Norme%20di%20coordinamento%20e%20transitorie/07%20-%20Sezione%20VI%20-%20Disposizioni%20particolari%20in%20materia%20di%20sezioni%20distaccate%20del%20tribu/art-45-dlgs51-98.md)
-- [Art. 46](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO/07%20-%20Capo%20VII%20-%20Norme%20di%20coordinamento%20e%20transitorie/07%20-%20Sezione%20VI%20-%20Disposizioni%20particolari%20in%20materia%20di%20sezioni%20distaccate%20del%20tribu/art-46-dlgs51-98.md) — *(abrogato)*
+- [Art. 46](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO/07%20-%20Capo%20VII%20-%20Norme%20di%20coordinamento%20e%20transitorie/07%20-%20Sezione%20VI%20-%20Disposizioni%20particolari%20in%20materia%20di%20sezioni%20distaccate%20del%20tribu/art-46-dlgs51-98.md) - *(abrogato)*
 - [Art. 47](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO/07%20-%20Capo%20VII%20-%20Norme%20di%20coordinamento%20e%20transitorie/07%20-%20Sezione%20VI%20-%20Disposizioni%20particolari%20in%20materia%20di%20sezioni%20distaccate%20del%20tribu/art-47-dlgs51-98.md)
 - [Art. 48](01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20SULL%27ORDINAMENTO%20GIUDIZIARIO/07%20-%20Capo%20VII%20-%20Norme%20di%20coordinamento%20e%20transitorie/07%20-%20Sezione%20VI%20-%20Disposizioni%20particolari%20in%20materia%20di%20sezioni%20distaccate%20del%20tribu/art-48-dlgs51-98.md)
 
@@ -327,7 +327,7 @@ aliases:
 - [Art. 222](04%20-%20Titolo%20IV%20-%20DISPOSIZIONI%20SUL%20PROCESSO%20PENALE/13%20-%20Capo%20XIII%20-%20Disposizioni%20transitorie%20e%20finali/art-222-dlgs51-98.md)
 - [Art. 223](04%20-%20Titolo%20IV%20-%20DISPOSIZIONI%20SUL%20PROCESSO%20PENALE/13%20-%20Capo%20XIII%20-%20Disposizioni%20transitorie%20e%20finali/art-223-dlgs51-98.md)
 - [Art. 224](04%20-%20Titolo%20IV%20-%20DISPOSIZIONI%20SUL%20PROCESSO%20PENALE/13%20-%20Capo%20XIII%20-%20Disposizioni%20transitorie%20e%20finali/art-224-dlgs51-98.md)
-- [Art. 225](04%20-%20Titolo%20IV%20-%20DISPOSIZIONI%20SUL%20PROCESSO%20PENALE/13%20-%20Capo%20XIII%20-%20Disposizioni%20transitorie%20e%20finali/art-225-dlgs51-98.md) — *(abrogato)*
+- [Art. 225](04%20-%20Titolo%20IV%20-%20DISPOSIZIONI%20SUL%20PROCESSO%20PENALE/13%20-%20Capo%20XIII%20-%20Disposizioni%20transitorie%20e%20finali/art-225-dlgs51-98.md) - *(abrogato)*
 - [Art. 226](04%20-%20Titolo%20IV%20-%20DISPOSIZIONI%20SUL%20PROCESSO%20PENALE/13%20-%20Capo%20XIII%20-%20Disposizioni%20transitorie%20e%20finali/art-226-dlgs51-98.md)
 - [Art. 227](04%20-%20Titolo%20IV%20-%20DISPOSIZIONI%20SUL%20PROCESSO%20PENALE/13%20-%20Capo%20XIII%20-%20Disposizioni%20transitorie%20e%20finali/art-227-dlgs51-98.md)
 
@@ -365,7 +365,7 @@ aliases:
 
 ### Titolo VII - NORME DI COORDINAMENTO E FINALI
 - [Art. 244](07%20-%20Titolo%20VII%20-%20NORME%20DI%20COORDINAMENTO%20E%20FINALI/art-244-dlgs51-98.md)
-- [Art. 245](07%20-%20Titolo%20VII%20-%20NORME%20DI%20COORDINAMENTO%20E%20FINALI/art-245-dlgs51-98.md) — *(abrogato)*
+- [Art. 245](07%20-%20Titolo%20VII%20-%20NORME%20DI%20COORDINAMENTO%20E%20FINALI/art-245-dlgs51-98.md) - *(abrogato)*
 - [Art. 246](07%20-%20Titolo%20VII%20-%20NORME%20DI%20COORDINAMENTO%20E%20FINALI/art-246-dlgs51-98.md)
 - [Art. 247](07%20-%20Titolo%20VII%20-%20NORME%20DI%20COORDINAMENTO%20E%20FINALI/art-247-dlgs51-98.md)
 

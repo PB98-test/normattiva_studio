@@ -14,7 +14,7 @@ capo_label: "PRINCIPI GENERALI"
 sezione: "II"
 sezione_label: "Carta della cittadinanza digitale"
 rubrica: "Diritto alla trasparenza e al controllo sugli strumenti digitali"
-dataVigenza: "20261002"
+dataVigenza: "20261028"
 ordine: 5
 ---
 
@@ -56,7 +56,7 @@ ordine: 5
 
 11\. La società di cui all'articolo 83, comma 15, del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, incaricata della realizzazione delle funzionalità dell'ANPR e della gestione della sezione di cui al comma 2 del presente articolo, è nominata responsabile del trattamento ai sensi dell'articolo 28 del regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016.
 
-12\. Le società che registrano e aggiornano, per conto dei titolari del trattamento, i dati nella sezione dell'ANPR di cui al comma 2, con i dati degli strumenti digitali di cui ai commi 3 e 4, assumono la qualifica di responsabili del trattamento ai sensi dell'articolo 28 del regolamento (UE) 2016/679.
+12\. Le società che registrano e aggiornano, per conto dei titolari del trattamento, i dati nella sezione dell'ANPR di cui al comma 2, con i dati degli strumenti digitali di cui ai commi 3 e 4, assumono la qualifica di responsabili del trattamento ai sensi dell'[articolo 28 del regolamento (UE) 2016/679](../../../GDPR%20%28Regolamento%20UE%202016-679%20-%2027.04.2016%29/04%20-%20Capo%20IV%20-%20Titolare%20del%20trattamento%20e%20responsabile%20del%20trattamento/01%20-%20Sezione%201%20-%20Obblighi%20generali/art-28-reg679-16.md).
 
 13\. Le informazioni di cui ai commi 3 e 4 sono conservate nell'ANPR per la durata massima di dodici mesi dalla registrazione della revoca o della scadenza dello strumento da parte dei gestori e sono consultabili, previa autenticazione con livello di garanzia almeno significativo, esclusivamente dal cittadino cui si riferiscono, fermo restando quanto previsto ai commi 7, 8 e 9. Con riferimento ai trattamenti di dati personali, si applicano le misure tecniche e organizzative di cui all'allegato C al regolamento di cui al decreto del Presidente del Consiglio dei ministri 10 novembre 2014, n. 194, oltre che le specifiche misure di sicurezza di cui alle linee guida adottate dall'AgID ai sensi dell'[articolo 50-ter](../../05%20-%20Capo%20V%20-%20DATI%20DELLE%20PUBBLICHE%20AMMINISTRAZIONI%20,%20IDENTITÀ%20DIGITALI,%20ISTANZE%20E%20SER/01%20-%20Sezione%20I%20-%20Dati%20delle%20pubbliche%20amministrazioni/art-50-ter-dlgs82-05.md), comma 2.
 

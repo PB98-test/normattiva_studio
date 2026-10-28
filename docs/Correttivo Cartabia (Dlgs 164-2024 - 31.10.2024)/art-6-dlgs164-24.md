@@ -14,7 +14,7 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Modifiche a leggi speciali"
-dataVigenza: "20261016"
+dataVigenza: "20261028"
 ordine: 6
 ---
 
@@ -32,7 +32,7 @@ ordine: 6
 - a) all'[articolo 4](art-4-dlgs164-24.md), comma 7, dopo le parole «il giudice» è inserita la seguente: «tutelare»;
 - b) all'articolo 5-bis: 1) al comma 2, lettera e), le parole «ai sensi dell'[articolo 333, secondo comma, del codice civile](../Codice%20Civile/01%20-%20Libro%20I%20-%20DELLE%20PERSONE%20E%20DELLA%20FAMIGLIA/09%20-%20Titolo%20IX%20-%20DELLA%20RESPONSABILITÀ%20GENITORIALE%20E%20DEI%20DIRITTI%20E%20DOVERI%20DEL%20FIGLIO/01%20-%20Capo%20I%20-%20Dei%20diritti%20e%20doveri%20del%20figlio/art-333-cc.md)» sono sostituite dalle seguenti: «ai sensi dell'articolo 473-bis.[7, secondo comma, del codice di procedura civile](../Codice%20di%20Procedura%20Civile/01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/01%20-%20Titolo%20I%20-%20DEGLI%20ORGANI%20GIUDIZIARI/01%20-%20Capo%20I%20-%20Del%20giudice/02%20-%20Sezione%20II%20-%20Della%20competenza%20per%20materia%20e%20valore/art-7-cpc.md)»; 2) al comma 3, le parole «del curatore e del curatore speciale» sono sostituite dalle seguenti: «del curatore, del curatore speciale e del collocatario».
 
-4\. Alla legge 21 gennaio 1994, n. 53, sono apportate le seguenti modificazioni:
+4\. Alla [legge 21 gennaio 1994, n. 53](../L%2053-1994%20-%2021.01.1994/00%20-%20Indice%20%28l53-94%29.md), sono apportate le seguenti modificazioni:
 
 - a) all'articolo 3-ter, i commi 2 e 3 sono sostituiti dai seguenti: «2. Se la notificazione di cui al comma 1 non può essere eseguita o non ha esito positivo per causa imputabile al destinatario, l'avvocato la esegue mediante inserimento dell'atto da notificare nel portale dei servizi telematici gestito dal Ministero della giustizia, unitamente ad una dichiarazione sulla sussistenza dei presupposti per l'inserimento, all'interno di un'area riservata collegata al codice fiscale del destinatario e generata dal portale. La notificazione si ha per eseguita, per il destinatario, nel decimo giorno successivo a quello in cui è compiuto l'inserimento ovvero, se anteriore, nella data in cui egli accede all'area riservata. 3. Se la notificazione di cui al comma 1 non può essere eseguita o non ha esito positivo per causa non imputabile al destinatario, essa è eseguita dall'avvocato a mezzo del servizio postale o dall'ufficiale giudiziario ai sensi degli [articoli 137 e seguenti del codice di procedura civile](../Codice%20di%20Procedura%20Civile/01%20-%20Libro%20I%20-%20DISPOSIZIONI%20GENERALI/06%20-%20Titolo%20VI%20-%20DEGLI%20ATTI%20PROCESSUALI/01%20-%20Capo%20I%20-%20Delle%20forme%20degli%20atti%20e%20dei%20provvedimenti/04%20-%20Sezione%20IV%20-%20Delle%20comunicazioni%20e%20delle%20notificazioni/art-137-cpc.md). A questo scopo l'avvocato dichiara all'ufficiale giudiziario che il destinatario della notificazione non dispone di un indirizzo di posta elettronica certificata risultante da pubblici elenchi ovvero che la notificazione a mezzo posta elettronica certificata non è risultata possibile o non ha avuto esito positivo per la causa non imputabile al destinatario specificamente indicata.»;
 - b) all'articolo 9, comma 1, le parole «sull'originale del provvedimento» sono soppresse e le parole «presso il cancelliere del giudice che ha pronunciato il provvedimento» sono sostituite dalle seguenti: «nel fascicolo d'ufficio contenente il provvedimento impugnato, affinchè il cancelliere effettui le annotazioni dovute.».

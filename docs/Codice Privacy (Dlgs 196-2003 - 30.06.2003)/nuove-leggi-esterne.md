@@ -5,23 +5,22 @@ search:
 
 # Leggi citate da Codice Privacy (Dlgs 196-2003 - 30.06.2003) ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Codice Privacy (Dlgs 196-2003 - 30.06.2003) — 96 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Codice Privacy (Dlgs 196-2003 - 30.06.2003) - 95 leggi trovate)*
 
 - [articolo 1 della legge 24 marzo 2001, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-03-24;127)
 - [articolo 26 della legge 3 febbraio 2003, n 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-02-03;14)
 - [legge 25 ottobre 2017, n. 163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-10-25;163)
 - [legge 24 dicembre 2012, n. 234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;234)
-- [direttiva 95/46/CE (regolamento](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:direttivaue:1995;46)
+- [direttiva 95/46/CE (regolamento](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31995L0046)
 - [legge 31 dicembre 1996, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-31;675)
 - [legge 31 dicembre 1996, n. 676](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-31;676)
-- [direttiva 2002/58/CE del Parlamento europeo e del Consiglio, del 12 luglio 2002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:direttivaue:2002;58)
+- [direttiva 2002/58/CE del Parlamento europeo e del Consiglio, del 12 luglio 2002](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32002L0058)
 - [articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2001-03-30;165)
 - [articolo 1, comma 3, della legge 31 dicembre 2009, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196)
 - [decreto legislativo 19 agosto 2016, n. 175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2016-08-19;175)
 - [D.L. 8 ottobre 2021, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2021-10-08;139)
 - [L. 3 dicembre 2021, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-12-03;205)
 - [decreto legislativo n. 196 del 2003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2003;196)
-- [decreto legislativo 18 maggio 2018, n. 51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2018-05-18;51)
 - [articolo 134 del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regiodecreto:1931-06-18;773)
 - [articolo 5-ter del decreto-legge 24 gennaio 2012, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2012-01-24;1)
 - [legge 24 marzo 2012, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-03-24;27)
@@ -45,7 +44,7 @@ search:
 - [articolo 8 della legge 20 maggio 1970, n. 300](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-20;300)
 - [decreto legislativo 10 settembre 2003, n. 276](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2003-09-10;276)
 - [articolo 135 del codice delle assicurazioni private](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2005-09-07;209)
-- [articolo 2, lettera c), della direttiva 2002/21/CE del Parlamento europeo e del Consiglio, del 7 marzo 2002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:direttivaue:2002;21)
+- [articolo 2, lettera c), della direttiva 2002/21/CE del Parlamento europeo e del Consiglio, del 7 marzo 2002](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32002L0021)
 - [legge 11 gennaio 2018, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-01-11;5)
 - [articoli 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2003-04-09;70)
 - [articolo 8 del decreto legislativo n. 70 del 2003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2003;70)
@@ -63,7 +62,7 @@ search:
 - [L. 17 aprile 2015, n. 43](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-04-17;43)
 - [D.L. 30 dicembre 2015, n. 210](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2015-12-30;210)
 - [L. 25 febbraio 2016, n. 21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-02-25;21)
-- [articolo 20 della direttiva (UE) 2017/541 del Parlamento europeo e del Consiglio, del 15 marzo 2017](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:direttivaue:2017;541)
+- [articolo 20 della direttiva (UE) 2017/541 del Parlamento europeo e del Consiglio, del 15 marzo 2017](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32017L0541)
 - [articoli 26](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-03;69)
 - [articolo 10, comma 4, del decreto legislativo 1° settembre 2011, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2011-09-01;150)
 - [decreto legislativo 3 luglio 2017, n. 117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2017-07-03;117)

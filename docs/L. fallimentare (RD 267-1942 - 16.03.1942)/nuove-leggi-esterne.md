@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da L. fallimentare (RD 267-1942 - 16.03.1942) ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di L. fallimentare (RD 267-1942 - 16.03.1942) — 46 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di L. fallimentare (RD 267-1942 - 16.03.1942) - 46 leggi trovate)*
 
 - [L. 20 ottobre 1952, n. 1375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-10-20;1375)
 - [D.Lgs. 12 settembre 2007, n. 169](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2007-09-12;169)

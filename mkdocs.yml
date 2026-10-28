@@ -1,5 +1,5 @@
 site_name: NormattivaStudio
-site_description: Vault normativo personale — codici e leggi in Markdown, generato da NormattivaStudio
+site_description: Vault normativo personale - codici e leggi in Markdown, generato da NormattivaStudio
 repo_url: https://github.com/PB98-test/normattiva_studio
 docs_dir: docs
 site_dir: _site
@@ -24,7 +24,7 @@ extra_javascript:
 - javascripts/ricerca-citazioni.js?v=b78e3473
 - javascripts/navigazione.js?v=43872c48
 - javascripts/interfaccia.js?v=cbc047e9
-- javascripts/sw-registra.js?v=cc658d8a
+- javascripts/sw-registra.js?v=58bb13b8
 markdown_extensions:
 - footnotes
 - tables
@@ -56,6 +56,7 @@ nav:
   - CdS (dlgs 285-1992 - 30.04.1992): CdS (dlgs 285-1992 - 30.04.1992)/00 - Indice (dlgs285-92).md
   - L 477-1992 - 04.12.1992: L 477-1992 - 04.12.1992/00 - Indice (l477-92).md
   - Dl 571-1994 - 07.10.1994: Dl 571-1994 - 07.10.1994/00 - Indice (dl571-94).md
+  - L 53-1994 - 21.01.1994: L 53-1994 - 21.01.1994/00 - Indice (l53-94).md
   - L 673-1994 - 06.12.1994: L 673-1994 - 06.12.1994/00 - Indice (l673-94).md
   - L 254-1997 - 16.07.1997: L 254-1997 - 16.07.1997/00 - Indice (l254-97).md
   - Dlgs 51-1998 - 19.02.1998: Dlgs 51-1998 - 19.02.1998/00 - Indice (dlgs51-98).md
@@ -69,14 +70,20 @@ nav:
   - Dlgs 82-2005 - 07.03.2005: Dlgs 82-2005 - 07.03.2005/00 - Indice (dlgs82-05).md
   - L. 80-2005 - 14.05.2005: L. 80-2005 - 14.05.2005/00 - Indice (l80-05).md
   - Antiriciclaggio (Dlgs 231-2007 - 21.11.2007): Antiriciclaggio (Dlgs 231-2007 - 21.11.2007)/00 - Indice (dlgs231-07).md
+  - Dl 185-2008 - 29.11.2008: Dl 185-2008 - 29.11.2008/00 - Indice (dl185-08).md
   - Dl 193-2009 - 29.12.2009: Dl 193-2009 - 29.12.2009/00 - Indice (dl193-09).md
+  - L 24-2010 - 22.02.2010: L 24-2010 - 22.02.2010/00 - Indice (l24-10).md
   - Mediazione (Dlgs 28-2010 - 04.03.2010): Mediazione (Dlgs 28-2010 - 04.03.2010)/00 - Indice (dlgs28-10).md
   - D MdG 44-2011 - 21.02.2011: D MdG 44-2011 - 21.02.2011/00 - Indice (decre44-11).md
   - Dlgs 150-2011 - 09.01.2011: Dlgs 150-2011 - 09.01.2011/00 - Indice (dlgs150-11).md
   - Dlgs 159-2011 - 06.09.2011: Dlgs 159-2011 - 06.09.2011/00 - Indice (dlgs159-11).md
   - Dl 179-2012 - 18.10.2012: Dl 179-2012 - 18.10.2012/00 - Indice (dl179-12).md
+  - DM 55-2014 - 10.03.2014: DM 55-2014 - 10.03.2014/00 - Indice (decre55-14).md
   - Negoziazione assistita (Dl 132-2014 - 12.09.2014): Negoziazione assistita (Dl 132-2014 - 12.09.2014)/00 - Indice (dl132-14).md
+  - eIDAS (Regolamento UE n. 910-2014 - 23.07.2014): eIDAS (Regolamento UE n. 910-2014 - 23.07.2014)/00 - Indice (reg910-14).md
+  - GDPR (Regolamento UE 2016-679 - 27.04.2016): GDPR (Regolamento UE 2016-679 - 27.04.2016)/00 - Indice (reg679-16).md
   - Rif. Orlando (L 103-2017 - 23.06.2017): Rif. Orlando (L 103-2017 - 23.06.2017)/00 - Indice (l103-17).md
+  - Attuazione GDPR (Dl 51-2018 - 18.05.2018): Attuazione GDPR (Dl 51-2018 - 18.05.2018)/00 - Indice (dlgs51-18).md
   - Crisi d'impresa e insolvenza (Dlgs 14-2019 - 12.01.2019): Crisi d'impresa e insolvenza (Dlgs 14-2019 - 12.01.2019)/00 - Indice (dlgs14-19).md
   - L 3-2019 - 09.01.2019: L 3-2019 - 09.01.2019/00 - Indice (l3-19).md
   - Dl 137-2020 - 28.10.2020: Dl 137-2020 - 28.10.2020/00 - Indice (dl137-20).md
@@ -85,6 +92,7 @@ nav:
   - Cartabia (Dlgs 150-2022 - 10.10.2022): Cartabia (Dlgs 150-2022 - 10.10.2022)/00 - Indice (dlgs150-22).md
   - L. 197-2022 - 29.12.2022: L. 197-2022 - 29.12.2022/00 - Indice (l197-22).md
   - D MdG 217-2023 - 29.12.2023: D MdG 217-2023 - 29.12.2023/00 - Indice (decre217-23).md
+  - DM 110-2023 - 07.08.2023: DM 110-2023 - 07.08.2023/00 - Indice (decre110-23).md
   - Prov. DGSIA - 11.07.2023 (Portale deposito atti penali PDP): Prov. DGSIA - 11.07.2023 (Portale deposito atti penali PDP)/00 - Indice (dgsia23).md
   - Correttivo Cartabia (Dlgs 164-2024 - 31.10.2024): Correttivo Cartabia (Dlgs 164-2024 - 31.10.2024)/00 - Indice (dlgs164-24).md
   - D MdG 206-2024 - 27.12.2024: D MdG 206-2024 - 27.12.2024/00 - Indice (decre206-24).md

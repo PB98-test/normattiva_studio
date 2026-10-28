@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da Cartabia (Dlgs 149-2022 - 10.10.2022) ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Cartabia (Dlgs 149-2022 - 10.10.2022) — 79 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Cartabia (Dlgs 149-2022 - 10.10.2022) - 77 leggi trovate)*
 
 - [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400)
 - [articolo 1 della legge 26 novembre 2021, n. 206](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-11-26;206)
@@ -17,7 +17,6 @@ search:
 - [legge 10 novembre 2014, n. 162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-11-10;162)
 - [decreto legislativo 17 gennaio 2003, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2003-01-17;5)
 - [articolo 12 della legge 3 ottobre 2001, n. 366](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-10-03;366)
-- [legge 21 gennaio 1994, n. 53](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-21;53)
 - [legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89)
 - [legge 7 marzo 1996, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-03-07;108)
 - [decreto legislativo 1° settembre 2011, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2011-09-01;150)
@@ -48,7 +47,7 @@ search:
 - [articolo 43 del decreto legislativo n. 82 del 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2005;82)
 - [articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2001-03-30;165)
 - [legge 14 gennaio 1994, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;20)
-- [articolo 2 della direttiva 2008/52/CE del Parlamento europeo e del Consiglio, del 21 maggio 2008](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:direttivaue:2008;52)
+- [articolo 2 della direttiva 2008/52/CE del Parlamento europeo e del Consiglio, del 21 maggio 2008](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32008L0052)
 - [articoli 78, comma 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002;115)
 - [articolo 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445)
 - [articolo 2, comma 7, lettera b) del decreto-legge 16 settembre 2008, n. 143](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2008-09-16;143)
@@ -57,7 +56,6 @@ search:
 - [legge 6 maggio 2004, n. 129, l'articolo 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-05-06;129)
 - [legge 17 dicembre 2012, n. 221, gli articoli 16-bis](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-17;221)
 - [regio decreto 30 ottobre 1933, n. 1611](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regiodecreto:1933-10-30;1611)
-- [legge 22 febbraio 2010, n. 24](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-02-22;24)
 - [decreto del Ministro dell'economia e delle finanze 9 ottobre 2006, n. 293](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto:2006-10-09;293)
 - [decreto-legge 4 ottobre 2018, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2018-10-04;113)
 - [legge 1° dicembre 2018, n. 132, articolo 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-01;132)

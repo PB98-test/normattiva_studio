@@ -42,6 +42,7 @@ title: "NormattivaStudio"
 <a class="doc-card" data-anno="1992" href="CdS%20%28dlgs%20285-1992%20-%2030.04.1992%29/00%20-%20Indice%20%28dlgs285-92%29/">CdS (dlgs 285-1992 - 30.04.1992)</a>
 <a class="doc-card" data-anno="1992" href="L%20477-1992%20-%2004.12.1992/00%20-%20Indice%20%28l477-92%29/">L 477-1992 - 04.12.1992</a>
 <a class="doc-card" data-anno="1994" href="Dl%20571-1994%20-%2007.10.1994/00%20-%20Indice%20%28dl571-94%29/">Dl 571-1994 - 07.10.1994</a>
+<a class="doc-card" data-anno="1994" href="L%2053-1994%20-%2021.01.1994/00%20-%20Indice%20%28l53-94%29/">L 53-1994 - 21.01.1994</a>
 <a class="doc-card" data-anno="1994" href="L%20673-1994%20-%2006.12.1994/00%20-%20Indice%20%28l673-94%29/">L 673-1994 - 06.12.1994</a>
 <a class="doc-card" data-anno="1997" href="L%20254-1997%20-%2016.07.1997/00%20-%20Indice%20%28l254-97%29/">L 254-1997 - 16.07.1997</a>
 <a class="doc-card" data-anno="1998" href="Dlgs%2051-1998%20-%2019.02.1998/00%20-%20Indice%20%28dlgs51-98%29/">Dlgs 51-1998 - 19.02.1998</a>
@@ -55,14 +56,20 @@ title: "NormattivaStudio"
 <a class="doc-card" data-anno="2005" href="Dlgs%2082-2005%20-%2007.03.2005/00%20-%20Indice%20%28dlgs82-05%29/">Dlgs 82-2005 - 07.03.2005</a>
 <a class="doc-card" data-anno="2005" href="L.%2080-2005%20-%2014.05.2005/00%20-%20Indice%20%28l80-05%29/">L. 80-2005 - 14.05.2005</a>
 <a class="doc-card" data-anno="2007" href="Antiriciclaggio%20%28Dlgs%20231-2007%20-%2021.11.2007%29/00%20-%20Indice%20%28dlgs231-07%29/">Antiriciclaggio (Dlgs 231-2007 - 21.11.2007)</a>
+<a class="doc-card" data-anno="2008" href="Dl%20185-2008%20-%2029.11.2008/00%20-%20Indice%20%28dl185-08%29/">Dl 185-2008 - 29.11.2008</a>
 <a class="doc-card" data-anno="2009" href="Dl%20193-2009%20-%2029.12.2009/00%20-%20Indice%20%28dl193-09%29/">Dl 193-2009 - 29.12.2009</a>
+<a class="doc-card" data-anno="2010" href="L%2024-2010%20-%2022.02.2010/00%20-%20Indice%20%28l24-10%29/">L 24-2010 - 22.02.2010</a>
 <a class="doc-card" data-anno="2010" href="Mediazione%20%28Dlgs%2028-2010%20-%2004.03.2010%29/00%20-%20Indice%20%28dlgs28-10%29/">Mediazione (Dlgs 28-2010 - 04.03.2010)</a>
 <a class="doc-card" data-anno="2011" href="D%20MdG%2044-2011%20-%2021.02.2011/00%20-%20Indice%20%28decre44-11%29/">D MdG 44-2011 - 21.02.2011</a>
 <a class="doc-card" data-anno="2011" href="Dlgs%20150-2011%20-%2009.01.2011/00%20-%20Indice%20%28dlgs150-11%29/">Dlgs 150-2011 - 09.01.2011</a>
 <a class="doc-card" data-anno="2011" href="Dlgs%20159-2011%20-%2006.09.2011/00%20-%20Indice%20%28dlgs159-11%29/">Dlgs 159-2011 - 06.09.2011</a>
 <a class="doc-card" data-anno="2012" href="Dl%20179-2012%20-%2018.10.2012/00%20-%20Indice%20%28dl179-12%29/">Dl 179-2012 - 18.10.2012</a>
+<a class="doc-card" data-anno="2014" href="DM%2055-2014%20-%2010.03.2014/00%20-%20Indice%20%28decre55-14%29/">DM 55-2014 - 10.03.2014</a>
 <a class="doc-card" data-anno="2014" href="Negoziazione%20assistita%20%28Dl%20132-2014%20-%2012.09.2014%29/00%20-%20Indice%20%28dl132-14%29/">Negoziazione assistita (Dl 132-2014 - 12.09.2014)</a>
+<a class="doc-card" data-anno="2014" href="eIDAS%20%28Regolamento%20UE%20n. 910-2014%20-%2023.07.2014%29/00%20-%20Indice%20%28reg910-14%29/">eIDAS (Regolamento UE n. 910-2014 - 23.07.2014)</a>
+<a class="doc-card" data-anno="2016" href="GDPR%20%28Regolamento%20UE%202016-679%20-%2027.04.2016%29/00%20-%20Indice%20%28reg679-16%29/">GDPR (Regolamento UE 2016-679 - 27.04.2016)</a>
 <a class="doc-card" data-anno="2017" href="Rif.%20Orlando%20%28L%20103-2017%20-%2023.06.2017%29/00%20-%20Indice%20%28l103-17%29/">Rif. Orlando (L 103-2017 - 23.06.2017)</a>
+<a class="doc-card" data-anno="2018" href="Attuazione%20GDPR%20%28Dl%2051-2018%20-%2018.05.2018%29/00%20-%20Indice%20%28dlgs51-18%29/">Attuazione GDPR (Dl 51-2018 - 18.05.2018)</a>
 <a class="doc-card" data-anno="2019" href="Crisi%20d'impresa%20e%20insolvenza%20%28Dlgs%2014-2019%20-%2012.01.2019%29/00%20-%20Indice%20%28dlgs14-19%29/">Crisi d'impresa e insolvenza (Dlgs 14-2019 - 12.01.2019)</a>
 <a class="doc-card" data-anno="2019" href="L%203-2019%20-%2009.01.2019/00%20-%20Indice%20%28l3-19%29/">L 3-2019 - 09.01.2019</a>
 <a class="doc-card" data-anno="2020" href="Dl%20137-2020%20-%2028.10.2020/00%20-%20Indice%20%28dl137-20%29/">Dl 137-2020 - 28.10.2020</a>
@@ -71,6 +78,7 @@ title: "NormattivaStudio"
 <a class="doc-card" data-anno="2022" href="Cartabia%20%28Dlgs%20150-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs150-22%29/">Cartabia (Dlgs 150-2022 - 10.10.2022)</a>
 <a class="doc-card" data-anno="2022" href="L.%20197-2022%20-%2029.12.2022/00%20-%20Indice%20%28l197-22%29/">L. 197-2022 - 29.12.2022</a>
 <a class="doc-card" data-anno="2023" href="D%20MdG%20217-2023%20-%2029.12.2023/00%20-%20Indice%20%28decre217-23%29/">D MdG 217-2023 - 29.12.2023</a>
+<a class="doc-card" data-anno="2023" href="DM%20110-2023%20-%2007.08.2023/00%20-%20Indice%20%28decre110-23%29/">DM 110-2023 - 07.08.2023</a>
 <a class="doc-card" data-anno="2023" href="Prov.%20DGSIA%20-%2011.07.2023%20%28Portale%20deposito%20atti%20penali%20PDP%29/00%20-%20Indice%20%28dgsia23%29/">Prov. DGSIA - 11.07.2023 (Portale deposito atti penali PDP)</a>
 <a class="doc-card" data-anno="2024" href="Correttivo%20Cartabia%20%28Dlgs%20164-2024%20-%2031.10.2024%29/00%20-%20Indice%20%28dlgs164-24%29/">Correttivo Cartabia (Dlgs 164-2024 - 31.10.2024)</a>
 <a class="doc-card" data-anno="2024" href="D%20MdG%20206-2024%20-%2027.12.2024/00%20-%20Indice%20%28decre206-24%29/">D MdG 206-2024 - 27.12.2024</a>

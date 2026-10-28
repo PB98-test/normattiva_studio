@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da L 689-1981 - 24.11.1981 ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di L 689-1981 - 24.11.1981 — 62 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di L 689-1981 - 24.11.1981 - 62 leggi trovate)*
 
 - [legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283)
 - [testo unico delle norme sulla circolazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-01-18;54)

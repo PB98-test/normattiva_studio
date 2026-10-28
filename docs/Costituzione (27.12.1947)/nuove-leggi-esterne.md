@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da Costituzione (27.12.1947) ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Costituzione (27.12.1947) — 8 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Costituzione (27.12.1947) - 8 leggi trovate)*
 
 - [L. costituzionale 21 giugno 1967, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:leggecostituzionale:1967-06-21;1)
 - [L. costituzionale 9 febbraio 1963, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:leggecostituzionale:1963-02-09;2)

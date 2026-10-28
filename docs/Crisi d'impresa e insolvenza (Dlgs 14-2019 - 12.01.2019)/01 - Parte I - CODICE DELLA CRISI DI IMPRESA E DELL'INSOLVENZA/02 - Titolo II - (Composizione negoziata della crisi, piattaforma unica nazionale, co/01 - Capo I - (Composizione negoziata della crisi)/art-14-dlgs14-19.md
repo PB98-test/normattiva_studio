@@ -16,7 +16,7 @@ capo_label: "(Composizione negoziata della crisi)"
 sezione: null
 sezione_label: null
 rubrica: "Interoperabilità tra la piattaforma telematica nazionale per la composizione negoziata per la soluzione delle crisi d'impresa e altre banche di dati"
-dataVigenza: "20261016"
+dataVigenza: "20261028"
 ordine: 15
 ---
 
@@ -26,4 +26,4 @@ ordine: 15
 
 2\. L'esperto nominato ai sensi dell'[articolo 13](art-13-dlgs14-19.md), comma 6, accede alle banche dati e alle informazioni di cui al comma 1, previo consenso prestato dall'imprenditore ai sensi del regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016, e del [codice in materia di protezione dei dati personali](../../../../Codice%20Privacy%20%28Dlgs%20196-2003%20-%2030.06.2003%29/00%20-%20Indice%20%28dlgs196-03%29.md), di cui al [decreto legislativo 30 giugno 2003, n. 196](../../../../Codice%20Privacy%20%28Dlgs%20196-2003%20-%2030.06.2003%29/00%20-%20Indice%20%28dlgs196-03%29.md), ed estrae la documentazione e le informazioni necessari per l'avvio o la prosecuzione delle trattative con i creditori e con le parti interessate. Le modalità di accesso alle banche dati sono stabilite dall'Agenzia delle entrate, dall'Istituto nazionale della previdenza sociale, dall'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro e dall'agente della riscossione e le modalità di accesso alle informazioni contenute nella Centrale dei rischi sono stabilite dalla Banca d'Italia.
 
-3\. L'accesso ai dati attraverso la piattaforma telematica di cui al comma 1 non modifica la disciplina relativa alla titolarità del trattamento, ferme restando le specifiche responsabilità ai sensi dell'[articolo 28](../../03%20-%20Titolo%20III%20-%20Procedimento%20per%20la%20regolazione%20giudiziale%20della%20crisi%20e%20dell%27insol/02%20-%20Capo%20II%20-%20Competenza/art-28-dlgs14-19.md) del citato regolamento (UE) 2016/679 spettanti al soggetto gestore della piattaforma nonchè le responsabilità dei soggetti che trattano i dati in qualità di titolari autonomi del trattamento.
+3\. L'accesso ai dati attraverso la piattaforma telematica di cui al comma 1 non modifica la disciplina relativa alla titolarità del trattamento, ferme restando le specifiche responsabilità ai sensi dell'[articolo 28](../../03%20-%20Titolo%20III%20-%20Procedimento%20per%20la%20regolazione%20giudiziale%20della%20crisi%20e%20dell%27insol/02%20-%20Capo%20II%20-%20Competenza/art-28-dlgs14-19.md) del citato [regolamento (UE) 2016/679](../../../../GDPR%20%28Regolamento%20UE%202016-679%20-%2027.04.2016%29/00%20-%20Indice%20%28reg679-16%29.md) spettanti al soggetto gestore della piattaforma nonchè le responsabilità dei soggetti che trattano i dati in qualità di titolari autonomi del trattamento.

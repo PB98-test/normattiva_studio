@@ -37,12 +37,12 @@
 // - Tutto il resto: lasciato al browser, il service worker non si
 //   intromette.
 
-const VERSIONE = "20261022104920";   // cambia ad ogni pubblicazione: la cache si ricostruisce da zero
+const VERSIONE = "20261028103734";   // cambia ad ogni pubblicazione: la cache si ricostruisce da zero
 const CACHE_FILE = `ns-${VERSIONE}-file`;
 const CACHE_PAGINE = `ns-${VERSIONE}-pagine`;
 
 const PAGINE_DA_PRECARICARE = ["./", "Codice%20Penale/00%20-%20Indice%20%28cp%29/", "Codice%20di%20Procedura%20Penale/00%20-%20Indice%20%28cpp%29/", "Codice%20Civile/00%20-%20Indice%20%28cc%29/", "Codice%20di%20Procedura%20Civile/00%20-%20Indice%20%28cpc%29/"];
-const FILE_DA_PRECARICARE = ["stylesheets/normativa.css?v=9ecefb8a", "javascripts/segnalazioni.js?v=1d8dd674", "javascripts/articoli.js?v=bbea3eba", "javascripts/ricerca.js?v=2fd43db5", "javascripts/ricerca-citazioni.js?v=b78e3473", "javascripts/navigazione.js?v=43872c48", "javascripts/interfaccia.js?v=cbc047e9", "javascripts/sw-registra.js?v=cc658d8a", "fonts/Jost-Variable.woff2", "assets/favicon.png"];
+const FILE_DA_PRECARICARE = ["stylesheets/normativa.css?v=9ecefb8a", "javascripts/segnalazioni.js?v=1d8dd674", "javascripts/articoli.js?v=bbea3eba", "javascripts/ricerca.js?v=2fd43db5", "javascripts/ricerca-citazioni.js?v=b78e3473", "javascripts/navigazione.js?v=43872c48", "javascripts/interfaccia.js?v=cbc047e9", "javascripts/sw-registra.js?v=58bb13b8", "fonts/Jost-Variable.woff2", "assets/favicon.png"];
 
 // search_index.json (Material) e citazioni.json (nostro): nessun hash
 // nel nome, quindi cache-first solo perché tutta la cache si rinnova ad
@@ -155,7 +155,7 @@ function vistaRiserva() {
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Pagina non disponibile offline — NormattivaStudio</title>
+<title>Pagina non disponibile offline - NormattivaStudio</title>
 <link rel="stylesheet" href="${cssHref}">
 <style>
   body { display: flex; align-items: center; justify-content: center; min-height: 100vh; margin: 0; padding: 20px; box-sizing: border-box; }

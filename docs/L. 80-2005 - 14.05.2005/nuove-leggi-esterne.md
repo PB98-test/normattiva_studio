@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da L. 80-2005 - 14.05.2005 ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di L. 80-2005 - 14.05.2005 — 108 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di L. 80-2005 - 14.05.2005 - 108 leggi trovate)*
 
 - [decreto legislativo 9 aprile 2003, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2003-04-09;70)
 - [articolo 4, comma 72, della legge 24 dicembre 2003, n. 350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-12-24;350)

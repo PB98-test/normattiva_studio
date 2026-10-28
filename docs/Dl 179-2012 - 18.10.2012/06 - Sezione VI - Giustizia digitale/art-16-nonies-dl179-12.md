@@ -14,7 +14,7 @@ capo_label: null
 sezione: "VI"
 sezione_label: "Giustizia digitale"
 rubrica: "Modalità informatiche per le domande di iscrizione e per la tenuta dell'albo dei consulenti tecnici, dell'albo dei periti presso il tribunale, dell'elenco dei soggetti specializzati per la custodia e la vendita dei beni pignorati e dell'elenco dei professionisti disponibili a provvedere alle operazioni di vendita"
-dataVigenza: "20261016"
+dataVigenza: "20261028"
 ordine: 31
 ---
 
@@ -24,7 +24,7 @@ ordine: 31
 
 2\. Le disposizioni di cui al comma 1 si applicano anche alle domande e ai relativi documenti per l'iscrizione negli elenchi dei professionisti disponibili a provvedere alle operazioni di vendita di cui all'articolo 169-ter e all'articolo 179-ter, secondo comma, delle disposizioni per l'attuazione del [codice di procedura civile](../../Codice%20di%20Procedura%20Civile/00%20-%20Indice%20%28cpc%29.md).
 
-3\. Quando, per l'iscrizione negli albi e negli elenchi di cui al presente articolo, la legge prevede il pagamento di bolli, diritti o altre somme a qualsiasi titolo, il versamento è effettuato esclusivamente con sistemi telematici di pagamento ovvero con carte di debito, di credito o prepagate o con altri mezzi di pagamento con moneta elettronica disponibili nel circuito bancario o postale, a norma dell'articolo 4, comma 9, del decreto-legge 29 dicembre 2009, n. 193, convertito, con modificazioni, dalla legge 22 febbraio 2010, n. 24. I versamenti di cui al presente comma hanno luogo nel rispetto della normativa, anche regolamentare, concernente i pagamenti telematici nel processo civile.
+3\. Quando, per l'iscrizione negli albi e negli elenchi di cui al presente articolo, la legge prevede il pagamento di bolli, diritti o altre somme a qualsiasi titolo, il versamento è effettuato esclusivamente con sistemi telematici di pagamento ovvero con carte di debito, di credito o prepagate o con altri mezzi di pagamento con moneta elettronica disponibili nel circuito bancario o postale, a norma dell'articolo 4, comma 9, del decreto-legge 29 dicembre 2009, n. 193, convertito, con modificazioni, dalla [legge 22 febbraio 2010, n. 24](../../L%2024-2010%20-%2022.02.2010/00%20-%20Indice%20%28l24-10%29.md). I versamenti di cui al presente comma hanno luogo nel rispetto della normativa, anche regolamentare, concernente i pagamenti telematici nel processo civile.
 
 4\. Gli albi e gli elenchi di cui ai commi 1 e 2 sono formati a norma delle disposizioni legislative che li regolano e tenuti, a cura del presidente del tribunale, con modalità esclusivamente informatiche in conformità alle specifiche tecniche di cui al comma 5. L'accesso ai dati contenuti negli albi e negli elenchi è consentito ai magistrati e al personale delle cancellerie e delle segreterie di tutti gli uffici giudiziari della giustizia ordinaria. Salvo quanto previsto dall'articolo 179-quater, terzo comma, delle disposizioni per l'attuazione del [codice di procedura civile](../../Codice%20di%20Procedura%20Civile/00%20-%20Indice%20%28cpc%29.md), la disposizione di cui al periodo precedente si applica anche agli elenchi previsti dagli articoli 169-ter e 179-ter delle medesime disposizioni. Resta fermo quanto previsto dagli [articoli 23](../08%20-%20Sezione%20VIII%20-%20Assicurazioni,%20mutualità%20e%20mercato%20finanziario/art-23-dl179-12.md), secondo comma, secondo periodo, e 24-bis, secondo comma, delle disposizioni per l'attuazione del [codice di procedura civile](../../Codice%20di%20Procedura%20Civile/00%20-%20Indice%20%28cpc%29.md). [^agg-66] [^agg-69]
 

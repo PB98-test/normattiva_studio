@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da L 254-1997 - 16.07.1997 ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di L 254-1997 - 16.07.1997 — 7 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di L 254-1997 - 16.07.1997 - 7 leggi trovate)*
 
 - [legge 20 giugno 1952, n. 645; dall'articolo 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-06-20;645)
 - [legge 25 gennaio 1982, n. 17; dall'articolo 29, secondo comma](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-01-25;17)

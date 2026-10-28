@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da Negoziazione assistita (Dl 132-2014 - 12.09.2014) ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Negoziazione assistita (Dl 132-2014 - 12.09.2014) — 28 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Negoziazione assistita (Dl 132-2014 - 12.09.2014) - 28 leggi trovate)*
 
 - [articolo 6 del decreto legislativo 2 febbraio 2001, n. 96](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2001-02-02;96)
 - [articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2001-03-30;165)
