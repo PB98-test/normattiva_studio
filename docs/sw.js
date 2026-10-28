@@ -37,7 +37,7 @@
 // - Tutto il resto: lasciato al browser, il service worker non si
 //   intromette.
 
-const VERSIONE = "20261028103734";   // cambia ad ogni pubblicazione: la cache si ricostruisce da zero
+const VERSIONE = "20261028105150";   // cambia ad ogni pubblicazione: la cache si ricostruisce da zero
 const CACHE_FILE = `ns-${VERSIONE}-file`;
 const CACHE_PAGINE = `ns-${VERSIONE}-pagine`;
 
