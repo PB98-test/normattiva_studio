@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Procedimento per decreto"
-dataVigenza: "20261016"
-ordine: 673
+dataVigenza: "20261102"
+ordine: 674
 ---
 
 # Art. 557 - ***Procedimento per decreto***

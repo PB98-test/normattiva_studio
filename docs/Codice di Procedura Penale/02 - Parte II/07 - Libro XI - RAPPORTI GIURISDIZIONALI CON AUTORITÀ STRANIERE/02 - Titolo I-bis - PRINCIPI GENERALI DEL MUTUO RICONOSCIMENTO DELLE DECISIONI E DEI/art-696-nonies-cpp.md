@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Impugnazioni"
-dataVigenza: "20261016"
-ordine: 835
+dataVigenza: "20261102"
+ordine: 836
 ---
 
 # Art. 696-nonies - ***Impugnazioni***

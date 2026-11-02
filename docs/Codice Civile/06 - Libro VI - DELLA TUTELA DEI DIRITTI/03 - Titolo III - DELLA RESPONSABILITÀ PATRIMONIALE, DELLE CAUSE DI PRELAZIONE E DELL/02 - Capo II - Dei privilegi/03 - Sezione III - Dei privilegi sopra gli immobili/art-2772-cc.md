@@ -14,8 +14,8 @@ capo_label: "Dei privilegi"
 sezione: "III"
 sezione_label: "Dei privilegi sopra gli immobili"
 rubrica: "Crediti per tributi indiretti."
-dataVigenza: "20260914"
-ordine: 3078
+dataVigenza: "20261102"
+ordine: 3079
 ---
 
 # Art. 2772 - ***Crediti per tributi indiretti.***

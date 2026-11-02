@@ -14,8 +14,8 @@ capo_label: "Dei privilegi"
 sezione: "I"
 sezione_label: "Disposizioni generali"
 rubrica: "Efficacia del privilegio"
-dataVigenza: "20260914"
-ordine: 3052
+dataVigenza: "20261102"
+ordine: 3053
 ---
 
 # Art. 2747 - ***Efficacia del privilegio***

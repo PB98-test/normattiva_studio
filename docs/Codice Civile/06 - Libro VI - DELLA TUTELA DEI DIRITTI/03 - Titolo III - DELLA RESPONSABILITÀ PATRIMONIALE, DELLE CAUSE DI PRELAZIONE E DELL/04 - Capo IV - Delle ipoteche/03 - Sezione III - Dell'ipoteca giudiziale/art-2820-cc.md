@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "III"
 sezione_label: "Dell'ipoteca giudiziale"
 rubrica: "Sentenze straniere"
-dataVigenza: "20260914"
-ordine: 3129
+dataVigenza: "20261102"
+ordine: 3130
 ---
 
 # Art. 2820 - ***Sentenze straniere***

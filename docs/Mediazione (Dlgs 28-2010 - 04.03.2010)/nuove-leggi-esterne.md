@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da Mediazione (Dlgs 28-2010 - 04.03.2010) ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Mediazione (Dlgs 28-2010 - 04.03.2010) - 34 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Mediazione (Dlgs 28-2010 - 04.03.2010) - 35 leggi trovate)*
 
 - [articolo 60 della legge 19 giugno 2009, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-06-19;69)
 - [direttiva 2008/52/CE del Parlamento europeo e del Consiglio, del 21 maggio 2008](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32008L0052)
@@ -26,6 +26,7 @@ search:
 - [direttiva (UE) 2016/97](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32016L0097)
 - [D.Lgs. 10 marzo 2023, n. 28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2023-03-10;28)
 - [legge 31 luglio 1997, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-07-31;249)
+- [regolamento (UE) n. 524/2013](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32013R0524)
 - [articolo 11 del decreto legislativo 5 aprile 2006, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2006-04-05;160)
 - [D.Lgs. 27 dicembre 2024, n. 216](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2024-12-27;216)
 - [articolo 2 della legge 24 marzo 2001, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-03-24;89)

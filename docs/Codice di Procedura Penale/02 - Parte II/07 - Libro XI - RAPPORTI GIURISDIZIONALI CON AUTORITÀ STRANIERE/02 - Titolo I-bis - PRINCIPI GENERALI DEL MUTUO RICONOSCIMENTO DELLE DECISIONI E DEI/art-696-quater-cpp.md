@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Modalità di trasmissione delle decisioni giudiziarie"
-dataVigenza: "20261016"
-ordine: 830
+dataVigenza: "20261102"
+ordine: 831
 ---
 
 # Art. 696-quater - ***Modalità di trasmissione delle decisioni giudiziarie***

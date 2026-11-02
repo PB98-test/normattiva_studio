@@ -16,8 +16,8 @@ capo_label: "ESTRADIZIONE PER L'ESTERO"
 sezione: "II"
 sezione_label: "Misure cautelari"
 rubrica: "Revoca e sostituzione delle misure"
-dataVigenza: "20261016"
-ordine: 858
+dataVigenza: "20261102"
+ordine: 859
 ---
 
 # Art. 718 - ***Revoca e sostituzione delle misure***

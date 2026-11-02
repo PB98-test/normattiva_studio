@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Revisione a favore del condannato defunto"
-dataVigenza: "20261016"
-ordine: 766
+dataVigenza: "20261102"
+ordine: 767
 ---
 
 # Art. 638 - ***Revisione a favore del condannato defunto***

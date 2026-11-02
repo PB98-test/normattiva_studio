@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Impugnazione di sentenze che dispongono misure di sicurezza"
-dataVigenza: "20261016"
-ordine: 698
+dataVigenza: "20261102"
+ordine: 699
 ---
 
 # Art. 579 - ***Impugnazione di sentenze che dispongono misure di sicurezza***

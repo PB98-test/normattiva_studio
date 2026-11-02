@@ -14,8 +14,8 @@ capo_label: "Della prescrizione"
 sezione: "II"
 sezione_label: "Della sospensione della prescrizione"
 rubrica: "Sospensione per rapporti tra le parti"
-dataVigenza: "20260930"
-ordine: 3252
+dataVigenza: "20261102"
+ordine: 3253
 ---
 
 # Art. 2941 - ***Sospensione per rapporti tra le parti***

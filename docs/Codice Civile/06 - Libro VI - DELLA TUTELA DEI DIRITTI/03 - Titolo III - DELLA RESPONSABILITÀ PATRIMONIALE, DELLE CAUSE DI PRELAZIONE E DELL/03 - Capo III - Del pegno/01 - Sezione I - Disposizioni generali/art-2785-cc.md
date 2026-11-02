@@ -14,8 +14,8 @@ capo_label: "Del pegno"
 sezione: "I"
 sezione_label: "Disposizioni generali"
 rubrica: "Rinvio a leggi speciali"
-dataVigenza: "20260914"
-ordine: 3094
+dataVigenza: "20261102"
+ordine: 3095
 ---
 
 # Art. 2785 - ***Rinvio a leggi speciali***

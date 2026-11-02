@@ -16,8 +16,8 @@ capo_label: "ATTI SUCCESSIVI ALLA DELIBERAZIONE"
 sezione: null
 sezione_label: null
 rubrica: "Pubblicazione della sentenza"
-dataVigenza: "20261016"
-ordine: 656
+dataVigenza: "20261102"
+ordine: 657
 ---
 
 # Art. 545 - ***Pubblicazione della sentenza***

@@ -14,8 +14,8 @@ capo_label: "Degli altri illeciti, delle circostanze attenuanti e delle misure d
 sezione: null
 sezione_label: null
 rubrica: "Illecita influenza sull'assemblea"
-dataVigenza: "20260914"
-ordine: 2935
+dataVigenza: "20261102"
+ordine: 2936
 ---
 
 # Art. 2636 - ***Illecita influenza sull'assemblea***

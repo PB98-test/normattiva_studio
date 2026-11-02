@@ -16,8 +16,8 @@ capo_label: "MAGISTRATURA DI SORVEGLIANZA"
 sezione: null
 sezione_label: null
 rubrica: "Provvedimenti relativi alla grazia"
-dataVigenza: "20261016"
-ordine: 812
+dataVigenza: "20261102"
+ordine: 813
 ---
 
 # Art. 681 - ***Provvedimenti relativi alla grazia***

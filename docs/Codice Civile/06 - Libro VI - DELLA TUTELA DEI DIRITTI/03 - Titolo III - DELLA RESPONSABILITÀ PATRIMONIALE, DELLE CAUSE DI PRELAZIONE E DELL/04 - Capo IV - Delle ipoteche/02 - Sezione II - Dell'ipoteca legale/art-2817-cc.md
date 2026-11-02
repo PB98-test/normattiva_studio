@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "II"
 sezione_label: "Dell'ipoteca legale"
 rubrica: "Persone a cui compete."
-dataVigenza: "20261016"
-ordine: 3126
+dataVigenza: "20261102"
+ordine: 3127
 ---
 
 # Art. 2817 - ***Persone a cui compete.***

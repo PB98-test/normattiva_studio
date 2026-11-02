@@ -16,8 +16,8 @@ capo_label: "ESTRADIZIONE DALL'ESTERO"
 sezione: null
 sezione_label: null
 rubrica: "Domanda di estradizione"
-dataVigenza: "20261016"
-ordine: 860
+dataVigenza: "20261102"
+ordine: 861
 ---
 
 # Art. 720 - ***Domanda di estradizione***

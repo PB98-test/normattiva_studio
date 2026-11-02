@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "XII"
 sezione_label: "Del modo di liberare i beni dalle ipoteche"
 rubrica: "Mancata richiesta dell'incanto"
-dataVigenza: "20260914"
-ordine: 3203
+dataVigenza: "20261102"
+ordine: 3204
 ---
 
 # Art. 2893 - ***Mancata richiesta dell'incanto***

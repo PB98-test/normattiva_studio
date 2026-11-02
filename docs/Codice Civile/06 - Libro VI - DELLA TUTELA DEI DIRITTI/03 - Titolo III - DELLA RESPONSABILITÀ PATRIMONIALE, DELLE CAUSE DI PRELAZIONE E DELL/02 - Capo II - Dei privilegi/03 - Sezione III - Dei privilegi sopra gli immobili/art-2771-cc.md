@@ -15,8 +15,8 @@ sezione: "III"
 sezione_label: "Dei privilegi sopra gli immobili"
 rubrica: null
 abrogato: true
-dataVigenza: "20260914"
-ordine: 3077
+dataVigenza: "20261102"
+ordine: 3078
 ---
 
 # Art. 2771 - *(Omissis)*

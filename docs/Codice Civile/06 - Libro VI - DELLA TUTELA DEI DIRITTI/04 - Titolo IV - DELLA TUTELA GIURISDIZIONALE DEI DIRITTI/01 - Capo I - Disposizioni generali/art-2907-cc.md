@@ -14,8 +14,8 @@ capo_label: "Disposizioni generali"
 sezione: null
 sezione_label: null
 rubrica: "Attività giurisdizionale"
-dataVigenza: "20260914"
-ordine: 3217
+dataVigenza: "20261102"
+ordine: 3218
 ---
 
 # Art. 2907 - ***Attività giurisdizionale***

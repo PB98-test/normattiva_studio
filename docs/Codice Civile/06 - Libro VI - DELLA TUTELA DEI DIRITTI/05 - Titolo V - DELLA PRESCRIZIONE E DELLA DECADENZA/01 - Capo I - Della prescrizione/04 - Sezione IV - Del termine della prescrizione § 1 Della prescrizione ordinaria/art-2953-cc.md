@@ -14,8 +14,8 @@ capo_label: "Della prescrizione"
 sezione: "IV"
 sezione_label: "Del termine della prescrizione § 1 Della prescrizione ordinaria"
 rubrica: "Effetti del giudicato sulle prescrizioni brevi"
-dataVigenza: "20260914"
-ordine: 3264
+dataVigenza: "20261102"
+ordine: 3265
 ---
 
 # Art. 2953 - ***Effetti del giudicato sulle prescrizioni brevi***

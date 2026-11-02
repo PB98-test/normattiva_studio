@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da DPR 115-2002 - 30.05.2002 ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di DPR 115-2002 - 30.05.2002 - 198 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di DPR 115-2002 - 30.05.2002 - 199 leggi trovate)*
 
 - [articoli 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400)
 - [articolo 7 della legge 8 marzo 1999, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-08;50)
@@ -35,6 +35,7 @@ search:
 - [L. 24 marzo 2012, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-03-24;27)
 - [L. 24 dicembre 2012, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228)
 - [L. 10 novembre 2014, n. 162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-11-10;162)
+- [regolamento (UE) n. 655/2014](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32014R0655)
 - [articolo 29, del decreto legislativo 12 aprile 2006, n. 163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2006-04-12;163)
 - [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1986-04-26;131)
 - [D.L. 17 marzo 2020, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2020-03-17;18)

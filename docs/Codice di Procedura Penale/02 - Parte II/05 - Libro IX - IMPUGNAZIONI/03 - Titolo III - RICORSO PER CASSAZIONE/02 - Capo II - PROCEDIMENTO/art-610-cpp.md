@@ -16,8 +16,8 @@ capo_label: "PROCEDIMENTO"
 sezione: null
 sezione_label: null
 rubrica: "Atti preliminari"
-dataVigenza: "20261022"
-ordine: 733
+dataVigenza: "20261102"
+ordine: 734
 ---
 
 # Art. 610 - ***Atti preliminari***

@@ -14,8 +14,8 @@ capo_label: "Dell'esecuzione forzata"
 sezione: "II"
 sezione_label: "Dell'esecuzione forzata in forma specifica"
 rubrica: "Esecuzione forzata per consegna o rilascio"
-dataVigenza: "20260914"
-ordine: 3241
+dataVigenza: "20261102"
+ordine: 3242
 ---
 
 # Art. 2930 - ***Esecuzione forzata per consegna o rilascio***

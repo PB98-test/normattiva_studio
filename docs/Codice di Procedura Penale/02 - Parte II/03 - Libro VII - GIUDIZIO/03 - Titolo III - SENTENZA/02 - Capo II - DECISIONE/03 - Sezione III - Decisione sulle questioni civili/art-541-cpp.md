@@ -16,8 +16,8 @@ capo_label: "DECISIONE"
 sezione: "III"
 sezione_label: "Decisione sulle questioni civili"
 rubrica: "Condanna alle spese relative all'azione civile"
-dataVigenza: "20261016"
-ordine: 652
+dataVigenza: "20261102"
+ordine: 653
 ---
 
 # Art. 541 - ***Condanna alle spese relative all'azione civile***

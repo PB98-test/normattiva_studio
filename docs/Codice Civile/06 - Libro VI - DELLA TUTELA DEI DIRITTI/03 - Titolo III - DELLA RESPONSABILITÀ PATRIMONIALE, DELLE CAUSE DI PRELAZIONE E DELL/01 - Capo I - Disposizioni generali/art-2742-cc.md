@@ -14,8 +14,8 @@ capo_label: "Disposizioni generali"
 sezione: null
 sezione_label: null
 rubrica: "Surrogazione dell'indennità alla cosa"
-dataVigenza: "20260914"
-ordine: 3047
+dataVigenza: "20261102"
+ordine: 3048
 ---
 
 # Art. 2742 - ***Surrogazione dell'indennità alla cosa***

@@ -14,8 +14,8 @@ capo_label: "Della prova testimoniale"
 sezione: null
 sezione_label: null
 rubrica: "Prova del pagamento e della remissione"
-dataVigenza: "20260914"
-ordine: 3031
+dataVigenza: "20261102"
+ordine: 3032
 ---
 
 # Art. 2726 - ***Prova del pagamento e della remissione***

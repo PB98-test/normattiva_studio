@@ -16,8 +16,8 @@ capo_label: "EFFETTI DELLE SENTENZE PENALI STRANIERE"
 sezione: null
 sezione_label: null
 rubrica: "Deliberazione della corte di appello"
-dataVigenza: "20261016"
-ordine: 885
+dataVigenza: "20261102"
+ordine: 886
 ---
 
 # Art. 734 - ***Deliberazione della corte di appello***

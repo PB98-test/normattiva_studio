@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "I"
 sezione_label: "Disposizioni generali"
 rubrica: "Ipoteca sul diritto di superficie"
-dataVigenza: "20260914"
-ordine: 3125
+dataVigenza: "20261102"
+ordine: 3126
 ---
 
 # Art. 2816 - ***Ipoteca sul diritto di superficie***

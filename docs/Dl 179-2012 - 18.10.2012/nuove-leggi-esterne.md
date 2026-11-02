@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da Dl 179-2012 - 18.10.2012 ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Dl 179-2012 - 18.10.2012 - 274 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Dl 179-2012 - 18.10.2012 - 279 leggi trovate)*
 
 - [decreto-legge 22 giugno 2012, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2012-06-22;83)
 - [legge 7 agosto 2012, n. 134](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;134)
@@ -84,6 +84,7 @@ search:
 - [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1986-12-22;917)
 - [articolo 17 del decreto legislativo 9 luglio 1997, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1997-07-09;241)
 - [L. 27 dicembre 2013, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-12-27;147)
+- [regolamento (CE) n. 1998/2006](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32006R1998)
 - [D.L. 19 MAGGIO 2020, N. 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2020-05-19;34)
 - [L. 17 LUGLIO 2020, N. 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-07-17;77)
 - [articolo 15, comma 25-bis, di cui al decreto-legge 6 luglio 2012, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2012-07-06;95)
@@ -167,6 +168,7 @@ search:
 - [decreto legislativo 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1998-02-24;58)
 - [articolo 7, comma 3, del decreto-legge 6 dicembre 2011, n. 201](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2011-12-06;201)
 - [legge 22 dicembre 2011, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011-12-22;214)
+- [regolamento (UE) n. 236/2012](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32012R0236)
 - [decreto del Presidente della Repubblica 14 marzo 2001, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-14;144)
 - [articolo 2, commi da 17-octies](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2010-12-29;225)
 - [legge 26 febbraio 2011, n. 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011-02-26;10)
@@ -187,6 +189,7 @@ search:
 - [legge 24 marzo 2015, n. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-03-24;33)
 - [D.LGS. 15 GIUGNO 2015, N. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2015-06-15;81)
 - [L. 30 dicembre 2018, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-30;145)
+- [Regolamento (UE) n. 1407/2013](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32013R1407)
 - [articolo 2, comma 100, lettera a), della legge 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662)
 - [D.Lgs. 13 settembre 2024, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2024-09-13;136)
 - [decreto legislativo n. 163 del 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2006;163)
@@ -237,6 +240,7 @@ search:
 - [ex articoli 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-23;223)
 - [articolo 5, comma 4, della legge n. 223 del 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;223)
 - [legge 24 aprile 1941, n. 392](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-24;392)
+- [decisione 2011/746/UE](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32011D0746)
 - [articolo 11 della legge 15 dicembre 2011, n. 217](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011-12-15;217)
 - [articolo 01, comma 1, lettere b)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:1993-10-05;400)
 - [legge 4 dicembre 1993, n. 494](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;494)
@@ -276,6 +280,7 @@ search:
 - [articolo 4 del decreto-legge 3 novembre 2008, n. 171](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2008-11-03;171)
 - [legge 30 dicembre 2008, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-12-30;205)
 - [delibera CIPE n. 93/2012 del 3 agosto 2012](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:delibera:2012-08-03;93)
+- [regolamento (CE) n. 1083/2006](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32006R1083)
 - [articolo 3 della legge 27 luglio 2000, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-07-27;212)
 - [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-10-26;633)
 - [articolo 32 del decreto legislativo del 3 marzo 2011, n. 28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2011-03-03;28)

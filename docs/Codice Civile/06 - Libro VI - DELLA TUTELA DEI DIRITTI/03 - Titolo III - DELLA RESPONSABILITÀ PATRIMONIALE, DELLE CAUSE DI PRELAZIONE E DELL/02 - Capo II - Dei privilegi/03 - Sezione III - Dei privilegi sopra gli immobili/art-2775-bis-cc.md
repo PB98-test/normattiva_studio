@@ -14,8 +14,8 @@ capo_label: "Dei privilegi"
 sezione: "III"
 sezione_label: "Dei privilegi sopra gli immobili"
 rubrica: "Credito per mancata esecuzione di contratti preliminari"
-dataVigenza: "20260914"
-ordine: 3082
+dataVigenza: "20261102"
+ordine: 3083
 ---
 
 # Art. 2775-bis - ***Credito per mancata esecuzione di contratti preliminari***

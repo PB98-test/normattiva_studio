@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Forma dell'impugnazione"
-dataVigenza: "20261016"
-ordine: 700
+dataVigenza: "20261102"
+ordine: 701
 ---
 
 # Art. 581 - ***Forma dell'impugnazione***

@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "X"
 sezione_label: "Dell'estinzione delle ipoteche"
 rubrica: "Nuova iscrizione dell'ipoteca"
-dataVigenza: "20260914"
-ordine: 3191
+dataVigenza: "20261102"
+ordine: 3192
 ---
 
 # Art. 2881 - ***Nuova iscrizione dell'ipoteca***

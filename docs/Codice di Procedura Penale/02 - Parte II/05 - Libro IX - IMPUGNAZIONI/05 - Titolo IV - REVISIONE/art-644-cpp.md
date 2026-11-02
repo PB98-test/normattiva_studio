@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Riparazione in caso di morte"
-dataVigenza: "20261016"
-ordine: 772
+dataVigenza: "20261102"
+ordine: 773
 ---
 
 # Art. 644 - ***Riparazione in caso di morte***

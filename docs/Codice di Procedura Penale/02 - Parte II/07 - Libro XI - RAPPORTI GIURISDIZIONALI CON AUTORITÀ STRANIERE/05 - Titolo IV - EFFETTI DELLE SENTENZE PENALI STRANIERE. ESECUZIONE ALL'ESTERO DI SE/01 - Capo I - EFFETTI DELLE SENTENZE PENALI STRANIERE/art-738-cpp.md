@@ -16,8 +16,8 @@ capo_label: "EFFETTI DELLE SENTENZE PENALI STRANIERE"
 sezione: null
 sezione_label: null
 rubrica: "Esecuzione conseguente al riconoscimento"
-dataVigenza: "20261016"
-ordine: 892
+dataVigenza: "20261102"
+ordine: 893
 ---
 
 # Art. 738 - ***Esecuzione conseguente al riconoscimento***

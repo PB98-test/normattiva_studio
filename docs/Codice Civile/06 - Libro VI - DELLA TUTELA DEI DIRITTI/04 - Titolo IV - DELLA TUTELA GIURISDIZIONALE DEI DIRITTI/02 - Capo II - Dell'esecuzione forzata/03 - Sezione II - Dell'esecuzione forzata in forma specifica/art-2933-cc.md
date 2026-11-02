@@ -14,8 +14,8 @@ capo_label: "Dell'esecuzione forzata"
 sezione: "II"
 sezione_label: "Dell'esecuzione forzata in forma specifica"
 rubrica: "Esecuzione forzata degli obblighi di non fare"
-dataVigenza: "20260914"
-ordine: 3244
+dataVigenza: "20261102"
+ordine: 3245
 ---
 
 # Art. 2933 - ***Esecuzione forzata degli obblighi di non fare***

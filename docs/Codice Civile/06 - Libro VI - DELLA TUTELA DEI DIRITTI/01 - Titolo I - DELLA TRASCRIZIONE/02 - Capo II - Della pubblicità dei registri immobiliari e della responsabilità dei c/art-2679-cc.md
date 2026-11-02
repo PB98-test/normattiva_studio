@@ -14,8 +14,8 @@ capo_label: "Della pubblicità dei registri immobiliari e della responsabilità 
 sezione: null
 sezione_label: null
 rubrica: "Altri registri da tenersi dal conservatore"
-dataVigenza: "20260914"
-ordine: 2984
+dataVigenza: "20261102"
+ordine: 2985
 ---
 
 # Art. 2679 - ***Altri registri da tenersi dal conservatore***

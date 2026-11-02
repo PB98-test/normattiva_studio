@@ -14,8 +14,8 @@ capo_label: "Della decadenza"
 sezione: null
 sezione_label: null
 rubrica: "Rilievo d'ufficio"
-dataVigenza: "20260914"
-ordine: 3280
+dataVigenza: "20261102"
+ordine: 3281
 ---
 
 # Art. 2969 - ***Rilievo d'ufficio***

@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "I"
 sezione_label: "Disposizioni generali"
 rubrica: "Miglioramenti e accessioni"
-dataVigenza: "20260914"
-ordine: 3120
+dataVigenza: "20261102"
+ordine: 3121
 ---
 
 # Art. 2811 - ***Miglioramenti e accessioni***

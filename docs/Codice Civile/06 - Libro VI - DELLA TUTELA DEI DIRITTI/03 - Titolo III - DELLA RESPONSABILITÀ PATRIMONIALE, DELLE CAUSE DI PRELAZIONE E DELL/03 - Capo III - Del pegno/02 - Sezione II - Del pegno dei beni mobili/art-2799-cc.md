@@ -14,8 +14,8 @@ capo_label: "Del pegno"
 sezione: "II"
 sezione_label: "Del pegno dei beni mobili"
 rubrica: "Indivisibilità del pegno"
-dataVigenza: "20260914"
-ordine: 3108
+dataVigenza: "20261102"
+ordine: 3109
 ---
 
 # Art. 2799 - ***Indivisibilità del pegno***

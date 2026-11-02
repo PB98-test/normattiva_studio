@@ -16,8 +16,8 @@ capo_label: "ESTRADIZIONE PER L'ESTERO"
 sezione: "I"
 sezione_label: "Procedimento"
 rubrica: "Provvedimento di estradizione. Consegna"
-dataVigenza: "20261016"
-ordine: 848
+dataVigenza: "20261102"
+ordine: 849
 ---
 
 # Art. 708 - ***Provvedimento di estradizione. Consegna***

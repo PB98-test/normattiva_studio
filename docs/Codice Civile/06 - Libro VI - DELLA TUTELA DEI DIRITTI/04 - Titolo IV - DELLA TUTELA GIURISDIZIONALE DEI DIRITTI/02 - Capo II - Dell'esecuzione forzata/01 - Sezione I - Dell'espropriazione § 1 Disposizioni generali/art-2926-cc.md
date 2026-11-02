@@ -14,8 +14,8 @@ capo_label: "Dell'esecuzione forzata"
 sezione: "I"
 sezione_label: "Dell'espropriazione § 1 Disposizioni generali"
 rubrica: "Diritti dei terzi sulla cosa assegnata"
-dataVigenza: "20260914"
-ordine: 3236
+dataVigenza: "20261102"
+ordine: 3237
 ---
 
 # Art. 2926 - ***Diritti dei terzi sulla cosa assegnata***

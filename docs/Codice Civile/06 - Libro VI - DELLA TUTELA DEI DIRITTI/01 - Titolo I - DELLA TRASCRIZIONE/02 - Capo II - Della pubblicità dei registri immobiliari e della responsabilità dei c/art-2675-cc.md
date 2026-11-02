@@ -15,8 +15,8 @@ sezione: null
 sezione_label: null
 rubrica: null
 abrogato: true
-dataVigenza: "20260914"
-ordine: 2980
+dataVigenza: "20261102"
+ordine: 2981
 ---
 
 # Art. 2675 - *(Omissis)*

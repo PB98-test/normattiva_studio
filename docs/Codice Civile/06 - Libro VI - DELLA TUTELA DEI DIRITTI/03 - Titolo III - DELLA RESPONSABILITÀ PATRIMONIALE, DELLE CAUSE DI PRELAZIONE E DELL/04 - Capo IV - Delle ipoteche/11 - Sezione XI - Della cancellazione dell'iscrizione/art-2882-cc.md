@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "XI"
 sezione_label: "Della cancellazione dell'iscrizione"
 rubrica: "Formalità per la cancellazione"
-dataVigenza: "20260914"
-ordine: 3192
+dataVigenza: "20261102"
+ordine: 3193
 ---
 
 # Art. 2882 - ***Formalità per la cancellazione***

@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "VII"
 sezione_label: "Degli effetti dell'ipoteca rispetto al terzo acquirente"
 rubrica: "Capacità per il rilascio"
-dataVigenza: "20260914"
-ordine: 3170
+dataVigenza: "20261102"
+ordine: 3171
 ---
 
 # Art. 2860 - ***Capacità per il rilascio***

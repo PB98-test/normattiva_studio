@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "V"
 sezione_label: "Dell'iscrizione e rinnovazione delle ipoteche § 1 Dell'iscrizione"
 rubrica: "Annotazione di cessione, di surrogazione e di altri atti dispositivi del credito"
-dataVigenza: "20260914"
-ordine: 3153
+dataVigenza: "20261102"
+ordine: 3154
 ---
 
 # Art. 2843 - ***Annotazione di cessione, di surrogazione e di altri atti dispositivi del credito***

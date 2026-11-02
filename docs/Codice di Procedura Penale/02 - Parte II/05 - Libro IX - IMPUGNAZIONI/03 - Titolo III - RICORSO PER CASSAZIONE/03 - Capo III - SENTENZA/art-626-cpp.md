@@ -16,8 +16,8 @@ capo_label: "SENTENZA"
 sezione: null
 sezione_label: null
 rubrica: "Effetti della sentenza sui provvedimenti di natura personale o reale"
-dataVigenza: "20261016"
-ordine: 752
+dataVigenza: "20261102"
+ordine: 753
 ---
 
 # Art. 626 - ***Effetti della sentenza sui provvedimenti di natura personale o reale***

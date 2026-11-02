@@ -14,8 +14,8 @@ capo_label: "Della decadenza"
 sezione: null
 sezione_label: null
 rubrica: "Cause che impediscono la decadenza"
-dataVigenza: "20260914"
-ordine: 3277
+dataVigenza: "20261102"
+ordine: 3278
 ---
 
 # Art. 2966 - ***Cause che impediscono la decadenza***

@@ -14,8 +14,8 @@ capo_label: "Dell'esecuzione forzata"
 sezione: "I"
 sezione_label: "Dell'espropriazione § 1 Disposizioni generali"
 rubrica: "Locazioni"
-dataVigenza: "20260914"
-ordine: 3233
+dataVigenza: "20261102"
+ordine: 3234
 ---
 
 # Art. 2923 - ***Locazioni***

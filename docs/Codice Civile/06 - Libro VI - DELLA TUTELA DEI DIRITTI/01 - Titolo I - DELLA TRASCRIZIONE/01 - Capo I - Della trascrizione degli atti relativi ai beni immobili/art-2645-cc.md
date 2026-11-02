@@ -14,8 +14,8 @@ capo_label: "Della trascrizione degli atti relativi ai beni immobili"
 sezione: null
 sezione_label: null
 rubrica: "Altri atti soggetti a trascrizione"
-dataVigenza: "20260914"
-ordine: 2944
+dataVigenza: "20261102"
+ordine: 2945
 ---
 
 # Art. 2645 - ***Altri atti soggetti a trascrizione***

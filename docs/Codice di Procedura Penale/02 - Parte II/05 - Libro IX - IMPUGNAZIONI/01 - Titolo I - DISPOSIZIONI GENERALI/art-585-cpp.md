@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Termini per l'impugnazione"
-dataVigenza: "20261016"
-ordine: 704
+dataVigenza: "20261102"
+ordine: 705
 ---
 
 # Art. 585 - ***Termini per l'impugnazione***

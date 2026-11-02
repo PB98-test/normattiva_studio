@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "V"
 sezione_label: "Dell'iscrizione e rinnovazione delle ipoteche § 1 Dell'iscrizione"
 rubrica: "Somma per cui l'iscrizione è eseguita"
-dataVigenza: "20260914"
-ordine: 3148
+dataVigenza: "20261102"
+ordine: 3149
 ---
 
 # Art. 2838 - ***Somma per cui l'iscrizione è eseguita***

@@ -14,8 +14,8 @@ capo_label: "Del pegno"
 sezione: "II"
 sezione_label: "Del pegno dei beni mobili"
 rubrica: "Forme della vendita"
-dataVigenza: "20260914"
-ordine: 3106
+dataVigenza: "20261102"
+ordine: 3107
 ---
 
 # Art. 2797 - ***Forme della vendita***

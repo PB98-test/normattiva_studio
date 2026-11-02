@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Limiti della revisione"
-dataVigenza: "20261016"
-ordine: 759
+dataVigenza: "20261102"
+ordine: 760
 ---
 
 # Art. 631 - ***Limiti della revisione***

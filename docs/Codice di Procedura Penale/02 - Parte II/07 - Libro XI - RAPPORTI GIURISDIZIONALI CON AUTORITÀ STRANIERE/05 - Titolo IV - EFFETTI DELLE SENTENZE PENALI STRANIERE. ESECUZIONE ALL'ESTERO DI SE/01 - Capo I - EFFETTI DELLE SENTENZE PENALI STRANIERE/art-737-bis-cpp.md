@@ -16,8 +16,8 @@ capo_label: "EFFETTI DELLE SENTENZE PENALI STRANIERE"
 sezione: null
 sezione_label: null
 rubrica: "Indagini e sequestro a fini di confisca"
-dataVigenza: "20261016"
-ordine: 891
+dataVigenza: "20261102"
+ordine: 892
 ---
 
 # Art. 737-bis - ***Indagini e sequestro a fini di confisca***

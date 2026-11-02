@@ -14,8 +14,8 @@ capo_label: "Dei mezzi di conservazione della garanzia patrimoniale"
 sezione: "III"
 sezione_label: "Del sequestro conservativo"
 rubrica: "Effetti"
-dataVigenza: "20260914"
-ordine: 3216
+dataVigenza: "20261102"
+ordine: 3217
 ---
 
 # Art. 2906 - ***Effetti***

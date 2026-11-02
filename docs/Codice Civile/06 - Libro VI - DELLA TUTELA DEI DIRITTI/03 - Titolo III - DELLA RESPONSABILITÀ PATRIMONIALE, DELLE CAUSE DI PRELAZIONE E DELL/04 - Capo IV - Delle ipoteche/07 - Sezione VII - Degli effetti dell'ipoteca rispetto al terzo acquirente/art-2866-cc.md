@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "VII"
 sezione_label: "Degli effetti dell'ipoteca rispetto al terzo acquirente"
 rubrica: "Diritti del terzo nei confronti del debitore e di altri terzi acquirenti"
-dataVigenza: "20260914"
-ordine: 3176
+dataVigenza: "20261102"
+ordine: 3177
 ---
 
 # Art. 2866 - ***Diritti del terzo nei confronti del debitore e di altri terzi acquirenti***

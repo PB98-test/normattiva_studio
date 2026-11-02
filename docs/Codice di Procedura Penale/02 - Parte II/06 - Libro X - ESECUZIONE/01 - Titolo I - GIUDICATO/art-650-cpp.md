@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Esecutività delle sentenze e dei decreti penali"
-dataVigenza: "20261016"
-ordine: 778
+dataVigenza: "20261102"
+ordine: 779
 ---
 
 # Art. 650 - ***Esecutività delle sentenze e dei decreti penali***

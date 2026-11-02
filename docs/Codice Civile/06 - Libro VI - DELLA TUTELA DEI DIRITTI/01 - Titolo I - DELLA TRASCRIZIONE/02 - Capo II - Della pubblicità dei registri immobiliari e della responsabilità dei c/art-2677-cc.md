@@ -14,8 +14,8 @@ capo_label: "Della pubblicità dei registri immobiliari e della responsabilità 
 sezione: null
 sezione_label: null
 rubrica: "Orario per le domande di trascrizione o di iscrizione"
-dataVigenza: "20260914"
-ordine: 2982
+dataVigenza: "20261102"
+ordine: 2983
 ---
 
 # Art. 2677 - ***Orario per le domande di trascrizione o di iscrizione***

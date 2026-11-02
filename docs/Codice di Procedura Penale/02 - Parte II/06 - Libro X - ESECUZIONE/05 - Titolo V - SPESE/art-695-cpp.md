@@ -17,8 +17,8 @@ sezione: null
 sezione_label: null
 rubrica: null
 abrogato: true
-dataVigenza: "20261016"
-ordine: 826
+dataVigenza: "20261102"
+ordine: 827
 ---
 
 # Art. 695 - *(Omissis)*

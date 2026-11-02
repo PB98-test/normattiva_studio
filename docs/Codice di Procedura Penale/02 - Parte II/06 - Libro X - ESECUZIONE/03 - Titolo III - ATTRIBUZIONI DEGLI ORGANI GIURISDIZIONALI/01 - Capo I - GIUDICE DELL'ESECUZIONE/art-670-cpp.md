@@ -16,8 +16,8 @@ capo_label: "GIUDICE DELL'ESECUZIONE"
 sezione: null
 sezione_label: null
 rubrica: "Questioni sul titolo esecutivo"
-dataVigenza: "20261016"
-ordine: 801
+dataVigenza: "20261102"
+ordine: 802
 ---
 
 # Art. 670 - ***Questioni sul titolo esecutivo***

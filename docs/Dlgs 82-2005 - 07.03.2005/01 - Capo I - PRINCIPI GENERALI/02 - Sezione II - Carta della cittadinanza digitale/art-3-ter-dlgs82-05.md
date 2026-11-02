@@ -14,7 +14,7 @@ capo_label: "PRINCIPI GENERALI"
 sezione: "II"
 sezione_label: "Carta della cittadinanza digitale"
 rubrica: "Diritto alla trasparenza e al controllo sugli strumenti digitali"
-dataVigenza: "20261028"
+dataVigenza: "20261102"
 ordine: 5
 ---
 
@@ -54,7 +54,7 @@ ordine: 5
 
 10\. La titolarità del trattamento dei dati contenuti nell'ANPR è attribuita al Ministero dell'interno sotto i profili della conservazione, della comunicazione e dell'adozione delle relative misure di sicurezza; i gestori degli strumenti digitali di cui al comma 2 sono titolari del trattamento di registrazione e aggiornamento dei dati di propria competenza nell'ANPR.
 
-11\. La società di cui all'articolo 83, comma 15, del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, incaricata della realizzazione delle funzionalità dell'ANPR e della gestione della sezione di cui al comma 2 del presente articolo, è nominata responsabile del trattamento ai sensi dell'articolo 28 del regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016.
+11\. La società di cui all'articolo 83, comma 15, del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, incaricata della realizzazione delle funzionalità dell'ANPR e della gestione della sezione di cui al comma 2 del presente articolo, è nominata responsabile del trattamento ai sensi dell'[articolo 28](../../../GDPR%20%28Regolamento%20UE%202016-679%20-%2027.04.2016%29/04%20-%20Capo%20IV%20-%20Titolare%20del%20trattamento%20e%20responsabile%20del%20trattamento/01%20-%20Sezione%201%20-%20Obblighi%20generali/art-28-reg679-16.md) del [regolamento (UE) 2016/679](../../../GDPR%20%28Regolamento%20UE%202016-679%20-%2027.04.2016%29/00%20-%20Indice%20%28reg679-16%29.md) del Parlamento europeo e del Consiglio, del 27 aprile 2016.
 
 12\. Le società che registrano e aggiornano, per conto dei titolari del trattamento, i dati nella sezione dell'ANPR di cui al comma 2, con i dati degli strumenti digitali di cui ai commi 3 e 4, assumono la qualifica di responsabili del trattamento ai sensi dell'[articolo 28 del regolamento (UE) 2016/679](../../../GDPR%20%28Regolamento%20UE%202016-679%20-%2027.04.2016%29/04%20-%20Capo%20IV%20-%20Titolare%20del%20trattamento%20e%20responsabile%20del%20trattamento/01%20-%20Sezione%201%20-%20Obblighi%20generali/art-28-reg679-16.md).
 

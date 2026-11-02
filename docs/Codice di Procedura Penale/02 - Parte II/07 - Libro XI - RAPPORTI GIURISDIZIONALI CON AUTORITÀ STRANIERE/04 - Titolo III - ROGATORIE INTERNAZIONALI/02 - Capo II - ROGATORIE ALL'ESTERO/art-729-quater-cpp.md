@@ -16,8 +16,8 @@ capo_label: "ROGATORIE ALL'ESTERO"
 sezione: null
 sezione_label: null
 rubrica: "Audizione mediante videoconferenza o altra trasmissione audiovisiva"
-dataVigenza: "20261016"
-ordine: 879
+dataVigenza: "20261102"
+ordine: 880
 ---
 
 # Art. 729-quater - ***Audizione mediante videoconferenza o altra trasmissione audiovisiva***

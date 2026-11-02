@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Computo del periodo di messa alla prova dell'imputato in caso di revoca"
-dataVigenza: "20261016"
-ordine: 787
+dataVigenza: "20261102"
+ordine: 788
 ---
 
 # Art. 657-bis - ***Computo del periodo di messa alla prova dell'imputato in caso di revoca***

@@ -16,8 +16,8 @@ capo_label: "riscossione mediante ruolo"
 sezione: null
 sezione_label: null
 rubrica: "Quantificazione dell'importo dovuto"
-dataVigenza: "20261016"
-ordine: 237
+dataVigenza: "20261102"
+ordine: 238
 ---
 
 # Art. 227-bis - ***Quantificazione dell'importo dovuto***

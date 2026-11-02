@@ -14,8 +14,8 @@ capo_label: "Dell'esecuzione forzata"
 sezione: "II"
 sezione_label: "Dell'esecuzione forzata in forma specifica"
 rubrica: "Esecuzione forzata degli obblighi di fare"
-dataVigenza: "20260914"
-ordine: 3242
+dataVigenza: "20261102"
+ordine: 3243
 ---
 
 # Art. 2931 - ***Esecuzione forzata degli obblighi di fare***

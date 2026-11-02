@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Impugnazione della parte civile e del querelante"
-dataVigenza: "20261016"
-ordine: 693
+dataVigenza: "20261102"
+ordine: 694
 ---
 
 # Art. 576 - ***Impugnazione della parte civile e del querelante***

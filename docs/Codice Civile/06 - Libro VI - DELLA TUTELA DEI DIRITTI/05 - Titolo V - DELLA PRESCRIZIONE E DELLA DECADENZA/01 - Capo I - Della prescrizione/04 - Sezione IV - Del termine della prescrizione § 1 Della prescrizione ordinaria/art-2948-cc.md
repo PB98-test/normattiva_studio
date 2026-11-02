@@ -14,8 +14,8 @@ capo_label: "Della prescrizione"
 sezione: "IV"
 sezione_label: "Del termine della prescrizione § 1 Della prescrizione ordinaria"
 rubrica: "Prescrizione di cinque anni"
-dataVigenza: "20260914"
-ordine: 3259
+dataVigenza: "20261102"
+ordine: 3260
 ---
 
 # Art. 2948 - ***Prescrizione di cinque anni***

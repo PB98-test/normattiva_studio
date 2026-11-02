@@ -14,8 +14,8 @@ capo_label: "Dell'esecuzione forzata"
 sezione: "I"
 sezione_label: "Dell'espropriazione § 1 Disposizioni generali"
 rubrica: "Evizione della cosa assegnata"
-dataVigenza: "20260914"
-ordine: 3237
+dataVigenza: "20261102"
+ordine: 3238
 ---
 
 # Art. 2927 - ***Evizione della cosa assegnata***

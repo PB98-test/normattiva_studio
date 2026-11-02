@@ -16,8 +16,8 @@ capo_label: "EFFETTI DELLE SENTENZE PENALI STRANIERE"
 sezione: null
 sezione_label: null
 rubrica: "Riconoscimento delle sentenze penali straniere per gli effetti civili"
-dataVigenza: "20261016"
-ordine: 883
+dataVigenza: "20261102"
+ordine: 884
 ---
 
 # Art. 732 - ***Riconoscimento delle sentenze penali straniere per gli effetti civili***

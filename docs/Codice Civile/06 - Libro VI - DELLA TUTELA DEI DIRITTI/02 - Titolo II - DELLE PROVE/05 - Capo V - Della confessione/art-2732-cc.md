@@ -14,8 +14,8 @@ capo_label: "Della confessione"
 sezione: null
 sezione_label: null
 rubrica: "Revoca della confessione"
-dataVigenza: "20260914"
-ordine: 3037
+dataVigenza: "20261102"
+ordine: 3038
 ---
 
 # Art. 2732 - ***Revoca della confessione***

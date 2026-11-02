@@ -14,8 +14,8 @@ capo_label: "Della prescrizione"
 sezione: "IV"
 sezione_label: "Del termine della prescrizione § 1 Della prescrizione ordinaria"
 rubrica: "Ammissioni di colui che oppone la prescrizione"
-dataVigenza: "20260914"
-ordine: 3270
+dataVigenza: "20261102"
+ordine: 3271
 ---
 
 # Art. 2959 - ***Ammissioni di colui che oppone la prescrizione***

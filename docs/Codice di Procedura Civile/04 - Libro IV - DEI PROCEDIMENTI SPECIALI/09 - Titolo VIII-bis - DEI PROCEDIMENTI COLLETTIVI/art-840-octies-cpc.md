@@ -14,7 +14,7 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Progetto dei diritti individuali omogenei degli aderenti"
-dataVigenza: "20261016"
+dataVigenza: "20261102"
 ordine: 1048
 ---
 
@@ -35,7 +35,7 @@ Il rappresentante comune, entro sessanta giorni dalla scadenza del termine di cu
 Il giudice delegato, con decreto motivato, quando accoglie in tutto o in parte la domanda di adesione, condanna il resistente al pagamento delle somme o delle cose dovute a ciascun aderente a titolo di risarcimento o di restituzione. Il provvedimento costituisce titolo esecutivo ed è comunicato al resistente, agli aderenti, al rappresentante comune e ai difensori di cui all'articolo 840-novies, sesto e settimo comma.
 {: data-comma="5" }
 
-A favore del difensore di cui l'aderente si sia avvalso è dovuto un compenso determinato con decreto del Ministro della giustizia, adottato a norma dell'articolo 13, comma 6, della legge 31 dicembre 2012, n. 247.
+A favore del difensore di cui l'aderente si sia avvalso è dovuto un compenso determinato con decreto del Ministro della giustizia, adottato a norma dell'[articolo 13](../../../Legge%20professionale%20forense%20%28L%20247-2012%20-%2031.12.2012%29/01%20-%20Titolo%20I%20-%20DISPOSIZIONI%20GENERALI/art-13-l247-12.md), comma 6, della legge 31 dicembre 2012, n. 247.
 {: data-comma="6" }
 
 [^agg-159]  [^agg-160]  [^agg-163]  [^agg-162]

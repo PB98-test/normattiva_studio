@@ -16,8 +16,8 @@ capo_label: "ROGATORIE DALL'ESTERO"
 sezione: null
 sezione_label: null
 rubrica: "Audizione mediante teleconferenza"
-dataVigenza: "20261016"
-ordine: 873
+dataVigenza: "20261102"
+ordine: 874
 ---
 
 # Art. 726-sexies - ***Audizione mediante teleconferenza***

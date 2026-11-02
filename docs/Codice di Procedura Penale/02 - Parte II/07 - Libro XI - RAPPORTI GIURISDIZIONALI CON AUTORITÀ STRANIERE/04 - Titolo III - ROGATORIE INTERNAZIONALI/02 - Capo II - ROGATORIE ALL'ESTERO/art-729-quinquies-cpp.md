@@ -16,8 +16,8 @@ capo_label: "ROGATORIE ALL'ESTERO"
 sezione: null
 sezione_label: null
 rubrica: "Squadre investigative comuni"
-dataVigenza: "20261016"
-ordine: 880
+dataVigenza: "20261102"
+ordine: 881
 ---
 
 # Art. 729-quinquies - ***Squadre investigative comuni***

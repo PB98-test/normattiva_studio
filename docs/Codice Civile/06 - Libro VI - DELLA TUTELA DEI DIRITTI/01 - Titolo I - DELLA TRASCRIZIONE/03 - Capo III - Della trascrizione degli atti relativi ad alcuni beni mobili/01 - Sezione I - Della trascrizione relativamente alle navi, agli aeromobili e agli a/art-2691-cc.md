@@ -14,8 +14,8 @@ capo_label: "Della trascrizione degli atti relativi ad alcuni beni mobili"
 sezione: "I"
 sezione_label: "Della trascrizione relativamente alle navi, agli aeromobili e agli autoveicoli"
 rubrica: "Altre domande e atti soggetti a trascrizione"
-dataVigenza: "20260914"
-ordine: 2996
+dataVigenza: "20261102"
+ordine: 2997
 ---
 
 # Art. 2691 - ***Altre domande e atti soggetti a trascrizione***

@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da TU Stupefacenti (Dpr 309-1990 - 09.10.1990) ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di TU Stupefacenti (Dpr 309-1990 - 09.10.1990) - 64 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di TU Stupefacenti (Dpr 309-1990 - 09.10.1990) - 69 leggi trovate)*
 
 - [art. 37 della legge 26 giugno 1990, n. 162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-26;162)
 - [legge 22 dicembre 1975, n. 685](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-12-22;685)
@@ -25,6 +25,7 @@ search:
 - [L.16 MAGGIO 2014, N. 79](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-05-16;79)
 - [decreto legislativo 29 ottobre 1999, n. 419](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1999-10-29;419)
 - [legge 15 gennaio 1991, n. 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-01-15;16)
+- [regolamento (UE) 2023/1322](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32023R1322)
 - [D.L. 20 marzo 2014, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2014-03-20;36)
 - [articolo 144 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regiodecreto:1934-07-27;1265)
 - [regio decreto 27 luglio 1934, n. 126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regiodecreto:1934-07-27;126)
@@ -39,6 +40,10 @@ search:
 - [D.Lgs. 7 ottobre 2024, n. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2024-10-07;156)
 - [decreto legislativo 24 aprile 2006, n. 219](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2006-04-24;219)
 - [decreto legislativo 7 dicembre 2023, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2023-12-07;218)
+- [regolamento (CE) n. 273/2004](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32004R0273)
+- [regolamento delegato (UE) 2015/1011](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32015R1011)
+- [regolamento (CE) n. 1277/2005](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32005R1277)
+- [regolamento (CE) n. 1227/2005](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32005R1227)
 - [D.LGS. 24 MARZO 2011, N. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2011-03-24;50)
 - [articolo 54 del decreto legislativo n. 274 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2000;274)
 - [art. 73 del d.P.R. n. 309 del 1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1990;309)

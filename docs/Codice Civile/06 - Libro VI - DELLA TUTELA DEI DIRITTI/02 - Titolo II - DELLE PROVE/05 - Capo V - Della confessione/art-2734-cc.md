@@ -14,8 +14,8 @@ capo_label: "Della confessione"
 sezione: null
 sezione_label: null
 rubrica: "Dichiarazioni aggiunte alla confessione"
-dataVigenza: "20260914"
-ordine: 3039
+dataVigenza: "20261102"
+ordine: 3040
 ---
 
 # Art. 2734 - ***Dichiarazioni aggiunte alla confessione***

@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "XII"
 sezione_label: "Del modo di liberare i beni dalle ipoteche"
 rubrica: "Notificazione"
-dataVigenza: "20260914"
-ordine: 3200
+dataVigenza: "20261102"
+ordine: 3201
 ---
 
 # Art. 2890 - ***Notificazione***

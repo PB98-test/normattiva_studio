@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Decisione sugli effetti civili nel caso di estinzione del reato per amnistia o per prescrizione e nel caso di improcedibilità per superamento dei termini di durata massima del giudizio di impugnazione"
-dataVigenza: "20261016"
-ordine: 695
+dataVigenza: "20261102"
+ordine: 696
 ---
 
 # Art. 578 - ***Decisione sugli effetti civili nel caso di estinzione del reato per amnistia o per prescrizione e nel caso di improcedibilità per superamento dei termini di durata massima del giudizio di impugnazione***

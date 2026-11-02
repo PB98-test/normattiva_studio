@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Giudizio immediato"
-dataVigenza: "20261016"
-ordine: 675
+dataVigenza: "20261102"
+ordine: 676
 ---
 
 # Art. 558-bis - ***Giudizio immediato***

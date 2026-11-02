@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Impugnazione di ordinanze emesse nel dibattimento"
-dataVigenza: "20261016"
-ordine: 705
+dataVigenza: "20261102"
+ordine: 706
 ---
 
 # Art. 586 - ***Impugnazione di ordinanze emesse nel dibattimento***

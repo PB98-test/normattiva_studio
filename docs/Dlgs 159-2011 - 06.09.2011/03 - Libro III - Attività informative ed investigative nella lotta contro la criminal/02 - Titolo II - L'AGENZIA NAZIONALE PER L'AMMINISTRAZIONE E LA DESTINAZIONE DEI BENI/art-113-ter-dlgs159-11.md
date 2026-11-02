@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Incarichi speciali"
-dataVigenza: "20261016"
-ordine: 132
+dataVigenza: "20261102"
+ordine: 134
 ---
 
 # Art. 113-ter - ***Incarichi speciali***

@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "XII"
 sezione_label: "Del modo di liberare i beni dalle ipoteche"
 rubrica: "Facoltà di liberare i beni dalle ipoteche"
-dataVigenza: "20260914"
-ordine: 3199
+dataVigenza: "20261102"
+ordine: 3200
 ---
 
 # Art. 2889 - ***Facoltà di liberare i beni dalle ipoteche***

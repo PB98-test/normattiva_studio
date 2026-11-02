@@ -14,8 +14,8 @@ capo_label: "Dell'esecuzione forzata"
 sezione: "I"
 sezione_label: "Dell'espropriazione § 1 Disposizioni generali"
 rubrica: "Diritti di terzi sulla cosa mobile venduta"
-dataVigenza: "20260914"
-ordine: 3230
+dataVigenza: "20261102"
+ordine: 3231
 ---
 
 # Art. 2920 - ***Diritti di terzi sulla cosa mobile venduta***

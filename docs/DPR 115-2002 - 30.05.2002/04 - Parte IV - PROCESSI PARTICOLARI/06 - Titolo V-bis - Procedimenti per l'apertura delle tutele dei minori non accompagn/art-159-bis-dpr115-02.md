@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Disposizioni speciali per i procedimenti per l'apertura delle tutele dei minori non accompagnati"
-dataVigenza: "20261016"
-ordine: 167
+dataVigenza: "20261102"
+ordine: 168
 ---
 
 # Art. 159-bis - ***Disposizioni speciali per i procedimenti per l'apertura delle tutele dei minori non accompagnati***

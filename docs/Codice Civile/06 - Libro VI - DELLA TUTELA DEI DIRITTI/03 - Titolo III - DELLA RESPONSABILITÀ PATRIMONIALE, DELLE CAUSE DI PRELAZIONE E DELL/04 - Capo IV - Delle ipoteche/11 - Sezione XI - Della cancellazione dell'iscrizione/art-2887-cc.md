@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "XI"
 sezione_label: "Della cancellazione dell'iscrizione"
 rubrica: "Cancellazione delle ipoteche a garanzia dei titoli all'ordine"
-dataVigenza: "20260914"
-ordine: 3197
+dataVigenza: "20261102"
+ordine: 3198
 ---
 
 # Art. 2887 - ***Cancellazione delle ipoteche a garanzia dei titoli all'ordine***

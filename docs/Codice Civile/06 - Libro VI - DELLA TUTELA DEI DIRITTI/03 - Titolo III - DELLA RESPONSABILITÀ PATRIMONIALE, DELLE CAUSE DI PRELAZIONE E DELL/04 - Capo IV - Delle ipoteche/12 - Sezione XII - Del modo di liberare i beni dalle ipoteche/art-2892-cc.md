@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "XII"
 sezione_label: "Del modo di liberare i beni dalle ipoteche"
 rubrica: "Divieto di proroga dei termini"
-dataVigenza: "20260914"
-ordine: 3202
+dataVigenza: "20261102"
+ordine: 3203
 ---
 
 # Art. 2892 - ***Divieto di proroga dei termini***

@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Norme applicabili al procedimento davanti al tribunale in composizione monocratica"
-dataVigenza: "20261016"
-ordine: 661
+dataVigenza: "20261102"
+ordine: 662
 ---
 
 # Art. 549 - ***Norme applicabili al procedimento davanti al tribunale in composizione monocratica***

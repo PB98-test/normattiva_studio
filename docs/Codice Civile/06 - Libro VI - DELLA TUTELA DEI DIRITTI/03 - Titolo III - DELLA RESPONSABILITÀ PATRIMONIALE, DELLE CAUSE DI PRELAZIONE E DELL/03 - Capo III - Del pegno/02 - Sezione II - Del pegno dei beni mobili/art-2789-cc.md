@@ -14,8 +14,8 @@ capo_label: "Del pegno"
 sezione: "II"
 sezione_label: "Del pegno dei beni mobili"
 rubrica: "Rivendicazione della cosa da parte del creditore pignoratizio"
-dataVigenza: "20260914"
-ordine: 3098
+dataVigenza: "20261102"
+ordine: 3099
 ---
 
 # Art. 2789 - ***Rivendicazione della cosa da parte del creditore pignoratizio***

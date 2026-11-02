@@ -14,8 +14,8 @@ capo_label: "Della prova documentale"
 sezione: "III"
 sezione_label: "Delle scritture contabili delle imprese soggette a registrazione"
 rubrica: "Comunicazione ed esibizione"
-dataVigenza: "20260914"
-ordine: 3016
+dataVigenza: "20261102"
+ordine: 3017
 ---
 
 # Art. 2711 - ***Comunicazione ed esibizione***

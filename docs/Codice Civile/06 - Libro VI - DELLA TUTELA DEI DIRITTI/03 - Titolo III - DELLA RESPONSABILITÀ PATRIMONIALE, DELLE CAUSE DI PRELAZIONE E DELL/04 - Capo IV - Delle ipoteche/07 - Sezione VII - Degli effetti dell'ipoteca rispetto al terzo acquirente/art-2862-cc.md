@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "VII"
 sezione_label: "Degli effetti dell'ipoteca rispetto al terzo acquirente"
 rubrica: "Ipoteche e altri diritti reali a carico e a favore del terzo"
-dataVigenza: "20260914"
-ordine: 3172
+dataVigenza: "20261102"
+ordine: 3173
 ---
 
 # Art. 2862 - ***Ipoteche e altri diritti reali a carico e a favore del terzo***

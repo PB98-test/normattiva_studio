@@ -14,8 +14,8 @@ capo_label: "Della trascrizione degli atti relativi ad alcuni beni mobili"
 sezione: "I"
 sezione_label: "Della trascrizione relativamente alle navi, agli aeromobili e agli autoveicoli"
 rubrica: "Domande relative ad atti soggetti a trascrizione"
-dataVigenza: "20261016"
-ordine: 2995
+dataVigenza: "20261102"
+ordine: 2996
 ---
 
 # Art. 2690 - ***Domande relative ad atti soggetti a trascrizione***

@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "VI"
 sezione_label: "Dell'ordine delle ipoteche"
 rubrica: "Limiti della surrogazione"
-dataVigenza: "20260914"
-ordine: 3167
+dataVigenza: "20261102"
+ordine: 3168
 ---
 
 # Art. 2857 - ***Limiti della surrogazione***

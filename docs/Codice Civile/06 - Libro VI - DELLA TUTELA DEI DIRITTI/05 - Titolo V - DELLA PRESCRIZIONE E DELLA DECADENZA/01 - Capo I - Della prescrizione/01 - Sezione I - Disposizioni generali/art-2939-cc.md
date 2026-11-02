@@ -14,8 +14,8 @@ capo_label: "Della prescrizione"
 sezione: "I"
 sezione_label: "Disposizioni generali"
 rubrica: "Opponibilità della prescrizione da parte dei terzi"
-dataVigenza: "20260914"
-ordine: 3250
+dataVigenza: "20261102"
+ordine: 3251
 ---
 
 # Art. 2939 - ***Opponibilità della prescrizione da parte dei terzi***

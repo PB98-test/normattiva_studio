@@ -16,8 +16,8 @@ capo_label: "ESTRADIZIONE PER L'ESTERO"
 sezione: "I"
 sezione_label: "Procedimento"
 rubrica: "Documenti a sostegno della domanda"
-dataVigenza: "20261016"
-ordine: 840
+dataVigenza: "20261102"
+ordine: 841
 ---
 
 # Art. 700 - ***Documenti a sostegno della domanda***

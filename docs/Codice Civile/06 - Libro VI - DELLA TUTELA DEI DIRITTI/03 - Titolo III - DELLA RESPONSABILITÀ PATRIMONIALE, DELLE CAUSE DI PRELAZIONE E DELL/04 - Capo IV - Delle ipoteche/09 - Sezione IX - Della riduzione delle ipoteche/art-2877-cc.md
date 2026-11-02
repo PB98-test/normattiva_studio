@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "IX"
 sezione_label: "Della riduzione delle ipoteche"
 rubrica: "Spese della riduzione"
-dataVigenza: "20260914"
-ordine: 3187
+dataVigenza: "20261102"
+ordine: 3188
 ---
 
 # Art. 2877 - ***Spese della riduzione***

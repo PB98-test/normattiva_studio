@@ -14,8 +14,8 @@ capo_label: "Del pegno"
 sezione: "II"
 sezione_label: "Del pegno dei beni mobili"
 rubrica: "Prelazione del creditore pignoratizio"
-dataVigenza: "20260914"
-ordine: 3096
+dataVigenza: "20261102"
+ordine: 3097
 ---
 
 # Art. 2787 - ***Prelazione del creditore pignoratizio***

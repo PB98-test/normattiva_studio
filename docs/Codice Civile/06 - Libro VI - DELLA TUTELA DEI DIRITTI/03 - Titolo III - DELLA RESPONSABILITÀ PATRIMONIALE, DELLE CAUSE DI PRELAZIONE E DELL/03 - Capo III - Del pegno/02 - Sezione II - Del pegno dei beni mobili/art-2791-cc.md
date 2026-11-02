@@ -14,8 +14,8 @@ capo_label: "Del pegno"
 sezione: "II"
 sezione_label: "Del pegno dei beni mobili"
 rubrica: "Pegno di cosa fruttifera"
-dataVigenza: "20260914"
-ordine: 3100
+dataVigenza: "20261102"
+ordine: 3101
 ---
 
 # Art. 2791 - ***Pegno di cosa fruttifera***

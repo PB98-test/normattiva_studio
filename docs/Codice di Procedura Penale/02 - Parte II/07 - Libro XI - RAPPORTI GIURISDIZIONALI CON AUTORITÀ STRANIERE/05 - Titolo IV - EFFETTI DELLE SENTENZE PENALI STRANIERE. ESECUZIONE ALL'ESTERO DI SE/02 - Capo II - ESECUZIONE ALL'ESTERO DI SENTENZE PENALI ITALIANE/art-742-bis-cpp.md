@@ -16,8 +16,8 @@ capo_label: "ESECUZIONE ALL'ESTERO DI SENTENZE PENALI ITALIANE"
 sezione: null
 sezione_label: null
 rubrica: "Poteri del Ministro della giustizia in materia di esecuzione della decisione nello Stato estero"
-dataVigenza: "20261016"
-ordine: 899
+dataVigenza: "20261102"
+ordine: 900
 ---
 
 # Art. 742-bis - ***Poteri del Ministro della giustizia in materia di esecuzione della decisione nello Stato estero***

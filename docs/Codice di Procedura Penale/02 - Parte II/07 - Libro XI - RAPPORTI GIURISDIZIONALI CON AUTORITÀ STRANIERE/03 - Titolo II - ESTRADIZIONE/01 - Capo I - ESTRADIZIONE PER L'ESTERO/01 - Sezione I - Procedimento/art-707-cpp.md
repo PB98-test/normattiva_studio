@@ -16,8 +16,8 @@ capo_label: "ESTRADIZIONE PER L'ESTERO"
 sezione: "I"
 sezione_label: "Procedimento"
 rubrica: "Rinnovo della domanda di estradizione"
-dataVigenza: "20261016"
-ordine: 847
+dataVigenza: "20261102"
+ordine: 848
 ---
 
 # Art. 707 - ***Rinnovo della domanda di estradizione***

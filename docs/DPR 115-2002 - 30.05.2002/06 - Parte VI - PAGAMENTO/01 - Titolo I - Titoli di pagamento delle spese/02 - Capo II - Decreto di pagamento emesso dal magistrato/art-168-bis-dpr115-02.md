@@ -16,8 +16,8 @@ capo_label: "Decreto di pagamento emesso dal magistrato"
 sezione: null
 sezione_label: null
 rubrica: "L"
-dataVigenza: "20261016"
-ordine: 177
+dataVigenza: "20261102"
+ordine: 178
 ---
 
 # Art. 168-bis - ***L***

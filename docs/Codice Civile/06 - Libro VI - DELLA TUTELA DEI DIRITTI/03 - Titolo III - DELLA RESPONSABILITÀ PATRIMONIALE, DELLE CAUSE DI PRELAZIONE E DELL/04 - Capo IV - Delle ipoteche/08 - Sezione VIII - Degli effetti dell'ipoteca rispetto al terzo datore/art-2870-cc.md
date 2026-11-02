@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "VIII"
 sezione_label: "Degli effetti dell'ipoteca rispetto al terzo datore"
 rubrica: "Eccezioni opponibili dal terzo datore"
-dataVigenza: "20260914"
-ordine: 3180
+dataVigenza: "20261102"
+ordine: 3181
 ---
 
 # Art. 2870 - ***Eccezioni opponibili dal terzo datore***

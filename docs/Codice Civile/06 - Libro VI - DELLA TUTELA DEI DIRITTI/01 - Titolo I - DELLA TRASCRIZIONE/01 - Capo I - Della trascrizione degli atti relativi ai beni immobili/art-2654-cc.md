@@ -14,8 +14,8 @@ capo_label: "Della trascrizione degli atti relativi ai beni immobili"
 sezione: null
 sezione_label: null
 rubrica: "Annotazione di domande o atti soggetti a trascrizione"
-dataVigenza: "20261016"
-ordine: 2956
+dataVigenza: "20261102"
+ordine: 2957
 ---
 
 # Art. 2654 - ***Annotazione di domande o atti soggetti a trascrizione***

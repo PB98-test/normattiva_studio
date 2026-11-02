@@ -14,8 +14,8 @@ capo_label: "Della prova documentale"
 sezione: "VI"
 sezione_label: "Delle copie degli atti"
 rubrica: "Copie di atti pubblici"
-dataVigenza: "20260914"
-ordine: 3019
+dataVigenza: "20261102"
+ordine: 3020
 ---
 
 # Art. 2714 - ***Copie di atti pubblici***

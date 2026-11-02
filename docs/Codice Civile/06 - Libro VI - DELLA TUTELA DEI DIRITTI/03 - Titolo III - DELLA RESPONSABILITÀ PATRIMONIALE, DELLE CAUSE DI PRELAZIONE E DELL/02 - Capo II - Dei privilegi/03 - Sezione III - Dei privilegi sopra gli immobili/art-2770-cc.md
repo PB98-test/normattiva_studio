@@ -14,8 +14,8 @@ capo_label: "Dei privilegi"
 sezione: "III"
 sezione_label: "Dei privilegi sopra gli immobili"
 rubrica: "Crediti per atti conservativi o di espropriazione"
-dataVigenza: "20260914"
-ordine: 3076
+dataVigenza: "20261102"
+ordine: 3077
 ---
 
 # Art. 2770 - ***Crediti per atti conservativi o di espropriazione***

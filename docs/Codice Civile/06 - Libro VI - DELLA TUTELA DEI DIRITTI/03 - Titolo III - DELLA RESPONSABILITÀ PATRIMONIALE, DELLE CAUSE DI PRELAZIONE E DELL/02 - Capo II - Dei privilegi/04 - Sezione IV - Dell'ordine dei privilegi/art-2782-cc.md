@@ -14,8 +14,8 @@ capo_label: "Dei privilegi"
 sezione: "IV"
 sezione_label: "Dell'ordine dei privilegi"
 rubrica: "Concorso di crediti egualmente privilegiati"
-dataVigenza: "20260914"
-ordine: 3089
+dataVigenza: "20261102"
+ordine: 3090
 ---
 
 # Art. 2782 - ***Concorso di crediti egualmente privilegiati***

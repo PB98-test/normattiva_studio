@@ -17,8 +17,8 @@ sezione: null
 sezione_label: null
 rubrica: null
 abrogato: true
-dataVigenza: "20261016"
-ordine: 694
+dataVigenza: "20261102"
+ordine: 695
 ---
 
 # Art. 577 - *(Omissis)*

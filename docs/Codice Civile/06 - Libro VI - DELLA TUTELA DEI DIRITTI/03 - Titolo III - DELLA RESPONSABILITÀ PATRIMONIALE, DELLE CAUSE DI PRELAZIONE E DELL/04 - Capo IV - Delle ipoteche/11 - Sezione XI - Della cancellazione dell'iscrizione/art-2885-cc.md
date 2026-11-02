@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "XI"
 sezione_label: "Della cancellazione dell'iscrizione"
 rubrica: "Cancellazione sotto condizione"
-dataVigenza: "20260914"
-ordine: 3195
+dataVigenza: "20261102"
+ordine: 3196
 ---
 
 # Art. 2885 - ***Cancellazione sotto condizione***

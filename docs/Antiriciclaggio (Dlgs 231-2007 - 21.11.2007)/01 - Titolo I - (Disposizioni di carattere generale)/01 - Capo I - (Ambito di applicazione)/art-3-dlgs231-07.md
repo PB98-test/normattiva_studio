@@ -14,7 +14,7 @@ capo_label: "(Ambito di applicazione)"
 sezione: null
 sezione_label: null
 rubrica: "Soggetti obbligati"
-dataVigenza: "20261016"
+dataVigenza: "20261102"
 ordine: 3
 ---
 
@@ -44,7 +44,7 @@ ordine: 3
 - t) le succursali insediate di intermediari bancari e finanziari di cui al presente comma, aventi sede legale e amministrazione centrale in un altro Stato membro o in uno Stato terzo;
 - u) gli intermediari bancari e finanziari di cui al presente comma aventi sede legale e amministrazione centrale in un altro Stato membro, stabiliti senza succursale sul territorio della Repubblica italiana;
 - v) i consulenti finanziari di cui all'articolo 18-bis TUF e le società di consulenza finanziaria di cui all'articolo 18-ter TUF; [^agg-23]
-- v-bis) i prestatori di servizi per le cripto-attività come definiti all'[articolo 3](art-3-dlgs231-07.md), paragrafo 1, punto 15), del regolamento (UE) 2023/1114, autorizzati in Italia alla prestazione di tali servizi, ad eccezione del servizio di consulenza sulle cripto-attività.
+- v-bis) i prestatori di servizi per le cripto-attività come definiti all'articolo 3, paragrafo 1, punto 15), del regolamento (UE) 2023/1114, autorizzati in Italia alla prestazione di tali servizi, ad eccezione del servizio di consulenza sulle cripto-attività.
 - v-ter) le società di partenariato in gestione interna come definite dall'[articolo 1](art-1-dlgs231-07.md), comma 1, lettera i-quater.2), del TUF.
 
 2-bis. Nelle operazioni di cartolarizzazione di crediti, gli intermediari bancari e finanziari di cui al comma 2, incaricati della riscossione dei crediti ceduti, dei servizi di cassa e di pagamento e delle verifiche di conformità provvedono all'adempimento degli obblighi di cui al presente decreto anche nei confronti dei debitori ceduti alle società per la cartolarizzazione dei crediti nonchè dei sottoscrittori dei titoli emessi dalle medesime società.

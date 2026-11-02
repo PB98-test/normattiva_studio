@@ -14,8 +14,8 @@ capo_label: "Delle presunzioni"
 sezione: null
 sezione_label: null
 rubrica: "Prova contro le presunzioni legali"
-dataVigenza: "20260914"
-ordine: 3033
+dataVigenza: "20261102"
+ordine: 3034
 ---
 
 # Art. 2728 - ***Prova contro le presunzioni legali***

@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da L. 197-2022 - 29.12.2022 ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di L. 197-2022 - 29.12.2022 - 487 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di L. 197-2022 - 29.12.2022 - 495 leggi trovate)*
 
 - [articolo 21, comma 1-ter, lettera a), della legge 31 dicembre 2009, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196)
 - [articolo 17 del decreto legislativo 9 luglio 1997, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1997-07-09;241)
@@ -464,6 +464,14 @@ search:
 - [decreto del Presidente della Repubblica 28 dicembre 2000, n. 44](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;44)
 - [decreto del Presidente della Repubblica 29 settembre 1973, n. 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-09-29;6)
 - [decreto legislativo luogotenenziale 28 settembre 1944, n. 359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1944-09-28;359)
+- [regolamento (UE) 2015/1589](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32015R1589)
+- [regolamento (UE) n. 1408/2013](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32013R1408)
+- [regolamento (UE) 2023/2831](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32023R2831)
+- [regolamento (UE) n. 717/2014](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32014R0717)
+- [regolamento (CE) n. 1315/2013](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32013R1315)
+- [regolamento (CE) n. 794/2004](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32004R0794)
+- [regolamento (UE) n. 1407/2013](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32013R1407)
+- [decisione di esecuzione (UE) 2022/382](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32022D0382)
 - [articolo 12, comma 3, lettera b), del decreto legislativo 30 dicembre 1992, n. 502](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1992-12-30;502)
 - [articolo 9, comma 4, della legge 1° dicembre 1986, n. 831](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-01;831)
 - [articolo 1, comma 7, della legge 17 maggio 1999, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-05-17;144)

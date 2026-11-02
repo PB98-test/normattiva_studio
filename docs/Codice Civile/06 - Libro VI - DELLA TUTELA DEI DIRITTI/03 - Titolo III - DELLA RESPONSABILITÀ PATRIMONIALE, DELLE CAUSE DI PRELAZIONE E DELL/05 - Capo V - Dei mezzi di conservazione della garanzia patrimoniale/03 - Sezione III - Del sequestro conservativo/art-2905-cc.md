@@ -14,8 +14,8 @@ capo_label: "Dei mezzi di conservazione della garanzia patrimoniale"
 sezione: "III"
 sezione_label: "Del sequestro conservativo"
 rubrica: "Sequestro nei confronti del debitore o del terzo"
-dataVigenza: "20260914"
-ordine: 3215
+dataVigenza: "20261102"
+ordine: 3216
 ---
 
 # Art. 2905 - ***Sequestro nei confronti del debitore o del terzo***

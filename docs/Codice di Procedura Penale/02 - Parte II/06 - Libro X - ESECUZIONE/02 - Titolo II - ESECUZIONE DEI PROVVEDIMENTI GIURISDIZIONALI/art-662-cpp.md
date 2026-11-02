@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Esecuzione delle pene accessorie"
-dataVigenza: "20261016"
-ordine: 793
+dataVigenza: "20261102"
+ordine: 794
 ---
 
 # Art. 662 - ***Esecuzione delle pene accessorie***

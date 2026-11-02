@@ -14,8 +14,8 @@ capo_label: "Dei mezzi di conservazione della garanzia patrimoniale"
 sezione: "II"
 sezione_label: "Dell'azione revocatoria"
 rubrica: "Effetti"
-dataVigenza: "20260914"
-ordine: 3212
+dataVigenza: "20261102"
+ordine: 3213
 ---
 
 # Art. 2902 - ***Effetti***

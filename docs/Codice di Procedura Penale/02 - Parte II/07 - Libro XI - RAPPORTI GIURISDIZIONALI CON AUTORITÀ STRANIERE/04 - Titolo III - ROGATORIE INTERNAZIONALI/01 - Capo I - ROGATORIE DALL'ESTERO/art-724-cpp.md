@@ -16,8 +16,8 @@ capo_label: "ROGATORIE DALL'ESTERO"
 sezione: null
 sezione_label: null
 rubrica: "Procedimento di esecuzione"
-dataVigenza: "20261016"
-ordine: 866
+dataVigenza: "20261102"
+ordine: 867
 ---
 
 # Art. 724 - ***Procedimento di esecuzione***

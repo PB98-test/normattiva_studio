@@ -14,8 +14,8 @@ capo_label: "Dell'esecuzione forzata"
 sezione: "I"
 sezione_label: "Dell'espropriazione § 1 Disposizioni generali"
 rubrica: "Alienazioni anteriori al pignoramento"
-dataVigenza: "20260914"
-ordine: 3224
+dataVigenza: "20261102"
+ordine: 3225
 ---
 
 # Art. 2914 - ***Alienazioni anteriori al pignoramento***

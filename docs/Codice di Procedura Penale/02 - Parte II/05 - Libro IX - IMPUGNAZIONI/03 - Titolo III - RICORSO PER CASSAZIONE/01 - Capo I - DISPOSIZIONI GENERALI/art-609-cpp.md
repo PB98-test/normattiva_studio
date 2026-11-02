@@ -16,8 +16,8 @@ capo_label: "DISPOSIZIONI GENERALI"
 sezione: null
 sezione_label: null
 rubrica: "Cognizione della corte di cassazione"
-dataVigenza: "20261016"
-ordine: 732
+dataVigenza: "20261102"
+ordine: 733
 ---
 
 # Art. 609 - ***Cognizione della corte di cassazione***

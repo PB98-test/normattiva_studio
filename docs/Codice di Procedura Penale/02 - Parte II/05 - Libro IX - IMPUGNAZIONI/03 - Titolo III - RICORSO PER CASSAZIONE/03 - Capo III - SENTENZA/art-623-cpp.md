@@ -16,8 +16,8 @@ capo_label: "SENTENZA"
 sezione: null
 sezione_label: null
 rubrica: "Annullamento con rinvio"
-dataVigenza: "20261016"
-ordine: 746
+dataVigenza: "20261102"
+ordine: 747
 ---
 
 # Art. 623 - ***Annullamento con rinvio***

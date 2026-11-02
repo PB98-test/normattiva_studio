@@ -14,8 +14,8 @@ capo_label: "Della decadenza"
 sezione: null
 sezione_label: null
 rubrica: "Inapplicabilità di regole della prescrizione"
-dataVigenza: "20260914"
-ordine: 3275
+dataVigenza: "20261102"
+ordine: 3276
 ---
 
 # Art. 2964 - ***Inapplicabilità di regole della prescrizione***

@@ -14,8 +14,8 @@ capo_label: "Della prova documentale"
 sezione: "II"
 sezione_label: "Della scrittura privata"
 rubrica: "Conformità tra originale e riproduzione del telegramma"
-dataVigenza: "20260914"
-ordine: 3011
+dataVigenza: "20261102"
+ordine: 3012
 ---
 
 # Art. 2706 - ***Conformità tra originale e riproduzione del telegramma***

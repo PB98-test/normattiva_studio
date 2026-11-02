@@ -16,8 +16,8 @@ capo_label: "EFFETTI DELLE SENTENZE PENALI STRANIERE"
 sezione: null
 sezione_label: null
 rubrica: "Misure coercitive"
-dataVigenza: "20261016"
-ordine: 889
+dataVigenza: "20261102"
+ordine: 890
 ---
 
 # Art. 736 - ***Misure coercitive***

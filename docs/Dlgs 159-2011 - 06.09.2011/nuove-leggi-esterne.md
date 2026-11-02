@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da Dlgs 159-2011 - 06.09.2011 ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Dlgs 159-2011 - 06.09.2011 - 119 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Dlgs 159-2011 - 06.09.2011 - 121 leggi trovate)*
 
 - [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-08-13;136)
 - [articolo 12-quinquies, comma 1, del decreto-legge 8 giugno 1992, n. 306](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:1992-06-08;306)
@@ -37,6 +37,7 @@ search:
 - [D.L. 4 OTTOBRE 2018, N. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2018-10-04;113)
 - [L. 1 DICEMBRE 2018, N. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-01;132)
 - [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400)
+- [testo unico delle disposizioni legislative e regolamentari in materia edilizia](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-06-06;380)
 - [articolo 2, comma 7, del decreto legge 16 settembre 2008, n. 143](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2008-09-16;143)
 - [legge 13 novembre 2008, n. 181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-11-13;181)
 - [decreto ministeriale 30 luglio 2009, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto:2009-07-30;127)
@@ -72,6 +73,7 @@ search:
 - [legge 4 aprile 1956, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-04-04;212)
 - [articolo 8 della legge 1° aprile 1981, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121)
 - [legge 18 aprile 1975, n. 110](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-04-18;110)
+- [D.L. 15 SETTEMBRE 2023, N. 123](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2023-09-15;123)
 - [articoli 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-09-13;646)
 - [articolo 2 del decreto legislativo 19 marzo 2001, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2001-03-19;68)
 - [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-10-26;633)

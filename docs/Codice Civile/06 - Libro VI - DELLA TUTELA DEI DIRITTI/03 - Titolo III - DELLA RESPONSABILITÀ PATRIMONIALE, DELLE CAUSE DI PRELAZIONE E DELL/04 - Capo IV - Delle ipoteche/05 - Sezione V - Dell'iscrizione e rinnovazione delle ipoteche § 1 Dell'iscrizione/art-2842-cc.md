@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "V"
 sezione_label: "Dell'iscrizione e rinnovazione delle ipoteche § 1 Dell'iscrizione"
 rubrica: "Variazione del domicilio eletto"
-dataVigenza: "20260914"
-ordine: 3152
+dataVigenza: "20261102"
+ordine: 3153
 ---
 
 # Art. 2842 - ***Variazione del domicilio eletto***

@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "I"
 sezione_label: "Disposizioni generali"
 rubrica: "Costituzione ed effetti dell'ipoteca"
-dataVigenza: "20260914"
-ordine: 3117
+dataVigenza: "20261102"
+ordine: 3118
 ---
 
 # Art. 2808 - ***Costituzione ed effetti dell'ipoteca***

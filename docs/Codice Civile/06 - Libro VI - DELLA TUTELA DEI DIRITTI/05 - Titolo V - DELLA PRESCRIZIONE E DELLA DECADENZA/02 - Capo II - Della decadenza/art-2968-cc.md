@@ -14,8 +14,8 @@ capo_label: "Della decadenza"
 sezione: null
 sezione_label: null
 rubrica: "Diritti indisponibili"
-dataVigenza: "20260914"
-ordine: 3279
+dataVigenza: "20261102"
+ordine: 3280
 ---
 
 # Art. 2968 - ***Diritti indisponibili***

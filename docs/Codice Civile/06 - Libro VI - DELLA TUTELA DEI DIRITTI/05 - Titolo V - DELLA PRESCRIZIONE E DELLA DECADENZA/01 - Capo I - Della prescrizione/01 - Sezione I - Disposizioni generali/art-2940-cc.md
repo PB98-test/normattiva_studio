@@ -14,8 +14,8 @@ capo_label: "Della prescrizione"
 sezione: "I"
 sezione_label: "Disposizioni generali"
 rubrica: "Pagamento del debito prescritto"
-dataVigenza: "20260914"
-ordine: 3251
+dataVigenza: "20261102"
+ordine: 3252
 ---
 
 # Art. 2940 - ***Pagamento del debito prescritto***

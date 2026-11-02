@@ -15,8 +15,8 @@ sezione: "V"
 sezione_label: "Dell'iscrizione e rinnovazione delle ipoteche § 1 Dell'iscrizione"
 rubrica: null
 abrogato: true
-dataVigenza: "20260914"
-ordine: 3142
+dataVigenza: "20261102"
+ordine: 3143
 ---
 
 # Art. 2832 - *(Omissis)*

@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Assenza dell'imputato in appello"
-dataVigenza: "20261016"
-ordine: 720
+dataVigenza: "20261102"
+ordine: 721
 ---
 
 # Art. 598-ter - ***Assenza dell'imputato in appello***

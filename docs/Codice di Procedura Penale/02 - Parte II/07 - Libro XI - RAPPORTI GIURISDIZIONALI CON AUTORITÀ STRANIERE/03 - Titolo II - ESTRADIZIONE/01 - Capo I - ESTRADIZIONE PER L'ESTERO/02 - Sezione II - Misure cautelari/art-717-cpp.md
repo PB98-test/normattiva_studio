@@ -16,8 +16,8 @@ capo_label: "ESTRADIZIONE PER L'ESTERO"
 sezione: "II"
 sezione_label: "Misure cautelari"
 rubrica: "Audizione della persona sottoposta a una misura coercitiva"
-dataVigenza: "20261016"
-ordine: 857
+dataVigenza: "20261102"
+ordine: 858
 ---
 
 # Art. 717 - ***Audizione della persona sottoposta a una misura coercitiva***

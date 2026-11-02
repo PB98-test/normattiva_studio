@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Atti preliminari al giudizio"
-dataVigenza: "20261016"
-ordine: 724
+dataVigenza: "20261102"
+ordine: 725
 ---
 
 # Art. 601 - ***Atti preliminari al giudizio***

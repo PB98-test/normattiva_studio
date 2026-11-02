@@ -14,8 +14,8 @@ capo_label: "Della trascrizione degli atti relativi ai beni immobili"
 sezione: null
 sezione_label: null
 rubrica: "Durata dell'efficacia della trascrizione del pignoramento immobiliare e del sequestro conservativo sugli immobili"
-dataVigenza: "20260914"
-ordine: 2972
+dataVigenza: "20261102"
+ordine: 2973
 ---
 
 # Art. 2668-ter - ***Durata dell'efficacia della trascrizione del pignoramento immobiliare e del sequestro conservativo sugli immobili***

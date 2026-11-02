@@ -14,8 +14,8 @@ capo_label: "Dell'esecuzione forzata"
 sezione: "I"
 sezione_label: "Dell'espropriazione § 1 Disposizioni generali"
 rubrica: "Cessioni e liberazioni di pigioni e di fitti"
-dataVigenza: "20260914"
-ordine: 3234
+dataVigenza: "20261102"
+ordine: 3235
 ---
 
 # Art. 2924 - ***Cessioni e liberazioni di pigioni e di fitti***

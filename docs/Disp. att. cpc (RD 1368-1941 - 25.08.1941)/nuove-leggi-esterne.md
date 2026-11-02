@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da Disp. att. cpc (RD 1368-1941 - 25.08.1941) ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Disp. att. cpc (RD 1368-1941 - 25.08.1941) - 40 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Disp. att. cpc (RD 1368-1941 - 25.08.1941) - 39 leggi trovate)*
 
 - [legge 30 dicembre 1923, n. 2814](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-12-30;2814)
 - [articolo 7 della legge 14 gennaio 2013, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-01-14;4)
@@ -37,7 +37,6 @@ search:
 - [articolo 36 del decreto del Presidente della Repubblica 6 giugno 2001, n. 380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-06-06;380)
 - [articolo 40, sesto comma, della legge 28 febbraio 1985, n. 47](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-02-28;47)
 - [decreto del Ministro della giustizia 12 agosto 2015, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto:2015-08-12;144)
-- [articolo 35, comma 1, lettera s), della legge 31 dicembre 2012, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-31;247)
 - [D.L. 3 maggio 2016, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2016-05-03;59)
 - [L. 30 giugno 2016, n. 119](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-06-30;119)
 - [L. 5 gennaio 1994, n. 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-05;25)

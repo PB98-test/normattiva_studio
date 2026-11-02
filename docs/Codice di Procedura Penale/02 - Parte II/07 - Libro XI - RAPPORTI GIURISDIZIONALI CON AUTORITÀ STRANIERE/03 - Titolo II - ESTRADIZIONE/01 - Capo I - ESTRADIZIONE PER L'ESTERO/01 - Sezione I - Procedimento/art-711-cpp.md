@@ -16,8 +16,8 @@ capo_label: "ESTRADIZIONE PER L'ESTERO"
 sezione: "I"
 sezione_label: "Procedimento"
 rubrica: "Riestradizione"
-dataVigenza: "20261016"
-ordine: 851
+dataVigenza: "20261102"
+ordine: 852
 ---
 
 # Art. 711 - ***Riestradizione***

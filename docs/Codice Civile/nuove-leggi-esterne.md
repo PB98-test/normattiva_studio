@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da Codice Civile ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Codice Civile - 166 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Codice Civile - 173 leggi trovate)*
 
 - [L. 31 MAGGIO 1995, N. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-05-31;218)
 - [L. 3 aprile 1957, n. 235](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-04-03;235)
@@ -117,6 +117,7 @@ search:
 - [direttiva 2009/138/CE del Parlamento europeo e del Consiglio, del 25 novembre 2009](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32009L0138)
 - [D.L. 30 giugno 2025, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2025-06-30;95)
 - [L. 8 agosto 2025, n. 118](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-08-08;118)
+- [regolamento (UE) n. 575/2013](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32013R0575)
 - [D.P.R. 29 dicembre 1969, n. 1127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-12-29;1127)
 - [D.LGS. 11 OTTOBRE 2012, N. 184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2012-10-11;184)
 - [art. 25, comma 8, del decreto legge 19 ottobre 2012, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2012-10-19;179)
@@ -127,6 +128,7 @@ search:
 - [articolo 93 della direttiva 2014/65/UE](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32014L0065)
 - [D.Lgs. 10 marzo 2023, n. 30](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2023-03-10;30)
 - [regolamento (UE) 2020/1503](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32020R1503)
+- [regolamento (UE) n. 600/2014](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32014R0600)
 - [D.Lgs. 3 marzo 1993, n. 88](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1993-03-03;88)
 - [L. 28 GENNAIO 2009, N. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-01-28;2)
 - [D.Lgs. 15 giugno 1999, n. 206](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1999-06-15;206)
@@ -140,6 +142,8 @@ search:
 - [direttive n. 78/855/CEE](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31978L0855)
 - [n. 82/891/CEE](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31982L0891)
 - [legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89)
+- [direttiva (UE) 2019/1151](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32019L1151)
+- [direttiva (UE) 2017/1132](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32017L1132)
 - [L. 27 febbraio 1985, n. 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-02-27;49)
 - [L. 11 dicembre 2016, n. 232](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-11;232)
 - [D.L. 23 dicembre 2013, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2013-12-23;145)
@@ -152,6 +156,8 @@ search:
 - [art. 27, terzo comma, della legge 29 aprile 1949, n. 264](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-04-29;264)
 - [decreto legislativo n. 58 del 1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1998;58)
 - [decreto legislativo 21 aprile 1993, n. 124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1993-04-21;124)
+- [direttiva 2014/59/UE](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32014L0059)
+- [regolamento (UE) 2021/23](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32023R2021)
 - [D.Lgs. 31 ottobre 1990, n. 347](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1990-10-31;347)
 - [D.Lgs. 30 dicembre 2010, n. 235](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2010-12-30;235)
 - [legge 24 giugno 1997, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-06-24;196)
@@ -168,6 +174,7 @@ search:
 - [L. 22 dicembre 2011, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011-12-22;214)
 - [D.Lgs. 7 agosto 2026, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2026-08-07;147)
 - [L. 29 dicembre 1990, n. 428](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-29;428)
+- [decisione n. 2007/436/CE](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32007D0436)
 - [D.L. 27 giugno 2015, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2015-06-27;83)
 - [L. 6 agosto 2015, n. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-08-06;132)
 - [art. 3, comma 2-ter, del decreto-legge 28 agosto 2008, n. 134](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2008-08-28;134)

@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "IV"
 sezione_label: "Dell'ipoteca volontaria"
 rubrica: "Indicazione dell'immobile ipotecato"
-dataVigenza: "20260914"
-ordine: 3136
+dataVigenza: "20261102"
+ordine: 3137
 ---
 
 # Art. 2826 - ***Indicazione dell'immobile ipotecato***

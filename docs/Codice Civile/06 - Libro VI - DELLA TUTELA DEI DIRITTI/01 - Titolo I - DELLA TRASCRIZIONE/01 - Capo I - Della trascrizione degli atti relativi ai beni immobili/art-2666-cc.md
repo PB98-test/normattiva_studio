@@ -14,8 +14,8 @@ capo_label: "Della trascrizione degli atti relativi ai beni immobili"
 sezione: null
 sezione_label: null
 rubrica: "Limiti soggettivi dell'efficacia della trascrizione"
-dataVigenza: "20260914"
-ordine: 2968
+dataVigenza: "20261102"
+ordine: 2969
 ---
 
 # Art. 2666 - ***Limiti soggettivi dell'efficacia della trascrizione***

@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da Crisi d'impresa e insolvenza (Dlgs 14-2019 - 12.01.2019) ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Crisi d'impresa e insolvenza (Dlgs 14-2019 - 12.01.2019) - 75 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Crisi d'impresa e insolvenza (Dlgs 14-2019 - 12.01.2019) - 76 leggi trovate)*
 
 - [legge 19 ottobre 2017, n. 155](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-10-19;155)
 - [legge 15 maggio 1997, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127)
@@ -35,6 +35,7 @@ search:
 - [decreto legislativo n. 159 del 2011](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2011;159)
 - [D.Lgs. 13 settembre 2024, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2024-09-13;136)
 - [articolo 15 del decreto legislativo 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2010-01-27;39)
+- [regolamento (UE) 2015/848](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32015R0848)
 - [articolo 1 del decreto legislativo 27 giugno 2003, n. 168](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2003-06-27;168)
 - [articolo 107, primo comma, del decreto del Presidente della Repubblica 15 dicembre 1959, n. 1229](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-12-15;1229)
 - [articolo 136, comma 2, del decreto del Presidente della Repubblica n. 115 del 2002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002;115)
@@ -67,10 +68,10 @@ search:
 - [articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400)
 - [direttiva 2014/59/UE o del regolamento](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32014L0059)
 - [(UE) 2021/23](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32021L0023)
+- [regolamento (UE) 2021/23](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32023R2021)
 - [decreto legislativo 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1998-02-24;58)
 - [articolo 37 del decreto legislativo 16 novembre 2015, n. 180](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2015-11-16;180)
 - [articolo 50 del regolamento (UE) 2021/23](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32021R0023)
-- [regolamento (UE) 2015/848](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32015R0848)
 - [articolo 10 del decreto legislativo 4 marzo 2015, n. 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2015-03-04;23)
 - [articolo 51 del decreto legislativo 15 giugno 2015, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2015-06-15;81)
 - [articolo 2 della legge 29 maggio 1982, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-05-29;297)

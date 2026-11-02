@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "XI"
 sezione_label: "Della cancellazione dell'iscrizione"
 rubrica: "Capacità per consentire la cancellazione"
-dataVigenza: "20260914"
-ordine: 3193
+dataVigenza: "20261102"
+ordine: 3194
 ---
 
 # Art. 2883 - ***Capacità per consentire la cancellazione***

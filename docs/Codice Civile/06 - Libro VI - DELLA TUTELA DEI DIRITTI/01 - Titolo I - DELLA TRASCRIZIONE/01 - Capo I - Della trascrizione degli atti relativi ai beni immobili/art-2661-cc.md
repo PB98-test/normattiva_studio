@@ -14,8 +14,8 @@ capo_label: "Della trascrizione degli atti relativi ai beni immobili"
 sezione: null
 sezione_label: null
 rubrica: "Ulteriori trascrizioni in base allo stesso titolo"
-dataVigenza: "20260914"
-ordine: 2963
+dataVigenza: "20261102"
+ordine: 2964
 ---
 
 # Art. 2661 - ***Ulteriori trascrizioni in base allo stesso titolo***

@@ -14,8 +14,8 @@ capo_label: "Della prova testimoniale"
 sezione: null
 sezione_label: null
 rubrica: "Patti aggiunti o contrari al contenuto di un documento"
-dataVigenza: "20260914"
-ordine: 3027
+dataVigenza: "20261102"
+ordine: 3028
 ---
 
 # Art. 2722 - ***Patti aggiunti o contrari al contenuto di un documento***

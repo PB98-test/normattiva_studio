@@ -14,8 +14,8 @@ capo_label: "Del giuramento"
 sezione: null
 sezione_label: null
 rubrica: "Specie"
-dataVigenza: "20260914"
-ordine: 3041
+dataVigenza: "20261102"
+ordine: 3042
 ---
 
 # Art. 2736 - ***Specie***

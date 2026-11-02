@@ -16,8 +16,8 @@ capo_label: "EFFETTI DELLE SENTENZE PENALI STRANIERE"
 sezione: null
 sezione_label: null
 rubrica: "Riconoscimento delle sentenze penali straniere a norma di accordi internazionali"
-dataVigenza: "20261016"
-ordine: 882
+dataVigenza: "20261102"
+ordine: 883
 ---
 
 # Art. 731 - ***Riconoscimento delle sentenze penali straniere a norma di accordi internazionali***

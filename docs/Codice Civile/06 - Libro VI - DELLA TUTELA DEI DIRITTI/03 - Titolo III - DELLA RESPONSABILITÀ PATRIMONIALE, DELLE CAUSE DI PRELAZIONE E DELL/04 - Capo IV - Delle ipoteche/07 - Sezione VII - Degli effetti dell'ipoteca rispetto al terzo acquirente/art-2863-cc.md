@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "VII"
 sezione_label: "Degli effetti dell'ipoteca rispetto al terzo acquirente"
 rubrica: "Ricupero dell'immobile rilasciato e abbandono dell'esecuzione"
-dataVigenza: "20260914"
-ordine: 3173
+dataVigenza: "20261102"
+ordine: 3174
 ---
 
 # Art. 2863 - ***Ricupero dell'immobile rilasciato e abbandono dell'esecuzione***

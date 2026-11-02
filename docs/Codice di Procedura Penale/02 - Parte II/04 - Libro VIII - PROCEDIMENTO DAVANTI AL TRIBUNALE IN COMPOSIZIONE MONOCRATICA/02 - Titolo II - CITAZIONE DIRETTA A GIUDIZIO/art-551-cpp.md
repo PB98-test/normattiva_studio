@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Procedimenti connessi"
-dataVigenza: "20261016"
-ordine: 663
+dataVigenza: "20261102"
+ordine: 664
 ---
 
 # Art. 551 - ***Procedimenti connessi***

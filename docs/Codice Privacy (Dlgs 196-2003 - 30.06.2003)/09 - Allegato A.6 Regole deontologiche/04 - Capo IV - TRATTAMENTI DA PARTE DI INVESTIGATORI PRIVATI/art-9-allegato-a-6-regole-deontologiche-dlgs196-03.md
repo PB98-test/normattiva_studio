@@ -14,13 +14,13 @@ capo_label: "TRATTAMENTI DA PARTE DI INVESTIGATORI PRIVATI"
 sezione: null
 sezione_label: null
 rubrica: "Altre regole di comportamento"
-dataVigenza: "20261016"
+dataVigenza: "20261102"
 ordine: 305
 ---
 
 # Art. 9-allegato-a-6-regole-deontologiche - ***Altre regole di comportamento***
 
-1\. L'investigatore privato si astiene dal porre in essere prassi elusive di obblighi e di limiti di legge e, in particolare, conforma ai principi di liceità, trasparenza e correttezza del trattamento sanciti dal Regolamento (UE) 2016/679 e dal decreto legislativo n. 196/2003:
+1\. L'investigatore privato si astiene dal porre in essere prassi elusive di obblighi e di limiti di legge e, in particolare, conforma ai principi di liceità, trasparenza e correttezza del trattamento sanciti dal [Regolamento (UE) 2016/679](../../../GDPR%20%28Regolamento%20UE%202016-679%20-%2027.04.2016%29/00%20-%20Indice%20%28reg679-16%29.md) e dal decreto legislativo n. 196/2003:
 
 - a) l'acquisizione di dati personali presso altri titolari del trattamento, anche mediante mera consultazione, verificando che si abbia titolo per ottenerli;
 - b) il ricorso ad attività lecite di rilevamento, specie a distanza, e di audio/videoripresa;

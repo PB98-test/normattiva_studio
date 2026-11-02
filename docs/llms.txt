@@ -1,6 +1,6 @@
 # NormattivaStudio
 
-> Testi normativi italiani vigenti (fonte: Normattiva), una pagina per articolo: 64 atti, 11.399 articoli. Ogni atto ha una pagina-indice con i link a tutti i suoi articoli.
+> Testi normativi italiani vigenti (fonte: Normattiva), una pagina per articolo: 68 atti, 11.670 articoli. Ogni atto ha una pagina-indice con i link a tutti i suoi articoli.
 
 Come leggere il sito:
 
@@ -11,92 +11,96 @@ Come leggere il sito:
 
 ## Costituzione
 
-- [Costituzione (27.12.1947)](Costituzione%20%2827.12.1947%29/00%20-%20Indice%20%28cost%29/): sigla cost, 139 articoli, aggiornato al 28/10/2026
+- [Costituzione (27.12.1947)](Costituzione%20%2827.12.1947%29/00%20-%20Indice%20%28cost%29/): sigla cost, 139 articoli, aggiornato al 02/11/2026
 
 ## Codici
 
-- [Codice Civile](Codice%20Civile/00%20-%20Indice%20%28cc%29/): sigla cc, 3.280 articoli, aggiornato al 28/10/2026
-- [Codice Penale](Codice%20Penale/00%20-%20Indice%20%28cp%29/): sigla cp, 997 articoli, aggiornato al 28/10/2026
-- [Codice di Procedura Civile](Codice%20di%20Procedura%20Civile/00%20-%20Indice%20%28cpc%29/): sigla cpc, 1.056 articoli, aggiornato al 28/10/2026
-- [Codice di Procedura Penale](Codice%20di%20Procedura%20Penale/00%20-%20Indice%20%28cpp%29/): sigla cpp, 906 articoli, aggiornato al 28/10/2026
+- [Codice Civile](Codice%20Civile/00%20-%20Indice%20%28cc%29/): sigla cc, 3.281 articoli, aggiornato al 02/11/2026
+- [Codice Penale](Codice%20Penale/00%20-%20Indice%20%28cp%29/): sigla cp, 999 articoli, aggiornato al 02/11/2026
+- [Codice di Procedura Civile](Codice%20di%20Procedura%20Civile/00%20-%20Indice%20%28cpc%29/): sigla cpc, 1.056 articoli, aggiornato al 02/11/2026
+- [Codice di Procedura Penale](Codice%20di%20Procedura%20Penale/00%20-%20Indice%20%28cpp%29/): sigla cpp, 907 articoli, aggiornato al 02/11/2026
 
 ## Leggi
 
-- [L. 260-1949 - 27.05.1949](L.%20260-1949%20-%2027.05.1949/00%20-%20Indice%20%28l260-49%29/): sigla l260-49, 8 articoli, aggiornato al 28/10/2026
-- [L. 742-1969 - 07.10.1969](L.%20742-1969%20-%2007.10.1969/00%20-%20Indice%20%28l742-69%29/): sigla l742-69, 7 articoli, aggiornato al 28/10/2026
-- [Divorzio (L. 898-1970 - 01.12.1970)](Divorzio%20%28L.%20898-1970%20-%2001.12.1970%29/00%20-%20Indice%20%28l898-70%29/): sigla l898-70, 18 articoli, aggiornato al 28/10/2026
-- [Ord. Pen. (L. 354-1975 - 26.07.1975)](Ord.%20Pen.%20%28L.%20354-1975%20-%2026.07.1975%29/00%20-%20Indice%20%28l354-75%29/): sigla l354-75, 137 articoli, aggiornato al 28/10/2026
-- [L 54-1977 - 05.03.1977](L%2054-1977%20-%2005.03.1977/00%20-%20Indice%20%28l54-77%29/): sigla l54-77, 4 articoli, aggiornato al 28/10/2026
-- [L 689-1981 - 24.11.1981](L%20689-1981%20-%2024.11.1981/00%20-%20Indice%20%28l689-81%29/): sigla l689-81, 159 articoli, aggiornato al 28/10/2026
-- [Concordato (L 121-1985 - 25.03.1985)](Concordato%20%28L%20121-1985%20-%2025.03.1985%29/00%20-%20Indice%20%28l121-85%29/): sigla l121-85, 14 articoli, aggiornato al 28/10/2026
-- [L. 353-1990 - 26.11.1990](L.%20353-1990%20-%2026.11.1990/00%20-%20Indice%20%28l353-90%29/): sigla l353-90, 92 articoli, aggiornato al 28/10/2026
-- [L 477-1992 - 04.12.1992](L%20477-1992%20-%2004.12.1992/00%20-%20Indice%20%28l477-92%29/): sigla l477-92, 2 articoli, aggiornato al 28/10/2026
-- [L 53-1994 - 21.01.1994](L%2053-1994%20-%2021.01.1994/00%20-%20Indice%20%28l53-94%29/): sigla l53-94, 15 articoli, aggiornato al 28/10/2026
-- [L 673-1994 - 06.12.1994](L%20673-1994%20-%2006.12.1994/00%20-%20Indice%20%28l673-94%29/): sigla l673-94, 1 articoli, aggiornato al 28/10/2026
-- [L 254-1997 - 16.07.1997](L%20254-1997%20-%2016.07.1997/00%20-%20Indice%20%28l254-97%29/): sigla l254-97, 1 articoli, aggiornato al 28/10/2026
-- [L. 188-1998 - 16.06.1998](L.%20188-1998%20-%2016.06.1998/00%20-%20Indice%20%28l188-98%29/): sigla l188-98, 1 articoli, aggiornato al 28/10/2026
-- [L. 80-2005 - 14.05.2005](L.%2080-2005%20-%2014.05.2005/00%20-%20Indice%20%28l80-05%29/): sigla l80-05, 1 articoli, aggiornato al 28/10/2026
-- [L 24-2010 - 22.02.2010](L%2024-2010%20-%2022.02.2010/00%20-%20Indice%20%28l24-10%29/): sigla l24-10, 1 articoli, aggiornato al 28/10/2026
-- [Rif. Orlando (L 103-2017 - 23.06.2017)](Rif.%20Orlando%20%28L%20103-2017%20-%2023.06.2017%29/00%20-%20Indice%20%28l103-17%29/): sigla l103-17, 1 articoli, aggiornato al 28/10/2026
-- [L 3-2019 - 09.01.2019](L%203-2019%20-%2009.01.2019/00%20-%20Indice%20%28l3-19%29/): sigla l3-19, 1 articoli, aggiornato al 28/10/2026
-- [L 134-2021 - 27.09.2021](L%20134-2021%20-%2027.09.2021/00%20-%20Indice%20%28l134-21%29/): sigla l134-21, 2 articoli, aggiornato al 28/10/2026
-- [L. 197-2022 - 29.12.2022](L.%20197-2022%20-%2029.12.2022/00%20-%20Indice%20%28l197-22%29/): sigla l197-22, 21 articoli, aggiornato al 28/10/2026
+- [L. 260-1949 - 27.05.1949](L.%20260-1949%20-%2027.05.1949/00%20-%20Indice%20%28l260-49%29/): sigla l260-49, 8 articoli, aggiornato al 02/11/2026
+- [L. 742-1969 - 07.10.1969](L.%20742-1969%20-%2007.10.1969/00%20-%20Indice%20%28l742-69%29/): sigla l742-69, 7 articoli, aggiornato al 02/11/2026
+- [Divorzio (L. 898-1970 - 01.12.1970)](Divorzio%20%28L.%20898-1970%20-%2001.12.1970%29/00%20-%20Indice%20%28l898-70%29/): sigla l898-70, 18 articoli, aggiornato al 02/11/2026
+- [Ord. Pen. (L. 354-1975 - 26.07.1975)](Ord.%20Pen.%20%28L.%20354-1975%20-%2026.07.1975%29/00%20-%20Indice%20%28l354-75%29/): sigla l354-75, 137 articoli, aggiornato al 02/11/2026
+- [L 54-1977 - 05.03.1977](L%2054-1977%20-%2005.03.1977/00%20-%20Indice%20%28l54-77%29/): sigla l54-77, 4 articoli, aggiornato al 02/11/2026
+- [L 689-1981 - 24.11.1981](L%20689-1981%20-%2024.11.1981/00%20-%20Indice%20%28l689-81%29/): sigla l689-81, 159 articoli, aggiornato al 02/11/2026
+- [Concordato (L 121-1985 - 25.03.1985)](Concordato%20%28L%20121-1985%20-%2025.03.1985%29/00%20-%20Indice%20%28l121-85%29/): sigla l121-85, 14 articoli, aggiornato al 02/11/2026
+- [L. 353-1990 - 26.11.1990](L.%20353-1990%20-%2026.11.1990/00%20-%20Indice%20%28l353-90%29/): sigla l353-90, 92 articoli, aggiornato al 02/11/2026
+- [L 477-1992 - 04.12.1992](L%20477-1992%20-%2004.12.1992/00%20-%20Indice%20%28l477-92%29/): sigla l477-92, 2 articoli, aggiornato al 02/11/2026
+- [L 53-1994 - 21.01.1994](L%2053-1994%20-%2021.01.1994/00%20-%20Indice%20%28l53-94%29/): sigla l53-94, 15 articoli, aggiornato al 02/11/2026
+- [L 673-1994 - 06.12.1994](L%20673-1994%20-%2006.12.1994/00%20-%20Indice%20%28l673-94%29/): sigla l673-94, 1 articoli, aggiornato al 02/11/2026
+- [L 254-1997 - 16.07.1997](L%20254-1997%20-%2016.07.1997/00%20-%20Indice%20%28l254-97%29/): sigla l254-97, 1 articoli, aggiornato al 02/11/2026
+- [L. 188-1998 - 16.06.1998](L.%20188-1998%20-%2016.06.1998/00%20-%20Indice%20%28l188-98%29/): sigla l188-98, 1 articoli, aggiornato al 02/11/2026
+- [L. 80-2005 - 14.05.2005](L.%2080-2005%20-%2014.05.2005/00%20-%20Indice%20%28l80-05%29/): sigla l80-05, 1 articoli, aggiornato al 02/11/2026
+- [L 24-2010 - 22.02.2010](L%2024-2010%20-%2022.02.2010/00%20-%20Indice%20%28l24-10%29/): sigla l24-10, 1 articoli, aggiornato al 02/11/2026
+- [Legge professionale forense (L 247-2012 - 31.12.2012)](Legge%20professionale%20forense%20%28L%20247-2012%20-%2031.12.2012%29/00%20-%20Indice%20%28l247-12%29/): sigla l247-12, 69 articoli, aggiornato al 02/11/2026
+- [Rif. Orlando (L 103-2017 - 23.06.2017)](Rif.%20Orlando%20%28L%20103-2017%20-%2023.06.2017%29/00%20-%20Indice%20%28l103-17%29/): sigla l103-17, 1 articoli, aggiornato al 02/11/2026
+- [L 3-2019 - 09.01.2019](L%203-2019%20-%2009.01.2019/00%20-%20Indice%20%28l3-19%29/): sigla l3-19, 1 articoli, aggiornato al 02/11/2026
+- [L 134-2021 - 27.09.2021](L%20134-2021%20-%2027.09.2021/00%20-%20Indice%20%28l134-21%29/): sigla l134-21, 2 articoli, aggiornato al 02/11/2026
+- [L. 197-2022 - 29.12.2022](L.%20197-2022%20-%2029.12.2022/00%20-%20Indice%20%28l197-22%29/): sigla l197-22, 21 articoli, aggiornato al 02/11/2026
 
 ## Decreti-legge
 
-- [Dl 571-1994 - 07.10.1994](Dl%20571-1994%20-%2007.10.1994/00%20-%20Indice%20%28dl571-94%29/): sigla dl571-94, 21 articoli, aggiornato al 28/10/2026
-- [Dl 35-2005 - 14.03.2005](Dl%2035-2005%20-%2014.03.2005/00%20-%20Indice%20%28dl35-05%29/): sigla dl35-05, 35 articoli, aggiornato al 28/10/2026
-- [Dl 185-2008 - 29.11.2008](Dl%20185-2008%20-%2029.11.2008/00%20-%20Indice%20%28dl185-08%29/): sigla dl185-08, 47 articoli, aggiornato al 28/10/2026
-- [Dl 193-2009 - 29.12.2009](Dl%20193-2009%20-%2029.12.2009/00%20-%20Indice%20%28dl193-09%29/): sigla dl193-09, 10 articoli, aggiornato al 28/10/2026
-- [Dl 179-2012 - 18.10.2012](Dl%20179-2012%20-%2018.10.2012/00%20-%20Indice%20%28dl179-12%29/): sigla dl179-12, 85 articoli, aggiornato al 28/10/2026
-- [Negoziazione assistita (Dl 132-2014 - 12.09.2014)](Negoziazione%20assistita%20%28Dl%20132-2014%20-%2012.09.2014%29/00%20-%20Indice%20%28dl132-14%29/): sigla dl132-14, 39 articoli, aggiornato al 28/10/2026
-- [Dl 137-2020 - 28.10.2020](Dl%20137-2020%20-%2028.10.2020/00%20-%20Indice%20%28dl137-20%29/): sigla dl137-20, 119 articoli, aggiornato al 28/10/2026
+- [Dl 571-1994 - 07.10.1994](Dl%20571-1994%20-%2007.10.1994/00%20-%20Indice%20%28dl571-94%29/): sigla dl571-94, 21 articoli, aggiornato al 02/11/2026
+- [Dl 35-2005 - 14.03.2005](Dl%2035-2005%20-%2014.03.2005/00%20-%20Indice%20%28dl35-05%29/): sigla dl35-05, 35 articoli, aggiornato al 02/11/2026
+- [Dl 185-2008 - 29.11.2008](Dl%20185-2008%20-%2029.11.2008/00%20-%20Indice%20%28dl185-08%29/): sigla dl185-08, 47 articoli, aggiornato al 02/11/2026
+- [Dl 193-2009 - 29.12.2009](Dl%20193-2009%20-%2029.12.2009/00%20-%20Indice%20%28dl193-09%29/): sigla dl193-09, 10 articoli, aggiornato al 02/11/2026
+- [Dl 179-2012 - 18.10.2012](Dl%20179-2012%20-%2018.10.2012/00%20-%20Indice%20%28dl179-12%29/): sigla dl179-12, 85 articoli, aggiornato al 02/11/2026
+- [Negoziazione assistita (Dl 132-2014 - 12.09.2014)](Negoziazione%20assistita%20%28Dl%20132-2014%20-%2012.09.2014%29/00%20-%20Indice%20%28dl132-14%29/): sigla dl132-14, 39 articoli, aggiornato al 02/11/2026
+- [Dl 137-2020 - 28.10.2020](Dl%20137-2020%20-%2028.10.2020/00%20-%20Indice%20%28dl137-20%29/): sigla dl137-20, 119 articoli, aggiornato al 02/11/2026
 
 ## Decreti legislativi
 
-- [Disp. att. cpp (Dlgs 271-1989 - 28.07.1989)](Disp.%20att.%20cpp%20%28Dlgs%20271-1989%20-%2028.07.1989%29/00%20-%20Indice%20%28dlgs271-89%29/): sigla dlgs271-89, 324 articoli, aggiornato al 28/10/2026
-- [CdS (dlgs 285-1992 - 30.04.1992)](CdS%20%28dlgs%20285-1992%20-%2030.04.1992%29/00%20-%20Indice%20%28dlgs285-92%29/): sigla dlgs285-92, 266 articoli, aggiornato al 28/10/2026
-- [Dlgs 51-1998 - 19.02.1998](Dlgs%2051-1998%20-%2019.02.1998/00%20-%20Indice%20%28dlgs51-98%29/): sigla dlgs51-98, 249 articoli, aggiornato al 28/10/2026
-- [Dlgs 274-2000 - 28.08.2000](Dlgs%20274-2000%20-%2028.08.2000/00%20-%20Indice%20%28dlgs274-00%29/): sigla dlgs274-00, 71 articoli, aggiornato al 28/10/2026
-- [Dlgs 231-2001 - 08.06.2001](Dlgs%20231-2001%20-%2008.06.2001/00%20-%20Indice%20%28dlgs231-01%29/): sigla dlgs231-01, 110 articoli, aggiornato al 28/10/2026
-- [Codice Privacy (Dlgs 196-2003 - 30.06.2003)](Codice%20Privacy%20%28Dlgs%20196-2003%20-%2030.06.2003%29/00%20-%20Indice%20%28dlgs196-03%29/): sigla dlgs196-03, 322 articoli, aggiornato al 28/10/2026
-- [Dlgs 82-2005 - 07.03.2005](Dlgs%2082-2005%20-%2007.03.2005/00%20-%20Indice%20%28dlgs82-05%29/): sigla dlgs82-05, 123 articoli, aggiornato al 28/10/2026
-- [Antiriciclaggio (Dlgs 231-2007 - 21.11.2007)](Antiriciclaggio%20%28Dlgs%20231-2007%20-%2021.11.2007%29/00%20-%20Indice%20%28dlgs231-07%29/): sigla dlgs231-07, 92 articoli, aggiornato al 28/10/2026
-- [Mediazione (Dlgs 28-2010 - 04.03.2010)](Mediazione%20%28Dlgs%2028-2010%20-%2004.03.2010%29/00%20-%20Indice%20%28dlgs28-10%29/): sigla dlgs28-10, 44 articoli, aggiornato al 28/10/2026
-- [Dlgs 150-2011 - 09.01.2011](Dlgs%20150-2011%20-%2009.01.2011/00%20-%20Indice%20%28dlgs150-11%29/): sigla dlgs150-11, 39 articoli, aggiornato al 28/10/2026
-- [Dlgs 159-2011 - 06.09.2011](Dlgs%20159-2011%20-%2006.09.2011/00%20-%20Indice%20%28dlgs159-11%29/): sigla dlgs159-11, 139 articoli, aggiornato al 28/10/2026
-- [Attuazione GDPR (Dl 51-2018 - 18.05.2018)](Attuazione%20GDPR%20%28Dl%2051-2018%20-%2018.05.2018%29/00%20-%20Indice%20%28dlgs51-18%29/): sigla dlgs51-18, 50 articoli, aggiornato al 28/10/2026
-- [Crisi d'impresa e insolvenza (Dlgs 14-2019 - 12.01.2019)](Crisi%20d'impresa%20e%20insolvenza%20%28Dlgs%2014-2019%20-%2012.01.2019%29/00%20-%20Indice%20%28dlgs14-19%29/): sigla dlgs14-19, 415 articoli, aggiornato al 28/10/2026
-- [Cartabia (Dlgs 149-2022 - 10.10.2022)](Cartabia%20%28Dlgs%20149-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs149-22%29/): sigla dlgs149-22, 52 articoli, aggiornato al 28/10/2026
-- [Cartabia (Dlgs 150-2022 - 10.10.2022)](Cartabia%20%28Dlgs%20150-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs150-22%29/): sigla dlgs150-22, 107 articoli, aggiornato al 28/10/2026
-- [Correttivo Cartabia (Dlgs 164-2024 - 31.10.2024)](Correttivo%20Cartabia%20%28Dlgs%20164-2024%20-%2031.10.2024%29/00%20-%20Indice%20%28dlgs164-24%29/): sigla dlgs164-24, 8 articoli, aggiornato al 28/10/2026
+- [Disp. att. cpp (Dlgs 271-1989 - 28.07.1989)](Disp.%20att.%20cpp%20%28Dlgs%20271-1989%20-%2028.07.1989%29/00%20-%20Indice%20%28dlgs271-89%29/): sigla dlgs271-89, 324 articoli, aggiornato al 02/11/2026
+- [CdS (dlgs 285-1992 - 30.04.1992)](CdS%20%28dlgs%20285-1992%20-%2030.04.1992%29/00%20-%20Indice%20%28dlgs285-92%29/): sigla dlgs285-92, 266 articoli, aggiornato al 02/11/2026
+- [Dlgs 51-1998 - 19.02.1998](Dlgs%2051-1998%20-%2019.02.1998/00%20-%20Indice%20%28dlgs51-98%29/): sigla dlgs51-98, 249 articoli, aggiornato al 02/11/2026
+- [Dlgs 274-2000 - 28.08.2000](Dlgs%20274-2000%20-%2028.08.2000/00%20-%20Indice%20%28dlgs274-00%29/): sigla dlgs274-00, 71 articoli, aggiornato al 02/11/2026
+- [Dlgs 231-2001 - 08.06.2001](Dlgs%20231-2001%20-%2008.06.2001/00%20-%20Indice%20%28dlgs231-01%29/): sigla dlgs231-01, 110 articoli, aggiornato al 02/11/2026
+- [Codice Privacy (Dlgs 196-2003 - 30.06.2003)](Codice%20Privacy%20%28Dlgs%20196-2003%20-%2030.06.2003%29/00%20-%20Indice%20%28dlgs196-03%29/): sigla dlgs196-03, 322 articoli, aggiornato al 02/11/2026
+- [Dlgs 82-2005 - 07.03.2005](Dlgs%2082-2005%20-%2007.03.2005/00%20-%20Indice%20%28dlgs82-05%29/): sigla dlgs82-05, 123 articoli, aggiornato al 02/11/2026
+- [Antiriciclaggio (Dlgs 231-2007 - 21.11.2007)](Antiriciclaggio%20%28Dlgs%20231-2007%20-%2021.11.2007%29/00%20-%20Indice%20%28dlgs231-07%29/): sigla dlgs231-07, 92 articoli, aggiornato al 02/11/2026
+- [Mediazione (Dlgs 28-2010 - 04.03.2010)](Mediazione%20%28Dlgs%2028-2010%20-%2004.03.2010%29/00%20-%20Indice%20%28dlgs28-10%29/): sigla dlgs28-10, 44 articoli, aggiornato al 02/11/2026
+- [Dlgs 150-2011 - 09.01.2011](Dlgs%20150-2011%20-%2009.01.2011/00%20-%20Indice%20%28dlgs150-11%29/): sigla dlgs150-11, 39 articoli, aggiornato al 02/11/2026
+- [Dlgs 159-2011 - 06.09.2011](Dlgs%20159-2011%20-%2006.09.2011/00%20-%20Indice%20%28dlgs159-11%29/): sigla dlgs159-11, 141 articoli, aggiornato al 02/11/2026
+- [Attuazione GDPR (Dl 51-2018 - 18.05.2018)](Attuazione%20GDPR%20%28Dl%2051-2018%20-%2018.05.2018%29/00%20-%20Indice%20%28dlgs51-18%29/): sigla dlgs51-18, 50 articoli, aggiornato al 02/11/2026
+- [Crisi d'impresa e insolvenza (Dlgs 14-2019 - 12.01.2019)](Crisi%20d'impresa%20e%20insolvenza%20%28Dlgs%2014-2019%20-%2012.01.2019%29/00%20-%20Indice%20%28dlgs14-19%29/): sigla dlgs14-19, 415 articoli, aggiornato al 02/11/2026
+- [Cartabia (Dlgs 149-2022 - 10.10.2022)](Cartabia%20%28Dlgs%20149-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs149-22%29/): sigla dlgs149-22, 52 articoli, aggiornato al 02/11/2026
+- [Cartabia (Dlgs 150-2022 - 10.10.2022)](Cartabia%20%28Dlgs%20150-2022%20-%2010.10.2022%29/00%20-%20Indice%20%28dlgs150-22%29/): sigla dlgs150-22, 107 articoli, aggiornato al 02/11/2026
+- [Correttivo Cartabia (Dlgs 164-2024 - 31.10.2024)](Correttivo%20Cartabia%20%28Dlgs%20164-2024%20-%2031.10.2024%29/00%20-%20Indice%20%28dlgs164-24%29/): sigla dlgs164-24, 8 articoli, aggiornato al 02/11/2026
+- [Attuazione AI Act (Dlgs 160-2026 - 09.09.2026)](Attuazione%20AI%20Act%20%28Dlgs%20160-2026%20-%2009.09.2026%29/00%20-%20Indice%20%28dlgs160-26%29/): sigla dlgs160-26, 22 articoli, aggiornato al 02/11/2026
+- [Attuazione AI Act (Dlgs 179-2026 - 07.10.2026)](Attuazione%20AI%20Act%20%28Dlgs%20179-2026%20-%2007.10.2026%29/00%20-%20Indice%20%28dlgs179-26%29/): sigla dlgs179-26, 54 articoli, aggiornato al 02/11/2026
 
 ## Decreti del Presidente della Repubblica
 
-- [Proc. Minorile (DPR 448-1988 - 22.09.1988)](Proc.%20Minorile%20%28DPR%20448-1988%20-%2022.09.1988%29/00%20-%20Indice%20%28dpr448-88%29/): sigla dpr448-88, 47 articoli, aggiornato al 28/10/2026
-- [TU Stupefacenti (Dpr 309-1990 - 09.10.1990)](TU%20Stupefacenti%20%28Dpr%20309-1990%20-%2009.10.1990%29/00%20-%20Indice%20%28dpr309-90%29/): sigla dpr309-90, 144 articoli, aggiornato al 28/10/2026
-- [DPR 115-2002 - 30.05.2002](DPR%20115-2002%20-%2030.05.2002/00%20-%20Indice%20%28dpr115-02%29/): sigla dpr115-02, 316 articoli, aggiornato al 28/10/2026
-- [D.P.R. 68-2005 - 11.02.2005](D.P.R.%2068-2005%20-%2011.02.2005/00%20-%20Indice%20%28dpr68-05%29/): sigla dpr68-05, 18 articoli, aggiornato al 28/10/2026
+- [Proc. Minorile (DPR 448-1988 - 22.09.1988)](Proc.%20Minorile%20%28DPR%20448-1988%20-%2022.09.1988%29/00%20-%20Indice%20%28dpr448-88%29/): sigla dpr448-88, 47 articoli, aggiornato al 02/11/2026
+- [TU Stupefacenti (Dpr 309-1990 - 09.10.1990)](TU%20Stupefacenti%20%28Dpr%20309-1990%20-%2009.10.1990%29/00%20-%20Indice%20%28dpr309-90%29/): sigla dpr309-90, 144 articoli, aggiornato al 02/11/2026
+- [DPR 115-2002 - 30.05.2002](DPR%20115-2002%20-%2030.05.2002/00%20-%20Indice%20%28dpr115-02%29/): sigla dpr115-02, 317 articoli, aggiornato al 02/11/2026
+- [D.P.R. 68-2005 - 11.02.2005](D.P.R.%2068-2005%20-%2011.02.2005/00%20-%20Indice%20%28dpr68-05%29/): sigla dpr68-05, 18 articoli, aggiornato al 02/11/2026
 
 ## Regi decreti
 
-- [R.D. 12-1941 - 30.01.1941](R.D.%2012-1941%20-%2030.01.1941/00%20-%20Indice%20%28rd12-41%29/): sigla rd12-41, 324 articoli, aggiornato al 28/10/2026
-- [Disp. att. cpc (RD 1368-1941 - 25.08.1941)](Disp.%20att.%20cpc%20%28RD%201368-1941%20-%2025.08.1941%29/00%20-%20Indice%20%28rd1368-41%29/): sigla rd1368-41, 307 articoli, aggiornato al 28/10/2026
-- [L. fallimentare (RD 267-1942 - 16.03.1942)](L.%20fallimentare%20%28RD%20267-1942%20-%2016.03.1942%29/00%20-%20Indice%20%28rd267-42%29/): sigla rd267-42, 301 articoli, aggiornato al 28/10/2026
+- [R.D. 12-1941 - 30.01.1941](R.D.%2012-1941%20-%2030.01.1941/00%20-%20Indice%20%28rd12-41%29/): sigla rd12-41, 324 articoli, aggiornato al 02/11/2026
+- [Disp. att. cpc (RD 1368-1941 - 25.08.1941)](Disp.%20att.%20cpc%20%28RD%201368-1941%20-%2025.08.1941%29/00%20-%20Indice%20%28rd1368-41%29/): sigla rd1368-41, 307 articoli, aggiornato al 02/11/2026
+- [L. fallimentare (RD 267-1942 - 16.03.1942)](L.%20fallimentare%20%28RD%20267-1942%20-%2016.03.1942%29/00%20-%20Indice%20%28rd267-42%29/): sigla rd267-42, 301 articoli, aggiornato al 02/11/2026
 
 ## Decreti ministeriali
 
-- [D MdG 44-2011 - 21.02.2011](D%20MdG%2044-2011%20-%2021.02.2011/00%20-%20Indice%20%28decre44-11%29/): sigla decre44-11, 39 articoli, aggiornato al 28/10/2026
-- [DM 55-2014 - 10.03.2014](DM%2055-2014%20-%2010.03.2014/00%20-%20Indice%20%28decre55-14%29/): sigla decre55-14, 30 articoli, aggiornato al 28/10/2026
-- [DM 110-2023 - 07.08.2023](DM%20110-2023%20-%2007.08.2023/00%20-%20Indice%20%28decre110-23%29/): sigla decre110-23, 12 articoli, aggiornato al 28/10/2026
-- [D MdG 217-2023 - 29.12.2023](D%20MdG%20217-2023%20-%2029.12.2023/00%20-%20Indice%20%28decre217-23%29/): sigla decre217-23, 4 articoli, aggiornato al 28/10/2026
-- [D MdG 206-2024 - 27.12.2024](D%20MdG%20206-2024%20-%2027.12.2024/00%20-%20Indice%20%28decre206-24%29/): sigla decre206-24, 2 articoli, aggiornato al 28/10/2026
-- [D MdG 114-2026 - 26.06.2026](D%20MdG%20114-2026%20-%2026.06.2026/00%20-%20Indice%20%28decre114-26%29/): sigla decre114-26, 2 articoli, aggiornato al 28/10/2026
+- [D MdG 44-2011 - 21.02.2011](D%20MdG%2044-2011%20-%2021.02.2011/00%20-%20Indice%20%28decre44-11%29/): sigla decre44-11, 39 articoli, aggiornato al 02/11/2026
+- [DM 55-2014 - 10.03.2014](DM%2055-2014%20-%2010.03.2014/00%20-%20Indice%20%28decre55-14%29/): sigla decre55-14, 30 articoli, aggiornato al 02/11/2026
+- [DM 110-2023 - 07.08.2023](DM%20110-2023%20-%2007.08.2023/00%20-%20Indice%20%28decre110-23%29/): sigla decre110-23, 12 articoli, aggiornato al 02/11/2026
+- [D MdG 217-2023 - 29.12.2023](D%20MdG%20217-2023%20-%2029.12.2023/00%20-%20Indice%20%28decre217-23%29/): sigla decre217-23, 4 articoli, aggiornato al 02/11/2026
+- [D MdG 206-2024 - 27.12.2024](D%20MdG%20206-2024%20-%2027.12.2024/00%20-%20Indice%20%28decre206-24%29/): sigla decre206-24, 2 articoli, aggiornato al 02/11/2026
+- [D MdG 114-2026 - 26.06.2026](D%20MdG%20114-2026%20-%2026.06.2026/00%20-%20Indice%20%28decre114-26%29/): sigla decre114-26, 2 articoli, aggiornato al 02/11/2026
 
 ## Altri atti
 
-- [eIDAS (Regolamento UE n. 910-2014 - 23.07.2014)](eIDAS%20%28Regolamento%20UE%20n. 910-2014%20-%2023.07.2014%29/00%20-%20Indice%20%28reg910-14%29/): sigla reg910-14, 82 articoli, aggiornato al 28/10/2026
-- [GDPR (Regolamento UE 2016-679 - 27.04.2016)](GDPR%20%28Regolamento%20UE%202016-679%20-%2027.04.2016%29/00%20-%20Indice%20%28reg679-16%29/): sigla reg679-16, 99 articoli, aggiornato al 28/10/2026
+- [eIDAS (Regolamento UE n. 910-2014 - 23.07.2014)](eIDAS%20%28Regolamento%20UE%20n.%20910-2014%20-%2023.07.2014%29/00%20-%20Indice%20%28reg910-14%29/): sigla reg910-14, 82 articoli, aggiornato al 02/11/2026
+- [GDPR (Regolamento UE 2016-679 - 27.04.2016)](GDPR%20%28Regolamento%20UE%202016-679%20-%2027.04.2016%29/00%20-%20Indice%20%28reg679-16%29/): sigla reg679-16, 99 articoli, aggiornato al 02/11/2026
+- [AI Act (Regolamento UE 2024-1689 - 13.06.2024)](AI%20Act%20%28Regolamento%20UE%202024-1689%20-%2013.06.2024%29/00%20-%20Indice%20%28reg1689-24%29/): sigla reg1689-24, 119 articoli, aggiornato al 02/11/2026
 
 ## Fuori dall'aggiornamento automatico
 

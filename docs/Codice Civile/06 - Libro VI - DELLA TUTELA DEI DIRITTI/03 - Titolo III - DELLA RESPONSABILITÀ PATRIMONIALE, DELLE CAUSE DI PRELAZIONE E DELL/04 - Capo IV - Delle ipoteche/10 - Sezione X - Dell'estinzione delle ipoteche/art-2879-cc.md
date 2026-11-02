@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "X"
 sezione_label: "Dell'estinzione delle ipoteche"
 rubrica: "Rinunzia all'ipoteca"
-dataVigenza: "20260914"
-ordine: 3189
+dataVigenza: "20261102"
+ordine: 3190
 ---
 
 # Art. 2879 - ***Rinunzia all'ipoteca***

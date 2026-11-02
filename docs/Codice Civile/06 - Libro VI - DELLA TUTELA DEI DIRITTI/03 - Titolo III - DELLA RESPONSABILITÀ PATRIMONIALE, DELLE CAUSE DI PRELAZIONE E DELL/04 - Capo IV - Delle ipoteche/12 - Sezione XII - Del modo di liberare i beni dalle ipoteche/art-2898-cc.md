@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "XII"
 sezione_label: "Del modo di liberare i beni dalle ipoteche"
 rubrica: "Beni non ipotecati per il credito per il quale si procede"
-dataVigenza: "20260914"
-ordine: 3208
+dataVigenza: "20261102"
+ordine: 3209
 ---
 
 # Art. 2898 - ***Beni non ipotecati per il credito per il quale si procede***

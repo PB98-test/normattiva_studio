@@ -16,8 +16,8 @@ capo_label: "ROGATORIE DALL'ESTERO"
 sezione: null
 sezione_label: null
 rubrica: "Trasferimento temporaneo all'estero di persone detenute"
-dataVigenza: "20261016"
-ordine: 871
+dataVigenza: "20261102"
+ordine: 872
 ---
 
 # Art. 726-quater - ***Trasferimento temporaneo all'estero di persone detenute***

@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Impugnazione dell'imputato per gli interessi civili"
-dataVigenza: "20261016"
-ordine: 691
+dataVigenza: "20261102"
+ordine: 692
 ---
 
 # Art. 574 - ***Impugnazione dell'imputato per gli interessi civili***

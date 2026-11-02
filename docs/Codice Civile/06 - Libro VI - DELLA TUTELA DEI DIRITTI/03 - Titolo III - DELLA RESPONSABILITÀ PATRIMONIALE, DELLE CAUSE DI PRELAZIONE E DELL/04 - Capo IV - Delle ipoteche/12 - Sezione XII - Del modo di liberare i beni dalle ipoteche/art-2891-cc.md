@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "XII"
 sezione_label: "Del modo di liberare i beni dalle ipoteche"
 rubrica: "Diritto dei creditori di far vendere i beni"
-dataVigenza: "20260914"
-ordine: 3201
+dataVigenza: "20261102"
+ordine: 3202
 ---
 
 # Art. 2891 - ***Diritto dei creditori di far vendere i beni***

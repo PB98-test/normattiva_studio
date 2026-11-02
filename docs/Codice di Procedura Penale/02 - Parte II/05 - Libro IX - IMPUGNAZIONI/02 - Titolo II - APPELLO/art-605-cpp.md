@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Sentenza"
-dataVigenza: "20261016"
-ordine: 728
+dataVigenza: "20261102"
+ordine: 729
 ---
 
 # Art. 605 - ***Sentenza***

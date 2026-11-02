@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da Dlgs 150-2011 - 09.01.2011 ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Dlgs 150-2011 - 09.01.2011 - 64 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Dlgs 150-2011 - 09.01.2011 - 75 leggi trovate)*
 
 - [articolo 54 della legge 18 giugno 2009, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-06-18;69)
 - [articolo 14 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400)
@@ -52,6 +52,16 @@ search:
 - [articolo 55-quinquies del decreto legislativo 11 aprile 2006, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2006-04-11;198)
 - [articolo 54 del decreto legislativo 8 giugno 2001, n. 327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2001-06-08;327)
 - [articolo 67 della legge 31 maggio 1995, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-05-31;218)
+- [regolamento (CE) n. 2201/2003](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32003R2201)
+- [regolamento (CE) n. 1347/2000](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32000R1347)
+- [regolamento (CE) n. 4/2009](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32009R0004)
+- [regolamento (UE) 2016/1103](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32016R1103)
+- [regolamento (UE) 2016/1104](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32016R1104)
+- [regolamento (UE) n. 650/2012](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32012R0650)
+- [regolamento (UE) n. 1215/2012](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32012R1215)
+- [regolamento (UE) n. 606/2013](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32013R0606)
+- [regolamento (UE) n. 2015/848](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32015R0848)
+- [regolamento (UE) n. 2019/1111](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32019R1111)
 - [articolo 1 della legge 14 aprile 1982, n. 164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-04-14;164)
 - [art. 31, comma 4, del decreto legislativo 1° settembre 2011, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2011-09-01;150)
 - [regio decreto 14 aprile 1910, n. 639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regiodecreto:1910-04-14;639)
@@ -71,3 +81,4 @@ search:
 - [Art. 3, legge 24 dicembre 1908, n. 797](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-12-24;797)
 - [legge 10 luglio 1930, n. 1078](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1930-07-10;1078)
 - [decreto legislativo 1° settembre 2011, n. 150.». 39. Alla legge 14 aprile 1982, n. 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1982-04-14;16)
+- [regolamento (CE) n. 659/1999](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31999R0659)

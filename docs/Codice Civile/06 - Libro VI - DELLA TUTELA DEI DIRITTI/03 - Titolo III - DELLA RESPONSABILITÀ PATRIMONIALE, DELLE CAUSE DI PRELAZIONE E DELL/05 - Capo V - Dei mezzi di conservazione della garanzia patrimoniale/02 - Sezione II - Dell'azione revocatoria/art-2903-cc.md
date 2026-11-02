@@ -14,8 +14,8 @@ capo_label: "Dei mezzi di conservazione della garanzia patrimoniale"
 sezione: "II"
 sezione_label: "Dell'azione revocatoria"
 rubrica: "Prescrizione dell'azione"
-dataVigenza: "20260914"
-ordine: 3213
+dataVigenza: "20261102"
+ordine: 3214
 ---
 
 # Art. 2903 - ***Prescrizione dell'azione***

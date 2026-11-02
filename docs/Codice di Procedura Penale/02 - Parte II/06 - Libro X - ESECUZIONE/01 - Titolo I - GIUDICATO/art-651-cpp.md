@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Efficacia della sentenza penale di condanna nel giudizio civile o amministrativo di danno"
-dataVigenza: "20261016"
-ordine: 779
+dataVigenza: "20261102"
+ordine: 780
 ---
 
 # Art. 651 - ***Efficacia della sentenza penale di condanna nel giudizio civile o amministrativo di danno***

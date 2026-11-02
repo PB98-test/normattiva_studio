@@ -16,8 +16,8 @@ capo_label: "EFFETTI DELLE SENTENZE PENALI STRANIERE"
 sezione: null
 sezione_label: null
 rubrica: "Divieto di estradizione e di nuovo procedimento"
-dataVigenza: "20261016"
-ordine: 893
+dataVigenza: "20261102"
+ordine: 894
 ---
 
 # Art. 739 - ***Divieto di estradizione e di nuovo procedimento***

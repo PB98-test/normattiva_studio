@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "VII"
 sezione_label: "Degli effetti dell'ipoteca rispetto al terzo acquirente"
 rubrica: "Termine ed esecuzione del rilascio"
-dataVigenza: "20260914"
-ordine: 3171
+dataVigenza: "20261102"
+ordine: 3172
 ---
 
 # Art. 2861 - ***Termine ed esecuzione del rilascio***

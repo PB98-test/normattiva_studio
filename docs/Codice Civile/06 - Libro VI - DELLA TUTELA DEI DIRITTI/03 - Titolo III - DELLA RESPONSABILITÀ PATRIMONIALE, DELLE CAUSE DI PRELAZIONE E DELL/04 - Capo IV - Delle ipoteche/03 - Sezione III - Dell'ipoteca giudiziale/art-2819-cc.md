@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "III"
 sezione_label: "Dell'ipoteca giudiziale"
 rubrica: "Sentenze arbitrali"
-dataVigenza: "20260914"
-ordine: 3128
+dataVigenza: "20261102"
+ordine: 3129
 ---
 
 # Art. 2819 - ***Sentenze arbitrali***

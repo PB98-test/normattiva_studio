@@ -14,8 +14,8 @@ capo_label: "Degli altri illeciti, delle circostanze attenuanti e delle misure d
 sezione: null
 sezione_label: null
 rubrica: "ARTICOLO NON PIÙ PREVISTO A SEGUITO DELLA SOSTITUZIONE DEL LIBRO V, TITOLO XI DISPOSTA DAL D.LGS. 11 APRILE 2002, N. 61"
-dataVigenza: "20260914"
-ordine: 2941
+dataVigenza: "20261102"
+ordine: 2942
 ---
 
 # Art. 2642 - ***ARTICOLO NON PIÙ PREVISTO A SEGUITO DELLA SOSTITUZIONE DEL LIBRO V, TITOLO XI DISPOSTA DAL D.LGS. 11 APRILE 2002, N. 61***

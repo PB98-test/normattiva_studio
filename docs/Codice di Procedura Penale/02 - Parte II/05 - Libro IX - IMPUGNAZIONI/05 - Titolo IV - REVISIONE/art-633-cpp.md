@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Forma della richiesta"
-dataVigenza: "20261016"
-ordine: 761
+dataVigenza: "20261102"
+ordine: 762
 ---
 
 # Art. 633 - ***Forma della richiesta***

@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "XII"
 sezione_label: "Del modo di liberare i beni dalle ipoteche"
 rubrica: "Desistenza del creditore"
-dataVigenza: "20260914"
-ordine: 3205
+dataVigenza: "20261102"
+ordine: 3206
 ---
 
 # Art. 2895 - ***Desistenza del creditore***

@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Decisioni in camera di consiglio senza la partecipazione delle parti"
-dataVigenza: "20261016"
-ordine: 719
+dataVigenza: "20261102"
+ordine: 720
 ---
 
 # Art. 598-bis - ***Decisioni in camera di consiglio senza la partecipazione delle parti***

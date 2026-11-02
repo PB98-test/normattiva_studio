@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Provvedimenti del giudice"
-dataVigenza: "20261016"
-ordine: 668
+dataVigenza: "20261102"
+ordine: 669
 ---
 
 # Art. 554-ter - ***Provvedimenti del giudice***

@@ -14,8 +14,8 @@ capo_label: "Del pegno"
 sezione: "III"
 sezione_label: "Del pegno di crediti e di altri diritti"
 rubrica: "Norme applicabili al pegno di crediti"
-dataVigenza: "20260914"
-ordine: 3116
+dataVigenza: "20261102"
+ordine: 3117
 ---
 
 # Art. 2807 - ***Norme applicabili al pegno di crediti***

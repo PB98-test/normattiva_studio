@@ -16,8 +16,8 @@ capo_label: "ESTRADIZIONE DALL'ESTERO"
 sezione: null
 sezione_label: null
 rubrica: "Custodia cautelare all'estero"
-dataVigenza: "20261016"
-ordine: 863
+dataVigenza: "20261102"
+ordine: 864
 ---
 
 # Art. 722 - ***Custodia cautelare all'estero***

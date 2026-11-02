@@ -16,8 +16,8 @@ capo_label: "GIUDICE DELL'ESECUZIONE"
 sezione: null
 sezione_label: null
 rubrica: "Pluralità di sentenze per il medesimo fatto contro la stessa persona"
-dataVigenza: "20261016"
-ordine: 800
+dataVigenza: "20261102"
+ordine: 801
 ---
 
 # Art. 669 - ***Pluralità di sentenze per il medesimo fatto contro la stessa persona***

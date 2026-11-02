@@ -16,8 +16,8 @@ capo_label: "EFFETTI DELLE SENTENZE PENALI STRANIERE"
 sezione: null
 sezione_label: null
 rubrica: "Procedimento relativo al riconoscimento delle disposizioni civili di sentenze penali straniere"
-dataVigenza: "20261016"
-ordine: 897
+dataVigenza: "20261102"
+ordine: 898
 ---
 
 # Art. 741 - ***Procedimento relativo al riconoscimento delle disposizioni civili di sentenze penali straniere***

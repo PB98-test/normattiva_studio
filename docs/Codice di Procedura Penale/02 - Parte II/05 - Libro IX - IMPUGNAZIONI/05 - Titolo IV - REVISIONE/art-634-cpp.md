@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Declaratoria d'inammissibilità"
-dataVigenza: "20261016"
-ordine: 762
+dataVigenza: "20261102"
+ordine: 763
 ---
 
 # Art. 634 - ***Declaratoria d'inammissibilità***

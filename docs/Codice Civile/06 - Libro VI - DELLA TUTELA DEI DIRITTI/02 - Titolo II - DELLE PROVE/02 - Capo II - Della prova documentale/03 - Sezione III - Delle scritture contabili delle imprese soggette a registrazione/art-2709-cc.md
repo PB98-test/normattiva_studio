@@ -14,8 +14,8 @@ capo_label: "Della prova documentale"
 sezione: "III"
 sezione_label: "Delle scritture contabili delle imprese soggette a registrazione"
 rubrica: "Efficacia probatoria contro l'imprenditore"
-dataVigenza: "20260914"
-ordine: 3014
+dataVigenza: "20261102"
+ordine: 3015
 ---
 
 # Art. 2709 - ***Efficacia probatoria contro l'imprenditore***

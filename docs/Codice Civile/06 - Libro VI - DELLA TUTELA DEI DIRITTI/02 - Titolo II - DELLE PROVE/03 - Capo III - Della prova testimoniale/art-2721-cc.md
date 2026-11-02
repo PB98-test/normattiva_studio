@@ -14,8 +14,8 @@ capo_label: "Della prova testimoniale"
 sezione: null
 sezione_label: null
 rubrica: "Ammissibilità: limiti di valore"
-dataVigenza: "20260914"
-ordine: 3026
+dataVigenza: "20261102"
+ordine: 3027
 ---
 
 # Art. 2721 - ***Ammissibilità: limiti di valore***

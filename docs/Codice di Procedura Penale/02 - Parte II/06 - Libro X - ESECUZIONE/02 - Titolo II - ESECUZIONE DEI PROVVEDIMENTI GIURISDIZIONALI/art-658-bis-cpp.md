@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Misure di sicurezza da eseguire presso strutture sanitarie"
-dataVigenza: "20261016"
-ordine: 789
+dataVigenza: "20261102"
+ordine: 790
 ---
 
 # Art. 658-bis - ***Misure di sicurezza da eseguire presso strutture sanitarie***

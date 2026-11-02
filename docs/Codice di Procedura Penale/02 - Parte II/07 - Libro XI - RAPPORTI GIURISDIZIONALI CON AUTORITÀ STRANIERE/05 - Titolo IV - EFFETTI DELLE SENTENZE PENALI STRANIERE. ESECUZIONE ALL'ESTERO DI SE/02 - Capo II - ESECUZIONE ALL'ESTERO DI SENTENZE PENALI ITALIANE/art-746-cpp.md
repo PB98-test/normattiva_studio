@@ -16,8 +16,8 @@ capo_label: "ESECUZIONE ALL'ESTERO DI SENTENZE PENALI ITALIANE"
 sezione: null
 sezione_label: null
 rubrica: "Effetti sull'esecuzione nello Stato"
-dataVigenza: "20261016"
-ordine: 903
+dataVigenza: "20261102"
+ordine: 904
 ---
 
 # Art. 746 - ***Effetti sull'esecuzione nello Stato***

@@ -14,8 +14,8 @@ capo_label: "Disposizioni generali"
 sezione: null
 sezione_label: null
 rubrica: "Effetti costitutivi delle sentenze"
-dataVigenza: "20260914"
-ordine: 3218
+dataVigenza: "20261102"
+ordine: 3219
 ---
 
 # Art. 2908 - ***Effetti costitutivi delle sentenze***

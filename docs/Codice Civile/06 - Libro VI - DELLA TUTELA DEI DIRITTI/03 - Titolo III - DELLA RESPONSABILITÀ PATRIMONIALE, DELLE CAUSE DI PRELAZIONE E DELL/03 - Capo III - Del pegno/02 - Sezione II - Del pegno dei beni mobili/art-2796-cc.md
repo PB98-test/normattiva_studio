@@ -14,8 +14,8 @@ capo_label: "Del pegno"
 sezione: "II"
 sezione_label: "Del pegno dei beni mobili"
 rubrica: "Vendita della cosa"
-dataVigenza: "20260914"
-ordine: 3105
+dataVigenza: "20261102"
+ordine: 3106
 ---
 
 # Art. 2796 - ***Vendita della cosa***

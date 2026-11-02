@@ -14,8 +14,8 @@ capo_label: "Del pegno"
 sezione: "II"
 sezione_label: "Del pegno dei beni mobili"
 rubrica: "Prelazione per il credito degli interessi"
-dataVigenza: "20260914"
-ordine: 3097
+dataVigenza: "20261102"
+ordine: 3098
 ---
 
 # Art. 2788 - ***Prelazione per il credito degli interessi***

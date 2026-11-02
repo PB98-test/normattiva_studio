@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "VIII"
 sezione_label: "Degli effetti dell'ipoteca rispetto al terzo datore"
 rubrica: "Diritti del terzo datore che ha pagato i creditori iscritti o ha sofferto l'espropriazione"
-dataVigenza: "20260914"
-ordine: 3181
+dataVigenza: "20261102"
+ordine: 3182
 ---
 
 # Art. 2871 - ***Diritti del terzo datore che ha pagato i creditori iscritti o ha sofferto l'espropriazione***

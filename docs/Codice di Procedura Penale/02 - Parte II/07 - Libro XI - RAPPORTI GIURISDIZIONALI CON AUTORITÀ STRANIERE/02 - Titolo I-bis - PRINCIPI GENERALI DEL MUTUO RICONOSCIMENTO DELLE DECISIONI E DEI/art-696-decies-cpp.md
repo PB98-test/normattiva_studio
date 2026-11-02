@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Tutela dei terzi di buona fede"
-dataVigenza: "20261016"
-ordine: 836
+dataVigenza: "20261102"
+ordine: 837
 ---
 
 # Art. 696-decies - ***Tutela dei terzi di buona fede***

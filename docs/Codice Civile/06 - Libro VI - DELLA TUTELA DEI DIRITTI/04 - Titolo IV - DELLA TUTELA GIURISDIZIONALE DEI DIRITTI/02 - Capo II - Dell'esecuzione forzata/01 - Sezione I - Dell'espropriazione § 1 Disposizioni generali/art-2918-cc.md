@@ -14,8 +14,8 @@ capo_label: "Dell'esecuzione forzata"
 sezione: "I"
 sezione_label: "Dell'espropriazione § 1 Disposizioni generali"
 rubrica: "Cessioni e liberazioni di pigioni e di fitti"
-dataVigenza: "20260914"
-ordine: 3228
+dataVigenza: "20261102"
+ordine: 3229
 ---
 
 # Art. 2918 - ***Cessioni e liberazioni di pigioni e di fitti***

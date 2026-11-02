@@ -14,8 +14,8 @@ capo_label: "Della pubblicità dei registri immobiliari e della responsabilità 
 sezione: null
 sezione_label: null
 rubrica: "Divieto di rimozione dei registri"
-dataVigenza: "20260914"
-ordine: 2986
+dataVigenza: "20261102"
+ordine: 2987
 ---
 
 # Art. 2681 - ***Divieto di rimozione dei registri***

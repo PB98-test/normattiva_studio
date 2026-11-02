@@ -14,8 +14,8 @@ capo_label: "Della confessione"
 sezione: null
 sezione_label: null
 rubrica: "Capacità richiesta per la confessione"
-dataVigenza: "20260914"
-ordine: 3036
+dataVigenza: "20261102"
+ordine: 3037
 ---
 
 # Art. 2731 - ***Capacità richiesta per la confessione***

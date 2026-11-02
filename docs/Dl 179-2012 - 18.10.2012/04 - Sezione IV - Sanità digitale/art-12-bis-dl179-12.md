@@ -14,7 +14,7 @@ capo_label: null
 sezione: "IV"
 sezione_label: "Sanità digitale"
 rubrica: "Intelligenza artificiale nel settore sanitario"
-dataVigenza: "20261002"
+dataVigenza: "20261102"
 ordine: 16
 ---
 
@@ -32,4 +32,4 @@ ordine: 16
 
 4\. La piattaforma di cui al comma 2 è alimentata con i dati strettamente necessari per l'erogazione dei servizi di cui al medesimo comma 2, trasmessi dai relativi titolari del trattamento. L'AGENAS è titolare del trattamento dei dati raccolti e generati all'interno della piattaforma.
 
-5\. Previo parere del Ministero della salute, del Garante per la protezione dei dati personali e dell'Agenzia per la cybersicurezza nazionale, l'AGENAS, con proprio provvedimento, valutato l'impatto del trattamento, specifica i tipi di dati trattati e le operazioni eseguite all'interno della piattaforma, nonchè le misure tecniche e organizzative per garantire un livello di sicurezza adeguato al rischio e per tutelare i diritti fondamentali e gli interessi dell'interessato, in coerenza con le disposizioni del regolamento (UE) 2016/679.
+5\. Previo parere del Ministero della salute, del Garante per la protezione dei dati personali e dell'Agenzia per la cybersicurezza nazionale, l'AGENAS, con proprio provvedimento, valutato l'impatto del trattamento, specifica i tipi di dati trattati e le operazioni eseguite all'interno della piattaforma, nonchè le misure tecniche e organizzative per garantire un livello di sicurezza adeguato al rischio e per tutelare i diritti fondamentali e gli interessi dell'interessato, in coerenza con le disposizioni del [regolamento (UE) 2016/679](../../GDPR%20%28Regolamento%20UE%202016-679%20-%2027.04.2016%29/00%20-%20Indice%20%28reg679-16%29.md).

@@ -14,8 +14,8 @@ capo_label: "Dei privilegi"
 sezione: "IV"
 sezione_label: "Dell'ordine dei privilegi"
 rubrica: "Crediti derivanti dall'applicazione dei prelievi di cui agli articoli 49 e 50 del trattato che istituisce la Comunità europea del carbone e dell'acciaio"
-dataVigenza: "20261016"
-ordine: 3091
+dataVigenza: "20261102"
+ordine: 3092
 ---
 
 # Art. 2783-bis - ***Crediti derivanti dall'applicazione dei prelievi di cui agli articoli 49 e 50 del trattato che istituisce la Comunità europea del carbone e dell'acciaio***

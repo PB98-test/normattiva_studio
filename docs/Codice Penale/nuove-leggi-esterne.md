@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da Codice Penale ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Codice Penale - 145 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Codice Penale - 149 leggi trovate)*
 
 - [legge 24 dicembre 1925, n. 2260](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-12-24;2260)
 - [D.P.R. 19 dicembre 1953, n. 922](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-12-19;922)
@@ -57,12 +57,14 @@ search:
 - [L. 7 FEBBRAIO 1990, N. 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-02-07;19)
 - [L. 27 giugno 1942, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-06-27;827)
 - [D.Lgs. del Capo Provvisorio dello Stato 11 dicembre 1946, n. 653](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1946-12-11;653)
+- [decreto legislativo 26 settembre 2024, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2024-09-26;141)
 - [L. 29 maggio 1982, n. 304](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-05-29;304)
 - [D.L. 1 ottobre 1982, n. 695](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:1982-10-01;695)
 - [L. 29 novembre 1982, n. 882](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-11-29;882)
 - [D.L. 18 febbraio 2015, n. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2015-02-18;7)
 - [L. 17 aprile 2015, n. 43](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-04-17;43)
 - [legge 18 aprile 1975, n. 110](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-04-18;110)
+- [regolamento (UE) 2021/821](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32021R0821)
 - [D.P.R. 22 maggio 1970, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-05-22;283)
 - [L. 9 febbraio 1942, n. 97](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-02-09;97)
 - [L. 17 ottobre 2017, n. 161](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-10-17;161)
@@ -81,8 +83,10 @@ search:
 - [articolo 1, comma 1, della legge n. 162 del 2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014;162)
 - [legge 25 gennaio 1982, n. 17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-01-25;17)
 - [L. 1 marzo 2001, n. 63](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-03-01;63)
-- [decreto legislativo 25 luglio 1998, n. 286](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1998-07-25;286)
+- [decreto legislativo 25 luglio 1998, n. 286, nonchè agli articoli 22, commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1998-07-25;286)
+- [comma 1, della legge 1° aprile 1999, n. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-04-01;91)
 - [L. 19 MARZO 1990, N. 55](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-19;55)
+- [L. 18 MARZO 2008, N. 48](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-03-18;48)
 - [D.Lgs. Luogotenenziale 10 maggio 1945, n. 234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativoluogotenenziale:1945-05-10;234)
 - [L. 21 novembre 2000, n. 353](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-11-21;353)
 - [art. 1, comma 1, del D.L. 4 agosto 2000, n. 220](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2000-08-04;220)

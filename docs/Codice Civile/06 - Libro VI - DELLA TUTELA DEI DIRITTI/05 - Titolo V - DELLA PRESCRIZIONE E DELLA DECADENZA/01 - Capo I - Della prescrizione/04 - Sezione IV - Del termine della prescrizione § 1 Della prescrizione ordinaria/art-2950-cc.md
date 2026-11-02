@@ -14,8 +14,8 @@ capo_label: "Della prescrizione"
 sezione: "IV"
 sezione_label: "Del termine della prescrizione § 1 Della prescrizione ordinaria"
 rubrica: "Prescrizione del diritto del mediatore"
-dataVigenza: "20260914"
-ordine: 3261
+dataVigenza: "20261102"
+ordine: 3262
 ---
 
 # Art. 2950 - ***Prescrizione del diritto del mediatore***

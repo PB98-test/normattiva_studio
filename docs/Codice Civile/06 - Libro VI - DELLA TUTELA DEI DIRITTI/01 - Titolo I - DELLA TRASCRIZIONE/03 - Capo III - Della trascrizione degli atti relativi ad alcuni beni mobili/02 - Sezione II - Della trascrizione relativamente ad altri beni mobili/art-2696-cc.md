@@ -14,8 +14,8 @@ capo_label: "Della trascrizione degli atti relativi ad alcuni beni mobili"
 sezione: "II"
 sezione_label: "Della trascrizione relativamente ad altri beni mobili"
 rubrica: "Rinvio"
-dataVigenza: "20260914"
-ordine: 3001
+dataVigenza: "20261102"
+ordine: 3002
 ---
 
 # Art. 2696 - ***Rinvio***

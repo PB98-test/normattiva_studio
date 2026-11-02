@@ -16,8 +16,8 @@ capo_label: "EFFETTI DELLE SENTENZE PENALI STRANIERE"
 sezione: null
 sezione_label: null
 rubrica: "Presupposti del riconoscimento"
-dataVigenza: "20261016"
-ordine: 884
+dataVigenza: "20261102"
+ordine: 885
 ---
 
 # Art. 733 - ***Presupposti del riconoscimento***

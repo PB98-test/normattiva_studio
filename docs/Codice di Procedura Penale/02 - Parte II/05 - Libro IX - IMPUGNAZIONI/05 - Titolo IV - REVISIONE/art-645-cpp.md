@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Domanda di riparazione"
-dataVigenza: "20261016"
-ordine: 773
+dataVigenza: "20261102"
+ordine: 774
 ---
 
 # Art. 645 - ***Domanda di riparazione***

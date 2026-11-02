@@ -14,8 +14,8 @@ capo_label: "Della prova documentale"
 sezione: "VI"
 sezione_label: "Delle copie degli atti"
 rubrica: "Copie di scritture private originali depositate"
-dataVigenza: "20260914"
-ordine: 3020
+dataVigenza: "20261102"
+ordine: 3021
 ---
 
 # Art. 2715 - ***Copie di scritture private originali depositate***

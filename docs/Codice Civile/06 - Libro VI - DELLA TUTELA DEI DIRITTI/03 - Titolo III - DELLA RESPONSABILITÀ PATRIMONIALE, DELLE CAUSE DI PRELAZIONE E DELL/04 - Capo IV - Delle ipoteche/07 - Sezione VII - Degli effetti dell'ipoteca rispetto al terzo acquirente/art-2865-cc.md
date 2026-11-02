@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "VII"
 sezione_label: "Degli effetti dell'ipoteca rispetto al terzo acquirente"
 rubrica: "Frutti dovuti dal terzo"
-dataVigenza: "20260914"
-ordine: 3175
+dataVigenza: "20261102"
+ordine: 3176
 ---
 
 # Art. 2865 - ***Frutti dovuti dal terzo***

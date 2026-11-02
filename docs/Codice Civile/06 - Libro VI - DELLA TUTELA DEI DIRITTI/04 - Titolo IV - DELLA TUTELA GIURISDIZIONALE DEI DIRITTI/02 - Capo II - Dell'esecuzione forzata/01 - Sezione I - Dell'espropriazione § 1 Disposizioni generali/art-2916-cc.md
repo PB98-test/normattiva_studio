@@ -14,8 +14,8 @@ capo_label: "Dell'esecuzione forzata"
 sezione: "I"
 sezione_label: "Dell'espropriazione § 1 Disposizioni generali"
 rubrica: "Ipoteche e privilegi"
-dataVigenza: "20260914"
-ordine: 3226
+dataVigenza: "20261102"
+ordine: 3227
 ---
 
 # Art. 2916 - ***Ipoteche e privilegi***

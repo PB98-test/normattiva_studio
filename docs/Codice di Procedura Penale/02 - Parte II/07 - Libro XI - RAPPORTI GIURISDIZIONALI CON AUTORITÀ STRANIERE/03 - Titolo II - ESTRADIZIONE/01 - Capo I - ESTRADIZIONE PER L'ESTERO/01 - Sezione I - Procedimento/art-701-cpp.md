@@ -16,8 +16,8 @@ capo_label: "ESTRADIZIONE PER L'ESTERO"
 sezione: "I"
 sezione_label: "Procedimento"
 rubrica: "Garanzia giurisdizionale"
-dataVigenza: "20261016"
-ordine: 841
+dataVigenza: "20261102"
+ordine: 842
 ---
 
 # Art. 701 - ***Garanzia giurisdizionale***

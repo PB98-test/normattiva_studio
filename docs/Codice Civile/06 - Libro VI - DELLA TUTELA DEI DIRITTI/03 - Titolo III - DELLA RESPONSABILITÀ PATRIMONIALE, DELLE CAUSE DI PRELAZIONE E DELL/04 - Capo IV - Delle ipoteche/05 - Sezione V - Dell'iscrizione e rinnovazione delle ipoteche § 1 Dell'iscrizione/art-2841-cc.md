@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "V"
 sezione_label: "Dell'iscrizione e rinnovazione delle ipoteche § 1 Dell'iscrizione"
 rubrica: "Omissioni e inesattezze nei titoli o nelle note"
-dataVigenza: "20260914"
-ordine: 3151
+dataVigenza: "20261102"
+ordine: 3152
 ---
 
 # Art. 2841 - ***Omissioni e inesattezze nei titoli o nelle note***

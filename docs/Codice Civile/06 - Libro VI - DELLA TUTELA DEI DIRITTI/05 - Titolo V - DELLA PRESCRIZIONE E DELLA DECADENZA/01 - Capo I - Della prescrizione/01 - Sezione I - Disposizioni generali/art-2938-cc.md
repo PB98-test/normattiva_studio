@@ -14,8 +14,8 @@ capo_label: "Della prescrizione"
 sezione: "I"
 sezione_label: "Disposizioni generali"
 rubrica: "Non rilevabilità d'ufficio"
-dataVigenza: "20260914"
-ordine: 3249
+dataVigenza: "20261102"
+ordine: 3250
 ---
 
 # Art. 2938 - ***Non rilevabilità d'ufficio***

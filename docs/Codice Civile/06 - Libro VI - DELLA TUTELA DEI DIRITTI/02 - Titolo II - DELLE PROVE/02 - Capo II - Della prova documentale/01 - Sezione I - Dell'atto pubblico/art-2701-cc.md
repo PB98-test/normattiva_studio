@@ -14,8 +14,8 @@ capo_label: "Della prova documentale"
 sezione: "I"
 sezione_label: "Dell'atto pubblico"
 rubrica: "Conversione dell'atto pubblico"
-dataVigenza: "20260914"
-ordine: 3006
+dataVigenza: "20261102"
+ordine: 3007
 ---
 
 # Art. 2701 - ***Conversione dell'atto pubblico***

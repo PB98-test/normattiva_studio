@@ -14,8 +14,8 @@ capo_label: "Dei privilegi"
 sezione: "II"
 sezione_label: "Dei privilegi sui mobili § 1 Dei privilegi generali sui mobili"
 rubrica: "Crediti per prestazioni e spese di conservazione e miglioramento"
-dataVigenza: "20260914"
-ordine: 3062
+dataVigenza: "20261102"
+ordine: 3063
 ---
 
 # Art. 2756 - ***Crediti per prestazioni e spese di conservazione e miglioramento***

@@ -16,8 +16,8 @@ capo_label: "ESTRADIZIONE PER L'ESTERO"
 sezione: "II"
 sezione_label: "Misure cautelari"
 rubrica: "Misure coercitive e sequestro"
-dataVigenza: "20261016"
-ordine: 854
+dataVigenza: "20261102"
+ordine: 855
 ---
 
 # Art. 714 - ***Misure coercitive e sequestro***

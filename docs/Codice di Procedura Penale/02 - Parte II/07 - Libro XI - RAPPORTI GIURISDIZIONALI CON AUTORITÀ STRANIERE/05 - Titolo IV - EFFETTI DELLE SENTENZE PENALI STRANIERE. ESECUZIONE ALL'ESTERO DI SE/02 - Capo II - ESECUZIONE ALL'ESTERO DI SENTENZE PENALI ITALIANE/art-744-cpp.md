@@ -16,8 +16,8 @@ capo_label: "ESECUZIONE ALL'ESTERO DI SENTENZE PENALI ITALIANE"
 sezione: null
 sezione_label: null
 rubrica: "Limiti dell'esecuzione della condanna all'estero"
-dataVigenza: "20261016"
-ordine: 901
+dataVigenza: "20261102"
+ordine: 902
 ---
 
 # Art. 744 - ***Limiti dell'esecuzione della condanna all'estero***

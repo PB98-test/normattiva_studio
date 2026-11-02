@@ -16,8 +16,8 @@ capo_label: "MAGISTRATURA DI SORVEGLIANZA"
 sezione: null
 sezione_label: null
 rubrica: "Rinvio dell'esecuzione"
-dataVigenza: "20261016"
-ordine: 815
+dataVigenza: "20261102"
+ordine: 816
 ---
 
 # Art. 684 - ***Rinvio dell'esecuzione***

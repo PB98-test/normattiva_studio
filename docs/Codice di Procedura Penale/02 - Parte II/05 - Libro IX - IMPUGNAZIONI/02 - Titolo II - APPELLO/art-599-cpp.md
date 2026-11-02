@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Decisioni in camera di consiglio con la partecipazione delle parti"
-dataVigenza: "20261016"
-ordine: 721
+dataVigenza: "20261102"
+ordine: 722
 ---
 
 # Art. 599 - ***Decisioni in camera di consiglio con la partecipazione delle parti***

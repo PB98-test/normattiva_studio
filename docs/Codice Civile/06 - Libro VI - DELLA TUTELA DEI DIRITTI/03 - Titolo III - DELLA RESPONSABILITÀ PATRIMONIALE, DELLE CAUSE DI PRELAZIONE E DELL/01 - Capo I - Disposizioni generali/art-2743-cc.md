@@ -14,8 +14,8 @@ capo_label: "Disposizioni generali"
 sezione: null
 sezione_label: null
 rubrica: "Diminuzione della garanzia"
-dataVigenza: "20260914"
-ordine: 3048
+dataVigenza: "20261102"
+ordine: 3049
 ---
 
 # Art. 2743 - ***Diminuzione della garanzia***

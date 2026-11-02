@@ -16,8 +16,8 @@ capo_label: "ROGATORIE ALL'ESTERO"
 sezione: null
 sezione_label: null
 rubrica: "Utilizzabilità degli atti assunti per rogatoria"
-dataVigenza: "20261016"
-ordine: 876
+dataVigenza: "20261102"
+ordine: 877
 ---
 
 # Art. 729 - ***Utilizzabilità degli atti assunti per rogatoria***

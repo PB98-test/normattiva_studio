@@ -14,8 +14,8 @@ capo_label: "Della trascrizione degli atti relativi ai beni immobili"
 sezione: null
 sezione_label: null
 rubrica: "Nota di trascrizione"
-dataVigenza: "20260914"
-ordine: 2961
+dataVigenza: "20261102"
+ordine: 2962
 ---
 
 # Art. 2659 - ***Nota di trascrizione***

@@ -14,8 +14,8 @@ capo_label: "Dei privilegi"
 sezione: "IV"
 sezione_label: "Dell'ordine dei privilegi"
 rubrica: "Preferenza delle spese di giustizia e di altri crediti."
-dataVigenza: "20260914"
-ordine: 3084
+dataVigenza: "20261102"
+ordine: 3085
 ---
 
 # Art. 2777 - ***Preferenza delle spese di giustizia e di altri crediti.***

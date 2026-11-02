@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Disposizioni generali"
-dataVigenza: "20261016"
-ordine: 904
+dataVigenza: "20261102"
+ordine: 905
 ---
 
 # Art. 746-bis - ***Disposizioni generali***

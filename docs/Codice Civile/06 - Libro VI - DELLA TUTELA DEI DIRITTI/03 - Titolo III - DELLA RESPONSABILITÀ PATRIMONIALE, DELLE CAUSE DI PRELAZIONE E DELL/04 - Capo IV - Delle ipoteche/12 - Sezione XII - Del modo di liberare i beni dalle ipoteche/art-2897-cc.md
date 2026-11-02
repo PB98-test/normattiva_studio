@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "XII"
 sezione_label: "Del modo di liberare i beni dalle ipoteche"
 rubrica: "Regresso dell'acquirente divenuto compratore all'incanto"
-dataVigenza: "20260914"
-ordine: 3207
+dataVigenza: "20261102"
+ordine: 3208
 ---
 
 # Art. 2897 - ***Regresso dell'acquirente divenuto compratore all'incanto***

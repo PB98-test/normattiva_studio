@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da Antiriciclaggio (Dlgs 231-2007 - 21.11.2007) ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Antiriciclaggio (Dlgs 231-2007 - 21.11.2007) - 109 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Antiriciclaggio (Dlgs 231-2007 - 21.11.2007) - 118 leggi trovate)*
 
 - [direttiva 91/308/CEE del Consiglio, del 10 giugno 1991](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31991L0308)
 - [decreto-legge 3 maggio 1991, n. 143](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:1991-05-03;143)
@@ -48,6 +48,10 @@ search:
 - [regolamento (UE) 2023/1114](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32023R1114)
 - [regolamento (UE) 2023/1113](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32023R1113)
 - [D.Lgs. 25 maggio 2017, n. 90](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2017-05-25;90)
+- [regolamento (UE) n. 1093/2010](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32010R1093)
+- [regolamento (UE) n. 648/2012](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32012R0648)
+- [direttiva (UE) 2015/2366](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32015L2366)
+- [regolamento (UE) 2018/1725](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32018R1725)
 - [D.LGS. 4 OTTOBRE 2019, N. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2019-10-04;125)
 - [legge 23 novembre 1939, n. 1966](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-11-23;1966)
 - [D.L. 17 MARZO 2023, N. 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2023-03-17;25)
@@ -78,15 +82,20 @@ search:
 - [articolo 2, comma 1, della legge 11 gennaio 1979, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-01-11;12)
 - [decreto legislativo n. 82 del 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2005;82)
 - [decreto legislativo 11 aprile 2011, n. 64](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2011-04-11;64)
+- [Regolamento Delegato (UE) 2018/389](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32018R0389)
 - [decreto del Presidente della Repubblica 10 febbraio 2000, n. 361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-02-10;361)
 - [articolo 73 del decreto del Presidente della Repubblica del 22 dicembre 1986 n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1986-12-22;917)
 - [articolo 22, paragrafo 1, della direttiva (UE) 2017/1132, del Parlamento europeo e del Consiglio, del 14 giugno 2017](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32017L1132)
 - [legge 29 dicembre 1993, n. 580](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-29;580)
+- [direttiva (UE) 2024/1640](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32024L1640)
+- [regolamento (UE) 2024/1620](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32024R1620)
+- [regolamento (UE) 2021/1060](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32021R1060)
+- [regolamento (UE) 2021/241](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32021R0241)
+- [regolamento (UE) 2024/1624](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32024R1624)
 - [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241)
 - [decreto del Presidente della Repubblica 7 dicembre 1995, n. 581](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1995-12-07;581)
 - [legge 16 ottobre 1989, n. 364](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-10-16;364)
 - [decreto legislativo 5 dicembre 2005, n. 252](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2005-12-05;252)
-- [articolo 4, paragrafo 7, della direttiva (UE) 2015/2366, del Parlamento europeo e del Consiglio, del 25 novembre 2015](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32015L2366)
 - [legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89)
 - [regio decreto 10 settembre 1914, n. 1326](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regiodecreto:1914-09-10;1326)
 - [legge 3 agosto 2007, n. 124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-08-03;124)

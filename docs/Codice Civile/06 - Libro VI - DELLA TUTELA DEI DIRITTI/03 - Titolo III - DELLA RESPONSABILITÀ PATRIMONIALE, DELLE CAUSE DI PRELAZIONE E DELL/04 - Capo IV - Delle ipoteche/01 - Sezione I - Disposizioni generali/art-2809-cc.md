@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "I"
 sezione_label: "Disposizioni generali"
 rubrica: "Specialità e indivisibilità dell'ipoteca"
-dataVigenza: "20260914"
-ordine: 3118
+dataVigenza: "20261102"
+ordine: 3119
 ---
 
 # Art. 2809 - ***Specialità e indivisibilità dell'ipoteca***

@@ -14,7 +14,7 @@ capo_label: "(Obblighi di adeguata verifica della clientela)"
 sezione: "I"
 sezione_label: "..."
 rubrica: "Accesso da parte dei soggetti obbligati"
-dataVigenza: "20261006"
+dataVigenza: "20261102"
 ordine: 27
 ---
 
@@ -35,7 +35,7 @@ ordine: 27
 
 5\. I soggetti obbligati accreditati, ferma restando la responsabilità per il rispetto della finalità della consultazione di cui al comma 1, possono designare, quali delegati all'accesso, soggetti incardinati nella propria organizzazione che svolgono attività di supporto per l'adempimento degli obblighi antiriciclaggio.
 
-6\. Il gestore del sistema informativo nazionale di cui all'articolo 8 della legge 29 dicembre 1993, n. 580, rende disponibili specifiche funzionalità che consentono ai soggetti obbligati accreditati l'accesso tramite strutture tecniche informatiche indicate da loro stessi per il collegamento con il sistema informatico del gestore, ferma restando la responsabilità del soggetto obbligato circa il rispetto della finalità della consultazione di cui al comma 1. A tal fine, il gestore individua apposite misure tecniche per garantire la sicurezza dei dati, ai sensi dell'articolo 32 del regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016, e della vigente normativa nazionale in materia di protezione dei dati personali.
+6\. Il gestore del sistema informativo nazionale di cui all'articolo 8 della legge 29 dicembre 1993, n. 580, rende disponibili specifiche funzionalità che consentono ai soggetti obbligati accreditati l'accesso tramite strutture tecniche informatiche indicate da loro stessi per il collegamento con il sistema informatico del gestore, ferma restando la responsabilità del soggetto obbligato circa il rispetto della finalità della consultazione di cui al comma 1. A tal fine, il gestore individua apposite misure tecniche per garantire la sicurezza dei dati, ai sensi dell'[articolo 32](../../../../GDPR%20%28Regolamento%20UE%202016-679%20-%2027.04.2016%29/04%20-%20Capo%20IV%20-%20Titolare%20del%20trattamento%20e%20responsabile%20del%20trattamento/02%20-%20Sezione%202%20-%20Sicurezza%20dei%20dati%20personali/art-32-reg679-16.md) del [regolamento (UE) 2016/679](../../../../GDPR%20%28Regolamento%20UE%202016-679%20-%2027.04.2016%29/00%20-%20Indice%20%28reg679-16%29.md) del Parlamento europeo e del Consiglio, del 27 aprile 2016, e della vigente normativa nazionale in materia di protezione dei dati personali.
 
 7\. I soggetti obbligati accreditati segnalano tempestivamente alla Camera di commercio territorialmente competente le eventuali incongruenze tra le informazioni sulla titolarità effettiva ottenute per effetto della consultazione della sezione autonoma e della sezione speciale del Registro delle imprese e le informazioni acquisite in sede di adeguata verifica della clientela, ai sensi del presente capo. Le segnalazioni acquisite sono consultabili da parte delle autorità abilitate all'accesso di cui all'[articolo 21-bis](art-21-bis-dlgs231-07.md), secondo le modalità indicate nelle convenzioni di cui al comma 2 del medesimo [articolo 21-bis](art-21-bis-dlgs231-07.md), garantendo, in ogni caso, l'anonimato dei soggetti obbligati segnalanti.
 

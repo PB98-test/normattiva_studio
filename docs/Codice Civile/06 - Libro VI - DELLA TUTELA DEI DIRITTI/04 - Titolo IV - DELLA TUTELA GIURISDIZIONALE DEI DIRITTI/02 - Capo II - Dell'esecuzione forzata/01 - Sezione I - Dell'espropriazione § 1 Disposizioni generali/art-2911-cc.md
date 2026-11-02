@@ -14,8 +14,8 @@ capo_label: "Dell'esecuzione forzata"
 sezione: "I"
 sezione_label: "Dell'espropriazione § 1 Disposizioni generali"
 rubrica: "Beni gravati da pegno o ipoteca"
-dataVigenza: "20260914"
-ordine: 3221
+dataVigenza: "20261102"
+ordine: 3222
 ---
 
 # Art. 2911 - ***Beni gravati da pegno o ipoteca***

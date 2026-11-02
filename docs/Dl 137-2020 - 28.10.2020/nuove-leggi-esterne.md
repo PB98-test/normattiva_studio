@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da Dl 137-2020 - 28.10.2020 ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Dl 137-2020 - 28.10.2020 - 205 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Dl 137-2020 - 28.10.2020 - 208 leggi trovate)*
 
 - [decreto-legge 17 marzo 2020, n.18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2020-03-17;18)
 - [legge 24 aprile 2020, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-04-24;27)
@@ -108,6 +108,9 @@ search:
 - [articolo 10 del decreto legislativo 4 dicembre 1997, n. 460](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1997-12-04;460)
 - [D.L. 25 maggio 2021, n. 73](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2021-05-25;73)
 - [L. 23 luglio 2021, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-07-23;106)
+- [regolamento (UE) n. 1407/2013](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32013R1407)
+- [regolamento (UE) n. 1408/2013](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32013R1408)
+- [regolamento (UE) n. 717/2014](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32014R0717)
 - [articoli da 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2015-06-15;81)
 - [articolo 2, comma 26, della legge 8 agosto 1995, n. 335, alla data del 30 novembre 2020](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-11-30;335)
 - [legge 27 dicembre 2006, n. 296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296)
@@ -118,7 +121,6 @@ search:
 - [articolo 7, comma 2, del decreto-legge 28 maggio 2004, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2004-05-28;136)
 - [legge 27 luglio 2004, n. 186](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-07-27;186)
 - [decreto del Presidente della Repubblica 22 dicembre 1986, n. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1986-12-22;91)
-- [articolo 13-bis della legge 31 dicembre 2012, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-31;247)
 - [decreto legislativo 30 dicembre 1992, n. 502](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1992-12-30;502)
 - [decreto legislativo 2 gennaio 2018, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2018-01-02;1)
 - [articolo 17 del decreto legislativo 9 luglio 1997, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1997-07-09;241)
@@ -145,6 +147,7 @@ search:
 - [legge 17 dicembre 2012, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-17;221)
 - [articoli 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;243)
 - [decreto legislativo 26 agosto 2016, n. 174](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2016-08-26;174)
+- [regolamento (UE) n. 549/2013](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32013R0549)
 - [articolo 3-ter del decreto-legge 22 dicembre 2011, n. 211](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2011-12-22;211)
 - [legge 17 febbraio 2012, n. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-02-17;9)
 - [articolo 2, comma 7, lettere a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2008-09-16;143)

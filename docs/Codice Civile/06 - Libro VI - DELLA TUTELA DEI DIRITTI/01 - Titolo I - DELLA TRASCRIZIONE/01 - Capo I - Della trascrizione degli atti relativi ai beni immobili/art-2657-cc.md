@@ -14,8 +14,8 @@ capo_label: "Della trascrizione degli atti relativi ai beni immobili"
 sezione: null
 sezione_label: null
 rubrica: "Titolo per la trascrizione"
-dataVigenza: "20260914"
-ordine: 2959
+dataVigenza: "20261102"
+ordine: 2960
 ---
 
 # Art. 2657 - ***Titolo per la trascrizione***

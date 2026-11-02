@@ -16,8 +16,8 @@ capo_label: "ROGATORIE DALL'ESTERO"
 sezione: null
 sezione_label: null
 rubrica: "Audizione mediante videoconferenza o altra trasmissione audiovisiva"
-dataVigenza: "20261016"
-ordine: 872
+dataVigenza: "20261102"
+ordine: 873
 ---
 
 # Art. 726-quinquies - ***Audizione mediante videoconferenza o altra trasmissione audiovisiva***

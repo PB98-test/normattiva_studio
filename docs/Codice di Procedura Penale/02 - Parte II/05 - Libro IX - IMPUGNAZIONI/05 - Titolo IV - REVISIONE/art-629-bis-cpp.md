@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Rescissione del giudicato"
-dataVigenza: "20261016"
-ordine: 757
+dataVigenza: "20261102"
+ordine: 758
 ---
 
 # Art. 629-bis - ***Rescissione del giudicato***

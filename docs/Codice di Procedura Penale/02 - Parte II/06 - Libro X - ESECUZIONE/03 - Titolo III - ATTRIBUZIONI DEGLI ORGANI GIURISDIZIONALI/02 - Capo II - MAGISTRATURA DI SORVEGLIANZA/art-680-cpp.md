@@ -16,8 +16,8 @@ capo_label: "MAGISTRATURA DI SORVEGLIANZA"
 sezione: null
 sezione_label: null
 rubrica: "Impugnazione di provvedimenti relativi alle misure di sicurezza"
-dataVigenza: "20261016"
-ordine: 811
+dataVigenza: "20261102"
+ordine: 812
 ---
 
 # Art. 680 - ***Impugnazione di provvedimenti relativi alle misure di sicurezza***

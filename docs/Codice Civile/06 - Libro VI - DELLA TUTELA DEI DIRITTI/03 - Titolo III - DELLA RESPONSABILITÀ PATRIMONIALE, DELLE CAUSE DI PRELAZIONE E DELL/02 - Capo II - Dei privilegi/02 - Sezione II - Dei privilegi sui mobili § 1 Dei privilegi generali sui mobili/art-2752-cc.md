@@ -14,8 +14,8 @@ capo_label: "Dei privilegi"
 sezione: "II"
 sezione_label: "Dei privilegi sui mobili § 1 Dei privilegi generali sui mobili"
 rubrica: "Crediti per tributi diretti dello Stato, per imposta sul valore aggiunto e per tributi degli enti locali"
-dataVigenza: "20261016"
-ordine: 3058
+dataVigenza: "20261102"
+ordine: 3059
 ---
 
 # Art. 2752 - ***Crediti per tributi diretti dello Stato, per imposta sul valore aggiunto e per tributi degli enti locali***

@@ -16,8 +16,8 @@ capo_label: "ESTRADIZIONE PER L'ESTERO"
 sezione: "I"
 sezione_label: "Procedimento"
 rubrica: "Sospensione della consegna Consegna temporanea. Esecuzione all'estero"
-dataVigenza: "20261016"
-ordine: 849
+dataVigenza: "20261102"
+ordine: 850
 ---
 
 # Art. 709 - ***Sospensione della consegna Consegna temporanea. Esecuzione all'estero***

@@ -14,8 +14,8 @@ capo_label: "Della trascrizione degli atti relativi ad alcuni beni mobili"
 sezione: "I"
 sezione_label: "Della trascrizione relativamente alle navi, agli aeromobili e agli autoveicoli"
 rubrica: "Atti soggetti a trascrizione"
-dataVigenza: "20260914"
-ordine: 2989
+dataVigenza: "20261102"
+ordine: 2990
 ---
 
 # Art. 2684 - ***Atti soggetti a trascrizione***

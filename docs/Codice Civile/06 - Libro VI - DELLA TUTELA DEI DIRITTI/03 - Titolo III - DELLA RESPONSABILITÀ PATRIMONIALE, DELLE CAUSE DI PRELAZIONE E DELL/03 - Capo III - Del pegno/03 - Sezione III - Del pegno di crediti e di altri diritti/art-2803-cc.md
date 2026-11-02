@@ -14,8 +14,8 @@ capo_label: "Del pegno"
 sezione: "III"
 sezione_label: "Del pegno di crediti e di altri diritti"
 rubrica: "Riscossione del credito dato in pegno"
-dataVigenza: "20260914"
-ordine: 3112
+dataVigenza: "20261102"
+ordine: 3113
 ---
 
 # Art. 2803 - ***Riscossione del credito dato in pegno***

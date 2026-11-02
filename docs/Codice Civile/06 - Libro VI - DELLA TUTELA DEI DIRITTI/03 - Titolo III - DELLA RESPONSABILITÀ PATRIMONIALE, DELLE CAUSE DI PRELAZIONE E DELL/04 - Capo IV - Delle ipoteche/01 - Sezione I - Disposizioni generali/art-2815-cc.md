@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "I"
 sezione_label: "Disposizioni generali"
 rubrica: "Ipoteca sul diritto del concedente e sul diritto dell'enfiteuta"
-dataVigenza: "20260914"
-ordine: 3124
+dataVigenza: "20261102"
+ordine: 3125
 ---
 
 # Art. 2815 - ***Ipoteca sul diritto del concedente e sul diritto dell'enfiteuta***

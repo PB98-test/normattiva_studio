@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Limiti al sindacato delle decisioni giudiziarie degli altri Stati membri"
-dataVigenza: "20261016"
-ordine: 831
+dataVigenza: "20261102"
+ordine: 832
 ---
 
 # Art. 696-quinquies - ***Limiti al sindacato delle decisioni giudiziarie degli altri Stati membri***

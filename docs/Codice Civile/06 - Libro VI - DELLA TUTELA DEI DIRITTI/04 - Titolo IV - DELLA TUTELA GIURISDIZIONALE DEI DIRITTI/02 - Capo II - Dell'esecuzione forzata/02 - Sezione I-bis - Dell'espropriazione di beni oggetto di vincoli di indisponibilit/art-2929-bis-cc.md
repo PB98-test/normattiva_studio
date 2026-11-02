@@ -14,8 +14,8 @@ capo_label: "Dell'esecuzione forzata"
 sezione: "I-bis"
 sezione_label: "Dell'espropriazione di beni oggetto di vincoli di indisponibilità o di alienazioni a titolo gratuito"
 rubrica: "Espropriazione di beni oggetto di vincoli di indisponibilità o di alienazioni a titolo gratuito"
-dataVigenza: "20261016"
-ordine: 3240
+dataVigenza: "20261102"
+ordine: 3241
 ---
 
 # Art. 2929-bis - ***Espropriazione di beni oggetto di vincoli di indisponibilità o di alienazioni a titolo gratuito***

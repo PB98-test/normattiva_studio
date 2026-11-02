@@ -16,8 +16,8 @@ capo_label: "EFFETTI DELLE SENTENZE PENALI STRANIERE"
 sezione: null
 sezione_label: null
 rubrica: "Riconoscimento delle sentenze penali straniere per gli effetti previsti dal codice penale"
-dataVigenza: "20261016"
-ordine: 881
+dataVigenza: "20261102"
+ordine: 882
 ---
 
 # Art. 730 - ***Riconoscimento delle sentenze penali straniere per gli effetti previsti dal codice penale***

@@ -14,8 +14,8 @@ capo_label: "Della prescrizione"
 sezione: "III"
 sezione_label: "Dell'interruzione della prescrizione"
 rubrica: "Effetti e durata dell'interruzione"
-dataVigenza: "20260914"
-ordine: 3256
+dataVigenza: "20261102"
+ordine: 3257
 ---
 
 # Art. 2945 - ***Effetti e durata dell'interruzione***

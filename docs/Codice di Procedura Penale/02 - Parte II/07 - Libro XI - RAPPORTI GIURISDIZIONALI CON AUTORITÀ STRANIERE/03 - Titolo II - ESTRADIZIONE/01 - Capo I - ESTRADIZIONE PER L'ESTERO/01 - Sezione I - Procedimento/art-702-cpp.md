@@ -16,8 +16,8 @@ capo_label: "ESTRADIZIONE PER L'ESTERO"
 sezione: "I"
 sezione_label: "Procedimento"
 rubrica: "Intervento dello stato richiedente"
-dataVigenza: "20261016"
-ordine: 842
+dataVigenza: "20261102"
+ordine: 843
 ---
 
 # Art. 702 - ***Intervento dello stato richiedente***

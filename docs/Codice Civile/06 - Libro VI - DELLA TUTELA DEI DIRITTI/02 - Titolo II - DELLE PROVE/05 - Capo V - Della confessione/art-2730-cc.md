@@ -14,8 +14,8 @@ capo_label: "Della confessione"
 sezione: null
 sezione_label: null
 rubrica: "Nozione"
-dataVigenza: "20260914"
-ordine: 3035
+dataVigenza: "20261102"
+ordine: 3036
 ---
 
 # Art. 2730 - ***Nozione***

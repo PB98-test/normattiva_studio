@@ -14,8 +14,8 @@ capo_label: "Dei privilegi"
 sezione: "II"
 sezione_label: "Dei privilegi sui mobili § 1 Dei privilegi generali sui mobili"
 rubrica: "Privilegio del venditore di macchine"
-dataVigenza: "20260914"
-ordine: 3068
+dataVigenza: "20261102"
+ordine: 3069
 ---
 
 # Art. 2762 - ***Privilegio del venditore di macchine***

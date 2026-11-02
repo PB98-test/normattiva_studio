@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "VI"
 sezione_label: "Dell'ordine delle ipoteche"
 rubrica: "Grado dell'ipoteca"
-dataVigenza: "20260914"
-ordine: 3162
+dataVigenza: "20261102"
+ordine: 3163
 ---
 
 # Art. 2852 - ***Grado dell'ipoteca***

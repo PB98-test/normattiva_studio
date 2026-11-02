@@ -14,8 +14,8 @@ capo_label: "Dei privilegi"
 sezione: "I"
 sezione_label: "Disposizioni generali"
 rubrica: "Estensione del privilegio"
-dataVigenza: "20260914"
-ordine: 3054
+dataVigenza: "20261102"
+ordine: 3055
 ---
 
 # Art. 2749 - ***Estensione del privilegio***

@@ -16,8 +16,8 @@ capo_label: "ROGATORIE ALL'ESTERO"
 sezione: null
 sezione_label: null
 rubrica: "Immunità temporanea della persona citata"
-dataVigenza: "20261016"
-ordine: 875
+dataVigenza: "20261102"
+ordine: 876
 ---
 
 # Art. 728 - ***Immunità temporanea della persona citata***

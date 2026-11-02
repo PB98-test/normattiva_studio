@@ -16,8 +16,8 @@ capo_label: "DISPOSIZIONI GENERALI"
 sezione: null
 sezione_label: null
 rubrica: "Ricorso dell'imputato"
-dataVigenza: "20261016"
-ordine: 730
+dataVigenza: "20261102"
+ordine: 731
 ---
 
 # Art. 607 - ***Ricorso dell'imputato***

@@ -16,8 +16,8 @@ capo_label: "ESECUZIONE ALL'ESTERO DI SENTENZE PENALI ITALIANE"
 sezione: null
 sezione_label: null
 rubrica: "Richiesta di misure cautelari all'estero"
-dataVigenza: "20261016"
-ordine: 902
+dataVigenza: "20261102"
+ordine: 903
 ---
 
 # Art. 745 - ***Richiesta di misure cautelari all'estero***

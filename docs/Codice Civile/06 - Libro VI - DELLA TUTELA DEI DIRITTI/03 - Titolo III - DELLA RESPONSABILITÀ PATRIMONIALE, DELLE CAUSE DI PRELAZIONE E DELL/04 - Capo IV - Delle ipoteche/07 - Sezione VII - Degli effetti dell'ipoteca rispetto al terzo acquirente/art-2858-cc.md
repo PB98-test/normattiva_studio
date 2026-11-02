@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "VII"
 sezione_label: "Degli effetti dell'ipoteca rispetto al terzo acquirente"
 rubrica: "Facoltà del terzo acquirente"
-dataVigenza: "20260914"
-ordine: 3168
+dataVigenza: "20261102"
+ordine: 3169
 ---
 
 # Art. 2858 - ***Facoltà del terzo acquirente***

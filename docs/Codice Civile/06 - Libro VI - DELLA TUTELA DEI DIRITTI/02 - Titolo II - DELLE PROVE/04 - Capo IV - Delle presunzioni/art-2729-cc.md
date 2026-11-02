@@ -14,8 +14,8 @@ capo_label: "Delle presunzioni"
 sezione: null
 sezione_label: null
 rubrica: "Presunzioni semplici"
-dataVigenza: "20260914"
-ordine: 3034
+dataVigenza: "20261102"
+ordine: 3035
 ---
 
 # Art. 2729 - ***Presunzioni semplici***

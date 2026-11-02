@@ -14,8 +14,8 @@ capo_label: "Dei privilegi"
 sezione: "II"
 sezione_label: "Dei privilegi sui mobili § 1 Dei privilegi generali sui mobili"
 rubrica: "Crediti del locatore di immobili"
-dataVigenza: "20260914"
-ordine: 3070
+dataVigenza: "20261102"
+ordine: 3071
 ---
 
 # Art. 2764 - ***Crediti del locatore di immobili***

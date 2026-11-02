@@ -16,8 +16,8 @@ capo_label: "ESTRADIZIONE PER L'ESTERO"
 sezione: "I"
 sezione_label: "Procedimento"
 rubrica: "Estensione dell'estradizione concessa"
-dataVigenza: "20261016"
-ordine: 850
+dataVigenza: "20261102"
+ordine: 851
 ---
 
 # Art. 710 - ***Estensione dell'estradizione concessa***

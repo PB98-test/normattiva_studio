@@ -14,8 +14,8 @@ capo_label: "Dei mezzi di conservazione della garanzia patrimoniale"
 sezione: "II"
 sezione_label: "Dell'azione revocatoria"
 rubrica: "Rinvio"
-dataVigenza: "20260914"
-ordine: 3214
+dataVigenza: "20261102"
+ordine: 3215
 ---
 
 # Art. 2904 - ***Rinvio***

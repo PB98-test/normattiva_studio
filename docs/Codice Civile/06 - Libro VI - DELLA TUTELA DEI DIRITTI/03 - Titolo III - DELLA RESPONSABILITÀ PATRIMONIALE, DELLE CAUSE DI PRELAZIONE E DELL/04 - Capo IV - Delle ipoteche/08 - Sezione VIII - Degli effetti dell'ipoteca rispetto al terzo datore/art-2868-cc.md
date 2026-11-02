@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "VIII"
 sezione_label: "Degli effetti dell'ipoteca rispetto al terzo datore"
 rubrica: "Beneficio di escussione"
-dataVigenza: "20260914"
-ordine: 3178
+dataVigenza: "20261102"
+ordine: 3179
 ---
 
 # Art. 2868 - ***Beneficio di escussione***

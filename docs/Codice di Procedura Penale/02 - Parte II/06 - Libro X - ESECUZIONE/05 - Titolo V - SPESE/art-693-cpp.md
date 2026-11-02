@@ -17,8 +17,8 @@ sezione: null
 sezione_label: null
 rubrica: null
 abrogato: true
-dataVigenza: "20261016"
-ordine: 824
+dataVigenza: "20261102"
+ordine: 825
 ---
 
 # Art. 693 - *(Omissis)*

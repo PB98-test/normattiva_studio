@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "VIII"
 sezione_label: "Degli effetti dell'ipoteca rispetto al terzo datore"
 rubrica: "Estinzione dell'ipoteca per fatto del creditore"
-dataVigenza: "20260914"
-ordine: 3179
+dataVigenza: "20261102"
+ordine: 3180
 ---
 
 # Art. 2869 - ***Estinzione dell'ipoteca per fatto del creditore***

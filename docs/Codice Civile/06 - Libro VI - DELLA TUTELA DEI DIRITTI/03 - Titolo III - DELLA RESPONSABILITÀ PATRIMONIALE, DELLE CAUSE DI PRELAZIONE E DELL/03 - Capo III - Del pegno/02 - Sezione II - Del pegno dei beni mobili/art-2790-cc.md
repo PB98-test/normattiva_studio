@@ -14,8 +14,8 @@ capo_label: "Del pegno"
 sezione: "II"
 sezione_label: "Del pegno dei beni mobili"
 rubrica: "Conservazione della cosa e spese relative"
-dataVigenza: "20260914"
-ordine: 3099
+dataVigenza: "20261102"
+ordine: 3100
 ---
 
 # Art. 2790 - ***Conservazione della cosa e spese relative***

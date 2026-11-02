@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Assunzione di procedimenti penali dall'estero"
-dataVigenza: "20261016"
-ordine: 905
+dataVigenza: "20261102"
+ordine: 906
 ---
 
 # Art. 746-ter - ***Assunzione di procedimenti penali dall'estero***

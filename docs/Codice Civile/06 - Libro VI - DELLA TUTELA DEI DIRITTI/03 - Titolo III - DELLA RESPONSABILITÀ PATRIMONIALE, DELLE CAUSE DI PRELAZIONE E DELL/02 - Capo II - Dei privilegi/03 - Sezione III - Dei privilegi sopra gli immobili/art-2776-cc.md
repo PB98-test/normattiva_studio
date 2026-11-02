@@ -14,8 +14,8 @@ capo_label: "Dei privilegi"
 sezione: "III"
 sezione_label: "Dei privilegi sopra gli immobili"
 rubrica: "Collocazione sussidiaria sugli immobili"
-dataVigenza: "20261016"
-ordine: 3083
+dataVigenza: "20261102"
+ordine: 3084
 ---
 
 # Art. 2776 - ***Collocazione sussidiaria sugli immobili***

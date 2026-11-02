@@ -14,8 +14,8 @@ capo_label: "Dei mezzi di conservazione della garanzia patrimoniale"
 sezione: "II"
 sezione_label: "Dell'azione revocatoria"
 rubrica: "Condizioni"
-dataVigenza: "20260914"
-ordine: 3211
+dataVigenza: "20261102"
+ordine: 3212
 ---
 
 # Art. 2901 - ***Condizioni***

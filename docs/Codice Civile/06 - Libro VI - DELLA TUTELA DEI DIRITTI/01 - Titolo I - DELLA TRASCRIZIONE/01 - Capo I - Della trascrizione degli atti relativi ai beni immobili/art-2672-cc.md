@@ -14,8 +14,8 @@ capo_label: "Della trascrizione degli atti relativi ai beni immobili"
 sezione: null
 sezione_label: null
 rubrica: "Leggi speciali"
-dataVigenza: "20260914"
-ordine: 2976
+dataVigenza: "20261102"
+ordine: 2977
 ---
 
 # Art. 2672 - ***Leggi speciali***

@@ -16,8 +16,8 @@ capo_label: "ROGATORIE DALL'ESTERO"
 sezione: null
 sezione_label: null
 rubrica: "Esecuzione delle rogatorie"
-dataVigenza: "20261016"
-ordine: 867
+dataVigenza: "20261102"
+ordine: 868
 ---
 
 # Art. 725 - ***Esecuzione delle rogatorie***

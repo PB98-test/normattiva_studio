@@ -14,8 +14,8 @@ capo_label: "Della trascrizione degli atti relativi ai beni immobili"
 sezione: null
 sezione_label: null
 rubrica: "Trascrizione degli acquisti a causa di morte"
-dataVigenza: "20261016"
-ordine: 2962
+dataVigenza: "20261102"
+ordine: 2963
 ---
 
 # Art. 2660 - ***Trascrizione degli acquisti a causa di morte***

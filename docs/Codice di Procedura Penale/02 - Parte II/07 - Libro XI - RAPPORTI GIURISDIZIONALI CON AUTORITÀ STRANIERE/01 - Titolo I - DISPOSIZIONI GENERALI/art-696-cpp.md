@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Prevalenza del diritto dell'Unione europea, delle convenzioni e del diritto internazionale generale"
-dataVigenza: "20261016"
-ordine: 827
+dataVigenza: "20261102"
+ordine: 828
 ---
 
 # Art. 696 - ***Prevalenza del diritto dell'Unione europea, delle convenzioni e del diritto internazionale generale***

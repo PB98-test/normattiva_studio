@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da CdS (dlgs 285-1992 - 30.04.1992) ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di CdS (dlgs 285-1992 - 30.04.1992) - 253 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di CdS (dlgs 285-1992 - 30.04.1992) - 259 leggi trovate)*
 
 - [art. 4, comma 2, della legge 13 giugno 1991, n. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-13;190)
 - [D.LGS. 15 MARZO 2010, N. 66](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2010-03-15;66)
@@ -60,6 +60,7 @@ search:
 - [D.Lgs. 18 febbraio 2000, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2000-02-18;56)
 - [L. 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208)
 - [art. 19 della legge 8 giugno 1990, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-08;142)
+- [regolamento (UE) n. 305/2011](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32011R0305)
 - [D.Lgs. 28 giugno 1993, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1993-06-28;214)
 - [L. 16 dicembre 1999, n. 494](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-16;494)
 - [D.Lgs. 18 aprile 2011, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2011-04-18;59)
@@ -70,6 +71,7 @@ search:
 - [L. 30 dicembre 2020, n. 178](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-12-30;178)
 - [D.L. 10 settembre 2021, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2021-09-10;121)
 - [L. 9 novembre 2021, n. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-11-09;156)
+- [regolamento (CE) n. 1/2005](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32005R0001)
 - [D.L. 24 GENNAIO 2012, N. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2012-01-24;1)
 - [L. 24 MARZO 2012, N. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-03-24;27)
 - [D.L. 24 dicembre 2003, n. 355](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2003-12-24;355)
@@ -81,6 +83,7 @@ search:
 - [legge 6 giugno 1974, n. 298](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-06-06;298)
 - [decreto del Presidente della Repubblica 19 dicembre 2001, n. 481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-12-19;481)
 - [decreto del Presidente della Repubblica 19 dicembre 2001, n. 48](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-12-19;48)
+- [regolamento (CE) n. 1071/2009](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32009R1071)
 - [articolo 11-bis della legge 15 gennaio 1992, n. 21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-01-15;21)
 - [articolo 8 della legge n. 21 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992;21)
 - [L. 16 dicembre 2024, n. 193](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-16;193)
@@ -167,10 +170,13 @@ search:
 - [direttiva 2003/20/CE](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32003L0020)
 - [articolo 5 della direttiva 91/671/CEE](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31991L0671)
 - [L. 1 ottobre 2018, n. 117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-10-01;117)
+- [regolamento (UE) n. 168/2013](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32013R0168)
 - [comma 6 dell'articolo 5 del decreto legislativo 22 dicembre 2000, n. 395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2000-12-22;395)
+- [regolamento (CE) n. 561/2006](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32006R0561)
 - [legge 28 marzo 1991, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-03-28;112)
 - [legge 6 marzo 1976, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-03-06;112)
 - [articoli 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-11-13;727)
+- [regolamento (CEE) n. 3821/85](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31985R3821)
 - [art. 1 della legge n. 146 del 1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;146)
 - [articolo 59 del decreto legislativo n. 274 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2000;274)
 - [art. 4, comma 1, lettera b), del decreto-legge 23 maggio 2008, n. 92](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2008-05-23;92)

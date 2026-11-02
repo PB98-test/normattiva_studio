@@ -14,8 +14,8 @@ capo_label: "Della prova documentale"
 sezione: "VI"
 sezione_label: "Delle copie degli atti"
 rubrica: "Copie fotografiche di scritture"
-dataVigenza: "20260914"
-ordine: 3024
+dataVigenza: "20261102"
+ordine: 3025
 ---
 
 # Art. 2719 - ***Copie fotografiche di scritture***

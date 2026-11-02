@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Pubblicazione della sentenza di accoglimento della richiesta"
-dataVigenza: "20261016"
-ordine: 770
+dataVigenza: "20261102"
+ordine: 771
 ---
 
 # Art. 642 - ***Pubblicazione della sentenza di accoglimento della richiesta***

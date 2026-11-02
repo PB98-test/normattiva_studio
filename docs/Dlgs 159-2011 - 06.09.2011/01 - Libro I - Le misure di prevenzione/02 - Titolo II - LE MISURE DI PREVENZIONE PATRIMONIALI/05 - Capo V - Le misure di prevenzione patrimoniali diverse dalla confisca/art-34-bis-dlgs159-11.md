@@ -14,8 +14,8 @@ capo_label: "Le misure di prevenzione patrimoniali diverse dalla confisca"
 sezione: null
 sezione_label: null
 rubrica: "Controllo giudiziario delle aziende"
-dataVigenza: "20261016"
-ordine: 35
+dataVigenza: "20261102"
+ordine: 36
 ---
 
 # Art. 34-bis - ***Controllo giudiziario delle aziende***

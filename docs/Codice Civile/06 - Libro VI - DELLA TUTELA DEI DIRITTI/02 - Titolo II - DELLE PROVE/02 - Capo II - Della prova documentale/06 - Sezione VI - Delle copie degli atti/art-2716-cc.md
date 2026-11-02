@@ -14,8 +14,8 @@ capo_label: "Della prova documentale"
 sezione: "VI"
 sezione_label: "Delle copie degli atti"
 rubrica: "Mancanza dell'atto originale o di copia depositata"
-dataVigenza: "20260914"
-ordine: 3021
+dataVigenza: "20261102"
+ordine: 3022
 ---
 
 # Art. 2716 - ***Mancanza dell'atto originale o di copia depositata***

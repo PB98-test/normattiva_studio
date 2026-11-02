@@ -16,8 +16,8 @@ capo_label: "riscossione mediante ruolo"
 sezione: null
 sezione_label: null
 rubrica: "Norme applicabili"
-dataVigenza: "20261016"
-ordine: 239
+dataVigenza: "20261102"
+ordine: 240
 ---
 
 # Art. 227-quater - ***Norme applicabili***

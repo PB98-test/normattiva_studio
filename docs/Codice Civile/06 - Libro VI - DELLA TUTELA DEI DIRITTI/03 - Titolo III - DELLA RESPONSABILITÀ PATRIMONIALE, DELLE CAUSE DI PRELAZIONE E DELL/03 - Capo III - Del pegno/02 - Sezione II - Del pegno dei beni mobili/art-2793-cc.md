@@ -14,8 +14,8 @@ capo_label: "Del pegno"
 sezione: "II"
 sezione_label: "Del pegno dei beni mobili"
 rubrica: "Sequestro della cosa"
-dataVigenza: "20260914"
-ordine: 3102
+dataVigenza: "20261102"
+ordine: 3103
 ---
 
 # Art. 2793 - ***Sequestro della cosa***

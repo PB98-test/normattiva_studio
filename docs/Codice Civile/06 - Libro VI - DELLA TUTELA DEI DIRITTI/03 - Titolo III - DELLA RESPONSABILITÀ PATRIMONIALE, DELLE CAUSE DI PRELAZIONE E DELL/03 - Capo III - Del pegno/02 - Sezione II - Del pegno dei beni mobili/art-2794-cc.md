@@ -14,8 +14,8 @@ capo_label: "Del pegno"
 sezione: "II"
 sezione_label: "Del pegno dei beni mobili"
 rubrica: "Restituzione della cosa"
-dataVigenza: "20260914"
-ordine: 3103
+dataVigenza: "20261102"
+ordine: 3104
 ---
 
 # Art. 2794 - ***Restituzione della cosa***

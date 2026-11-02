@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "IX"
 sezione_label: "Della riduzione delle ipoteche"
 rubrica: "Modalità della riduzione"
-dataVigenza: "20260914"
-ordine: 3182
+dataVigenza: "20261102"
+ordine: 3183
 ---
 
 # Art. 2872 - ***Modalità della riduzione***

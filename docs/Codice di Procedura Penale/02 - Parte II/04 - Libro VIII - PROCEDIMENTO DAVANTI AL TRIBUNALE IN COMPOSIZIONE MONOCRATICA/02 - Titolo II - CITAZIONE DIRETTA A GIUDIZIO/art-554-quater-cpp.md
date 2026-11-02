@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Impugnazione della sentenza di non luogo a procedere"
-dataVigenza: "20261016"
-ordine: 669
+dataVigenza: "20261102"
+ordine: 670
 ---
 
 # Art. 554-quater - ***Impugnazione della sentenza di non luogo a procedere***

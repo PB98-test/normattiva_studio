@@ -16,8 +16,8 @@ capo_label: "ESTRADIZIONE PER L'ESTERO"
 sezione: "I"
 sezione_label: "Procedimento"
 rubrica: "Reati politici Tutela dei diritti fondamentali della persona"
-dataVigenza: "20261016"
-ordine: 838
+dataVigenza: "20261102"
+ordine: 839
 ---
 
 # Art. 698 - ***Reati politici Tutela dei diritti fondamentali della persona***

@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "V"
 sezione_label: "Dell'iscrizione e rinnovazione delle ipoteche § 1 Dell'iscrizione"
 rubrica: "Iscrizione in base ad atto pubblico o a sentenza"
-dataVigenza: "20260914"
-ordine: 3146
+dataVigenza: "20261102"
+ordine: 3147
 ---
 
 # Art. 2836 - ***Iscrizione in base ad atto pubblico o a sentenza***

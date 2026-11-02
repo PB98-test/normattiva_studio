@@ -5,13 +5,12 @@ search:
 
 # Leggi citate da Disp. att. cpp (Dlgs 271-1989 - 28.07.1989) ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Disp. att. cpp (Dlgs 271-1989 - 28.07.1989) - 72 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Disp. att. cpp (Dlgs 271-1989 - 28.07.1989) - 73 leggi trovate)*
 
 - [legge 16 febbraio 1987, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-02-16;81)
 - [legge n. 81 del 1987](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987;81)
 - [L. 24 dicembre 2003, n. 350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-12-24;350)
 - [legge 10 marzo 1987, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-03-10;100)
-- [articolo 9 della legge 31 dicembre 2012, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-31;247)
 - [articolo 7 del decreto del Presidente della Repubblica 24 novembre 1971, n. 1199](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-11-24;1199)
 - [L. 6 MARZO 2001, N. 60](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-03-06;60)
 - [articoli 20 comma 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-04-29;431)
@@ -30,7 +29,9 @@ search:
 - [articolo 34 del decreto legislativo 24 giugno 1998, n. 213](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1998-06-24;213)
 - [articolo 10, comma 3, del decreto legislativo 21 maggio 2004, n. 170](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2004-05-21;170)
 - [articolo 1, paragrafo 1, lettera b), della direttiva (UE) 2015/1535 del Parlamento europeo e del Consiglio, del 9 settembre 2015](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32015L1535)
-- [articolo 61, comma 23, del decreto-legge 25 giugno 2008, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2008-06-25;112)
+- [decreto-legge 17 marzo 2023, n. 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2023-03-17;25)
+- [decreto-legge 25 giugno 2008, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2008-06-25;112)
+- [regolamento (UE) 2023/1114](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32023R1114)
 - [legge 6 agosto 2008, n. 133](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)
 - [articolo 1 del decreto-legge 3 dicembre 2012, n. 207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2012-12-03;207)
 - [legge 24 dicembre 2012, n. 231](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;231)

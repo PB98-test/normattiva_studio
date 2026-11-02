@@ -16,8 +16,8 @@ capo_label: "DISPOSIZIONI GENERALI"
 sezione: null
 sezione_label: null
 rubrica: "Ricorso del pubblico ministero"
-dataVigenza: "20261016"
-ordine: 731
+dataVigenza: "20261102"
+ordine: 732
 ---
 
 # Art. 608 - ***Ricorso del pubblico ministero***

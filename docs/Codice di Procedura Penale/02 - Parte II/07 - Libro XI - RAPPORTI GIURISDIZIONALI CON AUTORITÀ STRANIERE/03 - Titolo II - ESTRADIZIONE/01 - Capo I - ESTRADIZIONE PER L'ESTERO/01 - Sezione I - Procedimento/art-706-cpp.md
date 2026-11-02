@@ -16,8 +16,8 @@ capo_label: "ESTRADIZIONE PER L'ESTERO"
 sezione: "I"
 sezione_label: "Procedimento"
 rubrica: "Ricorso per cassazione"
-dataVigenza: "20261016"
-ordine: 846
+dataVigenza: "20261102"
+ordine: 847
 ---
 
 # Art. 706 - ***Ricorso per cassazione***

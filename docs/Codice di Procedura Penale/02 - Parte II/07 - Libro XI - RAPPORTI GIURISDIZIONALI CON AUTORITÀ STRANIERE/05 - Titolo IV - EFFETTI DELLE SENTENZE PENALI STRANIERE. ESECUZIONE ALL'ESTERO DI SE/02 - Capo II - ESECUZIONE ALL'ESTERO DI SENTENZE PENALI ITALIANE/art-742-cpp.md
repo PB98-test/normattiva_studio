@@ -16,8 +16,8 @@ capo_label: "ESECUZIONE ALL'ESTERO DI SENTENZE PENALI ITALIANE"
 sezione: null
 sezione_label: null
 rubrica: "Poteri del Ministro della giustizia e presupposti dell'esecuzione all'estero"
-dataVigenza: "20261016"
-ordine: 898
+dataVigenza: "20261102"
+ordine: 899
 ---
 
 # Art. 742 - ***Poteri del Ministro della giustizia e presupposti dell'esecuzione all'estero***

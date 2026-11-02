@@ -14,8 +14,8 @@ capo_label: "Disposizioni generali"
 sezione: null
 sezione_label: null
 rubrica: "Patti relativi all'onere della prova"
-dataVigenza: "20260914"
-ordine: 3003
+dataVigenza: "20261102"
+ordine: 3004
 ---
 
 # Art. 2698 - ***Patti relativi all'onere della prova***

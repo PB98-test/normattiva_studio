@@ -16,13 +16,13 @@ capo_label: "(PRINCIPI)"
 sezione: null
 sezione_label: null
 rubrica: "Base giuridica per il trattamento di dati personali effettuato per l'esecuzione di un compito di interesse pubblico o connesso all'esercizio di pubblici poteri"
-dataVigenza: "20261016"
+dataVigenza: "20261102"
 ordine: 4
 ---
 
 # Art. 2-ter - ***Base giuridica per il trattamento di dati personali effettuato per l'esecuzione di un compito di interesse pubblico o connesso all'esercizio di pubblici poteri***
 
-1\. La base giuridica prevista dall'[articolo 6](../04%20-%20Capo%20IV%20-%20%28DISPOSIZIONI%20RELATIVE%20AL%20TITOLARE%20DEL%20TRATTAMENTO%20E%20AL%20RESPONSABILE%20D/art-6-dlgs196-03.md), paragrafo 3, lettera b), del regolamento è costituita ... da una norma di legge o ... di regolamento o da atti amministrativi generali. [^agg-49]
+1\. La base giuridica prevista dall'articolo 6, paragrafo 3, lettera b), del regolamento è costituita ... da una norma di legge o ... di regolamento o da atti amministrativi generali. [^agg-49]
 
 1-bis. Fermo restando ogni altro obbligo previsto dal Regolamento e dal presente codice, il trattamento dei dati personali da parte di un'amministrazione pubblica di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, ivi comprese le autorità indipendenti e le amministrazioni inserite nell'elenco di cui all'articolo 1, comma 3, della legge 31 dicembre 2009, n. 196, nonchè da parte di una società a controllo pubblico statale o, limitatamente ai gestori di servizi pubblici, locale, di cui all'articolo 16 del testo unico in materia di società a partecipazione pubblica, di cui al decreto legislativo 19 agosto 2016, n. 175, con esclusione, per le società a controllo pubblico, dei trattamenti correlati ad attività svolte in regime di libero mercato, è anche consentito se necessario per l'adempimento di un compito svolto nel pubblico interesse o per l'esercizio di pubblici poteri ad esse attribuiti. In modo da assicurare che tale esercizio non possa arrecare un pregiudizio effettivo e concreto alla tutela dei diritti e delle libertà degli interessati, le disposizioni di cui al presente comma sono esercitate nel rispetto dell'articolo 6 del Regolamento
 

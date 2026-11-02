@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Tutela dei diritti fondamentali della persona nel mutuo riconoscimento"
-dataVigenza: "20261016"
-ordine: 829
+dataVigenza: "20261102"
+ordine: 830
 ---
 
 # Art. 696-ter - ***Tutela dei diritti fondamentali della persona nel mutuo riconoscimento***

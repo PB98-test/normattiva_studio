@@ -14,8 +14,8 @@ capo_label: "Della prova documentale"
 sezione: "I"
 sezione_label: "Dell'atto pubblico"
 rubrica: "Atto pubblico"
-dataVigenza: "20260914"
-ordine: 3004
+dataVigenza: "20261102"
+ordine: 3005
 ---
 
 # Art. 2699 - ***Atto pubblico***

@@ -839,6 +839,7 @@ aliases:
 - [Art. 534](02%20-%20Parte%20II/03%20-%20Libro%20VII%20-%20GIUDIZIO/03%20-%20Titolo%20III%20-%20SENTENZA/02%20-%20Capo%20II%20-%20DECISIONE/02%20-%20Sezione%20II%20-%20Sentenza%20di%20condanna/art-534-cpp.md) - Condanna del civilmente obbligato per la pena pecuniaria
 - [Art. 535](02%20-%20Parte%20II/03%20-%20Libro%20VII%20-%20GIUDIZIO/03%20-%20Titolo%20III%20-%20SENTENZA/02%20-%20Capo%20II%20-%20DECISIONE/02%20-%20Sezione%20II%20-%20Sentenza%20di%20condanna/art-535-cpp.md) - Condanna alle spese
 - [Art. 536](02%20-%20Parte%20II/03%20-%20Libro%20VII%20-%20GIUDIZIO/03%20-%20Titolo%20III%20-%20SENTENZA/02%20-%20Capo%20II%20-%20DECISIONE/02%20-%20Sezione%20II%20-%20Sentenza%20di%20condanna/art-536-cpp.md) - Pubblicazione della sentenza come effetto della condanna
+- [Art. 536-bis](02%20-%20Parte%20II/03%20-%20Libro%20VII%20-%20GIUDIZIO/03%20-%20Titolo%20III%20-%20SENTENZA/02%20-%20Capo%20II%20-%20DECISIONE/02%20-%20Sezione%20II%20-%20Sentenza%20di%20condanna/art-536-bis-cpp.md) - Disposizioni in materia di confisca per equivalente
 - [Art. 537](02%20-%20Parte%20II/03%20-%20Libro%20VII%20-%20GIUDIZIO/03%20-%20Titolo%20III%20-%20SENTENZA/02%20-%20Capo%20II%20-%20DECISIONE/02%20-%20Sezione%20II%20-%20Sentenza%20di%20condanna/art-537-cpp.md) - Pronuncia sulla falsità di documenti
 - [Art. 537-bis](02%20-%20Parte%20II/03%20-%20Libro%20VII%20-%20GIUDIZIO/03%20-%20Titolo%20III%20-%20SENTENZA/02%20-%20Capo%20II%20-%20DECISIONE/02%20-%20Sezione%20II%20-%20Sentenza%20di%20condanna/art-537-bis-cpp.md) - Indegnità a succedere
 

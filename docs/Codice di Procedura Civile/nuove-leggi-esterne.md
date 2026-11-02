@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da Codice di Procedura Civile ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Codice di Procedura Civile - 97 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Codice di Procedura Civile - 96 leggi trovate)*
 
 - [legge 30 dicembre 1923, n. 2814](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-12-30;2814)
 - [art. 3 della legge 2 dicembre 1925, n. 2260](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-12-02;2260)
@@ -103,4 +103,3 @@ search:
 - [D.L. 9 novembre 2020, n. 149](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2020-11-09;149)
 - [L. 18 dicembre 2020, n. 176](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-12-18;176)
 - [decreto legislativo 19 gennaio 2017, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2017-01-19;3)
-- [legge 31 dicembre 2012, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-31;247)

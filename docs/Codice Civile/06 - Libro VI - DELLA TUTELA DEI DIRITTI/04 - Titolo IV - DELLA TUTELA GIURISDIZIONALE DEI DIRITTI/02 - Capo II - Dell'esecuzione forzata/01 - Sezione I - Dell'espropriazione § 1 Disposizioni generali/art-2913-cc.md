@@ -14,8 +14,8 @@ capo_label: "Dell'esecuzione forzata"
 sezione: "I"
 sezione_label: "Dell'espropriazione § 1 Disposizioni generali"
 rubrica: "Inefficacia delle alienazioni del bene pignorato"
-dataVigenza: "20260914"
-ordine: 3223
+dataVigenza: "20261102"
+ordine: 3224
 ---
 
 # Art. 2913 - ***Inefficacia delle alienazioni del bene pignorato***

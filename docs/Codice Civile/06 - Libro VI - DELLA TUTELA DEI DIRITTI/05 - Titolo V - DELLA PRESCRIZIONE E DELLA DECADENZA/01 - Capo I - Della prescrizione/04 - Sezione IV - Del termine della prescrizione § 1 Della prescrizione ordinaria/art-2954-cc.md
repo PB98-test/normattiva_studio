@@ -14,8 +14,8 @@ capo_label: "Della prescrizione"
 sezione: "IV"
 sezione_label: "Del termine della prescrizione § 1 Della prescrizione ordinaria"
 rubrica: "Prescrizione di sei mesi"
-dataVigenza: "20260914"
-ordine: 3265
+dataVigenza: "20261102"
+ordine: 3266
 ---
 
 # Art. 2954 - ***Prescrizione di sei mesi***

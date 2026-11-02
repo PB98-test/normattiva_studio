@@ -16,8 +16,8 @@ capo_label: "Diritto di copia nel processo penale, civile, amministrativo e cont
 sezione: null
 sezione_label: null
 rubrica: "Diritto di trasmissione con modalità telematica di duplicati e copie informatiche nel procedimento penale"
-dataVigenza: "20261016"
-ordine: 283
+dataVigenza: "20261102"
+ordine: 284
 ---
 
 # Art. 269-bis - ***Diritto di trasmissione con modalità telematica di duplicati e copie informatiche nel procedimento penale***

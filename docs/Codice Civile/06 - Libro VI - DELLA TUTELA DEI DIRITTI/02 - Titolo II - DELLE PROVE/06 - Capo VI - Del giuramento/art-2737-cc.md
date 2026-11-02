@@ -14,8 +14,8 @@ capo_label: "Del giuramento"
 sezione: null
 sezione_label: null
 rubrica: "Capacità delle parti"
-dataVigenza: "20260914"
-ordine: 3042
+dataVigenza: "20261102"
+ordine: 3043
 ---
 
 # Art. 2737 - ***Capacità delle parti***

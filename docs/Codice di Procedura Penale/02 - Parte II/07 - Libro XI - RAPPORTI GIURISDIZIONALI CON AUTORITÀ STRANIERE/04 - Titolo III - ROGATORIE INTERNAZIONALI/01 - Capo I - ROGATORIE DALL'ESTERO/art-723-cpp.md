@@ -16,8 +16,8 @@ capo_label: "ROGATORIE DALL'ESTERO"
 sezione: null
 sezione_label: null
 rubrica: "Poteri del Ministro della giustizia"
-dataVigenza: "20261016"
-ordine: 865
+dataVigenza: "20261102"
+ordine: 866
 ---
 
 # Art. 723 - ***Poteri del Ministro della giustizia***

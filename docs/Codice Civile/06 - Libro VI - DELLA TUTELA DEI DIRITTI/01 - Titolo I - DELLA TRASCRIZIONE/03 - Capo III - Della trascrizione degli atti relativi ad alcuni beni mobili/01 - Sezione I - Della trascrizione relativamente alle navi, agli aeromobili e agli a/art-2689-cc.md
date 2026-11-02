@@ -14,8 +14,8 @@ capo_label: "Della trascrizione degli atti relativi ad alcuni beni mobili"
 sezione: "I"
 sezione_label: "Della trascrizione relativamente alle navi, agli aeromobili e agli autoveicoli"
 rubrica: "Usucapione"
-dataVigenza: "20260914"
-ordine: 2994
+dataVigenza: "20261102"
+ordine: 2995
 ---
 
 # Art. 2689 - ***Usucapione***

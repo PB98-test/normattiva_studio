@@ -5,12 +5,13 @@ search:
 
 # Leggi citate da Attuazione GDPR (Dl 51-2018 - 18.05.2018) ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Attuazione GDPR (Dl 51-2018 - 18.05.2018) - 13 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Attuazione GDPR (Dl 51-2018 - 18.05.2018) - 14 leggi trovate)*
 
 - [articolo 14 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400)
 - [direttiva (UE) 2016/680 del Parlamento europeo e del Consiglio, del 27 aprile 2016](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32016L0680)
 - [direttiva 95/46/CE](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31995L0046)
 - [legge 25 ottobre 2017, n. 163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-10-25;163)
+- [decisione quadro 2008/977/GAI](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32008F0977)
 - [articolo 16 della legge 1° aprile 1981, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121)
 - [D.L. 8 ottobre 2021, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2021-10-08;139)
 - [L. 3 dicembre 2021, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-12-03;205)

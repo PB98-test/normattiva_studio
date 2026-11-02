@@ -14,8 +14,8 @@ capo_label: "Della prescrizione"
 sezione: "IV"
 sezione_label: "Del termine della prescrizione § 1 Della prescrizione ordinaria"
 rubrica: "Corso della prescrizione"
-dataVigenza: "20260914"
-ordine: 3269
+dataVigenza: "20261102"
+ordine: 3270
 ---
 
 # Art. 2958 - ***Corso della prescrizione***

@@ -14,8 +14,8 @@ capo_label: "Della prescrizione"
 sezione: "IV"
 sezione_label: "Del termine della prescrizione § 1 Della prescrizione ordinaria"
 rubrica: "Prescrizione in materia di spedizione e di trasporto"
-dataVigenza: "20260914"
-ordine: 3262
+dataVigenza: "20261102"
+ordine: 3263
 ---
 
 # Art. 2951 - ***Prescrizione in materia di spedizione e di trasporto***

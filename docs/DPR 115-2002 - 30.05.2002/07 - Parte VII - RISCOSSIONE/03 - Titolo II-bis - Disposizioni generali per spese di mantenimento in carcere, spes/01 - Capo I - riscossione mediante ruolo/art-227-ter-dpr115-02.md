@@ -16,8 +16,8 @@ capo_label: "riscossione mediante ruolo"
 sezione: null
 sezione_label: null
 rubrica: "Riscossione mediante ruolo"
-dataVigenza: "20261016"
-ordine: 238
+dataVigenza: "20261102"
+ordine: 239
 ---
 
 # Art. 227-ter - ***Riscossione mediante ruolo***

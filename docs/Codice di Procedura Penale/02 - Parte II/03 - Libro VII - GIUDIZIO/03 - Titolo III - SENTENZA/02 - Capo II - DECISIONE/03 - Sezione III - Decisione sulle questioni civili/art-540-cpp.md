@@ -16,8 +16,8 @@ capo_label: "DECISIONE"
 sezione: "III"
 sezione_label: "Decisione sulle questioni civili"
 rubrica: "Provvisoria esecuzione delle disposizioni civili"
-dataVigenza: "20261016"
-ordine: 651
+dataVigenza: "20261102"
+ordine: 652
 ---
 
 # Art. 540 - ***Provvisoria esecuzione delle disposizioni civili***

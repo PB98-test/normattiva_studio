@@ -14,7 +14,7 @@ capo_label: "Disposizioni generali"
 sezione: null
 sezione_label: null
 rubrica: "Definizioni"
-dataVigenza: "20261022"
+dataVigenza: "20261102"
 ordine: 2
 ---
 
@@ -44,5 +44,5 @@ ordine: 2
 - v) Stato membro: Stato membro dell'Unione europea;
 - z) Paese terzo: Stato non membro dell'Unione europea;
 - aa) direttiva: la direttiva (UE) 2016/680 del Parlamento europeo e del Consiglio del 27 aprile 2016;
-- bb) regolamento UE: il regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio del 27 aprile 2016;
+- bb) regolamento UE: il [regolamento (UE) 2016/679](../../GDPR%20%28Regolamento%20UE%202016-679%20-%2027.04.2016%29/00%20-%20Indice%20%28reg679-16%29.md) del Parlamento europeo e del Consiglio del 27 aprile 2016;
 - cc) Forze di polizia: le Forze di polizia di cui all'articolo 16 della legge 1° aprile 1981, n. 121.

@@ -14,8 +14,8 @@ capo_label: "Del giuramento"
 sezione: null
 sezione_label: null
 rubrica: "Efficacia"
-dataVigenza: "20260914"
-ordine: 3043
+dataVigenza: "20261102"
+ordine: 3044
 ---
 
 # Art. 2738 - ***Efficacia***

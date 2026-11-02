@@ -14,8 +14,8 @@ capo_label: "Della prova testimoniale"
 sezione: null
 sezione_label: null
 rubrica: "Patti posteriori alla formazione del documento"
-dataVigenza: "20260914"
-ordine: 3028
+dataVigenza: "20261102"
+ordine: 3029
 ---
 
 # Art. 2723 - ***Patti posteriori alla formazione del documento***

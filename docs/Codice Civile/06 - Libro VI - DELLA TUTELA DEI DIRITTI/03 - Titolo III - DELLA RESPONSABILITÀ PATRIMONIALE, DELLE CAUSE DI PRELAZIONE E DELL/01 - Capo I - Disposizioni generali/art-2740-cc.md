@@ -14,8 +14,8 @@ capo_label: "Disposizioni generali"
 sezione: null
 sezione_label: null
 rubrica: "Responsabilità patrimoniale"
-dataVigenza: "20260914"
-ordine: 3045
+dataVigenza: "20261102"
+ordine: 3046
 ---
 
 # Art. 2740 - ***Responsabilità patrimoniale***

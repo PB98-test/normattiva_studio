@@ -16,8 +16,8 @@ capo_label: "ESTRADIZIONE DALL'ESTERO"
 sezione: null
 sezione_label: null
 rubrica: "Principio di specialità"
-dataVigenza: "20261016"
-ordine: 861
+dataVigenza: "20261102"
+ordine: 862
 ---
 
 # Art. 721 - ***Principio di specialità***

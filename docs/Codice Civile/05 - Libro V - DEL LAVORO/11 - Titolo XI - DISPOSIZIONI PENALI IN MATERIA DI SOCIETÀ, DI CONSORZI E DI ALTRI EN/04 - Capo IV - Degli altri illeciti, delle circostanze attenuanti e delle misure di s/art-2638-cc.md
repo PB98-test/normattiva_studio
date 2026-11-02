@@ -14,8 +14,8 @@ capo_label: "Degli altri illeciti, delle circostanze attenuanti e delle misure d
 sezione: null
 sezione_label: null
 rubrica: "Ostacolo all'esercizio delle funzioni delle autorità pubbliche di vigilanza"
-dataVigenza: "20260914"
-ordine: 2937
+dataVigenza: "20261102"
+ordine: 2938
 ---
 
 # Art. 2638 - ***Ostacolo all'esercizio delle funzioni delle autorità pubbliche di vigilanza***

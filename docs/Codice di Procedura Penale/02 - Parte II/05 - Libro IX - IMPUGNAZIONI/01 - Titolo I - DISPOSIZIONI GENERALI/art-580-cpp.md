@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Conversione del ricorso in appello"
-dataVigenza: "20261016"
-ordine: 699
+dataVigenza: "20261102"
+ordine: 700
 ---
 
 # Art. 580 - ***Conversione del ricorso in appello***

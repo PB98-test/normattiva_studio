@@ -14,8 +14,8 @@ capo_label: "Disposizioni generali"
 sezione: null
 sezione_label: null
 rubrica: "Pagamento di debiti anteriori al sequestro"
-dataVigenza: "20261016"
-ordine: 65
+dataVigenza: "20261102"
+ordine: 67
 ---
 
 # Art. 54-bis - ***Pagamento di debiti anteriori al sequestro***

@@ -14,8 +14,8 @@ capo_label: "Informazioni antimafia"
 sezione: null
 sezione_label: null
 rubrica: "Misure amministrative di prevenzione collaborativa applicabili in caso di agevolazione occasionale"
-dataVigenza: "20261016"
-ordine: 110
+dataVigenza: "20261102"
+ordine: 112
 ---
 
 # Art. 94-bis - ***Misure amministrative di prevenzione collaborativa applicabili in caso di agevolazione occasionale***

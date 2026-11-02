@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "IX"
 sezione_label: "Della riduzione delle ipoteche"
 rubrica: "Riduzione dell'ipoteca legale e dell'ipoteca giudiziale"
-dataVigenza: "20260914"
-ordine: 3184
+dataVigenza: "20261102"
+ordine: 3185
 ---
 
 # Art. 2874 - ***Riduzione dell'ipoteca legale e dell'ipoteca giudiziale***

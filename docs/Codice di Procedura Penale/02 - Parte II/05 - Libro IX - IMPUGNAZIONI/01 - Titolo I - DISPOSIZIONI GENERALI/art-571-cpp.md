@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Impugnazione dell'imputato"
-dataVigenza: "20261016"
-ordine: 688
+dataVigenza: "20261102"
+ordine: 689
 ---
 
 # Art. 571 - ***Impugnazione dell'imputato***

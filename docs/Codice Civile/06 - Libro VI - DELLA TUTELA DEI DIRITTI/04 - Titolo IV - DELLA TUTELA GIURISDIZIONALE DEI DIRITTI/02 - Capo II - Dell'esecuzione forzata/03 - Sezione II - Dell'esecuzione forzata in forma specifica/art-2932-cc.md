@@ -14,8 +14,8 @@ capo_label: "Dell'esecuzione forzata"
 sezione: "II"
 sezione_label: "Dell'esecuzione forzata in forma specifica"
 rubrica: "Esecuzione specifica dell'obbligo di concludere un contratto"
-dataVigenza: "20260914"
-ordine: 3243
+dataVigenza: "20261102"
+ordine: 3244
 ---
 
 # Art. 2932 - ***Esecuzione specifica dell'obbligo di concludere un contratto***

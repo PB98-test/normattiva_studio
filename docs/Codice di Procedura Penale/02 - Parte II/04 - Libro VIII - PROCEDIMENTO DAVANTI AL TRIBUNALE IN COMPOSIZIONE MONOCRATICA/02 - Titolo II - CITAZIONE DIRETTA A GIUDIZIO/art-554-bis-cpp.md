@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Udienza di comparizione predibattimentale a seguito di citazione diretta"
-dataVigenza: "20261016"
-ordine: 667
+dataVigenza: "20261102"
+ordine: 668
 ---
 
 # Art. 554-bis - ***Udienza di comparizione predibattimentale a seguito di citazione diretta***

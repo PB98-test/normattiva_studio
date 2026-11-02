@@ -14,8 +14,8 @@ capo_label: "Della prescrizione"
 sezione: "IV"
 sezione_label: "Del termine della prescrizione § 1 Della prescrizione ordinaria"
 rubrica: "Compimento della prescrizione"
-dataVigenza: "20260914"
-ordine: 3273
+dataVigenza: "20261102"
+ordine: 3274
 ---
 
 # Art. 2962 - ***Compimento della prescrizione***

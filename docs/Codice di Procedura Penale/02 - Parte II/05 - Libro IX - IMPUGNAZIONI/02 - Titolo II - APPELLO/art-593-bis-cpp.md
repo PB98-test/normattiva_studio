@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Appello del pubblico ministero"
-dataVigenza: "20261016"
-ordine: 713
+dataVigenza: "20261102"
+ordine: 714
 ---
 
 # Art. 593-bis - ***Appello del pubblico ministero***

@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Sospensione dell'esecuzione"
-dataVigenza: "20261016"
-ordine: 763
+dataVigenza: "20261102"
+ordine: 764
 ---
 
 # Art. 635 - ***Sospensione dell'esecuzione***

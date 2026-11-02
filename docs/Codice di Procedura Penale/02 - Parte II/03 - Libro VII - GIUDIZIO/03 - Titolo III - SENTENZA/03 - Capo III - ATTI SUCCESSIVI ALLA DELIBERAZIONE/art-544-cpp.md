@@ -16,8 +16,8 @@ capo_label: "ATTI SUCCESSIVI ALLA DELIBERAZIONE"
 sezione: null
 sezione_label: null
 rubrica: "Redazione della sentenza"
-dataVigenza: "20261016"
-ordine: 655
+dataVigenza: "20261102"
+ordine: 656
 ---
 
 # Art. 544 - ***Redazione della sentenza***

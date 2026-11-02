@@ -14,8 +14,8 @@ capo_label: "Della trascrizione degli atti relativi ai beni immobili"
 sezione: null
 sezione_label: null
 rubrica: "Obbligo dei pubblici ufficiali"
-dataVigenza: "20260914"
-ordine: 2975
+dataVigenza: "20261102"
+ordine: 2976
 ---
 
 # Art. 2671 - ***Obbligo dei pubblici ufficiali***

@@ -14,8 +14,8 @@ capo_label: "Della trascrizione degli atti relativi ai beni immobili"
 sezione: null
 sezione_label: null
 rubrica: "Trascrizione anteriore al pagamento dell'imposta di registro"
-dataVigenza: "20260914"
-ordine: 2973
+dataVigenza: "20261102"
+ordine: 2974
 ---
 
 # Art. 2669 - ***Trascrizione anteriore al pagamento dell'imposta di registro***

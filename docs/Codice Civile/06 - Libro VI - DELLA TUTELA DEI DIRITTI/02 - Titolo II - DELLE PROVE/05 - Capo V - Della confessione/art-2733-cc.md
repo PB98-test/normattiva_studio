@@ -14,8 +14,8 @@ capo_label: "Della confessione"
 sezione: null
 sezione_label: null
 rubrica: "Confessione giudiziale"
-dataVigenza: "20260914"
-ordine: 3038
+dataVigenza: "20261102"
+ordine: 3039
 ---
 
 # Art. 2733 - ***Confessione giudiziale***

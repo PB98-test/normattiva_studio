@@ -14,8 +14,8 @@ capo_label: "Dei privilegi"
 sezione: "I"
 sezione_label: "Disposizioni generali"
 rubrica: "Efficacia del privilegio speciale rispetto al pegno e alle ipoteche"
-dataVigenza: "20260914"
-ordine: 3053
+dataVigenza: "20261102"
+ordine: 3054
 ---
 
 # Art. 2748 - ***Efficacia del privilegio speciale rispetto al pegno e alle ipoteche***

@@ -14,8 +14,8 @@ capo_label: "Del pegno"
 sezione: "III"
 sezione_label: "Del pegno di crediti e di altri diritti"
 rubrica: "Eccezioni opponibili dal debitore del credito dato in pegno"
-dataVigenza: "20260914"
-ordine: 3114
+dataVigenza: "20261102"
+ordine: 3115
 ---
 
 # Art. 2805 - ***Eccezioni opponibili dal debitore del credito dato in pegno***

@@ -14,8 +14,8 @@ capo_label: "Della trascrizione degli atti relativi ai beni immobili"
 sezione: null
 sezione_label: null
 rubrica: "Accettazione di eredità e acquisto di legato"
-dataVigenza: "20260914"
-ordine: 2950
+dataVigenza: "20261102"
+ordine: 2951
 ---
 
 # Art. 2648 - ***Accettazione di eredità e acquisto di legato***

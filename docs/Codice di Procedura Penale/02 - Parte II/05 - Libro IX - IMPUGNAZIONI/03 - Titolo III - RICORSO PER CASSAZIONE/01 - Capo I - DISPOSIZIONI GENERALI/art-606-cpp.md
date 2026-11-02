@@ -16,8 +16,8 @@ capo_label: "DISPOSIZIONI GENERALI"
 sezione: null
 sezione_label: null
 rubrica: "Casi di ricorso"
-dataVigenza: "20261016"
-ordine: 729
+dataVigenza: "20261102"
+ordine: 730
 ---
 
 # Art. 606 - ***Casi di ricorso***

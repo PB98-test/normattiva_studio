@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Decreto di citazione a giudizio"
-dataVigenza: "20261016"
-ordine: 664
+dataVigenza: "20261102"
+ordine: 665
 ---
 
 # Art. 552 - ***Decreto di citazione a giudizio***

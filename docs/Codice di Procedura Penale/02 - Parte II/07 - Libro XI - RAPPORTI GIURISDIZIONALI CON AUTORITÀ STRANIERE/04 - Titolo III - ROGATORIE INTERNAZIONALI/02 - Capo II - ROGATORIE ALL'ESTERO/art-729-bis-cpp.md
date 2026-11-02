@@ -16,8 +16,8 @@ capo_label: "ROGATORIE ALL'ESTERO"
 sezione: null
 sezione_label: null
 rubrica: "Acquisizione di atti e informazioni da autorità straniere"
-dataVigenza: "20261016"
-ordine: 877
+dataVigenza: "20261102"
+ordine: 878
 ---
 
 # Art. 729-bis - ***Acquisizione di atti e informazioni da autorità straniere***

@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "V"
 sezione_label: "Dell'iscrizione e rinnovazione delle ipoteche § 1 Dell'iscrizione"
 rubrica: "Notificazioni relative a iscrizioni per obbligazioni all'ordine e al portatore"
-dataVigenza: "20260914"
-ordine: 3155
+dataVigenza: "20261102"
+ordine: 3156
 ---
 
 # Art. 2845 - ***Notificazioni relative a iscrizioni per obbligazioni all'ordine e al portatore***

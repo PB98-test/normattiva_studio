@@ -14,13 +14,13 @@ capo_label: "(Obblighi di adeguata verifica della clientela)"
 sezione: "II"
 sezione_label: "..."
 rubrica: "Modalità di esecuzione degli obblighi di adeguata verifica rafforzata della clientela per i rapporti di corrispondenza transfrontalieri che comportano l'esecuzione di servizi per le cripto-attività"
-dataVigenza: "20261020"
+dataVigenza: "20261102"
 ordine: 36
 ---
 
 # Art. 25-bis - ***Modalità di esecuzione degli obblighi di adeguata verifica rafforzata della clientela per i rapporti di corrispondenza transfrontalieri che comportano l'esecuzione di servizi per le cripto-attività***
 
-1\. Nel caso di rapporti di corrispondenza transfrontalieri che comportano l'esecuzione di servizi per le cripto-attività quali definiti all'[articolo 3](../../../01%20-%20Titolo%20I%20-%20%28Disposizioni%20di%20carattere%20generale%29/01%20-%20Capo%20I%20-%20%28Ambito%20di%20applicazione%29/art-3-dlgs231-07.md), paragrafo 1, punto 16), del regolamento (UE) 2023/1114 del Parlamento europeo e del Consiglio, del 31 maggio 2023, con l'eccezione della lettera h) di tale punto, con un intermediario corrispondente di un Paese terzo che presta servizi analoghi, compresi i trasferimenti di cripto-attività, i prestatori di servizi per le cripto-attività, oltre alle ordinarie misure di adeguata verifica della clientela, al momento dell'avvio del rapporto adottano le seguenti ulteriori misure:
+1\. Nel caso di rapporti di corrispondenza transfrontalieri che comportano l'esecuzione di servizi per le cripto-attività quali definiti all'articolo 3, paragrafo 1, punto 16), del regolamento (UE) 2023/1114 del Parlamento europeo e del Consiglio, del 31 maggio 2023, con l'eccezione della lettera h) di tale punto, con un intermediario corrispondente di un Paese terzo che presta servizi analoghi, compresi i trasferimenti di cripto-attività, i prestatori di servizi per le cripto-attività, oltre alle ordinarie misure di adeguata verifica della clientela, al momento dell'avvio del rapporto adottano le seguenti ulteriori misure:
 
 - a) determinano se l'intermediario corrispondente è autorizzato o registrato;
 - b) raccolgono informazioni sufficienti sull'intermediario corrispondente per comprendere pienamente la natura delle attività svolte e per determinare, sulla base di pubblici registri, elenchi, atti o documenti, la correttezza e la qualità della vigilanza cui l'intermediario corrispondente è soggetto;

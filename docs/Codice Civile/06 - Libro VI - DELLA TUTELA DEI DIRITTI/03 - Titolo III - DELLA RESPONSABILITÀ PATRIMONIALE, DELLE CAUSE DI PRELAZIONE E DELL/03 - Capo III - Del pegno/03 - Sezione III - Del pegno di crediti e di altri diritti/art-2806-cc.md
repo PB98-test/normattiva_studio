@@ -14,8 +14,8 @@ capo_label: "Del pegno"
 sezione: "III"
 sezione_label: "Del pegno di crediti e di altri diritti"
 rubrica: "Pegno di diritti diversi dai crediti"
-dataVigenza: "20260914"
-ordine: 3115
+dataVigenza: "20261102"
+ordine: 3116
 ---
 
 # Art. 2806 - ***Pegno di diritti diversi dai crediti***

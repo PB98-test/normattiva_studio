@@ -14,8 +14,8 @@ capo_label: "Della pubblicità dei registri immobiliari e della responsabilità 
 sezione: null
 sezione_label: null
 rubrica: "Diversità tra registri, copie e certificati."
-dataVigenza: "20260914"
-ordine: 2981
+dataVigenza: "20261102"
+ordine: 2982
 ---
 
 # Art. 2676 - ***Diversità tra registri, copie e certificati.***

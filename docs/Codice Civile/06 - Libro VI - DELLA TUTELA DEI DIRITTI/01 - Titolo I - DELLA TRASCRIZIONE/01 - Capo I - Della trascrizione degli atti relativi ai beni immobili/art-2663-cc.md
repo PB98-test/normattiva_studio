@@ -14,8 +14,8 @@ capo_label: "Della trascrizione degli atti relativi ai beni immobili"
 sezione: null
 sezione_label: null
 rubrica: "Ufficio in cui deve farsi la trascrizione"
-dataVigenza: "20260914"
-ordine: 2965
+dataVigenza: "20261102"
+ordine: 2966
 ---
 
 # Art. 2663 - ***Ufficio in cui deve farsi la trascrizione***

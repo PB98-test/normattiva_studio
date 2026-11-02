@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "V"
 sezione_label: "Dell'iscrizione e rinnovazione delle ipoteche § 1 Dell'iscrizione"
 rubrica: "Atti formati all'estero"
-dataVigenza: "20260914"
-ordine: 3147
+dataVigenza: "20261102"
+ordine: 3148
 ---
 
 # Art. 2837 - ***Atti formati all'estero***

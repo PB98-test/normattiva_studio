@@ -14,7 +14,7 @@ capo_label: "Dei delitti contro la vita e l'incolumità individuale"
 sezione: null
 sezione_label: null
 rubrica: "Lesione personale"
-dataVigenza: "20261016"
+dataVigenza: "20261102"
 ordine: 748
 ---
 
@@ -23,7 +23,7 @@ ordine: 748
 Chiunque cagiona ad alcuno una lesione personale, dalla quale deriva una malattia nel corpo o nella mente, è punito, a querela della persona offesa, con la reclusione da sei mesi a tre anni.
 {: data-comma="1" }
 
-Si procede tuttavia d'ufficio se ricorre taluna delle circostanze aggravanti previste negli [articoli 583](art-583-cp.md), [583-quater](art-583-quater-cp.md), secondo comma, primo periodo, e terzo comma, e 585, ad eccezione di quelle indicate nel primo comma, numero 1), e nel secondo comma dell'[articolo 577](art-577-cp.md). Si procede altresì d'ufficio se la malattia ha una durata superiore a venti giorni quando il fatto è commesso contro persona incapace, per età o per infermità.
+Si procede tuttavia d'ufficio se ricorre taluna delle circostanze aggravanti previste negli [articoli 583](art-583-cp.md), [583-quater](art-583-quater-cp.md), primo comma, secondo comma, primo periodo, e terzo comma, e 585, ad eccezione di quelle indicate nel primo comma, numero 1), e nel secondo comma dell'[articolo 577](art-577-cp.md). Si procede altresì d'ufficio se la malattia ha una durata superiore a venti giorni quando il fatto è commesso contro persona incapace, per età o per infermità.
 {: data-comma="2" }
 
 [^agg-24]: *AGGIORNAMENTO (24)* Il D.P.R. 11 luglio 1959, n. 460 ha disposto (con l'art. 1, comma 1, lettera g)) che è concessa amnistia "per il reato di lesioni personali volontarie lievissime previsto dall'[art. 582](art-582-cp.md), capoverso, del [Codice penale](../../../00%20-%20Indice%20%28cp%29.md), aggravato ai sensi dell'[art. 585](art-585-cp.md), in relazione all'[art. 577](art-577-cp.md), stesso Codice, se concorre un'attenuante". Ha inoltre disposto (con l'art. 15, comma 1) che l'amnistia ha efficacia per i reati commessi fino a tutto il 23 ottobre 1958.

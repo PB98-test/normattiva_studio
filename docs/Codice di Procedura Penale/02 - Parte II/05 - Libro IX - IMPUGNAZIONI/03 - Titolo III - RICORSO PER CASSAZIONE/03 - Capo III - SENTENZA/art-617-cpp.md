@@ -16,8 +16,8 @@ capo_label: "SENTENZA"
 sezione: null
 sezione_label: null
 rubrica: "Motivazione e deposito"
-dataVigenza: "20261016"
-ordine: 740
+dataVigenza: "20261102"
+ordine: 741
 ---
 
 # Art. 617 - ***Motivazione e deposito***

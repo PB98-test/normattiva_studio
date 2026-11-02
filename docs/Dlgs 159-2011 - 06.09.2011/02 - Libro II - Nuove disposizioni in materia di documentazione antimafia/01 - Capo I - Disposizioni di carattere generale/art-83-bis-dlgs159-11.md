@@ -14,8 +14,8 @@ capo_label: "Disposizioni di carattere generale"
 sezione: null
 sezione_label: null
 rubrica: "Protocolli di legalità"
-dataVigenza: "20261016"
-ordine: 96
+dataVigenza: "20261102"
+ordine: 98
 ---
 
 # Art. 83-bis - ***Protocolli di legalità***

@@ -16,8 +16,8 @@ capo_label: "ESTRADIZIONE PER L'ESTERO"
 sezione: "II"
 sezione_label: "Misure cautelari"
 rubrica: "Impugnazione dei provvedimenti relativi alle misure cautelari"
-dataVigenza: "20261016"
-ordine: 859
+dataVigenza: "20261102"
+ordine: 860
 ---
 
 # Art. 719 - ***Impugnazione dei provvedimenti relativi alle misure cautelari***

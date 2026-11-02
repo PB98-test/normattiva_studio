@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "I"
 sezione_label: "Disposizioni generali"
 rubrica: "Oggetto dell'ipoteca"
-dataVigenza: "20260914"
-ordine: 3119
+dataVigenza: "20261102"
+ordine: 3120
 ---
 
 # Art. 2810 - ***Oggetto dell'ipoteca***

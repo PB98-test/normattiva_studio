@@ -16,8 +16,8 @@ capo_label: "ROGATORIE ALL'ESTERO"
 sezione: null
 sezione_label: null
 rubrica: "Trasmissione di rogatorie ad autorità straniere"
-dataVigenza: "20261016"
-ordine: 874
+dataVigenza: "20261102"
+ordine: 875
 ---
 
 # Art. 727 - ***Trasmissione di rogatorie ad autorità straniere***

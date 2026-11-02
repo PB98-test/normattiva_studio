@@ -14,8 +14,8 @@ capo_label: "Della trascrizione degli atti relativi ai beni immobili"
 sezione: null
 sezione_label: null
 rubrica: "Forme per l'annotazione"
-dataVigenza: "20260914"
-ordine: 2958
+dataVigenza: "20261102"
+ordine: 2959
 ---
 
 # Art. 2656 - ***Forme per l'annotazione***

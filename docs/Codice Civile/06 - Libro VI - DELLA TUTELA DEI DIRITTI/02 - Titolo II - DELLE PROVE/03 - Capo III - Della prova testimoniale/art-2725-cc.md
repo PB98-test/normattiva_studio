@@ -14,8 +14,8 @@ capo_label: "Della prova testimoniale"
 sezione: null
 sezione_label: null
 rubrica: "Atti per i quali è richiesta la prova per iscritto o la forma scritta"
-dataVigenza: "20260914"
-ordine: 3030
+dataVigenza: "20261102"
+ordine: 3031
 ---
 
 # Art. 2725 - ***Atti per i quali è richiesta la prova per iscritto o la forma scritta***

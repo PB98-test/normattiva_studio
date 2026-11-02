@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Spese della custodia cautelare"
-dataVigenza: "20261016"
-ordine: 823
+dataVigenza: "20261102"
+ordine: 824
 ---
 
 # Art. 692 - ***Spese della custodia cautelare***

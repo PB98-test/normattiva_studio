@@ -14,8 +14,8 @@ capo_label: "Della trascrizione degli atti relativi ad alcuni beni mobili"
 sezione: "I"
 sezione_label: "Della trascrizione relativamente alle navi, agli aeromobili e agli autoveicoli"
 rubrica: "Forme e modalità della trascrizione"
-dataVigenza: "20260914"
-ordine: 3000
+dataVigenza: "20261102"
+ordine: 3001
 ---
 
 # Art. 2695 - ***Forme e modalità della trascrizione***

@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Giudizio di revisione"
-dataVigenza: "20261016"
-ordine: 764
+dataVigenza: "20261102"
+ordine: 765
 ---
 
 # Art. 636 - ***Giudizio di revisione***

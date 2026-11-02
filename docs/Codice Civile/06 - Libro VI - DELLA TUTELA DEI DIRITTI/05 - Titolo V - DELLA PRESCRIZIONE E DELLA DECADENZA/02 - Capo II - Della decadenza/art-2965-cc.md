@@ -14,8 +14,8 @@ capo_label: "Della decadenza"
 sezione: null
 sezione_label: null
 rubrica: "Decadenze stabilite contrattualmente"
-dataVigenza: "20260914"
-ordine: 3276
+dataVigenza: "20261102"
+ordine: 3277
 ---
 
 # Art. 2965 - ***Decadenze stabilite contrattualmente***

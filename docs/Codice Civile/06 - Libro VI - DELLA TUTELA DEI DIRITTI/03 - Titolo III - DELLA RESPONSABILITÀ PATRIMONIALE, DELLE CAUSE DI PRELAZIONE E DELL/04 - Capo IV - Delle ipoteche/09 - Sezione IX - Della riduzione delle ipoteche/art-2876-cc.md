@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "IX"
 sezione_label: "Della riduzione delle ipoteche"
 rubrica: "Limiti della riduzione"
-dataVigenza: "20260914"
-ordine: 3186
+dataVigenza: "20261102"
+ordine: 3187
 ---
 
 # Art. 2876 - ***Limiti della riduzione***

@@ -14,8 +14,8 @@ capo_label: "Della prova documentale"
 sezione: "II"
 sezione_label: "Della scrittura privata"
 rubrica: "Telegramma"
-dataVigenza: "20260914"
-ordine: 3010
+dataVigenza: "20261102"
+ordine: 3011
 ---
 
 # Art. 2705 - ***Telegramma***

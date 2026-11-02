@@ -16,8 +16,8 @@ capo_label: "EFFETTI DELLE SENTENZE PENALI STRANIERE"
 sezione: null
 sezione_label: null
 rubrica: "Ordine di devoluzione"
-dataVigenza: "20261016"
-ordine: 896
+dataVigenza: "20261102"
+ordine: 897
 ---
 
 # Art. 740-ter - ***Ordine di devoluzione***

@@ -14,8 +14,8 @@ capo_label: "Della trascrizione degli atti relativi ai beni immobili"
 sezione: null
 sezione_label: null
 rubrica: "Trascrizione di atti costitutivi di vincolo"
-dataVigenza: "20260914"
-ordine: 2947
+dataVigenza: "20261102"
+ordine: 2948
 ---
 
 # Art. 2645-quater - ***Trascrizione di atti costitutivi di vincolo***

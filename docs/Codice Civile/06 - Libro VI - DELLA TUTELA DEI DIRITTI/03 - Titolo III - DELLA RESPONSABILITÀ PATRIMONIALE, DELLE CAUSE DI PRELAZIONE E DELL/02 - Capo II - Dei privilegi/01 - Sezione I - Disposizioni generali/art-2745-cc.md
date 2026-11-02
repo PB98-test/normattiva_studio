@@ -14,8 +14,8 @@ capo_label: "Dei privilegi"
 sezione: "I"
 sezione_label: "Disposizioni generali"
 rubrica: "Fondamento del privilegio"
-dataVigenza: "20260914"
-ordine: 3050
+dataVigenza: "20261102"
+ordine: 3051
 ---
 
 # Art. 2745 - ***Fondamento del privilegio***

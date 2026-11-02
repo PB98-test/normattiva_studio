@@ -14,8 +14,8 @@ capo_label: "Dei privilegi"
 sezione: "IV"
 sezione_label: "Dell'ordine dei privilegi"
 rubrica: "Concorso di privilegi speciali con crediti pignoratizi"
-dataVigenza: "20260914"
-ordine: 3088
+dataVigenza: "20261102"
+ordine: 3089
 ---
 
 # Art. 2781 - ***Concorso di privilegi speciali con crediti pignoratizi***

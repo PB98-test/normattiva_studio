@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "V"
 sezione_label: "Dell'iscrizione e rinnovazione delle ipoteche § 1 Dell'iscrizione"
 rubrica: "Luogo dell'iscrizione"
-dataVigenza: "20260914"
-ordine: 3137
+dataVigenza: "20261102"
+ordine: 3138
 ---
 
 # Art. 2827 - ***Luogo dell'iscrizione***

@@ -14,8 +14,8 @@ capo_label: "Disposizioni generali"
 sezione: null
 sezione_label: null
 rubrica: "Cosa giudicata"
-dataVigenza: "20260914"
-ordine: 3219
+dataVigenza: "20261102"
+ordine: 3220
 ---
 
 # Art. 2909 - ***Cosa giudicata***

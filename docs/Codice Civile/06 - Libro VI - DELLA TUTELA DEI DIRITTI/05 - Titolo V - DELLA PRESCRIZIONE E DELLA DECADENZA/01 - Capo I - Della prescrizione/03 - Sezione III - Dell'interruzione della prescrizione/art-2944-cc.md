@@ -14,8 +14,8 @@ capo_label: "Della prescrizione"
 sezione: "III"
 sezione_label: "Dell'interruzione della prescrizione"
 rubrica: "Interruzione per effetto di riconoscimento"
-dataVigenza: "20260914"
-ordine: 3255
+dataVigenza: "20261102"
+ordine: 3256
 ---
 
 # Art. 2944 - ***Interruzione per effetto di riconoscimento***

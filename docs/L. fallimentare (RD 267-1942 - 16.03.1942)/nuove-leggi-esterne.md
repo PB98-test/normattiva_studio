@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da L. fallimentare (RD 267-1942 - 16.03.1942) ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di L. fallimentare (RD 267-1942 - 16.03.1942) - 46 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di L. fallimentare (RD 267-1942 - 16.03.1942) - 47 leggi trovate)*
 
 - [L. 20 ottobre 1952, n. 1375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-10-20;1375)
 - [D.Lgs. 12 settembre 2007, n. 169](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2007-09-12;169)
@@ -44,6 +44,7 @@ search:
 - [L. 21 ottobre 2021, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-10-21;147)
 - [D.L. 18 APRILE 2019, N. 32](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2019-04-18;32)
 - [L. 14 GIUGNO 2019, N. 55](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-06-14;55)
+- [direttiva 2014/59/UE](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32014L0059)
 - [L. 17 luglio 1975, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-17;400)
 - [D.Lgs. 13 ottobre 1998, n. 373](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1998-10-13;373)
 - [articolo 12 della legge 27 gennaio 2012, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-01-27;3)

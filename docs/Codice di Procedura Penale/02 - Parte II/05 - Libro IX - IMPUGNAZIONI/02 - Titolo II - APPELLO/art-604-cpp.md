@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Questioni di nullità"
-dataVigenza: "20261016"
-ordine: 727
+dataVigenza: "20261102"
+ordine: 728
 ---
 
 # Art. 604 - ***Questioni di nullità***

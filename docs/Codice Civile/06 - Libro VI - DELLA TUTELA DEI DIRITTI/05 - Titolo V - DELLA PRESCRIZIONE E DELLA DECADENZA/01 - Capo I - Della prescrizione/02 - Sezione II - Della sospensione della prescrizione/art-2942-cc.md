@@ -14,8 +14,8 @@ capo_label: "Della prescrizione"
 sezione: "II"
 sezione_label: "Della sospensione della prescrizione"
 rubrica: "Sospensione per la condizione del titolare"
-dataVigenza: "20260914"
-ordine: 3253
+dataVigenza: "20261102"
+ordine: 3254
 ---
 
 # Art. 2942 - ***Sospensione per la condizione del titolare***

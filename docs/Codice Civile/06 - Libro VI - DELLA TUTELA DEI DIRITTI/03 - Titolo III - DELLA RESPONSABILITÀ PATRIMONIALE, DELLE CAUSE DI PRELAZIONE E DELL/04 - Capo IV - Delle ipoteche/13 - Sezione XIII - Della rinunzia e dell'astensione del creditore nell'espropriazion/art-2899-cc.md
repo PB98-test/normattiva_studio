@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "XIII"
 sezione_label: "Della rinunzia e dell'astensione del creditore nell'espropriazione forzata"
 rubrica: "Divieto di rinunzia a un'ipoteca a danno di altro creditore"
-dataVigenza: "20260914"
-ordine: 3209
+dataVigenza: "20261102"
+ordine: 3210
 ---
 
 # Art. 2899 - ***Divieto di rinunzia a un'ipoteca a danno di altro creditore***

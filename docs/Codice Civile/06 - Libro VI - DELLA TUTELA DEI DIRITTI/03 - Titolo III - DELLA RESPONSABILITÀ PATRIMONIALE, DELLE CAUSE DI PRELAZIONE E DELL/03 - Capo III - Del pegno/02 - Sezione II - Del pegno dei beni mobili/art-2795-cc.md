@@ -14,8 +14,8 @@ capo_label: "Del pegno"
 sezione: "II"
 sezione_label: "Del pegno dei beni mobili"
 rubrica: "Vendita anticipata"
-dataVigenza: "20260914"
-ordine: 3104
+dataVigenza: "20261102"
+ordine: 3105
 ---
 
 # Art. 2795 - ***Vendita anticipata***

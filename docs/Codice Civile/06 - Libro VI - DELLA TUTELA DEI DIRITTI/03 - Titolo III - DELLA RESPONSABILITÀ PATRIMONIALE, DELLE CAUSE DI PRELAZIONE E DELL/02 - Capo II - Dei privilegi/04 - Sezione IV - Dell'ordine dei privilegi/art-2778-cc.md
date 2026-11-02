@@ -14,8 +14,8 @@ capo_label: "Dei privilegi"
 sezione: "IV"
 sezione_label: "Dell'ordine dei privilegi"
 rubrica: "Ordine degli altri privilegi sui mobili"
-dataVigenza: "20261016"
-ordine: 3085
+dataVigenza: "20261102"
+ordine: 3086
 ---
 
 # Art. 2778 - ***Ordine degli altri privilegi sui mobili***

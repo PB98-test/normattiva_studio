@@ -16,8 +16,8 @@ capo_label: "PROCEDIMENTO"
 sezione: null
 sezione_label: null
 rubrica: "Dibattimento"
-dataVigenza: "20261016"
-ordine: 737
+dataVigenza: "20261102"
+ordine: 738
 ---
 
 # Art. 614 - ***Dibattimento***

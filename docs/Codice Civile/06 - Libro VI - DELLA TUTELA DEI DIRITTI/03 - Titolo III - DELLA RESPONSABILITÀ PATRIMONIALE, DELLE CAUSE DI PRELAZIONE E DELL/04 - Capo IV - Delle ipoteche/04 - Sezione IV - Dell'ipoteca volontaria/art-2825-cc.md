@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "IV"
 sezione_label: "Dell'ipoteca volontaria"
 rubrica: "Ipoteca su beni indivisi"
-dataVigenza: "20260914"
-ordine: 3134
+dataVigenza: "20261102"
+ordine: 3135
 ---
 
 # Art. 2825 - ***Ipoteca su beni indivisi***

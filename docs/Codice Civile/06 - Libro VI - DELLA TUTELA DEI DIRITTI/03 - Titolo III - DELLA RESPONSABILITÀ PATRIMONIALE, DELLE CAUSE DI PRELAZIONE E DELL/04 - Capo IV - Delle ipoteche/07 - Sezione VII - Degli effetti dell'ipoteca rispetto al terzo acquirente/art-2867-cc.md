@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "VII"
 sezione_label: "Degli effetti dell'ipoteca rispetto al terzo acquirente"
 rubrica: "Terzo debitore di somma in dipendenza dell'acquisto"
-dataVigenza: "20260914"
-ordine: 3177
+dataVigenza: "20261102"
+ordine: 3178
 ---
 
 # Art. 2867 - ***Terzo debitore di somma in dipendenza dell'acquisto***

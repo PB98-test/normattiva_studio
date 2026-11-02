@@ -16,8 +16,8 @@ capo_label: "ESTRADIZIONE PER L'ESTERO"
 sezione: "I"
 sezione_label: "Procedimento"
 rubrica: "Condizioni per la decisione"
-dataVigenza: "20261016"
-ordine: 845
+dataVigenza: "20261102"
+ordine: 846
 ---
 
 # Art. 705 - ***Condizioni per la decisione***

@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "I"
 sezione_label: "Disposizioni generali"
 rubrica: "Pericolo di danno alle cose ipotecate"
-dataVigenza: "20260914"
-ordine: 3122
+dataVigenza: "20261102"
+ordine: 3123
 ---
 
 # Art. 2813 - ***Pericolo di danno alle cose ipotecate***

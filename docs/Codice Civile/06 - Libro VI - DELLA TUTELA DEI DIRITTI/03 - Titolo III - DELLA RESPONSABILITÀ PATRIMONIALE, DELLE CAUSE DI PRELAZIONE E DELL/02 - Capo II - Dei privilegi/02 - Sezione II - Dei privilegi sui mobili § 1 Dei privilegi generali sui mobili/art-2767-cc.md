@@ -14,8 +14,8 @@ capo_label: "Dei privilegi"
 sezione: "II"
 sezione_label: "Dei privilegi sui mobili § 1 Dei privilegi generali sui mobili"
 rubrica: "Crediti per risarcimento di danni contro l'assicurato"
-dataVigenza: "20260914"
-ordine: 3073
+dataVigenza: "20261102"
+ordine: 3074
 ---
 
 # Art. 2767 - ***Crediti per risarcimento di danni contro l'assicurato***

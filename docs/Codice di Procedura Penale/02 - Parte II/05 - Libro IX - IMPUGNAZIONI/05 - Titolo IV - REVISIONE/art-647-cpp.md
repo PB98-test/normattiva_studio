@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Risarcimento del danno e riparazione"
-dataVigenza: "20261016"
-ordine: 775
+dataVigenza: "20261102"
+ordine: 776
 ---
 
 # Art. 647 - ***Risarcimento del danno e riparazione***

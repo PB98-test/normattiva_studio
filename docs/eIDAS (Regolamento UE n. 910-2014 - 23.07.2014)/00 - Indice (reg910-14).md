@@ -1,12 +1,12 @@
 ---
 type: "Indice normativo"
-title: "eIDAS (Regolamento UE n. 910-2014 - 23.07.2014)"
+title: "eIDAS (Regolamento UE n. 910-2014 - 23.07.2014)"
 aliases:
   - "reg910-14"
-  - "eIDAS (Regolamento UE n. 910-2014 - 23.07.2014)"
+  - "eIDAS (Regolamento UE n. 910-2014 - 23.07.2014)"
 ---
 
-# eIDAS (Regolamento UE n. 910-2014 - 23.07.2014)
+# eIDAS (Regolamento UE n. 910-2014 - 23.07.2014)
 
 #### Capo I - DISPOSIZIONI GENERALI
 - [Art. 1](01%20-%20Capo%20I%20-%20DISPOSIZIONI%20GENERALI/art-1-reg910-14.md) - Oggetto

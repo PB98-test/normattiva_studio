@@ -16,8 +16,8 @@ capo_label: "SENTENZA"
 sezione: null
 sezione_label: null
 rubrica: "Provvedimenti conseguenti alla sentenza"
-dataVigenza: "20261016"
-ordine: 749
+dataVigenza: "20261102"
+ordine: 750
 ---
 
 # Art. 625 - ***Provvedimenti conseguenti alla sentenza***

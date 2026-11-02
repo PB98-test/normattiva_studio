@@ -16,8 +16,8 @@ capo_label: "ATTI SUCCESSIVI ALLA DELIBERAZIONE"
 sezione: null
 sezione_label: null
 rubrica: "Condanna a pena sostitutiva"
-dataVigenza: "20261016"
-ordine: 657
+dataVigenza: "20261102"
+ordine: 658
 ---
 
 # Art. 545-bis - ***Condanna a pena sostitutiva***

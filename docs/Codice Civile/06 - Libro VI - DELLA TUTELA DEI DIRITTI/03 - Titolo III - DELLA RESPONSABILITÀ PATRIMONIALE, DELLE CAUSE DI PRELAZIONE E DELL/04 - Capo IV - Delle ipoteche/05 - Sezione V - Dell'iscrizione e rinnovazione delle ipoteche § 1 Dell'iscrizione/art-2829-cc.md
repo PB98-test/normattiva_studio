@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "V"
 sezione_label: "Dell'iscrizione e rinnovazione delle ipoteche § 1 Dell'iscrizione"
 rubrica: "Iscrizione sui beni del defunto"
-dataVigenza: "20260914"
-ordine: 3139
+dataVigenza: "20261102"
+ordine: 3140
 ---
 
 # Art. 2829 - ***Iscrizione sui beni del defunto***

@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "XII"
 sezione_label: "Del modo di liberare i beni dalle ipoteche"
 rubrica: "Aggiudicazione al terzo acquirente"
-dataVigenza: "20261016"
-ordine: 3206
+dataVigenza: "20261102"
+ordine: 3207
 ---
 
 # Art. 2896 - ***Aggiudicazione al terzo acquirente***

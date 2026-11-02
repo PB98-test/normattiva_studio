@@ -14,8 +14,8 @@ capo_label: "Della trascrizione degli atti relativi ad alcuni beni mobili"
 sezione: "I"
 sezione_label: "Della trascrizione relativamente alle navi, agli aeromobili e agli autoveicoli"
 rubrica: "Trascrizione del pignoramento e del sequestro"
-dataVigenza: "20260914"
-ordine: 2998
+dataVigenza: "20261102"
+ordine: 2999
 ---
 
 # Art. 2693 - ***Trascrizione del pignoramento e del sequestro***

@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "I"
 sezione_label: "Disposizioni generali"
 rubrica: "Diritti costituiti sulla cosa ipotecata"
-dataVigenza: "20260914"
-ordine: 3121
+dataVigenza: "20261102"
+ordine: 3122
 ---
 
 # Art. 2812 - ***Diritti costituiti sulla cosa ipotecata***

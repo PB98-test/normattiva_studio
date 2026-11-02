@@ -14,8 +14,8 @@ capo_label: "Della trascrizione degli atti relativi ai beni immobili"
 sezione: null
 sezione_label: null
 rubrica: "Conservazione dei titoli. Trascrizione e restituzione della nota"
-dataVigenza: "20260914"
-ordine: 2966
+dataVigenza: "20261102"
+ordine: 2967
 ---
 
 # Art. 2664 - ***Conservazione dei titoli. Trascrizione e restituzione della nota***

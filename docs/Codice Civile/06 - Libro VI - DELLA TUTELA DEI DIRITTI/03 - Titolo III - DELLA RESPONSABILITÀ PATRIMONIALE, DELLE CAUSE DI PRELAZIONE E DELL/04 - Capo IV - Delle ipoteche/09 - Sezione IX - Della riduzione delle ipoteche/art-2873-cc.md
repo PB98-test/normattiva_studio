@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "IX"
 sezione_label: "Della riduzione delle ipoteche"
 rubrica: "Esclusione della riduzione"
-dataVigenza: "20260914"
-ordine: 3183
+dataVigenza: "20261102"
+ordine: 3184
 ---
 
 # Art. 2873 - ***Esclusione della riduzione***

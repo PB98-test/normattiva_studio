@@ -14,8 +14,8 @@ capo_label: "Della prova documentale"
 sezione: "II"
 sezione_label: "Della scrittura privata"
 rubrica: "Sottoscrizione autenticata"
-dataVigenza: "20260914"
-ordine: 3008
+dataVigenza: "20261102"
+ordine: 3009
 ---
 
 # Art. 2703 - ***Sottoscrizione autenticata***

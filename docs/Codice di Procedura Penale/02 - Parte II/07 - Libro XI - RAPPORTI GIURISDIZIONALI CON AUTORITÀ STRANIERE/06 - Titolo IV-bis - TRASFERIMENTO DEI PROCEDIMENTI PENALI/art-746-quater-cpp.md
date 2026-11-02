@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Trasferimento di procedimenti penali all'estero"
-dataVigenza: "20261016"
-ordine: 906
+dataVigenza: "20261102"
+ordine: 907
 ---
 
 # Art. 746-quater - ***Trasferimento di procedimenti penali all'estero***

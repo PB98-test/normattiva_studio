@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "VI"
 sezione_label: "Dell'ordine delle ipoteche"
 rubrica: "Surrogazione del creditore perdente"
-dataVigenza: "20260914"
-ordine: 3166
+dataVigenza: "20261102"
+ordine: 3167
 ---
 
 # Art. 2856 - ***Surrogazione del creditore perdente***

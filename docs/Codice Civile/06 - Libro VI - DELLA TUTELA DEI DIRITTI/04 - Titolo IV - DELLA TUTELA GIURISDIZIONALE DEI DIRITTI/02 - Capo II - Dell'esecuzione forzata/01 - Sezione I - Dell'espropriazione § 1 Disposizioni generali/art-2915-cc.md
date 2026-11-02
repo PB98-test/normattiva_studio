@@ -14,8 +14,8 @@ capo_label: "Dell'esecuzione forzata"
 sezione: "I"
 sezione_label: "Dell'espropriazione § 1 Disposizioni generali"
 rubrica: "Atti che limitano la disponibilità dei beni pignorati"
-dataVigenza: "20260914"
-ordine: 3225
+dataVigenza: "20261102"
+ordine: 3226
 ---
 
 # Art. 2915 - ***Atti che limitano la disponibilità dei beni pignorati***

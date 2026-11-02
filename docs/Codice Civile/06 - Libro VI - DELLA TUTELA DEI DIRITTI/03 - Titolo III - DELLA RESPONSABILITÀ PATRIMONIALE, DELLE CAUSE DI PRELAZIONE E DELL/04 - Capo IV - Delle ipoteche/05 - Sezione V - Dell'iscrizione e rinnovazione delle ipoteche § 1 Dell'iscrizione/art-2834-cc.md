@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "V"
 sezione_label: "Dell'iscrizione e rinnovazione delle ipoteche § 1 Dell'iscrizione"
 rubrica: "Iscrizione dell'ipoteca legale dell'alienante e del condividente."
-dataVigenza: "20260914"
-ordine: 3144
+dataVigenza: "20261102"
+ordine: 3145
 ---
 
 # Art. 2834 - ***Iscrizione dell'ipoteca legale dell'alienante e del condividente.***

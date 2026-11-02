@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Revoca della sentenza di non luogo a procedere"
-dataVigenza: "20261016"
-ordine: 670
+dataVigenza: "20261102"
+ordine: 671
 ---
 
 # Art. 554-quinquies - ***Revoca della sentenza di non luogo a procedere***

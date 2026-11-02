@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "VI"
 sezione_label: "Dell'ordine delle ipoteche"
 rubrica: "Richieste contemporanee d'iscrizione"
-dataVigenza: "20260914"
-ordine: 3163
+dataVigenza: "20261102"
+ordine: 3164
 ---
 
 # Art. 2853 - ***Richieste contemporanee d'iscrizione***

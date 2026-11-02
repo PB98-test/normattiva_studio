@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Richiesta per l'eliminazione degli effetti pregiudizievoli delle decisioni adottate in violazione della Convenzione per la salvaguardia dei diritti dell'uomo e delle libertà fondamentali o dei Protocolli addizionali"
-dataVigenza: "20261016"
-ordine: 755
+dataVigenza: "20261102"
+ordine: 756
 ---
 
 # Art. 628-bis - ***Richiesta per l'eliminazione degli effetti pregiudizievoli delle decisioni adottate in violazione della Convenzione per la salvaguardia dei diritti dell'uomo e delle libertà fondamentali o dei Protocolli addizionali***

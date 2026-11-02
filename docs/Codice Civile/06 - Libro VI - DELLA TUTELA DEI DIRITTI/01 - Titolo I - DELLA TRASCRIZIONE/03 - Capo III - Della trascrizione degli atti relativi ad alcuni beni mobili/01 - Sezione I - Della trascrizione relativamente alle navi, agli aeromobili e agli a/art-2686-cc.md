@@ -14,8 +14,8 @@ capo_label: "Della trascrizione degli atti relativi ad alcuni beni mobili"
 sezione: "I"
 sezione_label: "Della trascrizione relativamente alle navi, agli aeromobili e agli autoveicoli"
 rubrica: "Sentenze"
-dataVigenza: "20260914"
-ordine: 2991
+dataVigenza: "20261102"
+ordine: 2992
 ---
 
 # Art. 2686 - ***Sentenze***

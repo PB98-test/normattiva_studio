@@ -14,8 +14,8 @@ capo_label: "Dei privilegi"
 sezione: "II"
 sezione_label: "Dei privilegi sui mobili § 1 Dei privilegi generali sui mobili"
 rubrica: "Crediti del vettore, dello spedizioniere, del mandatario, del depositario e del sequestratario"
-dataVigenza: "20260914"
-ordine: 3067
+dataVigenza: "20261102"
+ordine: 3068
 ---
 
 # Art. 2761 - ***Crediti del vettore, dello spedizioniere, del mandatario, del depositario e del sequestratario***

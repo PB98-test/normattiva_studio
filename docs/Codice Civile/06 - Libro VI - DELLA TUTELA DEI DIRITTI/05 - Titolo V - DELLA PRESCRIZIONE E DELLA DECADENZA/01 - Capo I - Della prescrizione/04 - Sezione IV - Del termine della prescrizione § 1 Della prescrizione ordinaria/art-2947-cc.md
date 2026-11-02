@@ -14,8 +14,8 @@ capo_label: "Della prescrizione"
 sezione: "IV"
 sezione_label: "Del termine della prescrizione § 1 Della prescrizione ordinaria"
 rubrica: "Prescrizione del diritto al risarcimento del danno"
-dataVigenza: "20260914"
-ordine: 3258
+dataVigenza: "20261102"
+ordine: 3259
 ---
 
 # Art. 2947 - ***Prescrizione del diritto al risarcimento del danno***

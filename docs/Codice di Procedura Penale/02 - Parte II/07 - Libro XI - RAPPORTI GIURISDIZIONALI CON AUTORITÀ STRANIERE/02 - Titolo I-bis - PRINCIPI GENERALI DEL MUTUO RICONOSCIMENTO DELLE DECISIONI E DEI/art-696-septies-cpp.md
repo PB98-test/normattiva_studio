@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Mutuo riconoscimento e responsabilità da reato degli enti"
-dataVigenza: "20261016"
-ordine: 833
+dataVigenza: "20261102"
+ordine: 834
 ---
 
 # Art. 696-septies - ***Mutuo riconoscimento e responsabilità da reato degli enti***

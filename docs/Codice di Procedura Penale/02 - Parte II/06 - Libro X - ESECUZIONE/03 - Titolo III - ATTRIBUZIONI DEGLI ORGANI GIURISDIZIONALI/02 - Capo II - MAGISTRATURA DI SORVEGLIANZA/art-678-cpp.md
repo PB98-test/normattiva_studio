@@ -16,8 +16,8 @@ capo_label: "MAGISTRATURA DI SORVEGLIANZA"
 sezione: null
 sezione_label: null
 rubrica: "Procedimento di sorveglianza"
-dataVigenza: "20261016"
-ordine: 809
+dataVigenza: "20261102"
+ordine: 810
 ---
 
 # Art. 678 - ***Procedimento di sorveglianza***

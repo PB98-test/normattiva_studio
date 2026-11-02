@@ -14,7 +14,7 @@ capo_label: "(Ambito di applicazione)"
 sezione: null
 sezione_label: null
 rubrica: "Finalità e principi"
-dataVigenza: "20261016"
+dataVigenza: "20261102"
 ordine: 2
 ---
 
@@ -37,6 +37,6 @@ ordine: 2
 
 6\. Ai fini di cui al comma 1, s'intende per finanziamento del terrorismo qualsiasi attività diretta, con ogni mezzo, alla fornitura, alla raccolta, alla provvista, all'intermediazione, al deposito, alla custodia o all'erogazione, in qualunque modo realizzate, di fondi e risorse economiche, direttamente o indirettamente, in tutto o in parte, utilizzabili per il compimento di una o più condotte, con finalità di terrorismo secondo quanto previsto dalle leggi penali ciò indipendentemente dall'effettivo utilizzo dei fondi e delle risorse economiche per la commissione delle condotte anzidette.
 
-6-bis. Il trattamento dei dati personali effettuato per le finalità di cui al comma 1 è considerato di interesse pubblico ai sensi del regolamento (UE) 2016/679 e del regolamento (UE) 2018/1725, del Parlamento europeo e del Consiglio e della relativa normativa nazionale di attuazione. [^agg-23]
+6-bis. Il trattamento dei dati personali effettuato per le finalità di cui al comma 1 è considerato di interesse pubblico ai sensi del [regolamento (UE) 2016/679](../../../GDPR%20%28Regolamento%20UE%202016-679%20-%2027.04.2016%29/00%20-%20Indice%20%28reg679-16%29.md) e del regolamento (UE) 2018/1725, del Parlamento europeo e del Consiglio e della relativa normativa nazionale di attuazione. [^agg-23]
 
 [^agg-23]: *AGGIORNAMENTO (23)* Il D.Lgs. 25 maggio 2017, n. 90 ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorità di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".

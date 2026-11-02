@@ -14,8 +14,8 @@ capo_label: "Della prova documentale"
 sezione: "II"
 sezione_label: "Della scrittura privata"
 rubrica: "Data della scrittura privata nei confronti dei terzi"
-dataVigenza: "20260914"
-ordine: 3009
+dataVigenza: "20261102"
+ordine: 3010
 ---
 
 # Art. 2704 - ***Data della scrittura privata nei confronti dei terzi***

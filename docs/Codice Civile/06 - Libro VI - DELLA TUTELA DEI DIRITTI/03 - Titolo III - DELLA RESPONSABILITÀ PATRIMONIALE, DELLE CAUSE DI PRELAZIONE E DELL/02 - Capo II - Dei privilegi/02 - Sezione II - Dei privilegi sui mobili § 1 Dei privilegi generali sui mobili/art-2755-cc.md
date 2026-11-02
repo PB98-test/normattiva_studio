@@ -14,8 +14,8 @@ capo_label: "Dei privilegi"
 sezione: "II"
 sezione_label: "Dei privilegi sui mobili § 1 Dei privilegi generali sui mobili"
 rubrica: "Spese per atti conservativi o di espropriazione"
-dataVigenza: "20260914"
-ordine: 3061
+dataVigenza: "20261102"
+ordine: 3062
 ---
 
 # Art. 2755 - ***Spese per atti conservativi o di espropriazione***

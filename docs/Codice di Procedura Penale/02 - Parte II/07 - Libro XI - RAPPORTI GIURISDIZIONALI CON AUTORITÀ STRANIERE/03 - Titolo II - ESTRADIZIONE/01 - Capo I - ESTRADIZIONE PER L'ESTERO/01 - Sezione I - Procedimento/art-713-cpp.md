@@ -16,8 +16,8 @@ capo_label: "ESTRADIZIONE PER L'ESTERO"
 sezione: "I"
 sezione_label: "Procedimento"
 rubrica: "Misure di sicurezza applicate all'estradato"
-dataVigenza: "20261016"
-ordine: 853
+dataVigenza: "20261102"
+ordine: 854
 ---
 
 # Art. 713 - ***Misure di sicurezza applicate all'estradato***

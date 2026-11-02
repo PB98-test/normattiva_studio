@@ -14,13 +14,13 @@ capo_label: "Della imputabilita"
 sezione: null
 sezione_label: null
 rubrica: "Minore degli anni diciotto"
-dataVigenza: "20260914"
+dataVigenza: "20261102"
 ordine: 110
 ---
 
 # Art. 98 - ***Minore degli anni diciotto***
 
-È imputabile chi, nel momento in cui ha commesso il fatto, aveva compiuto i quattordici anni, ma non ancora i diciotto, se aveva capacità d'intendere e di volere; ma la pena è diminuita.
+È imputabile chi, nel momento in cui ha commesso il fatto, aveva compiuto i quattordici anni, ma non ancora i diciotto, se aveva capacità d'intendere e di volere; ma la pena è diminuita. Nei casi di cui al primo periodo la capacità di intendere e di volere del minore si presume fino a prova contraria.
 {: data-comma="1" }
 
 Quando la pena detentiva inflitta è inferiore a cinque anni, o si tratta di pena pecuniaria, alla condanna non conseguono pene accessorie. Se si tratta di pena più grave, la condanna importa soltanto l'interdizione dai pubblici uffici per una durata non superiore a cinque anni, e, nei casi stabiliti dalla legge, la sospensione dall'esercizio della responsabilità genitoriale o dell'autorità maritale.

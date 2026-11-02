@@ -14,7 +14,7 @@ capo_label: "DATI DELLE PUBBLICHE AMMINISTRAZIONI , IDENTITÀ DIGITALI, ISTANZE 
 sezione: "III"
 sezione_label: "Identità digitali, istanze e servizi on-line"
 rubrica: "Sistema pubblico per la gestione delle identità digitali e modalità di accesso ai servizi erogati in rete dalle pubbliche amministrazioni"
-dataVigenza: "20261022"
+dataVigenza: "20261102"
 ordine: 91
 ---
 
@@ -51,7 +51,7 @@ ordine: 91
 
 2-undecies. I gestori dell'identità digitale accreditati sono iscritti in un apposito elenco pubblico, tenuto da AgID, consultabile anche in via telematica.
 
-2-duodecies. La verifica dell'identità digitale con livello di garanzia almeno significativo, ai sensi dell'articolo 8, paragrafo 2, del Regolamento (UE) n. 910/2014 del Parlamento e del Consiglio europeo del 23 luglio 2014, produce, nelle transazioni elettroniche o per l'accesso ai servizi in rete, gli effetti del documento di riconoscimento equipollente, di cui all'articolo 35 del testo unico di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445. La disposizione di cui al periodo precedente si applica altresì in caso di identificazione elettronica ai fini dell'accesso ai servizi erogati dalle pubbliche amministrazioni e dai soggetti privati tramite canali fisici. L'identità digitale, verificata ai sensi del presente articolo e con livello di sicurezza almeno significativo, attesta gli attributi qualificati dell'utente, ivi compresi i dati relativi al possesso di abilitazioni o autorizzazioni richieste dalla legge ovvero stati, qualità personali e fatti contenuti in albi, elenchi o registri pubblici o comunque accertati da soggetti titolari di funzioni pubbliche, ovvero gli altri dati, fatti e informazioni funzionali alla fruizione di un servizio attestati da un gestore di attributi qualificati, secondo le modalità stabilite da AgID con Linee guida.
+2-duodecies. La verifica dell'identità digitale con livello di garanzia almeno significativo, ai sensi dell'[articolo 8](../../../eIDAS%20%28Regolamento%20UE%20n.%20910-2014%20-%2023.07.2014%29/02%20-%20Capo%20II%20-%20IDENTIFICAZIONE%20ELETTRONICA/02%20-%20Sezione%202%20-%20Regimi%20di%20identificazione%20elettronica/art-8-reg910-14.md), paragrafo 2, del [Regolamento (UE) n. 910/2014](../../../eIDAS%20%28Regolamento%20UE%20n.%20910-2014%20-%2023.07.2014%29/00%20-%20Indice%20%28reg910-14%29.md) del Parlamento e del Consiglio europeo del 23 luglio 2014, produce, nelle transazioni elettroniche o per l'accesso ai servizi in rete, gli effetti del documento di riconoscimento equipollente, di cui all'articolo 35 del testo unico di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445. La disposizione di cui al periodo precedente si applica altresì in caso di identificazione elettronica ai fini dell'accesso ai servizi erogati dalle pubbliche amministrazioni e dai soggetti privati tramite canali fisici. L'identità digitale, verificata ai sensi del presente articolo e con livello di sicurezza almeno significativo, attesta gli attributi qualificati dell'utente, ivi compresi i dati relativi al possesso di abilitazioni o autorizzazioni richieste dalla legge ovvero stati, qualità personali e fatti contenuti in albi, elenchi o registri pubblici o comunque accertati da soggetti titolari di funzioni pubbliche, ovvero gli altri dati, fatti e informazioni funzionali alla fruizione di un servizio attestati da un gestore di attributi qualificati, secondo le modalità stabilite da AgID con Linee guida.
 
 3\. COMMA ABROGATO DAL D.LGS. 30 DICEMBRE 2010, N. 235. [^agg-11]
 

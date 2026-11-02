@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Presentazione dell'impugnazione"
-dataVigenza: "20261016"
-ordine: 701
+dataVigenza: "20261102"
+ordine: 702
 ---
 
 # Art. 582 - ***Presentazione dell'impugnazione***

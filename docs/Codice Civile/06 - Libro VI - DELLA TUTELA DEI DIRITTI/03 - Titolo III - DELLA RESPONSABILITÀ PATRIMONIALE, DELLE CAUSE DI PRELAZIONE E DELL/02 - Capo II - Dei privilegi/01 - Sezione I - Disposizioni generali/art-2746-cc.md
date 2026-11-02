@@ -14,8 +14,8 @@ capo_label: "Dei privilegi"
 sezione: "I"
 sezione_label: "Disposizioni generali"
 rubrica: "Distinzione dei privilegi"
-dataVigenza: "20260914"
-ordine: 3051
+dataVigenza: "20261102"
+ordine: 3052
 ---
 
 # Art. 2746 - ***Distinzione dei privilegi***

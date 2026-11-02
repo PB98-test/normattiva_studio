@@ -16,8 +16,8 @@ capo_label: "SENTENZA"
 sezione: null
 sezione_label: null
 rubrica: "Annullamento della sentenza ai soli effetti civili"
-dataVigenza: "20261016"
-ordine: 745
+dataVigenza: "20261102"
+ordine: 746
 ---
 
 # Art. 622 - ***Annullamento della sentenza ai soli effetti civili***

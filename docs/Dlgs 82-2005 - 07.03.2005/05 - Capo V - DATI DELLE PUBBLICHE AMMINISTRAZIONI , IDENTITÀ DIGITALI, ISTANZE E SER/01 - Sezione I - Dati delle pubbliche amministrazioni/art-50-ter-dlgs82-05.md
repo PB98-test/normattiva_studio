@@ -14,7 +14,7 @@ capo_label: "DATI DELLE PUBBLICHE AMMINISTRAZIONI , IDENTITÀ DIGITALI, ISTANZE 
 sezione: "I"
 sezione_label: "Dati delle pubbliche amministrazioni"
 rubrica: "Piattaforma Digitale Nazionale Dati"
-dataVigenza: "20261016"
+dataVigenza: "20261102"
 ordine: 70
 ---
 
@@ -32,7 +32,7 @@ ordine: 70
 
 5\. L'inadempimento dell'obbligo di rendere disponibili e accessibili le proprie basi dati ovvero i dati aggregati e anonimizzati costituisce mancato raggiungimento di uno specifico risultato e di un rilevante obiettivo da parte dei dirigenti responsabili delle strutture competenti e comporta la riduzione, non inferiore al 30 per cento, della retribuzione di risultato e del trattamento accessorio collegato alla performance individuale dei dirigenti competenti, oltre al divieto di attribuire premi o incentivi nell'ambito delle medesime strutture.
 
-6\. L'accesso ai dati attraverso la Piattaforma Digitale Nazionale Dati non modifica la disciplina relativa alla titolarità del trattamento, ferme restando le specifiche responsabilità ai sensi dell'articolo 28 del Regolamento (UE) 2016/679 del Parlamento Europeo e del Consiglio del 27 aprile 2016 in capo al soggetto gestore della Piattaforma nonchè le responsabilità dei soggetti accreditati che trattano i dati in qualità di titolari autonomi del trattamento.
+6\. L'accesso ai dati attraverso la Piattaforma Digitale Nazionale Dati non modifica la disciplina relativa alla titolarità del trattamento, ferme restando le specifiche responsabilità ai sensi dell'[articolo 28](../../../GDPR%20%28Regolamento%20UE%202016-679%20-%2027.04.2016%29/04%20-%20Capo%20IV%20-%20Titolare%20del%20trattamento%20e%20responsabile%20del%20trattamento/01%20-%20Sezione%201%20-%20Obblighi%20generali/art-28-reg679-16.md) del [Regolamento (UE) 2016/679](../../../GDPR%20%28Regolamento%20UE%202016-679%20-%2027.04.2016%29/00%20-%20Indice%20%28reg679-16%29.md) del Parlamento Europeo e del Consiglio del 27 aprile 2016 in capo al soggetto gestore della Piattaforma nonchè le responsabilità dei soggetti accreditati che trattano i dati in qualità di titolari autonomi del trattamento.
 
 7\. Resta fermo che i soggetti di cui all'[articolo 2](../../01%20-%20Capo%20I%20-%20PRINCIPI%20GENERALI/01%20-%20Sezione%20I%20-%20Definizioni,%20finalità%20e%20ambito%20di%20applicazione/art-2-dlgs82-05.md), comma 2, possono continuare a utilizzare anche i sistemi di interoperabilità già attivi.
 

@@ -14,8 +14,8 @@ capo_label: "Dei mezzi di conservazione della garanzia patrimoniale"
 sezione: "I"
 sezione_label: "Dell'azione surrogatoria"
 rubrica: "Condizioni, modalità ed effetti"
-dataVigenza: "20260914"
-ordine: 3210
+dataVigenza: "20261102"
+ordine: 3211
 ---
 
 # Art. 2900 - ***Condizioni, modalità ed effetti***

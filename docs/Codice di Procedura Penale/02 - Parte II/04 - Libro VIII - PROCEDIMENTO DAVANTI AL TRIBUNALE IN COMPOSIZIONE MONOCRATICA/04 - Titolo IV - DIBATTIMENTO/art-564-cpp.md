@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: null
-dataVigenza: "20261016"
-ordine: 681
+dataVigenza: "20261102"
+ordine: 682
 ---
 
 # Art. 564

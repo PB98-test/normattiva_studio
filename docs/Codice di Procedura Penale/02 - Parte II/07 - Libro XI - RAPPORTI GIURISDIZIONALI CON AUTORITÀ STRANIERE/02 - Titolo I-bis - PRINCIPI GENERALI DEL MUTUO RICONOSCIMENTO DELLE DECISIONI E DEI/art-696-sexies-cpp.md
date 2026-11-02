@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Poteri del Ministro della giustizia"
-dataVigenza: "20261016"
-ordine: 832
+dataVigenza: "20261102"
+ordine: 833
 ---
 
 # Art. 696-sexies - ***Poteri del Ministro della giustizia***

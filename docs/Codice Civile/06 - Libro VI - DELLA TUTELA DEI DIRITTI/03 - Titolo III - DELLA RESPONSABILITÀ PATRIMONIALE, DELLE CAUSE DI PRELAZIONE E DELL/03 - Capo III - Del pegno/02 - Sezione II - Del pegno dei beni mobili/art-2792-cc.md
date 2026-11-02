@@ -14,8 +14,8 @@ capo_label: "Del pegno"
 sezione: "II"
 sezione_label: "Del pegno dei beni mobili"
 rubrica: "Divieto di uso e disposizione della cosa"
-dataVigenza: "20260914"
-ordine: 3101
+dataVigenza: "20261102"
+ordine: 3102
 ---
 
 # Art. 2792 - ***Divieto di uso e disposizione della cosa***

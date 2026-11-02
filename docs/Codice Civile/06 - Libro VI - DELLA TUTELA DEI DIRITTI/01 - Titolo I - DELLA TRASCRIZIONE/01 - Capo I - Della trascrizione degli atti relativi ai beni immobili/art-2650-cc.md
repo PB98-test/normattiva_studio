@@ -14,8 +14,8 @@ capo_label: "Della trascrizione degli atti relativi ai beni immobili"
 sezione: null
 sezione_label: null
 rubrica: "Continuità delle trascrizioni"
-dataVigenza: "20260914"
-ordine: 2952
+dataVigenza: "20261102"
+ordine: 2953
 ---
 
 # Art. 2650 - ***Continuità delle trascrizioni***

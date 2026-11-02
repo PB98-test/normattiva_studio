@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Procedimento e decisione"
-dataVigenza: "20261016"
-ordine: 774
+dataVigenza: "20261102"
+ordine: 775
 ---
 
 # Art. 646 - ***Procedimento e decisione***

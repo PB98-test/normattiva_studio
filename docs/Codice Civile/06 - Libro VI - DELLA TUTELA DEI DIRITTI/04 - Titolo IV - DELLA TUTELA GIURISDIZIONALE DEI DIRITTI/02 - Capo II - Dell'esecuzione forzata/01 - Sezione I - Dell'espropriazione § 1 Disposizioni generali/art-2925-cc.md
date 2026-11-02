@@ -14,8 +14,8 @@ capo_label: "Dell'esecuzione forzata"
 sezione: "I"
 sezione_label: "Dell'espropriazione § 1 Disposizioni generali"
 rubrica: "Norme applicabili all'assegnazione forzata"
-dataVigenza: "20260914"
-ordine: 3235
+dataVigenza: "20261102"
+ordine: 3236
 ---
 
 # Art. 2925 - ***Norme applicabili all'assegnazione forzata***

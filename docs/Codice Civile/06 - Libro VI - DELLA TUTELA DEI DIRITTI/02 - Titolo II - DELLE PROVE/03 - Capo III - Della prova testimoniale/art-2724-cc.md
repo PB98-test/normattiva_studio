@@ -14,8 +14,8 @@ capo_label: "Della prova testimoniale"
 sezione: null
 sezione_label: null
 rubrica: "Eccezioni al divieto della prova testimoniale"
-dataVigenza: "20260914"
-ordine: 3029
+dataVigenza: "20261102"
+ordine: 3030
 ---
 
 # Art. 2724 - ***Eccezioni al divieto della prova testimoniale***

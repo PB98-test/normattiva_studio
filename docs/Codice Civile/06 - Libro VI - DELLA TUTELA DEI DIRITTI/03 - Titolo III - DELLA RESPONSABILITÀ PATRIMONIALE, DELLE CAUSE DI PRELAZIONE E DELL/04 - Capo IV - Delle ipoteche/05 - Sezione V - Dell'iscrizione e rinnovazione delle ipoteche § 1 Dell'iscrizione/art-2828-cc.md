@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "V"
 sezione_label: "Dell'iscrizione e rinnovazione delle ipoteche § 1 Dell'iscrizione"
 rubrica: "Immobili su cui può iscriversi l'ipoteca giudiziale"
-dataVigenza: "20260914"
-ordine: 3138
+dataVigenza: "20261102"
+ordine: 3139
 ---
 
 # Art. 2828 - ***Immobili su cui può iscriversi l'ipoteca giudiziale***

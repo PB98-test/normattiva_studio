@@ -14,8 +14,8 @@ capo_label: "Della prescrizione"
 sezione: "I"
 sezione_label: "Disposizioni generali"
 rubrica: "Estinzione dei diritti"
-dataVigenza: "20260914"
-ordine: 3245
+dataVigenza: "20261102"
+ordine: 3246
 ---
 
 # Art. 2934 - ***Estinzione dei diritti***

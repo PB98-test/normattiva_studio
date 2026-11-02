@@ -14,8 +14,8 @@ capo_label: "Della trascrizione degli atti relativi ai beni immobili"
 sezione: null
 sezione_label: null
 rubrica: "Omissioni o inesattezze nelle note"
-dataVigenza: "20260914"
-ordine: 2967
+dataVigenza: "20261102"
+ordine: 2968
 ---
 
 # Art. 2665 - ***Omissioni o inesattezze nelle note***

@@ -16,8 +16,8 @@ capo_label: "ROGATORIE DALL'ESTERO"
 sezione: null
 sezione_label: null
 rubrica: "Citazione di testimoni a richiesta dell'autorità straniera"
-dataVigenza: "20261016"
-ordine: 868
+dataVigenza: "20261102"
+ordine: 869
 ---
 
 # Art. 726 - ***Citazione di testimoni a richiesta dell'autorità straniera***

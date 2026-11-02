@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "XI"
 sezione_label: "Della cancellazione dell'iscrizione"
 rubrica: "Cancellazione ordinata con sentenza"
-dataVigenza: "20260914"
-ordine: 3194
+dataVigenza: "20261102"
+ordine: 3195
 ---
 
 # Art. 2884 - ***Cancellazione ordinata con sentenza***

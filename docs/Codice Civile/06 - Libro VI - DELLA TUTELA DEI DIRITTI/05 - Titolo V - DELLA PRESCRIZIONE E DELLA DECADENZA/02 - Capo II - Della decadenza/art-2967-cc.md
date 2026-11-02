@@ -14,8 +14,8 @@ capo_label: "Della decadenza"
 sezione: null
 sezione_label: null
 rubrica: "Effetto dell'impedimento della decadenza"
-dataVigenza: "20260914"
-ordine: 3278
+dataVigenza: "20261102"
+ordine: 3279
 ---
 
 # Art. 2967 - ***Effetto dell'impedimento della decadenza***

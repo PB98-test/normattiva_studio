@@ -14,8 +14,8 @@ capo_label: "Del pegno"
 sezione: "III"
 sezione_label: "Del pegno di crediti e di altri diritti"
 rubrica: "Riscossione d'interessi e di prestazioni periodiche"
-dataVigenza: "20260914"
-ordine: 3111
+dataVigenza: "20261102"
+ordine: 3112
 ---
 
 # Art. 2802 - ***Riscossione d'interessi e di prestazioni periodiche***

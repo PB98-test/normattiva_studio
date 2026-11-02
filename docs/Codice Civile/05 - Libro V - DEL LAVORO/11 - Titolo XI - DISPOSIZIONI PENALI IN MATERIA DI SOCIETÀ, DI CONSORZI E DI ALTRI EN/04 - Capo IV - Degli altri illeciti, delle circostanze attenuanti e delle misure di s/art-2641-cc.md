@@ -14,8 +14,8 @@ capo_label: "Degli altri illeciti, delle circostanze attenuanti e delle misure d
 sezione: null
 sezione_label: null
 rubrica: "Confisca"
-dataVigenza: "20260914"
-ordine: 2940
+dataVigenza: "20261102"
+ordine: 2941
 ---
 
 # Art. 2641 - ***Confisca***

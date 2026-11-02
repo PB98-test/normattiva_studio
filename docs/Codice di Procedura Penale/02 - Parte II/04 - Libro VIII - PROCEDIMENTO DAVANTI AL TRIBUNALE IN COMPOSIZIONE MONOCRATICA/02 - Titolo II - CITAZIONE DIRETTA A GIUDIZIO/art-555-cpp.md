@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Udienza dibattimentale a seguito della citazione diretta"
-dataVigenza: "20261022"
-ordine: 671
+dataVigenza: "20261102"
+ordine: 672
 ---
 
 # Art. 555 - ***Udienza dibattimentale a seguito della citazione diretta***

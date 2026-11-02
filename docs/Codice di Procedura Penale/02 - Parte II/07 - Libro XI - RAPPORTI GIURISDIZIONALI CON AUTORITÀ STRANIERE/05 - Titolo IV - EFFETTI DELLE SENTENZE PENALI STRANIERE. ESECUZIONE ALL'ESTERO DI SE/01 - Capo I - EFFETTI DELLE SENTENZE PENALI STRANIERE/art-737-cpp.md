@@ -16,8 +16,8 @@ capo_label: "EFFETTI DELLE SENTENZE PENALI STRANIERE"
 sezione: null
 sezione_label: null
 rubrica: "Sequestro"
-dataVigenza: "20261016"
-ordine: 890
+dataVigenza: "20261102"
+ordine: 891
 ---
 
 # Art. 737 - ***Sequestro***

@@ -16,8 +16,8 @@ capo_label: "ESTRADIZIONE PER L'ESTERO"
 sezione: "I"
 sezione_label: "Procedimento"
 rubrica: "Transito"
-dataVigenza: "20261016"
-ordine: 852
+dataVigenza: "20261102"
+ordine: 853
 ---
 
 # Art. 712 - ***Transito***

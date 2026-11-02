@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Casi di revisione"
-dataVigenza: "20261016"
-ordine: 758
+dataVigenza: "20261102"
+ordine: 759
 ---
 
 # Art. 630 - ***Casi di revisione***

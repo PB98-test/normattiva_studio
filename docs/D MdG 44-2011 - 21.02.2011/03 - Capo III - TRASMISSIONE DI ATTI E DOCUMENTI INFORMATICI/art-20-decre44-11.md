@@ -14,13 +14,13 @@ capo_label: "TRASMISSIONE DI ATTI E DOCUMENTI INFORMATICI"
 sezione: null
 sezione_label: null
 rubrica: "Requisiti della casella di PEC del soggetto abilitato esterno"
-dataVigenza: "20261016"
+dataVigenza: "20261102"
 ordine: 22
 ---
 
 # Art. 20 - ***Requisiti della casella di PEC del soggetto abilitato esterno***
 
-1\. Il gestore di posta elettronica certificata del di posta elettronica certificata del soggetto abilitato esterno deve dotarsi di una casella di posta elettronica conforme agli ... obblighi previsti dal [decreto del Presidente della Repubblica 11 febbraio 2005, n.68](../../D.P.R.%2068-2005%20-%2011.02.2005/00%20-%20Indice%20%28dpr68-05%29.md) e dal decreto ministeriale 2 novembre 2005, recante «Regole tecniche per la formazione, la trasmissione e la validazione, anche temporale, della posta elettronica certificata», o di un recapito certificato ai sensi del Regolamento (UE) n. 910/2014 (eIDAS) che disponga di soluzioni idonee ... a prevenire la trasmissione di messaggi ... indesiderati.
+1\. Il gestore di posta elettronica certificata del di posta elettronica certificata del soggetto abilitato esterno deve dotarsi di una casella di posta elettronica conforme agli ... obblighi previsti dal [decreto del Presidente della Repubblica 11 febbraio 2005, n.68](../../D.P.R.%2068-2005%20-%2011.02.2005/00%20-%20Indice%20%28dpr68-05%29.md) e dal decreto ministeriale 2 novembre 2005, recante «Regole tecniche per la formazione, la trasmissione e la validazione, anche temporale, della posta elettronica certificata», o di un recapito certificato ai sensi del [Regolamento (UE) n. 910/2014](../../eIDAS%20%28Regolamento%20UE%20n.%20910-2014%20-%2023.07.2014%29/00%20-%20Indice%20%28reg910-14%29.md) (eIDAS) che disponga di soluzioni idonee ... a prevenire la trasmissione di messaggi ... indesiderati.
 
 2\. Il soggetto abilitato esterno è tenuto a dotare il terminale informatico utilizzato di software idoneo a verificare l'assenza di virus informatici per ogni messaggio in arrivo e in partenza e di software antispam idoneo a prevenire la trasmissione di messaggi di posta elettronica indesiderati.
 

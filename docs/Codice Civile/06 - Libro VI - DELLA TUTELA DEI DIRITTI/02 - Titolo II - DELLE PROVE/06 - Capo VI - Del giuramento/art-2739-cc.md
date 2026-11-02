@@ -14,8 +14,8 @@ capo_label: "Del giuramento"
 sezione: null
 sezione_label: null
 rubrica: "Oggetto"
-dataVigenza: "20260914"
-ordine: 3044
+dataVigenza: "20261102"
+ordine: 3045
 ---
 
 # Art. 2739 - ***Oggetto***

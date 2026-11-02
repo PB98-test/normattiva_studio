@@ -14,8 +14,8 @@ capo_label: "Dei privilegi"
 sezione: "IV"
 sezione_label: "Dell'ordine dei privilegi"
 rubrica: "Concorso dei privilegi con ipoteche sugli autoveicoli."
-dataVigenza: "20260914"
-ordine: 3086
+dataVigenza: "20261102"
+ordine: 3087
 ---
 
 # Art. 2779 - ***Concorso dei privilegi con ipoteche sugli autoveicoli.***

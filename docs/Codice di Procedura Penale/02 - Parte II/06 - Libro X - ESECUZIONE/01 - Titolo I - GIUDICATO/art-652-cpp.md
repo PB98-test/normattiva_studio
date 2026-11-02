@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Efficacia della sentenza penale di assoluzione nel giudizio civile o amministrativo di danno"
-dataVigenza: "20261016"
-ordine: 781
+dataVigenza: "20261102"
+ordine: 782
 ---
 
 # Art. 652 - ***Efficacia della sentenza penale di assoluzione nel giudizio civile o amministrativo di danno***

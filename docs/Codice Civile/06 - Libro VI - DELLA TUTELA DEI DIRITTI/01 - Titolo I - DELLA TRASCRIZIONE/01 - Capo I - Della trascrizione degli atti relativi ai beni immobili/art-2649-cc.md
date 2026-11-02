@@ -14,8 +14,8 @@ capo_label: "Della trascrizione degli atti relativi ai beni immobili"
 sezione: null
 sezione_label: null
 rubrica: "Cessione dei beni ai creditori"
-dataVigenza: "20260914"
-ordine: 2951
+dataVigenza: "20261102"
+ordine: 2952
 ---
 
 # Art. 2649 - ***Cessione dei beni ai creditori***

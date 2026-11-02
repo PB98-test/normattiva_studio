@@ -16,8 +16,8 @@ capo_label: "ROGATORIE DALL'ESTERO"
 sezione: null
 sezione_label: null
 rubrica: "Rogatoria proveniente da autorità amministrativa straniera"
-dataVigenza: "20261016"
-ordine: 870
+dataVigenza: "20261102"
+ordine: 871
 ---
 
 # Art. 726-ter - ***Rogatoria proveniente da autorità amministrativa straniera***

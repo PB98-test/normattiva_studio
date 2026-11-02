@@ -14,8 +14,8 @@ capo_label: "Disposizioni generali"
 sezione: null
 sezione_label: null
 rubrica: "Divieto del patto commissorio"
-dataVigenza: "20260914"
-ordine: 3049
+dataVigenza: "20261102"
+ordine: 3050
 ---
 
 # Art. 2744 - ***Divieto del patto commissorio***

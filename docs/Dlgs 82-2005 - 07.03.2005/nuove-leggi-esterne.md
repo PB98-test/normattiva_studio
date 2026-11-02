@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da Dlgs 82-2005 - 07.03.2005 ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Dlgs 82-2005 - 07.03.2005 - 120 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Dlgs 82-2005 - 07.03.2005 - 121 leggi trovate)*
 
 - [articolo 14 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400)
 - [articolo 10 della legge 29 luglio 2003, n. 229](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-07-29;229)
@@ -118,6 +118,7 @@ search:
 - [articolo 1 del decreto legislativo 21 aprile 1999, n. 116](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1999-04-21;116)
 - [decreto-legge 31 maggio 2010, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2010-05-31;78)
 - [legge 30 luglio 2010, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-07-30;122)
+- [regolamento (UE) 2018/1724](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32018R1724)
 - [decreto del Presidente della Repubblica 28 luglio 1967, n. 851](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967-07-28;851)
 - [decreto-legge 31 gennaio 2005, n. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2005-01-31;7)
 - [D.Lgs. 4 aprile 2006, n. 159](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2006-04-04;159)

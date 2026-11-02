@@ -16,8 +16,8 @@ capo_label: "EFFETTI DELLE SENTENZE PENALI STRANIERE"
 sezione: null
 sezione_label: null
 rubrica: "Devoluzione ad uno Stato estero delle cose confiscate"
-dataVigenza: "20261016"
-ordine: 895
+dataVigenza: "20261102"
+ordine: 896
 ---
 
 # Art. 740-bis - ***Devoluzione ad uno Stato estero delle cose confiscate***

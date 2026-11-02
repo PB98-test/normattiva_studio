@@ -14,8 +14,8 @@ capo_label: "Della pubblicità dei registri immobiliari e della responsabilità 
 sezione: null
 sezione_label: null
 rubrica: "Divieto di rifiutare gli atti del proprio ufficio"
-dataVigenza: "20260914"
-ordine: 2978
+dataVigenza: "20261102"
+ordine: 2979
 ---
 
 # Art. 2674 - ***Divieto di rifiutare gli atti del proprio ufficio***

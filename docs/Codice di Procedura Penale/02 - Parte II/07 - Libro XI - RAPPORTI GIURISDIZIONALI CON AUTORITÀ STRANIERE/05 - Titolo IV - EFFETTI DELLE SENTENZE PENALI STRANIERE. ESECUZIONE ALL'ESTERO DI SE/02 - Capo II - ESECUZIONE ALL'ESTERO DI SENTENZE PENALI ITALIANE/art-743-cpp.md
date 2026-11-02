@@ -16,8 +16,8 @@ capo_label: "ESECUZIONE ALL'ESTERO DI SENTENZE PENALI ITALIANE"
 sezione: null
 sezione_label: null
 rubrica: "Deliberazione della corte di appello"
-dataVigenza: "20261016"
-ordine: 900
+dataVigenza: "20261102"
+ordine: 901
 ---
 
 # Art. 743 - ***Deliberazione della corte di appello***

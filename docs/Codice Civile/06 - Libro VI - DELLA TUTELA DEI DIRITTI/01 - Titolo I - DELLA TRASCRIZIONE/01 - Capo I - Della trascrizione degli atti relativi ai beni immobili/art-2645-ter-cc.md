@@ -14,8 +14,8 @@ capo_label: "Della trascrizione degli atti relativi ai beni immobili"
 sezione: null
 sezione_label: null
 rubrica: "Trascrizione di atti di destinazione per la realizzazione di interessi meritevoli di tutela riferibili a persone con disabilità, a pubbliche amministrazioni, o ad altri enti o persone fisiche"
-dataVigenza: "20260914"
-ordine: 2946
+dataVigenza: "20261102"
+ordine: 2947
 ---
 
 # Art. 2645-ter - ***Trascrizione di atti di destinazione per la realizzazione di interessi meritevoli di tutela riferibili a persone con disabilità, a pubbliche amministrazioni, o ad altri enti o persone fisiche***

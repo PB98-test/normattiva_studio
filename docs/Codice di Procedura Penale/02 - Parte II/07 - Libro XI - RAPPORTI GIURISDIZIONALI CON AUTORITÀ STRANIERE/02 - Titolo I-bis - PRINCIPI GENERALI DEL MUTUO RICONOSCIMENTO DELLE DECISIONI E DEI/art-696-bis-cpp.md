@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Principio del mutuo riconoscimento"
-dataVigenza: "20261016"
-ordine: 828
+dataVigenza: "20261102"
+ordine: 829
 ---
 
 # Art. 696-bis - ***Principio del mutuo riconoscimento***

@@ -14,8 +14,8 @@ capo_label: "Della prova documentale"
 sezione: "IV"
 sezione_label: "Delle riproduzioni meccaniche"
 rubrica: "Riproduzioni meccaniche"
-dataVigenza: "20261016"
-ordine: 3017
+dataVigenza: "20261102"
+ordine: 3018
 ---
 
 # Art. 2712 - ***Riproduzioni meccaniche***

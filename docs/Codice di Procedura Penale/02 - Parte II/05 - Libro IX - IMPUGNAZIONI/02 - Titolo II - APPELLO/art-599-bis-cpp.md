@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Concordato anche con rinuncia ai motivi di appello"
-dataVigenza: "20261016"
-ordine: 722
+dataVigenza: "20261102"
+ordine: 723
 ---
 
 # Art. 599-bis - ***Concordato anche con rinuncia ai motivi di appello***

@@ -14,8 +14,8 @@ capo_label: "Degli altri illeciti, delle circostanze attenuanti e delle misure d
 sezione: null
 sezione_label: null
 rubrica: "Estensione delle qualifiche soggettive"
-dataVigenza: "20260914"
-ordine: 2938
+dataVigenza: "20261102"
+ordine: 2939
 ---
 
 # Art. 2639 - ***Estensione delle qualifiche soggettive***

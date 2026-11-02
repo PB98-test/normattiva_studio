@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Esecuzione delle pene detentive"
-dataVigenza: "20261016"
-ordine: 785
+dataVigenza: "20261102"
+ordine: 786
 ---
 
 # Art. 656 - ***Esecuzione delle pene detentive***

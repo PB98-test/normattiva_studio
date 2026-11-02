@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "V"
 sezione_label: "Dell'iscrizione e rinnovazione delle ipoteche § 1 Dell'iscrizione"
 rubrica: "Certificato dell'iscrizione"
-dataVigenza: "20260914"
-ordine: 3150
+dataVigenza: "20261102"
+ordine: 3151
 ---
 
 # Art. 2840 - ***Certificato dell'iscrizione***

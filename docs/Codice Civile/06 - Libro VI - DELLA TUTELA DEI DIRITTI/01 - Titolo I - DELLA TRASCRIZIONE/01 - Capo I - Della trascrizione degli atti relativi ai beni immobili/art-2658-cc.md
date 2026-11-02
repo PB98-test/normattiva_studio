@@ -14,8 +14,8 @@ capo_label: "Della trascrizione degli atti relativi ai beni immobili"
 sezione: null
 sezione_label: null
 rubrica: "Atti da presentare al conservatore"
-dataVigenza: "20261016"
-ordine: 2960
+dataVigenza: "20261102"
+ordine: 2961
 ---
 
 # Art. 2658 - ***Atti da presentare al conservatore***

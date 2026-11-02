@@ -14,8 +14,8 @@ capo_label: "La gestione dei beni sequestrati e confiscati"
 sezione: null
 sezione_label: null
 rubrica: "Strumenti finanziari per la gestione e la valorizzazione delle aziende sequestrate e confiscate"
-dataVigenza: "20261016"
-ordine: 47
+dataVigenza: "20261102"
+ordine: 49
 ---
 
 # Art. 41-bis - ***Strumenti finanziari per la gestione e la valorizzazione delle aziende sequestrate e confiscate***

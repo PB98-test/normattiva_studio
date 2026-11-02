@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "V"
 sezione_label: "Dell'iscrizione e rinnovazione delle ipoteche § 1 Dell'iscrizione"
 rubrica: "Ipoteca giudiziale sui beni dell'eredità beneficiata e dell'eredità giacente"
-dataVigenza: "20260914"
-ordine: 3140
+dataVigenza: "20261102"
+ordine: 3141
 ---
 
 # Art. 2830 - ***Ipoteca giudiziale sui beni dell'eredità beneficiata e dell'eredità giacente***

@@ -14,8 +14,8 @@ capo_label: "L'amministrazione dei beni sequestrati e confiscati"
 sezione: null
 sezione_label: null
 rubrica: "Vigilanza"
-dataVigenza: "20261020"
-ordine: 39
+dataVigenza: "20261102"
+ordine: 40
 ---
 
 # Art. 35.2 - ***Vigilanza***

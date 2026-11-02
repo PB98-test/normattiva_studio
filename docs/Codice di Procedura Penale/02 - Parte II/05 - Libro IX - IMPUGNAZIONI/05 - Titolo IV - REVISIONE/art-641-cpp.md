@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Effetti dell'inammissibilità o del rigetto"
-dataVigenza: "20261016"
-ordine: 769
+dataVigenza: "20261102"
+ordine: 770
 ---
 
 # Art. 641 - ***Effetti dell'inammissibilità o del rigetto***

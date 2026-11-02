@@ -14,8 +14,8 @@ capo_label: "Regime fiscale dei beni sequestrati o confiscati"
 sezione: null
 sezione_label: null
 rubrica: "Iscrizione di provvedimenti al registro delle imprese"
-dataVigenza: "20261016"
-ordine: 61
+dataVigenza: "20261102"
+ordine: 63
 ---
 
 # Art. 51-bis - ***Iscrizione di provvedimenti al registro delle imprese***

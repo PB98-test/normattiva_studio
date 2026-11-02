@@ -14,8 +14,8 @@ capo_label: "Trattazione prioritaria del procedimento"
 sezione: null
 sezione_label: null
 rubrica: "Trattazione prioritaria dei procedimenti di prevenzione patrimoniale"
-dataVigenza: "20260930"
-ordine: 36
+dataVigenza: "20261102"
+ordine: 37
 ---
 
 # Art. 34-ter - ***Trattazione prioritaria dei procedimenti di prevenzione patrimoniale***

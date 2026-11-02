@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Modalità di esecuzione"
-dataVigenza: "20261016"
-ordine: 834
+dataVigenza: "20261102"
+ordine: 835
 ---
 
 # Art. 696-octies - ***Modalità di esecuzione***

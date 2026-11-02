@@ -14,8 +14,8 @@ capo_label: "Della prescrizione"
 sezione: "III"
 sezione_label: "Dell'interruzione della prescrizione"
 rubrica: "Interruzione da parte del titolare"
-dataVigenza: "20260914"
-ordine: 3254
+dataVigenza: "20261102"
+ordine: 3255
 ---
 
 # Art. 2943 - ***Interruzione da parte del titolare***

@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "VII"
 sezione_label: "Degli effetti dell'ipoteca rispetto al terzo acquirente"
 rubrica: "Danni causati dal terzo e miglioramenti"
-dataVigenza: "20260914"
-ordine: 3174
+dataVigenza: "20261102"
+ordine: 3175
 ---
 
 # Art. 2864 - ***Danni causati dal terzo e miglioramenti***

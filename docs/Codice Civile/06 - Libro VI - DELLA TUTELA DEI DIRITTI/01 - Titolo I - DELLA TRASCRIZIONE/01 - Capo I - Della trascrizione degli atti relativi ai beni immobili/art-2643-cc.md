@@ -14,8 +14,8 @@ capo_label: "Della trascrizione degli atti relativi ai beni immobili"
 sezione: null
 sezione_label: null
 rubrica: "Atti soggetti a trascrizione"
-dataVigenza: "20260914"
-ordine: 2942
+dataVigenza: "20261102"
+ordine: 2943
 ---
 
 # Art. 2643 - ***Atti soggetti a trascrizione***

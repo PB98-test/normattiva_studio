@@ -16,8 +16,8 @@ capo_label: "PROCEDIMENTO"
 sezione: null
 sezione_label: null
 rubrica: "Procedimento"
-dataVigenza: "20261016"
-ordine: 734
+dataVigenza: "20261102"
+ordine: 735
 ---
 
 # Art. 611 - ***Procedimento***

@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "V"
 sezione_label: "Dell'iscrizione e rinnovazione delle ipoteche § 1 Dell'iscrizione"
 rubrica: "Ipoteca a garanzia di obbligazioni all'ordine o al portatore"
-dataVigenza: "20260914"
-ordine: 3141
+dataVigenza: "20261102"
+ordine: 3142
 ---
 
 # Art. 2831 - ***Ipoteca a garanzia di obbligazioni all'ordine o al portatore***

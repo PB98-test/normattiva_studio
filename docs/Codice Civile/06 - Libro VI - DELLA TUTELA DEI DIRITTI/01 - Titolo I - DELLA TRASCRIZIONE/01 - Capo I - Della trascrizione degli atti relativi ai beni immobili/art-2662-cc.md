@@ -14,8 +14,8 @@ capo_label: "Della trascrizione degli atti relativi ai beni immobili"
 sezione: null
 sezione_label: null
 rubrica: "Trascrizione di acquisti a causa di morte in luogo di altri chiamati"
-dataVigenza: "20260914"
-ordine: 2964
+dataVigenza: "20261102"
+ordine: 2965
 ---
 
 # Art. 2662 - ***Trascrizione di acquisti a causa di morte in luogo di altri chiamati***

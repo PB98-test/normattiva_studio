@@ -14,8 +14,8 @@ capo_label: "Dei privilegi"
 sezione: "II"
 sezione_label: "Dei privilegi sui mobili § 1 Dei privilegi generali sui mobili"
 rubrica: "Crediti per canoni enfiteutici"
-dataVigenza: "20260914"
-ordine: 3069
+dataVigenza: "20261102"
+ordine: 3070
 ---
 
 # Art. 2763 - ***Crediti per canoni enfiteutici***

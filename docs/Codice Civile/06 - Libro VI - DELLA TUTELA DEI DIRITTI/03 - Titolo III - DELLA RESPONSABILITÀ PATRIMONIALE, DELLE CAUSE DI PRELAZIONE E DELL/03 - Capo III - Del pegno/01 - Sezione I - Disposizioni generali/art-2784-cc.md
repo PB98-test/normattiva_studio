@@ -14,8 +14,8 @@ capo_label: "Del pegno"
 sezione: "I"
 sezione_label: "Disposizioni generali"
 rubrica: "Nozione"
-dataVigenza: "20260914"
-ordine: 3093
+dataVigenza: "20261102"
+ordine: 3094
 ---
 
 # Art. 2784 - ***Nozione***

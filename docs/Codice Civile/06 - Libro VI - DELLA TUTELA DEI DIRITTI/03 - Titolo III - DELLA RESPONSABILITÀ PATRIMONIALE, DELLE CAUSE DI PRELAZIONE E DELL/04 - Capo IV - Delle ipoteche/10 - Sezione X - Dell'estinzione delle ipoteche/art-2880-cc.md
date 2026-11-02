@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "X"
 sezione_label: "Dell'estinzione delle ipoteche"
 rubrica: "Prescrizione rispetto a beni acquistati da terzi"
-dataVigenza: "20260914"
-ordine: 3190
+dataVigenza: "20261102"
+ordine: 3191
 ---
 
 # Art. 2880 - ***Prescrizione rispetto a beni acquistati da terzi***

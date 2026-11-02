@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "III"
 sezione_label: "Dell'ipoteca giudiziale"
 rubrica: "Provvedimenti da cui deriva"
-dataVigenza: "20260914"
-ordine: 3127
+dataVigenza: "20261102"
+ordine: 3128
 ---
 
 # Art. 2818 - ***Provvedimenti da cui deriva***

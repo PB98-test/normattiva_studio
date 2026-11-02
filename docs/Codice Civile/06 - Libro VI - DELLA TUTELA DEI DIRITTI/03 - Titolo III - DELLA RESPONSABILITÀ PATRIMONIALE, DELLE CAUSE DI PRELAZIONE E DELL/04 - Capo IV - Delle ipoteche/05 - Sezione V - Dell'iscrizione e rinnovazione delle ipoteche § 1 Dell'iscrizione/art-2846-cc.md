@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "V"
 sezione_label: "Dell'iscrizione e rinnovazione delle ipoteche § 1 Dell'iscrizione"
 rubrica: "Spese d'iscrizione"
-dataVigenza: "20260914"
-ordine: 3156
+dataVigenza: "20261102"
+ordine: 3157
 ---
 
 # Art. 2846 - ***Spese d'iscrizione***

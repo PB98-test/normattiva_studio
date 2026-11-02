@@ -14,8 +14,8 @@ capo_label: "Della trascrizione degli atti relativi ai beni immobili"
 sezione: null
 sezione_label: null
 rubrica: "Spese della trascrizione"
-dataVigenza: "20260914"
-ordine: 2974
+dataVigenza: "20261102"
+ordine: 2975
 ---
 
 # Art. 2670 - ***Spese della trascrizione***

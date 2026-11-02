@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Soggetti legittimati alla richiesta"
-dataVigenza: "20261016"
-ordine: 760
+dataVigenza: "20261102"
+ordine: 761
 ---
 
 # Art. 632 - ***Soggetti legittimati alla richiesta***

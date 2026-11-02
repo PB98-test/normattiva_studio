@@ -16,8 +16,8 @@ capo_label: "ROGATORIE DALL'ESTERO"
 sezione: null
 sezione_label: null
 rubrica: "Notifica diretta all'interessato"
-dataVigenza: "20261016"
-ordine: 869
+dataVigenza: "20261102"
+ordine: 870
 ---
 
 # Art. 726-bis - ***Notifica diretta all'interessato***

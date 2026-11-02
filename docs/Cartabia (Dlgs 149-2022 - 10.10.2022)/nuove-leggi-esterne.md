@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da Cartabia (Dlgs 149-2022 - 10.10.2022) ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Cartabia (Dlgs 149-2022 - 10.10.2022) - 77 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Cartabia (Dlgs 149-2022 - 10.10.2022) - 87 leggi trovate)*
 
 - [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400)
 - [articolo 1 della legge 26 novembre 2021, n. 206](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-11-26;206)
@@ -36,7 +36,6 @@ search:
 - [articolo 8 della legge 1° aprile 1981, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121)
 - [articolo 7 della legge 14 gennaio 2013, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-01-14;4)
 - [decreto del Ministro della giustizia 12 agosto 2015, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto:2015-08-12;144)
-- [articolo 35, comma 1, lettera s), della legge 31 dicembre 2012, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-31;247)
 - [articolo 4-bis, comma 6, del decreto-legge n. 132 del 2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2014;132)
 - [articolo 1, comma 1, della legge n. 162 del 2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014;162)
 - [articolo 128-bis del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1993-09-01;385)
@@ -63,11 +62,22 @@ search:
 - [legge 8 novembre 2012, n. 189, articolo 3, comma 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-11-08;189)
 - [decreto legislativo 2 luglio 2010, n. 104](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2010-07-02;104)
 - [articolo 17, comma 4, della legge n. 108 del 1996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996;108)
+- [regolamento (CE) n. 2201/2003](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32003R2201)
+- [regolamento (CE) n. 1347/2000](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32000R1347)
+- [regolamento (CE) n. 4/2009](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32009R0004)
+- [regolamento (UE) 2016/1103](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32016R1103)
+- [regolamento (UE) 2016/1104](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32016R1104)
+- [regolamento (UE) n. 650/2012](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32012R0650)
+- [regolamento (UE) n. 1215/2012](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32012R1215)
+- [regolamento (UE) n. 606/2013](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32013R0606)
+- [regolamento (UE) n. 2015/848](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32015R0848)
+- [regolamento (UE) n. 2019/1111](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32019R1111)
 - [decreto legislativo 26 agosto 2016, n. 174, l'articolo 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2016-08-26;174)
 - [legge 18 dicembre 2020, n. 176, il comma 9-bis](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-12-18;176)
 - [legge 4 aprile 2001, n. 154, l'articolo 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-04-04;154)
 - [legge 10 dicembre 2012, n. 219, articolo 3, il comma 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-10;219)
 - [legge 20 maggio 2016, n. 76, articolo 1, il comma 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-05-20;76)
+- [regolamento n. 2010/1259/UE](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31259R2010)
 - [articolo 1 del decreto-legge 25 settembre 1989, n. 327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:1989-09-25;327)
 - [legge 24 novembre 1989, n. 380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-11-24;380)
 - [decreto legislativo 2 ottobre 2018, n. 121, articolo 23, comma 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2018-10-02;121)

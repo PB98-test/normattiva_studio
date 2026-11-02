@@ -16,8 +16,8 @@ capo_label: "ESTRADIZIONE PER L'ESTERO"
 sezione: "II"
 sezione_label: "Misure cautelari"
 rubrica: "Applicazione provvisoria di misure cautelari"
-dataVigenza: "20261016"
-ordine: 855
+dataVigenza: "20261102"
+ordine: 856
 ---
 
 # Art. 715 - ***Applicazione provvisoria di misure cautelari***

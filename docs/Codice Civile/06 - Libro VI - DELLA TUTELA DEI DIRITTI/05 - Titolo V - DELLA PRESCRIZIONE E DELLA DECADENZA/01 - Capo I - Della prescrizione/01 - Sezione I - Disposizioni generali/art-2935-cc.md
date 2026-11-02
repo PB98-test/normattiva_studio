@@ -14,8 +14,8 @@ capo_label: "Della prescrizione"
 sezione: "I"
 sezione_label: "Disposizioni generali"
 rubrica: "Decorrenza della prescrizione"
-dataVigenza: "20260914"
-ordine: 3246
+dataVigenza: "20261102"
+ordine: 3247
 ---
 
 # Art. 2935 - ***Decorrenza della prescrizione***

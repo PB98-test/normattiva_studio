@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da Dl 35-2005 - 14.03.2005 ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Dl 35-2005 - 14.03.2005 - 169 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Dl 35-2005 - 14.03.2005 - 173 leggi trovate)*
 
 - [decreto legislativo 22 gennaio 2004, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2004-01-22;42)
 - [comma 380 dell'articolo 1 della legge 30 dicembre 2004, n. 311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-12-30;311)
@@ -24,6 +24,7 @@ search:
 - [D.L. 25 giugno 2008, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2008-06-25;112)
 - [L. 6 agosto 2008, n. 133](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)
 - [D.L. n. 112/2008](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2008;112)
+- [decisione 2004/512/CE](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32004D0512)
 - [decreto legislativo 10 settembre 2003, n. 276](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2003-09-10;276)
 - [articolo 2, comma 26, della legge 8 agosto 1995, n. 335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;335)
 - [decreto legislativo 25 luglio 1998, n. 286](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1998-07-25;286)
@@ -55,6 +56,7 @@ search:
 - [decreto legislativo luogotenenziale 23 novembre 1944, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1944-11-23;382)
 - [decreto legislativo del Capo provvisorio dello Stato 13 settembre 1946, n. 233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1946-09-13;233)
 - [legge 16 aprile 1987, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-04-16;183)
+- [regolamento (CE) n. 1260/1999](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31999R1260)
 - [articolo 19 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241)
 - [decreto del Presidente della Repubblica 19 settembre 2000, n. 358](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-09-19;358)
 - [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445)
@@ -131,6 +133,7 @@ search:
 - [articolo 12 della legge 5 marzo 2001, n. 57](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-03-05;57)
 - [legge 16 marzo 1988, n. 88](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-16;88)
 - [articolo 59, comma 4, della legge 23 dicembre 1999, n. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-23;488)
+- [regolamento (CE) n. 1782/2003](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32003R1782)
 - [D.L. 22 GIUGNO 2012, N. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2012-06-22;83)
 - [L. 7 AGOSTO 2012, N. 134](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;134)
 - [comma 5 dell'articolo 10 del decreto-legge 29 novembre 2004, n. 282](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2004-11-29;282)
@@ -151,6 +154,7 @@ search:
 - [legge n. 289 del 2002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002;289)
 - [decreto-legge 6 settembre 2002, n. 194](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2002-09-06;194)
 - [legge 31 ottobre 2002, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-10-31;246)
+- [regolamento (CE) n. 2204/2002](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32002R2204)
 - [D.Lgs. 25 maggio 2021, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2021-05-25;83)
 - [articolo 1, comma 2, della legge 23 agosto 2004, n. 243](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-08-23;243)
 - [articolo 19, primo comma, del regio decreto-legge 14 aprile 1939, n. 636](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regiodecretolegge:1939-04-14;636)

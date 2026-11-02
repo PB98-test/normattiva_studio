@@ -14,8 +14,8 @@ capo_label: "Dei privilegi"
 sezione: "II"
 sezione_label: "Dei privilegi sui mobili § 1 Dei privilegi generali sui mobili"
 rubrica: "Crediti per contributi relativi ad altre forme di assicurazione."
-dataVigenza: "20260914"
-ordine: 3060
+dataVigenza: "20261102"
+ordine: 3061
 ---
 
 # Art. 2754 - ***Crediti per contributi relativi ad altre forme di assicurazione.***

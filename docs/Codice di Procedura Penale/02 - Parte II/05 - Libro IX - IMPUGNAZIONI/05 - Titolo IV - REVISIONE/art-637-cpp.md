@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Sentenza"
-dataVigenza: "20261016"
-ordine: 765
+dataVigenza: "20261102"
+ordine: 766
 ---
 
 # Art. 637 - ***Sentenza***

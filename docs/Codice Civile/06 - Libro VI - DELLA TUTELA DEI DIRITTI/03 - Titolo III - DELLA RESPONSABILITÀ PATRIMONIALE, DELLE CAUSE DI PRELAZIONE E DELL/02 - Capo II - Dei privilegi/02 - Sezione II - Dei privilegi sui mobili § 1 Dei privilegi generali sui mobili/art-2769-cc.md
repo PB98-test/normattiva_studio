@@ -14,8 +14,8 @@ capo_label: "Dei privilegi"
 sezione: "II"
 sezione_label: "Dei privilegi sui mobili § 1 Dei privilegi generali sui mobili"
 rubrica: "Sequestro della cosa soggetta a privilegio"
-dataVigenza: "20260914"
-ordine: 3075
+dataVigenza: "20261102"
+ordine: 3076
 ---
 
 # Art. 2769 - ***Sequestro della cosa soggetta a privilegio***

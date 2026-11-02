@@ -16,8 +16,8 @@ capo_label: "ESTRADIZIONE PER L'ESTERO"
 sezione: "I"
 sezione_label: "Procedimento"
 rubrica: "Procedimento davanti alla corte di appello"
-dataVigenza: "20261016"
-ordine: 844
+dataVigenza: "20261102"
+ordine: 845
 ---
 
 # Art. 704 - ***Procedimento davanti alla corte di appello***

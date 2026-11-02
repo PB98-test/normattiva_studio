@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Esecuzione di provvedimenti del giudice di sorveglianza"
-dataVigenza: "20261016"
-ordine: 790
+dataVigenza: "20261102"
+ordine: 791
 ---
 
 # Art. 659 - ***Esecuzione di provvedimenti del giudice di sorveglianza***

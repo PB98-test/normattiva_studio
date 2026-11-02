@@ -14,8 +14,8 @@ capo_label: "Della prescrizione"
 sezione: "I"
 sezione_label: "Disposizioni generali"
 rubrica: "Rinunzia alla prescrizione"
-dataVigenza: "20260914"
-ordine: 3248
+dataVigenza: "20261102"
+ordine: 3249
 ---
 
 # Art. 2937 - ***Rinunzia alla prescrizione***

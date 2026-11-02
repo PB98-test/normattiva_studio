@@ -14,8 +14,8 @@ capo_label: "Della prova documentale"
 sezione: "VII"
 sezione_label: "Degli atti di ricognizione o di rinnovazione"
 rubrica: "Efficacia probatoria"
-dataVigenza: "20260914"
-ordine: 3025
+dataVigenza: "20261102"
+ordine: 3026
 ---
 
 # Art. 2720 - ***Efficacia probatoria***

@@ -14,7 +14,7 @@ capo_label: "DATI DELLE PUBBLICHE AMMINISTRAZIONI , IDENTITÀ DIGITALI, ISTANZE 
 sezione: "II"
 sezione_label: "Fruibilità dei dati"
 rubrica: "Anagrafe nazionale digitale della gente di mare - ANGEMAR"
-dataVigenza: "20261002"
+dataVigenza: "20261102"
 ordine: 89
 ---
 
@@ -28,7 +28,7 @@ ordine: 89
 
 4\. Con uno o più decreti del Ministro delle infrastrutture e dei trasporti, di concerto con l'Autorità politica delegata in materia di innovazione tecnologica e transizione digitale, ove nominata, sono definiti:
 
-- a) i dati contenuti nell'ANGEMAR, nonchè le modalità di alimentazione, aggiornamento e conservazione degli stessi, con particolare riguardo alle misure di sicurezza informatica e alle specifiche tecniche e organizzative per la gestione e il trattamento dei dati personali, in conformità al regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016;
+- a) i dati contenuti nell'ANGEMAR, nonchè le modalità di alimentazione, aggiornamento e conservazione degli stessi, con particolare riguardo alle misure di sicurezza informatica e alle specifiche tecniche e organizzative per la gestione e il trattamento dei dati personali, in conformità al [regolamento (UE) 2016/679](../../../GDPR%20%28Regolamento%20UE%202016-679%20-%2027.04.2016%29/00%20-%20Indice%20%28reg679-16%29.md) del Parlamento europeo e del Consiglio, del 27 aprile 2016;
 - b) le caratteristiche del libretto di navigazione di cui all'articolo 122 del codice della navigazione di cui al regio decreto n. 327 del 1942, rilasciato ai sensi del comma 3, nonchè le modalità di verifica e consultazione dello stesso.
 
 5\. Nelle more della piena operatività, l'ANGEMAR mette a disposizione un servizio informatico provvisorio per l'inserimento dei dati e delle informazioni essenziali da parte del personale appartenente alla gente di mare e dei centri di formazione autorizzati, secondo le modalità definite con decreto direttoriale del Ministero delle infrastrutture e dei trasporti. I dati e le informazioni di cui al primo periodo confluiscono nell'ANGEMAR e sono oggetto di successiva validazione secondo le modalità stabilite dai decreti di cui al comma 4.

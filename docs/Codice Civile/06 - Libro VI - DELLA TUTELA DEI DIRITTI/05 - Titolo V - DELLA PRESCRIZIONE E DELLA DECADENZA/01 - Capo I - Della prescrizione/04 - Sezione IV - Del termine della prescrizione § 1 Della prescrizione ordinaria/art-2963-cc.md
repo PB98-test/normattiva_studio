@@ -14,8 +14,8 @@ capo_label: "Della prescrizione"
 sezione: "IV"
 sezione_label: "Del termine della prescrizione § 1 Della prescrizione ordinaria"
 rubrica: "Computo dei termini di prescrizione"
-dataVigenza: "20260914"
-ordine: 3274
+dataVigenza: "20261102"
+ordine: 3275
 ---
 
 # Art. 2963 - ***Computo dei termini di prescrizione***

@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Appello incidentale"
-dataVigenza: "20261016"
-ordine: 715
+dataVigenza: "20261102"
+ordine: 716
 ---
 
 # Art. 595 - ***Appello incidentale***

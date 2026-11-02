@@ -16,8 +16,8 @@ capo_label: "PROCEDIMENTO"
 sezione: null
 sezione_label: null
 rubrica: "Difensori"
-dataVigenza: "20261016"
-ordine: 736
+dataVigenza: "20261102"
+ordine: 737
 ---
 
 # Art. 613 - ***Difensori***

@@ -16,8 +16,8 @@ capo_label: "DECISIONE"
 sezione: "III"
 sezione_label: "Decisione sulle questioni civili"
 rubrica: "Condanna per la responsabilità civile"
-dataVigenza: "20261016"
-ordine: 649
+dataVigenza: "20261102"
+ordine: 650
 ---
 
 # Art. 538 - ***Condanna per la responsabilità civile***

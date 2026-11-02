@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Casi di citazione diretta a giudizio"
-dataVigenza: "20261016"
-ordine: 662
+dataVigenza: "20261102"
+ordine: 663
 ---
 
 # Art. 550 - ***Casi di citazione diretta a giudizio***

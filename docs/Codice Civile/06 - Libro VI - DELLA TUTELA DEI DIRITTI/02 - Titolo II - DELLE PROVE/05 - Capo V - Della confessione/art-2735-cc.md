@@ -14,8 +14,8 @@ capo_label: "Della confessione"
 sezione: null
 sezione_label: null
 rubrica: "Confessione stragiudiziale"
-dataVigenza: "20260914"
-ordine: 3040
+dataVigenza: "20261102"
+ordine: 3041
 ---
 
 # Art. 2735 - ***Confessione stragiudiziale***

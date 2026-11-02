@@ -16,8 +16,8 @@ capo_label: "GIUDICE DELL'ESECUZIONE"
 sezione: null
 sezione_label: null
 rubrica: "Persona condannata per errore di nome"
-dataVigenza: "20261016"
-ordine: 799
+dataVigenza: "20261102"
+ordine: 800
 ---
 
 # Art. 668 - ***Persona condannata per errore di nome***

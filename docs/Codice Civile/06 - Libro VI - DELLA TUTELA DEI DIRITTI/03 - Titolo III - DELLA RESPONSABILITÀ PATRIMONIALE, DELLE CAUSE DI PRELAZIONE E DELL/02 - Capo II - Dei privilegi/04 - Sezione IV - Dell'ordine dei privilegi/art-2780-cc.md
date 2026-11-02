@@ -14,8 +14,8 @@ capo_label: "Dei privilegi"
 sezione: "IV"
 sezione_label: "Dell'ordine dei privilegi"
 rubrica: "Ordine dei privilegi sugli immobili"
-dataVigenza: "20261016"
-ordine: 3087
+dataVigenza: "20261102"
+ordine: 3088
 ---
 
 # Art. 2780 - ***Ordine dei privilegi sugli immobili***

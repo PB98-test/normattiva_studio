@@ -14,8 +14,8 @@ capo_label: "Disposizioni generali"
 sezione: null
 sezione_label: null
 rubrica: "Concorso dei creditori e cause di prelazione"
-dataVigenza: "20260914"
-ordine: 3046
+dataVigenza: "20261102"
+ordine: 3047
 ---
 
 # Art. 2741 - ***Concorso dei creditori e cause di prelazione***

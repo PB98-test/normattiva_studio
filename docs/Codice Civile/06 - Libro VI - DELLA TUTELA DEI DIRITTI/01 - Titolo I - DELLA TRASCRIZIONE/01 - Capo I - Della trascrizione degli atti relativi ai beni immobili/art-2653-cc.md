@@ -14,8 +14,8 @@ capo_label: "Della trascrizione degli atti relativi ai beni immobili"
 sezione: null
 sezione_label: null
 rubrica: "Altre domande e atti soggetti a trascrizione a diversi effetti"
-dataVigenza: "20260914"
-ordine: 2955
+dataVigenza: "20261102"
+ordine: 2956
 ---
 
 # Art. 2653 - ***Altre domande e atti soggetti a trascrizione a diversi effetti***

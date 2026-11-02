@@ -14,8 +14,8 @@ capo_label: "Dell'esecuzione forzata"
 sezione: "I"
 sezione_label: "Dell'espropriazione § 1 Disposizioni generali"
 rubrica: "Evizione"
-dataVigenza: "20260914"
-ordine: 3231
+dataVigenza: "20261102"
+ordine: 3232
 ---
 
 # Art. 2921 - ***Evizione***

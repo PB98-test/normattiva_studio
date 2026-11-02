@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "VI"
 sezione_label: "Dell'ordine delle ipoteche"
 rubrica: "Ipoteche iscritte nello stesso grado"
-dataVigenza: "20260914"
-ordine: 3164
+dataVigenza: "20261102"
+ordine: 3165
 ---
 
 # Art. 2854 - ***Ipoteche iscritte nello stesso grado***

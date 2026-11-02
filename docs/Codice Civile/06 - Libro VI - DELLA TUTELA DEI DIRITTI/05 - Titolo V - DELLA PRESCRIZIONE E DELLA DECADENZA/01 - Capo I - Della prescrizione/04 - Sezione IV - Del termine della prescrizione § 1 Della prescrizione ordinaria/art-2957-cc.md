@@ -14,8 +14,8 @@ capo_label: "Della prescrizione"
 sezione: "IV"
 sezione_label: "Del termine della prescrizione § 1 Della prescrizione ordinaria"
 rubrica: "Decorrenza delle prescrizioni presuntive"
-dataVigenza: "20260914"
-ordine: 3268
+dataVigenza: "20261102"
+ordine: 3269
 ---
 
 # Art. 2957 - ***Decorrenza delle prescrizioni presuntive***

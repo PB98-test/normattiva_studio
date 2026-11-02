@@ -14,8 +14,8 @@ capo_label: "La destinazione dei beni confiscati"
 sezione: null
 sezione_label: null
 rubrica: "Liberazione degli immobili e delle aziende"
-dataVigenza: "20261016"
-ordine: 54
+dataVigenza: "20261102"
+ordine: 56
 ---
 
 # Art. 45-bis - ***Liberazione degli immobili e delle aziende***

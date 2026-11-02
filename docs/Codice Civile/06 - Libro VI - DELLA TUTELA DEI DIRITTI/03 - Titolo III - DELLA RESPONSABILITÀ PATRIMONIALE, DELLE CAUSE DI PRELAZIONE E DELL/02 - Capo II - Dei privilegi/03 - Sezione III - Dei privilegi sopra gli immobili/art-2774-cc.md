@@ -14,8 +14,8 @@ capo_label: "Dei privilegi"
 sezione: "III"
 sezione_label: "Dei privilegi sopra gli immobili"
 rubrica: "Crediti per concessione di acque"
-dataVigenza: "20260914"
-ordine: 3080
+dataVigenza: "20261102"
+ordine: 3081
 ---
 
 # Art. 2774 - ***Crediti per concessione di acque***

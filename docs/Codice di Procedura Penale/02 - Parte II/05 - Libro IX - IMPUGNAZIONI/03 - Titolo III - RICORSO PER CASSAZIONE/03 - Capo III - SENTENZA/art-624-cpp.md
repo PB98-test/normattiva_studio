@@ -16,8 +16,8 @@ capo_label: "SENTENZA"
 sezione: null
 sezione_label: null
 rubrica: "Annullamento parziale"
-dataVigenza: "20261016"
-ordine: 747
+dataVigenza: "20261102"
+ordine: 748
 ---
 
 # Art. 624 - ***Annullamento parziale***

@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Provvedimenti in accoglimento della richiesta"
-dataVigenza: "20261016"
-ordine: 767
+dataVigenza: "20261102"
+ordine: 768
 ---
 
 # Art. 639 - ***Provvedimenti in accoglimento della richiesta***

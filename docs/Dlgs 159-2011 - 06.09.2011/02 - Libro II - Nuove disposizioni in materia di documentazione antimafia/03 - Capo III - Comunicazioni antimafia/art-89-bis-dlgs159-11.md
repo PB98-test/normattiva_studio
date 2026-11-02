@@ -14,8 +14,8 @@ capo_label: "Comunicazioni antimafia"
 sezione: null
 sezione_label: null
 rubrica: "Accertamento di tentativi di infiltrazione mafiosa in esito alla richiesta di comunicazione antimafia"
-dataVigenza: "20261020"
-ordine: 103
+dataVigenza: "20261102"
+ordine: 105
 ---
 
 # Art. 89-bis - ***Accertamento di tentativi di infiltrazione mafiosa in esito alla richiesta di comunicazione antimafia***

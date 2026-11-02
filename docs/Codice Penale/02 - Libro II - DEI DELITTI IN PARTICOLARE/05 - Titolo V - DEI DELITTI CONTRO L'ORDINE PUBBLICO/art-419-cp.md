@@ -14,7 +14,7 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Devastazione e saccheggio"
-dataVigenza: "20261016"
+dataVigenza: "20261102"
 ordine: 507
 ---
 
@@ -23,8 +23,11 @@ ordine: 507
 Chiunque, fuori dei casi preveduti dall'[articolo 285](../01%20-%20Titolo%20I%20-%20DEI%20DELITTI%20CONTRO%20LA%20PERSONALITÀ%20DELLO%20STATO/03%20-%20Capo%20II%20-%20Dei%20delitti%20contro%20la%20personalità%20interna%20dello%20Stato/art-285-cp.md), commette fatti di devastazione o di saccheggio è punito con la reclusione da otto a quindici anni.
 {: data-comma="1" }
 
-La pena è aumentata se il fatto è commesso nel corso di manifestazioni in luogo pubblico o aperto al pubblico ovvero su armi, munizioni o viveri esistenti in luogo di vendita o di deposito.   [^agg-48] [^agg-56]
+La pena è aumentata se il fatto è commesso nel corso di manifestazioni in luogo pubblico o aperto al pubblico ovvero su armi, munizioni o viveri esistenti in luogo di vendita o di deposito.
 {: data-comma="2" }
+
+La pena è aumentata da un terzo alla metà se il fatto è commesso nel corso di manifestazioni in luogo pubblico o aperto al pubblico su beni esistenti in luogo di vendita o di deposito.   [^agg-48] [^agg-56]
+{: data-comma="3" }
 
 [^agg-48]: *AGGIORNAMENTO (48)* Il D.P.R. 22 maggio 1970, n. 283 ha disposto: - (con l'art. 1, comma 1, lettera b)) che "È concessa amnistia per i seguenti reati, se commessi, anche, con finalità politiche, a causa e in occasione di agitazioni o manifestazioni sindacali o studentesche, o di agitazioni o manifestazioni attinenti a problemi del lavoro, dell'occupazione, della casa e della sicurezza sociale, e infine in occasione ed a causa di manifestazioni ed agitazioni determinate da eventi di calamità naturali: [...] b) reati previsti dagli [articoli 338](../02%20-%20Titolo%20II%20-%20DEI%20DELITTI%20CONTRO%20LA%20PUBBLICA%20AMMINISTRAZIONE/02%20-%20Capo%20II%20-%20Dei%20delitti%20dei%20privati%20contro%20la%20pubblica%20Amministrazione/art-338-cp.md) - limitatamente a violenza o minaccia ad un Corpo amministrativo -; 419, limitatamente al reato di devastazione; e 423 del [codice penale](../../00%20-%20Indice%20%28cp%29.md)"; - (con l'art. 1, comma 2, lettera a)) che è inoltre concessa amnistia "per i reati di cui alle lettere a), b), c), d), e) ed f) del precedente comma, determinati da motivi politici inerenti a questioni di minoranze etniche, salvo che dal fatto siano direttamente derivate lesioni personali ai sensi del capoverso dell'[art. 583 del codice penale](../15%20-%20Titolo%20XII%20-%20DEI%20DELITTI%20CONTRO%20LA%20PERSONA/01%20-%20Capo%20I%20-%20Dei%20delitti%20contro%20la%20vita%20e%20l%27incolumità%20individuale/art-583-cp.md), o la morte ai sensi degli [articoli 586](../15%20-%20Titolo%20XII%20-%20DEI%20DELITTI%20CONTRO%20LA%20PERSONA/01%20-%20Capo%20I%20-%20Dei%20delitti%20contro%20la%20vita%20e%20l%27incolumità%20individuale/art-586-cp.md) e [588 del codice penale](../15%20-%20Titolo%20XII%20-%20DEI%20DELITTI%20CONTRO%20LA%20PERSONA/01%20-%20Capo%20I%20-%20Dei%20delitti%20contro%20la%20vita%20e%20l%27incolumità%20individuale/art-588-cp.md)"; - (con l'art. 11, comma 1) che l'amnistia ha efficacia per i reati commessi fino a tutto il giorno 6 aprile 1970.
 

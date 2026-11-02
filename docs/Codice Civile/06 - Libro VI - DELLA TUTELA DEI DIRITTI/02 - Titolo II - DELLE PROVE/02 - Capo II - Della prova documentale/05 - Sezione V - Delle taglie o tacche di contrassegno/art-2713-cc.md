@@ -14,8 +14,8 @@ capo_label: "Della prova documentale"
 sezione: "V"
 sezione_label: "Delle taglie o tacche di contrassegno"
 rubrica: "Taglie o tacche di contrassegno"
-dataVigenza: "20260914"
-ordine: 3018
+dataVigenza: "20261102"
+ordine: 3019
 ---
 
 # Art. 2713 - ***Taglie o tacche di contrassegno***

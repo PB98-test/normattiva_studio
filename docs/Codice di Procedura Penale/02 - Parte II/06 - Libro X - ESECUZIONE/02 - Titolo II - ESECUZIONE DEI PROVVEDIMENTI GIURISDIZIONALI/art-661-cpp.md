@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Esecuzione delle pene sostitutive"
-dataVigenza: "20261016"
-ordine: 792
+dataVigenza: "20261102"
+ordine: 793
 ---
 
 # Art. 661 - ***Esecuzione delle pene sostitutive***

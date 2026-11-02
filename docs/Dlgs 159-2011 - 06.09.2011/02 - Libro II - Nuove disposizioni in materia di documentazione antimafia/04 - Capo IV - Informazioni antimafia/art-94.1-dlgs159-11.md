@@ -14,8 +14,8 @@ capo_label: "Informazioni antimafia"
 sezione: null
 sezione_label: null
 rubrica: "Limitazione degli effetti delle informazioni del prefetto per le imprese individuali"
-dataVigenza: "20261016"
-ordine: 109
+dataVigenza: "20261102"
+ordine: 111
 ---
 
 # Art. 94.1 - ***Limitazione degli effetti delle informazioni del prefetto per le imprese individuali***

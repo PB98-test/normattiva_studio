@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "IX"
 sezione_label: "Della riduzione delle ipoteche"
 rubrica: "Eccesso nel valore dei beni"
-dataVigenza: "20260914"
-ordine: 3185
+dataVigenza: "20261102"
+ordine: 3186
 ---
 
 # Art. 2875 - ***Eccesso nel valore dei beni***

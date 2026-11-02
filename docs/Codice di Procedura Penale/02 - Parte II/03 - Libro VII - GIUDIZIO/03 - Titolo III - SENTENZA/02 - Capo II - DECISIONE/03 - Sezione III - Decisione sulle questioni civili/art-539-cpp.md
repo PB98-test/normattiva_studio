@@ -16,8 +16,8 @@ capo_label: "DECISIONE"
 sezione: "III"
 sezione_label: "Decisione sulle questioni civili"
 rubrica: "Condanna generica ai danni e provvisionale"
-dataVigenza: "20261016"
-ordine: 650
+dataVigenza: "20261102"
+ordine: 651
 ---
 
 # Art. 539 - ***Condanna generica ai danni e provvisionale***

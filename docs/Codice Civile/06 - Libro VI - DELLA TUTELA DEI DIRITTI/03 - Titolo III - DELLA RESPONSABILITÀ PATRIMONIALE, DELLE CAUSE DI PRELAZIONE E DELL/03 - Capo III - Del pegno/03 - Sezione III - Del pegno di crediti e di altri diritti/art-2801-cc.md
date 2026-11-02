@@ -14,8 +14,8 @@ capo_label: "Del pegno"
 sezione: "III"
 sezione_label: "Del pegno di crediti e di altri diritti"
 rubrica: "Consegna del documento"
-dataVigenza: "20260914"
-ordine: 3110
+dataVigenza: "20261102"
+ordine: 3111
 ---
 
 # Art. 2801 - ***Consegna del documento***

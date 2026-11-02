@@ -14,8 +14,8 @@ capo_label: "Della pubblicità dei registri immobiliari e della responsabilità 
 sezione: null
 sezione_label: null
 rubrica: "Obblighi del conservatore"
-dataVigenza: "20260914"
-ordine: 2977
+dataVigenza: "20261102"
+ordine: 2978
 ---
 
 # Art. 2673 - ***Obblighi del conservatore***

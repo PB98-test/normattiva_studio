@@ -16,8 +16,8 @@ capo_label: "ROGATORIE ALL'ESTERO"
 sezione: null
 sezione_label: null
 rubrica: "Trasferimento temporaneo in Italia di persone detenute"
-dataVigenza: "20261016"
-ordine: 878
+dataVigenza: "20261102"
+ordine: 879
 ---
 
 # Art. 729-ter - ***Trasferimento temporaneo in Italia di persone detenute***

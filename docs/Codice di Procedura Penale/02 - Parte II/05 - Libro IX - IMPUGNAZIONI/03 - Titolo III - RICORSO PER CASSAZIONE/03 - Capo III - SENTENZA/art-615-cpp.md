@@ -16,8 +16,8 @@ capo_label: "SENTENZA"
 sezione: null
 sezione_label: null
 rubrica: "Deliberazione e pubblicazione"
-dataVigenza: "20261016"
-ordine: 738
+dataVigenza: "20261102"
+ordine: 739
 ---
 
 # Art. 615 - ***Deliberazione e pubblicazione***

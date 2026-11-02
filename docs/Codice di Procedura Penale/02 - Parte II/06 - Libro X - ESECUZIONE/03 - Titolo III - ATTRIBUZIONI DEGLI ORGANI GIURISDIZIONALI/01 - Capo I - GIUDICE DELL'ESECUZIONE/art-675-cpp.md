@@ -16,8 +16,8 @@ capo_label: "GIUDICE DELL'ESECUZIONE"
 sezione: null
 sezione_label: null
 rubrica: "Falsità di documenti"
-dataVigenza: "20261016"
-ordine: 806
+dataVigenza: "20261102"
+ordine: 807
 ---
 
 # Art. 675 - ***Falsità di documenti***

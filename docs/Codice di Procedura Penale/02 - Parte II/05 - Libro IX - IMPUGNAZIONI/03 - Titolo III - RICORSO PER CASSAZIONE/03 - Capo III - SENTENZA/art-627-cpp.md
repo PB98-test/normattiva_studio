@@ -16,8 +16,8 @@ capo_label: "SENTENZA"
 sezione: null
 sezione_label: null
 rubrica: "Giudizio di rinvio dopo annullamento"
-dataVigenza: "20261016"
-ordine: 753
+dataVigenza: "20261102"
+ordine: 754
 ---
 
 # Art. 627 - ***Giudizio di rinvio dopo annullamento***

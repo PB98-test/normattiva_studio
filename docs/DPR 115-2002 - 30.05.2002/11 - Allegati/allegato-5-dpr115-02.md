@@ -12,8 +12,8 @@ capo: null
 capo_label: null
 sezione: null
 sezione_label: null
-dataVigenza: "20261016"
-ordine: 321
+dataVigenza: "20261102"
+ordine: 322
 ---
 
 # Allegato 5

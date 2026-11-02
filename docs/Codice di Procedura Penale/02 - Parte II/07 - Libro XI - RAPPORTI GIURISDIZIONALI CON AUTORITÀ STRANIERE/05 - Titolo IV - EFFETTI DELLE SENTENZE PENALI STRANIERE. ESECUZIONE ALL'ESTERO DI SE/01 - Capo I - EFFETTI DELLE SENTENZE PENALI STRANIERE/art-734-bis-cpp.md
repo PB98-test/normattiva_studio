@@ -16,8 +16,8 @@ capo_label: "EFFETTI DELLE SENTENZE PENALI STRANIERE"
 sezione: null
 sezione_label: null
 rubrica: "Poteri del Ministro in materia di esecuzione della decisione dello Stato estero"
-dataVigenza: "20261016"
-ordine: 886
+dataVigenza: "20261102"
+ordine: 887
 ---
 
 # Art. 734-bis - ***Poteri del Ministro in materia di esecuzione della decisione dello Stato estero***

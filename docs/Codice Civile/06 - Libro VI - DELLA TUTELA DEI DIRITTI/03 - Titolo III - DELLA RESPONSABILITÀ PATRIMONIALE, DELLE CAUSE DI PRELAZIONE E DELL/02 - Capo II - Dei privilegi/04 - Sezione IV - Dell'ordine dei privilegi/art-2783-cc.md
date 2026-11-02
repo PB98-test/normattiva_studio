@@ -14,8 +14,8 @@ capo_label: "Dei privilegi"
 sezione: "IV"
 sezione_label: "Dell'ordine dei privilegi"
 rubrica: "Preferenza non determinata dalla legge"
-dataVigenza: "20260914"
-ordine: 3090
+dataVigenza: "20261102"
+ordine: 3091
 ---
 
 # Art. 2783 - ***Preferenza non determinata dalla legge***

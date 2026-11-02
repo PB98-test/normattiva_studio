@@ -14,8 +14,8 @@ capo_label: "Del pegno"
 sezione: "III"
 sezione_label: "Del pegno di crediti e di altri diritti"
 rubrica: "Assegnazione o vendita del credito dato in pegno"
-dataVigenza: "20260914"
-ordine: 3113
+dataVigenza: "20261102"
+ordine: 3114
 ---
 
 # Art. 2804 - ***Assegnazione o vendita del credito dato in pegno***

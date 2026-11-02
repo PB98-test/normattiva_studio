@@ -14,8 +14,8 @@ capo_label: "Del pegno"
 sezione: "III"
 sezione_label: "Del pegno di crediti e di altri diritti"
 rubrica: "Condizioni della prelazione"
-dataVigenza: "20260914"
-ordine: 3109
+dataVigenza: "20261102"
+ordine: 3110
 ---
 
 # Art. 2800 - ***Condizioni della prelazione***

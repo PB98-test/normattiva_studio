@@ -14,8 +14,8 @@ capo_label: "Della trascrizione degli atti relativi ai beni immobili"
 sezione: null
 sezione_label: null
 rubrica: "Durata dell'efficacia della trascrizione della domanda giudiziale"
-dataVigenza: "20260914"
-ordine: 2971
+dataVigenza: "20261102"
+ordine: 2972
 ---
 
 # Art. 2668-bis - ***Durata dell'efficacia della trascrizione della domanda giudiziale***

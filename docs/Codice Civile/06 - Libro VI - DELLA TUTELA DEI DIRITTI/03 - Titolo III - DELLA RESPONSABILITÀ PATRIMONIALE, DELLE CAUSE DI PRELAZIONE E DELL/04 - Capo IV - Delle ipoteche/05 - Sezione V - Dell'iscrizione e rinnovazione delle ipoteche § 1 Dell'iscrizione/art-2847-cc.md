@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "V"
 sezione_label: "Dell'iscrizione e rinnovazione delle ipoteche § 1 Dell'iscrizione"
 rubrica: "Durata dell'efficacia dell'iscrizione"
-dataVigenza: "20261016"
-ordine: 3157
+dataVigenza: "20261102"
+ordine: 3158
 ---
 
 # Art. 2847 - ***Durata dell'efficacia dell'iscrizione***

@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "V"
 sezione_label: "Dell'iscrizione e rinnovazione delle ipoteche § 1 Dell'iscrizione"
 rubrica: "Rinnovazione rispetto a beni trasferiti agli eredi o aventi causa"
-dataVigenza: "20260914"
-ordine: 3161
+dataVigenza: "20261102"
+ordine: 3162
 ---
 
 # Art. 2851 - ***Rinnovazione rispetto a beni trasferiti agli eredi o aventi causa***

@@ -14,8 +14,8 @@ capo_label: "Dei privilegi"
 sezione: "II"
 sezione_label: "Dei privilegi sui mobili § 1 Dei privilegi generali sui mobili"
 rubrica: "Crediti dell'albergatore"
-dataVigenza: "20260914"
-ordine: 3066
+dataVigenza: "20261102"
+ordine: 3067
 ---
 
 # Art. 2760 - ***Crediti dell'albergatore***

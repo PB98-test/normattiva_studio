@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Estensione delle norme sul giudizio di primo grado al giudizio di appello"
-dataVigenza: "20261016"
-ordine: 718
+dataVigenza: "20261102"
+ordine: 719
 ---
 
 # Art. 598 - ***Estensione delle norme sul giudizio di primo grado al giudizio di appello***

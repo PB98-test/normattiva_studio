@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Condanne soggette a revisione"
-dataVigenza: "20261016"
-ordine: 756
+dataVigenza: "20261102"
+ordine: 757
 ---
 
 # Art. 629 - ***Condanne soggette a revisione***

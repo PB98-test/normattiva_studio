@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "IV"
 sezione_label: "Dell'ipoteca volontaria"
 rubrica: "Ipoteca su beni altrui"
-dataVigenza: "20260914"
-ordine: 3131
+dataVigenza: "20261102"
+ordine: 3132
 ---
 
 # Art. 2822 - ***Ipoteca su beni altrui***

@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Funzioni del pubblico ministero"
-dataVigenza: "20261016"
-ordine: 784
+dataVigenza: "20261102"
+ordine: 785
 ---
 
 # Art. 655 - ***Funzioni del pubblico ministero***

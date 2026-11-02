@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "V"
 sezione_label: "Dell'iscrizione e rinnovazione delle ipoteche § 1 Dell'iscrizione"
 rubrica: "Azioni e notificazioni"
-dataVigenza: "20260914"
-ordine: 3154
+dataVigenza: "20261102"
+ordine: 3155
 ---
 
 # Art. 2844 - ***Azioni e notificazioni***

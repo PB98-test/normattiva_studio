@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "VII"
 sezione_label: "Degli effetti dell'ipoteca rispetto al terzo acquirente"
 rubrica: "Eccezioni opponibili dal terzo acquirente"
-dataVigenza: "20260914"
-ordine: 3169
+dataVigenza: "20261102"
+ordine: 3170
 ---
 
 # Art. 2859 - ***Eccezioni opponibili dal terzo acquirente***

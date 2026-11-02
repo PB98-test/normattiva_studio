@@ -14,8 +14,8 @@ capo_label: "Della prova documentale"
 sezione: "I"
 sezione_label: "Dell'atto pubblico"
 rubrica: "Efficacia dell'atto pubblico"
-dataVigenza: "20260914"
-ordine: 3005
+dataVigenza: "20261102"
+ordine: 3006
 ---
 
 # Art. 2700 - ***Efficacia dell'atto pubblico***

@@ -16,8 +16,8 @@ capo_label: "ESTRADIZIONE PER L'ESTERO"
 sezione: "I"
 sezione_label: "Procedimento"
 rubrica: "Accertamenti del procuratore generale"
-dataVigenza: "20261016"
-ordine: 843
+dataVigenza: "20261102"
+ordine: 844
 ---
 
 # Art. 703 - ***Accertamenti del procuratore generale***

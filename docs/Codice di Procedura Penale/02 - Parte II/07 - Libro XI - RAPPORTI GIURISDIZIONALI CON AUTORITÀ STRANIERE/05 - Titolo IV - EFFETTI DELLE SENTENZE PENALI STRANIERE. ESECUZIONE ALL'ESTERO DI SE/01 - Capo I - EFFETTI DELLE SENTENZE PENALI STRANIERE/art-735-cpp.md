@@ -16,8 +16,8 @@ capo_label: "EFFETTI DELLE SENTENZE PENALI STRANIERE"
 sezione: null
 sezione_label: null
 rubrica: "Determinazione della pena ed ordine di confisca"
-dataVigenza: "20261016"
-ordine: 887
+dataVigenza: "20261102"
+ordine: 888
 ---
 
 # Art. 735 - ***Determinazione della pena ed ordine di confisca***

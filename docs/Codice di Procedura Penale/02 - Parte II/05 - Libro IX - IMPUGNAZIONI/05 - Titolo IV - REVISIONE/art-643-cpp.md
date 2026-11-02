@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Riparazione dell'errore giudiziario"
-dataVigenza: "20261016"
-ordine: 771
+dataVigenza: "20261102"
+ordine: 772
 ---
 
 # Art. 643 - ***Riparazione dell'errore giudiziario***

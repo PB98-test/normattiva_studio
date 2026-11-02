@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Giudice competente"
-dataVigenza: "20261016"
-ordine: 716
+dataVigenza: "20261102"
+ordine: 717
 ---
 
 # Art. 596 - ***Giudice competente***

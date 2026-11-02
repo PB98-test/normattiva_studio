@@ -14,8 +14,8 @@ capo_label: "Della trascrizione degli atti relativi ai beni immobili"
 sezione: null
 sezione_label: null
 rubrica: "Costituzione del fondo patrimoniale e separazione di beni."
-dataVigenza: "20260914"
-ordine: 2949
+dataVigenza: "20261102"
+ordine: 2950
 ---
 
 # Art. 2647 - ***Costituzione del fondo patrimoniale e separazione di beni.***

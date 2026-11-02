@@ -14,8 +14,8 @@ capo_label: "Dell'esecuzione forzata"
 sezione: "I"
 sezione_label: "Dell'espropriazione § 1 Disposizioni generali"
 rubrica: "Effetto traslativo della vendita forzata"
-dataVigenza: "20260914"
-ordine: 3229
+dataVigenza: "20261102"
+ordine: 3230
 ---
 
 # Art. 2919 - ***Effetto traslativo della vendita forzata***

@@ -14,8 +14,8 @@ capo_label: "Della prescrizione"
 sezione: "I"
 sezione_label: "Disposizioni generali"
 rubrica: "Inderogabilità delle norme sulla prescrizione"
-dataVigenza: "20260914"
-ordine: 3247
+dataVigenza: "20261102"
+ordine: 3248
 ---
 
 # Art. 2936 - ***Inderogabilità delle norme sulla prescrizione***

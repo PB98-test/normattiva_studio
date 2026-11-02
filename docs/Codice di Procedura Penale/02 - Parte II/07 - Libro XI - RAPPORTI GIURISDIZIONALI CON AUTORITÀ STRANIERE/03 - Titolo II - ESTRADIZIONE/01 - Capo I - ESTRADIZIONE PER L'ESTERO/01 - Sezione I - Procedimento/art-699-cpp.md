@@ -16,8 +16,8 @@ capo_label: "ESTRADIZIONE PER L'ESTERO"
 sezione: "I"
 sezione_label: "Procedimento"
 rubrica: "Principio di specialità"
-dataVigenza: "20261016"
-ordine: 839
+dataVigenza: "20261102"
+ordine: 840
 ---
 
 # Art. 699 - ***Principio di specialità***

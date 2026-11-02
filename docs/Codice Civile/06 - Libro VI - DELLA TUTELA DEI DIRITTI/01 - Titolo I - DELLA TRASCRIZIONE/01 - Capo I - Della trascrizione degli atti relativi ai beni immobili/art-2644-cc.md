@@ -14,8 +14,8 @@ capo_label: "Della trascrizione degli atti relativi ai beni immobili"
 sezione: null
 sezione_label: null
 rubrica: "Effetti della trascrizione"
-dataVigenza: "20260914"
-ordine: 2943
+dataVigenza: "20261102"
+ordine: 2944
 ---
 
 # Art. 2644 - ***Effetti della trascrizione***

@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Impugnabilità della sentenza"
-dataVigenza: "20261016"
-ordine: 768
+dataVigenza: "20261102"
+ordine: 769
 ---
 
 # Art. 640 - ***Impugnabilità della sentenza***

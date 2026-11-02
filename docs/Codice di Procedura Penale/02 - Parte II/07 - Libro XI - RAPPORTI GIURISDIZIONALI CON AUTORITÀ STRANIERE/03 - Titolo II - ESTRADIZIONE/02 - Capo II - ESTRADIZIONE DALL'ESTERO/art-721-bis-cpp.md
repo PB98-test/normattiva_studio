@@ -16,8 +16,8 @@ capo_label: "ESTRADIZIONE DALL'ESTERO"
 sezione: null
 sezione_label: null
 rubrica: "Estensione dell'estradizione"
-dataVigenza: "20261016"
-ordine: 862
+dataVigenza: "20261102"
+ordine: 863
 ---
 
 # Art. 721-bis - ***Estensione dell'estradizione***

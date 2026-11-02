@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "XI"
 sezione_label: "Della cancellazione dell'iscrizione"
 rubrica: "Rifiuto di cancellazione"
-dataVigenza: "20260914"
-ordine: 3198
+dataVigenza: "20261102"
+ordine: 3199
 ---
 
 # Art. 2888 - ***Rifiuto di cancellazione***

@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da Codice Privacy (Dlgs 196-2003 - 30.06.2003) ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Codice Privacy (Dlgs 196-2003 - 30.06.2003) - 95 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Codice Privacy (Dlgs 196-2003 - 30.06.2003) - 110 leggi trovate)*
 
 - [articolo 1 della legge 24 marzo 2001, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-03-24;127)
 - [articolo 26 della legge 3 febbraio 2003, n 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-02-03;14)
@@ -25,6 +25,7 @@ search:
 - [articolo 5-ter del decreto-legge 24 gennaio 2012, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2012-01-24;1)
 - [legge 24 marzo 2012, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-03-24;27)
 - [D.Lgs. 10 marzo 2023, n. 24](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2023-03-10;24)
+- [Regolamento (CE) n. 765/2008](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32008R0765)
 - [D.Lgs. 10 agosto 2018, n. 101](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2018-08-10;101)
 - [decreto del Presidente della Repubblica 3 maggio 1982, n. 378](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-05-03;378)
 - [D.L. 14 giugno 2019, n. 53](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2019-06-14;53)
@@ -63,6 +64,7 @@ search:
 - [D.L. 30 dicembre 2015, n. 210](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2015-12-30;210)
 - [L. 25 febbraio 2016, n. 21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-02-25;21)
 - [articolo 20 della direttiva (UE) 2017/541 del Parlamento europeo e del Consiglio, del 15 marzo 2017](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32017L0541)
+- [decisione quadro 2002/475/GAI](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32002F0475)
 - [articoli 26](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-03;69)
 - [articolo 10, comma 4, del decreto legislativo 1° settembre 2011, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2011-09-01;150)
 - [decreto legislativo 3 luglio 2017, n. 117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2017-07-03;117)
@@ -72,6 +74,19 @@ search:
 - [legge 10 ottobre 1990, n. 287](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-10-10;287)
 - [legge 31 luglio 1997, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-07-31;249)
 - [legge 21 febbraio 1989, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-02-21;98)
+- [Regolamento (CE) n. 1987/2006](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32006R1987)
+- [Decisione 2007/533/GAI](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32007D0533)
+- [Regolamento (UE) 2016/794](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32016R0794)
+- [Regolamento (UE) 2015/1525](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32015R1525)
+- [Regolamento (CE) n. 515/97](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31997R0515)
+- [decisione 2009/917/GAI](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32009D0917)
+- [Regolamento (CE) n. 603/2013](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32013R0603)
+- [Regolamento (UE) n. 604/2013](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32013R0604)
+- [Regolamento (UE) n. 1077/2011](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32011R1077)
+- [Regolamento (CE) n. 767/2008](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32008R0767)
+- [decisione n. 2008/633/GAI](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32008D0633)
+- [Regolamento (CE) n. 1024/2012](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32012R1024)
+- [decisione 2008/49/CE](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32008D0049)
 - [articolo 1 del regio decreto 30 ottobre 1933, n. 1611](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regiodecreto:1933-10-30;1611)
 - [decreto legislativo n. 165 del 2001](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2001;165)
 - [articolo 22, comma 1, del decreto-legge 24 giugno 2014, n. 90](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2014-06-24;90)

@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "X"
 sezione_label: "Dell'estinzione delle ipoteche"
 rubrica: "Cause di estinzione"
-dataVigenza: "20260914"
-ordine: 3188
+dataVigenza: "20261102"
+ordine: 3189
 ---
 
 # Art. 2878 - ***Cause di estinzione***

@@ -14,8 +14,8 @@ capo_label: "Della prova documentale"
 sezione: "III"
 sezione_label: "Delle scritture contabili delle imprese soggette a registrazione"
 rubrica: "Efficacia probatoria tra imprenditori"
-dataVigenza: "20260914"
-ordine: 3015
+dataVigenza: "20261102"
+ordine: 3016
 ---
 
 # Art. 2710 - ***Efficacia probatoria tra imprenditori***

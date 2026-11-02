@@ -14,8 +14,8 @@ capo_label: "Della prova documentale"
 sezione: "II"
 sezione_label: "Della scrittura privata"
 rubrica: "Annotazione in calce, in margine o a tergo di un documento"
-dataVigenza: "20260914"
-ordine: 3013
+dataVigenza: "20261102"
+ordine: 3014
 ---
 
 # Art. 2708 - ***Annotazione in calce, in margine o a tergo di un documento***

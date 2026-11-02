@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Decisione sulla confisca in casi particolari nel caso di estinzione del reato per amnistia o per prescrizione"
-dataVigenza: "20261016"
-ordine: 696
+dataVigenza: "20261102"
+ordine: 697
 ---
 
 # Art. 578-bis - ***Decisione sulla confisca in casi particolari nel caso di estinzione del reato per amnistia o per prescrizione***

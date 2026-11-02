@@ -5,7 +5,7 @@ search:
 
 # Leggi citate da Dl 185-2008 - 29.11.2008 ma non ancora nel vault
 
-*(rigenerato automaticamente ad ogni conversione di Dl 185-2008 - 29.11.2008 - 233 leggi trovate)*
+*(rigenerato automaticamente ad ogni conversione di Dl 185-2008 - 29.11.2008 - 238 leggi trovate)*
 
 - [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1986-12-22;917)
 - [articolo 81, comma 32, del decreto-legge 25 giugno 2008, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2008-06-25;112)
@@ -119,6 +119,7 @@ search:
 - [L. 27 dicembre 2017, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205)
 - [D.Lgs. 13 dicembre 2024, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2024-12-13;192)
 - [D.Lgs. 19 giugno 2026, n. 117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2026-06-19;117)
+- [regolamento (CE) n. 1606/2002](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32002R1606)
 - [articolo 21 della legge 30 dicembre 1991, n. 413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;413)
 - [articolo 13 del decreto legislativo 18 dicembre 1997, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1997-12-18;472)
 - [comma 4 dell'articolo 50-bis del decreto-legge 30 agosto 1993, n. 331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:1993-08-30;331)
@@ -168,6 +169,7 @@ search:
 - [D.L. 30 dicembre 2019, n. 162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2019-12-30;162)
 - [L. 28 febbraio 2020, n. 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-02-28;8)
 - [L. 13 dicembre 2024, n. 203](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-13;203)
+- [regolamento (UE) n. 1288/2013](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32013R1288)
 - [articolo 1, comma 7, del decreto-legge 20 maggio 1993, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:1993-05-20;148)
 - [articolo 19, primo comma, del regio decreto-legge 14 aprile 1939, n. 636](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regiodecretolegge:1939-04-14;636)
 - [legge 6 luglio 1939, n. 1272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-07-06;1272)
@@ -192,6 +194,7 @@ search:
 - [legge 11 luglio 2003, n. 170](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-07-11;170)
 - [D.L. 30 dicembre 2013, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2013-12-30;150)
 - [L. 27 febbraio 2014, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-02-27;15)
+- [regolamento (CE) n. 800/2008](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32008R0800)
 - [articolo 1 della legge 24 dicembre 2007, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;247)
 - [decreto legislativo 28 marzo 1996, n. 207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1996-03-28;207)
 - [decreto legislativo n. 207 del 1996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1996;207)
@@ -212,6 +215,8 @@ search:
 - [legge 6 aprile 2007, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-04-06;46)
 - [articolo 24 della legge 25 gennaio 2006, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-01-25;29)
 - [articolo 27, comma 3, della legge 18 aprile 2005, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-04-18;62)
+- [decisione 2003/193/CE](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32003D0193)
+- [regolamento (CE) n. 794/2004](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32004R0794)
 - [articolo 5, del decreto legislativo del 19 giugno 1997, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1997-06-19;218)
 - [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1997-12-18;471)
 - [decreto del Presidente della Repubblica n. 602 del 1973](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973;602)

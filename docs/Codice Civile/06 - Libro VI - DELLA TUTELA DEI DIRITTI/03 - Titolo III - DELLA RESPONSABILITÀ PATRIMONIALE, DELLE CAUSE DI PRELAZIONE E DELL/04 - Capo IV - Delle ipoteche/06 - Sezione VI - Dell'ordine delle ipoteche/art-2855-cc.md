@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "VI"
 sezione_label: "Dell'ordine delle ipoteche"
 rubrica: "Estensione degli effetti dell'iscrizione"
-dataVigenza: "20260914"
-ordine: 3165
+dataVigenza: "20261102"
+ordine: 3166
 ---
 
 # Art. 2855 - ***Estensione degli effetti dell'iscrizione***

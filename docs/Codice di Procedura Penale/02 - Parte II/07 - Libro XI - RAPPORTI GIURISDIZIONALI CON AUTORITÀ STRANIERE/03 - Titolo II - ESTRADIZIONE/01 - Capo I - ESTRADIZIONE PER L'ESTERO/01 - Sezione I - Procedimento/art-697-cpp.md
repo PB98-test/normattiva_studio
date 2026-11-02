@@ -16,8 +16,8 @@ capo_label: "ESTRADIZIONE PER L'ESTERO"
 sezione: "I"
 sezione_label: "Procedimento"
 rubrica: "Estradizione e poteri del Ministro della giustizia"
-dataVigenza: "20261016"
-ordine: 837
+dataVigenza: "20261102"
+ordine: 838
 ---
 
 # Art. 697 - ***Estradizione e poteri del Ministro della giustizia***

@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Trasmissione degli atti al giudice dell'udienza di comparizione predibattimentale"
-dataVigenza: "20261016"
-ordine: 665
+dataVigenza: "20261102"
+ordine: 666
 ---
 
 # Art. 553 - ***Trasmissione degli atti al giudice dell'udienza di comparizione predibattimentale***

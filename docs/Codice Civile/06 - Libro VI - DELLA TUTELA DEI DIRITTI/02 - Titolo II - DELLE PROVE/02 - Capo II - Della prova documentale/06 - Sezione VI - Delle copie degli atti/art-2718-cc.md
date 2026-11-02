@@ -14,8 +14,8 @@ capo_label: "Della prova documentale"
 sezione: "VI"
 sezione_label: "Delle copie degli atti"
 rubrica: "Valore probatorio di copie parziali"
-dataVigenza: "20260914"
-ordine: 3023
+dataVigenza: "20261102"
+ordine: 3024
 ---
 
 # Art. 2718 - ***Valore probatorio di copie parziali***

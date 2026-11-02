@@ -14,8 +14,8 @@ capo_label: "Delle presunzioni"
 sezione: null
 sezione_label: null
 rubrica: "Nozione"
-dataVigenza: "20260914"
-ordine: 3032
+dataVigenza: "20261102"
+ordine: 3033
 ---
 
 # Art. 2727 - ***Nozione***

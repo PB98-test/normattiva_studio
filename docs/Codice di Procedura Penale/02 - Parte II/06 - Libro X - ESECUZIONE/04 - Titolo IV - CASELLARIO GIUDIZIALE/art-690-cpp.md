@@ -17,8 +17,8 @@ sezione: null
 sezione_label: null
 rubrica: null
 abrogato: true
-dataVigenza: "20261016"
-ordine: 821
+dataVigenza: "20261102"
+ordine: 822
 ---
 
 # Art. 690 - *(Omissis)*

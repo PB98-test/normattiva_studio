@@ -14,8 +14,8 @@ capo_label: "Della trascrizione degli atti relativi ai beni immobili"
 sezione: null
 sezione_label: null
 rubrica: "Domande riguardanti atti soggetti a trascrizione. Effetti delle relative trascrizioni rispetto ai terzi"
-dataVigenza: "20261016"
-ordine: 2954
+dataVigenza: "20261102"
+ordine: 2955
 ---
 
 # Art. 2652 - ***Domande riguardanti atti soggetti a trascrizione. Effetti delle relative trascrizioni rispetto ai terzi***

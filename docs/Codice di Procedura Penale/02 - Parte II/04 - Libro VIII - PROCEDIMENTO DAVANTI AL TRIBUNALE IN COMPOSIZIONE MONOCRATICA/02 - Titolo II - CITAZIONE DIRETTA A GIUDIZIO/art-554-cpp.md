@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Atti urgenti"
-dataVigenza: "20261016"
-ordine: 666
+dataVigenza: "20261102"
+ordine: 667
 ---
 
 # Art. 554 - ***Atti urgenti***

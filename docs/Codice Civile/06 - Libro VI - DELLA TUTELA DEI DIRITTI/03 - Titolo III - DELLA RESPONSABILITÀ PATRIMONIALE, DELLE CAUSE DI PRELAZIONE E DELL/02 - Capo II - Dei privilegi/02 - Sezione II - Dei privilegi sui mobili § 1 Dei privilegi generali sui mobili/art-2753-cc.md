@@ -14,8 +14,8 @@ capo_label: "Dei privilegi"
 sezione: "II"
 sezione_label: "Dei privilegi sui mobili § 1 Dei privilegi generali sui mobili"
 rubrica: "Crediti per contributi di assicurazione obbligatoria per l'invalidità, la vecchiaia e i superstiti."
-dataVigenza: "20260914"
-ordine: 3059
+dataVigenza: "20261102"
+ordine: 3060
 ---
 
 # Art. 2753 - ***Crediti per contributi di assicurazione obbligatoria per l'invalidità, la vecchiaia e i superstiti.***

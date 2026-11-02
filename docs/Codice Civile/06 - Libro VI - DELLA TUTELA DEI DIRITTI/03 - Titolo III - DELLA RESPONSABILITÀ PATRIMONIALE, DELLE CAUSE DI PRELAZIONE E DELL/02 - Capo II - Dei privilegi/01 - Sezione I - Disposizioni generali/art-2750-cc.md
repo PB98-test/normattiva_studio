@@ -14,8 +14,8 @@ capo_label: "Dei privilegi"
 sezione: "I"
 sezione_label: "Disposizioni generali"
 rubrica: "Privilegi marittimi, aeronautici e privilegi stabiliti da leggi speciali"
-dataVigenza: "20260914"
-ordine: 3055
+dataVigenza: "20261102"
+ordine: 3056
 ---
 
 # Art. 2750 - ***Privilegi marittimi, aeronautici e privilegi stabiliti da leggi speciali***

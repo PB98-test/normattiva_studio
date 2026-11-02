@@ -15,8 +15,8 @@ sezione: "II"
 sezione_label: "Dei privilegi sui mobili § 1 Dei privilegi generali sui mobili"
 rubrica: null
 abrogato: true
-dataVigenza: "20260914"
-ordine: 3072
+dataVigenza: "20261102"
+ordine: 3073
 ---
 
 # Art. 2766 - *(Omissis)*

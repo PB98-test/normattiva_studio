@@ -325,7 +325,7 @@ aliases:
 - [Art. 238](01%20-%20Libro%20I%20-%20DEI%20REATI%20IN%20GENERALE/08%20-%20Titolo%20VIII%20-%20DELLE%20MISURE%20AMMINISTRATIVE%20DI%20SICUREZZA/02%20-%20Capo%20II%20-%20Delle%20misure%20di%20sicurezza%20patrimoniali/art-238-cp.md) - Inadempimento dell'obbligo di prestare cauzione
 - [Art. 239](01%20-%20Libro%20I%20-%20DEI%20REATI%20IN%20GENERALE/08%20-%20Titolo%20VIII%20-%20DELLE%20MISURE%20AMMINISTRATIVE%20DI%20SICUREZZA/02%20-%20Capo%20II%20-%20Delle%20misure%20di%20sicurezza%20patrimoniali/art-239-cp.md) - Adempimento o trasgressione dell'obbligo di buona condotta
 - [Art. 240](01%20-%20Libro%20I%20-%20DEI%20REATI%20IN%20GENERALE/08%20-%20Titolo%20VIII%20-%20DELLE%20MISURE%20AMMINISTRATIVE%20DI%20SICUREZZA/02%20-%20Capo%20II%20-%20Delle%20misure%20di%20sicurezza%20patrimoniali/art-240-cp.md) - Confisca
-- [Art. 240-bis](01%20-%20Libro%20I%20-%20DEI%20REATI%20IN%20GENERALE/08%20-%20Titolo%20VIII%20-%20DELLE%20MISURE%20AMMINISTRATIVE%20DI%20SICUREZZA/02%20-%20Capo%20II%20-%20Delle%20misure%20di%20sicurezza%20patrimoniali/art-240-bis-cp.md) - Confisca in casi particolari
+- [Art. 240-bis](01%20-%20Libro%20I%20-%20DEI%20REATI%20IN%20GENERALE/08%20-%20Titolo%20VIII%20-%20DELLE%20MISURE%20AMMINISTRATIVE%20DI%20SICUREZZA/02%20-%20Capo%20II%20-%20Delle%20misure%20di%20sicurezza%20patrimoniali/art-240-bis-cp.md) - Confisca dei beni nei confronti dei terzi in casi particolari
 
 ## Libro II - DEI DELITTI IN PARTICOLARE
 
@@ -1200,3 +1200,10 @@ aliases:
 
 ### Titolo II-bis - DELLE CONTRAVVENZIONI CONCERNENTI LA TUTELA DELLA RISERVATEZZA
 - [Art. 734-bis](03%20-%20Libro%20III%20-%20DELLE%20CONTRAVVENZIONI%20IN%20PARTICOLARE/03%20-%20Titolo%20II-bis%20-%20DELLE%20CONTRAVVENZIONI%20CONCERNENTI%20LA%20TUTELA%20DELLA%20RISERVATEZZA/art-734-bis-cp.md) - Divulgazione delle generalità o dell'immagine di persona offesa da atti di violenza sessuale
+
+## Non classificati
+
+*(trovati nel testo ma assenti dalla mappa struttura - verificare indice_cp.md o rigenerare la struttura)*
+
+- [Art. 420-bis](_non_classificati/art-420-bis-cp.md)
+- [Art. 635.1](_non_classificati/art-635.1-cp.md)

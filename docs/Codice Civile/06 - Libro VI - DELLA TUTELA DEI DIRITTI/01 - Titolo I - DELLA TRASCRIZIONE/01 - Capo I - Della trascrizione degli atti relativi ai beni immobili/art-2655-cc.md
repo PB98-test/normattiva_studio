@@ -14,8 +14,8 @@ capo_label: "Della trascrizione degli atti relativi ai beni immobili"
 sezione: null
 sezione_label: null
 rubrica: "Annotazione di atti e di sentenze"
-dataVigenza: "20261016"
-ordine: 2957
+dataVigenza: "20261102"
+ordine: 2958
 ---
 
 # Art. 2655 - ***Annotazione di atti e di sentenze***

@@ -14,8 +14,8 @@ capo_label: "Della pubblicità dei registri immobiliari e della responsabilità 
 sezione: null
 sezione_label: null
 rubrica: "Tenuta del registro generale d'ordine"
-dataVigenza: "20260914"
-ordine: 2985
+dataVigenza: "20261102"
+ordine: 2986
 ---
 
 # Art. 2680 - ***Tenuta del registro generale d'ordine***

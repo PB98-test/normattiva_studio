@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "V"
 sezione_label: "Dell'iscrizione e rinnovazione delle ipoteche § 1 Dell'iscrizione"
 rubrica: "Iscrizione in base a scrittura privata"
-dataVigenza: "20260914"
-ordine: 3145
+dataVigenza: "20261102"
+ordine: 3146
 ---
 
 # Art. 2835 - ***Iscrizione in base a scrittura privata***

@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "V"
 sezione_label: "Dell'iscrizione e rinnovazione delle ipoteche § 1 Dell'iscrizione"
 rubrica: "Formalità per la rinnovazione"
-dataVigenza: "20260914"
-ordine: 3160
+dataVigenza: "20261102"
+ordine: 3161
 ---
 
 # Art. 2850 - ***Formalità per la rinnovazione***

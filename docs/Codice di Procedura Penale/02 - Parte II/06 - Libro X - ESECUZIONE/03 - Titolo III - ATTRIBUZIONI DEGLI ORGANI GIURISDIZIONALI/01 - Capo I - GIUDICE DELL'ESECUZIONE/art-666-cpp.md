@@ -16,8 +16,8 @@ capo_label: "GIUDICE DELL'ESECUZIONE"
 sezione: null
 sezione_label: null
 rubrica: "Procedimento di esecuzione"
-dataVigenza: "20261016"
-ordine: 797
+dataVigenza: "20261102"
+ordine: 798
 ---
 
 # Art. 666 - ***Procedimento di esecuzione***

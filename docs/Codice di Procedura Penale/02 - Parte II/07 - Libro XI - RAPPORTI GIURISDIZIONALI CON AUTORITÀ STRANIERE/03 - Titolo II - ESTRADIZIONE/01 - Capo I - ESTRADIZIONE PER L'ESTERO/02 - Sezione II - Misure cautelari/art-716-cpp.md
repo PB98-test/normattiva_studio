@@ -16,8 +16,8 @@ capo_label: "ESTRADIZIONE PER L'ESTERO"
 sezione: "II"
 sezione_label: "Misure cautelari"
 rubrica: "Arresto da parte della polizia giudiziaria"
-dataVigenza: "20261016"
-ordine: 856
+dataVigenza: "20261102"
+ordine: 857
 ---
 
 # Art. 716 - ***Arresto da parte della polizia giudiziaria***

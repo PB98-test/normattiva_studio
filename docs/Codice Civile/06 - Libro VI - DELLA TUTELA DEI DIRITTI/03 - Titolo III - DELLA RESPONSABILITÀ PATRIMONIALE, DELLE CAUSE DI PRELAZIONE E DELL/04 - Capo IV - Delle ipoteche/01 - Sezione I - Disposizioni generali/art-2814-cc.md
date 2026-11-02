@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "I"
 sezione_label: "Disposizioni generali"
 rubrica: "Ipoteca sull'usufrutto e sulla nuda proprietà"
-dataVigenza: "20260914"
-ordine: 3123
+dataVigenza: "20261102"
+ordine: 3124
 ---
 
 # Art. 2814 - ***Ipoteca sull'usufrutto e sulla nuda proprietà***

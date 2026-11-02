@@ -16,7 +16,7 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Attività integrativa di indagine del pubblico ministero e del difensore"
-dataVigenza: "20261016"
+dataVigenza: "20261102"
 ordine: 524
 ---
 
@@ -24,4 +24,6 @@ ordine: 524
 
 1\. Successivamente all'emissione del decreto che dispone il giudizio, il pubblico ministero e il difensore possono, ai fini delle proprie richieste al giudice del dibattimento, compiere attività integrativa di indagine, fatta eccezione degli atti pe ri quali è prevista la partecipazione dell'imputato o del difensore di questo.
 
-2\. La documentazione relativa all'attività indicata nel comma 1 è immediatamente depositata nella segreteria del pubblico ministero con facoltà delle parti di prenderne visione e di estrarne copia)).
+1-bis. Il pubblico ministero può compiere ogni attività di indagine che si renda necessaria al fine di individuare i beni, il denaro o le altre utilità da sottoporre a confisca obbligatoria nei casi previsti dalla legge.
+
+2\. La documentazione relativa all'attività indicata nel commi 1 e 1-bis è immediatamente depositata nella segreteria del pubblico ministero con facoltà delle parti di prenderne visione e di estrarne copia.

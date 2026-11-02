@@ -14,8 +14,8 @@ capo_label: "Del pegno"
 sezione: "II"
 sezione_label: "Del pegno dei beni mobili"
 rubrica: "Costituzione"
-dataVigenza: "20260914"
-ordine: 3095
+dataVigenza: "20261102"
+ordine: 3096
 ---
 
 # Art. 2786 - ***Costituzione***

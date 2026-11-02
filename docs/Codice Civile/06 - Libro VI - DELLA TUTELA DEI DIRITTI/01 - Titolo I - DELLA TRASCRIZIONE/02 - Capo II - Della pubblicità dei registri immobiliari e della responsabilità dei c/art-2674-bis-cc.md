@@ -14,8 +14,8 @@ capo_label: "Della pubblicità dei registri immobiliari e della responsabilità 
 sezione: null
 sezione_label: null
 rubrica: "Trascrizione e iscrizione con riserva e impugnazione"
-dataVigenza: "20260914"
-ordine: 2979
+dataVigenza: "20261102"
+ordine: 2980
 ---
 
 # Art. 2674-bis - ***Trascrizione e iscrizione con riserva e impugnazione***

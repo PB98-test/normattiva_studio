@@ -16,8 +16,8 @@ capo_label: "ESTRADIZIONE DALL'ESTERO"
 sezione: null
 sezione_label: null
 rubrica: "Riparazione per ingiusta detenzione"
-dataVigenza: "20261016"
-ordine: 864
+dataVigenza: "20261102"
+ordine: 865
 ---
 
 # Art. 722-bis - ***Riparazione per ingiusta detenzione***

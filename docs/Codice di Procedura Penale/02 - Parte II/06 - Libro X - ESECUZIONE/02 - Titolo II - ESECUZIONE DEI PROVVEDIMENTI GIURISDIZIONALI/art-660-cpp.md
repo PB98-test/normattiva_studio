@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Esecuzione delle pene pecuniarie"
-dataVigenza: "20261016"
-ordine: 791
+dataVigenza: "20261102"
+ordine: 792
 ---
 
 # Art. 660 - ***Esecuzione delle pene pecuniarie***

@@ -14,8 +14,8 @@ capo_label: "Delle ipoteche"
 sezione: "XII"
 sezione_label: "Del modo di liberare i beni dalle ipoteche"
 rubrica: "Effetti del mancato deposito del prezzo"
-dataVigenza: "20260914"
-ordine: 3204
+dataVigenza: "20261102"
+ordine: 3205
 ---
 
 # Art. 2894 - ***Effetti del mancato deposito del prezzo***

@@ -16,8 +16,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Dibattimento"
-dataVigenza: "20261016"
-ordine: 676
+dataVigenza: "20261102"
+ordine: 677
 ---
 
 # Art. 559 - ***Dibattimento***

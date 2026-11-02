@@ -16,8 +16,8 @@ capo_label: "MAGISTRATURA DI SORVEGLIANZA"
 sezione: null
 sezione_label: null
 rubrica: "Competenza per territorio"
-dataVigenza: "20261016"
-ordine: 808
+dataVigenza: "20261102"
+ordine: 809
 ---
 
 # Art. 677 - ***Competenza per territorio***

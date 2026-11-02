@@ -14,8 +14,8 @@ capo_label: "Della prova documentale"
 sezione: "II"
 sezione_label: "Della scrittura privata"
 rubrica: "Carte e registri domestici"
-dataVigenza: "20260914"
-ordine: 3012
+dataVigenza: "20261102"
+ordine: 3013
 ---
 
 # Art. 2707 - ***Carte e registri domestici***
