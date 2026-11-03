@@ -14,8 +14,8 @@ capo_label: "Delle contravvenzioni concernenti la polizia di sicurezza"
 sezione: "II"
 sezione_label: "Delle contravvenzioni concernenti l'incolumità pubblica § 1 Delle contravvenzioni concernenti l'incolumità delle persone nei luoghi di pubblico transito o nelle abitazioni"
 rubrica: "Omessa custodia e mal governo di animali"
-dataVigenza: "20261016"
-ordine: 929
+dataVigenza: "20261103"
+ordine: 933
 ---
 
 # Art. 672 - ***Omessa custodia e mal governo di animali***

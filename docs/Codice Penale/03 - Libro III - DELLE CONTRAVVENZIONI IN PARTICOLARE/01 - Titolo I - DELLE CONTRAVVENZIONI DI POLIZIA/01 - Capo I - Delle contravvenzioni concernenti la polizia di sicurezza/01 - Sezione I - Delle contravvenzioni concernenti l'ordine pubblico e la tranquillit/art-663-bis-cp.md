@@ -14,8 +14,8 @@ capo_label: "Delle contravvenzioni concernenti la polizia di sicurezza"
 sezione: "I"
 sezione_label: "Delle contravvenzioni concernenti l'ordine pubblico e la tranquillità pubblica § 1 Delle contravvenzioni concernenti l'inosservanza dei provvedimenti di polizia e le manifestazioni sediziose e pericolose"
 rubrica: "Divulgazione di stampa clandestina"
-dataVigenza: "20260930"
-ordine: 919
+dataVigenza: "20261103"
+ordine: 923
 ---
 
 # Art. 663-bis - ***Divulgazione di stampa clandestina***

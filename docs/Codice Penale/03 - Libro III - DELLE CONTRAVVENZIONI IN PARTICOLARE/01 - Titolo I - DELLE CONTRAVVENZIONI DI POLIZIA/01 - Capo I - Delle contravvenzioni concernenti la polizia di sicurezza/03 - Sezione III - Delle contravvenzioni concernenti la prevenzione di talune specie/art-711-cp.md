@@ -15,8 +15,8 @@ sezione: "III"
 sezione_label: "Delle contravvenzioni concernenti la prevenzione di talune specie di reati § 1 Delle contravvenzioni concernenti la tutela preventiva dei segreti"
 rubrica: null
 abrogato: true
-dataVigenza: "20260930"
-ordine: 971
+dataVigenza: "20261103"
+ordine: 975
 ---
 
 # Art. 711 - *(Omissis)*

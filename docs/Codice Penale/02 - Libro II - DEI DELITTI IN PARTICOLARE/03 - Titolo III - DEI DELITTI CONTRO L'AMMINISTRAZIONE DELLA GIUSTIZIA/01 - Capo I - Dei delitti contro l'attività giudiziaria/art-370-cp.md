@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'attività giudiziaria"
 sezione: null
 sezione_label: null
 rubrica: "Simulazione o calunnia per un fatto costituente contravvenzione"
-dataVigenza: "20260914"
-ordine: 439
+dataVigenza: "20261103"
+ordine: 441
 ---
 
 # Art. 370 - ***Simulazione o calunnia per un fatto costituente contravvenzione***

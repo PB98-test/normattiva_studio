@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'industria e il commercio"
 sezione: null
 sezione_label: null
 rubrica: "Frode nell'esercizio del commercio"
-dataVigenza: "20260930"
-ordine: 641
+dataVigenza: "20261103"
+ordine: 644
 ---
 
 # Art. 515 - ***Frode nell'esercizio del commercio***

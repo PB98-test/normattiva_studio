@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'onore"
 sezione: null
 sezione_label: null
 rubrica: "Diffamazione col mezzo della stampa"
-dataVigenza: "20260930"
-ordine: 778
+dataVigenza: "20261103"
+ordine: 781
 ---
 
 # Art. 596-bis - ***Diffamazione col mezzo della stampa***

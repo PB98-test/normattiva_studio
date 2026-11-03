@@ -14,8 +14,8 @@ capo_label: "Della falsità in atti"
 sezione: null
 sezione_label: null
 rubrica: "Falsità materiale commessa dal pubblico ufficiale in certificati o autorizzazioni amministrative"
-dataVigenza: "20260930"
-ordine: 592
+dataVigenza: "20261103"
+ordine: 595
 ---
 
 # Art. 477 - ***Falsità materiale commessa dal pubblico ufficiale in certificati o autorizzazioni amministrative***

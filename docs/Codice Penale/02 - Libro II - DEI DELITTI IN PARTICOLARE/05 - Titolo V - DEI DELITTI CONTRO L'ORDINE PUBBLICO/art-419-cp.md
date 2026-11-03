@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Devastazione e saccheggio"
-dataVigenza: "20261102"
-ordine: 507
+dataVigenza: "20261103"
+ordine: 509
 ---
 
 # Art. 419 - ***Devastazione e saccheggio***

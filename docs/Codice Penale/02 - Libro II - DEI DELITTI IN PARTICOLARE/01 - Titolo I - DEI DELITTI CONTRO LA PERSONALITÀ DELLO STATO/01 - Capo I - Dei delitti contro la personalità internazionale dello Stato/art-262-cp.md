@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la personalità internazionale dello Stato"
 sezione: null
 sezione_label: null
 rubrica: "Rivelazione di notizie di cui sia stata vietata la divulgazione"
-dataVigenza: "20261016"
-ordine: 285
+dataVigenza: "20261103"
+ordine: 287
 ---
 
 # Art. 262 - ***Rivelazione di notizie di cui sia stata vietata la divulgazione***

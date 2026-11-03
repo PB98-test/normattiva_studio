@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'onore"
 sezione: null
 sezione_label: null
 rubrica: "Diffamazione"
-dataVigenza: "20260930"
-ordine: 776
+dataVigenza: "20261103"
+ordine: 779
 ---
 
 # Art. 595 - ***Diffamazione***

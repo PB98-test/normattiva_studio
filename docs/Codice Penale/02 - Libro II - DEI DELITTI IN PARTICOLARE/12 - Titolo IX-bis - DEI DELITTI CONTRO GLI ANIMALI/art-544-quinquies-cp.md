@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Divieto di combattimenti tra animali"
-dataVigenza: "20260930"
-ordine: 701
+dataVigenza: "20261103"
+ordine: 704
 ---
 
 # Art. 544-quinquies - ***Divieto di combattimenti tra animali***

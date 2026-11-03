@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Rivolta all'interno di un istituto penitenziario"
-dataVigenza: "20260914"
-ordine: 500
+dataVigenza: "20261103"
+ordine: 502
 ---
 
 # Art. 415-bis - ***Rivolta all'interno di un istituto penitenziario***

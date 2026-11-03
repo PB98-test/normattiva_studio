@@ -14,8 +14,8 @@ capo_label: "Dei delitti dei privati contro la pubblica Amministrazione"
 sezione: null
 sezione_label: null
 rubrica: "Occultamento, custodia o alterazione di mezzi di trasporto"
-dataVigenza: "20260914"
-ordine: 401
+dataVigenza: "20261103"
+ordine: 403
 ---
 
 # Art. 337-bis - ***Occultamento, custodia o alterazione di mezzi di trasporto***

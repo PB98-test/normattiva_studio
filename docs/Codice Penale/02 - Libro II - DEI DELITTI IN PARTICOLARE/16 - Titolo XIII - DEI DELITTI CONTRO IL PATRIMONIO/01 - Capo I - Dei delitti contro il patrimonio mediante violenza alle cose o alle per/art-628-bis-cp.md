@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro il patrimonio mediante violenza alle cose o alle
 sezione: null
 sezione_label: null
 rubrica: "Rapina aggravata commessa da un gruppo organizzato"
-dataVigenza: "20260930"
-ordine: 863
+dataVigenza: "20261103"
+ordine: 866
 ---
 
 # Art. 628-bis - ***Rapina aggravata commessa da un gruppo organizzato***

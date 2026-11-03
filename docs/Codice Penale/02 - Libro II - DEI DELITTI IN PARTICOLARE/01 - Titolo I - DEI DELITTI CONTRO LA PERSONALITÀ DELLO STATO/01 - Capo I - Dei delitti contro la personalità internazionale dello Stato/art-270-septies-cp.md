@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la personalità internazionale dello Stato"
 sezione: null
 sezione_label: null
 rubrica: "Confisca"
-dataVigenza: "20261016"
-ordine: 304
+dataVigenza: "20261103"
+ordine: 306
 ---
 
 # Art. 270-septies - ***Confisca***

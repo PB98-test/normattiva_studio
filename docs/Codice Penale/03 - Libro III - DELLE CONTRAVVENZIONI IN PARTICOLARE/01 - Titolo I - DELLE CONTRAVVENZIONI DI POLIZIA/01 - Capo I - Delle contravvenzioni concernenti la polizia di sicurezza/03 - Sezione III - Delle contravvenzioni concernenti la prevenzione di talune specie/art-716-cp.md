@@ -14,8 +14,8 @@ capo_label: "Delle contravvenzioni concernenti la polizia di sicurezza"
 sezione: "III"
 sezione_label: "Delle contravvenzioni concernenti la prevenzione di talune specie di reati § 1 Delle contravvenzioni concernenti la tutela preventiva dei segreti"
 rubrica: "Omesso avviso all'Autorità dell'evasione o fuga ... di minori"
-dataVigenza: "20260930"
-ordine: 976
+dataVigenza: "20261103"
+ordine: 980
 ---
 
 # Art. 716 - ***Omesso avviso all'Autorità dell'evasione o fuga ... di minori***

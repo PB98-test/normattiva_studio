@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Divulgazione delle generalità o dell'immagine di persona offesa da atti di violenza sessuale"
-dataVigenza: "20260930"
-ordine: 997
+dataVigenza: "20261103"
+ordine: 1001
 ---
 
 # Art. 734-bis - ***Divulgazione delle generalità o dell'immagine di persona offesa da atti di violenza sessuale***

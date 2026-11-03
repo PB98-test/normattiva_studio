@@ -14,8 +14,8 @@ capo_label: "Delle contravvenzioni concernenti la polizia amministrativa sociale
 sezione: "I"
 sezione_label: "Delle contravvenzioni concernenti la polizia dei costumi"
 rubrica: "Esercizio abusivo di un giuoco non d'azzardo"
-dataVigenza: "20260930"
-ordine: 983
+dataVigenza: "20261103"
+ordine: 987
 ---
 
 # Art. 723 - ***Esercizio abusivo di un giuoco non d'azzardo***

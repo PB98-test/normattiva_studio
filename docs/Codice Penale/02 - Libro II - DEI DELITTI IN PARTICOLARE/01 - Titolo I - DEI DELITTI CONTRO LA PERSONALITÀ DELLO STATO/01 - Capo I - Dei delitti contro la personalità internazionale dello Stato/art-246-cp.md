@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la personalità internazionale dello Stato"
 sezione: null
 sezione_label: null
 rubrica: "Corruzione del cittadino da parte dello straniero"
-dataVigenza: "20261016"
-ordine: 269
+dataVigenza: "20261103"
+ordine: 271
 ---
 
 # Art. 246 - ***Corruzione del cittadino da parte dello straniero***

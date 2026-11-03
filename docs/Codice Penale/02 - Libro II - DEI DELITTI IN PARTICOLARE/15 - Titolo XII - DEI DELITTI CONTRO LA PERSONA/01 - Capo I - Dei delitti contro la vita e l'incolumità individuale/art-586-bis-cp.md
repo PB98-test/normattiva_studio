@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la vita e l'incolumità individuale"
 sezione: null
 sezione_label: null
 rubrica: "Utilizzo o somministrazione di farmaci o di altre sostanze al fine di alterare le prestazioni agonistiche degli atleti"
-dataVigenza: "20260930"
-ordine: 758
+dataVigenza: "20261103"
+ordine: 761
 ---
 
 # Art. 586-bis - ***Utilizzo o somministrazione di farmaci o di altre sostanze al fine di alterare le prestazioni agonistiche degli atleti***

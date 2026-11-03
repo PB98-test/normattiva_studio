@@ -14,8 +14,8 @@ capo_label: "Dei delitti di comune pericolo mediante violenza"
 sezione: null
 sezione_label: null
 rubrica: "Rimozione od omissione dolosa di cautele contro infortuni sul lavoro"
-dataVigenza: "20261016"
-ordine: 531
+dataVigenza: "20261103"
+ordine: 534
 ---
 
 # Art. 437 - ***Rimozione od omissione dolosa di cautele contro infortuni sul lavoro***

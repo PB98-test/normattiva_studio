@@ -14,8 +14,8 @@ capo_label: "Della falsità in sigilli o strumenti o segni di autenticazione, ce
 sezione: null
 sezione_label: null
 rubrica: "Circostanza attenuante"
-dataVigenza: "20260930"
-ordine: 589
+dataVigenza: "20261103"
+ordine: 592
 ---
 
 # Art. 474-quater - ***Circostanza attenuante***

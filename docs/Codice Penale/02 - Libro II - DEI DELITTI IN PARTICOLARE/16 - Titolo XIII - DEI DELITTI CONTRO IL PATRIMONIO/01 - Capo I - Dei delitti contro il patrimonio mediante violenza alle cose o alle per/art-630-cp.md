@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro il patrimonio mediante violenza alle cose o alle
 sezione: null
 sezione_label: null
 rubrica: "Sequestro di persona a scopo di estorsione"
-dataVigenza: "20261016"
-ordine: 865
+dataVigenza: "20261103"
+ordine: 868
 ---
 
 # Art. 630 - ***Sequestro di persona a scopo di estorsione***

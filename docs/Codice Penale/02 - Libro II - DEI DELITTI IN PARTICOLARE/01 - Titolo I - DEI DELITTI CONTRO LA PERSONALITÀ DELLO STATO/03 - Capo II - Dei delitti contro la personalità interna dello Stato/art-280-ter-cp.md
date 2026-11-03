@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la personalità interna dello Stato"
 sezione: null
 sezione_label: null
 rubrica: "Atti di terrorismo nucleare"
-dataVigenza: "20260914"
-ordine: 325
+dataVigenza: "20261103"
+ordine: 327
 ---
 
 # Art. 280-ter - ***Atti di terrorismo nucleare***

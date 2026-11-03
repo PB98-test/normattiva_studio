@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Appropriazione indebita di beni culturali"
-dataVigenza: "20260930"
-ordine: 655
+dataVigenza: "20261103"
+ordine: 658
 ---
 
 # Art. 518-ter - ***Appropriazione indebita di beni culturali***

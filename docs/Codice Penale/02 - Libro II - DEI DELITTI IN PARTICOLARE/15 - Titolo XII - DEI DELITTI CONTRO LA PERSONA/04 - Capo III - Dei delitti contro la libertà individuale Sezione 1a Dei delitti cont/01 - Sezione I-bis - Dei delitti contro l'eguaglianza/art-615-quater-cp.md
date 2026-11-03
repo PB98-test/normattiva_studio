@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la libertà individuale Sezione 1a Dei delitti c
 sezione: "I-bis"
 sezione_label: "Dei delitti contro l'eguaglianza"
 rubrica: "Detenzione, diffusione e installazione abusiva di apparecchiature, codici e altri mezzi atti all'accesso a sistemi informatici o telematici"
-dataVigenza: "20260930"
-ordine: 837
+dataVigenza: "20261103"
+ordine: 840
 ---
 
 # Art. 615-quater - ***Detenzione, diffusione e installazione abusiva di apparecchiature, codici e altri mezzi atti all'accesso a sistemi informatici o telematici***

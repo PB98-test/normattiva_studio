@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Importazione illecita di beni culturali"
-dataVigenza: "20260930"
-ordine: 662
+dataVigenza: "20261103"
+ordine: 665
 ---
 
 # Art. 518-decies - ***Importazione illecita di beni culturali***

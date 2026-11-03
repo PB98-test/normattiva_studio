@@ -14,8 +14,8 @@ capo_label: "Dei delitti di comune pericolo mediante violenza"
 sezione: null
 sezione_label: null
 rubrica: "Omessa adozione di misure di sicurezza nei sistemi di intelligenza artificiale e alterazione illecita dei sistemi"
-dataVigenza: "20261016"
-ordine: 532
+dataVigenza: "20261103"
+ordine: 535
 ---
 
 # Art. 437-bis - ***Omessa adozione di misure di sicurezza nei sistemi di intelligenza artificiale e alterazione illecita dei sistemi***

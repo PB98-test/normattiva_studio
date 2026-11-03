@@ -14,8 +14,8 @@ capo_label: "Della tutela arbitraria delle private ragioni"
 sezione: null
 sezione_label: null
 rubrica: "Causa di non punibilità"
-dataVigenza: "20260914"
-ordine: 476
+dataVigenza: "20261103"
+ordine: 478
 ---
 
 # Art. 393-bis - ***Causa di non punibilità***

@@ -14,8 +14,8 @@ capo_label: "Dei delitti dei privati contro la pubblica Amministrazione"
 sezione: null
 sezione_label: null
 rubrica: "Oltraggio a pubblico ufficiale"
-dataVigenza: "20260914"
-ordine: 407
+dataVigenza: "20261103"
+ordine: 409
 ---
 
 # Art. 341-bis - ***Oltraggio a pubblico ufficiale***

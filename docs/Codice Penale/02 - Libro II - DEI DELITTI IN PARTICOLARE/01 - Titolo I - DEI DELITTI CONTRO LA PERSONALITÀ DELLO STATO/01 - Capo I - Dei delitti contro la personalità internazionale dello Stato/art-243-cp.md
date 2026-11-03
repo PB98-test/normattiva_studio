@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la personalità internazionale dello Stato"
 sezione: null
 sezione_label: null
 rubrica: "Intelligenze con lo straniero a scopo di guerra contro lo Stato italiano"
-dataVigenza: "20261016"
-ordine: 266
+dataVigenza: "20261103"
+ordine: 268
 ---
 
 # Art. 243 - ***Intelligenze con lo straniero a scopo di guerra contro lo Stato italiano***

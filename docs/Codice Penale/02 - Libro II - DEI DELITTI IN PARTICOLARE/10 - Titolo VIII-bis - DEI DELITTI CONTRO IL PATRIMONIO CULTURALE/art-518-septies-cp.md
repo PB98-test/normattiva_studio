@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Autoriciclaggio di beni culturali"
-dataVigenza: "20260930"
-ordine: 659
+dataVigenza: "20261103"
+ordine: 662
 ---
 
 # Art. 518-septies - ***Autoriciclaggio di beni culturali***

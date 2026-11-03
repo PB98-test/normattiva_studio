@@ -14,8 +14,8 @@ capo_label: "Delitti contro la politica estera e la sicurezza comune dell'Unione
 sezione: null
 sezione_label: null
 rubrica: "Confisca obbligatoria"
-dataVigenza: "20261016"
-ordine: 316
+dataVigenza: "20261103"
+ordine: 318
 ---
 
 # Art. 275-octies - ***Confisca obbligatoria***

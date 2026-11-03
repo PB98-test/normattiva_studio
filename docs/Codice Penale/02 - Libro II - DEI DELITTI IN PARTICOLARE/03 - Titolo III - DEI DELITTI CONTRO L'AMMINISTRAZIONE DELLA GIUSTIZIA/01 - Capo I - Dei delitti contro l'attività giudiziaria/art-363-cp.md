@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'attività giudiziaria"
 sezione: null
 sezione_label: null
 rubrica: "Omessa denuncia aggravata"
-dataVigenza: "20260914"
-ordine: 432
+dataVigenza: "20261103"
+ordine: 434
 ---
 
 # Art. 363 - ***Omessa denuncia aggravata***

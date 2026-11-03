@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Uscita o esportazione illecite di beni culturali"
-dataVigenza: "20260930"
-ordine: 663
+dataVigenza: "20261103"
+ordine: 666
 ---
 
 # Art. 518-undecies - ***Uscita o esportazione illecite di beni culturali***

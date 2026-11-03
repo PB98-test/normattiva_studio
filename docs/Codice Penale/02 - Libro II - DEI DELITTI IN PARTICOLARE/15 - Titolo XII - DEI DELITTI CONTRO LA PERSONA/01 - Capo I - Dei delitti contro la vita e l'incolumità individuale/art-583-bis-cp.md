@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la vita e l'incolumità individuale"
 sezione: null
 sezione_label: null
 rubrica: "Pratiche di mutilazione degli organi genitali femminili"
-dataVigenza: "20261016"
-ordine: 750
+dataVigenza: "20261103"
+ordine: 753
 ---
 
 # Art. 583-bis - ***Pratiche di mutilazione degli organi genitali femminili***

@@ -14,8 +14,8 @@ capo_label: "Della falsità in atti"
 sezione: null
 sezione_label: null
 rubrica: "Falsità ideologica commessa dal privato in atto pubblico"
-dataVigenza: "20261016"
-ordine: 598
+dataVigenza: "20261103"
+ordine: 601
 ---
 
 # Art. 483 - ***Falsità ideologica commessa dal privato in atto pubblico***

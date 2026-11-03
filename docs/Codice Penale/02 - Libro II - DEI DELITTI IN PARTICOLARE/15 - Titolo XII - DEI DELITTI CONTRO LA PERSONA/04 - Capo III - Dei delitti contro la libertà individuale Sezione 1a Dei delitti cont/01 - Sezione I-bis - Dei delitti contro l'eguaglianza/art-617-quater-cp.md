@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la libertà individuale Sezione 1a Dei delitti c
 sezione: "I-bis"
 sezione_label: "Dei delitti contro l'eguaglianza"
 rubrica: "Intercettazione, impedimento o interruzione illecita di comunicazioni informatiche o telematiche"
-dataVigenza: "20261016"
-ordine: 843
+dataVigenza: "20261103"
+ordine: 846
 ---
 
 # Art. 617-quater - ***Intercettazione, impedimento o interruzione illecita di comunicazioni informatiche o telematiche***

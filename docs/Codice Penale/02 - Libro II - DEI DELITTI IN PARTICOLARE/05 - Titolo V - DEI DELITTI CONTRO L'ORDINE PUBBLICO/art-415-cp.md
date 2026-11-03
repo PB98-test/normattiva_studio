@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Istigazione a disobbedire alle leggi"
-dataVigenza: "20261016"
-ordine: 499
+dataVigenza: "20261103"
+ordine: 501
 ---
 
 # Art. 415 - ***Istigazione a disobbedire alle leggi***

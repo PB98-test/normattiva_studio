@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Associazioni di tipo mafioso anche straniere"
-dataVigenza: "20261102"
-ordine: 502
+dataVigenza: "20261103"
+ordine: 504
 ---
 
 # Art. 416-bis - ***Associazioni di tipo mafioso anche straniere***
@@ -38,7 +38,7 @@ L'associazione si considera armata quando i partecipanti hanno la disponibilità
 Se le attività economiche di cui gli associati intendono assumere o mantenere il controllo sono finanziate in tutto o in parte con il prezzo, il prodotto, o il profitto di delitti, le pene stabilite nei commi precedenti sono aumentate da un terzo alla metà.
 {: data-comma="6" }
 
-Nei confronti del condannato è sempre obbligatoria la confisca delle cose che servirono o furono destinate a commettere il reato e delle cose che ne sono il prezzo, il prodotto, il profitto o che ne costituiscono l'impiego. PERIODO ABROGATO DALLA L. 19 MARZO 1990, N. 55. Ove la confisca non sia possibile, è disposta la confisca di beni di cui il reo ha la disponibilità, anche indirettamente o per interposta persona, per un valore corrispondente al prezzo, al prodotto o al profitto del reato. [^agg-118]
+Nei confronti del condannato è sempre obbligatoria la confisca delle cose che servirono o furono destinate a commettere il reato e delle cose che ne sono il prezzo, il prodotto, il profitto o che ne costituiscono l'impiego. PERIODO ABROGATO DALLA L. 19 MARZO 1990, N. 55 Ove la confisca non sia possibile, è disposta la confisca di beni di cui il reo ha la disponibilità, anche indirettamente o per interposta persona, per un valore corrispondente al prezzo, al prodotto o al profitto del reato. [^agg-118]
 {: data-comma="7" }
 
 Le disposizioni del presente articolo si applicano anche alla camorra, alla 'ndrangheta e alle altre associazioni, comunque localmente denominate, anche straniere, che valendosi della forza intimidatrice del vincolo associativo perseguono scopi corrispondenti a quelli delle associazioni di tipo mafioso.   [^agg-96] [^agg-125] [^agg-233]

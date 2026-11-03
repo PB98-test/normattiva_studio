@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro il patrimonio mediante frode"
 sezione: null
 sezione_label: null
 rubrica: "Truffa"
-dataVigenza: "20261016"
-ordine: 884
+dataVigenza: "20261103"
+ordine: 888
 ---
 
 # Art. 640 - ***Truffa***

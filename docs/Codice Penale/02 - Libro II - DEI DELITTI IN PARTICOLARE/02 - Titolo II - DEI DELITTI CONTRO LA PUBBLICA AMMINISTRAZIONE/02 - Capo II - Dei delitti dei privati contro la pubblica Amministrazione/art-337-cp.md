@@ -14,8 +14,8 @@ capo_label: "Dei delitti dei privati contro la pubblica Amministrazione"
 sezione: null
 sezione_label: null
 rubrica: "Resistenza a un pubblico ufficiale"
-dataVigenza: "20261016"
-ordine: 400
+dataVigenza: "20261103"
+ordine: 402
 ---
 
 # Art. 337 - ***Resistenza a un pubblico ufficiale***

@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la personalità interna dello Stato"
 sezione: null
 sezione_label: null
 rubrica: "Vilipendio della Repubblica, delle Istituzioni costituzionali e delle Forze armate"
-dataVigenza: "20261016"
-ordine: 337
+dataVigenza: "20261103"
+ordine: 339
 ---
 
 # Art. 290 - ***Vilipendio della Repubblica, delle Istituzioni costituzionali e delle Forze armate***

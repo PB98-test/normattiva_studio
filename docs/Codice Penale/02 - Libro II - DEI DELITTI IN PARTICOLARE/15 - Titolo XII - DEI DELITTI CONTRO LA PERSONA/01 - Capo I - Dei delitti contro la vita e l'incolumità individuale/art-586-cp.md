@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la vita e l'incolumità individuale"
 sezione: null
 sezione_label: null
 rubrica: "Morte o lesioni come conseguenza di altro delitto"
-dataVigenza: "20260930"
-ordine: 757
+dataVigenza: "20261103"
+ordine: 760
 ---
 
 # Art. 586 - ***Morte o lesioni come conseguenza di altro delitto***

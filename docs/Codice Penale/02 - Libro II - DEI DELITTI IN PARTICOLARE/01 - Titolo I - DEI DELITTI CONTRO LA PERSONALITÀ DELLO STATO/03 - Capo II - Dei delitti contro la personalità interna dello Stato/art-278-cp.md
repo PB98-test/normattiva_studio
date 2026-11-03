@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la personalità interna dello Stato"
 sezione: null
 sezione_label: null
 rubrica: "Offese all'onore o al prestigio del Presidente della Repubblica"
-dataVigenza: "20260914"
-ordine: 321
+dataVigenza: "20261103"
+ordine: 323
 ---
 
 # Art. 278 - ***Offese all'onore o al prestigio del Presidente della Repubblica***

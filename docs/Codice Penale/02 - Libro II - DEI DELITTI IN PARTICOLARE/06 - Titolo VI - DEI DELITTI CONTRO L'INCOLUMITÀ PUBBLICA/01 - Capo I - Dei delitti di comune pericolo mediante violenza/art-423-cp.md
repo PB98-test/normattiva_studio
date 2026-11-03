@@ -14,8 +14,8 @@ capo_label: "Dei delitti di comune pericolo mediante violenza"
 sezione: null
 sezione_label: null
 rubrica: "Incendio"
-dataVigenza: "20261016"
-ordine: 512
+dataVigenza: "20261103"
+ordine: 515
 ---
 
 # Art. 423 - ***Incendio***

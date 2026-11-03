@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la personalità internazionale dello Stato"
 sezione: null
 sezione_label: null
 rubrica: "Rivelazione di segreti di Stato"
-dataVigenza: "20261016"
-ordine: 284
+dataVigenza: "20261103"
+ordine: 286
 ---
 
 # Art. 261 - ***Rivelazione di segreti di Stato***

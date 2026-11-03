@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro il matrimonio"
 sezione: null
 sezione_label: null
 rubrica: "Adulterio"
-dataVigenza: "20260930"
-ordine: 719
+dataVigenza: "20261103"
+ordine: 722
 ---
 
 # Art. 559 - ***Adulterio***

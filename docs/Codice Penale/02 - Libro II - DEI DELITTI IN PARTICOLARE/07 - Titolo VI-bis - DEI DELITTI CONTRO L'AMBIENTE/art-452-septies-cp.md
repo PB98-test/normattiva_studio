@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Impedimento del controllo"
-dataVigenza: "20260930"
-ordine: 554
+dataVigenza: "20261103"
+ordine: 557
 ---
 
 # Art. 452-septies - ***Impedimento del controllo***

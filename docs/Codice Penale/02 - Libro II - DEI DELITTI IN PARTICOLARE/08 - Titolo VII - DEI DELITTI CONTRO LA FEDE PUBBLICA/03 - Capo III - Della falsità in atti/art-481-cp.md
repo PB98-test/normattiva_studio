@@ -14,8 +14,8 @@ capo_label: "Della falsità in atti"
 sezione: null
 sezione_label: null
 rubrica: "Falsità ideologica in certificati commessa da persone esercenti un servizio di pubblica necessità"
-dataVigenza: "20260930"
-ordine: 596
+dataVigenza: "20261103"
+ordine: 599
 ---
 
 # Art. 481 - ***Falsità ideologica in certificati commessa da persone esercenti un servizio di pubblica necessità***

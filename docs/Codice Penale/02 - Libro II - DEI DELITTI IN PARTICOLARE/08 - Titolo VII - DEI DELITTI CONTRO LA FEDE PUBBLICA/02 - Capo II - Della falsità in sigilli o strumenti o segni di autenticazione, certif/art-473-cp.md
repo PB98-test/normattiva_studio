@@ -14,8 +14,8 @@ capo_label: "Della falsità in sigilli o strumenti o segni di autenticazione, ce
 sezione: null
 sezione_label: null
 rubrica: "Contraffazione, alterazione o uso di marchi o segni distintivi ovvero di brevetti, modelli e disegni"
-dataVigenza: "20261016"
-ordine: 585
+dataVigenza: "20261103"
+ordine: 588
 ---
 
 # Art. 473 - ***Contraffazione, alterazione o uso di marchi o segni distintivi ovvero di brevetti, modelli e disegni***

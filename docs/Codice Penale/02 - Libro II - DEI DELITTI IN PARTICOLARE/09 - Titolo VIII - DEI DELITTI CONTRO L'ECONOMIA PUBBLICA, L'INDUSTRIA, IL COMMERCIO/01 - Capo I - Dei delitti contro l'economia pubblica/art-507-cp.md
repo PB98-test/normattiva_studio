@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'economia pubblica"
 sezione: null
 sezione_label: null
 rubrica: "Boicottaggio"
-dataVigenza: "20261016"
-ordine: 631
+dataVigenza: "20261103"
+ordine: 634
 ---
 
 # Art. 507 - ***Boicottaggio***

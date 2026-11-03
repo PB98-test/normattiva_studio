@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la personalità internazionale dello Stato"
 sezione: null
 sezione_label: null
 rubrica: "Organizzazione di trasferimenti per finalità di terrorismo"
-dataVigenza: "20261016"
-ordine: 298
+dataVigenza: "20261103"
+ordine: 300
 ---
 
 # Art. 270-quater.1 - ***Organizzazione di trasferimenti per finalità di terrorismo***

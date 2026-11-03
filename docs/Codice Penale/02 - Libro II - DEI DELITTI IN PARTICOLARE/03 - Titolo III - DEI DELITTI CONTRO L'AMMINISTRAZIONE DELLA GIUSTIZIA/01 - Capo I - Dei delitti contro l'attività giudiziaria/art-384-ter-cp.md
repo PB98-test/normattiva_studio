@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'attività giudiziaria"
 sezione: null
 sezione_label: null
 rubrica: "Circostanze speciali"
-dataVigenza: "20260914"
-ordine: 461
+dataVigenza: "20261103"
+ordine: 463
 ---
 
 # Art. 384-ter - ***Circostanze speciali***

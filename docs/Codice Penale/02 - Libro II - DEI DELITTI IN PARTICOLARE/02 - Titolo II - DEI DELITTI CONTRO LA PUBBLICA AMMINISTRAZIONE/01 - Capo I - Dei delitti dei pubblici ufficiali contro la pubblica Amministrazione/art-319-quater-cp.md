@@ -14,8 +14,8 @@ capo_label: "Dei delitti dei pubblici ufficiali contro la pubblica Amministrazio
 sezione: null
 sezione_label: null
 rubrica: "Induzione indebita a dare o promettere utilità"
-dataVigenza: "20261016"
-ordine: 375
+dataVigenza: "20261103"
+ordine: 377
 ---
 
 # Art. 319-quater - ***Induzione indebita a dare o promettere utilità***

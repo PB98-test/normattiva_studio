@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro il matrimonio"
 sezione: null
 sezione_label: null
 rubrica: "Estinzione del reato"
-dataVigenza: "20261016"
-ordine: 723
+dataVigenza: "20261103"
+ordine: 726
 ---
 
 # Art. 563 - ***Estinzione del reato***

@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'industria e il commercio"
 sezione: null
 sezione_label: null
 rubrica: "Vendita di prodotti industriali con segni mendaci"
-dataVigenza: "20260930"
-ordine: 643
+dataVigenza: "20261103"
+ordine: 646
 ---
 
 # Art. 517 - ***Vendita di prodotti industriali con segni mendaci***

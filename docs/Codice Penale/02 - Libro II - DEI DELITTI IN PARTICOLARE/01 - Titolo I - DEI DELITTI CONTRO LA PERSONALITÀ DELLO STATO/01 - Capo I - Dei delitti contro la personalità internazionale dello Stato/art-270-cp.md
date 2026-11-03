@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la personalità internazionale dello Stato"
 sezione: null
 sezione_label: null
 rubrica: "Associazioni sovversive"
-dataVigenza: "20260914"
-ordine: 293
+dataVigenza: "20261103"
+ordine: 295
 ---
 
 # Art. 270 - ***Associazioni sovversive***

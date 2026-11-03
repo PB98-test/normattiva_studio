@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro il patrimonio mediante violenza alle cose o alle
 sezione: null
 sezione_label: null
 rubrica: "Invasione di terreni o edifici"
-dataVigenza: "20261016"
-ordine: 868
+dataVigenza: "20261103"
+ordine: 871
 ---
 
 # Art. 633 - ***Invasione di terreni o edifici***

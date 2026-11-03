@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Impiego di beni culturali provenienti da delitto"
-dataVigenza: "20260930"
-ordine: 657
+dataVigenza: "20261103"
+ordine: 660
 ---
 
 # Art. 518-quinquies - ***Impiego di beni culturali provenienti da delitto***

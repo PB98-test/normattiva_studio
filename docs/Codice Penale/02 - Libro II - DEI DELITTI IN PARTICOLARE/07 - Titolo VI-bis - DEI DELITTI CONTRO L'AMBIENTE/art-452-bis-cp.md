@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Inquinamento ambientale"
-dataVigenza: "20260930"
-ordine: 548
+dataVigenza: "20261103"
+ordine: 551
 ---
 
 # Art. 452-bis - ***Inquinamento ambientale***

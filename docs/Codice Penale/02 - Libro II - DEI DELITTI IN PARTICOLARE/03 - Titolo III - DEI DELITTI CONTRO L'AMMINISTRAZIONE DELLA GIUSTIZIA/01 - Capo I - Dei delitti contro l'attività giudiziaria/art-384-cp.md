@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'attività giudiziaria"
 sezione: null
 sezione_label: null
 rubrica: "Casi di non punibilità"
-dataVigenza: "20261016"
-ordine: 459
+dataVigenza: "20261103"
+ordine: 461
 ---
 
 # Art. 384 - ***Casi di non punibilità***

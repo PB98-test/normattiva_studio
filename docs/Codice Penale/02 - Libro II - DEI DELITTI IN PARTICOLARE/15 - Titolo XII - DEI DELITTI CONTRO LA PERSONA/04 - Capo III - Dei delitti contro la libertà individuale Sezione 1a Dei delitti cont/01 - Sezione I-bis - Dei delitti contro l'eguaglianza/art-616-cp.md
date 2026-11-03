@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la libertà individuale Sezione 1a Dei delitti c
 sezione: "I-bis"
 sezione_label: "Dei delitti contro l'eguaglianza"
 rubrica: "Violazione, sottrazione e soppressione di corrispondenza"
-dataVigenza: "20260930"
-ordine: 839
+dataVigenza: "20261103"
+ordine: 842
 ---
 
 # Art. 616 - ***Violazione, sottrazione e soppressione di corrispondenza***

@@ -15,8 +15,8 @@ sezione: null
 sezione_label: null
 rubrica: null
 abrogato: true
-dataVigenza: "20261016"
-ordine: 709
+dataVigenza: "20261103"
+ordine: 712
 ---
 
 # Art. 550 - *(Omissis)*

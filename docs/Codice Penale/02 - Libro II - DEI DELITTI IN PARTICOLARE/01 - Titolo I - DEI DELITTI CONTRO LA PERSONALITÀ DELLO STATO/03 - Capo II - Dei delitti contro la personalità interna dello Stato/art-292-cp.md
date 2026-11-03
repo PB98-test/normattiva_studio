@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la personalità interna dello Stato"
 sezione: null
 sezione_label: null
 rubrica: "Vilipendio o danneggiamento alla bandiera o ad altro emblema dello Stato"
-dataVigenza: "20260914"
-ordine: 340
+dataVigenza: "20261103"
+ordine: 342
 ---
 
 # Art. 292 - ***Vilipendio o danneggiamento alla bandiera o ad altro emblema dello Stato***

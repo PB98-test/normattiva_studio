@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'attività giudiziaria"
 sezione: null
 sezione_label: null
 rubrica: "Falsa perizia o interpretazione"
-dataVigenza: "20261016"
-ordine: 444
+dataVigenza: "20261103"
+ordine: 446
 ---
 
 # Art. 373 - ***Falsa perizia o interpretazione***

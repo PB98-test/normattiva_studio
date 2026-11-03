@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro il patrimonio mediante violenza alle cose o alle
 sezione: null
 sezione_label: null
 rubrica: "Ingresso abusivo nel fondo altrui"
-dataVigenza: "20261016"
-ordine: 879
+dataVigenza: "20261103"
+ordine: 883
 ---
 
 # Art. 637 - ***Ingresso abusivo nel fondo altrui***

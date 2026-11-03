@@ -14,8 +14,8 @@ capo_label: "Delle contravvenzioni concernenti la polizia di sicurezza"
 sezione: "I"
 sezione_label: "Delle contravvenzioni concernenti l'ordine pubblico e la tranquillità pubblica § 1 Delle contravvenzioni concernenti l'inosservanza dei provvedimenti di polizia e le manifestazioni sediziose e pericolose"
 rubrica: "Molestia o disturbo alle persone"
-dataVigenza: "20260930"
-ordine: 915
+dataVigenza: "20261103"
+ordine: 919
 ---
 
 # Art. 660 - ***Molestia o disturbo alle persone***

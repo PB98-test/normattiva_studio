@@ -14,8 +14,8 @@ capo_label: "Delle offese al pudore e all'onore sessuale"
 sezione: null
 sezione_label: null
 rubrica: "Atti e oggetti osceni: nozione"
-dataVigenza: "20260930"
-ordine: 682
+dataVigenza: "20261103"
+ordine: 685
 ---
 
 # Art. 529 - ***Atti e oggetti osceni: nozione***

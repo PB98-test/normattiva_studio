@@ -15,8 +15,8 @@ sezione: null
 sezione_label: null
 rubrica: null
 abrogato: true
-dataVigenza: "20260930"
-ordine: 697
+dataVigenza: "20261103"
+ordine: 700
 ---
 
 # Art. 544 - *(Omissis)*

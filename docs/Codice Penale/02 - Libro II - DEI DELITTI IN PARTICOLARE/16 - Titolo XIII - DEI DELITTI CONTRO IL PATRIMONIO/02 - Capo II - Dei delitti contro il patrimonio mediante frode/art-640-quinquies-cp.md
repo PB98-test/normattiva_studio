@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro il patrimonio mediante frode"
 sezione: null
 sezione_label: null
 rubrica: "Frode informatica del soggetto che presta servizi di certificazione di firma elettronica"
-dataVigenza: "20260930"
-ordine: 888
+dataVigenza: "20261103"
+ordine: 892
 ---
 
 # Art. 640-quinquies - ***Frode informatica del soggetto che presta servizi di certificazione di firma elettronica***

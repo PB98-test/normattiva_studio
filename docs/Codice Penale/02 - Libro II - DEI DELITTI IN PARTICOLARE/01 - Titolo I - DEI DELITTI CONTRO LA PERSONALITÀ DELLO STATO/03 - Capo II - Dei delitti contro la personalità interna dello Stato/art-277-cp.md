@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la personalità interna dello Stato"
 sezione: null
 sezione_label: null
 rubrica: "Offesa alla libertà del Presidente della Repubblica"
-dataVigenza: "20260914"
-ordine: 320
+dataVigenza: "20261103"
+ordine: 322
 ---
 
 # Art. 277 - ***Offesa alla libertà del Presidente della Repubblica***

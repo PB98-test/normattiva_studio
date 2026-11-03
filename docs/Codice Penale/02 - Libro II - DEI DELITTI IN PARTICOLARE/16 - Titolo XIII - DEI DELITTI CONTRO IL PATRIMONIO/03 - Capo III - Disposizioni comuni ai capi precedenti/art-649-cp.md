@@ -14,8 +14,8 @@ capo_label: "Disposizioni comuni ai capi precedenti"
 sezione: null
 sezione_label: null
 rubrica: "Non punibilità e querela della persona offesa, per fatti commessi a danno di congiunti"
-dataVigenza: "20261016"
-ordine: 903
+dataVigenza: "20261103"
+ordine: 907
 ---
 
 # Art. 649 - ***Non punibilità e querela della persona offesa, per fatti commessi a danno di congiunti***

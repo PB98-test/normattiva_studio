@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la morale famigliare"
 sezione: null
 sezione_label: null
 rubrica: "Incesto"
-dataVigenza: "20260930"
-ordine: 724
+dataVigenza: "20261103"
+ordine: 727
 ---
 
 # Art. 564 - ***Incesto***

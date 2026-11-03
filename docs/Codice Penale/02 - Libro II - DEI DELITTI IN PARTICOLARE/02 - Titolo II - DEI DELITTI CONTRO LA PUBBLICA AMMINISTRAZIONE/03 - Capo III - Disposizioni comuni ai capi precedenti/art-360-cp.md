@@ -14,8 +14,8 @@ capo_label: "Disposizioni comuni ai capi precedenti"
 sezione: null
 sezione_label: null
 rubrica: "Cessazione della qualità di pubblico ufficiale"
-dataVigenza: "20260914"
-ordine: 429
+dataVigenza: "20261103"
+ordine: 431
 ---
 
 # Art. 360 - ***Cessazione della qualità di pubblico ufficiale***

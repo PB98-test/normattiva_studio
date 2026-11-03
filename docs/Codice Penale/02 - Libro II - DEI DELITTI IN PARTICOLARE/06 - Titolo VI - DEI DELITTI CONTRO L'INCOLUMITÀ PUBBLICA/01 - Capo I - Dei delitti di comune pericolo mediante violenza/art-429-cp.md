@@ -14,8 +14,8 @@ capo_label: "Dei delitti di comune pericolo mediante violenza"
 sezione: null
 sezione_label: null
 rubrica: "Danneggiamento seguito da naufragio"
-dataVigenza: "20261016"
-ordine: 521
+dataVigenza: "20261103"
+ordine: 524
 ---
 
 # Art. 429 - ***Danneggiamento seguito da naufragio***

@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la vita e l'incolumità individuale"
 sezione: null
 sezione_label: null
 rubrica: "Circostanze aggravanti. Ergastolo"
-dataVigenza: "20261016"
-ordine: 741
+dataVigenza: "20261103"
+ordine: 744
 ---
 
 # Art. 576 - ***Circostanze aggravanti. Ergastolo***

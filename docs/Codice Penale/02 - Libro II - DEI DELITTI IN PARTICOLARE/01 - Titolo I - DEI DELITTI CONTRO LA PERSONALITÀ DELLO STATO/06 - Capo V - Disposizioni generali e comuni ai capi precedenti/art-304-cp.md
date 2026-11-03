@@ -14,8 +14,8 @@ capo_label: "Disposizioni generali e comuni ai capi precedenti"
 sezione: null
 sezione_label: null
 rubrica: "Cospirazione politica mediante accordo"
-dataVigenza: "20260914"
-ordine: 353
+dataVigenza: "20261103"
+ordine: 355
 ---
 
 # Art. 304 - ***Cospirazione politica mediante accordo***

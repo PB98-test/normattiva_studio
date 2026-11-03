@@ -14,8 +14,8 @@ capo_label: "Dei delitti di comune pericolo mediante frode"
 sezione: null
 sezione_label: null
 rubrica: "Commercio o somministrazione di medicinali guasti"
-dataVigenza: "20260930"
-ordine: 538
+dataVigenza: "20261103"
+ordine: 541
 ---
 
 # Art. 443 - ***Commercio o somministrazione di medicinali guasti***

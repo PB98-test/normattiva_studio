@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro il patrimonio mediante frode"
 sezione: null
 sezione_label: null
 rubrica: "Circonvenzione di persone incapaci"
-dataVigenza: "20260930"
-ordine: 891
+dataVigenza: "20261103"
+ordine: 895
 ---
 
 # Art. 643 - ***Circonvenzione di persone incapaci***

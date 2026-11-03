@@ -14,8 +14,8 @@ capo_label: "Dei delitti dei pubblici ufficiali contro la pubblica Amministrazio
 sezione: null
 sezione_label: null
 rubrica: "Rifiuto di atti d'ufficio. Omissione"
-dataVigenza: "20260914"
-ordine: 390
+dataVigenza: "20261103"
+ordine: 392
 ---
 
 # Art. 328 - ***Rifiuto di atti d'ufficio. Omissione***

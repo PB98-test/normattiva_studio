@@ -14,8 +14,8 @@ capo_label: "Dei delitti di comune pericolo mediante violenza"
 sezione: null
 sezione_label: null
 rubrica: "Inondazione, frana o valanga"
-dataVigenza: "20261016"
-ordine: 518
+dataVigenza: "20261103"
+ordine: 521
 ---
 
 # Art. 426 - ***Inondazione, frana o valanga***

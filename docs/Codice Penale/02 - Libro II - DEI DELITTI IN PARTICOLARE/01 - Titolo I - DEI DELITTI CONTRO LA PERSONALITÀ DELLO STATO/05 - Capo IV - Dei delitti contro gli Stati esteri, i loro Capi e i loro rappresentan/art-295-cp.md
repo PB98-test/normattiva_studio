@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro gli Stati esteri, i loro Capi e i loro rappresen
 sezione: null
 sezione_label: null
 rubrica: "Attentato contro i Capi di Stati esteri"
-dataVigenza: "20261016"
-ordine: 344
+dataVigenza: "20261103"
+ordine: 346
 ---
 
 # Art. 295 - ***Attentato contro i Capi di Stati esteri***

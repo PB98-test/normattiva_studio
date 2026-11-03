@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Traffico e abbandono di materiale ad alta radioattività"
-dataVigenza: "20260930"
-ordine: 553
+dataVigenza: "20261103"
+ordine: 556
 ---
 
 # Art. 452-sexies - ***Traffico e abbandono di materiale ad alta radioattività***

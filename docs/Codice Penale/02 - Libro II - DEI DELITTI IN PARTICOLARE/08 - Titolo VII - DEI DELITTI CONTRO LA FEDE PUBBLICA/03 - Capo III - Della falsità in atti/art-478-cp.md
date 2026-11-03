@@ -14,8 +14,8 @@ capo_label: "Della falsità in atti"
 sezione: null
 sezione_label: null
 rubrica: "Falsità materiale commessa dal pubblico ufficiale in copie autentiche di atti pubblici o privati e in attestati del contenuto di atti"
-dataVigenza: "20260930"
-ordine: 593
+dataVigenza: "20261103"
+ordine: 596
 ---
 
 # Art. 478 - ***Falsità materiale commessa dal pubblico ufficiale in copie autentiche di atti pubblici o privati e in attestati del contenuto di atti***

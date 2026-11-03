@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'autorità delle decisioni giudiziarie"
 sezione: null
 sezione_label: null
 rubrica: "Mancata esecuzione dolosa di un provvedimento del giudice"
-dataVigenza: "20260914"
-ordine: 466
+dataVigenza: "20261103"
+ordine: 468
 ---
 
 # Art. 388 - ***Mancata esecuzione dolosa di un provvedimento del giudice***

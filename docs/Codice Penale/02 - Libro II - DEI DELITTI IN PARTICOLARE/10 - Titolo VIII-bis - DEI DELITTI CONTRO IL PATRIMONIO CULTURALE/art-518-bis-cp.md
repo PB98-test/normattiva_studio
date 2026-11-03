@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Furto di beni culturali"
-dataVigenza: "20260930"
-ordine: 654
+dataVigenza: "20261103"
+ordine: 657
 ---
 
 # Art. 518-bis - ***Furto di beni culturali***

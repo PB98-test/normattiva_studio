@@ -14,8 +14,8 @@ capo_label: "Dei delitti dei privati contro la pubblica Amministrazione"
 sezione: null
 sezione_label: null
 rubrica: "Oltraggio a un magistrato in udienza"
-dataVigenza: "20261016"
-ordine: 409
+dataVigenza: "20261103"
+ordine: 411
 ---
 
 # Art. 343 - ***Oltraggio a un magistrato in udienza***

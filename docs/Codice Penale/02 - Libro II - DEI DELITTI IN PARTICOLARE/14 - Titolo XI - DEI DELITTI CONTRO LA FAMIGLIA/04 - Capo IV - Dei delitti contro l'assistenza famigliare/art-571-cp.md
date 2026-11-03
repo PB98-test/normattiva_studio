@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'assistenza famigliare"
 sezione: null
 sezione_label: null
 rubrica: "Abuso dei mezzi di correzione o di disciplina"
-dataVigenza: "20260930"
-ordine: 733
+dataVigenza: "20261103"
+ordine: 736
 ---
 
 # Art. 571 - ***Abuso dei mezzi di correzione o di disciplina***

@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Uccisione di animali"
-dataVigenza: "20260930"
-ordine: 698
+dataVigenza: "20261103"
+ordine: 701
 ---
 
 # Art. 544-bis - ***Uccisione di animali***

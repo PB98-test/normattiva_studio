@@ -14,8 +14,8 @@ capo_label: "Dei delitti di comune pericolo mediante frode"
 sezione: null
 sezione_label: null
 rubrica: "IL D.P.R. 9 OTTOBRE 1990, N. 309 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO"
-dataVigenza: "20260930"
-ordine: 542
+dataVigenza: "20261103"
+ordine: 545
 ---
 
 # Art. 447 - ***IL D.P.R. 9 OTTOBRE 1990, N. 309 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO***

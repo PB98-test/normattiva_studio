@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro gli Stati esteri, i loro Capi e i loro rappresen
 sezione: null
 sezione_label: null
 rubrica: "Condizione di reciprocità"
-dataVigenza: "20260914"
-ordine: 349
+dataVigenza: "20261103"
+ordine: 351
 ---
 
 # Art. 300 - ***Condizione di reciprocità***

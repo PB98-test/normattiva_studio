@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Aggravante ambientale"
-dataVigenza: "20260930"
-ordine: 556
+dataVigenza: "20261103"
+ordine: 559
 ---
 
 # Art. 452-nonies - ***Aggravante ambientale***

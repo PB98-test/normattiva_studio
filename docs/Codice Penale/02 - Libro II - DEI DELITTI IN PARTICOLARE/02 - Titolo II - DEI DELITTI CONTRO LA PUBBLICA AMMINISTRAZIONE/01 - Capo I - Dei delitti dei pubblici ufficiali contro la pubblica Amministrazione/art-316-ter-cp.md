@@ -14,8 +14,8 @@ capo_label: "Dei delitti dei pubblici ufficiali contro la pubblica Amministrazio
 sezione: null
 sezione_label: null
 rubrica: "Indebita percezione di erogazioni pubbliche"
-dataVigenza: "20261016"
-ordine: 368
+dataVigenza: "20261103"
+ordine: 370
 ---
 
 # Art. 316-ter - ***Indebita percezione di erogazioni pubbliche***

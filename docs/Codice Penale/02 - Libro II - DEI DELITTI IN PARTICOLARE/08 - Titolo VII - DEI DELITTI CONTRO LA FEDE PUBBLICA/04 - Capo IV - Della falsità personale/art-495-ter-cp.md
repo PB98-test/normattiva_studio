@@ -14,8 +14,8 @@ capo_label: "Della falsità personale"
 sezione: null
 sezione_label: null
 rubrica: "Fraudolente alterazioni per impedire l'identificazione o l'accertamento di qualità personali"
-dataVigenza: "20260930"
-ordine: 616
+dataVigenza: "20261103"
+ordine: 619
 ---
 
 # Art. 495-ter - ***Fraudolente alterazioni per impedire l'identificazione o l'accertamento di qualità personali***

@@ -14,8 +14,8 @@ capo_label: "Della falsità in atti"
 sezione: null
 sezione_label: null
 rubrica: "Altre falsità in foglio firmato in bianco. Applicabilità delle disposizioni sulle falsità materiali"
-dataVigenza: "20260930"
-ordine: 603
+dataVigenza: "20261103"
+ordine: 606
 ---
 
 # Art. 488 - ***Altre falsità in foglio firmato in bianco. Applicabilità delle disposizioni sulle falsità materiali***

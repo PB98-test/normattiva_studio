@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la vita e l'incolumità individuale"
 sezione: null
 sezione_label: null
 rubrica: "Rissa"
-dataVigenza: "20261016"
-ordine: 760
+dataVigenza: "20261103"
+ordine: 763
 ---
 
 # Art. 588 - ***Rissa***

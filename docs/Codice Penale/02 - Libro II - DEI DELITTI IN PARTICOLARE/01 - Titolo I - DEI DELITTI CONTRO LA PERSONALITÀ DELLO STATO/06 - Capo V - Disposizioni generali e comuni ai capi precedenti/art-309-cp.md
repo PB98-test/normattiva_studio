@@ -14,8 +14,8 @@ capo_label: "Disposizioni generali e comuni ai capi precedenti"
 sezione: null
 sezione_label: null
 rubrica: "Banda armata: casi di non punibilità"
-dataVigenza: "20261016"
-ordine: 358
+dataVigenza: "20261103"
+ordine: 360
 ---
 
 # Art. 309 - ***Banda armata: casi di non punibilità***

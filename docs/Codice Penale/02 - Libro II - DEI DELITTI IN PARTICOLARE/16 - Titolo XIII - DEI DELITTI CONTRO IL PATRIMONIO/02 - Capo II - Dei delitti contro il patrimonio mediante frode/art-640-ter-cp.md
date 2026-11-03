@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro il patrimonio mediante frode"
 sezione: null
 sezione_label: null
 rubrica: "Frode informatica"
-dataVigenza: "20260930"
-ordine: 886
+dataVigenza: "20261103"
+ordine: 890
 ---
 
 # Art. 640-ter - ***Frode informatica***

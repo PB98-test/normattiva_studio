@@ -14,8 +14,8 @@ capo_label: "Della falsità in monete, in carte di pubblico credito e in valori 
 sezione: null
 sezione_label: null
 rubrica: "Casi di non punibilità"
-dataVigenza: "20260930"
-ordine: 574
+dataVigenza: "20261103"
+ordine: 577
 ---
 
 # Art. 463 - ***Casi di non punibilità***

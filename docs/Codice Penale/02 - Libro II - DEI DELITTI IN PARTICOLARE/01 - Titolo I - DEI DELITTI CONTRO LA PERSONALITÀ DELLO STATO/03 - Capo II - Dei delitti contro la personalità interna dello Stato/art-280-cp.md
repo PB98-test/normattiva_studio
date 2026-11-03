@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la personalità interna dello Stato"
 sezione: null
 sezione_label: null
 rubrica: "Attentato per finalità terroristiche o di eversione"
-dataVigenza: "20261016"
-ordine: 323
+dataVigenza: "20261103"
+ordine: 325
 ---
 
 # Art. 280 - ***Attentato per finalità terroristiche o di eversione***

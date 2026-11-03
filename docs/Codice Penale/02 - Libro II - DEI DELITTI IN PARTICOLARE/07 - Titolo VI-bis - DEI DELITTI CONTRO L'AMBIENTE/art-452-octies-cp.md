@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Circostanze aggravanti"
-dataVigenza: "20260930"
-ordine: 555
+dataVigenza: "20261103"
+ordine: 558
 ---
 
 # Art. 452-octies - ***Circostanze aggravanti***

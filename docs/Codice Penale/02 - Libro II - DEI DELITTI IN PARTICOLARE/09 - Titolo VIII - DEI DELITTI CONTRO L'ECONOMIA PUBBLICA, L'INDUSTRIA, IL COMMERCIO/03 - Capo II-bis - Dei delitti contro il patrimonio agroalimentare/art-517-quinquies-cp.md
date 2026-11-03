@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro il patrimonio agroalimentare"
 sezione: null
 sezione_label: null
 rubrica: "Circostanza attenuante"
-dataVigenza: "20260930"
-ordine: 647
+dataVigenza: "20261103"
+ordine: 650
 ---
 
 # Art. 517-quinquies - ***Circostanza attenuante***

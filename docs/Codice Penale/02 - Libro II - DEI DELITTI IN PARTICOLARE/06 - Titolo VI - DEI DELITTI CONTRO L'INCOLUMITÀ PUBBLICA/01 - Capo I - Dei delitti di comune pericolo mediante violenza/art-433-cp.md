@@ -14,8 +14,8 @@ capo_label: "Dei delitti di comune pericolo mediante violenza"
 sezione: null
 sezione_label: null
 rubrica: "Attentati alla sicurezza degli impianti di energia elettrica e del gas, ovvero delle pubbliche comunicazioni"
-dataVigenza: "20261016"
-ordine: 525
+dataVigenza: "20261103"
+ordine: 528
 ---
 
 # Art. 433 - ***Attentati alla sicurezza degli impianti di energia elettrica e del gas, ovvero delle pubbliche comunicazioni***

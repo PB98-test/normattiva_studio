@@ -14,8 +14,8 @@ capo_label: "Dei delitti dei privati contro la pubblica Amministrazione"
 sezione: null
 sezione_label: null
 rubrica: "Inadempimento di contratti di pubbliche forniture"
-dataVigenza: "20261016"
-ordine: 424
+dataVigenza: "20261103"
+ordine: 426
 ---
 
 # Art. 355 - ***Inadempimento di contratti di pubbliche forniture***

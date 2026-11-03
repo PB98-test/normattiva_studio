@@ -14,8 +14,8 @@ capo_label: "Della falsità in sigilli o strumenti o segni di autenticazione, ce
 sezione: null
 sezione_label: null
 rubrica: "Contraffazione delle impronte di una pubblica autenticazione o certificazione"
-dataVigenza: "20261016"
-ordine: 581
+dataVigenza: "20261103"
+ordine: 584
 ---
 
 # Art. 469 - ***Contraffazione delle impronte di una pubblica autenticazione o certificazione***

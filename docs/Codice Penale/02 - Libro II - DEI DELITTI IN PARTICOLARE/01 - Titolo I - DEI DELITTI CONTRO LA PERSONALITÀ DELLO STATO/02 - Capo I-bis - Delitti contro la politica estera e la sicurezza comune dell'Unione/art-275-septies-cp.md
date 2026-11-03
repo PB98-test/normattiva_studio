@@ -14,8 +14,8 @@ capo_label: "Delitti contro la politica estera e la sicurezza comune dell'Unione
 sezione: null
 sezione_label: null
 rubrica: "Circostanze attenuanti"
-dataVigenza: "20260914"
-ordine: 315
+dataVigenza: "20261103"
+ordine: 317
 ---
 
 # Art. 275-septies - ***Circostanze attenuanti***

@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro il patrimonio mediante violenza alle cose o alle
 sezione: null
 sezione_label: null
 rubrica: "Danneggiamento di informazioni, dati e programmi informatici"
-dataVigenza: "20260930"
-ordine: 873
+dataVigenza: "20261103"
+ordine: 877
 ---
 
 # Art. 635-bis - ***Danneggiamento di informazioni, dati e programmi informatici***

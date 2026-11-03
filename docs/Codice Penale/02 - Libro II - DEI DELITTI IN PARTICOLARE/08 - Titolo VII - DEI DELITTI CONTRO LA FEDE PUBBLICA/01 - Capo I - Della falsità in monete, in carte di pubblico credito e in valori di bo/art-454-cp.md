@@ -14,8 +14,8 @@ capo_label: "Della falsità in monete, in carte di pubblico credito e in valori 
 sezione: null
 sezione_label: null
 rubrica: "Alterazione di monete"
-dataVigenza: "20260930"
-ordine: 565
+dataVigenza: "20261103"
+ordine: 568
 ---
 
 # Art. 454 - ***Alterazione di monete***

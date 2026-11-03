@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Circostanze aggravanti"
-dataVigenza: "20260930"
-ordine: 703
+dataVigenza: "20261103"
+ordine: 706
 ---
 
 # Art. 544-septies - ***Circostanze aggravanti***

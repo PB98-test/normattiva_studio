@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro il patrimonio mediante violenza alle cose o alle
 sezione: null
 sezione_label: null
 rubrica: "Introduzione o abbandono di animali nel fondo altrui e pascolo abusivo"
-dataVigenza: "20261016"
-ordine: 878
+dataVigenza: "20261103"
+ordine: 882
 ---
 
 # Art. 636 - ***Introduzione o abbandono di animali nel fondo altrui e pascolo abusivo***

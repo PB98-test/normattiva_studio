@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la libertà individuale Sezione 1a Dei delitti c
 sezione: "I-bis"
 sezione_label: "Dei delitti contro l'eguaglianza"
 rubrica: "Violazione, sottrazione e soppressione di corrispondenza commesse da persona addetta al servizio delle poste, dei telegrafi o dei telefoni"
-dataVigenza: "20260930"
-ordine: 848
+dataVigenza: "20261103"
+ordine: 851
 ---
 
 # Art. 619 - ***Violazione, sottrazione e soppressione di corrispondenza commesse da persona addetta al servizio delle poste, dei telegrafi o dei telefoni***

@@ -325,7 +325,9 @@ aliases:
 - [Art. 238](01%20-%20Libro%20I%20-%20DEI%20REATI%20IN%20GENERALE/08%20-%20Titolo%20VIII%20-%20DELLE%20MISURE%20AMMINISTRATIVE%20DI%20SICUREZZA/02%20-%20Capo%20II%20-%20Delle%20misure%20di%20sicurezza%20patrimoniali/art-238-cp.md) - Inadempimento dell'obbligo di prestare cauzione
 - [Art. 239](01%20-%20Libro%20I%20-%20DEI%20REATI%20IN%20GENERALE/08%20-%20Titolo%20VIII%20-%20DELLE%20MISURE%20AMMINISTRATIVE%20DI%20SICUREZZA/02%20-%20Capo%20II%20-%20Delle%20misure%20di%20sicurezza%20patrimoniali/art-239-cp.md) - Adempimento o trasgressione dell'obbligo di buona condotta
 - [Art. 240](01%20-%20Libro%20I%20-%20DEI%20REATI%20IN%20GENERALE/08%20-%20Titolo%20VIII%20-%20DELLE%20MISURE%20AMMINISTRATIVE%20DI%20SICUREZZA/02%20-%20Capo%20II%20-%20Delle%20misure%20di%20sicurezza%20patrimoniali/art-240-cp.md) - Confisca
-- [Art. 240-bis](01%20-%20Libro%20I%20-%20DEI%20REATI%20IN%20GENERALE/08%20-%20Titolo%20VIII%20-%20DELLE%20MISURE%20AMMINISTRATIVE%20DI%20SICUREZZA/02%20-%20Capo%20II%20-%20Delle%20misure%20di%20sicurezza%20patrimoniali/art-240-bis-cp.md) - Confisca dei beni nei confronti dei terzi in casi particolari
+- [Art. 240-bis](01%20-%20Libro%20I%20-%20DEI%20REATI%20IN%20GENERALE/08%20-%20Titolo%20VIII%20-%20DELLE%20MISURE%20AMMINISTRATIVE%20DI%20SICUREZZA/02%20-%20Capo%20II%20-%20Delle%20misure%20di%20sicurezza%20patrimoniali/art-240-bis-cp.md) - Confisca in casi particolari
+- [Art. 240-ter](01%20-%20Libro%20I%20-%20DEI%20REATI%20IN%20GENERALE/08%20-%20Titolo%20VIII%20-%20DELLE%20MISURE%20AMMINISTRATIVE%20DI%20SICUREZZA/02%20-%20Capo%20II%20-%20Delle%20misure%20di%20sicurezza%20patrimoniali/art-240-ter-cp.md) - Confisca per equivalente dei beni strumentali in casi particolari
+- [Art. 240-quater](01%20-%20Libro%20I%20-%20DEI%20REATI%20IN%20GENERALE/08%20-%20Titolo%20VIII%20-%20DELLE%20MISURE%20AMMINISTRATIVE%20DI%20SICUREZZA/02%20-%20Capo%20II%20-%20Delle%20misure%20di%20sicurezza%20patrimoniali/art-240-quater-cp.md) - Confisca dei beni nei confronti dei terzi in casi particolari
 
 ## Libro II - DEI DELITTI IN PARTICOLARE
 
@@ -611,6 +613,7 @@ aliases:
 - [Art. 418](02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/05%20-%20Titolo%20V%20-%20DEI%20DELITTI%20CONTRO%20L%27ORDINE%20PUBBLICO/art-418-cp.md) - Assistenza agli associati
 - [Art. 419](02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/05%20-%20Titolo%20V%20-%20DEI%20DELITTI%20CONTRO%20L%27ORDINE%20PUBBLICO/art-419-cp.md) - Devastazione e saccheggio
 - [Art. 420](02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/05%20-%20Titolo%20V%20-%20DEI%20DELITTI%20CONTRO%20L%27ORDINE%20PUBBLICO/art-420-cp.md) - Attentato a impianti di pubblica utilità
+- [Art. 420-bis](02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/05%20-%20Titolo%20V%20-%20DEI%20DELITTI%20CONTRO%20L%27ORDINE%20PUBBLICO/art-420-bis-cp.md) - Violenza organizzata nelle manifestazioni pubbliche
 - [Art. 421](02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/05%20-%20Titolo%20V%20-%20DEI%20DELITTI%20CONTRO%20L%27ORDINE%20PUBBLICO/art-421-cp.md) - Pubblica intimidazione
 - [Art. 421-bis](02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/05%20-%20Titolo%20V%20-%20DEI%20DELITTI%20CONTRO%20L%27ORDINE%20PUBBLICO/art-421-bis-cp.md) - Pubblica intimidazione con uso di armi
 
@@ -1047,6 +1050,7 @@ aliases:
 - [Art. 634](02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/16%20-%20Titolo%20XIII%20-%20DEI%20DELITTI%20CONTRO%20IL%20PATRIMONIO/01%20-%20Capo%20I%20-%20Dei%20delitti%20contro%20il%20patrimonio%20mediante%20violenza%20alle%20cose%20o%20alle%20per/art-634-cp.md) - Turbativa violenta del possesso di cose immobili
 - [Art. 634-bis](02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/16%20-%20Titolo%20XIII%20-%20DEI%20DELITTI%20CONTRO%20IL%20PATRIMONIO/01%20-%20Capo%20I%20-%20Dei%20delitti%20contro%20il%20patrimonio%20mediante%20violenza%20alle%20cose%20o%20alle%20per/art-634-bis-cp.md) - Occupazione arbitraria di immobile destinato a domicilio altrui
 - [Art. 635](02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/16%20-%20Titolo%20XIII%20-%20DEI%20DELITTI%20CONTRO%20IL%20PATRIMONIO/01%20-%20Capo%20I%20-%20Dei%20delitti%20contro%20il%20patrimonio%20mediante%20violenza%20alle%20cose%20o%20alle%20per/art-635-cp.md) - Danneggiamento
+- [Art. 635.1](02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/16%20-%20Titolo%20XIII%20-%20DEI%20DELITTI%20CONTRO%20IL%20PATRIMONIO/01%20-%20Capo%20I%20-%20Dei%20delitti%20contro%20il%20patrimonio%20mediante%20violenza%20alle%20cose%20o%20alle%20per/art-635.1-cp.md) - Danneggiamento commesso da un gruppo organizzato
 - [Art. 635-bis](02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/16%20-%20Titolo%20XIII%20-%20DEI%20DELITTI%20CONTRO%20IL%20PATRIMONIO/01%20-%20Capo%20I%20-%20Dei%20delitti%20contro%20il%20patrimonio%20mediante%20violenza%20alle%20cose%20o%20alle%20per/art-635-bis-cp.md) - Danneggiamento di informazioni, dati e programmi informatici
 - [Art. 635-ter](02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/16%20-%20Titolo%20XIII%20-%20DEI%20DELITTI%20CONTRO%20IL%20PATRIMONIO/01%20-%20Capo%20I%20-%20Dei%20delitti%20contro%20il%20patrimonio%20mediante%20violenza%20alle%20cose%20o%20alle%20per/art-635-ter-cp.md) - Danneggiamento di informazioni, dati e programmi informatici pubblici o di interesse pubblico
 - [Art. 635-quater](02%20-%20Libro%20II%20-%20DEI%20DELITTI%20IN%20PARTICOLARE/16%20-%20Titolo%20XIII%20-%20DEI%20DELITTI%20CONTRO%20IL%20PATRIMONIO/01%20-%20Capo%20I%20-%20Dei%20delitti%20contro%20il%20patrimonio%20mediante%20violenza%20alle%20cose%20o%20alle%20per/art-635-quater-cp.md) - Danneggiamento di sistemi informatici o telematici
@@ -1200,10 +1204,3 @@ aliases:
 
 ### Titolo II-bis - DELLE CONTRAVVENZIONI CONCERNENTI LA TUTELA DELLA RISERVATEZZA
 - [Art. 734-bis](03%20-%20Libro%20III%20-%20DELLE%20CONTRAVVENZIONI%20IN%20PARTICOLARE/03%20-%20Titolo%20II-bis%20-%20DELLE%20CONTRAVVENZIONI%20CONCERNENTI%20LA%20TUTELA%20DELLA%20RISERVATEZZA/art-734-bis-cp.md) - Divulgazione delle generalità o dell'immagine di persona offesa da atti di violenza sessuale
-
-## Non classificati
-
-*(trovati nel testo ma assenti dalla mappa struttura - verificare indice_cp.md o rigenerare la struttura)*
-
-- [Art. 420-bis](_non_classificati/art-420-bis-cp.md)
-- [Art. 635.1](_non_classificati/art-635.1-cp.md)

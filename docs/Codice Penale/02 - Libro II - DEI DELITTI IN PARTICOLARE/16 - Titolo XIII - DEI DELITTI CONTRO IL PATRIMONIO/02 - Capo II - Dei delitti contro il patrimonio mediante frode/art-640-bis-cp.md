@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro il patrimonio mediante frode"
 sezione: null
 sezione_label: null
 rubrica: "Truffa aggravata per il conseguimento di erogazioni pubbliche"
-dataVigenza: "20261016"
-ordine: 885
+dataVigenza: "20261103"
+ordine: 889
 ---
 
 # Art. 640-bis - ***Truffa aggravata per il conseguimento di erogazioni pubbliche***

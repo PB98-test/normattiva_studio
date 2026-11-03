@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'attività giudiziaria"
 sezione: null
 sezione_label: null
 rubrica: "Falso giuramento della parte"
-dataVigenza: "20260914"
-ordine: 440
+dataVigenza: "20261103"
+ordine: 442
 ---
 
 # Art. 371 - ***Falso giuramento della parte***

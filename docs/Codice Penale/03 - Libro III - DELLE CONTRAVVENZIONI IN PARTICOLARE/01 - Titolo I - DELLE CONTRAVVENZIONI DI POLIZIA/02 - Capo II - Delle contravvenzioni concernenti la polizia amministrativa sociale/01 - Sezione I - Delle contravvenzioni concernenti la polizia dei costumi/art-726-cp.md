@@ -14,8 +14,8 @@ capo_label: "Delle contravvenzioni concernenti la polizia amministrativa sociale
 sezione: "I"
 sezione_label: "Delle contravvenzioni concernenti la polizia dei costumi"
 rubrica: "Atti contrari alla pubblica decenza. Turpiloquio"
-dataVigenza: "20260930"
-ordine: 986
+dataVigenza: "20261103"
+ordine: 990
 ---
 
 # Art. 726 - ***Atti contrari alla pubblica decenza. Turpiloquio***

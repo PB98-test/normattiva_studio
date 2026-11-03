@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la personalità internazionale dello Stato"
 sezione: null
 sezione_label: null
 rubrica: "Inadempimento di contratti di forniture in tempo di guerra"
-dataVigenza: "20260914"
-ordine: 274
+dataVigenza: "20261103"
+ordine: 276
 ---
 
 # Art. 251 - ***Inadempimento di contratti di forniture in tempo di guerra***

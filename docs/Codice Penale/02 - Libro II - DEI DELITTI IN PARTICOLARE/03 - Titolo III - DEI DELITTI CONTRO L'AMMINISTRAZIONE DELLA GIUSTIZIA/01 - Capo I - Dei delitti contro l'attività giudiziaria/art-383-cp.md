@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'attività giudiziaria"
 sezione: null
 sezione_label: null
 rubrica: "Interdizione dai pubblici uffici"
-dataVigenza: "20260914"
-ordine: 457
+dataVigenza: "20261103"
+ordine: 459
 ---
 
 # Art. 383 - ***Interdizione dai pubblici uffici***

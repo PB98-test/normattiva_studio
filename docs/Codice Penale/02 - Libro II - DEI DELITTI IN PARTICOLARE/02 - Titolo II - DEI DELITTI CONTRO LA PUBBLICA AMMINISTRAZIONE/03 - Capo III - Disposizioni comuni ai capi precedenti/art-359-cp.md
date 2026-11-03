@@ -14,8 +14,8 @@ capo_label: "Disposizioni comuni ai capi precedenti"
 sezione: null
 sezione_label: null
 rubrica: "Persone esercenti un servizio di pubblica necessità"
-dataVigenza: "20261016"
-ordine: 428
+dataVigenza: "20261103"
+ordine: 430
 ---
 
 # Art. 359 - ***Persone esercenti un servizio di pubblica necessità***

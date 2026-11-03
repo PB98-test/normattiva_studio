@@ -14,8 +14,8 @@ capo_label: "Della falsità in sigilli o strumenti o segni di autenticazione, ce
 sezione: null
 sezione_label: null
 rubrica: "Contraffazione di altri pubblici sigilli o strumenti destinati a pubblica autenticazione o certificazione e uso di tali sigilli e strumenti contraffatti"
-dataVigenza: "20261016"
-ordine: 580
+dataVigenza: "20261103"
+ordine: 583
 ---
 
 # Art. 468 - ***Contraffazione di altri pubblici sigilli o strumenti destinati a pubblica autenticazione o certificazione e uso di tali sigilli e strumenti contraffatti***

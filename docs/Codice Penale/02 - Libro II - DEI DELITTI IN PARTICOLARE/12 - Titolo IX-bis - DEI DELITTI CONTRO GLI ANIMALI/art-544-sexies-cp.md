@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Confisca e pene accessorie"
-dataVigenza: "20261016"
-ordine: 702
+dataVigenza: "20261103"
+ordine: 705
 ---
 
 # Art. 544-sexies - ***Confisca e pene accessorie***

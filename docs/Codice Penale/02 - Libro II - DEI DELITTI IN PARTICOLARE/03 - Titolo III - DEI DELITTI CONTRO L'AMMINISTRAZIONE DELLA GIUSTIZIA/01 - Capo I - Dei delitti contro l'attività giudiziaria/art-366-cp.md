@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'attività giudiziaria"
 sezione: null
 sezione_label: null
 rubrica: "Rifiuto di uffici legalmente dovuti"
-dataVigenza: "20260914"
-ordine: 435
+dataVigenza: "20261103"
+ordine: 437
 ---
 
 # Art. 366 - ***Rifiuto di uffici legalmente dovuti***

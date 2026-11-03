@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Disastro ambientale"
-dataVigenza: "20260930"
-ordine: 551
+dataVigenza: "20261103"
+ordine: 554
 ---
 
 # Art. 452-quater - ***Disastro ambientale***

@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la libertà individuale Sezione 1a Dei delitti c
 sezione: null
 sezione_label: null
 rubrica: "Detenzione o accesso a materiale pornografico"
-dataVigenza: "20260930"
-ordine: 785
+dataVigenza: "20261103"
+ordine: 788
 ---
 
 # Art. 600-quater - ***Detenzione o accesso a materiale pornografico***

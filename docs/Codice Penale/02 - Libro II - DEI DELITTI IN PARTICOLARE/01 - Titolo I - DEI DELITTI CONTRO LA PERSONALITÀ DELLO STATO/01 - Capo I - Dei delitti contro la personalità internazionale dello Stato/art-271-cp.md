@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la personalità internazionale dello Stato"
 sezione: null
 sezione_label: null
 rubrica: "Associazioni antinazionali"
-dataVigenza: "20260914"
-ordine: 305
+dataVigenza: "20261103"
+ordine: 307
 ---
 
 # Art. 271 - ***Associazioni antinazionali***

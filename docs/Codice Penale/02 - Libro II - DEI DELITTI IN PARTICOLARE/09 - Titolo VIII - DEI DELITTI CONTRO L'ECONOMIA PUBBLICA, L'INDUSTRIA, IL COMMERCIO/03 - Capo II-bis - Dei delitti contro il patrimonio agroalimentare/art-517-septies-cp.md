@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro il patrimonio agroalimentare"
 sezione: null
 sezione_label: null
 rubrica: "Commercio di alimenti con segni mendaci"
-dataVigenza: "20260930"
-ordine: 649
+dataVigenza: "20261103"
+ordine: 652
 ---
 
 # Art. 517-septies - ***Commercio di alimenti con segni mendaci***

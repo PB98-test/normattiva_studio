@@ -14,8 +14,8 @@ capo_label: "Della falsità personale"
 sezione: null
 sezione_label: null
 rubrica: "Falsa attestazione o dichiarazione a un pubblico ufficiale sulla identità o su qualità personali proprie o di altri"
-dataVigenza: "20261022"
-ordine: 614
+dataVigenza: "20261103"
+ordine: 617
 ---
 
 # Art. 495 - ***Falsa attestazione o dichiarazione a un pubblico ufficiale sulla identità o su qualità personali proprie o di altri***

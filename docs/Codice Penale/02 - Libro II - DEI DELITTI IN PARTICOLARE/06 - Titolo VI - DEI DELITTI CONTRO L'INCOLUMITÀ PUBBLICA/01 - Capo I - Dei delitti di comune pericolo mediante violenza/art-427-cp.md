@@ -14,8 +14,8 @@ capo_label: "Dei delitti di comune pericolo mediante violenza"
 sezione: null
 sezione_label: null
 rubrica: "Danneggiamento seguito da inondazione, frana o valanga"
-dataVigenza: "20261016"
-ordine: 519
+dataVigenza: "20261103"
+ordine: 522
 ---
 
 # Art. 427 - ***Danneggiamento seguito da inondazione, frana o valanga***

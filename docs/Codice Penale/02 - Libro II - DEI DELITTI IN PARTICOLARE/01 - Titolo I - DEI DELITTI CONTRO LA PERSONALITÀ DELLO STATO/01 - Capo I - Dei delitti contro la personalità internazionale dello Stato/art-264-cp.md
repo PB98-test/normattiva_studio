@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la personalità internazionale dello Stato"
 sezione: null
 sezione_label: null
 rubrica: "Infedeltà in affari di Stato"
-dataVigenza: "20260914"
-ordine: 287
+dataVigenza: "20261103"
+ordine: 289
 ---
 
 # Art. 264 - ***Infedeltà in affari di Stato***

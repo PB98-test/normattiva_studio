@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Fatto commesso all'estero"
-dataVigenza: "20260930"
-ordine: 671
+dataVigenza: "20261103"
+ordine: 674
 ---
 
 # Art. 518-undevicies - ***Fatto commesso all'estero***

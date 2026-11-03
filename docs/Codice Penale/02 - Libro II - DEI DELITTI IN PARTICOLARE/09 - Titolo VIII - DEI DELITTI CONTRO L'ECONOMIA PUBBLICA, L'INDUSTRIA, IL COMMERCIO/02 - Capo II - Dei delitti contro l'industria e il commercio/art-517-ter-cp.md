@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'industria e il commercio"
 sezione: null
 sezione_label: null
 rubrica: "Fabbricazione e commercio di beni realizzati usurpando titoli di proprietà industriale"
-dataVigenza: "20260930"
-ordine: 645
+dataVigenza: "20261103"
+ordine: 648
 ---
 
 # Art. 517-ter - ***Fabbricazione e commercio di beni realizzati usurpando titoli di proprietà industriale***

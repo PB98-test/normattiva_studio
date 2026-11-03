@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro il patrimonio mediante violenza alle cose o alle
 sezione: null
 sezione_label: null
 rubrica: "Deviazione di acque e modificazione dello stato dei luoghi"
-dataVigenza: "20261016"
-ordine: 867
+dataVigenza: "20261103"
+ordine: 870
 ---
 
 # Art. 632 - ***Deviazione di acque e modificazione dello stato dei luoghi***

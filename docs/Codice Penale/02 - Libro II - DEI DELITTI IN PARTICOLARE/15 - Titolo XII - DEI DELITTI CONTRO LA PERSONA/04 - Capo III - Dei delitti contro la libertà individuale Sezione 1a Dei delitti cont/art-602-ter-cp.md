@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la libertà individuale Sezione 1a Dei delitti c
 sezione: null
 sezione_label: null
 rubrica: "Circostanze aggravanti"
-dataVigenza: "20261022"
-ordine: 798
+dataVigenza: "20261103"
+ordine: 801
 ---
 
 # Art. 602-ter - ***Circostanze aggravanti***

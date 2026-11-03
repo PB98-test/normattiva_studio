@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'autorità delle decisioni giudiziarie"
 sezione: null
 sezione_label: null
 rubrica: "Violazione dei provvedimenti di allontanamento dalla casa familiare e del divieto di avvicinamento ai luoghi frequentati dalla persona offesa"
-dataVigenza: "20261016"
-ordine: 465
+dataVigenza: "20261103"
+ordine: 467
 ---
 
 # Art. 387-bis - ***Violazione dei provvedimenti di allontanamento dalla casa familiare e del divieto di avvicinamento ai luoghi frequentati dalla persona offesa***

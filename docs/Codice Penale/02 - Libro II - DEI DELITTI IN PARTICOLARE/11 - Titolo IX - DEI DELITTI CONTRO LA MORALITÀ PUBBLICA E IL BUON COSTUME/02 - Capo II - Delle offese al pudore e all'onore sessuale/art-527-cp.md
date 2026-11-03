@@ -14,8 +14,8 @@ capo_label: "Delle offese al pudore e all'onore sessuale"
 sezione: null
 sezione_label: null
 rubrica: "Atti osceni"
-dataVigenza: "20260930"
-ordine: 680
+dataVigenza: "20261103"
+ordine: 683
 ---
 
 # Art. 527 - ***Atti osceni***

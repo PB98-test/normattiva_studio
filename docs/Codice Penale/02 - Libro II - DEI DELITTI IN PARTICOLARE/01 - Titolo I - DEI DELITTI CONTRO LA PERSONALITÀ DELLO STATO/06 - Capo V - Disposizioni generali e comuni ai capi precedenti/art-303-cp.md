@@ -15,8 +15,8 @@ sezione: null
 sezione_label: null
 rubrica: null
 abrogato: true
-dataVigenza: "20260914"
-ordine: 352
+dataVigenza: "20261103"
+ordine: 354
 ---
 
 # Art. 303 - *(Omissis)*

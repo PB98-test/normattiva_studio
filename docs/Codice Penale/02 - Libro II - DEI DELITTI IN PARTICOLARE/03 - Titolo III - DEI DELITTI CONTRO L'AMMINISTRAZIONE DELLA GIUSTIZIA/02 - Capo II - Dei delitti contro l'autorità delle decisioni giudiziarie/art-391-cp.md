@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'autorità delle decisioni giudiziarie"
 sezione: null
 sezione_label: null
 rubrica: "Procurata inosservanza di misure di sicurezza detentive"
-dataVigenza: "20260914"
-ordine: 471
+dataVigenza: "20261103"
+ordine: 473
 ---
 
 # Art. 391 - ***Procurata inosservanza di misure di sicurezza detentive***

@@ -14,8 +14,8 @@ capo_label: "Dei delitti di comune pericolo mediante frode"
 sezione: null
 sezione_label: null
 rubrica: "Commercio di sostanze alimentari contraffatte o adulterate"
-dataVigenza: "20260930"
-ordine: 537
+dataVigenza: "20261103"
+ordine: 540
 ---
 
 # Art. 442 - ***Commercio di sostanze alimentari contraffatte o adulterate***

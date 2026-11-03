@@ -14,8 +14,8 @@ capo_label: "Dei delitti dei privati contro la pubblica Amministrazione"
 sezione: null
 sezione_label: null
 rubrica: "Oltraggio a un Corpo politico, amministrativo o giudiziario"
-dataVigenza: "20261016"
-ordine: 408
+dataVigenza: "20261103"
+ordine: 410
 ---
 
 # Art. 342 - ***Oltraggio a un Corpo politico, amministrativo o giudiziario***

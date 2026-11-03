@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la personalità internazionale dello Stato"
 sezione: null
 sezione_label: null
 rubrica: "Parificazione degli Stati alleati"
-dataVigenza: "20260914"
-ordine: 291
+dataVigenza: "20261103"
+ordine: 293
 ---
 
 # Art. 268 - ***Parificazione degli Stati alleati***

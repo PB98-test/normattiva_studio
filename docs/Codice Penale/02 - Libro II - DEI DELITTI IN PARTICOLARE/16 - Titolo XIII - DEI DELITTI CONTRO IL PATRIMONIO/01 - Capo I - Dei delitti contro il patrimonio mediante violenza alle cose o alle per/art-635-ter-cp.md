@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro il patrimonio mediante violenza alle cose o alle
 sezione: null
 sezione_label: null
 rubrica: "Danneggiamento di informazioni, dati e programmi informatici pubblici o di interesse pubblico"
-dataVigenza: "20260930"
-ordine: 874
+dataVigenza: "20261103"
+ordine: 878
 ---
 
 # Art. 635-ter - ***Danneggiamento di informazioni, dati e programmi informatici pubblici o di interesse pubblico***

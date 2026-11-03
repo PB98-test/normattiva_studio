@@ -14,8 +14,8 @@ capo_label: "Disposizioni generali e comuni ai capi precedenti"
 sezione: null
 sezione_label: null
 rubrica: "Concorso di reati"
-dataVigenza: "20260914"
-ordine: 350
+dataVigenza: "20261103"
+ordine: 352
 ---
 
 # Art. 301 - ***Concorso di reati***

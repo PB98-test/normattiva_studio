@@ -14,8 +14,8 @@ capo_label: "Delle contravvenzioni concernenti la polizia amministrativa sociale
 sezione: "I"
 sezione_label: "Delle contravvenzioni concernenti la polizia dei costumi"
 rubrica: "Partecipazione a giuochi d'azzardo"
-dataVigenza: "20261016"
-ordine: 980
+dataVigenza: "20261103"
+ordine: 984
 ---
 
 # Art. 720 - ***Partecipazione a giuochi d'azzardo***

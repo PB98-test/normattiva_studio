@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la libertà individuale Sezione 1a Dei delitti c
 sezione: null
 sezione_label: null
 rubrica: "Tratta di persone"
-dataVigenza: "20261016"
-ordine: 793
+dataVigenza: "20261103"
+ordine: 796
 ---
 
 # Art. 601 - ***Tratta di persone***

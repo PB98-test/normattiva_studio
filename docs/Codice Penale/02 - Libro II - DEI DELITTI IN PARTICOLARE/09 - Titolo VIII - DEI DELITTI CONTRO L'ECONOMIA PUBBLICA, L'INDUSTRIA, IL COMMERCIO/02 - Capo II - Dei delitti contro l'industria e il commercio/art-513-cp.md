@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'industria e il commercio"
 sezione: null
 sezione_label: null
 rubrica: "Turbata libertà dell'industria o del commercio"
-dataVigenza: "20260930"
-ordine: 638
+dataVigenza: "20261103"
+ordine: 641
 ---
 
 # Art. 513 - ***Turbata libertà dell'industria o del commercio***

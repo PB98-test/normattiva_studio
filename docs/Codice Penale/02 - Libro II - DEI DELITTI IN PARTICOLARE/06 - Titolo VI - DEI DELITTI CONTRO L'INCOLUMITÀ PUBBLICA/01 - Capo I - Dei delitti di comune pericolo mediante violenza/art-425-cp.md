@@ -14,8 +14,8 @@ capo_label: "Dei delitti di comune pericolo mediante violenza"
 sezione: null
 sezione_label: null
 rubrica: "Circostanze aggravanti"
-dataVigenza: "20261016"
-ordine: 517
+dataVigenza: "20261103"
+ordine: 520
 ---
 
 # Art. 425 - ***Circostanze aggravanti***

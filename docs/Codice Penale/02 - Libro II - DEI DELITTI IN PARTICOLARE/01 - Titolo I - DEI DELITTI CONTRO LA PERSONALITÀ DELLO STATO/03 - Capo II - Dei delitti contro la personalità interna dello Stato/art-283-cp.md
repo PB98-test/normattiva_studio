@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la personalità interna dello Stato"
 sezione: null
 sezione_label: null
 rubrica: "Attentato contro la Costituzione dello Stato"
-dataVigenza: "20261016"
-ordine: 328
+dataVigenza: "20261103"
+ordine: 330
 ---
 
 # Art. 283 - ***Attentato contro la Costituzione dello Stato***

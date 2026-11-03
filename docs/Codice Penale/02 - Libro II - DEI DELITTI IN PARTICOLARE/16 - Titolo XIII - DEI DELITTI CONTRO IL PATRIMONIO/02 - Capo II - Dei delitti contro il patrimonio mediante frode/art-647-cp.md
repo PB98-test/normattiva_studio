@@ -15,8 +15,8 @@ sezione: null
 sezione_label: null
 rubrica: null
 abrogato: true
-dataVigenza: "20260930"
-ordine: 897
+dataVigenza: "20261103"
+ordine: 901
 ---
 
 # Art. 647 - *(Omissis)*

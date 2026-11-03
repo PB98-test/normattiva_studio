@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'autorità delle decisioni giudiziarie"
 sezione: null
 sezione_label: null
 rubrica: "Procurata inosservanza di pena"
-dataVigenza: "20260914"
-ordine: 470
+dataVigenza: "20261103"
+ordine: 472
 ---
 
 # Art. 390 - ***Procurata inosservanza di pena***

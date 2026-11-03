@@ -14,8 +14,8 @@ capo_label: "Disposizioni generali e comuni ai capi precedenti"
 sezione: null
 sezione_label: null
 rubrica: "Cospirazione politica mediante associazione"
-dataVigenza: "20261016"
-ordine: 354
+dataVigenza: "20261103"
+ordine: 356
 ---
 
 # Art. 305 - ***Cospirazione politica mediante associazione***

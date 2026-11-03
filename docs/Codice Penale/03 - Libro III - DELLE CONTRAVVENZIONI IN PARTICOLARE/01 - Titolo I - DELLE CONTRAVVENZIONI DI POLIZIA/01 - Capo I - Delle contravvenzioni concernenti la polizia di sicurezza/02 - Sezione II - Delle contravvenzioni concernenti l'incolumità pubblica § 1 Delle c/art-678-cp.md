@@ -14,8 +14,8 @@ capo_label: "Delle contravvenzioni concernenti la polizia di sicurezza"
 sezione: "II"
 sezione_label: "Delle contravvenzioni concernenti l'incolumità pubblica § 1 Delle contravvenzioni concernenti l'incolumità delle persone nei luoghi di pubblico transito o nelle abitazioni"
 rubrica: "Fabbricazione o commercio abusivi di materie esplodenti"
-dataVigenza: "20260930"
-ordine: 935
+dataVigenza: "20261103"
+ordine: 939
 ---
 
 # Art. 678 - ***Fabbricazione o commercio abusivi di materie esplodenti***

@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la libertà individuale Sezione 1a Dei delitti c
 sezione: null
 sezione_label: null
 rubrica: "Prostituzione minorile"
-dataVigenza: "20260930"
-ordine: 783
+dataVigenza: "20261103"
+ordine: 786
 ---
 
 # Art. 600-bis - ***Prostituzione minorile***

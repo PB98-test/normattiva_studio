@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Istigazione a pratiche di pedofilia e di pedopornografia"
-dataVigenza: "20260930"
-ordine: 498
+dataVigenza: "20261103"
+ordine: 500
 ---
 
 # Art. 414-bis - ***Istigazione a pratiche di pedofilia e di pedopornografia***

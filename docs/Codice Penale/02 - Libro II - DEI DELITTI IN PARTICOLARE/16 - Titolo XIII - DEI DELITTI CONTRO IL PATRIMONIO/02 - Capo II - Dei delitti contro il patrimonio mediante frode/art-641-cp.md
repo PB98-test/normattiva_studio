@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro il patrimonio mediante frode"
 sezione: null
 sezione_label: null
 rubrica: "Insolvenza fraudolenta"
-dataVigenza: "20260930"
-ordine: 889
+dataVigenza: "20261103"
+ordine: 893
 ---
 
 # Art. 641 - ***Insolvenza fraudolenta***

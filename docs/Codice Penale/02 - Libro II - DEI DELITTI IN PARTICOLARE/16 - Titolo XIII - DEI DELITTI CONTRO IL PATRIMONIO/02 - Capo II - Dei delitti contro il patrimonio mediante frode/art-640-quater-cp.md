@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro il patrimonio mediante frode"
 sezione: null
 sezione_label: null
 rubrica: "Applicabilità dell'articolo 322-ter"
-dataVigenza: "20260930"
-ordine: 887
+dataVigenza: "20261103"
+ordine: 891
 ---
 
 # Art. 640-quater - ***Applicabilità dell'articolo 322-ter***

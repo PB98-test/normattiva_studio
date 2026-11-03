@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Delitti colposi contro l'ambiente"
-dataVigenza: "20260930"
-ordine: 552
+dataVigenza: "20261103"
+ordine: 555
 ---
 
 # Art. 452-quinquies - ***Delitti colposi contro l'ambiente***

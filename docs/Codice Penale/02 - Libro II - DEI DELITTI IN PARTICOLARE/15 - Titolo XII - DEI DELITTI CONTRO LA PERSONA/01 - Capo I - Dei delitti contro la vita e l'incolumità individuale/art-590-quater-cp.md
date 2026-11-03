@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la vita e l'incolumità individuale"
 sezione: null
 sezione_label: null
 rubrica: "Computo delle circostanze"
-dataVigenza: "20260930"
-ordine: 767
+dataVigenza: "20261103"
+ordine: 770
 ---
 
 # Art. 590-quater - ***Computo delle circostanze***

@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la personalità internazionale dello Stato"
 sezione: null
 sezione_label: null
 rubrica: "Frode in forniture in tempo di guerra"
-dataVigenza: "20260914"
-ordine: 275
+dataVigenza: "20261103"
+ordine: 277
 ---
 
 # Art. 252 - ***Frode in forniture in tempo di guerra***

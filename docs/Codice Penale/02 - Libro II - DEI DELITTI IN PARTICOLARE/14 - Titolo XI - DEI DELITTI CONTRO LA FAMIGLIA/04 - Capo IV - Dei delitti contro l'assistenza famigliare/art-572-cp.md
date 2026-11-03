@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'assistenza famigliare"
 sezione: null
 sezione_label: null
 rubrica: "Maltrattamenti contro familiari e conviventi"
-dataVigenza: "20260930"
-ordine: 734
+dataVigenza: "20261103"
+ordine: 737
 ---
 
 # Art. 572 - ***Maltrattamenti contro familiari e conviventi***

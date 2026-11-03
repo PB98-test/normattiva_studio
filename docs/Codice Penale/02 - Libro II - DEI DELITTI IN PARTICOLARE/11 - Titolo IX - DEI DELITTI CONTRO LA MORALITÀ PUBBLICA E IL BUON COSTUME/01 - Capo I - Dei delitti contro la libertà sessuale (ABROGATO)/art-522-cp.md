@@ -15,8 +15,8 @@ sezione: null
 sezione_label: null
 rubrica: null
 abrogato: true
-dataVigenza: "20261016"
-ordine: 675
+dataVigenza: "20261103"
+ordine: 678
 ---
 
 # Art. 522 - *(Omissis)*

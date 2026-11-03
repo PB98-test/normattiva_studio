@@ -14,8 +14,8 @@ capo_label: "Della falsità in atti"
 sezione: null
 sezione_label: null
 rubrica: "Falsità in registri e notificazioni"
-dataVigenza: "20261016"
-ordine: 599
+dataVigenza: "20261103"
+ordine: 602
 ---
 
 # Art. 484 - ***Falsità in registri e notificazioni***

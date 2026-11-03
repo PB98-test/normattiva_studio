@@ -14,8 +14,8 @@ capo_label: "Delle contravvenzioni concernenti la polizia di sicurezza"
 sezione: "I"
 sezione_label: "Delle contravvenzioni concernenti l'ordine pubblico e la tranquillità pubblica § 1 Delle contravvenzioni concernenti l'inosservanza dei provvedimenti di polizia e le manifestazioni sediziose e pericolose"
 rubrica: "Esercizio abusivo di mestieri girovaghi"
-dataVigenza: "20261016"
-ordine: 925
+dataVigenza: "20261103"
+ordine: 929
 ---
 
 # Art. 669 - ***Esercizio abusivo di mestieri girovaghi***

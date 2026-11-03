@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro il matrimonio"
 sezione: null
 sezione_label: null
 rubrica: "Casi di non punibilità. Circostanza attenuante"
-dataVigenza: "20260930"
-ordine: 721
+dataVigenza: "20261103"
+ordine: 724
 ---
 
 # Art. 561 - ***Casi di non punibilità. Circostanza attenuante***

@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Riciclaggio di beni culturali"
-dataVigenza: "20260930"
-ordine: 658
+dataVigenza: "20261103"
+ordine: 661
 ---
 
 # Art. 518-sexies - ***Riciclaggio di beni culturali***

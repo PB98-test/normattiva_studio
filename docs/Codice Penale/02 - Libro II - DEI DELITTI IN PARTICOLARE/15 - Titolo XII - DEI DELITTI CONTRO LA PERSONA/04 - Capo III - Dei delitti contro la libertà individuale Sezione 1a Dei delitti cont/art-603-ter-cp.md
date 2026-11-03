@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la libertà individuale Sezione 1a Dei delitti c
 sezione: null
 sezione_label: null
 rubrica: "Pene accessorie"
-dataVigenza: "20260930"
-ordine: 804
+dataVigenza: "20261103"
+ordine: 807
 ---
 
 # Art. 603-ter - ***Pene accessorie***

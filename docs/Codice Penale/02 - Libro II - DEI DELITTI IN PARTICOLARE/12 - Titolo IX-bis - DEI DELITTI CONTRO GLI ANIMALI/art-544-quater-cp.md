@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Spettacoli o manifestazioni vietati"
-dataVigenza: "20260930"
-ordine: 700
+dataVigenza: "20261103"
+ordine: 703
 ---
 
 # Art. 544-quater - ***Spettacoli o manifestazioni vietati***

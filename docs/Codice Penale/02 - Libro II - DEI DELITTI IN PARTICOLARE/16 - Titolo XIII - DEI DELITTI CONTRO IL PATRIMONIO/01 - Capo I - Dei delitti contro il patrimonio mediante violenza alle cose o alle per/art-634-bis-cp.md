@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro il patrimonio mediante violenza alle cose o alle
 sezione: null
 sezione_label: null
 rubrica: "Occupazione arbitraria di immobile destinato a domicilio altrui"
-dataVigenza: "20260930"
-ordine: 871
+dataVigenza: "20261103"
+ordine: 874
 ---
 
 # Art. 634-bis - ***Occupazione arbitraria di immobile destinato a domicilio altrui***

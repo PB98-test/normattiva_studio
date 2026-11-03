@@ -15,8 +15,8 @@ sezione: null
 sezione_label: null
 rubrica: null
 abrogato: true
-dataVigenza: "20260914"
-ordine: 395
+dataVigenza: "20261103"
+ordine: 397
 ---
 
 # Art. 333 - *(Omissis)*

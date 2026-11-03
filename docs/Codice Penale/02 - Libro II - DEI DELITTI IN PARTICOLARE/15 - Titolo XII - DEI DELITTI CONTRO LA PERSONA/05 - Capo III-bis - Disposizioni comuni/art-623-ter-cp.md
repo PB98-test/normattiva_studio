@@ -14,8 +14,8 @@ capo_label: "Disposizioni comuni ..."
 sezione: null
 sezione_label: null
 rubrica: "Casi di procedibilità d'ufficio"
-dataVigenza: "20260930"
-ordine: 854
+dataVigenza: "20261103"
+ordine: 857
 ---
 
 # Art. 623-ter - ***Casi di procedibilità d'ufficio***

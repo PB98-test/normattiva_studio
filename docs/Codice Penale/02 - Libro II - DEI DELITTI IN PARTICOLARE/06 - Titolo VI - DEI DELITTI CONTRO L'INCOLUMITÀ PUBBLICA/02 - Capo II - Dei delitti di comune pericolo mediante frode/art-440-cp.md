@@ -14,8 +14,8 @@ capo_label: "Dei delitti di comune pericolo mediante frode"
 sezione: null
 sezione_label: null
 rubrica: "Adulterazione e contraffazione di sostanze alimentari"
-dataVigenza: "20261016"
-ordine: 535
+dataVigenza: "20261103"
+ordine: 538
 ---
 
 # Art. 440 - ***Adulterazione e contraffazione di sostanze alimentari***

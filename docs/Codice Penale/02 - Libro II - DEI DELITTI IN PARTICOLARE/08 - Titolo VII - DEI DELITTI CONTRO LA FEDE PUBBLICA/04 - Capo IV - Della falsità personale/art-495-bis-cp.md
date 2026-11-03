@@ -14,8 +14,8 @@ capo_label: "Della falsità personale"
 sezione: null
 sezione_label: null
 rubrica: "Falsa dichiarazione o attestazione al certificatore di firma elettronica sull'identità o su qualità personali proprie o di altri"
-dataVigenza: "20260930"
-ordine: 615
+dataVigenza: "20261103"
+ordine: 618
 ---
 
 # Art. 495-bis - ***Falsa dichiarazione o attestazione al certificatore di firma elettronica sull'identità o su qualità personali proprie o di altri***

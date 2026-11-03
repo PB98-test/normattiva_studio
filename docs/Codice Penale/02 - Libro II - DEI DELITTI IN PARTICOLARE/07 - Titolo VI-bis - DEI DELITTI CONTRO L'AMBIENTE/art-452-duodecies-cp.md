@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Ripristino dello stato dei luoghi"
-dataVigenza: "20261016"
-ordine: 559
+dataVigenza: "20261103"
+ordine: 562
 ---
 
 # Art. 452-duodecies - ***Ripristino dello stato dei luoghi***

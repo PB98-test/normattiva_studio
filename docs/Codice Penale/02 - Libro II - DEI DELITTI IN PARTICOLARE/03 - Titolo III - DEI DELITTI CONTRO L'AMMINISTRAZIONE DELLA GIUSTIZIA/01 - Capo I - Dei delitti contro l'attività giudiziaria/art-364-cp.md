@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'attività giudiziaria"
 sezione: null
 sezione_label: null
 rubrica: "Omessa denuncia di reato da parte del cittadino"
-dataVigenza: "20261016"
-ordine: 433
+dataVigenza: "20261103"
+ordine: 435
 ---
 
 # Art. 364 - ***Omessa denuncia di reato da parte del cittadino***

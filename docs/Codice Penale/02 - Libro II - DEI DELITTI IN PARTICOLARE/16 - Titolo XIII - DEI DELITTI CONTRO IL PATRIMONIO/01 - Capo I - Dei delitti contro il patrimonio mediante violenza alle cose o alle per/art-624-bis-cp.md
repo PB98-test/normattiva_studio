@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro il patrimonio mediante violenza alle cose o alle
 sezione: null
 sezione_label: null
 rubrica: "Furto in abitazione , furto con strappo e furto con destrezza in casi particolari"
-dataVigenza: "20260930"
-ordine: 857
+dataVigenza: "20261103"
+ordine: 860
 ---
 
 # Art. 624-bis - ***Furto in abitazione , furto con strappo e furto con destrezza in casi particolari***

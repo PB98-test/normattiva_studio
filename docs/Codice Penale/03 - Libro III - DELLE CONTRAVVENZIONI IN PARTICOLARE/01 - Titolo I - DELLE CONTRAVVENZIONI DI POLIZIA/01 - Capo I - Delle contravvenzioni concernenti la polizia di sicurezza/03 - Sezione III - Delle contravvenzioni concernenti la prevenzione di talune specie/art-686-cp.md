@@ -14,8 +14,8 @@ capo_label: "Delle contravvenzioni concernenti la polizia di sicurezza"
 sezione: "III"
 sezione_label: "Delle contravvenzioni concernenti la prevenzione di talune specie di reati § 1 Delle contravvenzioni concernenti la tutela preventiva dei segreti"
 rubrica: "Fabbricazione o commercio abusivi di liquori o droghe, o di sostanze destinate alla loro composizione"
-dataVigenza: "20261016"
-ordine: 945
+dataVigenza: "20261103"
+ordine: 949
 ---
 
 # Art. 686 - ***Fabbricazione o commercio abusivi di liquori o droghe, o di sostanze destinate alla loro composizione***

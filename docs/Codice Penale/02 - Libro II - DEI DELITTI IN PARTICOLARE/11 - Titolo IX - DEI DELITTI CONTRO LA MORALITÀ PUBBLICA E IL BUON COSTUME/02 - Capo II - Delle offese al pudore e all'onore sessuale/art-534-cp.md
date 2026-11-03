@@ -14,8 +14,8 @@ capo_label: "Delle offese al pudore e all'onore sessuale"
 sezione: null
 sezione_label: null
 rubrica: "ARTICOLO SOSTITUITO DALL'ARTICOLO 3 DELLA L. 20 FEBBRAIO 1958, N. 75"
-dataVigenza: "20260930"
-ordine: 687
+dataVigenza: "20261103"
+ordine: 690
 ---
 
 # Art. 534 - ***ARTICOLO SOSTITUITO DALL'ARTICOLO 3 DELLA L. 20 FEBBRAIO 1958, N. 75***

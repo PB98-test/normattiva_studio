@@ -14,8 +14,8 @@ capo_label: "Disposizioni generali e comuni ai capi precedenti"
 sezione: null
 sezione_label: null
 rubrica: "Circostanza diminuente: lieve entità del fatto"
-dataVigenza: "20260914"
-ordine: 360
+dataVigenza: "20261103"
+ordine: 362
 ---
 
 # Art. 311 - ***Circostanza diminuente: lieve entità del fatto***

@@ -15,8 +15,8 @@ sezione: null
 sezione_label: null
 rubrica: null
 abrogato: true
-dataVigenza: "20260914"
-ordine: 477
+dataVigenza: "20261103"
+ordine: 479
 ---
 
 # Art. 394 - *(Omissis)*

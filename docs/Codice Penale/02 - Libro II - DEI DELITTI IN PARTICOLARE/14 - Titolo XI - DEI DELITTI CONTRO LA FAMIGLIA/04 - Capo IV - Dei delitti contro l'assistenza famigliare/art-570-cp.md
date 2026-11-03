@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'assistenza famigliare"
 sezione: null
 sezione_label: null
 rubrica: "Violazione degli obblighi di assistenza famigliare"
-dataVigenza: "20261016"
-ordine: 730
+dataVigenza: "20261103"
+ordine: 733
 ---
 
 # Art. 570 - ***Violazione degli obblighi di assistenza famigliare***

@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la personalità internazionale dello Stato"
 sezione: null
 sezione_label: null
 rubrica: "Circostanze aggravanti e attenuanti"
-dataVigenza: "20260914"
-ordine: 295
+dataVigenza: "20261103"
+ordine: 297
 ---
 
 # Art. 270-bis.1 - ***Circostanze aggravanti e attenuanti***

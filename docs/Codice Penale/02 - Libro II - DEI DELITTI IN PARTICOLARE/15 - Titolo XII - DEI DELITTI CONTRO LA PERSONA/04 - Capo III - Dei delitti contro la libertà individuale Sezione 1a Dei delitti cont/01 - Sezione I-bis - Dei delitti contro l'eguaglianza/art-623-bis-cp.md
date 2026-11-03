@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la libertà individuale Sezione 1a Dei delitti c
 sezione: "I-bis"
 sezione_label: "Dei delitti contro l'eguaglianza"
 rubrica: "Altre comunicazioni e conversazioni"
-dataVigenza: "20260930"
-ordine: 853
+dataVigenza: "20261103"
+ordine: 856
 ---
 
 # Art. 623-bis - ***Altre comunicazioni e conversazioni***

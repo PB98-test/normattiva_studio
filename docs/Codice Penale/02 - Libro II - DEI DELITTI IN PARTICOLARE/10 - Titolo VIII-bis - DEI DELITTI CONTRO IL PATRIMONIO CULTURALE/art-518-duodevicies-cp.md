@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Confisca"
-dataVigenza: "20261016"
-ordine: 670
+dataVigenza: "20261103"
+ordine: 673
 ---
 
 # Art. 518-duodevicies - ***Confisca***

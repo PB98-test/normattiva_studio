@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro il patrimonio mediante frode"
 sezione: null
 sezione_label: null
 rubrica: "Usura"
-dataVigenza: "20261016"
-ordine: 892
+dataVigenza: "20261103"
+ordine: 896
 ---
 
 # Art. 644 - ***Usura***

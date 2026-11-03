@@ -14,8 +14,8 @@ capo_label: "Della falsità in atti"
 sezione: null
 sezione_label: null
 rubrica: "Falsità materiale commessa dal pubblico ufficiale in atti pubblici"
-dataVigenza: "20261016"
-ordine: 591
+dataVigenza: "20261103"
+ordine: 594
 ---
 
 # Art. 476 - ***Falsità materiale commessa dal pubblico ufficiale in atti pubblici***

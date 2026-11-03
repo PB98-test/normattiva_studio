@@ -14,8 +14,8 @@ capo_label: "Disposizioni comuni ai capi precedenti"
 sezione: null
 sezione_label: null
 rubrica: "Rapporto di parentela"
-dataVigenza: "20260930"
-ordine: 693
+dataVigenza: "20261103"
+ordine: 696
 ---
 
 # Art. 540 - ***Rapporto di parentela***

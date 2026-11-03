@@ -14,8 +14,8 @@ capo_label: "Disposizioni generali e comuni ai capi precedenti"
 sezione: null
 sezione_label: null
 rubrica: "Banda armata: formazione e partecipazione"
-dataVigenza: "20260914"
-ordine: 355
+dataVigenza: "20261103"
+ordine: 357
 ---
 
 # Art. 306 - ***Banda armata: formazione e partecipazione***

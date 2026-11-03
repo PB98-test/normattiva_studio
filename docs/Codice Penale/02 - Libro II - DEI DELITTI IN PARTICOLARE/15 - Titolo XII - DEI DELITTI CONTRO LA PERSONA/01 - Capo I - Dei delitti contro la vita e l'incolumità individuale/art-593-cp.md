@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la vita e l'incolumità individuale"
 sezione: null
 sezione_label: null
 rubrica: "Omissione di soccorso"
-dataVigenza: "20260930"
-ordine: 772
+dataVigenza: "20261103"
+ordine: 775
 ---
 
 # Art. 593 - ***Omissione di soccorso***

@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro il patrimonio mediante frode"
 sezione: null
 sezione_label: null
 rubrica: "Riciclaggio"
-dataVigenza: "20261016"
-ordine: 899
+dataVigenza: "20261103"
+ordine: 903
 ---
 
 # Art. 648-bis - ***Riciclaggio***

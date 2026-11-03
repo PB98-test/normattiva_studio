@@ -14,8 +14,8 @@ capo_label: "Dei delitti dei privati contro la pubblica Amministrazione"
 sezione: null
 sezione_label: null
 rubrica: "Frode nelle pubbliche forniture"
-dataVigenza: "20260914"
-ordine: 425
+dataVigenza: "20261103"
+ordine: 427
 ---
 
 # Art. 356 - ***Frode nelle pubbliche forniture***

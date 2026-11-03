@@ -14,8 +14,8 @@ capo_label: "Dei delitti di comune pericolo mediante violenza"
 sezione: null
 sezione_label: null
 rubrica: "Disastro ferroviario"
-dataVigenza: "20261016"
-ordine: 522
+dataVigenza: "20261103"
+ordine: 525
 ---
 
 # Art. 430 - ***Disastro ferroviario***

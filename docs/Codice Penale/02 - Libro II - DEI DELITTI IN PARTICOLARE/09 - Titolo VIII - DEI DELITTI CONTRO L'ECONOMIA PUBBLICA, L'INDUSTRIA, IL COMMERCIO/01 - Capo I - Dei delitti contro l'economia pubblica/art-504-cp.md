@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'economia pubblica"
 sezione: null
 sezione_label: null
 rubrica: "Coazione alla pubblica Autorità mediante serrata o sciopero"
-dataVigenza: "20260930"
-ordine: 628
+dataVigenza: "20261103"
+ordine: 631
 ---
 
 # Art. 504 - ***Coazione alla pubblica Autorità mediante serrata o sciopero***

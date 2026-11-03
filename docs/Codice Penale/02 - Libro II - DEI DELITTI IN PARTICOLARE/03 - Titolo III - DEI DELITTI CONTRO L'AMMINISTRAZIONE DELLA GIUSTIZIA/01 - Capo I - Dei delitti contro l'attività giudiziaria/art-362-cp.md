@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'attività giudiziaria"
 sezione: null
 sezione_label: null
 rubrica: "Omessa denuncia da parte di un incaricato di pubblico servizio"
-dataVigenza: "20260914"
-ordine: 431
+dataVigenza: "20261103"
+ordine: 433
 ---
 
 # Art. 362 - ***Omessa denuncia da parte di un incaricato di pubblico servizio***

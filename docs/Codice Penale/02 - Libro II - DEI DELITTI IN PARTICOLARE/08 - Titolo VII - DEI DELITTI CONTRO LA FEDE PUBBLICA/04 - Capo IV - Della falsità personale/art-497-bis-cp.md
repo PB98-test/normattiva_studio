@@ -14,8 +14,8 @@ capo_label: "Della falsità personale"
 sezione: null
 sezione_label: null
 rubrica: "Possesso e fabbricazione di documenti di identificazione falsi"
-dataVigenza: "20260930"
-ordine: 619
+dataVigenza: "20261103"
+ordine: 622
 ---
 
 # Art. 497-bis - ***Possesso e fabbricazione di documenti di identificazione falsi***

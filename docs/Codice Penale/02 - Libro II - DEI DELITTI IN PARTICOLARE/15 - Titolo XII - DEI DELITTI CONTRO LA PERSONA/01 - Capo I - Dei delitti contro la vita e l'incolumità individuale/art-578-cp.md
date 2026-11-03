@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la vita e l'incolumità individuale"
 sezione: null
 sezione_label: null
 rubrica: "Infanticidio in condizioni di abbandono materiale e morale"
-dataVigenza: "20260930"
-ordine: 744
+dataVigenza: "20261103"
+ordine: 747
 ---
 
 # Art. 578 - ***Infanticidio in condizioni di abbandono materiale e morale***

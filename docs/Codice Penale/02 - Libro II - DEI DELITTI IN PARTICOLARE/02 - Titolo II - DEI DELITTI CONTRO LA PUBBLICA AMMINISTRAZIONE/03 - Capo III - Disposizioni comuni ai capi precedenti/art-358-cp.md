@@ -14,8 +14,8 @@ capo_label: "Disposizioni comuni ai capi precedenti"
 sezione: null
 sezione_label: null
 rubrica: "Nozione della persona incaricata di un pubblico servizio"
-dataVigenza: "20260914"
-ordine: 427
+dataVigenza: "20261103"
+ordine: 429
 ---
 
 # Art. 358 - ***Nozione della persona incaricata di un pubblico servizio***

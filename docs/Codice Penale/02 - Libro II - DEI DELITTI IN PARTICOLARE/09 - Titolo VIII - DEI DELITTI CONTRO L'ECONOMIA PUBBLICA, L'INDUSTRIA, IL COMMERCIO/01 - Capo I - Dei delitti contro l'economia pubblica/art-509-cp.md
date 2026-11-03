@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'economia pubblica"
 sezione: null
 sezione_label: null
 rubrica: "Inosservanza delle norme disciplinanti i rapporti di lavoro"
-dataVigenza: "20261016"
-ordine: 633
+dataVigenza: "20261103"
+ordine: 636
 ---
 
 # Art. 509 - ***Inosservanza delle norme disciplinanti i rapporti di lavoro***

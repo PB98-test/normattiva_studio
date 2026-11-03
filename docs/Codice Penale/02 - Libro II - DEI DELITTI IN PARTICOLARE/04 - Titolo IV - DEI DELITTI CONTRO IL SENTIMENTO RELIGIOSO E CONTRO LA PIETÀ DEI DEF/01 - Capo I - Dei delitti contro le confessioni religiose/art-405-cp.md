@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro le confessioni religiose"
 sezione: null
 sezione_label: null
 rubrica: "Turbamento di funzioni religiose del culto di una confessione religiosa"
-dataVigenza: "20260930"
-ordine: 488
+dataVigenza: "20261103"
+ordine: 490
 ---
 
 # Art. 405 - ***Turbamento di funzioni religiose del culto di una confessione religiosa***

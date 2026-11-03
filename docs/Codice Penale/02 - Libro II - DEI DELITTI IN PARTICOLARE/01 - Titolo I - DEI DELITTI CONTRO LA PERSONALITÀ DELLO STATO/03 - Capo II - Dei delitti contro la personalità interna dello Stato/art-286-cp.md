@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la personalità interna dello Stato"
 sezione: null
 sezione_label: null
 rubrica: "Guerra civile"
-dataVigenza: "20261016"
-ordine: 331
+dataVigenza: "20261103"
+ordine: 333
 ---
 
 # Art. 286 - ***Guerra civile***

@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'attività giudiziaria"
 sezione: null
 sezione_label: null
 rubrica: "Favoreggiamento personale"
-dataVigenza: "20261016"
-ordine: 451
+dataVigenza: "20261103"
+ordine: 453
 ---
 
 # Art. 378 - ***Favoreggiamento personale***

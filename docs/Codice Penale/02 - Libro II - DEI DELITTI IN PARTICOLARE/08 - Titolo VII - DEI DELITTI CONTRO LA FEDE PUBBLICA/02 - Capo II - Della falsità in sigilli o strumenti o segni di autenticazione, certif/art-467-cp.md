@@ -14,8 +14,8 @@ capo_label: "Della falsità in sigilli o strumenti o segni di autenticazione, ce
 sezione: null
 sezione_label: null
 rubrica: "Contraffazione del sigillo dello Stato e uso del sigillo contraffatto"
-dataVigenza: "20261016"
-ordine: 579
+dataVigenza: "20261103"
+ordine: 582
 ---
 
 # Art. 467 - ***Contraffazione del sigillo dello Stato e uso del sigillo contraffatto***

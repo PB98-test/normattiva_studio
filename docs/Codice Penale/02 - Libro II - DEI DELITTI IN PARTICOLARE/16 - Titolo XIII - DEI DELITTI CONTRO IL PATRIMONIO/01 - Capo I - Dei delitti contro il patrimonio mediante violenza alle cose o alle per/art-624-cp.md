@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro il patrimonio mediante violenza alle cose o alle
 sezione: null
 sezione_label: null
 rubrica: "Furto"
-dataVigenza: "20261016"
-ordine: 856
+dataVigenza: "20261103"
+ordine: 859
 ---
 
 # Art. 624 - ***Furto***

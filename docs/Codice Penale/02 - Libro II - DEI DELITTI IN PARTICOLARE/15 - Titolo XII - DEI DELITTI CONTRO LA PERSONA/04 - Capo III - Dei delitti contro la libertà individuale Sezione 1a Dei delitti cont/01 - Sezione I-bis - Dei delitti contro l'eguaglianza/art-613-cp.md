@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la libertà individuale Sezione 1a Dei delitti c
 sezione: "I-bis"
 sezione_label: "Dei delitti contro l'eguaglianza"
 rubrica: "Stato di incapacità procurato mediante violenza"
-dataVigenza: "20261016"
-ordine: 830
+dataVigenza: "20261103"
+ordine: 833
 ---
 
 # Art. 613 - ***Stato di incapacità procurato mediante violenza***

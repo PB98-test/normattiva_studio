@@ -14,8 +14,8 @@ capo_label: "Dei delitti di comune pericolo mediante violenza"
 sezione: null
 sezione_label: null
 rubrica: "Sottrazione, occultamento o guasto di apparecchi a pubblica difesa da infortuni"
-dataVigenza: "20261016"
-ordine: 530
+dataVigenza: "20261103"
+ordine: 533
 ---
 
 # Art. 436 - ***Sottrazione, occultamento o guasto di apparecchi a pubblica difesa da infortuni***

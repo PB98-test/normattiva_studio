@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro il matrimonio"
 sezione: null
 sezione_label: null
 rubrica: "Prescrizione del reato"
-dataVigenza: "20260930"
-ordine: 716
+dataVigenza: "20261103"
+ordine: 719
 ---
 
 # Art. 557 - ***Prescrizione del reato***

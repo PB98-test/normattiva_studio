@@ -15,8 +15,8 @@ sezione: null
 sezione_label: null
 rubrica: null
 abrogato: true
-dataVigenza: "20260930"
-ordine: 993
+dataVigenza: "20261103"
+ordine: 997
 ---
 
 # Art. 732 - *(Omissis)*

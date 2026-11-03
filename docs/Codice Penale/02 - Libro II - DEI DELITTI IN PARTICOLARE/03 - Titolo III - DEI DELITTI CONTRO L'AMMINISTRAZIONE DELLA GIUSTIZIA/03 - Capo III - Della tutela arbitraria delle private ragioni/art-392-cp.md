@@ -14,8 +14,8 @@ capo_label: "Della tutela arbitraria delle private ragioni"
 sezione: null
 sezione_label: null
 rubrica: "Esercizio arbitrario delle proprie ragioni con violenza sulle cose"
-dataVigenza: "20260914"
-ordine: 474
+dataVigenza: "20261103"
+ordine: 476
 ---
 
 # Art. 392 - ***Esercizio arbitrario delle proprie ragioni con violenza sulle cose***

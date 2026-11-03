@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro le confessioni religiose"
 sezione: null
 sezione_label: null
 rubrica: "Offese a una confessione religiosa mediante vilipendio di persone"
-dataVigenza: "20260914"
-ordine: 486
+dataVigenza: "20261103"
+ordine: 488
 ---
 
 # Art. 403 - ***Offese a una confessione religiosa mediante vilipendio di persone***

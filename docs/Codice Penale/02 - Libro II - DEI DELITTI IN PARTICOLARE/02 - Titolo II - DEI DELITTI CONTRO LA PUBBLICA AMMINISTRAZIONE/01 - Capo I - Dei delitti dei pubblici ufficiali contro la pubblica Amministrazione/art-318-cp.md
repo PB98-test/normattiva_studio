@@ -14,8 +14,8 @@ capo_label: "Dei delitti dei pubblici ufficiali contro la pubblica Amministrazio
 sezione: null
 sezione_label: null
 rubrica: "Corruzione per l'esercizio della funzione"
-dataVigenza: "20261016"
-ordine: 371
+dataVigenza: "20261103"
+ordine: 373
 ---
 
 # Art. 318 - ***Corruzione per l'esercizio della funzione***

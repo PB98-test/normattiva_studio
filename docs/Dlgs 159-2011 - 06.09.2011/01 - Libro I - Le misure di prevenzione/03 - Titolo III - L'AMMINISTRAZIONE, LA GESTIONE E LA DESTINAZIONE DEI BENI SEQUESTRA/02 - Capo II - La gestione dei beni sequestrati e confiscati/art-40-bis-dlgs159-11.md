@@ -14,7 +14,7 @@ capo_label: "La gestione dei beni sequestrati e confiscati"
 sezione: null
 sezione_label: null
 rubrica: "Vendita prima della confisca"
-dataVigenza: "20261102"
+dataVigenza: "20261103"
 ordine: 47
 ---
 
@@ -30,4 +30,4 @@ ordine: 47
 
 5\. Qualora non si provveda alla confisca, è disposta la restituzione all'avente diritto dei proventi versati, oltre agli interessi maturati sui medesimi proventi, computati secondo quanto stabilito dal decreto ministeriale 30 luglio 2009, n. 127.
 
-6\. Per l'impugnazione contro il provvedimento di destinazione alla vendita si applicano le disposizioni previste dall'[articolo 10](../../01%20-%20Titolo%20I%20-%20LE%20MISURE%20DI%20PREVENZIONE%20PERSONALI/02%20-%20Capo%20II%20-%20Le%20misure%20di%20prevenzione%20personali%20applicate%20dall%27autorità%20giudiziaria/02%20-%20Sezione%20II%20-%20Le%20impugnazioni/art-10-dlgs159-11.md). La Corte d'appello può disporre la sospensione dell'esecuzione del provvedimento impugnato quando dalla vendita possa derivare grave e irreparabile danno per l'interessato.))
+6\. Per l'impugnazione contro il provvedimento di destinazione alla vendita si applicano le disposizioni previste dall'[articolo 10](../../01%20-%20Titolo%20I%20-%20LE%20MISURE%20DI%20PREVENZIONE%20PERSONALI/02%20-%20Capo%20II%20-%20Le%20misure%20di%20prevenzione%20personali%20applicate%20dall%27autorità%20giudiziaria/02%20-%20Sezione%20II%20-%20Le%20impugnazioni/art-10-dlgs159-11.md). La Corte d'appello può disporre la sospensione dell'esecuzione del provvedimento impugnato quando dalla vendita possa derivare grave e irreparabile danno per l'interessato.

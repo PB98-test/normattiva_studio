@@ -14,8 +14,8 @@ capo_label: "Della falsità in atti"
 sezione: null
 sezione_label: null
 rubrica: "Indebito utilizzo e falsificazione di strumenti di pagamento diversi dai contanti"
-dataVigenza: "20261016"
-ordine: 611
+dataVigenza: "20261103"
+ordine: 614
 ---
 
 # Art. 493-ter - ***Indebito utilizzo e falsificazione di strumenti di pagamento diversi dai contanti***

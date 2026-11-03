@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'attività giudiziaria"
 sezione: null
 sezione_label: null
 rubrica: "Intralcio alla giustizia"
-dataVigenza: "20261016"
-ordine: 449
+dataVigenza: "20261103"
+ordine: 451
 ---
 
 # Art. 377 - ***Intralcio alla giustizia***

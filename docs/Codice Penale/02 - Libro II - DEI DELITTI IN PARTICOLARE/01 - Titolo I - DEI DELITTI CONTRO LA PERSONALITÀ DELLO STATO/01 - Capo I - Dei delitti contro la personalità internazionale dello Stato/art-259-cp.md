@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la personalità internazionale dello Stato"
 sezione: null
 sezione_label: null
 rubrica: "Agevolazione colposa"
-dataVigenza: "20260914"
-ordine: 282
+dataVigenza: "20261103"
+ordine: 284
 ---
 
 # Art. 259 - ***Agevolazione colposa***

@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la vita e l'incolumità individuale"
 sezione: null
 sezione_label: null
 rubrica: "Lesione personale"
-dataVigenza: "20261102"
-ordine: 748
+dataVigenza: "20261103"
+ordine: 751
 ---
 
 # Art. 582 - ***Lesione personale***

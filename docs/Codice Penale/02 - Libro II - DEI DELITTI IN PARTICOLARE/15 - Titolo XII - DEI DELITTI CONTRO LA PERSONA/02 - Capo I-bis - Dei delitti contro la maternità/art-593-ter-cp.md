@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la maternità"
 sezione: null
 sezione_label: null
 rubrica: "Interruzione di gravidanza non consensuale"
-dataVigenza: "20260930"
-ordine: 774
+dataVigenza: "20261103"
+ordine: 777
 ---
 
 # Art. 593-ter - ***Interruzione di gravidanza non consensuale***

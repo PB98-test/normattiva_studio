@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la vita e l'incolumità individuale"
 sezione: null
 sezione_label: null
 rubrica: "Fuga del conducente in caso di omicidio stradale e nautico"
-dataVigenza: "20260930"
-ordine: 763
+dataVigenza: "20261103"
+ordine: 766
 ---
 
 # Art. 589-ter - ***Fuga del conducente in caso di omicidio stradale e nautico***

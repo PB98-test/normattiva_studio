@@ -14,8 +14,8 @@ capo_label: "Disposizioni comuni ai capi precedenti"
 sezione: null
 sezione_label: null
 rubrica: "Nozione del pubblico ufficiale"
-dataVigenza: "20260914"
-ordine: 426
+dataVigenza: "20261103"
+ordine: 428
 ---
 
 # Art. 357 - ***Nozione del pubblico ufficiale***

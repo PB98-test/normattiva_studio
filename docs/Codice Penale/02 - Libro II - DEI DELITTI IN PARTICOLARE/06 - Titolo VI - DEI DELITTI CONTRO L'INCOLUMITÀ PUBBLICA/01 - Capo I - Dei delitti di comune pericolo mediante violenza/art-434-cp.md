@@ -14,8 +14,8 @@ capo_label: "Dei delitti di comune pericolo mediante violenza"
 sezione: null
 sezione_label: null
 rubrica: "Crollo di costruzioni o altri disastri dolosi"
-dataVigenza: "20261016"
-ordine: 527
+dataVigenza: "20261103"
+ordine: 530
 ---
 
 # Art. 434 - ***Crollo di costruzioni o altri disastri dolosi***

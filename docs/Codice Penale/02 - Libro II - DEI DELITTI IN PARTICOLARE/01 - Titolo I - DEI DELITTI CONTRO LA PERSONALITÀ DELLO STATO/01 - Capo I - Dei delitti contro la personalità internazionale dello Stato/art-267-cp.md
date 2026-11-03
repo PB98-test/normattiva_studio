@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la personalità internazionale dello Stato"
 sezione: null
 sezione_label: null
 rubrica: "Disfattismo economico"
-dataVigenza: "20260914"
-ordine: 290
+dataVigenza: "20261103"
+ordine: 292
 ---
 
 # Art. 267 - ***Disfattismo economico***

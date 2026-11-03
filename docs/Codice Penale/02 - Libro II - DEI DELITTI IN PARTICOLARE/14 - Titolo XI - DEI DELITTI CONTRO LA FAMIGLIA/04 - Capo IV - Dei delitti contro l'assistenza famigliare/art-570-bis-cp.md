@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'assistenza famigliare"
 sezione: null
 sezione_label: null
 rubrica: "Violazione degli obblighi di assistenza familiare in caso di separazione o di scioglimento del matrimonio"
-dataVigenza: "20260930"
-ordine: 731
+dataVigenza: "20261103"
+ordine: 734
 ---
 
 # Art. 570-bis - ***Violazione degli obblighi di assistenza familiare in caso di separazione o di scioglimento del matrimonio***

@@ -14,8 +14,8 @@ capo_label: "Della falsità in sigilli o strumenti o segni di autenticazione, ce
 sezione: null
 sezione_label: null
 rubrica: "Uso o detenzione di misure o pesi con falsa impronta"
-dataVigenza: "20261016"
-ordine: 584
+dataVigenza: "20261103"
+ordine: 587
 ---
 
 # Art. 472 - ***Uso o detenzione di misure o pesi con falsa impronta***

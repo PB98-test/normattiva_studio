@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la personalità internazionale dello Stato"
 sezione: null
 sezione_label: null
 rubrica: "Disfattismo politico"
-dataVigenza: "20261016"
-ordine: 288
+dataVigenza: "20261103"
+ordine: 290
 ---
 
 # Art. 265 - ***Disfattismo politico***

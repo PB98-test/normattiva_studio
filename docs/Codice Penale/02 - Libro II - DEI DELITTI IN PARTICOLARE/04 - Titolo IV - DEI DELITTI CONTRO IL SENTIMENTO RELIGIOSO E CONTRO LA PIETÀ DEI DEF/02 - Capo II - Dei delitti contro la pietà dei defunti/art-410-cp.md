@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la pietà dei defunti"
 sezione: null
 sezione_label: null
 rubrica: "Vilipendio di cadavere"
-dataVigenza: "20260914"
-ordine: 493
+dataVigenza: "20261103"
+ordine: 495
 ---
 
 # Art. 410 - ***Vilipendio di cadavere***

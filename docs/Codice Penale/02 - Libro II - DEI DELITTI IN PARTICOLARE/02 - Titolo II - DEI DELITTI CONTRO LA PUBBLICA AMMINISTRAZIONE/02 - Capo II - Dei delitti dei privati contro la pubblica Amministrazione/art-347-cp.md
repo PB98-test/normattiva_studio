@@ -14,8 +14,8 @@ capo_label: "Dei delitti dei privati contro la pubblica Amministrazione"
 sezione: null
 sezione_label: null
 rubrica: "Usurpazione di funzioni pubbliche"
-dataVigenza: "20260914"
-ordine: 415
+dataVigenza: "20261103"
+ordine: 417
 ---
 
 # Art. 347 - ***Usurpazione di funzioni pubbliche***

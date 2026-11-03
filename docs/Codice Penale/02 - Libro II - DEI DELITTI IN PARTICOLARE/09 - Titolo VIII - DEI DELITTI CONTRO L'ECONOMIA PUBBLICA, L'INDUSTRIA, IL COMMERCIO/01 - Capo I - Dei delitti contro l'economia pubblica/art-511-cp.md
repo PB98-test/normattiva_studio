@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'economia pubblica"
 sezione: null
 sezione_label: null
 rubrica: "Pena per i capi, promotori e organizzatori"
-dataVigenza: "20260930"
-ordine: 635
+dataVigenza: "20261103"
+ordine: 638
 ---
 
 # Art. 511 - ***Pena per i capi, promotori e organizzatori***

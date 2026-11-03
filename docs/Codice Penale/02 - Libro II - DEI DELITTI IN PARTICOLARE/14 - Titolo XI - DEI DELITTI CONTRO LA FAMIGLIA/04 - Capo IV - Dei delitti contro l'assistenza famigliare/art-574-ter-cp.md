@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'assistenza famigliare"
 sezione: null
 sezione_label: null
 rubrica: "Costituzione di un'unione civile agli effetti della legge penale"
-dataVigenza: "20260930"
-ordine: 739
+dataVigenza: "20261103"
+ordine: 742
 ---
 
 # Art. 574-ter - ***Costituzione di un'unione civile agli effetti della legge penale***

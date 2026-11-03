@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'attività giudiziaria"
 sezione: null
 sezione_label: null
 rubrica: "Millantato credito del patrocinatore"
-dataVigenza: "20260914"
-ordine: 456
+dataVigenza: "20261103"
+ordine: 458
 ---
 
 # Art. 382 - ***Millantato credito del patrocinatore***

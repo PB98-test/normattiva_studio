@@ -14,8 +14,8 @@ capo_label: "Delle contravvenzioni concernenti la polizia di sicurezza"
 sezione: "III"
 sezione_label: "Delle contravvenzioni concernenti la prevenzione di talune specie di reati § 1 Delle contravvenzioni concernenti la tutela preventiva dei segreti"
 rubrica: "Consumo di bevande alcooliche in tempo di vendita non consentita"
-dataVigenza: "20261016"
-ordine: 946
+dataVigenza: "20261103"
+ordine: 950
 ---
 
 # Art. 687 - ***Consumo di bevande alcooliche in tempo di vendita non consentita***

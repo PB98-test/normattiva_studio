@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'economia pubblica"
 sezione: null
 sezione_label: null
 rubrica: "Manovre speculative su merci"
-dataVigenza: "20261016"
-ordine: 625
+dataVigenza: "20261103"
+ordine: 628
 ---
 
 # Art. 501-bis - ***Manovre speculative su merci***

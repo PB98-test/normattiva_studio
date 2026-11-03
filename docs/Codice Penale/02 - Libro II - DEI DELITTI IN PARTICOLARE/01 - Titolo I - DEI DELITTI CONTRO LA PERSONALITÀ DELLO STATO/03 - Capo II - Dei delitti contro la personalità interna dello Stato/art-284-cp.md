@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la personalità interna dello Stato"
 sezione: null
 sezione_label: null
 rubrica: "Insurrezione armata contro i poteri dello Stato"
-dataVigenza: "20261016"
-ordine: 329
+dataVigenza: "20261103"
+ordine: 331
 ---
 
 # Art. 284 - ***Insurrezione armata contro i poteri dello Stato***

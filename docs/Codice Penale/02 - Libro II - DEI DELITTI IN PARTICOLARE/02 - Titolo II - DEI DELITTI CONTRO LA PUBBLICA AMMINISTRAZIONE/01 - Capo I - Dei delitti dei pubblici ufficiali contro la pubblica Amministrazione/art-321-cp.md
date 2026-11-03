@@ -14,8 +14,8 @@ capo_label: "Dei delitti dei pubblici ufficiali contro la pubblica Amministrazio
 sezione: null
 sezione_label: null
 rubrica: "Pene per il corruttore"
-dataVigenza: "20261016"
-ordine: 377
+dataVigenza: "20261103"
+ordine: 379
 ---
 
 # Art. 321 - ***Pene per il corruttore***

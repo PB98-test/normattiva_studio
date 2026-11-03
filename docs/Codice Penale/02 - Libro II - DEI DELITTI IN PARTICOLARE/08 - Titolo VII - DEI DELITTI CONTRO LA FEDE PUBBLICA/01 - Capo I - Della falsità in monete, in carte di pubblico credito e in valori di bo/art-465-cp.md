@@ -14,8 +14,8 @@ capo_label: "Della falsità in monete, in carte di pubblico credito e in valori 
 sezione: null
 sezione_label: null
 rubrica: "Uso di biglietti falsificati di pubbliche imprese di trasporto"
-dataVigenza: "20260930"
-ordine: 576
+dataVigenza: "20261103"
+ordine: 579
 ---
 
 # Art. 465 - ***Uso di biglietti falsificati di pubbliche imprese di trasporto***

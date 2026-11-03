@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la vita e l'incolumità individuale"
 sezione: null
 sezione_label: null
 rubrica: "Fuga del conducente in caso di lesioni personali stradali e nautiche"
-dataVigenza: "20260930"
-ordine: 766
+dataVigenza: "20261103"
+ordine: 769
 ---
 
 # Art. 590-ter - ***Fuga del conducente in caso di lesioni personali stradali e nautiche***

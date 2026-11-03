@@ -14,8 +14,8 @@ capo_label: "Disposizioni comuni ..."
 sezione: null
 sezione_label: null
 rubrica: "Circostanze attenuanti"
-dataVigenza: "20260930"
-ordine: 855
+dataVigenza: "20261103"
+ordine: 858
 ---
 
 # Art. 623-quater - ***Circostanze attenuanti***

@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la vita e l'incolumità individuale"
 sezione: null
 sezione_label: null
 rubrica: "Percosse"
-dataVigenza: "20260930"
-ordine: 747
+dataVigenza: "20261103"
+ordine: 750
 ---
 
 # Art. 581 - ***Percosse***

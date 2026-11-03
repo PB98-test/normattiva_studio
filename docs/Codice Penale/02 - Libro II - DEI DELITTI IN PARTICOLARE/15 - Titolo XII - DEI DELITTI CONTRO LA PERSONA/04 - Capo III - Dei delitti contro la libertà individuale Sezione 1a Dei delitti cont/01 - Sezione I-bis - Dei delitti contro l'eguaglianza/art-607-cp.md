@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la libertà individuale Sezione 1a Dei delitti c
 sezione: "I-bis"
 sezione_label: "Dei delitti contro l'eguaglianza"
 rubrica: "Indebita limitazione di libertà personale"
-dataVigenza: "20260930"
-ordine: 810
+dataVigenza: "20261103"
+ordine: 813
 ---
 
 # Art. 607 - ***Indebita limitazione di libertà personale***

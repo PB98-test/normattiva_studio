@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Maltrattamento di animali"
-dataVigenza: "20260930"
-ordine: 699
+dataVigenza: "20261103"
+ordine: 702
 ---
 
 # Art. 544-ter - ***Maltrattamento di animali***

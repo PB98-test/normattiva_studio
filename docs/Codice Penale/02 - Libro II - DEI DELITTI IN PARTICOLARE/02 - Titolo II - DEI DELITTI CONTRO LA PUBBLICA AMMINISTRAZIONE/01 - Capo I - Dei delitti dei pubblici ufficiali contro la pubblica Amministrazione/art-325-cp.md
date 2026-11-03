@@ -14,8 +14,8 @@ capo_label: "Dei delitti dei pubblici ufficiali contro la pubblica Amministrazio
 sezione: null
 sezione_label: null
 rubrica: "Utilizzazione d'invenzioni o scoperte conosciute per ragione di ufficio"
-dataVigenza: "20260914"
-ordine: 387
+dataVigenza: "20261103"
+ordine: 389
 ---
 
 # Art. 325 - ***Utilizzazione d'invenzioni o scoperte conosciute per ragione di ufficio***

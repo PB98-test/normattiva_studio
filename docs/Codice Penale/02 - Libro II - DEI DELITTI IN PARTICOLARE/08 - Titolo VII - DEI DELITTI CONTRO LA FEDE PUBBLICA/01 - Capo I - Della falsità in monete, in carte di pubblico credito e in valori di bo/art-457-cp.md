@@ -14,8 +14,8 @@ capo_label: "Della falsità in monete, in carte di pubblico credito e in valori 
 sezione: null
 sezione_label: null
 rubrica: "Spendita di monete falsificate ricevute in buona fede"
-dataVigenza: "20260930"
-ordine: 568
+dataVigenza: "20261103"
+ordine: 571
 ---
 
 # Art. 457 - ***Spendita di monete falsificate ricevute in buona fede***

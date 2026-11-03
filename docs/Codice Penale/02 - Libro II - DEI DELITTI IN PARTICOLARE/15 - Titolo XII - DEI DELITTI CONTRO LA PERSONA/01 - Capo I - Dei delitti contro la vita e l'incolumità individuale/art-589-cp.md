@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la vita e l'incolumità individuale"
 sezione: null
 sezione_label: null
 rubrica: "Omicidio colposo"
-dataVigenza: "20260930"
-ordine: 761
+dataVigenza: "20261103"
+ordine: 764
 ---
 
 # Art. 589 - ***Omicidio colposo***

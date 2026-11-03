@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro lo stato di famiglia"
 sezione: null
 sezione_label: null
 rubrica: "Supposizione o soppressione di stato"
-dataVigenza: "20260930"
-ordine: 726
+dataVigenza: "20261103"
+ordine: 729
 ---
 
 # Art. 566 - ***Supposizione o soppressione di stato***

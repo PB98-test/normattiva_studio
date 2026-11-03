@@ -14,8 +14,8 @@ capo_label: "Della falsità in sigilli o strumenti o segni di autenticazione, ce
 sezione: null
 sezione_label: null
 rubrica: "Uso abusivo di sigilli e strumenti veri"
-dataVigenza: "20261016"
-ordine: 583
+dataVigenza: "20261103"
+ordine: 586
 ---
 
 # Art. 471 - ***Uso abusivo di sigilli e strumenti veri***

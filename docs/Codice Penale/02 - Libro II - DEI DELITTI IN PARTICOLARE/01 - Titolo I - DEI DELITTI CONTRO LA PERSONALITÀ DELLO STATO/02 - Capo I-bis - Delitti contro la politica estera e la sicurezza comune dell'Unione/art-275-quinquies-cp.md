@@ -14,8 +14,8 @@ capo_label: "Delitti contro la politica estera e la sicurezza comune dell'Unione
 sezione: null
 sezione_label: null
 rubrica: "Violazione colposa di misure restrittive dell'Unione europea"
-dataVigenza: "20260914"
-ordine: 313
+dataVigenza: "20261103"
+ordine: 315
 ---
 
 # Art. 275-quinquies - ***Violazione colposa di misure restrittive dell'Unione europea***

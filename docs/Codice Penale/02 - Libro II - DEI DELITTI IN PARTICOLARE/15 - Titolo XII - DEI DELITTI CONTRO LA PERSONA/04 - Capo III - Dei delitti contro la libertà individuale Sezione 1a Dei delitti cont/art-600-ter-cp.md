@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la libertà individuale Sezione 1a Dei delitti c
 sezione: null
 sezione_label: null
 rubrica: "Pornografia minorile"
-dataVigenza: "20260930"
-ordine: 784
+dataVigenza: "20261103"
+ordine: 787
 ---
 
 # Art. 600-ter - ***Pornografia minorile***

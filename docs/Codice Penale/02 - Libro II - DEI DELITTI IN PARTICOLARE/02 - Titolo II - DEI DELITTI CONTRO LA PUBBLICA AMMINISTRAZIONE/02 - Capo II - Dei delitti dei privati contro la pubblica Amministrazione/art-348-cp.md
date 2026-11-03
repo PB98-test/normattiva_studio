@@ -14,8 +14,8 @@ capo_label: "Dei delitti dei privati contro la pubblica Amministrazione"
 sezione: null
 sezione_label: null
 rubrica: "Esercizio abusivo di una professione"
-dataVigenza: "20260914"
-ordine: 416
+dataVigenza: "20261103"
+ordine: 418
 ---
 
 # Art. 348 - ***Esercizio abusivo di una professione***

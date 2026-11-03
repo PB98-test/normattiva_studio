@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro le confessioni religiose"
 sezione: null
 sezione_label: null
 rubrica: "Vilipendio della religione dello Stato"
-dataVigenza: "20260914"
-ordine: 485
+dataVigenza: "20261103"
+ordine: 487
 ---
 
 # Art. 402 - ***Vilipendio della religione dello Stato***

@@ -15,8 +15,8 @@ sezione: null
 sezione_label: null
 rubrica: null
 abrogato: true
-dataVigenza: "20260914"
-ordine: 383
+dataVigenza: "20261103"
+ordine: 385
 ---
 
 # Art. 323 - *(Omissis)*

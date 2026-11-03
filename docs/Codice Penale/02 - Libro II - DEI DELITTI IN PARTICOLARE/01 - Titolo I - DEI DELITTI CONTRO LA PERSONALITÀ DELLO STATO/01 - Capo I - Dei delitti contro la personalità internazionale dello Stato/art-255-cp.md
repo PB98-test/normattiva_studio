@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la personalità internazionale dello Stato"
 sezione: null
 sezione_label: null
 rubrica: "Soppressione, falsificazione o sottrazione di atti o documenti concernenti la sicurezza dello Stato"
-dataVigenza: "20261016"
-ordine: 278
+dataVigenza: "20261103"
+ordine: 280
 ---
 
 # Art. 255 - ***Soppressione, falsificazione o sottrazione di atti o documenti concernenti la sicurezza dello Stato***

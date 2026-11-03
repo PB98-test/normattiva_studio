@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'attività giudiziaria"
 sezione: null
 sezione_label: null
 rubrica: "Frode in processo penale e depistaggio"
-dataVigenza: "20261016"
-ordine: 447
+dataVigenza: "20261103"
+ordine: 449
 ---
 
 # Art. 375 - ***Frode in processo penale e depistaggio***

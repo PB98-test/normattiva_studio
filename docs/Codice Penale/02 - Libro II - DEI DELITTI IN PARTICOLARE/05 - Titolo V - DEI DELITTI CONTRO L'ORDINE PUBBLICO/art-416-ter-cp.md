@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Scambio elettorale politico-mafioso"
-dataVigenza: "20261016"
-ordine: 504
+dataVigenza: "20261103"
+ordine: 506
 ---
 
 # Art. 416-ter - ***Scambio elettorale politico-mafioso***

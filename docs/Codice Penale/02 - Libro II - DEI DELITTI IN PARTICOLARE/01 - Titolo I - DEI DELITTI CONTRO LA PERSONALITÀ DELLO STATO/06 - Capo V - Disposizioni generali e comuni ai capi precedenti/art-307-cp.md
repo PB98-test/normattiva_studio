@@ -14,8 +14,8 @@ capo_label: "Disposizioni generali e comuni ai capi precedenti"
 sezione: null
 sezione_label: null
 rubrica: "Assistenza ai partecipi di cospirazione o di banda armata"
-dataVigenza: "20260914"
-ordine: 356
+dataVigenza: "20261103"
+ordine: 358
 ---
 
 # Art. 307 - ***Assistenza ai partecipi di cospirazione o di banda armata***

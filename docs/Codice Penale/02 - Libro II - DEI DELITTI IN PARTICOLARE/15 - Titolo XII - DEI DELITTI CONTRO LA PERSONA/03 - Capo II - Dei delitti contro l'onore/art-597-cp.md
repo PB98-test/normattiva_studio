@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'onore"
 sezione: null
 sezione_label: null
 rubrica: "Querela della persona offesa ed estinzione del reato"
-dataVigenza: "20260930"
-ordine: 779
+dataVigenza: "20261103"
+ordine: 782
 ---
 
 # Art. 597 - ***Querela della persona offesa ed estinzione del reato***

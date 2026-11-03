@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro lo stato di famiglia"
 sezione: null
 sezione_label: null
 rubrica: "Alterazione di stato"
-dataVigenza: "20260930"
-ordine: 727
+dataVigenza: "20261103"
+ordine: 730
 ---
 
 # Art. 567 - ***Alterazione di stato***

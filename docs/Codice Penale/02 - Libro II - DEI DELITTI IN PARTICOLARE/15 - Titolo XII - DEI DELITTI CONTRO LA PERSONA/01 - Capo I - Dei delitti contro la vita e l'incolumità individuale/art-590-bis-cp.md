@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la vita e l'incolumità individuale"
 sezione: null
 sezione_label: null
 rubrica: "Lesioni personali stradali o nautiche gravi o gravissime"
-dataVigenza: "20260930"
-ordine: 765
+dataVigenza: "20261103"
+ordine: 768
 ---
 
 # Art. 590-bis - ***Lesioni personali stradali o nautiche gravi o gravissime***

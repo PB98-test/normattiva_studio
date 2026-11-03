@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'economia pubblica"
 sezione: null
 sezione_label: null
 rubrica: "Circostanze aggravanti"
-dataVigenza: "20260930"
-ordine: 634
+dataVigenza: "20261103"
+ordine: 637
 ---
 
 # Art. 510 - ***Circostanze aggravanti***

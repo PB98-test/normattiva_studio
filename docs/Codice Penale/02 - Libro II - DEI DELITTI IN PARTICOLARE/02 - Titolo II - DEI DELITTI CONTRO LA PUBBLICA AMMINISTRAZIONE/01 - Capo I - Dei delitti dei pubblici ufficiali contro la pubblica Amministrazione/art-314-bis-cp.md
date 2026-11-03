@@ -14,8 +14,8 @@ capo_label: "Dei delitti dei pubblici ufficiali contro la pubblica Amministrazio
 sezione: null
 sezione_label: null
 rubrica: "Indebita destinazione di denaro o cose mobili"
-dataVigenza: "20260914"
-ordine: 364
+dataVigenza: "20261103"
+ordine: 366
 ---
 
 # Art. 314-bis - ***Indebita destinazione di denaro o cose mobili***

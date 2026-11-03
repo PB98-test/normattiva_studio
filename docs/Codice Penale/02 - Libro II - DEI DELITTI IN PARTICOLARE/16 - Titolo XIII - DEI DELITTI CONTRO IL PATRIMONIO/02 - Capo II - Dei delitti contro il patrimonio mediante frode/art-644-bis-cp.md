@@ -15,8 +15,8 @@ sezione: null
 sezione_label: null
 rubrica: null
 abrogato: true
-dataVigenza: "20260930"
-ordine: 893
+dataVigenza: "20261103"
+ordine: 897
 ---
 
 # Art. 644-bis - *(Omissis)*

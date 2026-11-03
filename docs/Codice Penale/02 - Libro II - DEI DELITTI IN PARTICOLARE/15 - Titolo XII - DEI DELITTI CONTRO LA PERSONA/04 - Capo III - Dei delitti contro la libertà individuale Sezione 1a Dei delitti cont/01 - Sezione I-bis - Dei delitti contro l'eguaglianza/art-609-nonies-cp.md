@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la libertà individuale Sezione 1a Dei delitti c
 sezione: "I-bis"
 sezione_label: "Dei delitti contro l'eguaglianza"
 rubrica: "Pene accessorie ed altri effetti penali"
-dataVigenza: "20261016"
-ordine: 820
+dataVigenza: "20261103"
+ordine: 823
 ---
 
 # Art. 609-nonies - ***Pene accessorie ed altri effetti penali***

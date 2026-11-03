@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la personalità internazionale dello Stato"
 sezione: null
 sezione_label: null
 rubrica: "Addestramento ad attività con finalità di terrorismo anche internazionale"
-dataVigenza: "20261016"
-ordine: 299
+dataVigenza: "20261103"
+ordine: 301
 ---
 
 # Art. 270-quinquies - ***Addestramento ad attività con finalità di terrorismo anche internazionale***

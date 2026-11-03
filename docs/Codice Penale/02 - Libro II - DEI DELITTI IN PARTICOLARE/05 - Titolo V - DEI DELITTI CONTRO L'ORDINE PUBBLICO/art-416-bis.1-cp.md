@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Circostanze aggravanti e attenuanti per reati connessi ad attività mafiose"
-dataVigenza: "20260914"
-ordine: 503
+dataVigenza: "20261103"
+ordine: 505
 ---
 
 # Art. 416-bis.1 - ***Circostanze aggravanti e attenuanti per reati connessi ad attività mafiose***

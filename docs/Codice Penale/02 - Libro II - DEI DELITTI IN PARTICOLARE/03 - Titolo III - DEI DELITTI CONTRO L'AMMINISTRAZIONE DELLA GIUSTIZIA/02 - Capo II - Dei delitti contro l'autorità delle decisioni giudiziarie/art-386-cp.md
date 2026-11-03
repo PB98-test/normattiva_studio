@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'autorità delle decisioni giudiziarie"
 sezione: null
 sezione_label: null
 rubrica: "Procurata evasione"
-dataVigenza: "20261016"
-ordine: 463
+dataVigenza: "20261103"
+ordine: 465
 ---
 
 # Art. 386 - ***Procurata evasione***

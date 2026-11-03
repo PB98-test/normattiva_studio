@@ -14,8 +14,8 @@ capo_label: "Dei delitti dei pubblici ufficiali contro la pubblica Amministrazio
 sezione: null
 sezione_label: null
 rubrica: "Interruzione d'un servizio pubblico o di pubblica necessità"
-dataVigenza: "20260914"
-ordine: 393
+dataVigenza: "20261103"
+ordine: 395
 ---
 
 # Art. 331 - ***Interruzione d'un servizio pubblico o di pubblica necessità***

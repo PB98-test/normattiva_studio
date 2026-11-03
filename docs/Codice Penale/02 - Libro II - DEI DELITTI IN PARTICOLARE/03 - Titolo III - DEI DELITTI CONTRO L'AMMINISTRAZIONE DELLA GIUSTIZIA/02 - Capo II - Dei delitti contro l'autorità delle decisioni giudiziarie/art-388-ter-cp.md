@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'autorità delle decisioni giudiziarie"
 sezione: null
 sezione_label: null
 rubrica: "Mancata esecuzione fraudolenta di sanzioni pecuniarie"
-dataVigenza: "20260930"
-ordine: 468
+dataVigenza: "20261103"
+ordine: 470
 ---
 
 # Art. 388-ter - ***Mancata esecuzione fraudolenta di sanzioni pecuniarie***

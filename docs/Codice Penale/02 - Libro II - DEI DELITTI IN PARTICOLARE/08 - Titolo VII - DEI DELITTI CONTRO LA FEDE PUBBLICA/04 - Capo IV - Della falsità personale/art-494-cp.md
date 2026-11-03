@@ -14,8 +14,8 @@ capo_label: "Della falsità personale"
 sezione: null
 sezione_label: null
 rubrica: "Sostituzione di persona"
-dataVigenza: "20260930"
-ordine: 613
+dataVigenza: "20261103"
+ordine: 616
 ---
 
 # Art. 494 - ***Sostituzione di persona***

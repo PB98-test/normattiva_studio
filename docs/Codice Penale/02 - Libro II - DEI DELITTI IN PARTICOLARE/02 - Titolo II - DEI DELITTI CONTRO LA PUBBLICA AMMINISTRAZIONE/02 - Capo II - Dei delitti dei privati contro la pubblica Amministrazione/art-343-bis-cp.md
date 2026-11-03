@@ -14,8 +14,8 @@ capo_label: "Dei delitti dei privati contro la pubblica Amministrazione"
 sezione: null
 sezione_label: null
 rubrica: "Corte penale internazionale"
-dataVigenza: "20260914"
-ordine: 410
+dataVigenza: "20261103"
+ordine: 412
 ---
 
 # Art. 343-bis - ***Corte penale internazionale***

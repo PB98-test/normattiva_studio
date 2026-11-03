@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la vita e l'incolumità individuale"
 sezione: null
 sezione_label: null
 rubrica: "Lesioni personali a un ufficiale o agente di polizia giudiziaria o di pubblica sicurezza nell'atto o a causa dell'adempimento delle funzioni, a personale scolastico o educativo, a personale esercente una professione sanitaria o socio-sanitaria e a chiunque svolga attività ausiliarie a essa funzionali, nonchè a personale che svolge attività di prevenzione o accertamento delle infrazioni nell'ambito dei servizi di trasporto pubblico o agli arbitri e agli altri soggetti che assicurano la regolarità tecnica delle manifestazioni sportive"
-dataVigenza: "20260930"
-ordine: 752
+dataVigenza: "20261103"
+ordine: 755
 ---
 
 # Art. 583-quater - ***Lesioni personali a un ufficiale o agente di polizia giudiziaria o di pubblica sicurezza nell'atto o a causa dell'adempimento delle funzioni, a personale scolastico o educativo, a personale esercente una professione sanitaria o socio-sanitaria e a chiunque svolga attività ausiliarie a essa funzionali, nonchè a personale che svolge attività di prevenzione o accertamento delle infrazioni nell'ambito dei servizi di trasporto pubblico o agli arbitri e agli altri soggetti che assicurano la regolarità tecnica delle manifestazioni sportive***

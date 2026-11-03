@@ -14,8 +14,8 @@ capo_label: "Della falsità in monete, in carte di pubblico credito e in valori 
 sezione: null
 sezione_label: null
 rubrica: "Alterazione di segni nei valori di bollo o nei biglietti usati e uso degli oggetti così alterati"
-dataVigenza: "20261016"
-ordine: 577
+dataVigenza: "20261103"
+ordine: 580
 ---
 
 # Art. 466 - ***Alterazione di segni nei valori di bollo o nei biglietti usati e uso degli oggetti così alterati***

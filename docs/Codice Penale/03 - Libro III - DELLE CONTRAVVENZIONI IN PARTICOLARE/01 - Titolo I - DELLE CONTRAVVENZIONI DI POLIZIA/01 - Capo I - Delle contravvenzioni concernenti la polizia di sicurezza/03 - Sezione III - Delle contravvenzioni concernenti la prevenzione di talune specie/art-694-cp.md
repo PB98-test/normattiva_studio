@@ -14,8 +14,8 @@ capo_label: "Delle contravvenzioni concernenti la polizia di sicurezza"
 sezione: "III"
 sezione_label: "Delle contravvenzioni concernenti la prevenzione di talune specie di reati § 1 Delle contravvenzioni concernenti la tutela preventiva dei segreti"
 rubrica: "Omessa consegna di monete riconosciute contraffatte"
-dataVigenza: "20261016"
-ordine: 953
+dataVigenza: "20261103"
+ordine: 957
 ---
 
 # Art. 694 - ***Omessa consegna di monete riconosciute contraffatte***

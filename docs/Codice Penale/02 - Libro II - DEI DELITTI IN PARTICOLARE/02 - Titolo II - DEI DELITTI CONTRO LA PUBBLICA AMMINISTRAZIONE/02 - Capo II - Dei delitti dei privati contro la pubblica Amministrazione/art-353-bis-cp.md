@@ -14,8 +14,8 @@ capo_label: "Dei delitti dei privati contro la pubblica Amministrazione"
 sezione: null
 sezione_label: null
 rubrica: "Turbata libertà del procedimento di scelta del contraente"
-dataVigenza: "20260914"
-ordine: 422
+dataVigenza: "20261103"
+ordine: 424
 ---
 
 # Art. 353-bis - ***Turbata libertà del procedimento di scelta del contraente***

@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'economia pubblica"
 sezione: null
 sezione_label: null
 rubrica: "Rialzo e ribasso fraudolento di prezzi sul pubblico mercato o nelle borse di commercio"
-dataVigenza: "20260930"
-ordine: 624
+dataVigenza: "20261103"
+ordine: 627
 ---
 
 # Art. 501 - ***Rialzo e ribasso fraudolento di prezzi sul pubblico mercato o nelle borse di commercio***

@@ -14,8 +14,8 @@ capo_label: "Dei delitti dei pubblici ufficiali contro la pubblica Amministrazio
 sezione: null
 sezione_label: null
 rubrica: "Peculato"
-dataVigenza: "20261016"
-ordine: 363
+dataVigenza: "20261103"
+ordine: 365
 ---
 
 # Art. 314 - ***Peculato***

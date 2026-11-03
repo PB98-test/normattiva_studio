@@ -15,8 +15,8 @@ sezione: null
 sezione_label: null
 rubrica: null
 abrogato: true
-dataVigenza: "20260914"
-ordine: 480
+dataVigenza: "20261103"
+ordine: 482
 ---
 
 # Art. 397 - *(Omissis)*

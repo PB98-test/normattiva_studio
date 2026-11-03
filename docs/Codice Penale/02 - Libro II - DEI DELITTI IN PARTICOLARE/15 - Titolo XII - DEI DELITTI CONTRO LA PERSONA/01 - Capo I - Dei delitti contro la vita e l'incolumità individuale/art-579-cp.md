@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la vita e l'incolumità individuale"
 sezione: null
 sezione_label: null
 rubrica: "Omicidio del consenziente"
-dataVigenza: "20261016"
-ordine: 745
+dataVigenza: "20261103"
+ordine: 748
 ---
 
 # Art. 579 - ***Omicidio del consenziente***

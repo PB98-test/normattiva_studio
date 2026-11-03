@@ -14,8 +14,8 @@ capo_label: "Dei delitti dei pubblici ufficiali contro la pubblica Amministrazio
 sezione: null
 sezione_label: null
 rubrica: "Corruzione per un atto contrario ai doveri d'ufficio"
-dataVigenza: "20261016"
-ordine: 372
+dataVigenza: "20261103"
+ordine: 374
 ---
 
 # Art. 319 - ***Corruzione per un atto contrario ai doveri d'ufficio***

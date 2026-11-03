@@ -14,8 +14,8 @@ capo_label: "Disposizioni generali e comuni ai capi precedenti"
 sezione: null
 sezione_label: null
 rubrica: "Autorizzazione a procedere o richiesta di procedimento"
-dataVigenza: "20261016"
-ordine: 362
+dataVigenza: "20261103"
+ordine: 364
 ---
 
 # Art. 313 - ***Autorizzazione a procedere o richiesta di procedimento***

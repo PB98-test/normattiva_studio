@@ -14,8 +14,8 @@ capo_label: "Delitti contro la politica estera e la sicurezza comune dell'Unione
 sezione: null
 sezione_label: null
 rubrica: "Violazione delle condizioni dell'autorizzazione allo svolgimento di attività"
-dataVigenza: "20260914"
-ordine: 312
+dataVigenza: "20261103"
+ordine: 314
 ---
 
 # Art. 275-quater - ***Violazione delle condizioni dell'autorizzazione allo svolgimento di attività***

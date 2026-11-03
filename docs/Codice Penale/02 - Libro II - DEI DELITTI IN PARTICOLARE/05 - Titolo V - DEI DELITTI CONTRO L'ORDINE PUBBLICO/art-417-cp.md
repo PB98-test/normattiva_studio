@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Misura di sicurezza"
-dataVigenza: "20260914"
-ordine: 505
+dataVigenza: "20261103"
+ordine: 507
 ---
 
 # Art. 417 - ***Misura di sicurezza***

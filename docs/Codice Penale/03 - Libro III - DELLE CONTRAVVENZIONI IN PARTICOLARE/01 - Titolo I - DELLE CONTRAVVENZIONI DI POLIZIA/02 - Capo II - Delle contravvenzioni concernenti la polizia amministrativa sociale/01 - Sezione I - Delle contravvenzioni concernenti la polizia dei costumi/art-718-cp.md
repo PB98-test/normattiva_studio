@@ -14,8 +14,8 @@ capo_label: "Delle contravvenzioni concernenti la polizia amministrativa sociale
 sezione: "I"
 sezione_label: "Delle contravvenzioni concernenti la polizia dei costumi"
 rubrica: "Esercizio di giuochi d'azzardo"
-dataVigenza: "20261016"
-ordine: 978
+dataVigenza: "20261103"
+ordine: 982
 ---
 
 # Art. 718 - ***Esercizio di giuochi d'azzardo***

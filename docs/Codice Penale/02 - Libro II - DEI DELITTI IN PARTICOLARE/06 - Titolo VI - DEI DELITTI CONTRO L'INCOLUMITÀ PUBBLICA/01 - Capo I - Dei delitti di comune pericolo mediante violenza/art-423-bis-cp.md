@@ -14,8 +14,8 @@ capo_label: "Dei delitti di comune pericolo mediante violenza"
 sezione: null
 sezione_label: null
 rubrica: "Incendio boschivo"
-dataVigenza: "20261016"
-ordine: 513
+dataVigenza: "20261103"
+ordine: 516
 ---
 
 # Art. 423-bis - ***Incendio boschivo***

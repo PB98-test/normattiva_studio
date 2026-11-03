@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'autorità delle decisioni giudiziarie"
 sezione: null
 sezione_label: null
 rubrica: "Evasione"
-dataVigenza: "20260914"
-ordine: 462
+dataVigenza: "20261103"
+ordine: 464
 ---
 
 # Art. 385 - ***Evasione***

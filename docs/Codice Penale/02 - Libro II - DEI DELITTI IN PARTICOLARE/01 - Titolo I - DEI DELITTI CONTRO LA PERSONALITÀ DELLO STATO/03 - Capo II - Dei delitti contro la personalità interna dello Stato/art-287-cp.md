@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la personalità interna dello Stato"
 sezione: null
 sezione_label: null
 rubrica: "Usurpazione di potere politico o di comando militare"
-dataVigenza: "20261016"
-ordine: 332
+dataVigenza: "20261103"
+ordine: 334
 ---
 
 # Art. 287 - ***Usurpazione di potere politico o di comando militare***

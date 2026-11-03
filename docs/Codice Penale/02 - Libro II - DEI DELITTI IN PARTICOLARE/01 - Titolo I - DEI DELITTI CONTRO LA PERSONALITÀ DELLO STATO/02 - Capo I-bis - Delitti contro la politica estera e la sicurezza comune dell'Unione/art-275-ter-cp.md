@@ -14,8 +14,8 @@ capo_label: "Delitti contro la politica estera e la sicurezza comune dell'Unione
 sezione: null
 sezione_label: null
 rubrica: "Violazione di obblighi informativi imposti da una misura restrittiva dell'Unione europea"
-dataVigenza: "20260914"
-ordine: 311
+dataVigenza: "20261103"
+ordine: 313
 ---
 
 # Art. 275-ter - ***Violazione di obblighi informativi imposti da una misura restrittiva dell'Unione europea***

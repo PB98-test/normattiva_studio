@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la personalità interna dello Stato"
 sezione: null
 sezione_label: null
 rubrica: "Sequestro di persona a scopo di terrorismo o di eversione"
-dataVigenza: "20260914"
-ordine: 335
+dataVigenza: "20261103"
+ordine: 337
 ---
 
 # Art. 289-bis - ***Sequestro di persona a scopo di terrorismo o di eversione***

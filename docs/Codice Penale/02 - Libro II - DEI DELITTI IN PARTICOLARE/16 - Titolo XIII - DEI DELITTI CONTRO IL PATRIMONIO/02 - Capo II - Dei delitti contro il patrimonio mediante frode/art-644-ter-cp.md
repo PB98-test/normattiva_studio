@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro il patrimonio mediante frode"
 sezione: null
 sezione_label: null
 rubrica: "Prescrizione del reato di usura"
-dataVigenza: "20260930"
-ordine: 894
+dataVigenza: "20261103"
+ordine: 898
 ---
 
 # Art. 644-ter - ***Prescrizione del reato di usura***

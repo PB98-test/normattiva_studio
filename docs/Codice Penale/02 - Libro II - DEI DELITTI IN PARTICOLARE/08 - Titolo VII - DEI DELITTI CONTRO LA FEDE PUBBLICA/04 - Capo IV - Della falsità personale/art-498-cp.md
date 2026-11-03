@@ -14,8 +14,8 @@ capo_label: "Della falsità personale"
 sezione: null
 sezione_label: null
 rubrica: "Usurpazione di titoli o di onori"
-dataVigenza: "20260930"
-ordine: 621
+dataVigenza: "20261103"
+ordine: 624
 ---
 
 # Art. 498 - ***Usurpazione di titoli o di onori***

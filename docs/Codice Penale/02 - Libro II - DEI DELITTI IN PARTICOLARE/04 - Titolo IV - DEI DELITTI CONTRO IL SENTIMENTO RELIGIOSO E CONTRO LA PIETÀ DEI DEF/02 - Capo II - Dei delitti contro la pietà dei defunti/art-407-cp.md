@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la pietà dei defunti"
 sezione: null
 sezione_label: null
 rubrica: "Violazione di sepolcro"
-dataVigenza: "20260914"
-ordine: 490
+dataVigenza: "20261103"
+ordine: 492
 ---
 
 # Art. 407 - ***Violazione di sepolcro***

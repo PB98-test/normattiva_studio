@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la personalità internazionale dello Stato"
 sezione: null
 sezione_label: null
 rubrica: "Associazioni con finalità di terrorismo anche internazionale o di eversione dell'ordine democratico"
-dataVigenza: "20261016"
-ordine: 294
+dataVigenza: "20261103"
+ordine: 296
 ---
 
 # Art. 270-bis - ***Associazioni con finalità di terrorismo anche internazionale o di eversione dell'ordine democratico***

@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro il matrimonio"
 sezione: null
 sezione_label: null
 rubrica: "Bigamia"
-dataVigenza: "20260930"
-ordine: 715
+dataVigenza: "20261103"
+ordine: 718
 ---
 
 # Art. 556 - ***Bigamia***

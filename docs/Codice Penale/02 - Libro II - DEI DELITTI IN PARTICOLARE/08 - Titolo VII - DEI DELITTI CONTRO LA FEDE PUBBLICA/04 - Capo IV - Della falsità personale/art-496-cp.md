@@ -14,8 +14,8 @@ capo_label: "Della falsità personale"
 sezione: null
 sezione_label: null
 rubrica: "False dichiarazioni sulla identità o su qualità personali proprie o di altri"
-dataVigenza: "20260930"
-ordine: 617
+dataVigenza: "20261103"
+ordine: 620
 ---
 
 # Art. 496 - ***False dichiarazioni sulla identità o su qualità personali proprie o di altri***

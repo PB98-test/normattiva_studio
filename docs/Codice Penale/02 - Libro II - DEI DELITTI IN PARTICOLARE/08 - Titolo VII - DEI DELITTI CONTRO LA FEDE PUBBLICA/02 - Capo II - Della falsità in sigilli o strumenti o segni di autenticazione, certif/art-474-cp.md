@@ -14,8 +14,8 @@ capo_label: "Della falsità in sigilli o strumenti o segni di autenticazione, ce
 sezione: null
 sezione_label: null
 rubrica: "Introduzione nello Stato e commercio di prodotti con segni falsi"
-dataVigenza: "20261016"
-ordine: 586
+dataVigenza: "20261103"
+ordine: 589
 ---
 
 # Art. 474 - ***Introduzione nello Stato e commercio di prodotti con segni falsi***

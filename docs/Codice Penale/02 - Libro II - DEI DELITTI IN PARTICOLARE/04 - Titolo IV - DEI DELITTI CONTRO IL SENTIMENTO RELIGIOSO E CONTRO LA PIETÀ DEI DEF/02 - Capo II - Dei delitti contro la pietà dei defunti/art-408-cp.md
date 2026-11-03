@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la pietà dei defunti"
 sezione: null
 sezione_label: null
 rubrica: "Vilipendio delle tombe"
-dataVigenza: "20260914"
-ordine: 491
+dataVigenza: "20261103"
+ordine: 493
 ---
 
 # Art. 408 - ***Vilipendio delle tombe***

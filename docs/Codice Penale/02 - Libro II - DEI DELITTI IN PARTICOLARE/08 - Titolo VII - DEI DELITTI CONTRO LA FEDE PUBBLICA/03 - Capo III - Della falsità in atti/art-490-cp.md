@@ -14,8 +14,8 @@ capo_label: "Della falsità in atti"
 sezione: null
 sezione_label: null
 rubrica: "Soppressione, distruzione e occultamento di atti veri"
-dataVigenza: "20261016"
-ordine: 605
+dataVigenza: "20261103"
+ordine: 608
 ---
 
 # Art. 490 - ***Soppressione, distruzione e occultamento di atti veri***

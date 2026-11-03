@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'assistenza famigliare"
 sezione: null
 sezione_label: null
 rubrica: "Sottrazione e trattenimento di minore all'estero"
-dataVigenza: "20260930"
-ordine: 738
+dataVigenza: "20261103"
+ordine: 741
 ---
 
 # Art. 574-bis - ***Sottrazione e trattenimento di minore all'estero***

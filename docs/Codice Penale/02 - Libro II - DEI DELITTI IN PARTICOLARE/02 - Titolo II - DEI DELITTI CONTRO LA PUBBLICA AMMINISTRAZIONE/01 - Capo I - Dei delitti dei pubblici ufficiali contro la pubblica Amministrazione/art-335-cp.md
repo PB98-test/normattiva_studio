@@ -14,8 +14,8 @@ capo_label: "Dei delitti dei pubblici ufficiali contro la pubblica Amministrazio
 sezione: null
 sezione_label: null
 rubrica: "Violazione colposa di doveri inerenti alla custodia di cose sottoposte a sequestro disposto nel corso di un procedimento penale o dall'autorità amministrativa"
-dataVigenza: "20260914"
-ordine: 397
+dataVigenza: "20261103"
+ordine: 399
 ---
 
 # Art. 335 - ***Violazione colposa di doveri inerenti alla custodia di cose sottoposte a sequestro disposto nel corso di un procedimento penale o dall'autorità amministrativa***

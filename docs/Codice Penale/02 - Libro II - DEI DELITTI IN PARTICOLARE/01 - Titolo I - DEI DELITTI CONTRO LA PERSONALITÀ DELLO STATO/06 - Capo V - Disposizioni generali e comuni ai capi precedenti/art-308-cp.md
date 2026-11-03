@@ -14,8 +14,8 @@ capo_label: "Disposizioni generali e comuni ai capi precedenti"
 sezione: null
 sezione_label: null
 rubrica: "Cospirazione: casi di non punibilità"
-dataVigenza: "20261016"
-ordine: 357
+dataVigenza: "20261103"
+ordine: 359
 ---
 
 # Art. 308 - ***Cospirazione: casi di non punibilità***

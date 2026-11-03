@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la libertà individuale Sezione 1a Dei delitti c
 sezione: "I-bis"
 sezione_label: "Dei delitti contro l'eguaglianza"
 rubrica: "Violenza sessuale di gruppo"
-dataVigenza: "20260930"
-ordine: 819
+dataVigenza: "20261103"
+ordine: 822
 ---
 
 # Art. 609-octies - ***Violenza sessuale di gruppo***

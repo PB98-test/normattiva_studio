@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la personalità interna dello Stato"
 sezione: null
 sezione_label: null
 rubrica: "Devastazione, saccheggio e strage"
-dataVigenza: "20261016"
-ordine: 330
+dataVigenza: "20261103"
+ordine: 332
 ---
 
 # Art. 285 - ***Devastazione, saccheggio e strage***

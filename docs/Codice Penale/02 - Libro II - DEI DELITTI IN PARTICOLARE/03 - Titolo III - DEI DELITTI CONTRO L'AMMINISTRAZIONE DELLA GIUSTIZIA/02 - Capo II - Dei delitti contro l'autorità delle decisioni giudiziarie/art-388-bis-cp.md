@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'autorità delle decisioni giudiziarie"
 sezione: null
 sezione_label: null
 rubrica: "Violazione colposa dei doveri inerenti alla custodia di cose sottoposte a pignoramento ovvero a sequestro giudiziario o conservativo"
-dataVigenza: "20260914"
-ordine: 467
+dataVigenza: "20261103"
+ordine: 469
 ---
 
 # Art. 388-bis - ***Violazione colposa dei doveri inerenti alla custodia di cose sottoposte a pignoramento ovvero a sequestro giudiziario o conservativo***

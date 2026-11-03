@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la vita e l'incolumità individuale"
 sezione: null
 sezione_label: null
 rubrica: "Definizione di strade urbane e extraurbane"
-dataVigenza: "20260930"
-ordine: 768
+dataVigenza: "20261103"
+ordine: 771
 ---
 
 # Art. 590-quinquies - ***Definizione di strade urbane e extraurbane***

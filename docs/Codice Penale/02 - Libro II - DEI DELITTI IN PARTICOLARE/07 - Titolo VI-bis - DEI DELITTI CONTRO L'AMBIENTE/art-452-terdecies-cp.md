@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Omessa bonifica"
-dataVigenza: "20260930"
-ordine: 560
+dataVigenza: "20261103"
+ordine: 563
 ---
 
 # Art. 452-terdecies - ***Omessa bonifica***

@@ -15,8 +15,8 @@ sezione: null
 sezione_label: null
 rubrica: null
 abrogato: true
-dataVigenza: "20260914"
-ordine: 413
+dataVigenza: "20261103"
+ordine: 415
 ---
 
 # Art. 346 - *(Omissis)*

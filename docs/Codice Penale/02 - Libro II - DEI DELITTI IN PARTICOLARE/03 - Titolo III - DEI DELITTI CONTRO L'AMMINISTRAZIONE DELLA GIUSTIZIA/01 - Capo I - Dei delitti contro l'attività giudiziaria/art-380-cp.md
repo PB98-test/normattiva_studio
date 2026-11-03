@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'attività giudiziaria"
 sezione: null
 sezione_label: null
 rubrica: "Patrocinio o consulenza infedele"
-dataVigenza: "20261016"
-ordine: 454
+dataVigenza: "20261103"
+ordine: 456
 ---
 
 # Art. 380 - ***Patrocinio o consulenza infedele***

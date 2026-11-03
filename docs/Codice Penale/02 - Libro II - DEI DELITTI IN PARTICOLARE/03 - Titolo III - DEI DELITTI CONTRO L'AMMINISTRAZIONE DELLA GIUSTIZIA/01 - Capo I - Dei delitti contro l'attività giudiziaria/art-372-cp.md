@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'attività giudiziaria"
 sezione: null
 sezione_label: null
 rubrica: "Falsa testimonianza"
-dataVigenza: "20260914"
-ordine: 443
+dataVigenza: "20261103"
+ordine: 445
 ---
 
 # Art. 372 - ***Falsa testimonianza***

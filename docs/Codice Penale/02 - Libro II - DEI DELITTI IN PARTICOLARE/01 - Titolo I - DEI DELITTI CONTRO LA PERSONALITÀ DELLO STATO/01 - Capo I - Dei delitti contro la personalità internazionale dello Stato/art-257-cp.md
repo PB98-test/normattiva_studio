@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la personalità internazionale dello Stato"
 sezione: null
 sezione_label: null
 rubrica: "Spionaggio politico o militare"
-dataVigenza: "20261016"
-ordine: 280
+dataVigenza: "20261103"
+ordine: 282
 ---
 
 # Art. 257 - ***Spionaggio politico o militare***

@@ -14,8 +14,8 @@ capo_label: "Della falsità in atti"
 sezione: null
 sezione_label: null
 rubrica: "Falsità ideologica commessa dal pubblico ufficiale in atti pubblici"
-dataVigenza: "20260930"
-ordine: 594
+dataVigenza: "20261103"
+ordine: 597
 ---
 
 # Art. 479 - ***Falsità ideologica commessa dal pubblico ufficiale in atti pubblici***

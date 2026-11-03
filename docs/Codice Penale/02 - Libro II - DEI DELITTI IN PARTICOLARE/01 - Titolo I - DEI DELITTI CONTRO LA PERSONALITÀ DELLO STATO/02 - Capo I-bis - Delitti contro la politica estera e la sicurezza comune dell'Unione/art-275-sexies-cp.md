@@ -14,8 +14,8 @@ capo_label: "Delitti contro la politica estera e la sicurezza comune dell'Unione
 sezione: null
 sezione_label: null
 rubrica: "Circostanze aggravanti"
-dataVigenza: "20260914"
-ordine: 314
+dataVigenza: "20261103"
+ordine: 316
 ---
 
 # Art. 275-sexies - ***Circostanze aggravanti***

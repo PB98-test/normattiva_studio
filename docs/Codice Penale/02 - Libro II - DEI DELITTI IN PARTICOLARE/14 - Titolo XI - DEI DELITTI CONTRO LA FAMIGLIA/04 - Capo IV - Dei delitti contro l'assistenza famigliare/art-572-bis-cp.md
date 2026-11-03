@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'assistenza famigliare"
 sezione: null
 sezione_label: null
 rubrica: "Confisca"
-dataVigenza: "20261016"
-ordine: 735
+dataVigenza: "20261103"
+ordine: 738
 ---
 
 # Art. 572-bis - ***Confisca***

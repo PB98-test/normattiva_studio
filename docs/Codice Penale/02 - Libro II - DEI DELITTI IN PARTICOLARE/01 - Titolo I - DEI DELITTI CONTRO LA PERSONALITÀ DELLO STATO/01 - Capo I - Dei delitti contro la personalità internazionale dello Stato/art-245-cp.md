@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la personalità internazionale dello Stato"
 sezione: null
 sezione_label: null
 rubrica: "Intelligenze con lo straniero per impegnare lo Stato italiano alla neutralità o alla guerra"
-dataVigenza: "20260914"
-ordine: 268
+dataVigenza: "20261103"
+ordine: 270
 ---
 
 # Art. 245 - ***Intelligenze con lo straniero per impegnare lo Stato italiano alla neutralità o alla guerra***

@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro il patrimonio agroalimentare"
 sezione: null
 sezione_label: null
 rubrica: "Frode alimentare"
-dataVigenza: "20260930"
-ordine: 648
+dataVigenza: "20261103"
+ordine: 651
 ---
 
 # Art. 517-sexies - ***Frode alimentare***

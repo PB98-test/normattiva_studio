@@ -14,8 +14,8 @@ capo_label: "Dei delitti dei privati contro la pubblica Amministrazione"
 sezione: null
 sezione_label: null
 rubrica: "Circostanza aggravante. Atti intimidatori di natura ritorsiva ai danni di un componente di un Corpo politico, amministrativo o giudiziario"
-dataVigenza: "20260930"
-ordine: 404
+dataVigenza: "20261103"
+ordine: 406
 ---
 
 # Art. 339-bis - ***Circostanza aggravante. Atti intimidatori di natura ritorsiva ai danni di un componente di un Corpo politico, amministrativo o giudiziario***

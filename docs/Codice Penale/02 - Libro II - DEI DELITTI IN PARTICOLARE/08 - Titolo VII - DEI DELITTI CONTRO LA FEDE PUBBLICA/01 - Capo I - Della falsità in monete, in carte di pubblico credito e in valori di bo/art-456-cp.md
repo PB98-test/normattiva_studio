@@ -14,8 +14,8 @@ capo_label: "Della falsità in monete, in carte di pubblico credito e in valori 
 sezione: null
 sezione_label: null
 rubrica: "Circostanze aggravanti"
-dataVigenza: "20260930"
-ordine: 567
+dataVigenza: "20261103"
+ordine: 570
 ---
 
 # Art. 456 - ***Circostanze aggravanti***

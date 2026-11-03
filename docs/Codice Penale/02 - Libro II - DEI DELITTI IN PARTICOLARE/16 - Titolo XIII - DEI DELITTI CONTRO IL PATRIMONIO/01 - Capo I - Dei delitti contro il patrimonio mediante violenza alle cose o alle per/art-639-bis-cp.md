@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro il patrimonio mediante violenza alle cose o alle
 sezione: null
 sezione_label: null
 rubrica: "Casi di esclusione della perseguibilità a querela"
-dataVigenza: "20260930"
-ordine: 882
+dataVigenza: "20261103"
+ordine: 886
 ---
 
 # Art. 639-bis - ***Casi di esclusione della perseguibilità a querela***

@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'economia pubblica"
 sezione: null
 sezione_label: null
 rubrica: "Serrata di esercenti di piccole industrie o commerci"
-dataVigenza: "20260930"
-ordine: 630
+dataVigenza: "20261103"
+ordine: 633
 ---
 
 # Art. 506 - ***Serrata di esercenti di piccole industrie o commerci***

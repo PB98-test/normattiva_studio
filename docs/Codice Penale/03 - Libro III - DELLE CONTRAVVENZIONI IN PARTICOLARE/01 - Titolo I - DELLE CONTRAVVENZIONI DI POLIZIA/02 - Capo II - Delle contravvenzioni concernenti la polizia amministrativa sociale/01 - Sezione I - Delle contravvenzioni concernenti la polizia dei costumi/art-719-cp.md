@@ -14,8 +14,8 @@ capo_label: "Delle contravvenzioni concernenti la polizia amministrativa sociale
 sezione: "I"
 sezione_label: "Delle contravvenzioni concernenti la polizia dei costumi"
 rubrica: "Circostanze aggravanti"
-dataVigenza: "20261016"
-ordine: 979
+dataVigenza: "20261103"
+ordine: 983
 ---
 
 # Art. 719 - ***Circostanze aggravanti***

@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Attentato a impianti di pubblica utilità"
-dataVigenza: "20261102"
-ordine: 508
+dataVigenza: "20261103"
+ordine: 510
 ---
 
 # Art. 420 - ***Attentato a impianti di pubblica utilità***

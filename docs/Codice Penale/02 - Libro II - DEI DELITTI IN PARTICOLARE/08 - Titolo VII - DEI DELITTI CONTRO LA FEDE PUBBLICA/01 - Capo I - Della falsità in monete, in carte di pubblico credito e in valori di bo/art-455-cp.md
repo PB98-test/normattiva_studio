@@ -14,8 +14,8 @@ capo_label: "Della falsità in monete, in carte di pubblico credito e in valori 
 sezione: null
 sezione_label: null
 rubrica: "Spendita e introduzione nello Stato, senza concerto, di monete falsificate"
-dataVigenza: "20260930"
-ordine: 566
+dataVigenza: "20261103"
+ordine: 569
 ---
 
 # Art. 455 - ***Spendita e introduzione nello Stato, senza concerto, di monete falsificate***

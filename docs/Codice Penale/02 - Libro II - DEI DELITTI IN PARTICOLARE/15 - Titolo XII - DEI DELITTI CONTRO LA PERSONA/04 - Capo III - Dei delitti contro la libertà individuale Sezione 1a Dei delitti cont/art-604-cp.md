@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la libertà individuale Sezione 1a Dei delitti c
 sezione: null
 sezione_label: null
 rubrica: "Fatto commesso all'estero"
-dataVigenza: "20261016"
-ordine: 805
+dataVigenza: "20261103"
+ordine: 808
 ---
 
 # Art. 604 - ***Fatto commesso all'estero***

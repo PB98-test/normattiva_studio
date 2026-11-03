@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'economia pubblica"
 sezione: null
 sezione_label: null
 rubrica: "Serrata o sciopero a scopo di solidarietà o di protesta"
-dataVigenza: "20260930"
-ordine: 629
+dataVigenza: "20261103"
+ordine: 632
 ---
 
 # Art. 505 - ***Serrata o sciopero a scopo di solidarietà o di protesta***

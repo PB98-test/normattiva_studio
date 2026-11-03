@@ -14,8 +14,8 @@ capo_label: "Delle contravvenzioni concernenti la polizia amministrativa sociale
 sezione: "I"
 sezione_label: "Delle contravvenzioni concernenti la polizia dei costumi"
 rubrica: "Abbandono di animali"
-dataVigenza: "20260930"
-ordine: 987
+dataVigenza: "20261103"
+ordine: 991
 ---
 
 # Art. 727 - ***Abbandono di animali***

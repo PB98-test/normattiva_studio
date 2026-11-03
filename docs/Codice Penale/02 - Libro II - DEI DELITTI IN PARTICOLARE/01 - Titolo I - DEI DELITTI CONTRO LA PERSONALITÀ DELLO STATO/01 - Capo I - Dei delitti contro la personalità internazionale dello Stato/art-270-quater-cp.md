@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la personalità internazionale dello Stato"
 sezione: null
 sezione_label: null
 rubrica: "Arruolamento con finalità di terrorismo anche internazionale"
-dataVigenza: "20261016"
-ordine: 297
+dataVigenza: "20261103"
+ordine: 299
 ---
 
 # Art. 270-quater - ***Arruolamento con finalità di terrorismo anche internazionale***

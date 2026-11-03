@@ -14,8 +14,8 @@ capo_label: "Dei delitti dei privati contro la pubblica Amministrazione"
 sezione: null
 sezione_label: null
 rubrica: "Interruzione di un ufficio o servizio pubblico o di un servizio di pubblica necessità"
-dataVigenza: "20261016"
-ordine: 405
+dataVigenza: "20261103"
+ordine: 407
 ---
 
 # Art. 340 - ***Interruzione di un ufficio o servizio pubblico o di un servizio di pubblica necessità***

@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la pietà dei defunti"
 sezione: null
 sezione_label: null
 rubrica: "Turbamento di un funerale o servizio funebre"
-dataVigenza: "20260914"
-ordine: 492
+dataVigenza: "20261103"
+ordine: 494
 ---
 
 # Art. 409 - ***Turbamento di un funerale o servizio funebre***

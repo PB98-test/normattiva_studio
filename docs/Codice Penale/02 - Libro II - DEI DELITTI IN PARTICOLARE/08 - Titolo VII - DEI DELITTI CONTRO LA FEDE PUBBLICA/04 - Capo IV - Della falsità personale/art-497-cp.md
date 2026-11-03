@@ -14,8 +14,8 @@ capo_label: "Della falsità personale"
 sezione: null
 sezione_label: null
 rubrica: "Frode nel farsi rilasciare certificati del casellario giudiziale e uso indebito di tali certificati"
-dataVigenza: "20260930"
-ordine: 618
+dataVigenza: "20261103"
+ordine: 621
 ---
 
 # Art. 497 - ***Frode nel farsi rilasciare certificati del casellario giudiziale e uso indebito di tali certificati***

@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la vita e l'incolumità individuale"
 sezione: null
 sezione_label: null
 rubrica: "Responsabilità colposa per morte o lesioni personali in ambito sanitario"
-dataVigenza: "20260930"
-ordine: 769
+dataVigenza: "20261103"
+ordine: 772
 ---
 
 # Art. 590-sexies - ***Responsabilità colposa per morte o lesioni personali in ambito sanitario***

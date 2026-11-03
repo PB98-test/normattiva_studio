@@ -14,8 +14,8 @@ capo_label: "Dei delitti dei pubblici ufficiali contro la pubblica Amministrazio
 sezione: null
 sezione_label: null
 rubrica: "Peculato mediante profitto dell'errore altrui"
-dataVigenza: "20261016"
-ordine: 366
+dataVigenza: "20261103"
+ordine: 368
 ---
 
 # Art. 316 - ***Peculato mediante profitto dell'errore altrui***

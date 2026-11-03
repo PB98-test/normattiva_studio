@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la vita e l'incolumità individuale"
 sezione: null
 sezione_label: null
 rubrica: "Circostanze aggravanti"
-dataVigenza: "20261016"
-ordine: 749
+dataVigenza: "20261103"
+ordine: 752
 ---
 
 # Art. 583 - ***Circostanze aggravanti***

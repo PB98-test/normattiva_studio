@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Circostanze attenuanti"
-dataVigenza: "20260930"
-ordine: 669
+dataVigenza: "20261103"
+ordine: 672
 ---
 
 # Art. 518-septiesdecies - ***Circostanze attenuanti***

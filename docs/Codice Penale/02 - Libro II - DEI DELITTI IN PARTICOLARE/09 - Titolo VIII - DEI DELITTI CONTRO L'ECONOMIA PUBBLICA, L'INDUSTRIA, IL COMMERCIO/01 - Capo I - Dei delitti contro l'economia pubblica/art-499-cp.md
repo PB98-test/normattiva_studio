@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'economia pubblica"
 sezione: null
 sezione_label: null
 rubrica: "Distruzione di materie prime o di prodotti agricoli o industriali ovvero di mezzi di produzione"
-dataVigenza: "20260930"
-ordine: 622
+dataVigenza: "20261103"
+ordine: 625
 ---
 
 # Art. 499 - ***Distruzione di materie prime o di prodotti agricoli o industriali ovvero di mezzi di produzione***

@@ -14,8 +14,8 @@ capo_label: "Delle offese al pudore e all'onore sessuale"
 sezione: null
 sezione_label: null
 rubrica: "Pubblicazioni e spettacoli osceni"
-dataVigenza: "20261016"
-ordine: 681
+dataVigenza: "20261103"
+ordine: 684
 ---
 
 # Art. 528 - ***Pubblicazioni e spettacoli osceni***

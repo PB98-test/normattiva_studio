@@ -14,8 +14,8 @@ capo_label: "Dei delitti di comune pericolo mediante violenza"
 sezione: null
 sezione_label: null
 rubrica: "Pericolo di disastro ferroviario causato da danneggiamento"
-dataVigenza: "20261016"
-ordine: 523
+dataVigenza: "20261103"
+ordine: 526
 ---
 
 # Art. 431 - ***Pericolo di disastro ferroviario causato da danneggiamento***

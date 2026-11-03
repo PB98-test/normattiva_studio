@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Associazione per delinquere"
-dataVigenza: "20261102"
-ordine: 501
+dataVigenza: "20261103"
+ordine: 503
 ---
 
 # Art. 416 - ***Associazione per delinquere***

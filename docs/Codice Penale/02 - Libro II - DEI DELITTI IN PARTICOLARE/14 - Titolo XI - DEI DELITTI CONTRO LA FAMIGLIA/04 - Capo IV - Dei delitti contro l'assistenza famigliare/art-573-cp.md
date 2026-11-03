@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'assistenza famigliare"
 sezione: null
 sezione_label: null
 rubrica: "Sottrazione consensuale di minorenni"
-dataVigenza: "20261016"
-ordine: 736
+dataVigenza: "20261103"
+ordine: 739
 ---
 
 # Art. 573 - ***Sottrazione consensuale di minorenni***

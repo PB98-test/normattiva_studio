@@ -14,8 +14,8 @@ capo_label: "Dei delitti di comune pericolo mediante violenza"
 sezione: null
 sezione_label: null
 rubrica: "Attentato alla sicurezza delle installazioni nucleari"
-dataVigenza: "20260914"
-ordine: 526
+dataVigenza: "20261103"
+ordine: 529
 ---
 
 # Art. 433-bis - ***Attentato alla sicurezza delle installazioni nucleari***

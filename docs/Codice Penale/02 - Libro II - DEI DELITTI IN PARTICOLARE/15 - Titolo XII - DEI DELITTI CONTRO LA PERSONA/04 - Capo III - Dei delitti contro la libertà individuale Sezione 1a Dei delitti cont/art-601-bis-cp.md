@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la libertà individuale Sezione 1a Dei delitti c
 sezione: null
 sezione_label: null
 rubrica: "Traffico di organi prelevati da persona vivente"
-dataVigenza: "20260930"
-ordine: 795
+dataVigenza: "20261103"
+ordine: 798
 ---
 
 # Art. 601-bis - ***Traffico di organi prelevati da persona vivente***

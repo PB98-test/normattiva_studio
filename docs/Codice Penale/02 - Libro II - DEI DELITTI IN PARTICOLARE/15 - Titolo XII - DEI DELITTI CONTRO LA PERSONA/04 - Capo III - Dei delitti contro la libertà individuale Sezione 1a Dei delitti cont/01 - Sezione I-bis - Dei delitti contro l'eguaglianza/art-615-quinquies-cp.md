@@ -15,8 +15,8 @@ sezione: "I-bis"
 sezione_label: "Dei delitti contro l'eguaglianza"
 rubrica: null
 abrogato: true
-dataVigenza: "20260930"
-ordine: 838
+dataVigenza: "20261103"
+ordine: 841
 ---
 
 # Art. 615-quinquies - *(Omissis)*

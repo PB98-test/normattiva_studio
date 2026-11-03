@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro il matrimonio"
 sezione: null
 sezione_label: null
 rubrica: "Costrizione o induzione al matrimonio"
-dataVigenza: "20260930"
-ordine: 718
+dataVigenza: "20261103"
+ordine: 721
 ---
 
 # Art. 558-bis - ***Costrizione o induzione al matrimonio***

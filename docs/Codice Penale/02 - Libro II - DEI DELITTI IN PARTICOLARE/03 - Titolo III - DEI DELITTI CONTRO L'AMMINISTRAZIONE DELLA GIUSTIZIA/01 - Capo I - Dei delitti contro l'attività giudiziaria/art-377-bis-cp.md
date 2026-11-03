@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'attività giudiziaria"
 sezione: null
 sezione_label: null
 rubrica: "Induzione a non rendere dichiarazioni o a rendere dichiarazioni mendaci all'autorità giudiziaria"
-dataVigenza: "20261016"
-ordine: 450
+dataVigenza: "20261103"
+ordine: 452
 ---
 
 # Art. 377-bis - ***Induzione a non rendere dichiarazioni o a rendere dichiarazioni mendaci all'autorità giudiziaria***

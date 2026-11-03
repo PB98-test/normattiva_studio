@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la personalità internazionale dello Stato"
 sezione: null
 sezione_label: null
 rubrica: "Istigazione di militari a disobbedire alle leggi"
-dataVigenza: "20261016"
-ordine: 289
+dataVigenza: "20261103"
+ordine: 291
 ---
 
 # Art. 266 - ***Istigazione di militari a disobbedire alle leggi***

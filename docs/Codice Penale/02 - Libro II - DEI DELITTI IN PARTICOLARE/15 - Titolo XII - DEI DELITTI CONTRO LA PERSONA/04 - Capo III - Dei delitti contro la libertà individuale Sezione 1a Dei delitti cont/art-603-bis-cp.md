@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la libertà individuale Sezione 1a Dei delitti c
 sezione: null
 sezione_label: null
 rubrica: "Intermediazione illecita e sfruttamento del lavoro"
-dataVigenza: "20260930"
-ordine: 801
+dataVigenza: "20261103"
+ordine: 804
 ---
 
 # Art. 603-bis - ***Intermediazione illecita e sfruttamento del lavoro***

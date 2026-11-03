@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la vita e l'incolumità individuale"
 sezione: null
 sezione_label: null
 rubrica: "Abbandono di persone minori o incapaci"
-dataVigenza: "20260930"
-ordine: 770
+dataVigenza: "20261103"
+ordine: 773
 ---
 
 # Art. 591 - ***Abbandono di persone minori o incapaci***

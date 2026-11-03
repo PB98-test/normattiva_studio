@@ -14,8 +14,8 @@ capo_label: "Dei delitti dei pubblici ufficiali contro la pubblica Amministrazio
 sezione: null
 sezione_label: null
 rubrica: "Rivelazione ed utilizzazione di segreti di ufficio"
-dataVigenza: "20260914"
-ordine: 388
+dataVigenza: "20261103"
+ordine: 390
 ---
 
 # Art. 326 - ***Rivelazione ed utilizzazione di segreti di ufficio***

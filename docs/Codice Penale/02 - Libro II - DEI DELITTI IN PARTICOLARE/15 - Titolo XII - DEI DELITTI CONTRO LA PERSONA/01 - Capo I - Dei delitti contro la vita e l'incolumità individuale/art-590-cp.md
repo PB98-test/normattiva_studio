@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la vita e l'incolumità individuale"
 sezione: null
 sezione_label: null
 rubrica: "Lesioni personali colpose"
-dataVigenza: "20260930"
-ordine: 764
+dataVigenza: "20261103"
+ordine: 767
 ---
 
 # Art. 590 - ***Lesioni personali colpose***

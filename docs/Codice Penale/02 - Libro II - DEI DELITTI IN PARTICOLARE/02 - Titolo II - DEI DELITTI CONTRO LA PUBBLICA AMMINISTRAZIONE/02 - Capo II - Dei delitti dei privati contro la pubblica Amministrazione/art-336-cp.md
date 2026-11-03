@@ -14,8 +14,8 @@ capo_label: "Dei delitti dei privati contro la pubblica Amministrazione"
 sezione: null
 sezione_label: null
 rubrica: "Violenza o minaccia a un pubblico ufficiale"
-dataVigenza: "20261016"
-ordine: 399
+dataVigenza: "20261103"
+ordine: 401
 ---
 
 # Art. 336 - ***Violenza o minaccia a un pubblico ufficiale***

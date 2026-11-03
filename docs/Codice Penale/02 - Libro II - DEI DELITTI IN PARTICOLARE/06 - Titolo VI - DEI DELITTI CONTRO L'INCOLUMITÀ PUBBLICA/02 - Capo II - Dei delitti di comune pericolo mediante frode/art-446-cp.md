@@ -14,8 +14,8 @@ capo_label: "Dei delitti di comune pericolo mediante frode"
 sezione: null
 sezione_label: null
 rubrica: "Confisca obbligatoria"
-dataVigenza: "20261016"
-ordine: 541
+dataVigenza: "20261103"
+ordine: 544
 ---
 
 # Art. 446 - ***Confisca obbligatoria***

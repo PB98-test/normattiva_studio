@@ -14,8 +14,8 @@ capo_label: "Della falsità in monete, in carte di pubblico credito e in valori 
 sezione: null
 sezione_label: null
 rubrica: "Falsificazione di monete, spendita e introduzione nello Stato, previo concerto, di monete falsificate"
-dataVigenza: "20261016"
-ordine: 564
+dataVigenza: "20261103"
+ordine: 567
 ---
 
 # Art. 453 - ***Falsificazione di monete, spendita e introduzione nello Stato, previo concerto, di monete falsificate***

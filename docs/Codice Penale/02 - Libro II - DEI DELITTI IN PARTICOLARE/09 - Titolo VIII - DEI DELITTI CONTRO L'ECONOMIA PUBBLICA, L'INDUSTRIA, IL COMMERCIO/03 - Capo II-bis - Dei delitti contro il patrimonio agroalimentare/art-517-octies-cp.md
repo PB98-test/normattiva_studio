@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro il patrimonio agroalimentare"
 sezione: null
 sezione_label: null
 rubrica: "Pena accessoria e circostanze aggravanti"
-dataVigenza: "20260930"
-ordine: 650
+dataVigenza: "20261103"
+ordine: 653
 ---
 
 # Art. 517-octies - ***Pena accessoria e circostanze aggravanti***

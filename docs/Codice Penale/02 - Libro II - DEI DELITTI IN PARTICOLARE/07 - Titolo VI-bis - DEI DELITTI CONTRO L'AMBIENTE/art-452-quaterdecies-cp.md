@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Attività organizzate per il traffico illecito di rifiuti"
-dataVigenza: "20261016"
-ordine: 561
+dataVigenza: "20261103"
+ordine: 564
 ---
 
 # Art. 452-quaterdecies - ***Attività organizzate per il traffico illecito di rifiuti***

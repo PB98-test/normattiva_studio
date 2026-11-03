@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'onore"
 sezione: null
 sezione_label: null
 rubrica: "Provocazione."
-dataVigenza: "20260930"
-ordine: 781
+dataVigenza: "20261103"
+ordine: 784
 ---
 
 # Art. 599 - ***Provocazione.***

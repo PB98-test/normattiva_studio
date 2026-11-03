@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la morale famigliare"
 sezione: null
 sezione_label: null
 rubrica: "Attentati alla morale famigliare commessi col mezzo della stampa periodica"
-dataVigenza: "20260930"
-ordine: 725
+dataVigenza: "20261103"
+ordine: 728
 ---
 
 # Art. 565 - ***Attentati alla morale famigliare commessi col mezzo della stampa periodica***

@@ -14,8 +14,8 @@ capo_label: "Delle offese al pudore e all'onore sessuale"
 sezione: null
 sezione_label: null
 rubrica: "Tratta di donne e di minori commessa all'estero"
-dataVigenza: "20260930"
-ordine: 690
+dataVigenza: "20261103"
+ordine: 693
 ---
 
 # Art. 537 - ***Tratta di donne e di minori commessa all'estero***

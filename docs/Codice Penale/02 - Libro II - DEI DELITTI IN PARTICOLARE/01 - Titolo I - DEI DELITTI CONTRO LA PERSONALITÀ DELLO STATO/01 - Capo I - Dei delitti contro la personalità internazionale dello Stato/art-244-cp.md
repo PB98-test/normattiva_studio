@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la personalità internazionale dello Stato"
 sezione: null
 sezione_label: null
 rubrica: "Atti ostili verso uno Stato estero, che espongono lo Stato italiano al pericolo di guerra"
-dataVigenza: "20260914"
-ordine: 267
+dataVigenza: "20261103"
+ordine: 269
 ---
 
 # Art. 244 - ***Atti ostili verso uno Stato estero, che espongono lo Stato italiano al pericolo di guerra***

@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la personalità internazionale dello Stato"
 sezione: null
 sezione_label: null
 rubrica: "Introduzione clandestina in luoghi militari e possesso ingiustificato di mezzi di spionaggio"
-dataVigenza: "20261016"
-ordine: 283
+dataVigenza: "20261103"
+ordine: 285
 ---
 
 # Art. 260 - ***Introduzione clandestina in luoghi militari e possesso ingiustificato di mezzi di spionaggio***

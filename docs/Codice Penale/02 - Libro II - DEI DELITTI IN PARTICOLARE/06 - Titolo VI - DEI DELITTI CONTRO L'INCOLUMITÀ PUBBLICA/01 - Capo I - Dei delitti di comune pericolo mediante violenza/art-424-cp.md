@@ -14,8 +14,8 @@ capo_label: "Dei delitti di comune pericolo mediante violenza"
 sezione: null
 sezione_label: null
 rubrica: "Danneggiamento seguito da incendio"
-dataVigenza: "20261016"
-ordine: 516
+dataVigenza: "20261103"
+ordine: 519
 ---
 
 # Art. 424 - ***Danneggiamento seguito da incendio***

@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'economia pubblica"
 sezione: null
 sezione_label: null
 rubrica: "Serrata e sciopero per fini non contrattuali"
-dataVigenza: "20260930"
-ordine: 627
+dataVigenza: "20261103"
+ordine: 630
 ---
 
 # Art. 503 - ***Serrata e sciopero per fini non contrattuali***

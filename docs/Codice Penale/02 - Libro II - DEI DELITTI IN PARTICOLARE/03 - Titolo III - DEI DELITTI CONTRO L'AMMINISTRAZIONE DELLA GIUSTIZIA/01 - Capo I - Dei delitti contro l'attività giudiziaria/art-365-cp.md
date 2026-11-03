@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'attività giudiziaria"
 sezione: null
 sezione_label: null
 rubrica: "Omissione di referto"
-dataVigenza: "20260914"
-ordine: 434
+dataVigenza: "20261103"
+ordine: 436
 ---
 
 # Art. 365 - ***Omissione di referto***

@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Pubblica intimidazione"
-dataVigenza: "20260914"
-ordine: 509
+dataVigenza: "20261103"
+ordine: 512
 ---
 
 # Art. 421 - ***Pubblica intimidazione***

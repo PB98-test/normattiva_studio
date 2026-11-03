@@ -14,8 +14,8 @@ capo_label: "Dei delitti di comune pericolo mediante violenza"
 sezione: null
 sezione_label: null
 rubrica: "Fabbricazione o detenzione di materie esplodenti"
-dataVigenza: "20261016"
-ordine: 529
+dataVigenza: "20261103"
+ordine: 532
 ---
 
 # Art. 435 - ***Fabbricazione o detenzione di materie esplodenti***

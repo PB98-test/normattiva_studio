@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'attività giudiziaria"
 sezione: null
 sezione_label: null
 rubrica: "Punibilità dei fatti commessi in collegamento audiovisivo nel corso di una rogatoria dall'estero"
-dataVigenza: "20260914"
-ordine: 460
+dataVigenza: "20261103"
+ordine: 462
 ---
 
 # Art. 384-bis - ***Punibilità dei fatti commessi in collegamento audiovisivo nel corso di una rogatoria dall'estero***

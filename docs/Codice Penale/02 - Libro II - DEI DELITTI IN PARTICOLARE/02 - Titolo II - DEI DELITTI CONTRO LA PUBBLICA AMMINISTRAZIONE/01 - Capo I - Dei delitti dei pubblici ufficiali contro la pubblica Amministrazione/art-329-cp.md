@@ -14,8 +14,8 @@ capo_label: "Dei delitti dei pubblici ufficiali contro la pubblica Amministrazio
 sezione: null
 sezione_label: null
 rubrica: "Rifiuto o ritardo di obbedienza commesso da un militare o da un agente della forza pubblica"
-dataVigenza: "20260914"
-ordine: 391
+dataVigenza: "20261103"
+ordine: 393
 ---
 
 # Art. 329 - ***Rifiuto o ritardo di obbedienza commesso da un militare o da un agente della forza pubblica***

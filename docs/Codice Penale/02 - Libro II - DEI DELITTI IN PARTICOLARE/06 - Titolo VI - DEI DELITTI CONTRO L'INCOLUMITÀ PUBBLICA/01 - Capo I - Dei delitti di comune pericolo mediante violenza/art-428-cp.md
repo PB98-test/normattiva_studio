@@ -14,8 +14,8 @@ capo_label: "Dei delitti di comune pericolo mediante violenza"
 sezione: null
 sezione_label: null
 rubrica: "Naufragio, sommersione o disastro aviatorio"
-dataVigenza: "20261016"
-ordine: 520
+dataVigenza: "20261103"
+ordine: 523
 ---
 
 # Art. 428 - ***Naufragio, sommersione o disastro aviatorio***

@@ -14,8 +14,8 @@ capo_label: "Dei delitti di comune pericolo mediante violenza"
 sezione: null
 sezione_label: null
 rubrica: "Pene accessorie"
-dataVigenza: "20260914"
-ordine: 514
+dataVigenza: "20261103"
+ordine: 517
 ---
 
 # Art. 423-ter - ***Pene accessorie***

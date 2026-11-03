@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la vita e l'incolumità individuale"
 sezione: null
 sezione_label: null
 rubrica: "Deformazione dell'aspetto della persona mediante lesioni permanenti al viso"
-dataVigenza: "20261016"
-ordine: 753
+dataVigenza: "20261103"
+ordine: 756
 ---
 
 # Art. 583-quinquies - ***Deformazione dell'aspetto della persona mediante lesioni permanenti al viso***

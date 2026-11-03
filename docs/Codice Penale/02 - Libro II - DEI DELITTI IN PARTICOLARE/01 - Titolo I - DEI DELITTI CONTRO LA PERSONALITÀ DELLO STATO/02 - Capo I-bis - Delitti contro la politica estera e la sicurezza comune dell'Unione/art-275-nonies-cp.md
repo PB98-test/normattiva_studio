@@ -14,8 +14,8 @@ capo_label: "Delitti contro la politica estera e la sicurezza comune dell'Unione
 sezione: null
 sezione_label: null
 rubrica: "Pubblicazione della sentenza di condanna"
-dataVigenza: "20260914"
-ordine: 317
+dataVigenza: "20261103"
+ordine: 319
 ---
 
 # Art. 275-nonies - ***Pubblicazione della sentenza di condanna***

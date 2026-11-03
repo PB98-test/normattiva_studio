@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'attività giudiziaria"
 sezione: null
 sezione_label: null
 rubrica: "Circostanze aggravanti per il caso di condanna"
-dataVigenza: "20260914"
-ordine: 458
+dataVigenza: "20261103"
+ordine: 460
 ---
 
 # Art. 383-bis - ***Circostanze aggravanti per il caso di condanna***

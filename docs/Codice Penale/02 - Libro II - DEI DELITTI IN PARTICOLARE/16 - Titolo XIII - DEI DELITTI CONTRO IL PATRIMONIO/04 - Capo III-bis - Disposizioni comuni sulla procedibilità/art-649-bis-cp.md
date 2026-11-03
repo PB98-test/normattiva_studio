@@ -14,8 +14,8 @@ capo_label: "Disposizioni comuni sulla procedibilità"
 sezione: null
 sezione_label: null
 rubrica: "Casi di procedibilità d'ufficio"
-dataVigenza: "20260930"
-ordine: 904
+dataVigenza: "20261103"
+ordine: 908
 ---
 
 # Art. 649-bis - ***Casi di procedibilità d'ufficio***

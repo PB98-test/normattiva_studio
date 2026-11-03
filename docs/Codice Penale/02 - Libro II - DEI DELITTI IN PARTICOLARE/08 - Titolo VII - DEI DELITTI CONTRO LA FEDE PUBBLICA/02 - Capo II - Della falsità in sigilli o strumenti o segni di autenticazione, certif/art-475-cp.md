@@ -14,8 +14,8 @@ capo_label: "Della falsità in sigilli o strumenti o segni di autenticazione, ce
 sezione: null
 sezione_label: null
 rubrica: "Pena accessoria"
-dataVigenza: "20261016"
-ordine: 590
+dataVigenza: "20261103"
+ordine: 593
 ---
 
 # Art. 475 - ***Pena accessoria***

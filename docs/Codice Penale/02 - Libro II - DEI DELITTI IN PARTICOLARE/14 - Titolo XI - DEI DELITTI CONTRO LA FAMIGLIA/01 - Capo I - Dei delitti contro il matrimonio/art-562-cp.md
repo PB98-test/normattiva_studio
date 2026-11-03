@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro il matrimonio"
 sezione: null
 sezione_label: null
 rubrica: "Pena accessoria e sanzione civile"
-dataVigenza: "20260930"
-ordine: 722
+dataVigenza: "20261103"
+ordine: 725
 ---
 
 # Art. 562 - ***Pena accessoria e sanzione civile***

@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'autorità delle decisioni giudiziarie"
 sezione: null
 sezione_label: null
 rubrica: "Inosservanza di pene accessorie"
-dataVigenza: "20260914"
-ordine: 469
+dataVigenza: "20261103"
+ordine: 471
 ---
 
 # Art. 389 - ***Inosservanza di pene accessorie***

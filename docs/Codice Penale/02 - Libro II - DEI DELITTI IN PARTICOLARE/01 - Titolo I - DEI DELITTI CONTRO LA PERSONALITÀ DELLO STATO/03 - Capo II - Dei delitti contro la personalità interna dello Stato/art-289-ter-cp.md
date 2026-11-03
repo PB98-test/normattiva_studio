@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la personalità interna dello Stato"
 sezione: null
 sezione_label: null
 rubrica: "Sequestro di persona a scopo di coazione"
-dataVigenza: "20260930"
-ordine: 336
+dataVigenza: "20261103"
+ordine: 338
 ---
 
 # Art. 289-ter - ***Sequestro di persona a scopo di coazione***

@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'economia pubblica"
 sezione: null
 sezione_label: null
 rubrica: "Pena accessoria"
-dataVigenza: "20260930"
-ordine: 636
+dataVigenza: "20261103"
+ordine: 639
 ---
 
 # Art. 512 - ***Pena accessoria***

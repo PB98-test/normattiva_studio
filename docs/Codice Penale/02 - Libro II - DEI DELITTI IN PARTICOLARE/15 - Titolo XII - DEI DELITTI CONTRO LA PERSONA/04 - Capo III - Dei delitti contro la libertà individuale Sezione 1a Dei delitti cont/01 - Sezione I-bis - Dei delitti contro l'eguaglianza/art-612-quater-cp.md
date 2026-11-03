@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la libertà individuale Sezione 1a Dei delitti c
 sezione: "I-bis"
 sezione_label: "Dei delitti contro l'eguaglianza"
 rubrica: "Illecita diffusione di contenuti generati o alterati con sistemi di intelligenza artificiale"
-dataVigenza: "20260930"
-ordine: 829
+dataVigenza: "20261103"
+ordine: 832
 ---
 
 # Art. 612-quater - ***Illecita diffusione di contenuti generati o alterati con sistemi di intelligenza artificiale***

@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'economia pubblica"
 sezione: null
 sezione_label: null
 rubrica: "Serrata e sciopero per fini contrattuali"
-dataVigenza: "20261016"
-ordine: 626
+dataVigenza: "20261103"
+ordine: 629
 ---
 
 # Art. 502 - ***Serrata e sciopero per fini contrattuali***

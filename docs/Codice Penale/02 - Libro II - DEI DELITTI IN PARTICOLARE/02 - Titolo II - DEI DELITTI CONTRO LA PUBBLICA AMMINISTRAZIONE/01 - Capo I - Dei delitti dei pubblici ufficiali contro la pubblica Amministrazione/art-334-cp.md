@@ -14,8 +14,8 @@ capo_label: "Dei delitti dei pubblici ufficiali contro la pubblica Amministrazio
 sezione: null
 sezione_label: null
 rubrica: "Sottrazione o danneggiamento di cose sottoposte a sequestro disposto nel corso di un procedimento penale o dalla autorità amministrativa"
-dataVigenza: "20261016"
-ordine: 396
+dataVigenza: "20261103"
+ordine: 398
 ---
 
 # Art. 334 - ***Sottrazione o danneggiamento di cose sottoposte a sequestro disposto nel corso di un procedimento penale o dalla autorità amministrativa***

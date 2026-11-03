@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la libertà individuale Sezione 1a Dei delitti c
 sezione: null
 sezione_label: null
 rubrica: "Acquisto e alienazione di schiavi"
-dataVigenza: "20261016"
-ordine: 796
+dataVigenza: "20261103"
+ordine: 799
 ---
 
 # Art. 602 - ***Acquisto e alienazione di schiavi***

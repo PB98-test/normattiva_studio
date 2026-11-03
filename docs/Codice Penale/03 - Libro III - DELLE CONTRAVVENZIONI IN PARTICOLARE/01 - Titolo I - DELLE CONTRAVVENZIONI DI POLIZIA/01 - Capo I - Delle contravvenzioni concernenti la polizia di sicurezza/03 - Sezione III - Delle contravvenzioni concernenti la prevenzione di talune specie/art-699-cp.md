@@ -14,8 +14,8 @@ capo_label: "Delle contravvenzioni concernenti la polizia di sicurezza"
 sezione: "III"
 sezione_label: "Delle contravvenzioni concernenti la prevenzione di talune specie di reati § 1 Delle contravvenzioni concernenti la tutela preventiva dei segreti"
 rubrica: "Porto abusivo di armi"
-dataVigenza: "20261016"
-ordine: 958
+dataVigenza: "20261103"
+ordine: 962
 ---
 
 # Art. 699 - ***Porto abusivo di armi***

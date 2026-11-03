@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro il patrimonio mediante violenza alle cose o alle
 sezione: null
 sezione_label: null
 rubrica: "Invasione di terreni o edifici con pericolo per la salute pubblica o l'incolumità pubblica"
-dataVigenza: "20260930"
-ordine: 869
+dataVigenza: "20261103"
+ordine: 872
 ---
 
 # Art. 633-bis - ***Invasione di terreni o edifici con pericolo per la salute pubblica o l'incolumità pubblica***

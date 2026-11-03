@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la personalità interna dello Stato"
 sezione: null
 sezione_label: null
 rubrica: "Arruolamenti o armamenti non autorizzati a servizio di uno Stato estero"
-dataVigenza: "20260914"
-ordine: 333
+dataVigenza: "20261103"
+ordine: 335
 ---
 
 # Art. 288 - ***Arruolamenti o armamenti non autorizzati a servizio di uno Stato estero***

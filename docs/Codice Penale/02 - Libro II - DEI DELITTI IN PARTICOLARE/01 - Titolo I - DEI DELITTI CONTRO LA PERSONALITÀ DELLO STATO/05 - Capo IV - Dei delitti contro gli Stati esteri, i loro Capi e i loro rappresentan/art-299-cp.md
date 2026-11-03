@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro gli Stati esteri, i loro Capi e i loro rappresen
 sezione: null
 sezione_label: null
 rubrica: "Offesa alla bandiera o ad altro emblema di uno Stato estero"
-dataVigenza: "20260914"
-ordine: 348
+dataVigenza: "20261103"
+ordine: 350
 ---
 
 # Art. 299 - ***Offesa alla bandiera o ad altro emblema di uno Stato estero***

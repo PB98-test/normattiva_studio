@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'attività giudiziaria"
 sezione: null
 sezione_label: null
 rubrica: "Frode processuale"
-dataVigenza: "20260914"
-ordine: 445
+dataVigenza: "20261103"
+ordine: 447
 ---
 
 # Art. 374 - ***Frode processuale***

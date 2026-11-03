@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Casi di non punibilità"
-dataVigenza: "20260930"
-ordine: 667
+dataVigenza: "20261103"
+ordine: 670
 ---
 
 # Art. 518-quindecies - ***Casi di non punibilità***

@@ -14,8 +14,8 @@ capo_label: "Disposizioni generali e comuni ai capi precedenti"
 sezione: null
 sezione_label: null
 rubrica: "Tempo di guerra"
-dataVigenza: "20260914"
-ordine: 359
+dataVigenza: "20261103"
+ordine: 361
 ---
 
 # Art. 310 - ***Tempo di guerra***

@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la personalità internazionale dello Stato"
 sezione: null
 sezione_label: null
 rubrica: "Distruzione o sabotaggio di opere militari"
-dataVigenza: "20261016"
-ordine: 276
+dataVigenza: "20261103"
+ordine: 278
 ---
 
 # Art. 253 - ***Distruzione o sabotaggio di opere militari***

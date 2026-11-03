@@ -14,8 +14,8 @@ capo_label: "Della falsità in atti"
 sezione: null
 sezione_label: null
 rubrica: "Falsità materiale commessa dal privato"
-dataVigenza: "20261016"
-ordine: 597
+dataVigenza: "20261103"
+ordine: 600
 ---
 
 # Art. 482 - ***Falsità materiale commessa dal privato***

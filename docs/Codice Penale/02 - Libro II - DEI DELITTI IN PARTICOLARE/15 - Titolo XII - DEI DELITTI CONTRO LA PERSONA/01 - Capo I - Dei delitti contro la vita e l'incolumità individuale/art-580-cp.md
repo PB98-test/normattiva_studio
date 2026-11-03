@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la vita e l'incolumità individuale"
 sezione: null
 sezione_label: null
 rubrica: "Istigazione o aiuto al suicidio"
-dataVigenza: "20260930"
-ordine: 746
+dataVigenza: "20261103"
+ordine: 749
 ---
 
 # Art. 580 - ***Istigazione o aiuto al suicidio***

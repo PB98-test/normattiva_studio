@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la personalità internazionale dello Stato"
 sezione: null
 sezione_label: null
 rubrica: "Attentati contro l'integrità, l'indipendenza e l'unità dello Stato"
-dataVigenza: "20261016"
-ordine: 264
+dataVigenza: "20261103"
+ordine: 266
 ---
 
 # Art. 241 - ***Attentati contro l'integrità, l'indipendenza e l'unità dello Stato***

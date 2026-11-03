@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la vita e l'incolumità individuale"
 sezione: null
 sezione_label: null
 rubrica: "Femminicidio"
-dataVigenza: "20260930"
-ordine: 743
+dataVigenza: "20261103"
+ordine: 746
 ---
 
 # Art. 577-bis - ***Femminicidio***

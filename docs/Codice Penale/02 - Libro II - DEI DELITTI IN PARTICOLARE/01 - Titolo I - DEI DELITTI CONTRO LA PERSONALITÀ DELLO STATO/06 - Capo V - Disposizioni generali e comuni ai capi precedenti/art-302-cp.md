@@ -14,8 +14,8 @@ capo_label: "Disposizioni generali e comuni ai capi precedenti"
 sezione: null
 sezione_label: null
 rubrica: "Istigazione a commettere alcuno dei delitti preveduti dai capi primo e secondo"
-dataVigenza: "20261016"
-ordine: 351
+dataVigenza: "20261103"
+ordine: 353
 ---
 
 # Art. 302 - ***Istigazione a commettere alcuno dei delitti preveduti dai capi primo e secondo***

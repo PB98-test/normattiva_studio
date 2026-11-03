@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la vita e l'incolumità individuale"
 sezione: null
 sezione_label: null
 rubrica: "Pena accessoria"
-dataVigenza: "20261016"
-ordine: 756
+dataVigenza: "20261103"
+ordine: 759
 ---
 
 # Art. 585-bis - ***Pena accessoria***

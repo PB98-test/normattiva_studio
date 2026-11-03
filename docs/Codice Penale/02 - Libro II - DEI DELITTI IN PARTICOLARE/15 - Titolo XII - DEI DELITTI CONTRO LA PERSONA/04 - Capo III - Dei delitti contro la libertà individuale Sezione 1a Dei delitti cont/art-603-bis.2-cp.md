@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la libertà individuale Sezione 1a Dei delitti c
 sezione: null
 sezione_label: null
 rubrica: "Confisca obbligatoria"
-dataVigenza: "20261016"
-ordine: 803
+dataVigenza: "20261103"
+ordine: 806
 ---
 
 # Art. 603-bis.2 - ***Confisca obbligatoria***

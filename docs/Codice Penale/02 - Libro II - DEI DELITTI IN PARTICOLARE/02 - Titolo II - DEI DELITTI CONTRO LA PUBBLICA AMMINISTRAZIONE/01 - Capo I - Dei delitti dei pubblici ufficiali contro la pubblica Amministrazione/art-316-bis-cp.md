@@ -14,8 +14,8 @@ capo_label: "Dei delitti dei pubblici ufficiali contro la pubblica Amministrazio
 sezione: null
 sezione_label: null
 rubrica: "Malversazione di erogazioni pubbliche"
-dataVigenza: "20261016"
-ordine: 367
+dataVigenza: "20261103"
+ordine: 369
 ---
 
 # Art. 316-bis - ***Malversazione di erogazioni pubbliche***

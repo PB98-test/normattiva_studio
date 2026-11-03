@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la libertà individuale Sezione 1a Dei delitti c
 sezione: null
 sezione_label: null
 rubrica: "Confisca"
-dataVigenza: "20261102"
-ordine: 789
+dataVigenza: "20261103"
+ordine: 792
 ---
 
 # Art. 600-septies - ***Confisca***

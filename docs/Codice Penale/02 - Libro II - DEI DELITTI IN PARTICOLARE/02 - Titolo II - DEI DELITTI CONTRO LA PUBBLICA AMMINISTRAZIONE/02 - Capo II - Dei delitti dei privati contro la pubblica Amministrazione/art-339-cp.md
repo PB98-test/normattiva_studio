@@ -14,8 +14,8 @@ capo_label: "Dei delitti dei privati contro la pubblica Amministrazione"
 sezione: null
 sezione_label: null
 rubrica: "Circostanze aggravanti"
-dataVigenza: "20261016"
-ordine: 403
+dataVigenza: "20261103"
+ordine: 405
 ---
 
 # Art. 339 - ***Circostanze aggravanti***

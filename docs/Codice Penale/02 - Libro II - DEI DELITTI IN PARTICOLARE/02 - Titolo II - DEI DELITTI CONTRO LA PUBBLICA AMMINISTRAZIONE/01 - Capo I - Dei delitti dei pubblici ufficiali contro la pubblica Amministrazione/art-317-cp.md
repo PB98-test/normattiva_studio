@@ -14,8 +14,8 @@ capo_label: "Dei delitti dei pubblici ufficiali contro la pubblica Amministrazio
 sezione: null
 sezione_label: null
 rubrica: "Concussione"
-dataVigenza: "20261016"
-ordine: 369
+dataVigenza: "20261103"
+ordine: 371
 ---
 
 # Art. 317 - ***Concussione***

@@ -14,8 +14,8 @@ capo_label: "Delle offese al pudore e all'onore sessuale"
 sezione: null
 sezione_label: null
 rubrica: "Misura di sicurezza"
-dataVigenza: "20260930"
-ordine: 691
+dataVigenza: "20261103"
+ordine: 694
 ---
 
 # Art. 538 - ***Misura di sicurezza***

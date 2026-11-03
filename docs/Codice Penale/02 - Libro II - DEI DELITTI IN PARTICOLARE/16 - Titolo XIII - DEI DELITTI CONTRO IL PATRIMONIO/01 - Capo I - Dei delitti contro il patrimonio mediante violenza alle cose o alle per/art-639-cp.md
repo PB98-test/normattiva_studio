@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro il patrimonio mediante violenza alle cose o alle
 sezione: null
 sezione_label: null
 rubrica: "Deturpamento e imbrattamento di cose altrui"
-dataVigenza: "20261016"
-ordine: 881
+dataVigenza: "20261103"
+ordine: 885
 ---
 
 # Art. 639 - ***Deturpamento e imbrattamento di cose altrui***

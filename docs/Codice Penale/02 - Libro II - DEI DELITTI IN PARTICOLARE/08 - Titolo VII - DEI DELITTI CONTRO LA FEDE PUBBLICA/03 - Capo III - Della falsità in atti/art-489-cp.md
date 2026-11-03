@@ -14,8 +14,8 @@ capo_label: "Della falsità in atti"
 sezione: null
 sezione_label: null
 rubrica: "Uso di atto falso"
-dataVigenza: "20261016"
-ordine: 604
+dataVigenza: "20261103"
+ordine: 607
 ---
 
 # Art. 489 - ***Uso di atto falso***

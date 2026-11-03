@@ -14,8 +14,8 @@ capo_label: "Della falsità in monete, in carte di pubblico credito e in valori 
 sezione: null
 sezione_label: null
 rubrica: "Confisca"
-dataVigenza: "20261016"
-ordine: 578
+dataVigenza: "20261103"
+ordine: 581
 ---
 
 # Art. 466-bis - ***Confisca***

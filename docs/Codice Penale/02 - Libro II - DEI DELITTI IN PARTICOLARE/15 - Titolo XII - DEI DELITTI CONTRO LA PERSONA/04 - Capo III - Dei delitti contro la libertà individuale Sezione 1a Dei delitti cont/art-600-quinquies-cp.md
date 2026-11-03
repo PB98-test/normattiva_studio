@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la libertà individuale Sezione 1a Dei delitti c
 sezione: null
 sezione_label: null
 rubrica: "Iniziative turistiche volte allo sfruttamento della prostituzione minorile"
-dataVigenza: "20260930"
-ordine: 787
+dataVigenza: "20261103"
+ordine: 790
 ---
 
 # Art. 600-quinquies - ***Iniziative turistiche volte allo sfruttamento della prostituzione minorile***

@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'attività giudiziaria"
 sezione: null
 sezione_label: null
 rubrica: "Omessa denuncia di reato da parte del pubblico ufficiale"
-dataVigenza: "20260914"
-ordine: 430
+dataVigenza: "20261103"
+ordine: 432
 ---
 
 # Art. 361 - ***Omessa denuncia di reato da parte del pubblico ufficiale***

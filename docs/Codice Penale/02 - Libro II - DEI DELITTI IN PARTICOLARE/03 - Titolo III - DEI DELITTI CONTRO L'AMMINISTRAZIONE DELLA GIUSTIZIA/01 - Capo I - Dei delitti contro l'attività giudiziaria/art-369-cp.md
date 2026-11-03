@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'attività giudiziaria"
 sezione: null
 sezione_label: null
 rubrica: "Autocalunnia"
-dataVigenza: "20260914"
-ordine: 438
+dataVigenza: "20261103"
+ordine: 440
 ---
 
 # Art. 369 - ***Autocalunnia***

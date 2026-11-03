@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'economia pubblica"
 sezione: null
 sezione_label: null
 rubrica: "Diffusione di una malattia delle piante o degli animali"
-dataVigenza: "20260930"
-ordine: 623
+dataVigenza: "20261103"
+ordine: 626
 ---
 
 # Art. 500 - ***Diffusione di una malattia delle piante o degli animali***

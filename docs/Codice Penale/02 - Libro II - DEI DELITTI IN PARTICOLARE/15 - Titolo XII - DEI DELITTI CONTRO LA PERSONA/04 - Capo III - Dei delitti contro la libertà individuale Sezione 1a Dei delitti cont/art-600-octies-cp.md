@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la libertà individuale Sezione 1a Dei delitti c
 sezione: null
 sezione_label: null
 rubrica: "Impiego di minori nell'accattonaggio. Organizzazione e favoreggiamento dell'accattonaggio. Induzione e costrizione all'accattonaggio"
-dataVigenza: "20260930"
-ordine: 792
+dataVigenza: "20261103"
+ordine: 795
 ---
 
 # Art. 600-octies - ***Impiego di minori nell'accattonaggio. Organizzazione e favoreggiamento dell'accattonaggio. Induzione e costrizione all'accattonaggio***

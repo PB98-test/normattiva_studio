@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro il patrimonio mediante frode"
 sezione: null
 sezione_label: null
 rubrica: "Appropriazione indebita"
-dataVigenza: "20261016"
-ordine: 896
+dataVigenza: "20261103"
+ordine: 900
 ---
 
 # Art. 646 - ***Appropriazione indebita***

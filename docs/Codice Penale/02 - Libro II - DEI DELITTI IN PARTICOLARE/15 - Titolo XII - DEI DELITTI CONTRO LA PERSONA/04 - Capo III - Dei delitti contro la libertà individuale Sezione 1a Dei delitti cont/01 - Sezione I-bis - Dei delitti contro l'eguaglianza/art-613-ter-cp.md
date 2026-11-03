@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la libertà individuale Sezione 1a Dei delitti c
 sezione: "I-bis"
 sezione_label: "Dei delitti contro l'eguaglianza"
 rubrica: "Istigazione del pubblico ufficiale a commettere tortura"
-dataVigenza: "20260930"
-ordine: 832
+dataVigenza: "20261103"
+ordine: 835
 ---
 
 # Art. 613-ter - ***Istigazione del pubblico ufficiale a commettere tortura***

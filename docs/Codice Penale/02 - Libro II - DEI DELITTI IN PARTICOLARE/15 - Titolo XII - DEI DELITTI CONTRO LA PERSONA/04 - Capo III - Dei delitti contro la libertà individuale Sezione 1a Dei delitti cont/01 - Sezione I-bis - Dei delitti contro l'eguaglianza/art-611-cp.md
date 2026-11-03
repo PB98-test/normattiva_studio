@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la libertà individuale Sezione 1a Dei delitti c
 sezione: "I-bis"
 sezione_label: "Dei delitti contro l'eguaglianza"
 rubrica: "Violenza o minaccia per costringere a commettere un reato"
-dataVigenza: "20261016"
-ordine: 825
+dataVigenza: "20261103"
+ordine: 828
 ---
 
 # Art. 611 - ***Violenza o minaccia per costringere a commettere un reato***

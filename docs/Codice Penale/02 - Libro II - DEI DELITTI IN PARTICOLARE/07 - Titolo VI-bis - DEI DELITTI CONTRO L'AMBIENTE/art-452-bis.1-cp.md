@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Commercio di prodotti inquinanti"
-dataVigenza: "20260930"
-ordine: 549
+dataVigenza: "20261103"
+ordine: 552
 ---
 
 # Art. 452-bis.1 - ***Commercio di prodotti inquinanti***

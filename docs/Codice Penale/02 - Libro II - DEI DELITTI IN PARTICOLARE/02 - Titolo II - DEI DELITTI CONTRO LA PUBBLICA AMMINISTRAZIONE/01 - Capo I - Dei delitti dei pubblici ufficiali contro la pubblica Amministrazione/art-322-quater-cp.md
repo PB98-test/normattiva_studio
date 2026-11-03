@@ -14,8 +14,8 @@ capo_label: "Dei delitti dei pubblici ufficiali contro la pubblica Amministrazio
 sezione: null
 sezione_label: null
 rubrica: "Riparazione pecuniaria"
-dataVigenza: "20260914"
-ordine: 382
+dataVigenza: "20261103"
+ordine: 384
 ---
 
 # Art. 322-quater - ***Riparazione pecuniaria***

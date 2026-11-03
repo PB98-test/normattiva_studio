@@ -14,8 +14,8 @@ capo_label: "Delle contravvenzioni concernenti la polizia di sicurezza"
 sezione: "III"
 sezione_label: "Delle contravvenzioni concernenti la prevenzione di talune specie di reati § 1 Delle contravvenzioni concernenti la tutela preventiva dei segreti"
 rubrica: "Rifiuto di monete aventi corso legale"
-dataVigenza: "20261016"
-ordine: 952
+dataVigenza: "20261103"
+ordine: 956
 ---
 
 # Art. 693 - ***Rifiuto di monete aventi corso legale***

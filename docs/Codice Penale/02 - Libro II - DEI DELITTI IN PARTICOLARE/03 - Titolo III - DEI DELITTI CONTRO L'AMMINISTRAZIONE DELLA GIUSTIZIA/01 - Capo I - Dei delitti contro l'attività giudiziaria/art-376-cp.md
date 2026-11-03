@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'attività giudiziaria"
 sezione: null
 sezione_label: null
 rubrica: "Ritrattazione"
-dataVigenza: "20261016"
-ordine: 448
+dataVigenza: "20261103"
+ordine: 450
 ---
 
 # Art. 376 - ***Ritrattazione***

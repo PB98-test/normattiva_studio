@@ -14,8 +14,8 @@ capo_label: "Dei delitti dei pubblici ufficiali contro la pubblica Amministrazio
 sezione: null
 sezione_label: null
 rubrica: "Circostanze aggravanti"
-dataVigenza: "20260914"
-ordine: 373
+dataVigenza: "20261103"
+ordine: 375
 ---
 
 # Art. 319-bis - ***Circostanze aggravanti***

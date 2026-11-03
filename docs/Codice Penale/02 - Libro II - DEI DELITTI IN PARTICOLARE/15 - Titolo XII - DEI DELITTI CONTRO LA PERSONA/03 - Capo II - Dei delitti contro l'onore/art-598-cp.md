@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'onore"
 sezione: null
 sezione_label: null
 rubrica: "Offese in scritti e discorsi pronunciati dinanzi alle Autorità giudiziarie o amministrative"
-dataVigenza: "20260930"
-ordine: 780
+dataVigenza: "20261103"
+ordine: 783
 ---
 
 # Art. 598 - ***Offese in scritti e discorsi pronunciati dinanzi alle Autorità giudiziarie o amministrative***

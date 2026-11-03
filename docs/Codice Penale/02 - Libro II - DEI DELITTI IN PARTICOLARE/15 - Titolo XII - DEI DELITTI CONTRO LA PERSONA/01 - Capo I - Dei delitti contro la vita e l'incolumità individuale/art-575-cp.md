@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la vita e l'incolumità individuale"
 sezione: null
 sezione_label: null
 rubrica: "Omicidio"
-dataVigenza: "20261016"
-ordine: 740
+dataVigenza: "20261103"
+ordine: 743
 ---
 
 # Art. 575 - ***Omicidio***

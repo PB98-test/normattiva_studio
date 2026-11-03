@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la personalità internazionale dello Stato"
 sezione: null
 sezione_label: null
 rubrica: "Somministrazione al nemico di provvigioni"
-dataVigenza: "20260914"
-ordine: 271
+dataVigenza: "20261103"
+ordine: 273
 ---
 
 # Art. 248 - ***Somministrazione al nemico di provvigioni***

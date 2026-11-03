@@ -14,8 +14,8 @@ capo_label: "Dei delitti dei privati contro la pubblica Amministrazione"
 sezione: null
 sezione_label: null
 rubrica: "Violenza o minaccia ad un Corpo politico, amministrativo o giudiziario o ai suoi singoli componenti"
-dataVigenza: "20261016"
-ordine: 402
+dataVigenza: "20261103"
+ordine: 404
 ---
 
 # Art. 338 - ***Violenza o minaccia ad un Corpo politico, amministrativo o giudiziario o ai suoi singoli componenti***

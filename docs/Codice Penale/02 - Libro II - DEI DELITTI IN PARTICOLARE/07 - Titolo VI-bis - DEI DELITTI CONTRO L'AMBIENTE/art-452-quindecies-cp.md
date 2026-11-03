@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Nozione di abusività"
-dataVigenza: "20260930"
-ordine: 562
+dataVigenza: "20261103"
+ordine: 565
 ---
 
 # Art. 452-quindecies - ***Nozione di abusività***

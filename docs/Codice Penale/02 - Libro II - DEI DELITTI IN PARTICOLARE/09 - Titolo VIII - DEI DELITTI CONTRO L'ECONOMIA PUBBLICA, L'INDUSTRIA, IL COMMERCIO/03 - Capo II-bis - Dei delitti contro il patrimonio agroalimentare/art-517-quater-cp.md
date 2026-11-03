@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro il patrimonio agroalimentare"
 sezione: null
 sezione_label: null
 rubrica: "Contraffazione dei segni di indicazione geografica e di denominazione protetta dei prodotti agroalimentari"
-dataVigenza: "20260930"
-ordine: 646
+dataVigenza: "20261103"
+ordine: 649
 ---
 
 # Art. 517-quater - ***Contraffazione dei segni di indicazione geografica e di denominazione protetta dei prodotti agroalimentari***

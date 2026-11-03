@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'attività giudiziaria"
 sezione: null
 sezione_label: null
 rubrica: "False dichiarazioni o attestazioni in atti destinati all'autorità giudiziaria o alla Corte penale internazionale"
-dataVigenza: "20260930"
-ordine: 446
+dataVigenza: "20261103"
+ordine: 448
 ---
 
 # Art. 374-bis - ***False dichiarazioni o attestazioni in atti destinati all'autorità giudiziaria o alla Corte penale internazionale***

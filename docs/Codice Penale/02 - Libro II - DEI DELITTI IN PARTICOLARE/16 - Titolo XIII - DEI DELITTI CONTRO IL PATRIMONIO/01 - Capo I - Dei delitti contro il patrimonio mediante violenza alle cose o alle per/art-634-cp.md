@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro il patrimonio mediante violenza alle cose o alle
 sezione: null
 sezione_label: null
 rubrica: "Turbativa violenta del possesso di cose immobili"
-dataVigenza: "20261016"
-ordine: 870
+dataVigenza: "20261103"
+ordine: 873
 ---
 
 # Art. 634 - ***Turbativa violenta del possesso di cose immobili***

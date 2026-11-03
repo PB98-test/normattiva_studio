@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la pietà dei defunti"
 sezione: null
 sezione_label: null
 rubrica: "Occultamento di cadavere"
-dataVigenza: "20260914"
-ordine: 495
+dataVigenza: "20261103"
+ordine: 497
 ---
 
 # Art. 412 - ***Occultamento di cadavere***

@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la libertà individuale Sezione 1a Dei delitti c
 sezione: "I-bis"
 sezione_label: "Dei delitti contro l'eguaglianza"
 rubrica: "Perquisizione e ispezione personali arbitrarie"
-dataVigenza: "20260930"
-ordine: 812
+dataVigenza: "20261103"
+ordine: 815
 ---
 
 # Art. 609 - ***Perquisizione e ispezione personali arbitrarie***

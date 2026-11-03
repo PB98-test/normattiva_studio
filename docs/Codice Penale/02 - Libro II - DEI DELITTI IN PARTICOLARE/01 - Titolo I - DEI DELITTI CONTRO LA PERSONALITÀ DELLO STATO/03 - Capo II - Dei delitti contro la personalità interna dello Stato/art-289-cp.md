@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la personalità interna dello Stato"
 sezione: null
 sezione_label: null
 rubrica: "Attentato contro organi costituzionali e contro le assemblee regionali"
-dataVigenza: "20261016"
-ordine: 334
+dataVigenza: "20261103"
+ordine: 336
 ---
 
 # Art. 289 - ***Attentato contro organi costituzionali e contro le assemblee regionali***

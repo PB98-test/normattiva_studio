@@ -14,8 +14,8 @@ capo_label: "Della falsità in monete, in carte di pubblico credito e in valori 
 sezione: null
 sezione_label: null
 rubrica: "Uso di valori di bollo contraffatti o alterati"
-dataVigenza: "20260930"
-ordine: 575
+dataVigenza: "20261103"
+ordine: 578
 ---
 
 # Art. 464 - ***Uso di valori di bollo contraffatti o alterati***

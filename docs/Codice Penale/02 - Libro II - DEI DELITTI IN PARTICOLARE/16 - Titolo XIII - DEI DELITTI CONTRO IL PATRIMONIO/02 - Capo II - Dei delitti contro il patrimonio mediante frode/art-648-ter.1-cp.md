@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro il patrimonio mediante frode"
 sezione: null
 sezione_label: null
 rubrica: "Autoriciclaggio"
-dataVigenza: "20260930"
-ordine: 901
+dataVigenza: "20261103"
+ordine: 905
 ---
 
 # Art. 648-ter.1 - ***Autoriciclaggio***

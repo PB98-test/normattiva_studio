@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la personalità internazionale dello Stato"
 sezione: null
 sezione_label: null
 rubrica: "Utilizzazione dei segreti di Stato"
-dataVigenza: "20261016"
-ordine: 286
+dataVigenza: "20261103"
+ordine: 288
 ---
 
 # Art. 263 - ***Utilizzazione dei segreti di Stato***

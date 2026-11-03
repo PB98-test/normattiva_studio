@@ -14,8 +14,8 @@ capo_label: "Disposizioni comuni ai capi precedenti"
 sezione: null
 sezione_label: null
 rubrica: "Pubblicazione della sentenza"
-dataVigenza: "20260930"
-ordine: 651
+dataVigenza: "20261103"
+ordine: 654
 ---
 
 # Art. 518 - ***Pubblicazione della sentenza***

@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro il patrimonio mediante frode"
 sezione: null
 sezione_label: null
 rubrica: "Impiego di denaro, beni o utilità di provenienza illecita"
-dataVigenza: "20261016"
-ordine: 900
+dataVigenza: "20261103"
+ordine: 904
 ---
 
 # Art. 648-ter - ***Impiego di denaro, beni o utilità di provenienza illecita***

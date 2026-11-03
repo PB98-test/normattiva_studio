@@ -14,8 +14,8 @@ capo_label: "Dei delitti dei privati contro la pubblica Amministrazione"
 sezione: null
 sezione_label: null
 rubrica: "Offesa all'Autorità mediante danneggiamento di affissioni"
-dataVigenza: "20260914"
-ordine: 412
+dataVigenza: "20261103"
+ordine: 414
 ---
 
 # Art. 345 - ***Offesa all'Autorità mediante danneggiamento di affissioni***

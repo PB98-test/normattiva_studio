@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'attività giudiziaria"
 sezione: null
 sezione_label: null
 rubrica: "Simulazione di reato"
-dataVigenza: "20260914"
-ordine: 436
+dataVigenza: "20261103"
+ordine: 438
 ---
 
 # Art. 367 - ***Simulazione di reato***

@@ -14,8 +14,8 @@ capo_label: "Della falsità in atti"
 sezione: null
 sezione_label: null
 rubrica: "Falsità in testamento olografo, cambiale o titoli di credito."
-dataVigenza: "20261016"
-ordine: 606
+dataVigenza: "20261103"
+ordine: 609
 ---
 
 # Art. 491 - ***Falsità in testamento olografo, cambiale o titoli di credito.***

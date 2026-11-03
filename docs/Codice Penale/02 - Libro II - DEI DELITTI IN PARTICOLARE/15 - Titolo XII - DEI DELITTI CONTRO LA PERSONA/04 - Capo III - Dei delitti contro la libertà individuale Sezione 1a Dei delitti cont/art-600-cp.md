@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la libertà individuale Sezione 1a Dei delitti c
 sezione: null
 sezione_label: null
 rubrica: "Riduzione o mantenimento in schiavitù o in servitù"
-dataVigenza: "20261016"
-ordine: 782
+dataVigenza: "20261103"
+ordine: 785
 ---
 
 # Art. 600 - ***Riduzione o mantenimento in schiavitù o in servitù***

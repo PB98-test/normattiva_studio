@@ -14,8 +14,8 @@ capo_label: "Della falsità in sigilli o strumenti o segni di autenticazione, ce
 sezione: null
 sezione_label: null
 rubrica: "Vendita o acquisto di cose con impronte contraffatte di una pubblica autenticazione o certificazione"
-dataVigenza: "20261016"
-ordine: 582
+dataVigenza: "20261103"
+ordine: 585
 ---
 
 # Art. 470 - ***Vendita o acquisto di cose con impronte contraffatte di una pubblica autenticazione o certificazione***

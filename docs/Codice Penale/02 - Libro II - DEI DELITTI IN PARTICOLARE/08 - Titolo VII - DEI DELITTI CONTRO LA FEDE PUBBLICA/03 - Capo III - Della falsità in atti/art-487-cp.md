@@ -14,8 +14,8 @@ capo_label: "Della falsità in atti"
 sezione: null
 sezione_label: null
 rubrica: "Falsità in foglio firmato in bianco. Atto pubblico"
-dataVigenza: "20260930"
-ordine: 602
+dataVigenza: "20261103"
+ordine: 605
 ---
 
 # Art. 487 - ***Falsità in foglio firmato in bianco. Atto pubblico***

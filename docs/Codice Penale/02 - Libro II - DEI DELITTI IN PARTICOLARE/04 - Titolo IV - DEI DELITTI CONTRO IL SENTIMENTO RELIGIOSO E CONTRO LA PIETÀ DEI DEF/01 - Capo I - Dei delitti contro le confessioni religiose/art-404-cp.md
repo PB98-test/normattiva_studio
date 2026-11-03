@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro le confessioni religiose"
 sezione: null
 sezione_label: null
 rubrica: "Offese a una confessione religiosa mediante vilipendio o danneggiamento di cose"
-dataVigenza: "20260930"
-ordine: 487
+dataVigenza: "20261103"
+ordine: 489
 ---
 
 # Art. 404 - ***Offese a una confessione religiosa mediante vilipendio o danneggiamento di cose***

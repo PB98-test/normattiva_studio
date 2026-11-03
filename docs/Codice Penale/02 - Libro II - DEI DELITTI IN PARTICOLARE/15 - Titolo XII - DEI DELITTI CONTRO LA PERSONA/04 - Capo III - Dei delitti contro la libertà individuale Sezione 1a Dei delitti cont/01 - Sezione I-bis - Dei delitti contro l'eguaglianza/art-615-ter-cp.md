@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la libertà individuale Sezione 1a Dei delitti c
 sezione: "I-bis"
 sezione_label: "Dei delitti contro l'eguaglianza"
 rubrica: "Accesso abusivo ad un sistema informatico o telematico"
-dataVigenza: "20260930"
-ordine: 836
+dataVigenza: "20261103"
+ordine: 839
 ---
 
 # Art. 615-ter - ***Accesso abusivo ad un sistema informatico o telematico***

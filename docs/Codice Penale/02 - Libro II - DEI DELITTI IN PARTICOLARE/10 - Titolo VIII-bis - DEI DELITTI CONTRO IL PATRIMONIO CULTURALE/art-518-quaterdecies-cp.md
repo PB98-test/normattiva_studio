@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Contraffazione di opere d'arte"
-dataVigenza: "20260930"
-ordine: 666
+dataVigenza: "20261103"
+ordine: 669
 ---
 
 # Art. 518-quaterdecies - ***Contraffazione di opere d'arte***

@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro il patrimonio mediante violenza alle cose o alle
 sezione: null
 sezione_label: null
 rubrica: "Circostanze attenuanti"
-dataVigenza: "20260930"
-ordine: 883
+dataVigenza: "20261103"
+ordine: 887
 ---
 
 # Art. 639-ter - ***Circostanze attenuanti***

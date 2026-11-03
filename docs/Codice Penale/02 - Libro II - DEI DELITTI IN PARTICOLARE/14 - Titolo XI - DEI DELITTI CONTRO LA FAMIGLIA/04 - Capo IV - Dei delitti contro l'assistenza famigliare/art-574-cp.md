@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'assistenza famigliare"
 sezione: null
 sezione_label: null
 rubrica: "Sottrazione di persone incapaci"
-dataVigenza: "20261016"
-ordine: 737
+dataVigenza: "20261103"
+ordine: 740
 ---
 
 # Art. 574 - ***Sottrazione di persone incapaci***

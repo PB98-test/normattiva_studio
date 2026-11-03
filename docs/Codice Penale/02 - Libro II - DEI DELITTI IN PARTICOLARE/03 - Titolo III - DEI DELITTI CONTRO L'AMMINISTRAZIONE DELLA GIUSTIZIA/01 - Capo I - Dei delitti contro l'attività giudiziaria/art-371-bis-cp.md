@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'attività giudiziaria"
 sezione: null
 sezione_label: null
 rubrica: "False informazioni al pubblico ministero o al procuratore della Corte penale internazionale"
-dataVigenza: "20261016"
-ordine: 441
+dataVigenza: "20261103"
+ordine: 443
 ---
 
 # Art. 371-bis - ***False informazioni al pubblico ministero o al procuratore della Corte penale internazionale***

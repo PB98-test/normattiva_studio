@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Devastazione e saccheggio di beni culturali e paesaggistici"
-dataVigenza: "20260930"
-ordine: 665
+dataVigenza: "20261103"
+ordine: 668
 ---
 
 # Art. 518-terdecies - ***Devastazione e saccheggio di beni culturali e paesaggistici***

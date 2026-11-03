@@ -14,8 +14,8 @@ capo_label: "Delle contravvenzioni concernenti la polizia di sicurezza"
 sezione: "I"
 sezione_label: "Delle contravvenzioni concernenti l'ordine pubblico e la tranquillità pubblica § 1 Delle contravvenzioni concernenti l'inosservanza dei provvedimenti di polizia e le manifestazioni sediziose e pericolose"
 rubrica: "Rappresentazioni teatrali o cinematografiche abusive"
-dataVigenza: "20260930"
-ordine: 924
+dataVigenza: "20261103"
+ordine: 928
 ---
 
 # Art. 668 - ***Rappresentazioni teatrali o cinematografiche abusive***

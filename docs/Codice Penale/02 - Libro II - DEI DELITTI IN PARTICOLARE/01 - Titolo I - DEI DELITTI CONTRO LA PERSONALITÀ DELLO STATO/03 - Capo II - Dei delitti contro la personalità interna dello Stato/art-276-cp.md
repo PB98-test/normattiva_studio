@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la personalità interna dello Stato"
 sezione: null
 sezione_label: null
 rubrica: "Attentato contro il Presidente della Repubblica"
-dataVigenza: "20261016"
-ordine: 319
+dataVigenza: "20261103"
+ordine: 321
 ---
 
 # Art. 276 - ***Attentato contro il Presidente della Repubblica***

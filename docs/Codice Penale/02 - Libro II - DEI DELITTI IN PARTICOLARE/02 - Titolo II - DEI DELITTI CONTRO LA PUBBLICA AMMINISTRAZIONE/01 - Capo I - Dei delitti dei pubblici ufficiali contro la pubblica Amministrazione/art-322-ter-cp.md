@@ -14,8 +14,8 @@ capo_label: "Dei delitti dei pubblici ufficiali contro la pubblica Amministrazio
 sezione: null
 sezione_label: null
 rubrica: "Confisca"
-dataVigenza: "20261016"
-ordine: 380
+dataVigenza: "20261103"
+ordine: 382
 ---
 
 # Art. 322-ter - ***Confisca***

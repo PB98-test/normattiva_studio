@@ -14,8 +14,8 @@ capo_label: "Dei delitti dei privati contro la pubblica Amministrazione"
 sezione: null
 sezione_label: null
 rubrica: "Vendita di stampati dei quali è stato ordinato il sequestro"
-dataVigenza: "20260914"
-ordine: 420
+dataVigenza: "20261103"
+ordine: 422
 ---
 
 # Art. 352 - ***Vendita di stampati dei quali è stato ordinato il sequestro***

@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la personalità internazionale dello Stato"
 sezione: null
 sezione_label: null
 rubrica: "Cittadino che porta le armi contro lo Stato italiano"
-dataVigenza: "20261016"
-ordine: 265
+dataVigenza: "20261103"
+ordine: 267
 ---
 
 # Art. 242 - ***Cittadino che porta le armi contro lo Stato italiano***

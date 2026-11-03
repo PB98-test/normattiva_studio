@@ -14,8 +14,8 @@ capo_label: "Disposizioni generali e comuni ai capi precedenti"
 sezione: null
 sezione_label: null
 rubrica: "Espulsione od allontanamento dello straniero dallo Stato"
-dataVigenza: "20260914"
-ordine: 361
+dataVigenza: "20261103"
+ordine: 363
 ---
 
 # Art. 312 - ***Espulsione od allontanamento dello straniero dallo Stato***

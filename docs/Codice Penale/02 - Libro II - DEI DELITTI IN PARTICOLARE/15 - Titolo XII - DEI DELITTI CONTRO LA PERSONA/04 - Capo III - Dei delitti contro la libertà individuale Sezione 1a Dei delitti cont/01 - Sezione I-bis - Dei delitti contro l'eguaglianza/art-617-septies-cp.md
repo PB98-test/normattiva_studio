@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la libertà individuale Sezione 1a Dei delitti c
 sezione: "I-bis"
 sezione_label: "Dei delitti contro l'eguaglianza"
 rubrica: "Diffusione di riprese e registrazioni fraudolente"
-dataVigenza: "20260930"
-ordine: 846
+dataVigenza: "20261103"
+ordine: 849
 ---
 
 # Art. 617-septies - ***Diffusione di riprese e registrazioni fraudolente***

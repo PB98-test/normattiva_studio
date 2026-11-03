@@ -15,8 +15,8 @@ sezione: null
 sezione_label: null
 rubrica: null
 abrogato: true
-dataVigenza: "20260930"
-ordine: 644
+dataVigenza: "20261103"
+ordine: 647
 ---
 
 # Art. 517-bis - *(Omissis)*

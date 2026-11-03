@@ -15,8 +15,8 @@ sezione: null
 sezione_label: null
 rubrica: null
 abrogato: true
-dataVigenza: "20260930"
-ordine: 695
+dataVigenza: "20261103"
+ordine: 698
 ---
 
 # Art. 542 - *(Omissis)*

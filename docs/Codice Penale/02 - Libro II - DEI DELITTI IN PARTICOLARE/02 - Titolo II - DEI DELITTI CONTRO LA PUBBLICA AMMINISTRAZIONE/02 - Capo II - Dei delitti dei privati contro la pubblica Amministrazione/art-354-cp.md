@@ -14,8 +14,8 @@ capo_label: "Dei delitti dei privati contro la pubblica Amministrazione"
 sezione: null
 sezione_label: null
 rubrica: "Astensione dagli incanti"
-dataVigenza: "20260914"
-ordine: 423
+dataVigenza: "20261103"
+ordine: 425
 ---
 
 # Art. 354 - ***Astensione dagli incanti***

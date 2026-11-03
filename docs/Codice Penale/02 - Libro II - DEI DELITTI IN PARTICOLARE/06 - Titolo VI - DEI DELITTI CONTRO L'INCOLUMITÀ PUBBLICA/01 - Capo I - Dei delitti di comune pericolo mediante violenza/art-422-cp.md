@@ -14,8 +14,8 @@ capo_label: "Dei delitti di comune pericolo mediante violenza"
 sezione: null
 sezione_label: null
 rubrica: "Strage"
-dataVigenza: "20261016"
-ordine: 511
+dataVigenza: "20261103"
+ordine: 514
 ---
 
 # Art. 422 - ***Strage***

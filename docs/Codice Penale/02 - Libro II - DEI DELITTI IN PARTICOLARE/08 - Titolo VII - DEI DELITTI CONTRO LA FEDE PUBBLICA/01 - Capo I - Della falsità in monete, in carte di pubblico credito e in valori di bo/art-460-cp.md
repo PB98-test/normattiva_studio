@@ -14,8 +14,8 @@ capo_label: "Della falsità in monete, in carte di pubblico credito e in valori 
 sezione: null
 sezione_label: null
 rubrica: "Contraffazione di carta filigranata in uso per la fabbricazione di carte di pubblico credito o di valori di bollo"
-dataVigenza: "20260930"
-ordine: 571
+dataVigenza: "20261103"
+ordine: 574
 ---
 
 # Art. 460 - ***Contraffazione di carta filigranata in uso per la fabbricazione di carte di pubblico credito o di valori di bollo***

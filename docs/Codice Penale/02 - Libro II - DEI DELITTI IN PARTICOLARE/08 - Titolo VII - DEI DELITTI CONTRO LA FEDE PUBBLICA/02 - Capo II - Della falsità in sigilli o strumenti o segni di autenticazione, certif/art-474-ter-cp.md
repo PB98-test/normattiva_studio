@@ -14,8 +14,8 @@ capo_label: "Della falsità in sigilli o strumenti o segni di autenticazione, ce
 sezione: null
 sezione_label: null
 rubrica: "Circostanza aggravante"
-dataVigenza: "20260930"
-ordine: 588
+dataVigenza: "20261103"
+ordine: 591
 ---
 
 # Art. 474-ter - ***Circostanza aggravante***

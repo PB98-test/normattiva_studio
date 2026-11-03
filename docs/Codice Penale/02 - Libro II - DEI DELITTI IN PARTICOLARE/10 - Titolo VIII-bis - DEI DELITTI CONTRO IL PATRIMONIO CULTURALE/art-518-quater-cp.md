@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Ricettazione di beni culturali"
-dataVigenza: "20260930"
-ordine: 656
+dataVigenza: "20261103"
+ordine: 659
 ---
 
 # Art. 518-quater - ***Ricettazione di beni culturali***

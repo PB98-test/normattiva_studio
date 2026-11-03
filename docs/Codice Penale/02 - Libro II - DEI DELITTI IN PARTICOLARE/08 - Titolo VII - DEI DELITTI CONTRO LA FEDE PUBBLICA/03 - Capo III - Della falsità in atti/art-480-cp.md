@@ -14,8 +14,8 @@ capo_label: "Della falsità in atti"
 sezione: null
 sezione_label: null
 rubrica: "Falsità ideologica commessa dal pubblico ufficiale in certificati o in autorizzazioni amministrative"
-dataVigenza: "20260930"
-ordine: 595
+dataVigenza: "20261103"
+ordine: 598
 ---
 
 # Art. 480 - ***Falsità ideologica commessa dal pubblico ufficiale in certificati o in autorizzazioni amministrative***

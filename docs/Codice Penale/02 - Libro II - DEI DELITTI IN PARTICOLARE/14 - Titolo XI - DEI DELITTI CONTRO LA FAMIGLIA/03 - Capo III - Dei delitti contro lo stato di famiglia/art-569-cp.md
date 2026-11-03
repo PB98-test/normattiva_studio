@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro lo stato di famiglia"
 sezione: null
 sezione_label: null
 rubrica: "Pena accessoria"
-dataVigenza: "20260930"
-ordine: 729
+dataVigenza: "20261103"
+ordine: 732
 ---
 
 # Art. 569 - ***Pena accessoria***

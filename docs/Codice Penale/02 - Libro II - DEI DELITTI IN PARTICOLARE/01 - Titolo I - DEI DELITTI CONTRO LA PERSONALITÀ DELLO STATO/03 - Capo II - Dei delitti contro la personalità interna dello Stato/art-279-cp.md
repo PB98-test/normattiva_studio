@@ -15,8 +15,8 @@ sezione: null
 sezione_label: null
 rubrica: null
 abrogato: true
-dataVigenza: "20260914"
-ordine: 322
+dataVigenza: "20261103"
+ordine: 324
 ---
 
 # Art. 279 - *(Omissis)*

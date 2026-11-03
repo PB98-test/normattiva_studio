@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro il patrimonio mediante violenza alle cose o alle
 sezione: null
 sezione_label: null
 rubrica: "Danneggiamento di sistemi informatici o telematici di pubblico interesse"
-dataVigenza: "20260930"
-ordine: 877
+dataVigenza: "20261103"
+ordine: 881
 ---
 
 # Art. 635-quinquies - ***Danneggiamento di sistemi informatici o telematici di pubblico interesse***

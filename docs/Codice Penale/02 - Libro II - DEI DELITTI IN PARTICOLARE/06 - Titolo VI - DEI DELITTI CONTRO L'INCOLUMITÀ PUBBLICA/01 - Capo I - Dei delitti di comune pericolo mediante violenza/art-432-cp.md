@@ -14,8 +14,8 @@ capo_label: "Dei delitti di comune pericolo mediante violenza"
 sezione: null
 sezione_label: null
 rubrica: "Attentati alla sicurezza dei trasporti"
-dataVigenza: "20261016"
-ordine: 524
+dataVigenza: "20261103"
+ordine: 527
 ---
 
 # Art. 432 - ***Attentati alla sicurezza dei trasporti***

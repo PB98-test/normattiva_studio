@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la libertà individuale Sezione 1a Dei delitti c
 sezione: "I-bis"
 sezione_label: "Dei delitti contro l'eguaglianza"
 rubrica: "Minaccia"
-dataVigenza: "20261016"
-ordine: 826
+dataVigenza: "20261103"
+ordine: 829
 ---
 
 # Art. 612 - ***Minaccia***

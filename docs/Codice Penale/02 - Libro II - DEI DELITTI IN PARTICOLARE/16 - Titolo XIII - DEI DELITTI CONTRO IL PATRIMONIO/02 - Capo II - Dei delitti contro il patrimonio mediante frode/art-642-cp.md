@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro il patrimonio mediante frode"
 sezione: null
 sezione_label: null
 rubrica: "Fraudolento danneggiamento dei beni assicurati e mutilazione fraudolenta della propria persona"
-dataVigenza: "20260930"
-ordine: 890
+dataVigenza: "20261103"
+ordine: 894
 ---
 
 # Art. 642 - ***Fraudolento danneggiamento dei beni assicurati e mutilazione fraudolenta della propria persona***

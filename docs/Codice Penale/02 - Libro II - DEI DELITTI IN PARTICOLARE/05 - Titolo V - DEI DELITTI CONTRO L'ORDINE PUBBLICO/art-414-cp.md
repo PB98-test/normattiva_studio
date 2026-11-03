@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Istigazione a delinquere"
-dataVigenza: "20261016"
-ordine: 497
+dataVigenza: "20261103"
+ordine: 499
 ---
 
 # Art. 414 - ***Istigazione a delinquere***

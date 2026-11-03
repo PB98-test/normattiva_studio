@@ -14,8 +14,8 @@ capo_label: "Delitti contro la politica estera e la sicurezza comune dell'Unione
 sezione: null
 sezione_label: null
 rubrica: "Giurisdizione"
-dataVigenza: "20260914"
-ordine: 318
+dataVigenza: "20261103"
+ordine: 320
 ---
 
 # Art. 275-decies - ***Giurisdizione***

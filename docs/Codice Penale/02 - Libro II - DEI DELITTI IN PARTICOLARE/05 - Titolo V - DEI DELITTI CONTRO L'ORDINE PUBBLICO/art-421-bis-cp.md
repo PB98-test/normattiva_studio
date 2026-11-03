@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Pubblica intimidazione con uso di armi"
-dataVigenza: "20260914"
-ordine: 510
+dataVigenza: "20261103"
+ordine: 513
 ---
 
 # Art. 421-bis - ***Pubblica intimidazione con uso di armi***

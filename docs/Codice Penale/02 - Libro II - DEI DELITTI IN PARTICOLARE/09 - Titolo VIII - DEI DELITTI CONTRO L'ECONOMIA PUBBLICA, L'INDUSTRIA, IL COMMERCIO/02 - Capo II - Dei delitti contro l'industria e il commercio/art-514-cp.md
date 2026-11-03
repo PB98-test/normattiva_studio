@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'industria e il commercio"
 sezione: null
 sezione_label: null
 rubrica: "Frodi contro le industrie nazionali"
-dataVigenza: "20260930"
-ordine: 640
+dataVigenza: "20261103"
+ordine: 643
 ---
 
 # Art. 514 - ***Frodi contro le industrie nazionali***

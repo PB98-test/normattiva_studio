@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la personalità internazionale dello Stato"
 sezione: null
 sezione_label: null
 rubrica: "Partecipazione a prestiti a favore del nemico"
-dataVigenza: "20260914"
-ordine: 272
+dataVigenza: "20261103"
+ordine: 274
 ---
 
 # Art. 249 - ***Partecipazione a prestiti a favore del nemico***

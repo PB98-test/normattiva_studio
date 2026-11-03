@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la personalità interna dello Stato"
 sezione: null
 sezione_label: null
 rubrica: "Atto di terrorismo con ordigni micidiali o esplosivi"
-dataVigenza: "20260930"
-ordine: 324
+dataVigenza: "20261103"
+ordine: 326
 ---
 
 # Art. 280-bis - ***Atto di terrorismo con ordigni micidiali o esplosivi***

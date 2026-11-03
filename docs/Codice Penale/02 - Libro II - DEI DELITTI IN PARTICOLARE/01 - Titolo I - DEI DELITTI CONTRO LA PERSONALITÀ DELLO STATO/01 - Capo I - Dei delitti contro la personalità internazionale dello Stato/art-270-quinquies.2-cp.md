@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la personalità internazionale dello Stato"
 sezione: null
 sezione_label: null
 rubrica: "Sottrazione di beni o denaro sottoposti a sequestro"
-dataVigenza: "20260914"
-ordine: 301
+dataVigenza: "20261103"
+ordine: 303
 ---
 
 # Art. 270-quinquies.2 - ***Sottrazione di beni o denaro sottoposti a sequestro***

@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la personalità internazionale dello Stato"
 sezione: null
 sezione_label: null
 rubrica: "Detenzione di materiale con finalità di terrorismo"
-dataVigenza: "20260914"
-ordine: 302
+dataVigenza: "20261103"
+ordine: 304
 ---
 
 # Art. 270-quinquies.3 - ***Detenzione di materiale con finalità di terrorismo***

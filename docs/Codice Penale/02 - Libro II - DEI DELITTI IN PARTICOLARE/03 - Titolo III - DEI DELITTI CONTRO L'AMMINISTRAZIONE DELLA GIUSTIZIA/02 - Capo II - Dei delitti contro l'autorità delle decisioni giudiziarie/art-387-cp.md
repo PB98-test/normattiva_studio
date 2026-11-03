@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'autorità delle decisioni giudiziarie"
 sezione: null
 sezione_label: null
 rubrica: "Colpa del custode"
-dataVigenza: "20260914"
-ordine: 464
+dataVigenza: "20261103"
+ordine: 466
 ---
 
 # Art. 387 - ***Colpa del custode***

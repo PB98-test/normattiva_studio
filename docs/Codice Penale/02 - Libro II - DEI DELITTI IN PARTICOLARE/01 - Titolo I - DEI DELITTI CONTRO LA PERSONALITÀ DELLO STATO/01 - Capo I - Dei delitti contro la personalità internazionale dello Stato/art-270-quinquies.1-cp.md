@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la personalità internazionale dello Stato"
 sezione: null
 sezione_label: null
 rubrica: "Finanziamento di condotte con finalità di terrorismo"
-dataVigenza: "20260914"
-ordine: 300
+dataVigenza: "20261103"
+ordine: 302
 ---
 
 # Art. 270-quinquies.1 - ***Finanziamento di condotte con finalità di terrorismo***

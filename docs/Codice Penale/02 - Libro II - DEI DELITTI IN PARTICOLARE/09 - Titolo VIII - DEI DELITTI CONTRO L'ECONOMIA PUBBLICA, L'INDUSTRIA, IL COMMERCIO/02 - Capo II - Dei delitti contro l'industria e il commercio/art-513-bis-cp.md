@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'industria e il commercio"
 sezione: null
 sezione_label: null
 rubrica: "Illecita concorrenza con minaccia o violenza"
-dataVigenza: "20261016"
-ordine: 639
+dataVigenza: "20261103"
+ordine: 642
 ---
 
 # Art. 513-bis - ***Illecita concorrenza con minaccia o violenza***

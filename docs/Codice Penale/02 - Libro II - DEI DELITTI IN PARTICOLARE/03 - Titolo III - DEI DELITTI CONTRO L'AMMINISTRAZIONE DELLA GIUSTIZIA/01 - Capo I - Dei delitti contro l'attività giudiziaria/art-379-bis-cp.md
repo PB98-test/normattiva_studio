@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'attività giudiziaria"
 sezione: null
 sezione_label: null
 rubrica: "Rivelazione di segreti inerenti a un procedimento penale"
-dataVigenza: "20261016"
-ordine: 453
+dataVigenza: "20261103"
+ordine: 455
 ---
 
 # Art. 379-bis - ***Rivelazione di segreti inerenti a un procedimento penale***

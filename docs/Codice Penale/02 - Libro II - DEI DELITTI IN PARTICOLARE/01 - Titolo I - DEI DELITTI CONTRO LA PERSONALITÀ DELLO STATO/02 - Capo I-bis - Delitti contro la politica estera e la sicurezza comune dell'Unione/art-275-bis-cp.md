@@ -14,8 +14,8 @@ capo_label: "Delitti contro la politica estera e la sicurezza comune dell'Unione
 sezione: null
 sezione_label: null
 rubrica: "Violazione delle misure restrittive dell'Unione europea"
-dataVigenza: "20260914"
-ordine: 310
+dataVigenza: "20261103"
+ordine: 312
 ---
 
 # Art. 275-bis - ***Violazione delle misure restrittive dell'Unione europea***

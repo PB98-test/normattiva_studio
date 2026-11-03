@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'assistenza famigliare"
 sezione: null
 sezione_label: null
 rubrica: "Inosservanza dell'obbligo dell'istruzione dei minori"
-dataVigenza: "20260930"
-ordine: 732
+dataVigenza: "20261103"
+ordine: 735
 ---
 
 # Art. 570-ter - ***Inosservanza dell'obbligo dell'istruzione dei minori***

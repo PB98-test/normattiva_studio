@@ -15,8 +15,8 @@ sezione: null
 sezione_label: null
 rubrica: null
 abrogato: true
-dataVigenza: "20260914"
-ordine: 306
+dataVigenza: "20261103"
+ordine: 308
 ---
 
 # Art. 272 - *(Omissis)*

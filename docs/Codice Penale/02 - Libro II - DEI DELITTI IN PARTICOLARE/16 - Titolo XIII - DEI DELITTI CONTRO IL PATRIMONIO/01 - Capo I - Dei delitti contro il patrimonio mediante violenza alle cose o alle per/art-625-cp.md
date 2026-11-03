@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro il patrimonio mediante violenza alle cose o alle
 sezione: null
 sezione_label: null
 rubrica: "Circostanze aggravanti"
-dataVigenza: "20261016"
-ordine: 858
+dataVigenza: "20261103"
+ordine: 861
 ---
 
 # Art. 625 - ***Circostanze aggravanti***

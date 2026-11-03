@@ -14,8 +14,8 @@ capo_label: "Dei delitti dei privati contro la pubblica Amministrazione"
 sezione: null
 sezione_label: null
 rubrica: "Turbata libertà degli incanti"
-dataVigenza: "20261016"
-ordine: 421
+dataVigenza: "20261103"
+ordine: 423
 ---
 
 # Art. 353 - ***Turbata libertà degli incanti***

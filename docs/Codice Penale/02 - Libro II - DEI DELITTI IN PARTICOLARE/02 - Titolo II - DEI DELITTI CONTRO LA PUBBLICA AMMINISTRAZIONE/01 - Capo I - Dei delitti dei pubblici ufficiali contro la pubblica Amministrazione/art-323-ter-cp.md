@@ -14,8 +14,8 @@ capo_label: "Dei delitti dei pubblici ufficiali contro la pubblica Amministrazio
 sezione: null
 sezione_label: null
 rubrica: "Causa di non punibilità"
-dataVigenza: "20260914"
-ordine: 385
+dataVigenza: "20261103"
+ordine: 387
 ---
 
 # Art. 323-ter - ***Causa di non punibilità***

@@ -14,8 +14,8 @@ capo_label: "Della falsità in atti"
 sezione: null
 sezione_label: null
 rubrica: "Falsità commesse da pubblici impiegati incaricati di un servizio pubblico"
-dataVigenza: "20260930"
-ordine: 609
+dataVigenza: "20261103"
+ordine: 612
 ---
 
 # Art. 493 - ***Falsità commesse da pubblici impiegati incaricati di un servizio pubblico***

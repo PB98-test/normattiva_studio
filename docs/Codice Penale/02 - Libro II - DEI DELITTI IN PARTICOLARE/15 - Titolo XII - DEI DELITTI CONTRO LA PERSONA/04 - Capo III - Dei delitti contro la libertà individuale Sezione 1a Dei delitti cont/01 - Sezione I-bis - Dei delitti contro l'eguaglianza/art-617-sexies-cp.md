@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la libertà individuale Sezione 1a Dei delitti c
 sezione: "I-bis"
 sezione_label: "Dei delitti contro l'eguaglianza"
 rubrica: "Falsificazione, alterazione o soppressione del contenuto di comunicazioni informatiche o telematiche"
-dataVigenza: "20260930"
-ordine: 845
+dataVigenza: "20261103"
+ordine: 848
 ---
 
 # Art. 617-sexies - ***Falsificazione, alterazione o soppressione del contenuto di comunicazioni informatiche o telematiche***

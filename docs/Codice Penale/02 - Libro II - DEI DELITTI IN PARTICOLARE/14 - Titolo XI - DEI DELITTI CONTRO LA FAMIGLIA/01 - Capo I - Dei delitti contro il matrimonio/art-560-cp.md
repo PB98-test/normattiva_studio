@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro il matrimonio"
 sezione: null
 sezione_label: null
 rubrica: "Concubinato"
-dataVigenza: "20260930"
-ordine: 720
+dataVigenza: "20261103"
+ordine: 723
 ---
 
 # Art. 560 - ***Concubinato***

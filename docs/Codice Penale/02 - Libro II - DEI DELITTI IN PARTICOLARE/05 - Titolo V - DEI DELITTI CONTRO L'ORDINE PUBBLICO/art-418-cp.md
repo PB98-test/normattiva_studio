@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Assistenza agli associati"
-dataVigenza: "20261016"
-ordine: 506
+dataVigenza: "20261103"
+ordine: 508
 ---
 
 # Art. 418 - ***Assistenza agli associati***

@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Falsificazione in scrittura privata relativa a beni culturali"
-dataVigenza: "20260930"
-ordine: 660
+dataVigenza: "20261103"
+ordine: 663
 ---
 
 # Art. 518-octies - ***Falsificazione in scrittura privata relativa a beni culturali***

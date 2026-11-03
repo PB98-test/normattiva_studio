@@ -14,8 +14,8 @@ capo_label: "Della falsità personale"
 sezione: null
 sezione_label: null
 rubrica: "Possesso di segni distintivi contraffatti"
-dataVigenza: "20260930"
-ordine: 620
+dataVigenza: "20261103"
+ordine: 623
 ---
 
 # Art. 497-ter - ***Possesso di segni distintivi contraffatti***

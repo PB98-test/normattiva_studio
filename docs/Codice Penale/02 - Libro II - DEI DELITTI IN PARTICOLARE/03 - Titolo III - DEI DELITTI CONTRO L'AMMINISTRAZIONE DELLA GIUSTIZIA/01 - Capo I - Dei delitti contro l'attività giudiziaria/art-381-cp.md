@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'attività giudiziaria"
 sezione: null
 sezione_label: null
 rubrica: "Altre infedeltà del patrocinatore o del consulente tecnico"
-dataVigenza: "20260914"
-ordine: 455
+dataVigenza: "20261103"
+ordine: 457
 ---
 
 # Art. 381 - ***Altre infedeltà del patrocinatore o del consulente tecnico***

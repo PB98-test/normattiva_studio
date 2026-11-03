@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la personalità interna dello Stato"
 sezione: null
 sezione_label: null
 rubrica: "Vilipendio alla nazione italiana"
-dataVigenza: "20260914"
-ordine: 339
+dataVigenza: "20261103"
+ordine: 341
 ---
 
 # Art. 291 - ***Vilipendio alla nazione italiana***

@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'attività giudiziaria"
 sezione: null
 sezione_label: null
 rubrica: "False dichiarazioni al difensore"
-dataVigenza: "20261016"
-ordine: 442
+dataVigenza: "20261103"
+ordine: 444
 ---
 
 # Art. 371-ter - ***False dichiarazioni al difensore***

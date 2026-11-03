@@ -14,8 +14,8 @@ capo_label: "Dei delitti dei pubblici ufficiali contro la pubblica Amministrazio
 sezione: null
 sezione_label: null
 rubrica: "Pene accessorie"
-dataVigenza: "20260914"
-ordine: 370
+dataVigenza: "20261103"
+ordine: 372
 ---
 
 # Art. 317-bis - ***Pene accessorie***

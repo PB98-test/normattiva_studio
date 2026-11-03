@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'onore"
 sezione: null
 sezione_label: null
 rubrica: "Esclusione della prova liberatoria"
-dataVigenza: "20261016"
-ordine: 777
+dataVigenza: "20261103"
+ordine: 780
 ---
 
 # Art. 596 - ***Esclusione della prova liberatoria***

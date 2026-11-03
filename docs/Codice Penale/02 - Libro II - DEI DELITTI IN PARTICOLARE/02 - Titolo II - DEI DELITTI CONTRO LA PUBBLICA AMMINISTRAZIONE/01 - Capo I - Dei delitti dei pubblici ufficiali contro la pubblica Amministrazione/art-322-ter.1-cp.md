@@ -14,8 +14,8 @@ capo_label: "Dei delitti dei pubblici ufficiali contro la pubblica Amministrazio
 sezione: null
 sezione_label: null
 rubrica: "Custodia giudiziale dei beni sequestrati"
-dataVigenza: "20260914"
-ordine: 381
+dataVigenza: "20261103"
+ordine: 383
 ---
 
 # Art. 322-ter.1 - ***Custodia giudiziale dei beni sequestrati***

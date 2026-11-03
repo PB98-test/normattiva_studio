@@ -15,8 +15,8 @@ sezione: "III"
 sezione_label: "Delle contravvenzioni concernenti la prevenzione di talune specie di reati § 1 Delle contravvenzioni concernenti la tutela preventiva dei segreti"
 rubrica: null
 abrogato: true
-dataVigenza: "20261016"
-ordine: 965
+dataVigenza: "20261103"
+ordine: 969
 ---
 
 # Art. 706 - *(Omissis)*

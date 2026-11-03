@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'economia pubblica"
 sezione: null
 sezione_label: null
 rubrica: "Arbitraria invasione e occupazione di aziende agricole o industriali. Sabotaggio"
-dataVigenza: "20261016"
-ordine: 632
+dataVigenza: "20261103"
+ordine: 635
 ---
 
 # Art. 508 - ***Arbitraria invasione e occupazione di aziende agricole o industriali. Sabotaggio***

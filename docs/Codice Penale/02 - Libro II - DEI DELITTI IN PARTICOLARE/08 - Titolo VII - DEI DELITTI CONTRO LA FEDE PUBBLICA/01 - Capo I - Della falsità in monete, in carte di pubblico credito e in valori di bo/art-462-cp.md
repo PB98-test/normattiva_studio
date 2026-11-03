@@ -14,8 +14,8 @@ capo_label: "Della falsità in monete, in carte di pubblico credito e in valori 
 sezione: null
 sezione_label: null
 rubrica: "Falsificazione di biglietti di pubbliche imprese di trasporto"
-dataVigenza: "20260930"
-ordine: 573
+dataVigenza: "20261103"
+ordine: 576
 ---
 
 # Art. 462 - ***Falsificazione di biglietti di pubbliche imprese di trasporto***

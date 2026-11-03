@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro l'autorità delle decisioni giudiziarie"
 sezione: null
 sezione_label: null
 rubrica: "Accesso indebito a dispositivi idonei alla comunicazione da parte di soggetti detenuti"
-dataVigenza: "20260914"
-ordine: 473
+dataVigenza: "20261103"
+ordine: 475
 ---
 
 # Art. 391-ter - ***Accesso indebito a dispositivi idonei alla comunicazione da parte di soggetti detenuti***

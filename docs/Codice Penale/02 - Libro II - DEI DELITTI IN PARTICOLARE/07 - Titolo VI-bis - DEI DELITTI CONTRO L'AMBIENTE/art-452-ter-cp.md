@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Morte o lesioni come conseguenza del delitto di inquinamento ambientale e di commercio di prodotti inquinanti"
-dataVigenza: "20260930"
-ordine: 550
+dataVigenza: "20261103"
+ordine: 553
 ---
 
 # Art. 452-ter - ***Morte o lesioni come conseguenza del delitto di inquinamento ambientale e di commercio di prodotti inquinanti***

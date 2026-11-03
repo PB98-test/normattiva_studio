@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Distruzione, dispersione, deterioramento, deturpamento, imbrattamento e uso illecito di beni culturali o paesaggistici"
-dataVigenza: "20260930"
-ordine: 664
+dataVigenza: "20261103"
+ordine: 667
 ---
 
 # Art. 518-duodecies - ***Distruzione, dispersione, deterioramento, deturpamento, imbrattamento e uso illecito di beni culturali o paesaggistici***

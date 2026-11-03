@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la vita e l'incolumità individuale"
 sezione: null
 sezione_label: null
 rubrica: "Omicidio stradale o nautico"
-dataVigenza: "20260930"
-ordine: 762
+dataVigenza: "20261103"
+ordine: 765
 ---
 
 # Art. 589-bis - ***Omicidio stradale o nautico***

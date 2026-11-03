@@ -14,8 +14,8 @@ capo_label: "Della falsità in atti"
 sezione: null
 sezione_label: null
 rubrica: "Copie autentiche che tengono luogo degli originali mancanti"
-dataVigenza: "20261016"
-ordine: 608
+dataVigenza: "20261103"
+ordine: 611
 ---
 
 # Art. 492 - ***Copie autentiche che tengono luogo degli originali mancanti***

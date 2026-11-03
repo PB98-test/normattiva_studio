@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la pietà dei defunti"
 sezione: null
 sezione_label: null
 rubrica: "Uso illegittimo di cadavere"
-dataVigenza: "20260914"
-ordine: 496
+dataVigenza: "20261103"
+ordine: 498
 ---
 
 # Art. 413 - ***Uso illegittimo di cadavere***

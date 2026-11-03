@@ -14,8 +14,8 @@ capo_label: "Dei delitti dei pubblici ufficiali contro la pubblica Amministrazio
 sezione: null
 sezione_label: null
 rubrica: "Circostanze attenuanti"
-dataVigenza: "20260914"
-ordine: 384
+dataVigenza: "20261103"
+ordine: 386
 ---
 
 # Art. 323-bis - ***Circostanze attenuanti***

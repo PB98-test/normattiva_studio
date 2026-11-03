@@ -14,8 +14,8 @@ capo_label: "Della falsità in monete, in carte di pubblico credito e in valori 
 sezione: null
 sezione_label: null
 rubrica: "Parificazione delle carte di pubblico credito alle monete"
-dataVigenza: "20260930"
-ordine: 569
+dataVigenza: "20261103"
+ordine: 572
 ---
 
 # Art. 458 - ***Parificazione delle carte di pubblico credito alle monete***

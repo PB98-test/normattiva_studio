@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro la pietà dei defunti"
 sezione: null
 sezione_label: null
 rubrica: "Distruzione, soppressione o sottrazione di cadavere"
-dataVigenza: "20260914"
-ordine: 494
+dataVigenza: "20261103"
+ordine: 496
 ---
 
 # Art. 411 - ***Distruzione, soppressione o sottrazione di cadavere***

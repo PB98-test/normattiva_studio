@@ -14,8 +14,8 @@ capo_label: "Dei delitti dei pubblici ufficiali contro la pubblica Amministrazio
 sezione: null
 sezione_label: null
 rubrica: "Corruzione in atti giudiziari"
-dataVigenza: "20261016"
-ordine: 374
+dataVigenza: "20261103"
+ordine: 376
 ---
 
 # Art. 319-ter - ***Corruzione in atti giudiziari***

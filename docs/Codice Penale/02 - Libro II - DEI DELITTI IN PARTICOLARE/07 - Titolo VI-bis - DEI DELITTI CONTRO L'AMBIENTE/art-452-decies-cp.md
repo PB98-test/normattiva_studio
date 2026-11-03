@@ -14,8 +14,8 @@ capo_label: null
 sezione: null
 sezione_label: null
 rubrica: "Ravvedimento operoso"
-dataVigenza: "20260930"
-ordine: 557
+dataVigenza: "20261103"
+ordine: 560
 ---
 
 # Art. 452-decies - ***Ravvedimento operoso***

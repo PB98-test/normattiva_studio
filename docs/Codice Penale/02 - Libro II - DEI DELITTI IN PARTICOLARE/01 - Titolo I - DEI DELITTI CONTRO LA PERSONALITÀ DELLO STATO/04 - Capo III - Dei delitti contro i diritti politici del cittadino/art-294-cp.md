@@ -14,8 +14,8 @@ capo_label: "Dei delitti contro i diritti politici del cittadino"
 sezione: null
 sezione_label: null
 rubrica: "Attentati contro i diritti politici del cittadino"
-dataVigenza: "20260914"
-ordine: 343
+dataVigenza: "20261103"
+ordine: 345
 ---
 
 # Art. 294 - ***Attentati contro i diritti politici del cittadino***

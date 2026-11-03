@@ -14,8 +14,8 @@ capo_label: "Della falsità in atti"
 sezione: null
 sezione_label: null
 rubrica: "Documenti informatici."
-dataVigenza: "20260930"
-ordine: 607
+dataVigenza: "20261103"
+ordine: 610
 ---
 
 # Art. 491-bis - ***Documenti informatici.***
