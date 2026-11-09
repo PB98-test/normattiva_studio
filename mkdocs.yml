@@ -16,7 +16,7 @@ theme:
   - search.suggest
   - search.highlight
 extra_css:
-- stylesheets/normativa.css?v=9ecefb8a
+- stylesheets/normativa.css?v=7a06331b
 extra_javascript:
 - javascripts/segnalazioni.js?v=1d8dd674
 - javascripts/articoli.js?v=bbea3eba

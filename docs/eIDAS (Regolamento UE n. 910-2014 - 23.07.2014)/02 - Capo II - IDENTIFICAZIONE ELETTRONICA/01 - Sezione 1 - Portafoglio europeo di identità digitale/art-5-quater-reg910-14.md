@@ -14,7 +14,7 @@ capo_label: "IDENTIFICAZIONE ELETTRONICA"
 sezione: "1"
 sezione_label: "Portafoglio europeo di identità digitale"
 rubrica: "Certificazione dei portafogli europei di identità digitale"
-dataVigenza: "20261028"
+dataVigenza: "20261109"
 ordine: 8
 ---
 
@@ -24,7 +24,7 @@ ordine: 8
 
 2\. La certificazione della conformità dei portafogli europei di identità digitale ai requisiti di cui al paragrafo 1 del presente articolo, o di parti di essi, che sono pertinenti in materia di cibersicurezza, è effettuata in conformità dei sistemi europei di certificazione della cibersicurezza adottati a norma del regolamento (UE) 2019/881 del Parlamento europeo e del Consiglio[^nota-4] e menzionati negli atti di esecuzione di cui al paragrafo 6 del presente articolo.
 
-3\. Gli Stati membri istituiscono sistemi nazionali di certificazione secondo i requisiti stabiliti negli atti di esecuzione di cui al paragrafo 6 del presente articolo per i requisiti di cui al paragrafo 1 del presente articolo che non sono pertinenti in materia di cibersicurezza e per i requisiti di cui al paragrafo 1 del presente articolo che sono pertinenti in materia di cibersicurezza nella misura in cui i sistemi di certificazione della cibersicurezza di cui al paragrafo 2 del presente articolo non contemplino, o contemplino solo parzialmente, tali requisiti di cibersicurezza, anche per tali requisiti. Gli Stati membri trasmettono i loro progetti di sistemi nazionali di certificazione al gruppo di cooperazione per l’identità digitale europea istituito a norma dell’[articolo 46 sexies](../../05%20-%20Capo%20bis%20-%20QUADRO%20DI%20GOVERNANCE/art-46-sexies-reg910-14.md), paragrafo 1 (“gruppo di cooperazione”). Il gruppo di cooperazione può formulare pareri e raccomandazioni.
+3\. Gli Stati membri istituiscono sistemi nazionali di certificazione secondo i requisiti stabiliti negli atti di esecuzione di cui al paragrafo 6 del presente articolo per i requisiti di cui al paragrafo 1 del presente articolo che non sono pertinenti in materia di cibersicurezza e per i requisiti di cui al paragrafo 1 del presente articolo che sono pertinenti in materia di cibersicurezza nella misura in cui i sistemi di certificazione della cibersicurezza di cui al paragrafo 2 del presente articolo non contemplino, o contemplino solo parzialmente, tali requisiti di cibersicurezza, anche per tali requisiti. Gli Stati membri trasmettono i loro progetti di sistemi nazionali di certificazione al gruppo di cooperazione per l’identità digitale europea istituito a norma dell’[articolo 46 sexies](../../05%20-%20Capo%20IV-bis%20-%20QUADRO%20DI%20GOVERNANCE/art-46-sexies-reg910-14.md), paragrafo 1 (“gruppo di cooperazione”). Il gruppo di cooperazione può formulare pareri e raccomandazioni.
 
 4\. La certificazione a norma del paragrafo 1 è valida fino a cinque anni, a condizione che sia effettuata una valutazione di vulnerabilità ogni due anni. Qualora sia individuata una vulnerabilità a cui non è posto rimedio ‘in modo tempestivo, la certificazione è annullata.
 

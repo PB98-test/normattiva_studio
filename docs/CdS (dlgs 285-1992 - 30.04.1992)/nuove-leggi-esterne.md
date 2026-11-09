@@ -176,7 +176,7 @@ search:
 - [legge 28 marzo 1991, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-03-28;112)
 - [legge 6 marzo 1976, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-03-06;112)
 - [articoli 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-11-13;727)
-- [regolamento (CEE) n. 3821/85](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31985R3821)
+- [regolamento (CEE) n. 3821/85](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:33821R0085)
 - [art. 1 della legge n. 146 del 1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;146)
 - [articolo 59 del decreto legislativo n. 274 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2000;274)
 - [art. 4, comma 1, lettera b), del decreto-legge 23 maggio 2008, n. 92](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegge:2008-05-23;92)

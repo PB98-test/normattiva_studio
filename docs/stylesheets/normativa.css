@@ -261,6 +261,12 @@ label.md-header__button[for="__search"] {
   letter-spacing: 0.02em;
 }
 
+/* Sezione "Unione europea" tra i codici e le altre leggi (fonti UE, 04/11/2026): caselle come le
+   altre leggi, stessa distanza da "Altre leggi" della griglia dei codici. */
+.doc-grid--ue {
+  margin-bottom: 44px;
+}
+
 /* Intestazione "Altre leggi" col pulsante di ordinamento a destra —
    un'icona sola (due freccette), niente etichetta da spiegare: click
    inverte l'ordine per anno rispetto a quello attuale. */

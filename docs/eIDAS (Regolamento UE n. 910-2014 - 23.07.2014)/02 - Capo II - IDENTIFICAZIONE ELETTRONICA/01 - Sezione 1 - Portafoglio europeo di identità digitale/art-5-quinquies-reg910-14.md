@@ -14,13 +14,13 @@ capo_label: "IDENTIFICAZIONE ELETTRONICA"
 sezione: "1"
 sezione_label: "Portafoglio europeo di identità digitale"
 rubrica: "Pubblicazione di un elenco dei portafogli europei di identità digitale certificati"
-dataVigenza: "20261028"
+dataVigenza: "20261109"
 ordine: 9
 ---
 
 # Art. 5-quinquies - ***Pubblicazione di un elenco dei portafogli europei di identità digitale certificati***
 
-1\. Gli Stati membri informano senza indebito ritardo la Commissione e il gruppo di cooperazione istituito a norma dell’[articolo 46 sexies](../../05%20-%20Capo%20bis%20-%20QUADRO%20DI%20GOVERNANCE/art-46-sexies-reg910-14.md), paragrafo 1, in merito ai portafogli europei di identità digitale che sono stati forniti a norma dell’[articolo 5 bis](art-5-bis-reg910-14.md) e certificati dagli organismi di valutazione della conformità di cui all’[articolo 5 quater](art-5-quater-reg910-14.md), paragrafo 1. Essi informano senza indebito ritardo la Commissione e il gruppo di cooperazione istituito a norma dell’[articolo 46 sexies](../../05%20-%20Capo%20bis%20-%20QUADRO%20DI%20GOVERNANCE/art-46-sexies-reg910-14.md), paragrafo 1, dell’eventuale annullamento di una certificazione e ne indicano i motivi.[^mod-M2]
+1\. Gli Stati membri informano senza indebito ritardo la Commissione e il gruppo di cooperazione istituito a norma dell’[articolo 46 sexies](../../05%20-%20Capo%20IV-bis%20-%20QUADRO%20DI%20GOVERNANCE/art-46-sexies-reg910-14.md), paragrafo 1, in merito ai portafogli europei di identità digitale che sono stati forniti a norma dell’[articolo 5 bis](art-5-bis-reg910-14.md) e certificati dagli organismi di valutazione della conformità di cui all’[articolo 5 quater](art-5-quater-reg910-14.md), paragrafo 1. Essi informano senza indebito ritardo la Commissione e il gruppo di cooperazione istituito a norma dell’[articolo 46 sexies](../../05%20-%20Capo%20IV-bis%20-%20QUADRO%20DI%20GOVERNANCE/art-46-sexies-reg910-14.md), paragrafo 1, dell’eventuale annullamento di una certificazione e ne indicano i motivi.[^mod-M2]
 
 2\. Fatto salvo l’[articolo 5 bis](art-5-bis-reg910-14.md), paragrafo 18, le informazioni fornite dagli Stati membri di cui al paragrafo 1 del presente articolo comprendono almeno:
 

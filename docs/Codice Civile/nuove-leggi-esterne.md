@@ -157,7 +157,7 @@ search:
 - [decreto legislativo n. 58 del 1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1998;58)
 - [decreto legislativo 21 aprile 1993, n. 124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1993-04-21;124)
 - [direttiva 2014/59/UE](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32014L0059)
-- [regolamento (UE) 2021/23](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32023R2021)
+- [regolamento (UE) 2021/23](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32021R0023)
 - [D.Lgs. 31 ottobre 1990, n. 347](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:1990-10-31;347)
 - [D.Lgs. 30 dicembre 2010, n. 235](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decretolegislativo:2010-12-30;235)
 - [legge 24 giugno 1997, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-06-24;196)

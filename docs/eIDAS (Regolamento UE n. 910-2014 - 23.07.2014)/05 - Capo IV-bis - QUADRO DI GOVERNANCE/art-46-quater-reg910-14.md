@@ -9,12 +9,12 @@ libro: null
 libro_label: null
 titolo: null
 titolo_label: null
-capo: "bis"
+capo: "IV-bis"
 capo_label: "QUADRO DI GOVERNANCE"
 sezione: null
 sezione_label: null
 rubrica: "Punti di contatto unici"
-dataVigenza: "20261028"
+dataVigenza: "20261109"
 ordine: 73
 ---
 

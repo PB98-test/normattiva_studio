@@ -16,6 +16,14 @@ title: "NormattivaStudio"
 <a class="doc-card doc-card--civile" href="Codice%20di%20Procedura%20Civile/00%20-%20Indice%20%28cpc%29/" title="Codice di Procedura Civile">CPC</a>
 </div>
 
+<h2 id="unione-europea">Unione europea</h2>
+
+<div class="doc-grid doc-grid--ue">
+<a class="doc-card" href="eIDAS%20%28Regolamento%20UE%20n.%20910-2014%20-%2023.07.2014%29/00%20-%20Indice%20%28reg910-14%29/">eIDAS (Regolamento UE n. 910-2014 - 23.07.2014)</a>
+<a class="doc-card" href="GDPR%20%28Regolamento%20UE%202016-679%20-%2027.04.2016%29/00%20-%20Indice%20%28reg679-16%29/">GDPR (Regolamento UE 2016-679 - 27.04.2016)</a>
+<a class="doc-card" href="AI%20Act%20%28Regolamento%20UE%202024-1689%20-%2013.06.2024%29/00%20-%20Indice%20%28reg1689-24%29/">AI Act (Regolamento UE 2024-1689 - 13.06.2024)</a>
+</div>
+
 <div class="ns-altre-header">
   <h2 id="altre-leggi">Altre leggi</h2>
   <button type="button" class="ns-sort-btn" id="ns-ordina-anno" title="Inverti ordine per anno" aria-label="Inverti ordine per anno">
@@ -67,8 +75,6 @@ title: "NormattivaStudio"
 <a class="doc-card" data-anno="2012" href="Legge%20professionale%20forense%20%28L%20247-2012%20-%2031.12.2012%29/00%20-%20Indice%20%28l247-12%29/">Legge professionale forense (L 247-2012 - 31.12.2012)</a>
 <a class="doc-card" data-anno="2014" href="DM%2055-2014%20-%2010.03.2014/00%20-%20Indice%20%28decre55-14%29/">DM 55-2014 - 10.03.2014</a>
 <a class="doc-card" data-anno="2014" href="Negoziazione%20assistita%20%28Dl%20132-2014%20-%2012.09.2014%29/00%20-%20Indice%20%28dl132-14%29/">Negoziazione assistita (Dl 132-2014 - 12.09.2014)</a>
-<a class="doc-card" data-anno="2014" href="eIDAS%20%28Regolamento%20UE%20n.%20910-2014%20-%2023.07.2014%29/00%20-%20Indice%20%28reg910-14%29/">eIDAS (Regolamento UE n. 910-2014 - 23.07.2014)</a>
-<a class="doc-card" data-anno="2016" href="GDPR%20%28Regolamento%20UE%202016-679%20-%2027.04.2016%29/00%20-%20Indice%20%28reg679-16%29/">GDPR (Regolamento UE 2016-679 - 27.04.2016)</a>
 <a class="doc-card" data-anno="2017" href="Rif.%20Orlando%20%28L%20103-2017%20-%2023.06.2017%29/00%20-%20Indice%20%28l103-17%29/">Rif. Orlando (L 103-2017 - 23.06.2017)</a>
 <a class="doc-card" data-anno="2018" href="Attuazione%20GDPR%20%28Dl%2051-2018%20-%2018.05.2018%29/00%20-%20Indice%20%28dlgs51-18%29/">Attuazione GDPR (Dl 51-2018 - 18.05.2018)</a>
 <a class="doc-card" data-anno="2019" href="Crisi%20d'impresa%20e%20insolvenza%20%28Dlgs%2014-2019%20-%2012.01.2019%29/00%20-%20Indice%20%28dlgs14-19%29/">Crisi d'impresa e insolvenza (Dlgs 14-2019 - 12.01.2019)</a>
@@ -81,7 +87,6 @@ title: "NormattivaStudio"
 <a class="doc-card" data-anno="2023" href="D%20MdG%20217-2023%20-%2029.12.2023/00%20-%20Indice%20%28decre217-23%29/">D MdG 217-2023 - 29.12.2023</a>
 <a class="doc-card" data-anno="2023" href="DM%20110-2023%20-%2007.08.2023/00%20-%20Indice%20%28decre110-23%29/">DM 110-2023 - 07.08.2023</a>
 <a class="doc-card" data-anno="2023" href="Prov.%20DGSIA%20-%2011.07.2023%20%28Portale%20deposito%20atti%20penali%20PDP%29/00%20-%20Indice%20%28dgsia23%29/">Prov. DGSIA - 11.07.2023 (Portale deposito atti penali PDP)</a>
-<a class="doc-card" data-anno="2024" href="AI%20Act%20%28Regolamento%20UE%202024-1689%20-%2013.06.2024%29/00%20-%20Indice%20%28reg1689-24%29/">AI Act (Regolamento UE 2024-1689 - 13.06.2024)</a>
 <a class="doc-card" data-anno="2024" href="Correttivo%20Cartabia%20%28Dlgs%20164-2024%20-%2031.10.2024%29/00%20-%20Indice%20%28dlgs164-24%29/">Correttivo Cartabia (Dlgs 164-2024 - 31.10.2024)</a>
 <a class="doc-card" data-anno="2024" href="D%20MdG%20206-2024%20-%2027.12.2024/00%20-%20Indice%20%28decre206-24%29/">D MdG 206-2024 - 27.12.2024</a>
 <a class="doc-card" data-anno="2024" href="Prov.%20DGSIA%20-%2007.08.2024%20%28Specifiche%20tecniche%20art.%2034%20DM%2044-2011%29/00%20-%20Indice%20%28dgsia24%29/">Prov. DGSIA - 07.08.2024 (Specifiche tecniche art. 34 DM 44-2011)</a>

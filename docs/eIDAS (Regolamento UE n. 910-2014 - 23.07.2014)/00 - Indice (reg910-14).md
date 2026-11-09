@@ -112,12 +112,12 @@ aliases:
 #### Capo IV - DOCUMENTI ELETTRONICI
 - [Art. 46](04%20-%20Capo%20IV%20-%20DOCUMENTI%20ELETTRONICI/art-46-reg910-14.md) - Effetti giuridici dei documenti elettronici
 
-#### Capo bis - QUADRO DI GOVERNANCE
-- [Art. 46-bis](05%20-%20Capo%20bis%20-%20QUADRO%20DI%20GOVERNANCE/art-46-bis-reg910-14.md) - Vigilanza sul quadro relativo al portafoglio europeo di identità digitale
-- [Art. 46-ter](05%20-%20Capo%20bis%20-%20QUADRO%20DI%20GOVERNANCE/art-46-ter-reg910-14.md) - Vigilanza dei servizi fiduciari
-- [Art. 46-quater](05%20-%20Capo%20bis%20-%20QUADRO%20DI%20GOVERNANCE/art-46-quater-reg910-14.md) - Punti di contatto unici
-- [Art. 46-quinquies](05%20-%20Capo%20bis%20-%20QUADRO%20DI%20GOVERNANCE/art-46-quinquies-reg910-14.md) - Assistenza reciproca
-- [Art. 46-sexies](05%20-%20Capo%20bis%20-%20QUADRO%20DI%20GOVERNANCE/art-46-sexies-reg910-14.md) - Gruppo di cooperazione per l’identità digitale europea
+#### Capo IV-bis - QUADRO DI GOVERNANCE
+- [Art. 46-bis](05%20-%20Capo%20IV-bis%20-%20QUADRO%20DI%20GOVERNANCE/art-46-bis-reg910-14.md) - Vigilanza sul quadro relativo al portafoglio europeo di identità digitale
+- [Art. 46-ter](05%20-%20Capo%20IV-bis%20-%20QUADRO%20DI%20GOVERNANCE/art-46-ter-reg910-14.md) - Vigilanza dei servizi fiduciari
+- [Art. 46-quater](05%20-%20Capo%20IV-bis%20-%20QUADRO%20DI%20GOVERNANCE/art-46-quater-reg910-14.md) - Punti di contatto unici
+- [Art. 46-quinquies](05%20-%20Capo%20IV-bis%20-%20QUADRO%20DI%20GOVERNANCE/art-46-quinquies-reg910-14.md) - Assistenza reciproca
+- [Art. 46-sexies](05%20-%20Capo%20IV-bis%20-%20QUADRO%20DI%20GOVERNANCE/art-46-sexies-reg910-14.md) - Gruppo di cooperazione per l’identità digitale europea
 
 #### Capo V - DELEGA DI POTERE E DISPOSIZIONI DI ESECUZIONE
 - [Art. 47](06%20-%20Capo%20V%20-%20DELEGA%20DI%20POTERE%20E%20DISPOSIZIONI%20DI%20ESECUZIONE/art-47-reg910-14.md) - Esercizio della delega
